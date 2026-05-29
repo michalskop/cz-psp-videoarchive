@@ -1,0 +1,123 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:01:36",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2808",
+    "name": "Tisková konference ODS na téma ceny pohonných hmot a veřejnoprávních médií",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-08T13:01",
+    "end_date": "2026-04-08T13:29",
+    "sources": [
+      "final/event_2808_2026-04-08_tiskova-konference-ods-na-tema-ceny-pohonnych-hmot.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se zaměřila na tři hlavní okruhy: obranu nezávislosti veřejnoprávních médií, kritiku vládní politiky v oblasti cen pohonných hmot a návrhy na reformu vzdělávacího systému. Cílem vystoupení bylo deklarovat opoziční postoj ODS vůči vládním krokům, které strana vnímá jako ohrožení demokratických institucí a tržního prostředí.\n\nPředstavitelé ODS zdůraznili potřebu zachování koncesionářských poplatků jako pojistky nezávislosti médií a představili plán na blokování vládních legislativních změn v této oblasti. V oblasti školství kritizovali nedostatečnou koncepčnost ministra školství a představili vlastní vizi modernizace přijímacího řízení a maturit.",
+    "main_points": [
+      "**Martin Kupka (ODS)**\n* **Veřejnoprávní média:** Odmítl jakoukoli podporu ODS pro kontroverzní kandidáty do Rady ČT (Matocha, Veselý, Bradáč, Šlégr). Přiznal chybu při hlasování o Stanislavu Berkovcovi a slíbil nápravu v Poslanecké sněmovně.\n* **Strategie:** Oznámil spuštění webu *hlasprorozhlas.cz* a připravenost k obstrukcím (včetně „nocování ve Sněmovně“) proti zrušení koncesionářských poplatků.\n* **Pohonné hmoty:** Kritizoval zastropování marží u čerpacích stanic jako chybný zásah do trhu, který vede k růstu cen. Označil to za „atomovou bombu“ hozenou do trhu.",
+      "**Martin Baxa (ODS)**\n* **Mediální reforma:** Obhajoval „velkou mediální novelu“ z minulého období, která stabilizovala financování médií a zavedla memoranda.\n* **Kritika vlády:** Varoval před plánovanou reformou financování ČT, kterou připravuje ministr Klempíř, a označil ji za útok na nezávislost médií.\n* **Hlasování:** Vysvětlil, že podpora některých kandidátů v mediálním výboru byla pokusem o „strategii menšího zla“, která se však ukázala jako chybná.",
+      "**Renata Zajíčková (ODS)**\n* **Přijímací zkoušky:** Kritizovala ministra Plagu za „kosmetické změny“ a recyklaci nápadů ODS. Navrhuje prodloužení povinného vzdělávání na střední školu a zefektivnění přechodu mezi stupni.\n* **Maturity:** Navrhla zavedení „malé maturity“ (ukončení povinného vzdělávání) a postupného získávání certifikátů namísto jednorázové zkoušky ve 4. ročníku.\n* **Financování:** Prosazuje změnu financování škol na žáka, nikoliv na počet odučených hodin."
+    ],
+    "outcome": "Opoziční ODS se jasně vymezila proti vládní koalici v otázce médií a ekonomických zásahů. Strana deklarovala, že bude využívat všechny parlamentní nástroje (včetně obstrukcí) k zablokování zrušení koncesionářských poplatků. V oblasti školství vyzvala ministra k transparentnímu jednání s odbornou veřejností a k přípravě reforem s výhledem na rok 2027.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické neúplnosti způsobené automatickým přepisem, které však nemají vliv na srozumitelnost obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Ministerstvo kultury",
+      "Ministerstvo školství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pod mým vedením nebude ODS hrát na schovávanou, můj tým umí přijmout odpovědnost i za špatná rozhodnutí.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:06",
+      "screenshot_path": "summaries/screenshots/event_2808_highlight_00.jpg",
+      "context": "Jde o subjektivní politické prohlášení o politické kultuře a odpovědnosti, které nelze fakticky ověřit. Hodnocení „špatných rozhodnutí“ je věcí politického názoru a voličské preference."
+    },
+    {
+      "text": "Budeme blokovat jednání, které bude iniciovat současná vládní koalice ke zrušení poplatků, využijeme úplně všechny nástroje, které opozice má.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:53",
+      "screenshot_path": "summaries/screenshots/event_2808_highlight_01.jpg",
+      "context": "Jednací řád Poslanecké sněmovny (zákon č. 90/1995 Sb.) umožňuje opozici využívat obstrukční nástroje, jako jsou dlouhé projevy nebo návrhy na přerušení schůze. Zda k blokaci skutečně dojde, závisí na politickém rozhodnutí klubu."
+    },
+    {
+      "text": "V době umělé inteligence se střední vzdělávání už musí stát absolutní nutností, je to základní standard pro výbavu každého mladého člověka.",
+      "type": "paraphrase",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/11:28",
+      "screenshot_path": "summaries/screenshots/event_2808_highlight_02.jpg",
+      "context": "Vzdělávací politika je věcí politické debaty o prioritách státu. Podle dat ČSÚ a MŠMT je podíl osob se středním vzděláním s maturitou či vyšším vzděláním v ČR dlouhodobě vysoký, nicméně debata o povinném středoškolském vzdělání je předmětem aktuálních diskusí o reformě školství."
+    },
+    {
+      "text": "Zastropování marží přineslo efekt, který všichni dobře známe – všechny motivujete k tomu, aby se přiblížili k tomu cenovému stropu.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/16:45",
+      "screenshot_path": "summaries/screenshots/event_2808_highlight_03.jpg",
+      "context": "Ekonomická teorie (např. efekt cenového stropu) naznačuje, že stanovení maximální ceny může vést k tomu, že se tržní cena ustálí na této úrovni, pokud je strop nastaven pod rovnovážnou cenou. Empirické dopady zastropování marží jsou předmětem odborných analýz, např. ze strany MF ČR či nezávislých ekonomů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Martin Kupka (ODS)\n* **Co:** Oznámení, že ODS bude blokovat jednání o zrušení poplatků a je připravena „nocovat ve Sněmovně“ a vytáhnout spacáky.\n* **Proč:** Je to politicky citlivé, protože jde o vyhrocenou formu parlamentního boje, která může vést k paralýze legislativního procesu.\n* **Čas:** 1/02:00",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:00",
+      "screenshot_path": "summaries/screenshots/event_2808_controversy_00.jpg",
+      "context": "Blokování schůze (tzv. obstrukce) je legitimní parlamentní nástroj opozice. „Nocování ve Sněmovně“ je mediálně známá forma protestu, kterou v minulosti využily různé politické strany k vyjádření nesouhlasu s projednávaným bodem."
+    },
+    {
+      "statement": "* **Kdo:** Martin Kupka (ODS)\n* **Co:** Označení vládního zastropování marží u pohonných hmot za „atomovou bombu“.\n* **Proč:** Silná rétorika kritizující ekonomické rozhodnutí vlády, které podle ODS poškozuje tržní prostředí.\n* **Čas:** 1/16:03",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/16:03",
+      "screenshot_path": "summaries/screenshots/event_2808_controversy_01.jpg",
+      "context": "Označení „atomová bomba“ je metaforická politická hyperbola pro kritiku zásahu do tržního prostředí. Dopady regulace marží na ceny pohonných hmot byly v daném období analyzovány Ministerstvem průmyslu a obchodu a experty, přičemž závěry o efektivitě se lišily dle zvolené metodiky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

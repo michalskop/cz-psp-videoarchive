@@ -2,6 +2,7 @@ import Image from "next/image";
 import type { ControversialItem } from "@/lib/types";
 import { formatDate } from "@/lib/types";
 import { PspLogotype } from "./PspLogotype";
+import { applyBold, RenderMd } from "./RenderMd";
 
 interface Props {
   item: ControversialItem;
@@ -60,20 +61,24 @@ export function ControversyCard({ item, eventName, category, date }: Props) {
           {/* Statement */}
           <div className="font-slab text-navy-9 leading-snug">
             {title && (
-              <p className="text-xl font-bold mb-2">{title}</p>
+              <p className="text-xl font-bold mb-2">{applyBold(title)}</p>
             )}
             {bullets.length > 0 && (
               <dl className="font-sans text-sm text-foreground leading-relaxed space-y-1">
                 {bullets.map(({ key, value }, i) => (
                   <div key={i} className="flex gap-2">
                     <dt className="font-semibold flex-shrink-0 text-orange-6">{key}:</dt>
-                    <dd>{value}</dd>
+                    <dd>{applyBold(value)}</dd>
                   </div>
                 ))}
               </dl>
             )}
             {!title && bullets.length === 0 && (
-              <p className="text-xl font-bold">{item.statement}</p>
+              <RenderMd
+                text={item.statement}
+                className="text-xl font-bold"
+                itemClassName="mb-1"
+              />
             )}
           </div>
 

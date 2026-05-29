@@ -1,0 +1,131 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:57:45",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2819",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-14T12:38",
+    "end_date": "2026-04-14T12:55",
+    "sources": [
+      "final/event_2819_2026-04-14_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení priorit Pirátů pro nadcházející mimořádnou schůzi Poslanecké sněmovny, kterou opoziční strany iniciovaly na čtvrtek. Hlavními tématy jsou rostoucí ceny pohonných hmot a potravin, inflace, ohrožení nezávislosti médií veřejné služby, bezpečnostní politika vlády a riziko ztráty evropských dotací.\n\nKromě kritiky vládního postupu představili Piráti konkrétní legislativní návrhy v oblastech bydlení a penzijního spoření. Cílem je nabídnout alternativu k vládní politice, kterou řečníci označili za chaotickou a nekoncepční.",
+    "main_points": [
+      "**Zdeněk Hřib (předseda Pirátů)** — Kritizoval vládní přístup k bydlení a energetické bezpečnosti. Upozornil, že vládní zásahy do cen pohonných hmot způsobují jejich nedostupnost na trhu. Navrhuje využít nadvýběr DPH k podpoře občanů (např. navýšením daňových odečtů) a posílit podporu obnovitelných zdrojů energie.",
+      "**Ivan Bartoš (místopředseda klubu)** — Představil tři pozměňovací návrhy k zákonu o podpoře bydlení: zvýšení příjmového limitu pro vstup do systému, úpravu výpočtu nákladů na bydlení podle reálných tržních cen a posílení kompetencí městských částí při organizaci dostupného bydlení. Kritizoval obstrukční taktiku vládní koalice při svolávání mimořádné schůze.",
+      "**Hana Ančincová (poslankyně)** — Zaměřila se na penzijní fondy. Navrhuje snížení poplatků fondů a uvolnění investičních pravidel, což by podle ní mohlo lidem při spoření 2 000 Kč měsíčně přinést až o 500 000 Kč více.",
+      "**Kateřina Stojanová (místopředsedkyně strany)** — Varovala před rušením protikorupčních pojistek, konkrétně nominačního zákona a zákona o střetu zájmů. Předložila pozměňovací návrh, který má zabránit kumulaci odměn a zajistit, aby státní firmy nebyly spravovány jako „politická kořist“."
+    ],
+    "outcome": "Piráti potvrdili, že budou na čtvrteční mimořádné schůzi prosazovat svá řešení v oblasti bydlení, penzí a protikorupční legislativy. Panuje shoda na tom, že pokud vládní koalice jejich pozměňovací návrhy odmítne, budou je předkládat opakovaně jako samostatné iniciativy. Dominujícím postojem je kritika vládní koalice za snahu vytlačit opoziční řečníky na okraj jednacího dne a za neochotu vést odbornou debatu.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné nedokončené věty, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Hana Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Tereza Šedivá",
+        "person_id": null,
+        "affiliation": "Česká televize"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "To, co dnes investujeme do prevence, se nám vrátí nejpozději do pěti let a každý další rok ušetříme čtyři miliardy korun.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:18",
+      "screenshot_path": "summaries/screenshots/event_2819_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o predikci budoucího ekonomického vývoje, která závisí na konkrétním typu preventivního programu, metodice výpočtu úspor a externích ekonomických faktorech."
+    },
+    {
+      "text": "Při spoření 2 000 Kč měsíčně si člověk díky našim pirátským návrhům našetří až o 500 tisíc Kč navíc.",
+      "type": "citation",
+      "speaker": "Hana Ančincová",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:44",
+      "screenshot_path": "summaries/screenshots/event_2819_highlight_01.jpg",
+      "context": "Tvrzení je závislé na konkrétním návrhu legislativní úpravy (např. změna poplatkové struktury penzijních fondů). Výpočet 500 tisíc Kč je hypotetický a závisí na délce spoření, výnosnosti trhů a nákladech na správu fondu."
+    },
+    {
+      "text": "Penzijní systém má vydělávat lidem a ne na lidech.",
+      "type": "citation",
+      "speaker": "Hana Ančincová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:27",
+      "screenshot_path": "summaries/screenshots/event_2819_highlight_02.jpg",
+      "context": "Jde o politický hodnotový výrok, nikoliv o faktické tvrzení. Vyjadřuje postoj k transformaci penzijního připojištění a roli soukromých penzijních společností v systému."
+    },
+    {
+      "text": "Stát není vaše soukromá firma, pane Babiši, je to společný majetek nás všech.",
+      "type": "citation",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/09:31",
+      "screenshot_path": "summaries/screenshots/event_2819_highlight_03.jpg",
+      "context": "Jde o politickou rétoriku a názor na výkon správy státu. Z právního hlediska je stát právnickou osobou (veřejnoprávní korporací), nikoliv soukromou firmou."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Ivan Bartoš (Piráti)\n*   **Co:** Vládní koalice se přihlásila do rozpravy na mimořádné schůzi s přednostním právem v takovém rozsahu, že opoziční řečníci budou vytlačeni do pozdních hodin.\n*   **Proč:** Je to vnímáno jako snaha o „vyblokování“ opoziční schůze a znemožnění otevření kritických bodů programu.\n*   **Čas:** 1/15:04",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/15:04",
+      "screenshot_path": "summaries/screenshots/event_2819_controversy_00.jpg",
+      "context": "Ověřitelné dle Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Přednostní právo vystoupit mají členové vlády a předsedové poslaneckých klubů, což fakticky může vést k posunu času pro vystoupení ostatních poslanců."
+    },
+    {
+      "statement": "*   **Kdo:** Zdeněk Hřib (Piráti)\n*   **Co:** Vláda zasahuje do trhu s pohonnými hmotami bez systémového plánu, což vede k jejich nedostupnosti.\n*   **Proč:** Politicky citlivé téma, které přímo ovlivňuje ekonomickou situaci občanů a stabilitu trhu.\n*   **Čas:** 1/12:04",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/12:04",
+      "screenshot_path": "summaries/screenshots/event_2819_controversy_01.jpg",
+      "context": "Tvrzení o 'nedostupnosti' pohonných hmot je v českém kontextu sporné, neboť trh s pohonnými hmotami je v ČR dlouhodobě saturován a nedochází k plošným výpadkům zásobování. Jde o interpretaci vládních zásahů (např. regulace marží či daní) jako příčiny tržních nerovnováh."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

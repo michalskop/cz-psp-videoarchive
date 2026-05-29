@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:02:29",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2846",
+    "name": "Tisková konference poslaneckého klubu ODS po jednání se zástupci podnikatelských svazů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-22",
+    "sources": [
+      "final/event_2846_2026-04-22_tiskova-konference-poslaneckeho-klubu-ods-po-jedna.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 3,
+    "parts_total": 3,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala 22. dubna 2026 po jednání představitelů ODS se zástupci podnikatelských a zaměstnavatelských svazů. Cílem bylo představit opoziční „krizový nárazník“ – soubor opatření, kterými chce ODS reagovat na negativní ekonomické dopady krize na Blízkém východě, a kritizovat současnou vládní politiku (vláda Andreje Babiše) v oblasti ekonomiky, správy státního rozpočtu a přístupu k veřejnoprávním médiím.",
+    "main_points": [
+      "**Martin Kuba (předseda ODS)** — Kritizoval vládu za nečinnost při řešení dopadů krize na Blízkém východě. Odmítl zastropování cen pohonných hmot, prosazuje snížení spotřební daně. Upozornil na vysoké zdražení nafty v ČR. Vyjádřil podporu nezávislosti České televize a kritizoval uvolnění dotací pro Agrofert bez stanoviska EK.",
+      "**Jan Skopeček (místopředseda PS)** — Představil 7 bodů „krizového nárazníku“, včetně zrychlených daňových odpisů, zvýšení limitu technického zhodnocení, obnovení programu „Záruka energie“ a vytvoření programu krizové podpory pro energeticky náročné podniky s alokací 2 miliardy Kč.",
+      "**Petr Bendl (místopředseda Zemědělského výboru)** — Odsoudil postup SZIF při proplácení dotací Agrofertu na základě neveřejných posudků a varoval před rizikem vracení dotací EU a sankcemi pro státní rozpočet.",
+      "**Tematické body** — ODS kritizuje plánovaný deficit rozpočtu přes 310 miliard Kč jako populistický a staví se proti zrušení nominačního zákona, které vnímá jako snahu vlády o netransparentní dosazování lidí do státních firem."
+    ],
+    "outcome": "ODS potvrdila, že bude pokračovat v tlaku na vládu skrze interpelace a parlamentní obstrukce v případech, kdy vládní koalice prosazuje kroky ohrožující nezávislost institucí nebo netransparentní nakládání s veřejnými prostředky. Strana hodlá nadále prosazovat svůj „krizový nárazník“ jako alternativu k vládní politice.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a fragmenty vět, které byly pro účely shrnutí rekonstruovány na základě kontextu. Jména jako „Astínový premiér“ či „Jans Kopeček“ byla opravena na správné formy (Martin Kuba, Jan Skopeček)."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kuba",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Filip Turek",
+        "person_id": "psp:person:7059",
+        "affiliation": "Vládní zmocněnec"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO 2011",
+      "KDU-ČSL",
+      "SPD",
+      "Motoristé sobě"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "SZIF",
+      "Evropská komise",
+      "Národní rozvojová banka",
+      "EGAP"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika patřila mezi dva státy, kde meziročně za březen nejvíc vstoupla cena nafty.",
+      "type": "paraphrase",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/04:16",
+      "screenshot_path": "summaries/screenshots/event_2846_highlight_00.jpg",
+      "context": "Data Evropské komise (Oil Bulletin) za březen 2022 skutečně ukazovala, že ČR patřila k zemím s nejvyšším meziročním nárůstem cen pohonných hmot v EU. Tvrzení je fakticky podložené tehdejším vývojem trhu po vypuknutí války na Ukrajině."
+    },
+    {
+      "text": "V letošním roce je dluhová služba 110 miliard korun a s tímhle přístupem to na konci vládnutí bude víc než 200 miliard korun.",
+      "type": "citation",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "3/03:31",
+      "screenshot_path": "summaries/screenshots/event_2846_highlight_01.jpg",
+      "context": "Výdaje na obsluhu státního dluhu v roce 2024 dle schváleného rozpočtu MF ČR činí cca 95–100 miliard Kč. Odhad růstu na 200 miliard Kč je politickou predikcí založenou na vývoji úrokových sazeb a objemu dluhu, nikoliv fixním číslem."
+    },
+    {
+      "text": "Státní zemědělský intervenční fond dnes otevřel dveře dotačním podporám Agrofertu na základě neveřejných posudků, které odmítá zveřejnit.",
+      "type": "citation",
+      "speaker": "Petr Bendl",
+      "affiliation": "ODS",
+      "timestamp": "2/04:15",
+      "screenshot_path": "summaries/screenshots/event_2846_highlight_02.jpg",
+      "context": "Státní zemědělský intervenční fond (SZIF) podléhá zákonu č. 106/1999 Sb., o svobodném přístupu k informacím. Zda fond odmítá zveřejnit konkrétní posudky, je předmětem sporů, nicméně dotace pro holding Agrofert jsou dlouhodobě auditovány i Evropskou komisí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Výrok vládního zmocněnce Filipa Turka o „deratizaci parazitů“ na úřadech. Turek označil úředníky za „parazity“, které je třeba „postupně deratizovat“. Výrok vyvolal pobouření kvůli přirovnání k nacistické rétorice 30. let, což kritizoval i ex-ministr Hladík (KDU-ČSL) a představitelé ODS.",
+      "speaker": "Filip Turek",
+      "affiliation": "Vládní zmocněnec",
+      "timestamp": "2/08:06",
+      "screenshot_path": "summaries/screenshots/event_2846_controversy_00.jpg",
+      "context": "Výrok je doložitelný z veřejných záznamů a sociálních sítí. Použití termínu „deratizace“ ve vztahu k lidem je historicky spojeno s dehumanizující rétorikou totalitních režimů; jde o hodnotící výrok, který vyvolal širokou politickou kritiku napříč spektrem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

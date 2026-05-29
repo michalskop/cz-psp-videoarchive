@@ -1,0 +1,101 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:45:42",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2804",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-02T11:23",
+    "end_date": "2026-04-02T11:34",
+    "sources": [
+      "final/event_2804_2026-04-02_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference Pirátů se zaměřila na kritiku vládní novely stavebního zákona, kterou představitelé strany označují za chaotickou a nedostatečnou pro řešení krize dostupnosti bydlení. Cílem vystoupení bylo upozornit na absenci komplexního pozměňovacího návrhu, rizika spojená s úbytkem odborníků na stavebních úřadech a obavy z korupčního potenciálu při změnách v územním plánování.\n\nKromě stavební legislativy se zástupci Pirátů vyjádřili také k aktuální energetické situaci a cenám pohonných hmot, kde navrhují konkrétní ekonomická opatření pro pomoc občanům a posílení energetické bezpečnosti státu.",
+    "main_points": [
+      "**Zdeněk Hřib (předseda Pirátů)** – Kritizuje „babišovský chaos“ v legislativním procesu, kdy koalice opakovaně odkládá předložení komplexního pozměňovacího návrhu. Varuje před odlivem odborníků ze stavebních úřadů a snižováním kvalifikačních nároků.",
+      "**Veronika Kovářová (poslankyně)** – Zaměřila se na územní plánování. Upozornila, že novela bere obcím odbornou oporu a stát přestává sbírat klíčová data. Kritizuje možnost udělování výjimek z územního plánu „za zavřenými dveřmi“, což vytváří prostor pro korupci.",
+      "**Ivan Bartoš (místopředseda klubu)** – Zdůraznil potřebu zákona o podpoře bydlení a systémového řešení. Varuje před překroucením definice „veřejného zájmu“ v novele, která by mohla umožnit vyvlastňování pozemků ve prospěch soukromých developerských projektů.",
+      "**Energetická opatření** – Piráti navrhují snížení DPH na potraviny (z 12 % na 6 %) a vrácení nadvýběru DPH z pohonných hmot občanům."
+    ],
+    "outcome": "Piráti vyzvali vládu ke stažení stávající novely stavebního zákona, jejímu kompletnímu přepracování a zahájení standardního připomínkovacího procesu. Konsenzem strany je, že současná podoba zákona slouží spíše velkým developerům než občanům a neřeší krizi bydlení.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud veřejný zájem zredukujeme tak, jak koalice navrhuje, tedy jen na čísla, nebo dokonce prohlásíme, že veřejný zájem je třeba i podnikání, otevíráme tím velmi nebezpečné dveře k vyvlastňování.",
+      "type": "paraphrase",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:32",
+      "screenshot_path": "summaries/screenshots/event_2804_highlight_00.jpg",
+      "context": "Definice veřejného zájmu v legislativě je předmětem právní interpretace; rozšíření tohoto pojmu na soukromé podnikatelské záměry je dlouhodobým bodem kritiky opozice i některých právních expertů. Ústavní soud ČR opakovaně judikoval, že vyvlastnění musí být vždy v souladu s ústavním pořádkem a sloužit výhradně veřejnému účelu, nikoliv pouze soukromému zisku."
+    },
+    {
+      "text": "Majitel pozemku si může domluvit výjimku z územního plánu za zavřenými dveřmi Rady města, tam vidíme obrovský korupční potenciál.",
+      "type": "paraphrase",
+      "speaker": "Veronika Kovářová",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:01",
+      "screenshot_path": "summaries/screenshots/event_2804_highlight_01.jpg",
+      "context": "Změny územních plánů jsou v kompetenci zastupitelstev obcí a měst, přičemž proces podléhá zákonu č. 183/2006 Sb. (stavební zákon). Riziko korupčního jednání při individuálních změnách územního plánu je dlouhodobě identifikováno jako systémové riziko v protikorupčních strategiích (např. dle analýz Transparency International)."
+    },
+    {
+      "text": "Vláda by měla snížit DPH na potraviny z 12 na 6 % a vrátit lidem nadvýběr DPH z drahých pohonných hmot.",
+      "type": "paraphrase",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/09:02",
+      "screenshot_path": "summaries/screenshots/event_2804_highlight_02.jpg",
+      "context": "Sazby DPH jsou v ČR stanoveny zákonem č. 235/2004 Sb. Návrh na snížení DPH na potraviny je politickým požadavkem; ekonomické dopady takového kroku na státní rozpočet jsou předmětem sporů mezi zastánci podpory spotřeby a odpůrci kvůli výpadku příjmů. Pojem „nadvýběr DPH“ je interpretací příjmů státního rozpočtu v kontextu inflace a cenové hladiny."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Ivan Bartoš (Piráti)\n**Co:** Upozornil, že vládní koalice v novele definuje „veřejný zájem“ tak široce, že zahrnuje i podnikání, což by mohlo umožnit vyvlastňování pozemků pro soukromé projekty.\n**Proč:** Jde o citlivé téma zásahu do vlastnických práv občanů ve prospěch soukromých developerů.\n**Čas:** 1/07:00",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:00",
+      "screenshot_path": "summaries/screenshots/event_2804_controversy_00.jpg",
+      "context": "Tvrzení se vztahuje k projednávané novele stavebního zákona a souvisejícím předpisům. Zda definice v konkrétním návrhu skutečně umožňuje vyvlastnění pro soukromé projekty, je předmětem právního výkladu textu zákona a jeho souladu s Listinou základních práv a svobod."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:58:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2818",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-14T12:22",
+    "end_date": "2026-04-14T12:35",
+    "sources": [
+      "final/event_2818_2026-04-14_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se konala před zahájením jednání Poslanecké sněmovny. Hlavním cílem bylo představit postoje strany k aktuálním politickým tématům, konkrétně k výsledkům voleb v Maďarsku, vládnímu návrhu zákona o regulaci cen pohonných hmot v legislativní nouzi a k programu nadcházející sněmovní schůze.\n\nKDU-ČSL se vymezila vůči způsobu komunikace vládní koalice, kterou označila za netransparentní, a představila své priority v oblasti rodinné politiky (balíček RODIČE+). Zároveň kritizovala postup koalice při organizaci mimořádné schůze, kde podle lidovců dochází k omezování prostoru pro opozici.",
+    "main_points": [
+      "**Marek Výborný (KDU-ČSL)**\n* **Maďarské volby:** Pogratuloval hnutí Tisza a Petru Magyarovi k vítězství. Označil to za pozitivní zprávu pro ČR, EU i NATO. Kritizoval ministra zahraničí Petra Macinku za tvrzení o ztrátě spojence; naopak věří, že Maďarsko přestane být „trojským koněm“ Kremlu.\n* **Regulace cen pohonných hmot:** Kritizoval vládní postup v legislativní nouzi bez předchozí konzultace s opozicí. KDU-ČSL obecně neodmítá regulaci v krizových situacích, ale požaduje čtyři úpravy: časové omezení (3x 90 dnů), odborné podklady (stanoviska MF, MPO, ÚOHS a SSHR), jasnou definici krize a řádné odůvodnění.",
+      "**Monika Brzesková (KDU-ČSL)**\n* **Rodinná politika:** Připomněla balíček RODIČE+, který vláda zamítla, a oznámila jeho opětovné předložení.\n* **Rozpor ve vládě:** Upozornila na rozpor mezi MPSV (které chce navýšit rodičovský příspěvek) a MF (které požaduje, aby si MPSV na výdaj našlo prostředky ve vlastní kapitole).",
+      "**Tom Philipp (KDU-ČSL)**\n* **Organizace schůze:** Upozornil na prodloužené jednání (úterý–čtvrtek do 21:00).\n* **Státní svátky:** Lidovci podpoří senátní návrh na rozšíření názvu 28. září o „den státních symbolů“.\n* **Mimořádná schůze:** Kritizoval koalici za zneužití přednostních práv (20 poslanců), čímž odsunuli opozici na konec debaty."
+    ],
+    "outcome": "Formální rozhodnutí na tiskové konferenci nepadlo, neboť šlo o informativní setkání. KDU-ČSL deklarovala, že podpoří vládní návrh zákona o regulaci cen pohonných hmot pouze v případě, že budou akceptovány jejich čtyři pozměňovací návrhy. Strana rovněž hodlá znovu předložit balíček RODIČE+ a vyjádřila nespokojenost s organizací sněmovní debaty, kde koalice odmítla princip „zipu“ (střídání řečníků vládní koalice a opozice).",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Monika Brzesková",
+        "person_id": "psp:person:6994",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Tom Philipp",
+        "person_id": "psp:person:6555",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "Tisza"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská unie",
+      "NATO",
+      "Ministerstvo financí",
+      "Ministerstvo průmyslu a obchodu",
+      "ÚOHS",
+      "Správa státních hmotných rezerv",
+      "MPSV"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Maďarsko pod vedením Viktora Orbána bylo fakticky trojským koněm, které často až na hraně nebo možná za hranou vlastizrádného postupu předávalo informace Kremlu.",
+      "type": "citation",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:12",
+      "screenshot_path": "summaries/screenshots/event_2818_highlight_00.jpg",
+      "context": "Tvrzení o předávání informací Kremlu je závažným politickým obviněním, které není podloženo žádným veřejně dostupným rozsudkem nebo oficiálním zpravodajským potvrzením o vlastizradě. Maďarsko je členem EU a NATO, přičemž jeho politika vůči Rusku je dlouhodobě předmětem kritiky spojenců, ale konkrétní obvinění ze špionáže zůstává v rovině politické interpretace."
+    },
+    {
+      "text": "Vláda navrhuje fakticky bianco šek na jeden rok, to je pro nás těžko přijatelné.",
+      "type": "citation",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/05:01",
+      "screenshot_path": "summaries/screenshots/event_2818_highlight_01.jpg",
+      "context": "Výraz „bianco šek“ je politickou metaforou pro udělení širokých pravomocí bez dostatečné kontroly. Zda je návrh skutečně „bianco šekem“, závisí na konkrétním znění legislativního návrhu a nastavení kontrolních mechanismů v daném zákoně."
+    },
+    {
+      "text": "Vláda nám tento balíček RODIČE+ před 14 dny shodila ze stolu, a to i takové návrhy, které by státní rozpočet nestály ani korunu.",
+      "type": "citation",
+      "speaker": "Monika Brzesková",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/07:46",
+      "screenshot_path": "summaries/screenshots/event_2818_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit bez znalosti konkrétního projednávaného návrhu a zápisu z jednání vlády. Rozhodnutí vlády o zamítnutí návrhu zákona je standardním legislativním procesem, přičemž tvrzení o „nulových nákladech“ je subjektivním hodnocením navrhovatele, které často opomíjí nepřímé administrativní či systémové náklady."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Marek Výborný (KDU-ČSL)\n* **Co:** Označil předchozí maďarskou vládu Viktora Orbána za „trojského koně“ a „pátou kolonu“, která „často až na hraně nebo možná za hranou vlastizrádného postupu předávalo informace Kremlu“.\n* **Proč:** Jde o velmi ostré obvinění spojenecké země a jejího představitele z vlastizrady a špionáže pro cizí mocnost, což je v diplomacii vysoce citlivé.\n* **Čas:** 1/01:20",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:20",
+      "screenshot_path": "summaries/screenshots/event_2818_controversy_00.jpg",
+      "context": "Jedná se o politickou interpretaci zahraniční politiky Maďarska. Obvinění z „vlastizrádného postupu“ a „předávání informací“ jsou závažná tvrzení, pro která neexistují veřejně ověřitelné důkazy v podobě pravomocných rozhodnutí orgánů činných v trestním řízení či oficiálních zpráv tajných služeb."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

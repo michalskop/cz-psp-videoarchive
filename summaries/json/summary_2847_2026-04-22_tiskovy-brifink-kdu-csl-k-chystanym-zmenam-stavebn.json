@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:02:49",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2847",
+    "name": "Tiskový brífink KDU-ČSL k chystaným změnám stavebního zákona",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-22T12:00",
+    "end_date": "2026-04-22T12:20",
+    "sources": [
+      "final/event_2847_2026-04-22_tiskovy-brifink-kdu-csl-k-chystanym-zmenam-stavebn.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 3,
+    "parts_total": 3,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tiskový brífink KDU-ČSL se zaměřil na kritiku aktuálního komplexního pozměňovacího návrhu ke stavebnímu zákonu a na problematiku dotací pro holding Agrofert. Představitelé strany vyjádřili zásadní nesouhlas s návrhy, které podle nich ohrožují ochranu zemědělské půdy, zhoršují životní prostředí v obcích a legalizují černé stavby.\n\nDruhým klíčovým tématem bylo rozhodnutí Státního zemědělského intervenčního fondu (SZIF) ohledně možnosti čerpání dotací společnostmi holdingu Agrofert. KDU-ČSL zpochybnila postup ministerstva pro místní rozvoj a varovala před rizikem, že české daňové poplatníky budou tyto dotace stát miliardy, pokud je Evropská komise zpětně neproplatí.",
+    "main_points": [
+      "**Marek Výborný (KDU-ČSL)** — Kritizuje komplexní pozměňovací návrh ke stavebnímu zákonu, který podle něj ohrožuje potravinovou bezpečnost a ochranu nejkvalitnější půdy (bonity I a II). Varuje před rušením opatření, které mladým začínajícím zemědělcům umožňuje přednostní pacht státní půdy. V kauze Agrofert zdůrazňuje, že rozhodnutí SZIF se opírá pouze o právní posudky, nikoliv o stanovisko Evropské komise.",
+      "**Petr Hladík (KDU-ČSL)** — Kritizuje možnost výstavby logistických hal a obchodů v blízkosti dálnic a vodotečí na úrodné půdě. Odmítá návrh umožňující kácení stromů nad vodovody a kanalizacemi bez povolení. Varuje před rizikem neproplacení dotací z EU, což by zatížilo český státní rozpočet.",
+      "**Němec (KDU-ČSL)** — Kritizuje proces projednávání stavebního zákona (1083 stran materiálu, na jehož prostudování bylo jen 6 dní). Odmítá ustanovení umožňující legalizaci černých staveb. Prosazuje zachování přísných pravidel pro bezbariérovost staveb a zdůrazňuje princip subsidiarity u výdejních boxů."
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o vyjádření politického postoje KDU-ČSL. Strana se zavázala k předložení vlastních pozměňovacích návrhů k hospodářskému výboru, kterými chce zvrátit kontroverzní body vládního návrhu stavebního zákona. V otázce dotací Agrofertu KDU-ČSL požaduje zahájení vratkového řízení, aby o nároku na dotace mohl rozhodnout nezávislý soud.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené chybami v automatickém přepisu (např. useknutá slova, opakující se fráze). Obsah byl rekonstruován na základě kontextu a odborné terminologie."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Petr Hladík",
+        "person_id": "psp:person:6881",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Němec",
+        "person_id": "psp:person:114",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "Agrofert"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Státní zemědělský intervenční fond (SZIF)",
+      "Evropská komise",
+      "Nejvyšší správní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Opravdu chceme, aby v úrodném Polabí na Hané na té nejkvalitnější, nejúrodnější černozemi rostly sklady, haly, obchodní centra?",
+      "type": "citation",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:40",
+      "screenshot_path": "summaries/screenshots/event_2847_highlight_00.jpg",
+      "context": "Jde o rétorickou otázku vyjadřující politický postoj k územnímu plánování a ochraně zemědělského půdního fondu. Úbytek kvalitní zemědělské půdy v důsledku výstavby logistických center je dlouhodobě sledovaným jevem, který potvrzují data Státního pozemkového úřadu a ČSÚ."
+    },
+    {
+      "text": "Češi, platební agentura, vydají peníze českých daňových poplatníků do firem Andreje Babiše a nedostaneme to zpětně z EU.",
+      "type": "paraphrase",
+      "speaker": "Petr Hladík",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "2/09:38",
+      "screenshot_path": "summaries/screenshots/event_2847_highlight_01.jpg",
+      "context": "Tvrzení se týká problematiky střetu zájmů a proplácení dotací z rozpočtu EU. Evropská komise v minulosti opakovaně zastavila proplácení dotací pro holding Agrofert z důvodu střetu zájmů, což vedlo k tomu, že tyto výdaje musel v některých případech hradit státní rozpočet ČR bez náhrady z unijních fondů."
+    },
+    {
+      "text": "To je fakticky prolomení základního principu stavebního řízení a fakticky tímto legalizujeme černé stavby.",
+      "type": "citation",
+      "speaker": "Němec",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "2/00:23",
+      "screenshot_path": "summaries/screenshots/event_2847_highlight_02.jpg",
+      "context": "Tvrzení interpretuje dopady legislativního návrhu na stavební zákon. Zda konkrétní ustanovení fakticky legalizuje černé stavby, je předmětem právního výkladu, nicméně kritika směřuje k oslabení pravomocí stavebních úřadů při vymáhání odstranění nepovolených staveb."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Kácení stromů nad inženýrskými sítěmi**\n* **Kdo:** Petr Hladík (KDU-ČSL)\n* **Co:** Návrh v komplexním pozměňovacím návrhu umožňuje kácet stromy nad vodovody a kanalizacemi bez povolení a náhradní výsadby.\n* **Proč:** Jde o zásah do veřejného prostoru a životního prostředí obcí bez transparentního řízení, což vyvolává obavy z nekontrolovaného kácení.\n* **Čas:** 1/06:02",
+      "speaker": "Petr Hladík",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:02",
+      "screenshot_path": "summaries/screenshots/event_2847_controversy_00.jpg",
+      "context": "Návrh se týká úpravy zákona o ochraně přírody a krajiny v souvislosti se správou inženýrských sítí. Zda návrh skutečně umožňuje kácení bez náhradní výsadby, závisí na konkrétním znění pozměňovacího návrhu, který je předmětem legislativního procesu v Poslanecké sněmovně."
+    },
+    {
+      "statement": "**Kontroverzní návrh: Legalizace černých staveb**\n* **Kdo:** Němec (KDU-ČSL)\n* **Co:** Odstavec 3 paragrafu 256 stavebního zákona má umožnit stavebnímu úřadu nenařídit odstranění černé stavby.\n* **Proč:** Podle řečníka jde o prolomení základního principu stavebního práva a legalizaci nezákonného jednání.\n* **Čas:** 2/00:00",
+      "speaker": "Němec",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "2/00:00",
+      "screenshot_path": "summaries/screenshots/event_2847_controversy_01.jpg",
+      "context": "Ustanovení § 256 nového stavebního zákona (č. 283/2021 Sb.) řeší postup při odstraňování staveb. Debata o tom, zda toto ustanovení fakticky legalizuje černé stavby, je jádrem sporu mezi zastánci zjednodušení stavebního řízení a kritiky, kteří varují před oslabením vymahatelnosti práva."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

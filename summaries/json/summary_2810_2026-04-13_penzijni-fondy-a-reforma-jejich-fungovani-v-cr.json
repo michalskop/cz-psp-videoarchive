@@ -1,0 +1,153 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:00:33",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2810",
+    "name": "Kulatý stůl „Penzijní fondy a reforma jejich fungování v ČR“",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-13",
+    "sources": [
+      "final/event_2810_2026-04-13_penzijni-fondy-a-reforma-jejich-fungovani-v-cr.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 14,
+    "parts_total": 14,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Kulatý stůl „Penzijní fondy a reforma jejich fungování v ČR“ se konal 13. dubna 2026 v Poslanecké sněmovně. Cílem bylo zahájit nadstranickou odbornou debatu o parametrických změnách třetího pilíře penzijního spoření. Účastníci se shodli, že stávající systém je po 13 letech fungování potřeba modernizovat, aby lépe čelil demografickým výzvám a zajistil občanům vyšší náhradový poměr v důchodu.\n\nHlavním tématem byla transformace systému směrem k nízkonákladovým strategiím životního cyklu, snížení poplatkové zátěže a zvýšení penetrace systému mezi mladou populací.",
+    "main_points": [
+      "**Filip Pertold & Lukáš Nádvorník (IDEA při CERGE-EI)** — Prezentovali studii, podle které lze náhradový poměr zvýšit z 8 % na 29 % bez nutnosti zvyšovat úložky. Klíčem je dlouhodobý horizont, vysoký výnos a nízké poplatky.",
+      "**Vladimír Bezděk (ekonom)** — Navrhl odstranění každoroční garance nezáporného výnosu u transformovaných fondů, což by umožnilo odvážnější investiční strategii.",
+      "**Jiří Rusnok (bývalý guvernér ČNB)** — Zdůraznil, že penzijní systém musí doplňovat první pilíř, nikoliv jej nahrazovat, a varoval před přehnaným optimismem ohledně výnosů.",
+      "**Miroslav Zámečník (ČBA)** — Kritizoval absenci systémového řešení (auto-enrollment) a varoval, že bez masivního zapojení mladých jde pouze o dílčí úpravy.",
+      "**Radek Moc (Asociace penzijních společností)** — Potvrdil připravenost sektoru na strategii životního cyklu a zdůraznil potřebu komplexního přístupu.",
+      "**Michal Hlaváček (Národní rozpočtová rada)** — Upozornil, že penzijní spoření nevyřeší blížící se deficit prvního pilíře v horizontu 10 let.",
+      "**Tomáš Salomon (Česká spořitelna)** — Apeloval na jednotnou komunikaci napříč politickým spektrem.",
+      "**Libor Vošický (Česká spořitelna – penzijní společnost)** — Zdůraznil, že reforma musí být implementována jako celek, nikoliv jako výběr jednotlivých částí."
+    ],
+    "outcome": "Mezi účastníky panoval konsenzus v následujících bodech:\n* Nutnost zatraktivnit třetí pilíř pro mladé střadatele.\n* Zavedení strategie životního cyklu jako výchozího nastavení.\n* Potřeba snížit poplatkovou zátěž.\n* Shoda na tom, že reforma musí být komplexní a dlouhodobá.",
+    "notes": "Přepis obsahuje chyby v diakritice a občasné výpadky textu. Části diskuse byly vedeny v rychlém tempu, což vedlo k občasné nesrozumitelnosti některých technických detailů."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Filip Pertold",
+        "person_id": null,
+        "affiliation": "IDEA při CERGE-EI"
+      },
+      {
+        "name": "Lukáš Nádvorník",
+        "person_id": null,
+        "affiliation": "IDEA při CERGE-EI"
+      },
+      {
+        "name": "Vladimír Bezděk",
+        "person_id": null,
+        "affiliation": "ekonom"
+      },
+      {
+        "name": "Jiří Rusnok",
+        "person_id": "psp:person:4737",
+        "affiliation": "bývalý guvernér ČNB"
+      },
+      {
+        "name": "Miroslav Zámečník",
+        "person_id": "psp:person:5766",
+        "affiliation": "ČBA"
+      },
+      {
+        "name": "Radek Moc",
+        "person_id": null,
+        "affiliation": "Asociace penzijních společností"
+      },
+      {
+        "name": "Michal Hlaváček",
+        "person_id": null,
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Tomáš Salomon",
+        "person_id": null,
+        "affiliation": "Česká spořitelna"
+      },
+      {
+        "name": "Libor Vošický",
+        "person_id": null,
+        "affiliation": "Česká spořitelna – penzijní společnost"
+      }
+    ],
+    "parties": [
+      "ANO 2011",
+      "ODS",
+      "STAN",
+      "Piráti",
+      "KDU-ČSL",
+      "SPD",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "IDEA při CERGE-EI",
+      "ČNB",
+      "ČBA",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Výnos je nejistý, ale poplatky jsou jisté, pojďme se zaměřit na ty poplatky.",
+      "type": "citation",
+      "speaker": "Jan Tomáš",
+      "affiliation": "analytik",
+      "timestamp": "12/08:53",
+      "screenshot_path": "summaries/screenshots/event_2810_highlight_00.jpg",
+      "context": "Jde o obecný ekonomický princip, který v kontextu penzijního připojištění poukazuje na to, že poplatky za správu jsou účtovány bez ohledu na výkonnost fondu. Ověřitelnost závisí na konkrétním nastavení poplatkové struktury dle zákona č. 427/2011 Sb."
+    },
+    {
+      "text": "Pokud neuděláme nějaké zásadnější řešení, tak řešíte problém, jak zrubat poplatky, ale není to národohospodářské řešení.",
+      "type": "paraphrase",
+      "speaker": "Miroslav Zámečník",
+      "affiliation": "ČBA",
+      "timestamp": "7/08:09",
+      "screenshot_path": "summaries/screenshots/event_2810_highlight_01.jpg",
+      "context": "Jde o hodnotící úsudek o hospodářské politice. Národohospodářský dopad regulace poplatků je předmětem odborné debaty, nikoliv exaktně měřitelný fakt."
+    },
+    {
+      "text": "Reforma, kterou jsme iniciovali, nemíří k tomu, abychom jakkoliv ničili penzijní společnosti, chceme, aby v dlouhodobém horizontu prosperovaly.",
+      "type": "citation",
+      "speaker": "Filip Pertold",
+      "affiliation": "IDEA při CERGE-EI",
+      "timestamp": "12/05:50",
+      "screenshot_path": "summaries/screenshots/event_2810_highlight_02.jpg",
+      "context": "Záměr reformy je deklarovaným cílem předkladatelů. Zda reforma skutečně povede k prosperitě penzijních společností, je predikce, kterou nelze nezávisle ověřit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na zrušení povinnosti garantovat nezáporný výnos každý rok u transformovaných fondů. Je to citlivé, protože klienti do těchto fondů vstupovali právě kvůli jistotě, že o vklady nepřijdou.",
+      "speaker": "Vladimír Bezděk",
+      "affiliation": "ekonom",
+      "timestamp": "7/00:30",
+      "screenshot_path": "summaries/screenshots/event_2810_controversy_00.jpg",
+      "context": "Transformované fondy (tzv. starý penzijní systém) skutečně ze zákona č. 427/2011 Sb. garantují nezáporný výnos. Zrušení této garance je předmětem legislativních diskusí, přičemž obava z narušení důvěry klientů je legitimním argumentem v rámci veřejné debaty."
+    },
+    {
+      "statement": "Poukaz na to, že penzijní společnosti dosahují vysoké rentability vlastního kapitálu (až 40 %), zatímco reálné výnosy klientů v transformovaných fondech jsou minimální.",
+      "speaker": "Jan Tomáš",
+      "affiliation": "analytik",
+      "timestamp": "12/07:30",
+      "screenshot_path": "summaries/screenshots/event_2810_controversy_01.jpg",
+      "context": "Rentabilita vlastního kapitálu (ROE) penzijních společností je veřejně dostupná ve výročních zprávách jednotlivých společností a ČNB. Reálné výnosy klientů v transformovaných fondech jsou dlouhodobě nízké a často nedosahují ani míry inflace, což potvrzují data ČNB a výroční zprávy asociace penzijních společností."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

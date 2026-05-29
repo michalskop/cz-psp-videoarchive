@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:50:05",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2837",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-21",
+    "end_date": "2026-04-21",
+    "sources": [
+      "final/event_2837_2026-04-21_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 2,
+    "parts_total": 2,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala před zahájením jednání Poslanecké sněmovny dne 21. dubna 2026. Cílem konference bylo informovat veřejnost o aktuálních politických prioritách strany, vyjádřit nesouhlas s vládními kroky v oblasti zahraniční politiky a médií a oznámit strategii opozice pro nadcházející parlamentní týden.\n\nHlavními tématy byla kritika vládního zákazu cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan, varování před snahou vládní koalice ovládnout média veřejné služby a kritika bezpečnostní politiky vlády, zejména v souvislosti s výdaji na obranu a personálními změnami na Ministerstvu obrany.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval vládní zákaz cesty předsedy Senátu na Tchaj-wan jako „poklonkování Číně“. Oznámil, že TOP 09 zablokuje jednání Poslanecké sněmovny, aby zabránila volbě členů Rady České televize a Rady Českého rozhlasu.",
+      "**Jan Jakob (TOP 09)** — Odsoudil útoky politiků hnutí ANO na novináře a podpořil protesty odborné veřejnosti. Potvrdil, že opozice je jednotná v rozhodnutí blokovat sněmovnu.",
+      "**Michal Zuna (TOP 09)** — Zpochybnil prohlášení premiéra Babiše o prioritě obranyschopnosti a kritizoval ministra obrany za rušení Sekce průmyslové spolupráce.",
+      "**Tematické body** — Opozice se shodla na koordinovaném postupu blokace sněmovny. Zákon o regulaci cen pohonných hmot byl označen za „socialistický experiment“."
+    ],
+    "outcome": "Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Dominujícím postojem opozice je však odhodlání zablokovat jednání Poslanecké sněmovny pro tento týden, pokud vládní koalice neustoupí od záměru volit členy Rady České televize a Rady Českého rozhlasu.",
+    "notes": "Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstatě stejný obsah, přičemž druhá část je useknutá). Informace byly syntetizovány z dostupného textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Michal Zuna",
+        "person_id": "psp:person:6796",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Česká televize",
+      "Český rozhlas",
+      "Ministerstvo obrany",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Proto nejezdit na Tchaj-wan je poklonkování Číně, nejezdit dělat takovou tu politiku všech azimutů zahraniční, tak se nám může šeredně vymstít.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/01:10",
+      "screenshot_path": "summaries/screenshots/event_2837_highlight_00.jpg",
+      "context": "Jde o politický názor na zahraniční politiku ČR. Oficiální postoj ČR uznává politiku 'jedné Číny', ale zároveň rozvíjí obchodní a kulturní vztahy s Tchaj-wanem, což je v souladu s vládním programovým prohlášením."
+    },
+    {
+      "text": "My zablokujeme Poslaneckou sněmovnu pro tento týden, aby nedošlo k volbě radních v České televizi, protože v této atmosféře to prostě není možné.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:22",
+      "screenshot_path": "summaries/screenshots/event_2837_highlight_01.jpg",
+      "context": "Blokování jednání sněmovny je legitimní, byť krajní parlamentní nástroj (např. prostřednictvím obstrukcí). Zda je volba radních ČT v dané atmosféře 'nemožná', je subjektivní politické hodnocení, nikoliv faktický stav."
+    },
+    {
+      "text": "Po škrtech Andreje Babiše se nejsme schopni dosáhnout ani těch základních 2 % (HDP na obranu), čímž dosáhneme akorát tak toho, že nebudeme plnit naše alianční závazky.",
+      "type": "citation",
+      "speaker": "Michal Zuna",
+      "affiliation": "TOP 09",
+      "timestamp": "1/11:14",
+      "context": "Zákon č. 214/2022 Sb. stanovil povinnost vydávat na obranu 2 % HDP od roku 2024. ČR tento závazek v roce 2024 dle údajů Ministerstva obrany ČR a NATO plní; tvrzení o neschopnosti dosáhnout 2 % je tedy v rozporu s aktuálními rozpočtovými daty."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Blokace Poslanecké sněmovny jako nástroj politického boje.\n- **Kdo:** Matěj Ondřej Havel, Jan Jakob (TOP 09).\n- **Co:** Oznámení, že opozice nedovolí projednávání mediálních novel ani volbu radních a zablokuje sněmovnu.\n- **Proč:** Je to politicky citlivé, protože jde o paralýzu zákonodárného sboru, což je krajní parlamentní prostředek.\n- **Čas:** 1/06:03",
+      "speaker": "Matěj Ondřej Havel, Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:03",
+      "screenshot_path": "summaries/screenshots/event_2837_controversy_00.jpg",
+      "context": "Blokace jednání sněmovny je běžnou součástí parlamentního boje (obstrukce). Zda je takový postup v souladu s jednacím řádem, závisí na konkrétní formě (např. řečnické lhůty, námitky), přičemž jde o politické rozhodnutí opozice, nikoliv o porušení zákona."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:52:02",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2832",
+    "name": "Tisková konference ministryně financí Aleny Schillerové a zástupců senátorského klubu hnutí ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-16T13:07",
+    "end_date": "2026-04-16T13:33",
+    "sources": [
+      "final/event_2832_2026-04-16_tiskova-konference-ministryne-financi-aleny-schill.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ministryně financí Aleny Schillerové a zástupců senátorského klubu hnutí ANO se konala v reakci na postup Senátu při projednávání vládního návrhu zákona o regulaci cen pohonných hmot. Cílem vystoupení bylo kritizovat senátní většinu za odložení projednávání tohoto zákona na 22. dubna, což řečníci označili za „politikaření“ a „chaos“, který ohrožuje občany a firmy v době ekonomické nejistoty.",
+    "main_points": [
+      "**Jana Mračková Vildumetzová (senátorský klub hnutí ANO)** — Kritizovala Senát za odložení zákona o regulaci cen pohonných hmot na 22. dubna. Upozornila na personální kolize senátorů (zahraniční cesty) a vyzvala k projednání v legislativní nouzi podobně jako u energetického zákona v roce 2022.",
+      "**Alena Schillerová (ministryně financí)** — Obhajovala vládní balíček opatření (zastropování marží na 2,50 Kč/litr nad burzovní cenu). Ujistila veřejnost o dostatečných zásobách pohonných hmot a označila postoj Senátu za politicky motivovaný před blížícími se volbami.",
+      "**Tematické body** — Vládní představitelé zdůraznili, že opatření je protiinflační a nezbytné pro stabilitu ekonomiky, přičemž kritizovali opozici za neochotu spolupracovat."
+    ],
+    "outcome": "Jednání nepřineslo žádnou změnu v harmonogramu Senátu. Vládní představitelé vyjádřili zklamání z odkladu a avizovali, že budou nadále apelovat na co nejrychlejší schválení zákona. Pokud by Senát zákon vrátil do Sněmovny, vláda bude o dalším postupu jednat s vedením Sněmovny.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jana Mračková Vildumetzová",
+        "person_id": "psp:person:6471",
+        "affiliation": "senátorský klub hnutí ANO"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ministryně financí"
+      },
+      {
+        "name": "Petr Vašek",
+        "person_id": "psp:person:4469",
+        "affiliation": "Česká televize"
+      },
+      {
+        "name": "Kopecký",
+        "person_id": "psp:person:220",
+        "affiliation": "iDnes.cz"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "TOP 09",
+      "STAN",
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Čepro"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Bleskovým průzkumem jsme zjistili, že se marže pohybovaly mezi 6,57 až 10 korunami na litr, což bylo nepřijatelné.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ministryně financí",
+      "timestamp": "1/09:18",
+      "screenshot_path": "summaries/screenshots/event_2832_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Konkrétní metodika „bleskového průzkumu“ nebyla zveřejněna a marže čerpacích stanic podléhají tržním výkyvům, přičemž jejich výše je závislá na mnoha faktorech včetně nákladů na logistiku a skladování."
+    },
+    {
+      "text": "Senátoři si berou občany, kterých se to dotýká, jako rukojmí.",
+      "type": "paraphrase",
+      "speaker": "Jana Mračková Vildumetzová",
+      "affiliation": "senátorský klub hnutí ANO",
+      "timestamp": "1/06:00",
+      "screenshot_path": "summaries/screenshots/event_2832_highlight_01.jpg",
+      "context": "Jde o subjektivní politické hodnocení legislativního procesu v Senátu. Označení za „rukojmí“ je rétorická figura, nikoliv faktografický popis činnosti horní komory Parlamentu ČR."
+    },
+    {
+      "text": "České republice nic takového nehrozí, komunikuji s generálním ředitelem Čepra každý den a mohu vás ubezpečit, že zásoby máme.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ministryně financí",
+      "timestamp": "1/24:55",
+      "screenshot_path": "summaries/screenshots/event_2832_highlight_02.jpg",
+      "context": "Státní společnost Čepro spravuje státní hmotné rezervy pohonných hmot. Informace o stavu zásob jsou z bezpečnostních důvodů klasifikovány jako citlivé, nicméně Čepro pravidelně deklaruje plnění zákonných limitů pro skladování zásob."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Alena Schillerová (ministryně financí)** označila vystoupení Danuše Nerudové v České televizi za lživé („lhala, jako když tiskne“) a vyzvala ODS, aby „nepanikařila“ po tom, co za čtyři roky způsobila „34procentní kumulovanou inflaci“.",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ministryně financí",
+      "timestamp": "1/24:01",
+      "screenshot_path": "summaries/screenshots/event_2832_controversy_00.jpg",
+      "context": "Kumulovaná inflace za období 2020–2023 (dle dat ČSÚ) skutečně dosáhla vysokých hodnot, nicméně přičítat ji výhradně jedné politické straně je zavádějící. Inflace byla ovlivněna globálními faktory, jako jsou ceny energií, post-covidové narušení dodavatelských řetězců a měnová politika ČNB."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

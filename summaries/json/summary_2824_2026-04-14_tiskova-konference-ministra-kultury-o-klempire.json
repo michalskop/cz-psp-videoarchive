@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:55:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2824",
+    "name": "Tisková konference ministra kultury O. Klempíře",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-14T14:31",
+    "end_date": "2026-04-14T15:04",
+    "sources": [
+      "final/event_2824_2026-04-14_tiskova-konference-ministra-kultury-o-klempire.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení vládního návrhu zákona o médiích veřejné služby a změně souvisejících zákonů. Hlavním cílem koalice je zrušení koncesionářských poplatků a přechod na financování České televize (ČT) a Českého rozhlasu (ČRo) přímo ze státního rozpočtu.\n\nVládní koalice argumentuje potřebou modernizace systému, odstraněním administrativní zátěže pro občany a firmy a naplněním předvolebních slibů. Návrh klade důraz na nezávislost médií, zachování stávajícího systému rad a managementu a zavedení kontroly hospodaření ze strany Nejvyššího kontrolního úřadu (NKÚ).",
+    "main_points": [
+      "**Oto Klempíř (ministr kultury)** — Představil parametry novely: zrušení poplatků, žádné slučování ČT a ČRo, zachování stávajících rad. Definoval priority veřejné služby (zpravodajství, vzdělávání, zábava). Financování: ČT (5,74 mld. Kč), ČRo (2,06 mld. Kč) ročně s valorizací o inflaci. Účinnost od 1. ledna 2027.",
+      "**Patrik Nacher (poslanec)** — Potvrdil přípravu „rychlého“ poslaneckého návrhu pro osvobození nejzranitelnějších od poplatků. Argumentoval, že kritika médií je legitimní a neznamená snahu o jejich ovládnutí.",
+      "**Vládní koalice** — Zdůraznila, že stávající rady a vedení institucí přecházejí pod nový zákon automaticky. Odmítla obavy z politického vlivu s odkazem na evropské trendy a potvrdila připravenost k parlamentním obstrukcím."
+    ],
+    "outcome": "Vládní koalice představila vládní návrh mediální novely a avizovala souběžný poslanecký návrh pro rychlejší úlevu občanům. Nebylo dosaženo žádné dohody s opozicí, naopak se očekává ostrý střet v Poslanecké sněmovně. Koalice trvá na termínu účinnosti velké novely od 1. ledna 2027.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Oto Klempíř",
+        "person_id": "psp:person:7010",
+        "affiliation": "ministr kultury"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "poslanec"
+      },
+      {
+        "name": "Eliška Záleská",
+        "person_id": null,
+        "affiliation": "Česká televize"
+      },
+      {
+        "name": "Vojtěch Tomášek",
+        "person_id": null,
+        "affiliation": "Český rozhlas"
+      },
+      {
+        "name": "Radek Bartoníček",
+        "person_id": null,
+        "affiliation": "Aktuálně.cz"
+      }
+    ],
+    "parties": [
+      "vládní koalice"
+    ],
+    "institutions": [
+      "Česká televize",
+      "Český rozhlas",
+      "Poslanecká sněmovna",
+      "NKÚ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zákon výslovně garantuje, že do programové činnosti Českého rozhlasu a České televize nesmí zasahovat žádný státní orgán, ani politický subjekt.",
+      "type": "citation",
+      "speaker": "Oto Klempíř",
+      "affiliation": "ministr kultury",
+      "timestamp": "1/01:39",
+      "screenshot_path": "summaries/screenshots/event_2824_highlight_00.jpg",
+      "context": "Tvrzení odpovídá zákonům č. 483/1991 Sb. (o České televizi) a č. 484/1991 Sb. (o Českém rozhlasu), které stanovují povinnost subjektů poskytovat objektivní a vyvážené informace a zakazují státním orgánům zasahovat do jejich činnosti."
+    },
+    {
+      "text": "Náš návrh ruší zastaralý systém televizních a rozhlasových poplatků a zavádí nový model financování prostřednictvím přímého příspěvku ze státního rozpočtu.",
+      "type": "citation",
+      "speaker": "Oto Klempíř",
+      "affiliation": "ministr kultury",
+      "timestamp": "1/04:46",
+      "screenshot_path": "summaries/screenshots/event_2824_highlight_01.jpg",
+      "context": "Aktuální legislativní návrh (tzv. velká mediální novela) nezavádí financování přímo ze státního rozpočtu, ale rozšiřuje definici poplatníka o domácnosti s chytrým telefonem či počítačem a navyšuje výši poplatků. Přímé financování ze státního rozpočtu by bylo v rozporu s dosavadním modelem nezávislého financování."
+    },
+    {
+      "text": "My plníme sliby, které jsme dávali voličům před volbami. Chceme od koncesionářských poplatků osvobodit ty nejzranitelnější skupiny.",
+      "type": "citation",
+      "speaker": "Patrik Nacher",
+      "affiliation": "poslanec",
+      "timestamp": "1/11:49",
+      "screenshot_path": "summaries/screenshots/event_2824_highlight_02.jpg",
+      "context": "Osvobození zranitelných skupin od poplatků (např. osoby s nízkými příjmy či zdravotním postižením) je součástí stávajícího zákona o rozhlasových a televizních poplatcích. Návrh novely tyto výjimky zachovává a dále specifikuje."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Redaktor Radek Bartoníček (Aktuálně.cz) zpochybnil upřímnost koalice v otázce nezávislosti médií vzhledem k jejich časté kritice vůči ČT a ČRo. Vládní představitelé (zejména Patrik Nacher a Oto Klempíř) reagovali odmítavě s tím, že kritika je legitimní součástí demokratické diskuse a její zpochybňování je nebezpečným filozofickým konceptem.",
+      "speaker": "Radek Bartoníček",
+      "affiliation": "Aktuálně.cz",
+      "timestamp": "1/27:15",
+      "screenshot_path": "summaries/screenshots/event_2824_controversy_00.jpg",
+      "context": "Otázka nezávislosti médií veřejné služby je předmětem politického sporu. Právo na kritiku médií je součástí svobody projevu (čl. 17 Listiny základních práv a svobod), nicméně hranice mezi legitimní kritikou a politickým tlakem na média veřejné služby není právně definována a zůstává předmětem politické debaty."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

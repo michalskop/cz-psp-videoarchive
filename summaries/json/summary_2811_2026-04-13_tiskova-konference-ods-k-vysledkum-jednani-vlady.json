@@ -1,0 +1,104 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:00:11",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2811",
+    "name": "Tisková konference ODS k výsledkům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-13T15:31",
+    "end_date": "2026-04-13T15:42",
+    "sources": [
+      "final/event_2811_2026-04-13_tiskova-konference-ods-k-vysledkum-jednani-vlady.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem reakce představitelů ODS na aktuální výsledky maďarských voleb a na kroky vlády Andreje Babiše, zejména v oblasti ekonomické politiky (regulace cen pohonných hmot) a zahraniční politiky.\n\nCílem vystoupení bylo kritizovat vládní zásahy do tržního prostředí, které ODS označuje za „socialistické centrální plánování“, a odsoudit přístup vlády k zahraniční reprezentaci a komunikaci s prezidentem. Zároveň představitelé ODS komentovali politickou změnu v Maďarsku jako příležitost pro posílení racionálního hlasu v EU.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Pogratuloval Péteru Magyarovi k vítězství v maďarských volbách; kritizoval vládní zastropování cen pohonných hmot jako „cestu špatným směrem“; navrhuje úpravu spotřební daně; odsoudil aroganci premiéra Babiše vůči prezidentovi a útoky na novináře.",
+      "**Jan Lipavský (ODS)** — Uvedl, že Orbánův odklon od demokratických standardů mu ve volbách uškodil; vyjádřil naději na konstruktivní spolupráci Maďarska v rámci EU a NATO; kritizoval vládní představitele za vazby na Viktora Orbána a zbytečné průtahy při přípravě delegace na summit NATO."
+    ],
+    "outcome": "ODS se jednoznačně staví proti vládnímu návrhu na zastropování cen pohonných hmot a odmítá jej podpořit, a to i v případě, že by byl projednáván ve stavu legislativní nouze. ODS prosazuje tržní řešení (úprava spotřební daně) a vyzývá vládu k ukončení konfrontační politiky vůči médiím a prezidentovi.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "NATO",
+      "EU"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zastropování cen je v tomto případě prostě cesta jednoznačně špatným směrem.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:42",
+      "screenshot_path": "summaries/screenshots/event_2811_highlight_00.jpg",
+      "context": "Jde o politický názor na ekonomický nástroj. Zastropování cen je předmětem odborných debat; zastánci zdůrazňují sociální ochranu, odpůrci (včetně ODS) varují před narušením tržních mechanismů a rizikem nedostatku zboží."
+    },
+    {
+      "text": "Česko má mluvit v zahraničí jedním hlasem, aktéři spolu mají komunikovat, mají si umět zvednout telefon a nemá je to obtěžovat.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/07:37",
+      "screenshot_path": "summaries/screenshots/event_2811_highlight_01.jpg",
+      "context": "Tento výrok vyjadřuje politický požadavek na jednotnou zahraniční politiku státu (tzv. 'jednotný hlas'). V českém ústavním systému je zahraniční politika v gesci vlády, přičemž koordinaci zajišťuje Ministerstvo zahraničních věcí ČR."
+    },
+    {
+      "text": "Andrej Babiš je opravdu slabý premiér, protože místo toho, aby udělal skutečné kroky, tak to tady rozmělňuje dětinskou hrou na písku.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/05:15",
+      "screenshot_path": "summaries/screenshots/event_2811_highlight_02.jpg",
+      "context": "Jde o subjektivní politické hodnocení schopností a stylu vládnutí Andreje Babiše. Hodnocení premiéra jako 'slabého' je politickou rétorikou, kterou nelze objektivně faktograficky ověřit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kontroverzní návrh: Zastropování cen pohonných hmot**\n    * **Kdo:** Vláda Andreje Babiše.\n    * **Co:** Zastropování cen pohonných hmot a záměr projednat další zásahy do trhu ve stavu legislativní nouze.\n    * **Proč:** ODS to považuje za „socialistické centrální plánování“, které ničí tržní prostředí a vyvolává chaos.\n    * **Čas:** 1/02:05 a 1/08:01.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:05",
+      "screenshot_path": "summaries/screenshots/event_2811_controversy_00.jpg",
+      "context": "Zastropování cen pohonných hmot bylo v minulosti předmětem politických sporů. Ekonomové se shodují, že plošné cenové stropy mohou vést k narušení nabídky a poptávky, což je v souladu s argumentací ODS o tržním prostředí."
+    },
+    {
+      "statement": "* **Kontroverzní výrok: Útoky na novináře a média**\n    * **Kdo:** Martin Kupka (ODS).\n    * **Co:** Obvinil Andreje Babiše z útoků na novináře a snahy omezovat svobodu projevu, přičemž jej přirovnal k Viktoru Orbánovi, který zestátňoval média.\n    * **Proč:** Jde o vážné obvinění premiéra z autoritářských praktik a ohrožování demokracie.\n    * **Čas:** 1/04:01.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/04:01",
+      "screenshot_path": "summaries/screenshots/event_2811_controversy_01.jpg",
+      "context": "Srovnání s Viktorem Orbánem a obvinění z omezování svobody médií jsou politická hodnocení. V mezinárodních žebříčcích (např. Reportéři bez hranic) byla v daném období svoboda médií v ČR i Maďarsku opakovaně diskutována, přičemž Maďarsko vykazovalo výrazně vyšší míru koncentrace médií v rukou vládních struktur."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

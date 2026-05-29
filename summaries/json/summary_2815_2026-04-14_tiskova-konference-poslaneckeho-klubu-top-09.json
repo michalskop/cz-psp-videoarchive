@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:59:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2815",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-14T11:20",
+    "end_date": "2026-04-14T11:44",
+    "sources": [
+      "final/event_2815_2026-04-14_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednacího týdne Poslanecké sněmovny. Cílem bylo představit priority a postoje TOP 09 k aktuálním politickým a ekonomickým tématům, včetně kritiky vládních kroků, návrhů na ústavní změny a legislativních priorit strany.\n\nHlavními tématy byly: kritika cenzury prezidenta republiky, spor o účast prezidenta na summitu NATO, návrh na ústavní zakotvení členství v EU a NATO, kritika vládního hospodaření a návrh zákona o cenách v legislativní nouzi.",
+    "main_points": [
+      "**Matěj Ondřej Havel (předseda TOP 09)** — Kritizoval údajnou cenzuru prezidenta republiky v armádním podcastu a požadoval odstoupení ministra obrany Jaromíra Zůny. Odsoudil snahu vlády zabránit prezidentovi v účasti na summitu NATO. Představil návrh (sněmovní tisk 135) na ústavní zakotvení členství ČR v NATO a EU.",
+      "**Jan Jakob (předseda poslaneckého klubu TOP 09)** — Kritizoval vládní návrh na změnu pravidel hospodaření státu (sněmovní tisk 90) jako slabý a snadno obejitelný. Navrhl čtyři opatření: posílení role Národní rozpočtové rady, zavedení reálných důsledků při porušení pravidel, vytvoření fiskální rezervy („výdajový polštář“) a zpřísnění výjimek z výdajových pravidel. Odmítl vládní návrh zákona o cenách, který označil za „socialistický experiment“.",
+      "**Vlastimil Válek (místopředseda výboru pro zdravotnictví)** — Navrhl předřazení bodu týkajícího se česko-slovenské smlouvy o přeshraniční spolupráci v oblasti zdravotnictví, který je aktuálně zařazen jako bod č. 66.",
+      "**Tematické body** — Opozice je připravena obstruovat případný mediální zákon. Podpora změny systému přijímacích zkoušek na střední školy."
+    ],
+    "outcome": "Jednání nevedlo k formálnímu rozhodnutí, neboť šlo o tiskovou konferenci. TOP 09 deklarovala připravenost prosazovat své návrhy a kritizovat vládní kroky.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Vlastimil Válek",
+        "person_id": "psp:person:6482",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Severoatlantická aliance",
+      "Evropská unie",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pro nás, pro TOP 09, je naprosto nepřijatelné, aby vrchní velitel našich ozbrojených sil byl v armádním podcastu umlčován.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/00:40",
+      "screenshot_path": "summaries/screenshots/event_2815_highlight_00.jpg",
+      "context": "Prezident republiky je dle Ústavy ČR vrchním velitelem ozbrojených sil. Incident, na který řečník odkazuje, se týká redakční úpravy podcastu Armády ČR, což je vnímáno jako politická debata o svobodě slova a nezávislosti armádních médií, nikoliv jako zákonné omezení pravomocí prezidenta."
+    },
+    {
+      "text": "Stát nemůže plánovat rozpočet na samé hraně, musí si vytvářet prostor pro horší časy, ať už pevně podle ekonomického cyklu nebo podle výše dluhu.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/07:36",
+      "screenshot_path": "summaries/screenshots/event_2815_highlight_01.jpg",
+      "context": "Tento výrok odpovídá principům fiskální odpovědnosti a tzv. fiskálnímu pravidlu, které je zakotveno v zákoně č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti. Cílem je udržitelnost veřejných financí skrze vytváření rezerv v době ekonomického růstu."
+    },
+    {
+      "text": "Ceny neurčuje vláda, ceny určuje trh. Jakmile je stát uměle stlačí, vždy se stane to samé, je vyšší poptávka, nižší nabídka, výpadky v dodávkách.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/10:01",
+      "screenshot_path": "summaries/screenshots/event_2815_highlight_02.jpg",
+      "context": "Z ekonomického hlediska jde o standardní teorii tržní rovnováhy. Státní cenové regulace (např. stropy) mohou skutečně vést k převisu poptávky nad nabídkou, což je jev popsaný v učebnicích mikroekonomie, nicméně v praxi závisí dopady na konkrétním typu trhu a elasticitě poptávky."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jan Jakob (TOP 09)\n**Co:** Označil vládní návrh za „miliardové plýtvání a socialistické experimenty“ a zpochybnil legitimitu legislativní nouze.\n**Proč:** Jde o zásadní střet o roli státu v ekonomice; opozice tvrdí, že vláda zneužívá legislativní nouzi, aby se vyhnula soudnímu přezkumu opatření.\n**Čas:** 1/08:04",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/08:04",
+      "screenshot_path": "summaries/screenshots/event_2815_controversy_00.jpg",
+      "context": "Použití legislativní nouze je upraveno zákonem č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny (§ 99). Opozice pravidelně napadá její využití u Ústavního soudu, který v minulosti (např. nález Pl. ÚS 55/10) konstatoval, že zneužití legislativní nouze může vést ke zrušení zákona, pokud nejsou splněny podmínky mimořádné situace."
+    },
+    {
+      "statement": "**Kdo:** Matěj Ondřej Havel (TOP 09)\n**Co:** Přirovnal současné praktiky vlády vůči prezidentovi k roku 1948 a „nastupující nové totalitě“.\n**Proč:** Jde o silné politické obvinění z autoritářství vůči vládní koalici.\n**Čas:** 1/00:00",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/00:00",
+      "screenshot_path": "summaries/screenshots/event_2815_controversy_01.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru. Srovnání s rokem 1948 a totalitním režimem nelze faktograficky ověřit, neboť jde o interpretaci politického stylu a demokratických standardů současné vlády, nikoliv o popis právního stavu státu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

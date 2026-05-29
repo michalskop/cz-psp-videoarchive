@@ -1,0 +1,119 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:52:50",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2831",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-16T11:05",
+    "end_date": "2026-04-16T11:26",
+    "sources": [
+      "final/event_2831_2026-04-16_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána jako reakce na vládní legislativní návrh týkající se změny financování veřejnoprávních médií (Česká televize a Český rozhlas). Představitelé Starostů ostře kritizovali záměr vlády přesunout financování médií přímo pod státní rozpočet, což interpretují jako snahu o politické ovládnutí médií a ohrožení jejich nezávislosti.\n\nDruhým pilířem konference byla kritika vládní zahraniční politiky a komunikace s prezidentem republiky, konkrétně v otázce složení delegace na summit v Ankaře, a zhodnocení úspěchů v evropských vyjednáváních o normě ETS2.",
+    "main_points": [
+      "**Vít Rakušan (Stínový premiér)** — Kritizuje vládní návrh jako „paskvil“ a pokus o politickou kontrolu médií. Deklaruje, že opozice využije všechny prostředky k jeho zablokování.",
+      "**Jan Lacina (Stínový ministr)** — Argumentuje, že současný systém koncesionářských poplatků je trvale udržitelný a jeho zrušení je nevratným krokem k destrukci mediálního ekosystému.",
+      "**David Smoljak (Senátor)** — Varuje před omezováním obsahu (zábava, dramatika) a rušením regionálních studií v důsledku vládního návrhu.",
+      "**Martin Dvořák (Stínový ministr)** — Vyzdvihl úspěch Danuše Nerudové při vyjednávání normy ETS2 a kritizoval vládní zmocněnce za nečinnost.",
+      "**Tematické body** — Opozice plánuje využít přednostních práv na mimořádné schůzi k otevření témat, která vláda ignoruje (média, energetika, zahraniční politika)."
+    ],
+    "outcome": "Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci opozice. Dominujícím postojem je odhodlání blokovat vládní návrh zákona o médiích všemi dostupnými parlamentními prostředky.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a useknutá slova. Obsah je však srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Jan Lacina",
+        "person_id": "psp:person:6737",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "David Smoljak",
+        "person_id": "psp:person:6632",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Martin Dvořák",
+        "person_id": "psp:person:5664",
+        "affiliation": "Starostové"
+      }
+    ],
+    "parties": [
+      "Starostové"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Není jiná možná interpretace, než že chtějí vzít médiím významný objem peněz a dávat jim je ze státního rozpočtu pod přímou politickou kontrolou.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/01:45",
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_00.jpg",
+      "context": "Jde o politickou interpretaci vládního návrhu zákona o České televizi a Českém rozhlasu. Zda navrhované změny financování vedou k přímé politické kontrole, je předmětem odborné a politické debaty, nikoliv objektivně ověřitelný fakt."
+    },
+    {
+      "text": "Česká televize a český rozhlas v té podobě, jak je známe dnes, by čtyři roky vlády Andreje Babiše přežít nemusely.",
+      "type": "paraphrase",
+      "speaker": "Jan Lacina",
+      "affiliation": "Starostové",
+      "timestamp": "1/11:29",
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_01.jpg",
+      "context": "Toto tvrzení je spekulativní a nelze jej nezávisle ověřit. Během vlád Andreje Babiše (2017–2021) nedošlo k legislativnímu zrušení či přímému ovládnutí těchto institucí, ačkoliv ze strany některých politiků ANO zaznívala kritika jejich hospodaření a obsahu."
+    },
+    {
+      "text": "Vláda chce poprvé v historii škálovat, co má veřejnoprávní médium vysílat, čímž otevírá dveře pro rušení zábavy a dramatiky.",
+      "type": "paraphrase",
+      "speaker": "David Smoljak",
+      "affiliation": "Starostové",
+      "timestamp": "1/08:03",
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_02.jpg",
+      "context": "Návrh novely zákona o ČT a ČRo skutečně obsahuje úpravy definice veřejné služby. Zda tyto úpravy fakticky povedou k rušení zábavy a dramatiky, je předmětem právního výkladu a budoucí praxe, nikoliv potvrzený důsledek zákona."
+    },
+    {
+      "text": "Tahle vláda je schopna dodržet jedinou dohodu – o nevydání svých předsedů k trestnímu stíhání.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/14:04",
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_03.jpg",
+      "context": "Tvrzení je politickou rétorikou. Vydání poslance k trestnímu stíhání je rozhodnutím Poslanecké sněmovny na základě žádosti orgánů činných v trestním řízení; v minulosti byly žádosti o vydání předsedů vládních stran v různých volebních obdobích řešeny rozdílně."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Jan Lacina (Starostové) prohlásil, že „pokud se jednou poplatky zruší, tak už to prostě nikdo nenahodí“ a že vláda se snaží „hacknout stát“.",
+      "speaker": "Jan Lacina",
+      "affiliation": "Starostové",
+      "timestamp": "1/06:04",
+      "screenshot_path": "summaries/screenshots/event_2831_controversy_00.jpg",
+      "context": "Výrok o „nenahození“ poplatků je názorem na politickou stabilitu legislativních změn. Termín „hacknout stát“ je metafora pro netransparentní či nestandardní legislativní postup, nikoliv právní nebo technický fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

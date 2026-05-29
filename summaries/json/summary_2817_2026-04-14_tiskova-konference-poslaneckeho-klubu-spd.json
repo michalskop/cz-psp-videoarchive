@@ -1,0 +1,130 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:58:35",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2817",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-14T12:00",
+    "end_date": "2026-04-14T12:21",
+    "sources": [
+      "final/event_2817_2026-04-14_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD byla zaměřena na prezentaci legislativních priorit vládní koalice, úsporná opatření v rámci Poslanecké sněmovny a vyjádření k aktuálním společenským a bezpečnostním tématům. Cílem bylo informovat veřejnost o konkrétních návrzích zákonů, které mají za úkol zpřísnit podmínky pro cizince, zvýšit tresty za vybrané trestné činy, podpořit rodiny a zajistit energetickou bezpečnost.\n\nSoučástí konference byla i kritika opozičních postojů a obhajoba vládních kroků v oblasti očkovací strategie a regulace cen pohonných hmot.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prezentoval úspory na zahraničních cestách (700 tis. Kč za kvartál), návrh na zpřísnění trestů za znásilnění a týrání zvířat, zpřísnění pobytu cizinců, ústavní právo na hotovost a legislativní nouzi pro regulaci cen pohonných hmot.",
+      "**Radek Koten (SPD)** — Představil novelu zákona o pobytu cizinců (digitalizace, odpovědnost garantů) a kritizoval bezpečnostní situaci v souvislosti s nálezy trhavin u cizinců.",
+      "**Lucie Šafránková (SPD)** — Informovala o čerpání rodičovského příspěvku před porodem, prodloužení příspěvku na mobilitu a návrzích SPD v Brně (nesouhlas se Sudetoněmeckým sněmem, zrušení dotací pro Meeting Brno).",
+      "**Jan Síla (SPD)** — Obhajoval dobrovolnost očkování a kritizoval vliv farmaceutických firem na Národní očkovací strategii.",
+      "**Marie Pošarová (SPD)** — Podpořila novelu zákona o podpoře bydlení, která omezuje poradenství obcí pouze na občany s trvalým pobytem."
+    ],
+    "outcome": "Jednání bylo informativní. Hnutí SPD potvrdilo svůj záměr prosadit legislativní změny v oblasti bezpečnosti, sociální podpory a regulace cen. Byla avizována mimořádná schůze sněmovny k zákonu o cenách pohonných hmot a zdůrazněna potřeba pokračovat v jednáních v rámci vládní koalice.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a opakujícím se frázím, nicméně hlavní politické postoje jsou z kontextu zřetelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radek Koten",
+        "person_id": "psp:person:6508",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Lucie Šafránková",
+        "person_id": "psp:person:6479",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Síla",
+        "person_id": "psp:person:6783",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Marie Pošarová",
+        "person_id": "psp:person:6745",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Socha",
+        "person_id": "psp:person:3914",
+        "affiliation": "CNN Prima News"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo spravedlnosti",
+      "Ministerstvo zemědělství",
+      "Evropská unie",
+      "WHO",
+      "Zastupitelstvo města Brna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Za první tři měsíce jsme tady utratili za zahraniční cesty 700 000 Kč, zatímco za mé předchůdkyně to bylo až 3 miliony Kč ročně.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:31",
+      "screenshot_path": "summaries/screenshots/event_2817_highlight_00.jpg",
+      "context": "Výdaje na zahraniční cesty vedení Poslanecké sněmovny jsou veřejně dostupné v rámci rozpočtu kapitoly Poslanecké sněmovny. Nelze nezávisle ověřit bez přístupu k detailnímu účetnictví za konkrétní srovnávaná období, neboť výdaje mohou být ovlivněny aktuální mezinárodní situací a počtem oficiálních delegací."
+    },
+    {
+      "text": "Nově bude možné čerpat rodičovský příspěvek už dva měsíce před porodem, a to ve výši 15 000 Kč měsíčně.",
+      "type": "citation",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/11:06",
+      "screenshot_path": "summaries/screenshots/event_2817_highlight_01.jpg",
+      "context": "Podle platné legislativy (zákon č. 117/1995 Sb., o státní sociální podpoře) rodičovský příspěvek náleží od narození dítěte. Návrh na čerpání před porodem není součástí platného zákona, jde o politický návrh SPD, nikoliv o platnou právní úpravu."
+    },
+    {
+      "text": "Chceme, aby zastupitelstvo Brna zásadně nesouhlasilo s konáním Sudetoněmeckého sněmu na území města.",
+      "type": "paraphrase",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/12:10",
+      "screenshot_path": "summaries/screenshots/event_2817_highlight_02.jpg",
+      "context": "Jde o politický požadavek, nikoliv o právní skutečnost. Rozhodování o konání akcí na území města je v kompetenci samosprávy Brna a pořadatelů, přičemž konání takových akcí podléhá zákonu o právu shromažďovacím."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Zrušení dotací pro spolek Meeting Brno a nesouhlas s konáním Sudetoněmeckého sněmu v Brně.\n- **Kdo:** Lucie Šafránková (SPD).\n- **Proč:** Politicky citlivé téma otevírající otázky česko-německých vztahů a historické paměti.\n- **Čas:** 1/12:05",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/12:05",
+      "screenshot_path": "summaries/screenshots/event_2817_controversy_00.jpg",
+      "context": "Dotace pro spolek Meeting Brno jsou předmětem rozhodování zastupitelstva města Brna. Jde o politickou debatu o prioritách městského rozpočtu a interpretaci historie, nikoliv o faktografický spor."
+    },
+    {
+      "statement": "**Kontroverzní výrok:** Obvinění tajných služeb z nečinnosti („zimní spánek“) v souvislosti s nálezy trhavin u cizinců.\n- **Kdo:** Radek Koten (SPD).\n- **Proč:** Přímé zpochybnění kompetence bezpečnostních složek státu.\n- **Čas:** 1/08:00",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/08:00",
+      "screenshot_path": "summaries/screenshots/event_2817_controversy_01.jpg",
+      "context": "Výrok je subjektivním politickým hodnocením práce bezpečnostních složek (BIS, Policie ČR). Činnost tajných služeb podléhá zákonné kontrole ze strany Stálé komise pro kontrolu činnosti BIS, která o jejich aktivitách veřejně neinformuje."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

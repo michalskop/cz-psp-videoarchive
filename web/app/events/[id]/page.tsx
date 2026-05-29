@@ -12,6 +12,7 @@ import { CategoryBadge } from "../../components/CategoryBadge";
 import { QualityBadge } from "../../components/QualityBadge";
 import { HighlightCard } from "../../components/HighlightCard";
 import { ControversyCard } from "../../components/ControversyCard";
+import { RenderMd } from "../../components/RenderMd";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -101,9 +102,10 @@ export default async function EventPage({ params }: Props) {
       {/* Téma */}
       <section className="mb-8">
         <h2 className="font-slab font-semibold text-lg text-navy-9 mb-3">Téma</h2>
-        <div className="font-slab text-base leading-relaxed whitespace-pre-line text-foreground">
-          {s.summary.topic}
-        </div>
+        <RenderMd
+          text={s.summary.topic}
+          className="font-slab text-base leading-relaxed text-foreground space-y-2"
+        />
       </section>
 
       {/* Hlavní body */}
@@ -116,7 +118,7 @@ export default async function EventPage({ params }: Props) {
                 key={i}
                 className="font-slab text-sm leading-relaxed text-foreground pl-4 border-l-2 border-border"
               >
-                <MainPoint text={point} />
+                <RenderMd text={point} className="space-y-1" />
               </li>
             ))}
           </ul>
@@ -126,9 +128,10 @@ export default async function EventPage({ params }: Props) {
       {/* Výsledek */}
       <section className="mb-8">
         <h2 className="font-slab font-semibold text-lg text-navy-9 mb-3">Výsledek</h2>
-        <div className="font-slab text-base leading-relaxed whitespace-pre-line text-foreground">
-          {s.summary.outcome}
-        </div>
+        <RenderMd
+          text={s.summary.outcome}
+          className="font-slab text-base leading-relaxed text-foreground space-y-2"
+        />
       </section>
 
       {/* Výrazné momenty */}
@@ -222,18 +225,4 @@ export default async function EventPage({ params }: Props) {
   );
 }
 
-function MainPoint({ text }: { text: string }) {
-  const parts = text.split(/(\*\*[^*]+\*\*)/g);
-  return (
-    <>
-      {parts.map((p, i) =>
-        p.startsWith("**") ? (
-          <strong key={i}>{p.slice(2, -2)}</strong>
-        ) : (
-          <span key={i}>{p}</span>
-        )
-      )}
-    </>
-  );
-}
 

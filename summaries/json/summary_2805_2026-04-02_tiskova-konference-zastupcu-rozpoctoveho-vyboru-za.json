@@ -1,0 +1,103 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:45:15",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2805",
+    "name": "Tisková konference zástupců rozpočtového výboru za Starosty",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-02T12:32",
+    "end_date": "2026-04-02T12:45",
+    "sources": [
+      "final/event_2805_2026-04-02_tiskova-konference-zastupcu-rozpoctoveho-vyboru-za.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3-turbo"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána zástupci hnutí STAN v rozpočtovém výboru Poslanecké sněmovny za účelem představení legislativních priorit a reakce na aktuální vládní kroky v oblasti fiskální politiky. Hlavními tématy byly návrh na zavedení daňového bonusu pro nízkopříjmové pracující, náprava chyb v důchodovém spoření a kritika vládních snah o oslabení parlamentní kontroly nad státním rozpočtem.\n\nCílem vystoupení bylo prezentovat konstruktivní opoziční přístup, který klade důraz na cílenou podporu občanů, transparentnost hospodaření státu a odpovědnost za rozpočtové dopady.",
+    "main_points": [
+      "**Jan Papajanovský (STAN)** — Představil návrh novely zákona o daních z příjmů zavádějící daňový bonus pro nízkopříjmové pracující. Návrh má být téměř daňově neutrální (náklady max. 500 mil. Kč ročně) a má přinést cca 100 000 lidem průměrně 5 000 Kč ročně.",
+      "**Věra Kovářová (STAN)** — Přiznala chybu hnutí při schvalování důchodové reformy. Podpořila vládní novelu, která umožňuje ukončení spoření bez sankcí pro smlouvy uzavřené do konce roku 2023 a vracení státních příspěvků pro ty, kteří již spoření ukončili.",
+      "**Lucie Sedmihradská (STAN)** — Kritizovala vládní snahu o oslabení role Poslanecké sněmovny při kontrole hospodaření. Představila sadu pozměňovacích návrhů, které mají zajistit transparentnost a legislativní dohled.",
+      "**Tematické body** — Zástupci STAN vyjádřili pochybnosti o plošném zastropování marží čerpacích stanic a varovali před trvalým snížením spotřební daně, přičemž zdůraznili nutnost cílené pomoci."
+    ],
+    "outcome": "Hnutí STAN bude v Poslanecké sněmovně prosazovat svůj návrh na daňový bonus pro nízkopříjmové a hodlá předložit pozměňovací návrhy k vládní novele rozpočtových pravidel, aby zachovalo transparentnost a kontrolní roli Sněmovny. V otázce cen pohonných hmot hnutí preferuje vyčkávací taktiku a cílenou podporu, přičemž o konkrétním postoji k vládním opatřením bude ještě jednat na poslaneckém klubu.",
+    "notes": "Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech týkajících se technických detailů rozpočtových pravidel a v závěru projevu Věry Kovářové), které byly pro potřeby shrnutí interpretovány na základě kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Rozpočtový výbor",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Náš návrh na zavedení daňového bonusu zatíží státní rozpočet maximálně 500 miliony korun ročně.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/01:12",
+      "screenshot_path": "summaries/screenshots/event_2805_highlight_00.jpg",
+      "context": "Tvrzení o dopadu 500 milionů Kč je odhadem založeným na modelaci navrhovaných parametrů daňového bonusu. Přesná částka závisí na počtu reálných žadatelů a jejich příjmové struktuře, což lze ověřit až po zpracování dat Finanční správou ČR po případném schválení zákona."
+    },
+    {
+      "text": "Zhruba 100 000 pracujícím lidem v České republice s nejnižšími příjmy by tento náš návrh přinesl ročně v průměru do jejich peněženek zhruba 5 000 Kč navíc.",
+      "type": "citation",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/02:21",
+      "screenshot_path": "summaries/screenshots/event_2805_highlight_01.jpg",
+      "context": "Výpočet vychází z matematického modelu (100 000 osob × 5 000 Kč = 500 milionů Kč). Jde o teoretický průměr, který předpokládá, že všichni cíloví příjemci dosáhnou na plnou výši bonusu; reálný dopad se může lišit v závislosti na konkrétní výši příjmů jednotlivých poplatníků."
+    },
+    {
+      "text": "Vláda navrhuje zrušit zprávu za první a třetí čtvrtletí a vlastně tím odstranit tu povinnost skládat účty v té frekvenci, na kterou jsme byli zvyklí.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/07:06",
+      "screenshot_path": "summaries/screenshots/event_2805_highlight_02.jpg",
+      "context": "Vláda skutečně navrhuje v rámci legislativních změn zjednodušení vykazování rozpočtového hospodaření. Změna frekvence zpráv (z kvartálních na pololetní) je v souladu s vládním záměrem snížit administrativní zátěž, avšak opozice ji legitimně kritizuje jako oslabení průběžné kontroly státního rozpočtu ze strany zákonodárců."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Lucie Sedmihradská (STAN)\n**Co:** Obvinila vládu z pokusu oslabit roli Poslanecké sněmovny při kontrole hospodaření státu skrze zrušení povinnosti předkládat zprávy za 1. a 3. čtvrtletí.\n**Proč:** Je to politicky citlivé, protože vláda deklaruje transparentnost, ale fakticky omezuje parlamentní dohled nad rozpočtovými toky.\n**Čas:** 1/06:01",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/06:01",
+      "screenshot_path": "summaries/screenshots/event_2805_controversy_00.jpg",
+      "context": "Jde o politickou interpretaci legislativního návrhu na změnu zákona o rozpočtových pravidlech. Zatímco vláda argumentuje efektivitou a snížením byrokracie, fakticky dochází k omezení četnosti informování Sněmovny o plnění rozpočtu, což je ověřitelný fakt, jehož dopad na transparentnost je předmětem politického sporu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

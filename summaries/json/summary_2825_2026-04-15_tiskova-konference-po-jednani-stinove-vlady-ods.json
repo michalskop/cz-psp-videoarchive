@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:54:45",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2825",
+    "name": "Tisková konference po jednání stínové vlády ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-15T16:07",
+    "end_date": "2026-04-15T16:32",
+    "sources": [
+      "final/event_2825_2026-04-15_tiskova-konference-po-jednani-stinove-vlady-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána po jednání stínové vlády ODS s cílem představit tzv. „krizový nárazník“. Cílem tohoto souboru opatření je ochránit české domácnosti, firmy a ekonomiku před negativními dopady blízkovýchodní krize, které se projevují nejen vysokými cenami pohonných hmot, ale i nedostatkem surovin a zdražováním financování.\n\nStínová vláda kritizovala současný kabinet Andreje Babiše za nečinnost a vyzvala jej k přepracování rozpočtu na rok 2026, upuštění od populistických slibů a zajištění rozpočtové rezervy.",
+    "main_points": [
+      "**Martin Kupka (předseda ODS)** — Kritika vlády za „socialistické hrátky“ s cenami pohonných hmot a nečinnost v souvislosti s krizí. Výzva vládě, aby zveřejnila stav zásob ropy, plynu a dalších kritických komodit. Deklaroval podporu nezávislosti médií veřejné služby.",
+      "**Jan Skopeček (místopředseda sněmovny, stínový ministr financí)** — Navrhuje zrušení zastropování marží u paliv a plošné snížení spotřební daně na naftu i benzín. Navrhuje zrychlení daňových odpisů a zvýšení limitu pro technické zhodnocení majetku z 80 000 Kč na 200–300 000 Kč.",
+      "**Pavel Drobil (místopředseda ODS, stínový ministr průmyslu a obchodu)** — Navrhuje odklad plateb DPH a prodloužení odvodového období z jednoho na tři měsíce. Doporučuje aktivaci programu „Záruka energie“ přes Národní rozvojovou banku a zřízení jednotného kontaktního místa pro žádosti firem.",
+      "**Jiří Havránek (stínový ministr práce a sociálních věcí)** — Kritizoval chaos v projednávání stavebního zákona a absenci vládních pozměňovacích návrhů. Podpořil zpružnění státní stavební správy a snížení počtu úřadů."
+    ],
+    "outcome": "Stínová vláda ODS zaslala svůj soubor sedmi opatření na Úřad vlády jako doporučení k inspiraci. Nebylo dosaženo žádného formálního rozhodnutí, neboť jde o opoziční návrhy. Dominujícím postojem je požadavek na přísnější rozpočtovou disciplínu, odmítnutí rozvolňování rozpočtových pravidel a důraz na adresnou pomoc firmám zasaženým energetickou krizí.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a opakujícím se frázím, nicméně hlavní argumentační linie řečníků jsou zřetelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Pavel Drobil",
+        "person_id": "psp:person:5907",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Národní rozvojová banka",
+      "Česká exportní banka",
+      "EGAP"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Navrhujeme sedm konkrétních kroků, které mají pomoci ochránit české domácnosti, firmy a českou ekonomiku jako celek.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:31",
+      "screenshot_path": "summaries/screenshots/event_2825_highlight_00.jpg",
+      "context": "Jde o politické prohlášení o záměru. Konkrétní kroky jsou předmětem politické debaty a jejich dopad na ekonomiku nelze objektivně ověřit před jejich implementací."
+    },
+    {
+      "text": "Navrhujeme snížit spotřební daň nejenom na naftu, ale i na benzín, protože dobře víme, že benzín používá ke svému podnikání celá velká skupina živnostníků.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/04:53",
+      "screenshot_path": "summaries/screenshots/event_2825_highlight_01.jpg",
+      "context": "Sazby spotřebních daní z minerálních olejů upravuje zákon č. 353/2003 Sb., o spotřebních daních. Návrh na snížení sazeb je legitimním politickým nástrojem, jehož ekonomický dopad na státní rozpočet a ceny pro konečné spotřebitele je předmětem odborných analýz MF ČR."
+    },
+    {
+      "text": "Stínová vláda Občanských demokratů stojí jednomyslně za nezávislostí médií veřejné služby a jsme proti zrušení koncesionářských poplatků.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/14:24",
+      "screenshot_path": "summaries/screenshots/event_2825_highlight_02.jpg",
+      "context": "Koncesionářské poplatky jsou zákonem stanoveným zdrojem financování České televize a Českého rozhlasu (zákony č. 483/1991 Sb. a č. 484/1991 Sb.). Postoj strany k jejich zachování je deklarovanou politickou prioritou."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika novely zákona o rozpočtových pravidlech a pozměňovacích návrhů ministryně Schillerové. ODS to vnímá jako „vrcholně trapnou“ snahu o rozvolnění rozpočtových pravidel, která umožní vládě financovat předvolební sliby namísto deklarovaných priorit (obrana, infrastruktura).",
+      "speaker": "Jan Skopeček a Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/16:00",
+      "screenshot_path": "summaries/screenshots/event_2825_controversy_00.jpg",
+      "context": "Hodnocení „vrcholně trapná“ je subjektivní politický názor. Rozpočtová pravidla a jejich případné rozvolňování jsou regulovány zákonem č. 218/2000 Sb., o rozpočtových pravidlech; dopady konkrétních pozměňovacích návrhů na deficit státního rozpočtu podléhají analýzám Národní rozpočtové rady."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

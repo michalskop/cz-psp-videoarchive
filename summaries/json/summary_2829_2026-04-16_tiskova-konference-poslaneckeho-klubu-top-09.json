@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:53:29",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2829",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-16T10:19",
+    "end_date": "2026-04-16T10:42",
+    "sources": [
+      "final/event_2829_2026-04-16_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala 16. dubna 2026 před mimořádnou schůzí Poslanecké sněmovny. Hlavním cílem bylo představit opoziční postoje k aktuálním vládním krokům, které TOP 09 považuje za ohrožení bezpečnosti státu, svobody médií a řádné správy věcí veřejných.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** – Upozornil na střet zájmů poradkyně na MPSV (škoda 100 mil. Kč), kritizoval vyloučení prezidenta z delegace na summit NATO a vyzval k odstoupení ministra Zůny.",
+      "**Michal Zuna (TOP 09)** – Kritizoval bezpečnostní chaos vlády, proruské tendence v zahraniční politice a nestandardní vliv SPD na výběr armádních špiček.",
+      "**Břetislav Rychlík (Senátor)** – Označil vládní návrh zákona o médiích za likvidační paskvil a varoval před útokem na svobodu slova.",
+      "**Lukáš Otis (TOP 09)** – Kritizoval plošné cenové stropy u pohonných hmot jako likvidační pro podnikatele a vyzval k přípravě krizových scénářů pro energetickou bezpečnost."
+    ],
+    "outcome": "Nebyl přijat žádný formální závěr. Opozice vyjádřila odhodlání k bezprecedentním obstrukcím v případě projednávání vládních návrhů směřujících proti veřejnoprávním médiím.",
+    "notes": "Přepis obsahuje drobné chyby v identifikaci jmen ministrů a jejich resortů způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Michal Zuna",
+        "person_id": "psp:person:6796",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Břetislav Rychlík",
+        "person_id": "psp:person:6962",
+        "affiliation": "Senát"
+      },
+      {
+        "name": "Lukáš Otis",
+        "person_id": null,
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Ministerstvo práce a sociálních věcí",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Hrozí České republice škoda až ve výši 100 milionů Kč kvůli pozici paní poradkyně Semancové na ministerstvu práce.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/00:30",
+      "screenshot_path": "summaries/screenshots/event_2829_highlight_00.jpg",
+      "context": "Tvrzení se týká údajného střetu zájmů poradkyně ministra práce a sociálních věcí. Částka 100 milionů Kč je odhadem možných sankcí či ztrát z dotací, nelze však nezávisle ověřit, zda již byla tato škoda oficiálně vyčíslena kontrolními orgány, jako je NKÚ nebo auditní orgány MF ČR."
+    },
+    {
+      "text": "Jakýkoliv útok na veřejnoprávní média je z našeho pohledu nepřijatelný, budeme proti němu bojovat.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/19:51",
+      "screenshot_path": "summaries/screenshots/event_2829_highlight_01.jpg",
+      "context": "Jde o politický postoj a deklaraci hodnotové orientace strany TOP 09. Pojem „útok na veřejnoprávní média“ je subjektivní interpretace politických kroků, kterou nelze fakticky verifikovat jako objektivní právní či fyzický akt."
+    },
+    {
+      "text": "Ministr Klempíř předložil jakýsi paskvil, aniž by ho konzultoval s odbornou veřejností, což vede k likvidaci veřejnoprávních médií.",
+      "type": "citation",
+      "speaker": "Břetislav Rychlík",
+      "affiliation": "Senát",
+      "timestamp": "1/10:49",
+      "screenshot_path": "summaries/screenshots/event_2829_highlight_02.jpg",
+      "context": "Tvrzení o „likvidaci“ médií je politickou rétorikou a hodnotícím úsudkem. Zda proběhly konzultace s odbornou veřejností, je ověřitelné skrze legislativní proces (eKLEP), kde se zveřejňují připomínky k návrhům zákonů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "TOP 09 oznámila, že v případě projednávání zákona o veřejnoprávních médiích jsou připraveni v budově Sněmovny „bydlet“ a provádět obstrukce, jaké Sněmovna ještě nezažila.",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/14:05",
+      "screenshot_path": "summaries/screenshots/event_2829_controversy_00.jpg",
+      "context": "Ohlášení obstrukcí je legitimním politickým nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Zda budou obstrukce „takové, jaké Sněmovna ještě nezažila“, je subjektivní politické prohlášení, které nelze předem fakticky potvrdit."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

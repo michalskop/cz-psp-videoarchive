@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:50:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2835",
+    "name": "Národní paměťové instituce v zemích V4",
+    "classification": "Konference",
+    "start_date": "2026-04-20T09:00",
+    "end_date": "2026-04-20T16:00",
+    "sources": [
+      "final/event_2835_2026-04-20_narodni-pametove-instituce-v-zemich-v4.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 38,
+    "parts_total": 38,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Konference se zaměřila na roli, výzvy a transformaci národních paměťových institucí v zemích Visegrádské čtyřky (V4) po roce 1989. Cílem bylo zhodnotit dosavadní práci archivů a ústavů při vyrovnávání se s totalitní minulostí (nacismus a komunismus), sdílet zkušenosti s digitalizací a edukací a diskutovat o aktuální hrozbě hybridních aktivit a propagandy, které zneužívají historii.\n\nJednání zdůraznilo, že paměťová agenda není pouze historickou záležitostí, ale klíčovým prvkem národní bezpečnosti a rezilience demokratických států. Účastníci se shodli na nutnosti mezinárodní spolupráce a sdílení dat, aby bylo možné čelit manipulacím s dějinami, které jsou v současnosti využívány imperiálními mocnostmi.",
+    "main_points": [
+      "**Pavel Žáček (Poslanec, ČR)** — zdůraznil význam paměťových institucí pro transformaci státu a kritizoval ztracený čas v 90. letech při otevírání archivů.",
+      "**Marek Mutor (Platforma evropské paměti a svědomí)** — varoval před zneužíváním historie v propagandě a volal po pan-evropské paměťové instituci v Bruselu.",
+      "**Karol Polejowski (IPN, Polsko)** — prezentoval rozsáhlé kapacity IPN a varoval před procesem „zrekomunizace“ společnosti v Polsku.",
+      "**Michal Miklovič (ÚPN, Slovensko)** — popsal mapování mocenského aparátu a odstraňování totalitních symbolů na Slovensku.",
+      "**Mikuláš Kroupa (Post Bellum, ČR)** — zdůraznil nezávislost občanského sektoru a kritizoval politický tlak na paměťové instituce.",
+      "**Jan Mrzena (Rada ÚSTR, ČR)** — varoval před riziky spojenými s legislativním sloučením Archivu bezpečnostních složek s Národním archivem v roce 2030.",
+      "**Dalibor Sypták (UDV, ČR)** — vysvětlil roli Úřadu dokumentace a vyšetřování jako orgánu činného v trestním řízení, který převádí historickou paměť do právní odpovědnosti."
+    ],
+    "outcome": "Jednání potvrdilo, že modely paměťových institucí v zemích V4 se liší, ale sdílejí společný cíl: ochranu pravdy o totalitních režimech. Dominujícím postojem je obava z politizace paměťové agendy a z rizik spojených s legislativními změnami (např. v ČR sloučení archivů v roce 2030). Účastníci se shodli na nutnosti prohloubit spolupráci v oblasti digitalizace a využívání umělé inteligence pro analýzu archivních dat.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze („Národní paměťové instituce v zemích V4“) a nesrozumitelné pasáže způsobené automatickým přepisem. Obsah byl rekonstruován na základě srozumitelných částí záznamu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Pavel Žáček",
+        "person_id": "psp:person:5226",
+        "affiliation": "Poslanecká sněmovna ČR"
+      },
+      {
+        "name": "Marek Mutor",
+        "person_id": "psp:person:6420",
+        "affiliation": "Platforma evropské paměti a svědomí"
+      },
+      {
+        "name": "Karol Polejowski",
+        "person_id": null,
+        "affiliation": "IPN Polsko"
+      },
+      {
+        "name": "Mikuláš Kroupa",
+        "person_id": null,
+        "affiliation": "Post Bellum"
+      },
+      {
+        "name": "Jan Mrzena",
+        "person_id": "psp:person:5230",
+        "affiliation": "Rada ÚSTR"
+      },
+      {
+        "name": "Dalibor Sypták",
+        "person_id": null,
+        "affiliation": "UDV"
+      }
+    ],
+    "parties": [
+      "V4"
+    ],
+    "institutions": [
+      "ÚSTR",
+      "ABS",
+      "IPN",
+      "ÚPN",
+      "Post Bellum",
+      "UDV"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Paměť bez pravidelnosti je jen vzpomínka, spravedlnost bez paměti není možná.",
+      "type": "citation",
+      "speaker": "Dalibor Sypták",
+      "affiliation": "UDV",
+      "timestamp": "34/04:16",
+      "screenshot_path": "summaries/screenshots/event_2835_highlight_00.jpg",
+      "context": "Jde o filozofický a rétorický výrok, který nelze fakticky ověřit, neboť se nejedná o tvrzení o objektivní realitě, ale o hodnotový soud."
+    },
+    {
+      "text": "Bez archivů, které máme otevřené, bychom se v dokumentování příběhů neobešli.",
+      "type": "citation",
+      "speaker": "Mikuláš Kroupa",
+      "affiliation": "Post Bellum",
+      "timestamp": "23/07:02",
+      "screenshot_path": "summaries/screenshots/event_2835_highlight_01.jpg",
+      "context": "Přístup k archivům v ČR upravuje zákon č. 499/2004 Sb., o archivnictví a spisové službě. Organizace Post Bellum dlouhodobě využívá materiály z Archivu bezpečnostních složek (ABS) a dalších institucí pro projekt Paměť národa."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Mikuláš Kroupa kritizoval současnou politickou situaci na Slovensku a v ČR. Uvedl, že na Slovensku čelí paralyzující kontrole ze strany státu a v ČR kritizoval vládu za zrušení Rady pro paměťovou agendu a nízký zájem o toto téma.",
+      "speaker": "Mikuláš Kroupa",
+      "affiliation": "Post Bellum",
+      "timestamp": "24/06:04",
+      "screenshot_path": "summaries/screenshots/event_2835_controversy_00.jpg",
+      "context": "Situace na Slovensku (např. změny v RTVS či Ústavu paměti národa) je předmětem mezinárodní kritiky kvůli obavám z politizace. Co se týče ČR, vláda v rámci úsporných opatření skutečně zrušila Radu vlády pro paměťovou agendu (zřízenou v roce 2022), což vyvolalo kritiku části odborné veřejnosti, která to vnímá jako oslabení institucionální podpory paměťových témat."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "poor",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

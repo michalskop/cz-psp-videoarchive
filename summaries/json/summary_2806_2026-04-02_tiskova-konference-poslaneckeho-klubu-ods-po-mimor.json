@@ -1,0 +1,102 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:46:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2806",
+    "name": "Tisková konference poslaneckého klubu ODS po mimořádném jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-02T13:33",
+    "end_date": "2026-04-02T13:55",
+    "sources": [
+      "final/event_2806_2026-04-02_tiskova-konference-poslaneckeho-klubu-ods-po-mimor.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS reagovala na mimořádné jednání vlády, které se týkalo rostoucích cen pohonných hmot. Hlavním cílem vystoupení bylo zhodnotit vládní kroky, konkrétně rozhodnutí o snížení spotřební daně na naftu a zavedení regulace marží čerpacích stanic.\n\nPředstavitelé ODS vládní postup označili za chaotický a nekoncepční. Zatímco snížení spotřební daně (které ODS dlouhodobě navrhovala) přivítali, ostře se vymezili proti regulaci marží, kterou považují za škodlivý zásah do tržního prostředí, jenž může vést k opačnému efektu – tedy ke zdražení pohonných hmot v regionech.",
+    "main_points": [
+      "**Martin Kupka (ODS)** – Ocenil snížení spotřební daně na naftu, kritizoval opomenutí benzínu a označil vládní postup za chaotický. Varoval, že regulace marží na 2,50 Kč povede k jejich umělému zvyšování u stanic, které měly marže nižší.",
+      "**Jan Skopeček (ODS)** – Označil regulaci marží za „atomovou bombu“ pro trh. Varoval před rizikem nedostatku paliv a front a kritizoval obcházení standardního legislativního procesu vládou.",
+      "**Vojtěch Munzar (ODS)** – Zdůraznil, že regulace cen je netržní nástroj, který v regionech způsobí růst cen a může vést ke stahování paliv z trhu."
+    ],
+    "outcome": "Jednání nebylo legislativním aktem, ale politickým vyjádřením opozice. ODS potvrdila, že bude nadále prosazovat svá řešení a připravuje podklady pro mimořádnou schůzi Poslanecké sněmovny, kde chce kromě cen pohonných hmot řešit také dopady krize na Blízkém východě na českou ekonomiku, energetiku a ceny hnojiv. ODS odmítá podpořit vládní návrh zákona o regulaci marží.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My jsme včera adresovali Strakovce usnesení stínové vlády, kde jí vyzýváme, aby tyhle kroky přesně udělaly, aby opravdu sáhly k dočasnému snížení spotřební daně.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:58",
+      "screenshot_path": "summaries/screenshots/event_2806_highlight_00.jpg",
+      "context": "Existence usnesení stínové vlády je politickým faktem, nicméně snížení spotřební daně je v pravomoci vlády a Parlamentu ČR. Účinnost tohoto kroku jako nástroje pro snížení cen pohonných hmot je předmětem ekonomických debat, přičemž v minulosti (např. 2022) byla spotřební daň na naftu skutečně dočasně snížena."
+    },
+    {
+      "text": "Ta regulace marží je neefektivní a nebezpečný nástroj, neefektivní v tom smyslu, že je možné zejména od velkých hráčů snadno tu marži obejít.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/04:23",
+      "screenshot_path": "summaries/screenshots/event_2806_highlight_01.jpg",
+      "context": "Argument o neefektivitě regulace marží je standardním liberálním ekonomickým postojem. V praxi je kontrola marží u velkých řetězců náročná na administrativu a může vést k tzv. „přelévání“ zisků do jiných částí dodavatelského řetězce, což potvrzují analýzy např. Národní ekonomické rady vlády (NERV)."
+    },
+    {
+      "text": "Vláda měla přistoupit pouze ke snížení spotřební daně a atomovou bombu v podobě regulace cen měla nechat spát a ležet.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/06:11",
+      "screenshot_path": "summaries/screenshots/event_2806_highlight_02.jpg",
+      "context": "Označení regulace cen za „atomovou bombu“ je metafora vyjadřující obavu z tržních deformací, jako je nedostatek zboží nebo vznik černého trhu. Ekonomická teorie (např. zákon nabídky a poptávky) potvrzuje, že plošné cenové stropy mohou vést k výpadkům v zásobování, pokud jsou nastaveny pod úrovní tržní rovnováhy."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Regulace marží čerpacích stanic (strop 2,50 Kč)**\n* **Kdo:** Vláda ČR\n* **Co:** Zavedení maximální marže pro prodejce pohonných hmot.\n* **Proč:** ODS to považuje za „atomovou bombu“ pro trh, která povede k nedostatku paliv a růstu cen v regionech.\n* **Čas:** 1/02:03",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:03",
+      "screenshot_path": "summaries/screenshots/event_2806_controversy_00.jpg",
+      "context": "Regulace marží čerpacích stanic je v ČR legislativně možná na základě zákona č. 526/1990 Sb., o cenách. Rizika spojená s tímto krokem, jako je riziko nedostatku paliv v odlehlejších regionech kvůli nerentabilitě menších stanic, jsou častým argumentem odpůrců státních zásahů do cenotvorby."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

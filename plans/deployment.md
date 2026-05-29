@@ -5,52 +5,33 @@
 
 ---
 
-## Stage 1 — GitHub Pages (testing)
+## Stage 1 — GitHub Pages (testing) ✅ DONE
 
-For development validation before production wiring.
+Live at `https://michalskop.github.io/cz-psp-videoarchive/`
 
 ### Setup
-1. In `web/next.config.js`, use env-controlled `basePath` and `assetPrefix`:
-   ```js
-   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
-   module.exports = {
-     output: 'export',
-     basePath,
-     assetPrefix: basePath,
-     images: { unoptimized: true }, // required for static export
-   };
-   ```
-2. Add GitHub Actions workflow `.github/workflows/deploy.yml`:
-   ```yaml
-   name: Deploy to GitHub Pages
-   on:
-     push:
-       branches: [main]
-       paths: ['web/**', 'summaries/json/**']
-   jobs:
-     build-deploy:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v4
-         - uses: actions/setup-node@v4
-           with: { node-version: '20' }
-         - run: cd web && npm ci && npm run build
-           env:
-             NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
-         - uses: actions/deploy-pages@v4
-   ```
-3. In GitHub repo Settings → Pages: source = GitHub Actions.
-4. Testing URL: `https://[username].github.io/[repo-name]/`
+- [x] `web/next.config.ts` — env-controlled `basePath` and `assetPrefix` (`NEXT_PUBLIC_BASE_PATH`)
+- [x] `output: "export"`, `images: { unoptimized: true }`
+- [x] `.github/workflows/deploy.yml`:
+  - Node 24, `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true`
+  - Copies `summaries/json/*.json`, `summary.schema.json`, `SKILL.md` to `web/public/`
+  - Builds with `NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}`
+  - Deploys via `actions/upload-pages-artifact@v3` + `actions/deploy-pages@v4`
+- [x] GitHub repo Settings → Pages: source = GitHub Actions
 
-### Limitations on GitHub Pages
+### Known limitations on GitHub Pages
 - No server-side rendering (static export only — already planned)
-- `robots.txt` and `llms.txt` use production URLs (canonical), not the GitHub Pages URL
-- B2 screenshots work fine (absolute URLs in JSON)
-- `basePath` must match the repo name exactly
+- No server-side request logs → bots/AI crawlers not tracked (see bot tracking section in `web-publication.md`)
+- `robots.txt` and `llms.txt` use production canonical URLs, not the GitHub Pages URL
+- B2 screenshot URLs work fine (absolute)
+
+### Pipeline automation
+- [x] `pipeline.sh` — full local pipeline: sync → transcribe → summarize → upload_screenshots → git push
+- [x] `crontab.txt` — twice daily at 02:00 and 14:00
 
 ---
 
-## Stage 2 — Vercel production
+## Stage 2 — Vercel production ⬜ TODO
 
 Move to `snemovna.datatimes.cz/videoarchiv` once Stage 1 is validated.
 
@@ -74,19 +55,16 @@ In the datatimes turborepo, add a rewrite to the `snemovna` Vercel project confi
 }
 ```
 
-This keeps `snemovna.datatimes.cz/videoarchiv` as the canonical URL while the two apps are deployed independently.
-
 ### DNS / domain
 No new DNS record needed — `snemovna.datatimes.cz` already resolves. The rewrite handles routing.
 
 ### Switch canonical URLs
-Once the rewrite is live and tested:
-- `SKILL.md` — already uses production URL ✓
-- `llms.txt` — already uses production URL ✓  
-- `.well-known/mcp-server-card.json` — already uses production URL ✓
-- `web/public/robots.txt` sitemap URL — already uses production URL ✓
+Once the rewrite is live and tested, update GitHub Actions workflow:
+- `NEXT_PUBLIC_BASE_PATH=/videoarchiv` (instead of repo-name value)
+- `SKILL.md`, `llms.txt`, `.well-known/mcp-server-card.json`, `web/public/robots.txt` — already use production URL ✓
 
-GitHub Actions workflow: set `NEXT_PUBLIC_BASE_PATH=/videoarchiv` instead of the repo-name value.
+### Bot/AI tracking benefit
+Vercel logs all HTTP requests server-side. Use Matomo Log Analytics against Vercel logs to track GPTBot, ClaudeBot, PerplexityBot, etc. by user-agent string.
 
 ---
 

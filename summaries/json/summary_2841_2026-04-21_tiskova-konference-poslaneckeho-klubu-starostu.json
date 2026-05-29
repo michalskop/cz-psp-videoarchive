@@ -1,0 +1,104 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:48:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2841",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-21T13:00",
+    "end_date": "2026-04-21T13:20",
+    "sources": [
+      "final/event_2841_2026-04-21_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 3,
+    "parts_total": 3,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat postoj hnutí STAN k aktuálním legislativním a politickým tématům. Hlavním bodem byla kritika vládního postupu při volbě radních České televize, kterou hnutí považuje za nepřijatelnou kvůli podezřením z korupčního jednání.\n\nDalšími tématy byly kritika vládních návrhů v oblasti médií (změna financování veřejnoprávních médií), otázka nominačního zákona a chaos vládní koalice při předkládání zákonů formou poslaneckých návrhů, což obchází standardní legislativní proces.",
+    "main_points": [
+      "**Michaela Šebelová (STAN)** — Požaduje odložení volby radních České televize kvůli podezření na korupci. Kritizuje vládní mediální novelu za snahu zrušit koncesionářské poplatky.",
+      "**Vít Rakušan (STAN)** — Podmiňuje podporu vládních bodů stažením volby radních ČT. Kritizuje rušení nominačního zákona a označuje vládní zákon o cenách pohonných hmot za hazard s ústavností.",
+      "**Pavla Pivoňka Vaňková (STAN)** — Kritizuje obcházení legislativního procesu předkládáním zákonů jako poslaneckých návrhů a upozorňuje na vnitřní rozpory vládní koalice v sociální oblasti."
+    ],
+    "outcome": "Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci. Dominujícím postojem hnutí STAN je pokračování v obstrukcích v Poslanecké sněmovně, dokud vláda neustoupí v otázce volby radních České televize. Hnutí deklaruje ochotu k politické diskuzi o veřejnoprávních médiích na čtvrteční schůzce.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, kde dochází k výpadkům slov nebo opakování nesmyslných shluků znaků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Ministerstvo kultury",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nezávislá média a veřejné služby jsou základním pilířem demokracie a je potřeba za ně bojovat.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/03:03",
+      "screenshot_path": "summaries/screenshots/event_2841_highlight_00.jpg",
+      "context": "Role nezávislých médií jako pilíře demokracie je ukotvena v judikatuře Ústavního soudu ČR i v principech Rady Evropy. Jde o politický postoj, který reflektuje roli veřejnoprávních médií definovanou zákonem č. 483/1991 Sb. (ČT) a č. 484/1991 Sb. (ČRo)."
+    },
+    {
+      "text": "Manažerská poučka číslo jedna: neměň něco, co funguje.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "2/07:58",
+      "screenshot_path": "summaries/screenshots/event_2841_highlight_01.jpg",
+      "context": "Jde o subjektivní manažerské tvrzení (tzv. „If it ain't broke, don't fix it“), které nelze fakticky ověřit jako pravdivé či nepravdivé. Jeho validita závisí na definici toho, co je považováno za „fungující“ systém."
+    },
+    {
+      "text": "Takový chaos v naší vládě funguje, že ministerstvo financí dává zamítavé stanovisko k tomu, co mají ve svém vládním prohlášení.",
+      "type": "citation",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "2/03:43",
+      "screenshot_path": "summaries/screenshots/event_2841_highlight_02.jpg",
+      "context": "Tvrzení o rozporu mezi stanovisky Ministerstva financí a vládním prohlášením se v legislativním procesu občas objevuje, např. při připomínkovém řízení k návrhům zákonů. Konkrétní případy, kdy MF ČR zamítá vlastní vládní priority, jsou předmětem politické debaty o rozpočtové odpovědnosti."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vít Rakušan navrhuje, aby negativní hodnocení nominačního výboru znamenalo automatickou stopku pro kandidáta do státní správy. Je to politicky citlivé, protože by to fakticky odebralo vládě právo nominovat své kandidáty, pokud by neprošli odborným sítem, což je v přímém rozporu s vládním záměrem zákon zrušit.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "2/00:00",
+      "screenshot_path": "summaries/screenshots/event_2841_controversy_00.jpg",
+      "context": "Návrh na posílení role nominačních výborů při výběru do státní správy je předmětem diskusí o novele zákona o státní službě (zákon č. 234/2014 Sb.). Zda by takový krok fakticky odebral vládě právo nominace, je otázkou právní interpretace míry politické kontroly nad státní správou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

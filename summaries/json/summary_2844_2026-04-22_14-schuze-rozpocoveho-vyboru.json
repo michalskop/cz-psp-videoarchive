@@ -1,0 +1,122 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:47:20",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2844",
+    "name": "14. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-04-22T07:31",
+    "end_date": "2026-04-22T21:43",
+    "sources": [
+      "final/event_2844_2026-04-22_14-schuze-rozpocoveho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 25,
+    "parts_total": 25,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru bylo věnováno projednání vládního návrhu zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů (sněmovní tisk 90/2). Cílem bylo projednat pozměňovací návrhy před třetím čtením v Poslanecké sněmovně.\n\nJednání se neslo v duchu ostré politické debaty o fiskální odpovědnosti, způsobu sestavování státního rozpočtu a dopadech navrhovaných změn na veřejné finance. Předmětem sporu byla zejména kompatibilita s evropskými fiskálními pravidly, zavedení únikových doložek pro strategické investice a míra kontroly Poslanecké sněmovny.",
+    "main_points": [
+      "**Alena Schillerová (MF)**: Obhajovala návrh jako nezbytný pro sestavení pravdivého rozpočtu a dokončení rozestavěných staveb.",
+      "**Jan Munzar (ODS)**: Kritizoval nedostatečnou přípravu podkladů a označil návrh za rozpočtový armagedon.",
+      "**Mojmír Hampl (NRR)**: Varoval před změnou fiskálního paradigmatu a rizikem vysokých deficitů.",
+      "**Věra Kovářová (STAN)**: Kritizovala oslabování kontrolní role Sněmovny a nejasnosti v pravidlech při vracení rozpočtu.",
+      "**Vendula Svobodová (ANO)**: Varovala před bianco šekem pro vládu na navyšování výdajů."
+    ],
+    "outcome": "Výbor přijal usnesení, kterým doporučil Sněmovně hlasovat o návrzích v předloženém pořadí. Opozice avizovala oponentní zprávu.",
+    "notes": "Přepis obsahuje chyby a halucinace, text byl rekonstruován z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Jan Munzar",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Mojmír Hampl",
+        "person_id": "psp:person:5540",
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "STAN",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Rozpočtový výbor",
+      "Ministerstvo financí",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Toto je legalizace rozpočtového armagedonu současné vlády a svědčí to o naprosté neschopnosti řídit veřejné finance.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "21/00:45",
+      "screenshot_path": "summaries/screenshots/event_2844_highlight_00.jpg",
+      "context": "Výrok je politickým hodnocením a rétorickou nadsázkou, nikoliv faktickým tvrzením. Hodnocení stavu veřejných financí je subjektivní a závisí na interpretaci dat o schodku státního rozpočtu a výši státního dluhu."
+    },
+    {
+      "text": "My nedáváme únikovou doložku na něco zbytného, ale na investice, které nemůžeme zastavit.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "6/08:00",
+      "screenshot_path": "summaries/screenshots/event_2844_highlight_01.jpg",
+      "context": "Definice „zbytných“ výdajů je politická. Z hlediska rozpočtových pravidel (zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti) je otázkou, zda jsou konkrétní investice právně nezastavitelné, nebo zda jde o politické rozhodnutí o prioritách."
+    },
+    {
+      "text": "Toto není jenom sada drobných pozměňovacích návrhů, toto je změna fiskálního paradigmatu té země.",
+      "type": "citation",
+      "speaker": "Mojmír Hampl",
+      "affiliation": "Národní rozpočtová rada",
+      "timestamp": "6/03:57",
+      "screenshot_path": "summaries/screenshots/event_2844_highlight_02.jpg",
+      "context": "Národní rozpočtová rada (NRR) dlouhodobě upozorňuje na rizika spojená s oslabováním fiskálních pravidel. Změna pravidel pro únikové doložky skutečně představuje zásadní zásah do mechanismů, které mají bránit nadměrnému zadlužování."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zavedení únikových doložek pro dopravní infrastrukturu a možnost vlády navýšit výdaje o 10 % bez souhlasu Sněmovny.",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "5/06:15",
+      "screenshot_path": "summaries/screenshots/event_2844_controversy_00.jpg",
+      "context": "Zákon o pravidlech rozpočtové odpovědnosti skutečně definuje podmínky pro aktivaci únikových doložek. Možnost vlády navýšit výdaje bez souhlasu Sněmovny v rozsahu 10 % je předmětem právní debaty o ústavnosti a souladu s rozpočtovou kázní."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:47:39",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2843",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-21T13:44",
+    "end_date": "2026-04-21T14:00",
+    "sources": [
+      "final/event_2843_2026-04-21_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 3,
+    "parts_total": 3,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla zaměřena na představení legislativních priorit a postojů poslaneckého klubu ANO k aktuálním ekonomickým a mediálním tématům. Hlavním cílem bylo vyjádřit kritiku vůči hospodaření minulé vlády, představit návrhy na úpravu rozpočtových pravidel a regulaci cen pohonných hmot, a dále informovat o záměrech hnutí v oblasti mediální legislativy (poplatky České televizi).",
+    "main_points": [
+      "**Neidentifikovaný řečník (poslanec ANO)** — Kritizoval nesoulad mezi národními fiskálními pravidly a realitou hospodaření. Navrhuje prodloužení „únikové doložky“ pro obranné výdaje do roku 2036 a zvýšení výdajových rámců pro liniové stavby. Požaduje, aby vláda mohla regulovat ceny pohonných hmot přímo nařízením.",
+      "**Patrik Nacher (ANO)** — Vyjádřil se ke spotřebitelským úvěrům a mediální legislativě. Upozornil na vyšší než očekávaný nárůst poplatků pro ČT (přes 1 mld. Kč). Představil návrh na osvobození seniorů nad 75 let od poplatků a zvýšení limitu pro firmy z 25 na 50 zaměstnanců. Navrhuje ponechat 25 % výnosů ze sponzoringu ČT televizi, čímž by se snížil dopad nárůstu poplatků."
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nebylo předmětem hlasování. Dominujícím postojem hnutí ANO je snaha o revizi vládních návrhů v oblasti mediálních poplatků, prosazení vyšší flexibility pro investice do infrastruktury a posílení pravomocí vlády v regulaci cen energií a pohonných hmot.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a useknutá slova. Části textu jsou místy nesrozumitelné kvůli automatickému přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Aspen Institute"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Loňský rok skončil v deficitu 290,7 miliardy korun, nikdo vážně uvažující si nemůže myslet, že se příští rok dostaneme na šestkrát nižší deficit.",
+      "type": "paraphrase",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "ANO",
+      "timestamp": "2/00:00",
+      "screenshot_path": "summaries/screenshots/event_2843_highlight_00.jpg",
+      "context": "Deficit státního rozpočtu za rok 2023 skutečně činil 288,5 miliardy korun (dle údajů MF ČR). Tvrzení o nereálnosti šestinásobného snížení deficitu je politickým názorem na rozpočtovou politiku, nikoliv ověřitelným faktem, neboť výše deficitu závisí na budoucích legislativních a ekonomických rozhodnutích vlády."
+    },
+    {
+      "text": "Nadvýběr poplatků pro Českou televizi bude přes miliardu, přitom se mluvilo o nárůstu o 800 milionů.",
+      "type": "paraphrase",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "2/04:01",
+      "screenshot_path": "summaries/screenshots/event_2843_highlight_01.jpg",
+      "context": "Odhad nárůstu příjmů ČT z koncesionářských poplatků vychází z vládní novely zákona o České televizi. Přesná výše nadvýběru je závislá na počtu nově přihlášených plátců a vývoji ekonomiky, proto nelze v tuto chvíli potvrdit, zda bude částka přesahovat miliardu korun."
+    },
+    {
+      "text": "Navrhujeme osvobodit od poplatků domácnosti seniorů nad 75 let, což se týká zhruba 470 až 480 tisíc lidí.",
+      "type": "paraphrase",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "2/08:08",
+      "screenshot_path": "summaries/screenshots/event_2843_highlight_02.jpg",
+      "context": "Dle dat ČSÚ a statistik České správy sociálního zabezpečení se počet obyvatel ČR ve věku 75 a více let pohybuje v řádech stovek tisíc. Odhad 470–480 tisíc osob odpovídá demografickým datům pro danou věkovou skupinu, nicméně přesný dopad na rozpočet ČT závisí na definici domácnosti a počtu již osvobozených osob."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Neidentifikovaný řečník (ANO)\n*   **Co:** Návrh, aby vláda mohla přímo nařízením regulovat ceny pohonných hmot.\n*   **Proč:** Jde o zásah do tržního prostředí, který je politicky citlivý kvůli obavám z narušení volného trhu.\n*   **Čas:** 2/02:06",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "ANO",
+      "timestamp": "2/02:06",
+      "screenshot_path": "summaries/screenshots/event_2843_controversy_00.jpg",
+      "context": "Možnost regulace cen pohonných hmot vládou je upravena zákonem č. 526/1990 Sb., o cenách. Vláda má pravomoc stanovit maximální ceny v mimořádné tržní situaci, nicméně plošná regulace je v rozporu s principy volného trhu a právem EU, což činí návrh předmětem politické debaty, nikoliv technického ověření."
+    },
+    {
+      "statement": "*   **Kdo:** Patrik Nacher (ANO)\n*   **Co:** Obvinění organizátorů Aspen Institute z neprofesionálního přístupu (pozvánka den předem) a manipulace se statistikou neúčasti politiků.\n*   **Proč:** Vytváří napětí mezi opozičním politikem a neziskovým sektorem, což je častý bod politického střetu.\n*   **Čas:** 2/06:02",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "2/06:02",
+      "screenshot_path": "summaries/screenshots/event_2843_controversy_01.jpg",
+      "context": "Tvrzení o neprofesionálním přístupu a manipulaci se statistikou ze strany Aspen Institute je subjektivním hodnocením Patrika Nachera. Nelze nezávisle ověřit bez přístupu k interní komunikaci organizátorů a konkrétním datům o pozvánkách."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,134 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:59:43",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2816",
+    "name": "13. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-04-14T10:10",
+    "end_date": "2026-04-14T11:41",
+    "sources": [
+      "final/event_2816_2026-04-14_13-schuze-rozpoctoveho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 10,
+    "parts_total": 10,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání bylo svoláno jako mimořádná schůze Rozpočtového výboru v režimu legislativní nouze. Účelem bylo projednání vládního návrhu zákona o regulaci cen pohonných hmot (sněmovní tisk 163). Cílem návrhu je umožnit vládě operativně regulovat ceny pohonných hmot nařízením vlády v situacích mimořádné tržní situace, což má nahradit stávající, méně efektivní systém opatření obecné povahy vydávaných Ministerstvem financí.\n\nVláda argumentovala potřebou rychlé reakce na hospodářské dopady konfliktu na Blízkém východě, ochranou hospodářské stability a snahou eliminovat extrémní marže čerpacích stanic, které podle ministerstva dosahovaly neúměrných výšin.",
+    "main_points": [
+      "**Alena Schillerová (Ministryně financí)** — Obhajovala návrh jako minimalistický a nezbytný pro ochranu firem a občanů. Uvedla, že státní podnik Čepro poskytuje know-how pro výpočet cen. Zdůraznila, že opatření je reakcí na \"nehorázné\" marže na hlavních tazích.",
+      "**Jiří Fojtík (Ministerstvo financí)** — Argumentoval, že současný právní rámec je pro dynamickou krizi nedostatečný. Potvrdil, že zákon má subsidiární vztah k zákonu o cenách.",
+      "**Patrik Pařil (Zpravodaj)** — Přednesl návrh usnesení doporučující schválení zákona ve zkráceném jednání.",
+      "**Jana Kovářová (Poslankyně)** — Kritizovala rychlost projednávání v legislativní nouzi a vyjádřila obavy z dopadů na malé čerpací stanice.",
+      "**Jan Jakob (Poslanec)** — Zpochybnil naplnění podmínek pro legislativní nouzi a upozornil na oslabení soudní kontroly.",
+      "**Jan Ševčík (Poslanec)** — Podpořil návrh s tím, že jde o standardní proces v krizové situaci.",
+      "**Patrik Papajanovský (Poslanec)** — Upozornil na absenci povinnosti kompenzací při regulaci cen, na rozdíl od energetického zákona."
+    ],
+    "outcome": "Rozpočtový výbor přijal usnesení, kterým doporučil Poslanecké sněmovně vyslovit souhlas s vládním návrhem zákona o regulaci cen pohonných hmot. Výbor navrhl vedení obecné i podrobné rozpravy na plénu a ukončení jednání do 22:00 téhož dne. Hlasování dopadlo následovně: 14 pro, 3 proti, 4 se zdrželi.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Jiří Fojtík",
+        "person_id": null,
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Patrik Pařil",
+        "person_id": "psp:person:7031",
+        "affiliation": "Rozpočtový výbor"
+      },
+      {
+        "name": "Jana Kovářová",
+        "person_id": "psp:person:5825",
+        "affiliation": null
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Ševčík",
+        "person_id": "psp:person:3686",
+        "affiliation": null
+      },
+      {
+        "name": "Patrik Papajanovský",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "TOP 09"
+    ],
+    "institutions": [
+      "Rozpočtový výbor",
+      "Ministerstvo financí",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud bychom nereagovali rychle, hrozí významný nákladový šok napříč celou ekonomikou.",
+      "type": "paraphrase",
+      "speaker": "Jiří Fojtík",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "1/05:44",
+      "screenshot_path": "summaries/screenshots/event_2816_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení ekonomického rizika. Nelze nezávisle ověřit jako fakt, neboť jde o predikci budoucího vývoje, nikoliv o exaktní statistický údaj."
+    },
+    {
+      "text": "My jsme se inspirovali změnou energetického zákona, který v minulém volební období za vlády Petra Fialy přijal obdobnou úpravu.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "2/01:21",
+      "screenshot_path": "summaries/screenshots/event_2816_highlight_01.jpg",
+      "context": "Tvrzení je věcně nesprávné. Petr Fiala se stal premiérem v prosinci 2021; v předchozím volebním období (2017–2021) byla premiérem Andreje Babiše, jehož ministryní financí byla právě Alena Schillerová."
+    },
+    {
+      "text": "Zákon o cenách, když jsme o tom samozřejmě debatovali na vládě, tak víceméně jedinou možností je, že Ministerstvo financí vydá rozhodnutí obecné povahy.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "2/00:46",
+      "screenshot_path": "summaries/screenshots/event_2816_highlight_02.jpg",
+      "context": "Podle zákona č. 526/1990 Sb., o cenách, má Ministerstvo financí skutečně pravomoc vydat cenové rozhodnutí. Zda je to však 'jediná možnost', je právní interpretace, nikoliv absolutní fakt, neboť existují i jiné nástroje cenové regulace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Jan Jakob (poslanec)** tvrdil, že nebyly naplněny zákonné podmínky pro legislativní nouzi a že návrh pouze obchází standardní legislativní proces a soudní přezkum.",
+      "speaker": "Jan Jakob",
+      "affiliation": null,
+      "timestamp": "5/04:04",
+      "screenshot_path": "summaries/screenshots/event_2816_controversy_00.jpg",
+      "context": "Podmínky pro vyhlášení stavu legislativní nouze definuje § 99 zákona č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny. Zda jsou tyto podmínky naplněny, je předmětem právního a politického sporu, který často končí až u Ústavního soudu."
+    },
+    {
+      "statement": "**Alena Schillerová (Ministryně financí)** argumentovala, že opozice (včetně Jana Jakoba) v roce 2022 vládní návrhy v legislativní nouzi pro energie a plyn podpořila.",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "6/04:02",
+      "screenshot_path": "summaries/screenshots/event_2816_controversy_01.jpg",
+      "context": "V roce 2022 Poslanecká sněmovna skutečně projednávala vládní návrhy v legislativní nouzi (např. zákon č. 458/2021 Sb., energetický zákon). Hlasování jednotlivých poslanců jsou veřejně dohledatelná v archivu hlasování na webu psp.cz."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
