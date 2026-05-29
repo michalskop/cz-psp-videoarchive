@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Image from "next/image";
 import {
   getAllIds,
   getSummaryById,
@@ -12,6 +11,7 @@ import {
 import { CategoryBadge } from "../../components/CategoryBadge";
 import { QualityBadge } from "../../components/QualityBadge";
 import { HighlightCard } from "../../components/HighlightCard";
+import { ControversyCard } from "../../components/ControversyCard";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -125,27 +125,26 @@ export default async function EventPage({ params }: Props) {
           <h2 className="font-slab font-semibold text-lg text-navy-9 mb-4">Výrazné momenty</h2>
           <div className="flex flex-col gap-6">
             {s.highlights.map((h, i) => (
-              <div key={i} className="flex flex-col gap-3">
+              <div key={i} className="flex flex-col gap-2">
                 <HighlightCard
                   highlight={h}
                   eventName={s.event.name}
                   category={s.event.classification}
                   date={s.event.start_date}
                 />
-                {/* Type tag + context outside the card */}
-                <div className="flex flex-wrap items-start gap-2 pl-1.5">
-                  <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded text-muted-foreground">
-                    {h.type === "citation" ? "citace" : "parafráze"}
-                  </span>
-                  {h.context && (
-                    <div className="flex-1 bg-teal-0 border-l-2 border-teal-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed">
-                      <span className="font-semibold text-teal-6 uppercase tracking-wide text-[10px] block mb-1">
-                        Kontext
-                      </span>
-                      {h.context}
-                    </div>
-                  )}
-                </div>
+                {/* Type tag below card */}
+                <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded text-muted-foreground self-start ml-1.5">
+                  {h.type === "citation" ? "citace" : "parafráze"}
+                </span>
+                {/* Context below tag, full width */}
+                {h.context && (
+                  <div className="bg-teal-0 border-l-2 border-teal-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed ml-1.5">
+                    <span className="font-semibold text-teal-6 uppercase tracking-wide text-[10px] block mb-1">
+                      Kontext
+                    </span>
+                    {h.context}
+                  </div>
+                )}
               </div>
             ))}
           </div>
@@ -158,40 +157,24 @@ export default async function EventPage({ params }: Props) {
           <h2 className="font-slab font-semibold text-lg text-navy-9 mb-4">
             Kontroverzní výroky
           </h2>
-          <div className="flex flex-col gap-5">
+          <div className="flex flex-col gap-6">
             {s.controversial.map((c, i) => (
-              <section
-                key={i}
-                aria-label="Kontroverzní výrok"
-                className="border border-orange-6 rounded-lg p-4 bg-orange-0"
-              >
-                {c.screenshot_path && (
-                  <div className="mb-3 rounded overflow-hidden">
-                    <Image
-                      src={c.screenshot_path}
-                      alt={`Screenshot — ${c.speaker}`}
-                      width={800}
-                      height={450}
-                      className="w-full object-cover"
-                      unoptimized
-                    />
-                  </div>
-                )}
-                <ControversialStatement text={c.statement} />
-                <footer className="font-sans text-xs text-muted-foreground flex flex-wrap items-center gap-2 mt-2">
-                  <span className="font-medium text-foreground">{c.speaker}</span>
-                  {c.affiliation && <span>· {c.affiliation}</span>}
-                  <span className="font-mono">· {c.timestamp}</span>
-                </footer>
+              <div key={i} className="flex flex-col gap-2">
+                <ControversyCard
+                  item={c}
+                  eventName={s.event.name}
+                  category={s.event.classification}
+                  date={s.event.start_date}
+                />
                 {c.context && (
-                  <div className="mt-3 bg-surface-0 border-l-2 border-navy-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed">
+                  <div className="bg-surface-0 border-l-2 border-navy-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed ml-1.5">
                     <span className="font-semibold text-navy-6 uppercase tracking-wide text-[10px] block mb-1">
                       Faktický kontext
                     </span>
                     {c.context}
                   </div>
                 )}
-              </section>
+              </div>
             ))}
           </div>
         </section>
@@ -242,56 +225,3 @@ function MainPoint({ text }: { text: string }) {
   );
 }
 
-/**
- * Renders a controversial statement that may contain markdown bullet points.
- * Format expected (optional):
- *   Title line
- *
- *   *   **Kdo:** ...
- *   *   **Co:** ...
- *   *   **Proč:** ...
- *   *   **Čas:** ...   ← stripped (shown in footer)
- */
-function ControversialStatement({ text }: { text: string }) {
-  const lines = text.split("\n");
-  const titleLines: string[] = [];
-  const bullets: { key: string; value: string }[] = [];
-
-  for (const line of lines) {
-    const bulletMatch = line.match(/^\s*\*\s+\*\*([^:*]+):\*\*\s*(.*)/);
-    if (bulletMatch) {
-      const key = bulletMatch[1].trim();
-      if (key === "Čas") continue; // already in footer
-      bullets.push({ key, value: bulletMatch[2].trim() });
-    } else if (!line.trim()) {
-      if (titleLines.length > 0) continue; // skip blank lines after title
-    } else if (bullets.length === 0) {
-      titleLines.push(line);
-    }
-  }
-
-  const title = titleLines.join(" ").trim();
-
-  return (
-    <div>
-      {title && (
-        <p className="font-slab text-base font-semibold leading-snug text-navy-9 mb-2">
-          {title}
-        </p>
-      )}
-      {bullets.length > 0 && (
-        <dl className="font-sans text-sm text-foreground leading-relaxed space-y-1">
-          {bullets.map(({ key, value }, i) => (
-            <div key={i} className="flex gap-2">
-              <dt className="font-semibold flex-shrink-0 text-muted-foreground">{key}:</dt>
-              <dd>{value}</dd>
-            </div>
-          ))}
-        </dl>
-      )}
-      {!title && bullets.length === 0 && (
-        <p className="font-slab text-base leading-relaxed text-foreground">{text}</p>
-      )}
-    </div>
-  );
-}
