@@ -1,0 +1,94 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:40:40",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2762",
+    "name": "Brífink poslance Benjamina Činčily: Priority pro nadcházející sjezd KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-18T10:00",
+    "end_date": "2026-03-18T10:04",
+    "sources": [
+      "final/event_2762_2026-03-18_brifink-poslance-benjamina-cincily-priority-pro-na.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tiskový brífink poslance Benjamina Činčily byl svolán za účelem oficiálního oznámení jeho kandidatury na post prvního místopředsedy strany KDU-ČSL na nadcházejícím dubnovém sjezdu. \n\nCílem vystoupení bylo představit vizi modernizace strany, která se chce profilovat jako subjekt kladoucí důraz na odpovědnou hospodářskou politiku, udržitelné veřejné finance a mezigenerační solidaritu. Poslanec Činčila zdůraznil potřebu srozumitelné komunikace těchto témat směrem k široké veřejnosti a vyjádřil ambici posílit postavení lidovců v nadcházejících komunálních a senátních volbách.",
+    "main_points": [
+      "**Benjamin Činčila (KDU-ČSL)** — oznámil kandidaturu na prvního místopředsedu strany.\n    * **Ekonomická vize:** Prosazuje „nepohodlnou pravdu“ o nutnosti vyrovnaných veřejných financí; odmítá populistické sliby typu „nízké daně a velký stát“.\n    * **Priority:** Podpora rodin (daňová podpora, bydlení, slaďování práce a rodiny), investice do vzdělání, vědy, výzkumu a inovací.\n    * **Mezigenerační solidarita:** Varuje před stavěním generací proti sobě v kontextu stárnutí populace a rostoucích nároků na důchody a zdravotnictví.\n    * **Volební ambice:** Cílem je obhájit a posílit pozice v komunálních volbách, zejména ve velkých městech a krajských centrech (např. Jihlava), kde chce KDU-ČSL vystupovat jako lídr, nikoliv pouze jako koaliční doplněk.",
+      "**Neidentifikovaný řečník (CNN Prima News)** — dotazovala se na ambice a očekávané výsledky KDU-ČSL v nadcházejících komunálních a senátních volbách."
+    ],
+    "outcome": "Jednání bylo informativním brífinkem, nikoliv rozhodovacím orgánem. Poslanec Činčila potvrdil své rozhodnutí kandidovat na základě výzev z regionů. Konsenzem vystoupení je snaha o posílení kompetenčního profilu KDU-ČSL jako strany, která nabízí dlouhodobá řešení pro rodiny a udržitelnou ekonomiku.",
+    "notes": "Přepis je srozumitelný, neobsahuje významnější výpadky textu, které by bránily pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Benjamin Činčila",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "CNN Prima News"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "CNN Prima News"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Do vedení strany chci přinést jednak novou energii, ale také hospodářskou, ekonomickou kompetenci.",
+      "type": "citation",
+      "speaker": "Benjamin Činčila",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/00:41",
+      "screenshot_path": "summaries/screenshots/event_2762_highlight_00.jpg",
+      "context": "Jde o subjektivní politické prohlášení o osobních ambicích a vnímání vlastních schopností, které nelze fakticky ověřit."
+    },
+    {
+      "text": "Naším úkolem není lidi měnit, naším úkolem je vytvářet prostředí, které přináší lepší podmínky pro rodiny.",
+      "type": "citation",
+      "speaker": "Benjamin Činčila",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:02",
+      "screenshot_path": "summaries/screenshots/event_2762_highlight_01.jpg",
+      "context": "Jde o politickou vizi a ideové směřování strany, nikoliv o ověřitelné tvrzení. Podpora rodin je dlouhodobou programovou prioritou KDU-ČSL v rámci vládní koalice."
+    },
+    {
+      "text": "KDU-ČSL byla vždy stranou mezigenerační solidarity, nesmíme stavět ty generace proti sobě.",
+      "type": "paraphrase",
+      "speaker": "Benjamin Činčila",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:19",
+      "screenshot_path": "summaries/screenshots/event_2762_highlight_02.jpg",
+      "context": "KDU-ČSL se historicky profiluje jako strana prosazující rodinnou politiku a mezigenerační solidaritu, což je doložitelné z dlouhodobých volebních programů strany."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Prohlášení, že „nejde tvrdit, že budeme mít nízké daně a velký stát“ a že je nutné říkat „nepohodlnou pravdu“ o nutnosti říct, kde se vezmou prostředky na slibovanou podporu.",
+      "speaker": "Benjamin Činčila",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/00:49",
+      "screenshot_path": "summaries/screenshots/event_2762_controversy_00.jpg",
+      "context": "Tvrzení o neslučitelnosti nízkých daní a velkého státu odpovídá základním ekonomickým principům fiskální politiky. Aktuální stav veřejných financí ČR a debaty o konsolidačním balíčku potvrzují nutnost hledání zdrojů pro financování státních výdajů (zdroj: MF ČR)."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:41:21",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2759",
+    "name": "Veřejné slyšení kandidátů na veřejného ochránce práv",
+    "classification": "Veřejné slyšení",
+    "start_date": "2026-03-17",
+    "end_date": "2026-03-17",
+    "sources": [
+      "final/event_2759_2026-03-17_verejne-slyseni-kandidatu-na-verejneho-ochrance-pr.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 22,
+    "parts_total": 22,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání bylo veřejným slyšením kandidátů na funkci veřejného ochránce práv (ombudsmana), které se uskutečnilo 17. března 2026 v Poslanecké sněmovně. Cílem bylo představit kandidáty nominované prezidentem, Senátem a Českou konferencí rektorů a umožnit poslancům i členům hodnotící komise posoudit jejich odbornost, vize a osobnostní předpoklady.\n\nSlyšení bylo součástí procesu, který má zajistit transparentní a odpolitizovaný výběr nové hlavy instituce, jež má za úkol chránit občany před nezákonným či nečinným jednáním úřadů a nově plnit i roli národní lidskoprávní instituce.",
+    "main_points": [
+      "**Vítězslav Dohnal (navržen prezidentem):** Advokát se specializací na stavební právo. Zdůrazňuje pragmatický přístup, ochranu práv lidí s psychosociálním znevýhodněním a nutnost kontroly detenčních řízení.",
+      "**Jaromír Jirsa (navržen Senátem):** Bývalý ústavní soudce. Zaměřuje se na lidská práva v praxi, ochranu před „obchodem s chudobou“ a nutnost lepší koordinace sociální péče.",
+      "**Eva Kostolanská (navržena Senátem a ČKR):** Dlouholetá pracovnice Kanceláře ombudsmana. Klade důraz na neformální komunikaci s úřady, digitalizaci a efektivní řešení systémových problémů.",
+      "**Vít Alešandr Šorm (navržen ČKR):** Současný zástupce ombudsmana. Prosazuje kontinuitu, aktivní (nikoliv aktivistický) přístup a zaměření na lidi, kteří se sami neozvou.",
+      "**Klára Šimáčková-Laurenčíková (navržena prezidentem):** Bývalá vládní zmocněnkyně pro lidská práva. Prioritou je deinstitucionalizace, práva dětí a ochrana zranitelných skupin.",
+      "**Tematické body:** Hodnotící komise kritizovala ignorování odborných doporučení poslanci v minulých volbách. Diskutována byla legislativa, AI a problematika sociálního vyloučení v obcích."
+    ],
+    "outcome": "Formální volba ombudsmana na tomto jednání neproběhla. Petiční výbor přijal usnesení, kterým pověřil hodnotící komisi, aby zítra provedla hlasování o pořadí kandidátů a výsledek doručila výboru. Předseda výboru následně zajistí zveřejnění výsledků na webu Sněmovny a informuje všechny poslance.",
+    "notes": "Přepis obsahuje četné technické chyby (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu (zejména v částech 8, 17 a 21) byly nesrozumitelné nebo obsahovaly pouze technické fragmenty."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vítězslav Dohnal",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Jaromír Jirsa",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Eva Kostolanská",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Vít Alešandr Šorm",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Klára Šimáčková-Laurenčíková",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Magistra Fričová",
+        "person_id": null,
+        "affiliation": "Hodnotící komise"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Česká konference rektorů",
+      "Kancelář veřejného ochránce práv"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ombudsman nemá být ani advokátem každého stěžovatele, ani obhájcem úřadu, ale nezávislou autoritou.",
+      "type": "citation",
+      "speaker": "Vít Alešandr Šorm",
+      "affiliation": null,
+      "timestamp": "5/05:31",
+      "screenshot_path": "summaries/screenshots/event_2759_highlight_00.jpg",
+      "context": "Role Veřejného ochránce práv je definována zákonem č. 349/1999 Sb. Ombudsman má působit k ochraně osob před jednáním úřadů, pokud je v rozporu s právem, principy demokratického právního státu a dobré správy. Jde o hodnotové vyjádření, které odpovídá zákonnému vymezení instituce jako nezávislého orgánu."
+    },
+    {
+      "text": "Ombudsman či ombudsmanka by měli být člověkem proaktivním, někým, kdo iniciuje potřebné legislativní a systémové změny.",
+      "type": "citation",
+      "speaker": "Klára Šimáčková-Laurenčíková",
+      "affiliation": null,
+      "timestamp": "7/02:10",
+      "screenshot_path": "summaries/screenshots/event_2759_highlight_01.jpg",
+      "context": "Zákon č. 349/1999 Sb. dává ombudsmanovi pravomoc navrhovat ústavnímu soudu zrušení právních předpisů a podávat podněty k vydání, změně nebo zrušení zákonů. Proaktivní přístup v legislativní oblasti je tedy jednou ze zákonných kompetencí úřadu."
+    },
+    {
+      "text": "Svět je skutečně velmi pestrý a to, že se někdo dívá na problém jiným pohledem, neznamená, že ten pohled je a priori špatný.",
+      "type": "citation",
+      "speaker": "Vítězslav Dohnal",
+      "affiliation": null,
+      "timestamp": "1/08:37",
+      "screenshot_path": "summaries/screenshots/event_2759_highlight_02.jpg",
+      "context": "Jde o subjektivní hodnotové vyjádření (názor), které nelze faktograficky ověřit jako pravdivé či nepravdivé. Jedná se o rétorický obrat v rámci politické debaty o pluralitě názorů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o návrhu zákona o zahraničních agentech (inspirováno Slovenskem). Politicky citlivé téma týkající se svobody neziskového sektoru a transparentnosti financování.",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "13/05:40",
+      "screenshot_path": "summaries/screenshots/event_2759_controversy_00.jpg",
+      "context": "Slovenský zákon o „zahraniční podpoře“ (zákon č. 147/2024 Z. z.) vyvolal kritiku ze strany Evropské komise i mezinárodních organizací pro lidská práva kvůli obavám z omezování občanské společnosti. V ČR zatím nebyl předložen vládní návrh zákona tohoto typu, debata se vede v rovině politických úvah o transparentnosti financování neziskových organizací."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

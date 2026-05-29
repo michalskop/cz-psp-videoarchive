@@ -1,0 +1,93 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:40:18",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2761",
+    "name": "Dětství online: bezpečí, vzdělávání a zdravé hranice",
+    "classification": "Seminář",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-18",
+    "sources": [
+      "final/event_2761_2026-03-18_detstvi-online-bezpeci-vzdelavani-a-zdrave-hranice.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 19,
+    "parts_total": 19,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na problematiku digitálního dětství, vlivu sociálních sítí a umělé inteligence na vývoj dětí a dospívajících. Cílem akce bylo pojmenovat rizika online prostředí a hledat rovnováhu mezi ochranou dětí, svobodou a odpovědností jednotlivých aktérů.",
+    "main_points": [
+      "**Patrik Nacher (místopředseda PS PČR)** – Vyjádřil dilema mezi rolí rodiče a zákonodárce. Varoval před neúčinností plošných zákazů.",
+      "**Barbora Rázga (poslankyně PS PČR)** – Zdůraznila, že technologie jsou integrální součástí života dětí a problémem je absence podpory.",
+      "**Štěpán Vymětal (MV ČR)** – Upozornil na toxicitu algoritmů a fakt, že 10–15 % dětí je v online prostředí ve vážném riziku.",
+      "**Lukáš Kintr (NÚKIB)** – Varoval před predátory na herních platformách a lineárním růstu času stráveného online.",
+      "**Zástupci platforem (Google, Meta)** – Prezentovali nástroje pro rodičovskou kontrolu a bezpečnější nastavení účtů pro teenagery."
+    ],
+    "outcome": "Jednání potvrdilo konsenzus v odmítnutí plošných zákazů. Důraz je kladen na digitální gramotnost, aktivní roli rodičů a odpovědnost technologických firem při designu produktů.",
+    "notes": "Přepis obsahuje četné technické artefakty a opakující se fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "Poslanecká sněmovna PČR"
+      },
+      {
+        "name": "Barbora Rázga",
+        "person_id": "psp:person:7038",
+        "affiliation": "Poslanecká sněmovna PČR"
+      },
+      {
+        "name": "Štěpán Vymětal",
+        "person_id": null,
+        "affiliation": "Ministerstvo vnitra ČR"
+      },
+      {
+        "name": "Lukáš Kintr",
+        "person_id": null,
+        "affiliation": "NÚKIB"
+      }
+    ],
+    "parties": [
+      "ANO 2011"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "MŠMT",
+      "NÚKIB",
+      "Google",
+      "Meta"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Děti v online prostředí nejsou problém; problém vzniká tehdy, když v něm zůstávají bez podpory a jasných pravidel.",
+      "type": "citation",
+      "speaker": "Barbora Rázga",
+      "affiliation": "Poslanecká sněmovna PČR",
+      "timestamp": "3/08:21",
+      "screenshot_path": "summaries/screenshots/event_2761_highlight_00.jpg",
+      "context": "Jde o hodnotící úsudek v oblasti digitální gramotnosti a výchovy, který nelze fakticky potvrdit ani vyvrátit. Odborné studie (např. NPI ČR či projekty zaměřené na kyberbezpečnost) však potvrzují, že role rodičů a nastavení pravidel jsou klíčovými faktory pro prevenci rizikového chování dětí v online prostředí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vlasta Volák (Krajské centrum vzdělávání) kritizoval snahy o plošný zákaz mobilů ve školách jako cestu do ilegality.",
+      "speaker": "Vlasta Volák",
+      "affiliation": "Krajské centrum vzdělávání",
+      "timestamp": "17/09:28",
+      "screenshot_path": "summaries/screenshots/event_2761_controversy_00.jpg",
+      "context": "Tvrzení o 'cestě do ilegality' je názorovou interpretací možných dopadů plošné regulace. V ČR neexistuje celostátní zákonný zákaz mobilů ve školách; rozhodnutí o jejich omezení je v kompetenci jednotlivých škol v rámci jejich školního řádu (podle zákona č. 561/2004 Sb., školský zákon)."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

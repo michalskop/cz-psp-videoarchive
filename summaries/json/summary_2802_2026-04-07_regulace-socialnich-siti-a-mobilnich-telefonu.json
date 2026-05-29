@@ -1,0 +1,123 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:44:46",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2802",
+    "name": "Regulace sociálních sítí a mobilních telefonů",
+    "classification": "Seminář",
+    "start_date": "2026-04-07T13:03",
+    "end_date": "2026-04-07T15:40",
+    "sources": [
+      "final/event_2802_2026-04-07_regulace-socialnich-siti-a-mobilnich-telefonu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 17,
+    "parts_total": 17,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání bylo koncipováno jako úvodní odborný panel v rámci širší série aktivit zaměřených na problematiku digitální závislosti dětí a mládeže. Cílem organizátorů bylo vytvořit prostor pro odbornou diskuzi, která by předcházela politickým rozhodnutím a regulacím.\n\nHlavním záměrem bylo analyzovat dopady sociálních sítí a technologií na duševní zdraví dětí, identifikovat roli algoritmů a návykového designu a diskutovat o možnostech „chytré regulace“.",
+    "main_points": [
+      "**Marcel Ambrož (Sananim):** Upozornil na vysokou míru suicidality u klientů s nelátkovými závislostmi a navrhl rejstřík vyloučených osob.",
+      "**David Bezdomníkov (Společnost Podané ruce):** Varoval před lootboxy v hrách a kritizoval zanedbanou prevenci v ČR.",
+      "**Dr. David Adam (dětský psychiatr):** Podpořil regulaci přístupu k sítím do 16 let a popsal dopaminovou smyčku jako mechanismus srovnatelný s kokainem.",
+      "**Josef Holý (expert na technologie):** Analyzoval adiktivní design aplikací a navrhl vytvoření evropských veřejnoprávních algoritmů.",
+      "**Petr Lupač (sociolog):** Varoval před plošnými zákazy a zdůraznil význam rodinného klimatu a rizika AI společníků."
+    ],
+    "outcome": "Jednání vedlo k vytvoření konsenzu v těchto bodech:\n* **Nutnost systémového řešení:** Zákaz mobilů ve školách je dílčí krok.\n* **Priorita prevence:** Nutnost investovat do preventivních programů.\n* **Ochrana nejmenších:** Shoda na omezení technologií u dětí do 6 let.\n* **Evropská cesta:** ČR by měla být aktivnější v EU při regulaci algoritmů.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Jakub Krajner",
+        "person_id": "psp:person:7015",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Marcel Ambrož",
+        "person_id": null,
+        "affiliation": "Sananim"
+      },
+      {
+        "name": "David Bezdomníkov",
+        "person_id": null,
+        "affiliation": "Společnost Podané ruce"
+      },
+      {
+        "name": "David Adam",
+        "person_id": null,
+        "affiliation": "Dětský psychiatr"
+      },
+      {
+        "name": "Josef Holý",
+        "person_id": "psp:person:4927",
+        "affiliation": "Expert na technologie"
+      },
+      {
+        "name": "Petr Lupač",
+        "person_id": null,
+        "affiliation": "FF UK"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Sananim",
+      "Společnost Podané ruce",
+      "FF UK"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Lajk na Facebooku vyvolává v mozku reakci velmi podobnou malé dávce kokainu.",
+      "type": "paraphrase",
+      "speaker": "David Adam",
+      "affiliation": "Dětský psychiatr",
+      "timestamp": "3/06:16",
+      "screenshot_path": "summaries/screenshots/event_2802_highlight_00.jpg",
+      "context": "Neurovědecké studie (např. publikované v Journal of Cognitive Neuroscience) potvrzují, že sociální interakce na sítích aktivují dopaminergní systém odměny v mozku podobně jako jiné podněty. Přirovnání ke kokainu je však metaforické a vědecky nepřesné, neboť intenzita a mechanismus účinku jsou zásadně odlišné."
+    },
+    {
+      "text": "Firma ByteDance má změřeno, že návykové chování u náctiletých vzniká průměrně po shlédnutí 260 videí.",
+      "type": "citation",
+      "speaker": "Josef Holý",
+      "affiliation": "Expert na technologie",
+      "timestamp": "5/04:00",
+      "screenshot_path": "summaries/screenshots/event_2802_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Společnost ByteDance (vlastník TikToku) nezveřejňuje interní data o přesném počtu videí potřebných ke vzniku návykového chování; toto tvrzení pravděpodobně vychází z uniklých interních dokumentů nebo odhadů analytiků, nikoliv z oficiálních statistik."
+    },
+    {
+      "text": "V ČR je v současné době zákaz používání sociálních médií u dětí do 15 let, ale tento paragraf je v praxi úplně mrtvý.",
+      "type": "paraphrase",
+      "speaker": "Petr Lupač",
+      "affiliation": "FF UK",
+      "timestamp": "8/01:49",
+      "screenshot_path": "summaries/screenshots/event_2802_highlight_02.jpg",
+      "context": "Tvrzení je věcně nesprávné. V českém právním řádu neexistuje zákon, který by plošně zakazoval používání sociálních médií dětem do 15 let. Platí pouze nařízení GDPR (čl. 8), které stanovuje věkovou hranici 15 let pro samostatný souhlas se zpracováním osobních údajů v informační společnosti, což provozovatelé řeší nastavením věkových limitů v podmínkách užití."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Josef Holý označil technologické firmy v Silicon Valley za „techno-fašisty“.",
+      "speaker": "Josef Holý",
+      "affiliation": "Expert na technologie",
+      "timestamp": "12/05:01",
+      "screenshot_path": "summaries/screenshots/event_2802_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Označení „techno-fašismus“ je hodnotící politický a filozofický termín, nikoliv faktografický údaj. Neexistuje záznam o tom, že by šlo o oficiální definici nebo široce přijímaný technický termín používaný v legislativě či odborné literatuře."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

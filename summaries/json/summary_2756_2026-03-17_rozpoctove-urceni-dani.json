@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:41:02",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2756",
+    "name": "Kulatý stůl na téma „Rozpočtové určení daní“",
+    "classification": "Seminář",
+    "start_date": "2026-03-17T16:01",
+    "end_date": "2026-03-17T18:01",
+    "sources": [
+      "final/event_2756_2026-03-17_rozpoctove-urceni-dani.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Cílem kulatého stolu bylo zhodnotit současný systém rozpočtového určení daní (RUD) v České republice, identifikovat jeho silné a slabé stránky a diskutovat o možnostech jeho budoucí úpravy. Jednání se zaměřilo na provázanost financování obcí a krajů, přičemž důraz byl kladen na stabilitu systému, předvídatelnost příjmů a otázku, zda by RUD měl obsahovat motivační prvky pro podporu lokálního podnikání.\n\nDiskuse reflektovala napětí mezi potřebou koheze (vyrovnávání rozdílů) a voláním po větší fiskální decentralizaci, která by obcím umožnila lépe participovat na ekonomické aktivitě na jejich území.",
+    "main_points": [
+      "**Lucie Sedmihradská (poslankyně)**: Zdůraznila provázanost financování obcí a krajů a varovala před zafixováním parametrů, které by vedlo ke ztrátě dynamiky.",
+      "**Libor Švec (starosta)**: Ocenil stabilitu systému, ale kritizoval podfinancování regionálních center a zastaralost revizí.",
+      "**Petra Pecková (hejtmanka)**: Kritizovala 20 let neměnný RUD krajů a navrhla dynamická kritéria (doprava, nemocnice).",
+      "**Miroslav Matej (MF ČR)**: Varoval před motivačními daněmi, které by dle něj prohloubily regionální divergenci a volatilitu příjmů.",
+      "**Jiří Munich (PAQ Research)**: Argumentoval, že lze kombinovat motivační prvky s kohezními mechanismy a že současný systém je v EU unikátní svou absencí motivace."
+    ],
+    "outcome": "Formální rozhodnutí nebylo přijato. Konsenzus panuje v tom, že současný systém je stabilní, ale vyžaduje revizi, zejména v oblasti financování krajů a nastavení koeficientů pro velká města. Dominujícím postojem je potřeba „definovat, co od obcí chceme“, než se přistoupí k plošným změnám parametrů RUD.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, chyby v diakritice), které však nemají vliv na pochopení hlavních argumentačních linií řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Libor Švec",
+        "person_id": null,
+        "affiliation": "Starosta obce Vestec"
+      },
+      {
+        "name": "Petra Pecková",
+        "person_id": "psp:person:6936",
+        "affiliation": "Hejtmanka Středočeského kraje"
+      },
+      {
+        "name": "Miroslav Matej",
+        "person_id": "psp:person:5022",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Jiří Munich",
+        "person_id": null,
+        "affiliation": "PAQ Research"
+      }
+    ],
+    "parties": [
+      "ANO 2011",
+      "STAN",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo financí",
+      "PAQ Research",
+      "SMS ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Středočeský kraj poznáte podle první díry, do které vjedete, protože RUD krajů se 20 let nezměnil.",
+      "type": "citation",
+      "speaker": "Petra Pecková",
+      "affiliation": "Hejtmanka Středočeského kraje",
+      "timestamp": "2/07:59",
+      "screenshot_path": "summaries/screenshots/event_2756_highlight_00.jpg",
+      "context": "Zákon o rozpočtovém určení daní (RUD) prošel v posledních 20 letech řadou úprav (např. novela č. 293/2012 Sb.), nicméně kritika hejtmanky míří na dlouhodobou nedostatečnost koeficientů pro Středočeský kraj, který čelí extrémnímu nárůstu obyvatel a s tím spojeným nákladům na infrastrukturu. Stav silnic II. a III. třídy je v kraji dlouhodobě kritizován, přičemž financování jejich oprav závisí na krajských rozpočtech a dotacích ze Státního fondu dopravní infrastruktury."
+    },
+    {
+      "text": "Česká republika je jako polovina čínského města, ale úředníků máme skoro na půl Číny.",
+      "type": "paraphrase",
+      "speaker": "Aleš Trnka",
+      "affiliation": "veřejnost",
+      "timestamp": "11/09:14",
+      "screenshot_path": "summaries/screenshots/event_2756_highlight_01.jpg",
+      "context": "Tvrzení je nadsázkou. Podle dat ČSÚ zaměstnával státní sektor v roce 2023 přibližně 480 tisíc osob, zatímco Čína má populaci přes 1,4 miliardy obyvatel. Srovnání počtu úředníků s velikostí čínské populace je fakticky nepodložené a slouží jako populistická rétorika pro kritiku byrokracie."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Zavedení motivační složky RUD navázané na ekonomickou aktivitu (podnikání).**\n\n*   **Kdo:** Jiří Munich (PAQ Research) vs. Miroslav Matej (Ministerstvo financí).\n*   **Co:** Munich navrhuje zohlednit ekonomickou aktivitu, Matej to označuje za „nebezpečnou myšlenku“, která by zdevastovala periferie.\n*   **Proč:** Politicky citlivé téma, protože ovlivňuje přerozdělování miliard korun mezi bohatá centra a chudší regiony.\n*   **Čas:** 5/06:02 a 8/00:00.",
+      "speaker": "Jiří Munich / Miroslav Matej",
+      "affiliation": "PAQ Research / Ministerstvo financí",
+      "timestamp": "5/06:02",
+      "screenshot_path": "summaries/screenshots/event_2756_controversy_00.jpg",
+      "context": "Debata o změně RUD směrem k ekonomické aktivitě je odborným tématem. Návrh Jiřího Municha (PAQ Research) reflektuje snahu motivovat samosprávy k rozvoji podnikání, zatímco obava Miroslava Mateje (MF ČR) vychází z principu solidarity, kdy by kraje s nižší ekonomickou základnou (periferie) přišly o podstatnou část příjmů, což by mohlo prohloubit regionální nerovnosti."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}

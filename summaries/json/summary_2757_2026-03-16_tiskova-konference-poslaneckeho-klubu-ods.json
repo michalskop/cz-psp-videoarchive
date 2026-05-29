@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:42:53",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2757",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-16",
+    "end_date": "2026-03-16",
+    "sources": [
+      "final/event_2757_2026-03-16_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem reakce poslaneckého klubu ODS na aktuální rozhodnutí vlády a projednávaná témata v Poslanecké sněmovně. Hlavními body byly ekonomické dopady situace na Blízkém východě (ceny pohonných hmot), kritika vládního přístupu k obraně a bezpečnosti, výhrady k novele stavebního zákona a nesouhlas s plánovaným zákazem kratomu.\n\nCílem konference bylo prezentovat ODS jako věcnou opozici, která nabízí konkrétní řešení a kritizuje chaotické či nekompetentní kroky současné vládní koalice.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Navrhuje snížení spotřební daně na PHM o 1,70 Kč, odmítá zastropování cen. Kritizuje vládu za neplnění obranných závazků a varuje před zpochybňováním stavu ropovodu Družba.",
+      "**Karel Haas (ODS)** — Kritizuje legislativní proces novely stavebního zákona a varuje před personálním kolapsem úřadů při centralizaci.",
+      "**Radim Ivan (ODS)** — Varuje před centralizací stavební správy bez pilotního testování a upozorňuje na nejistotu podnikatelů v oboru prodeje kratomu.",
+      "**Renata Zajíčková (ODS)** — Prosazuje zachování regulace kratomu namísto jeho úplného zákazu, který by podle ní vedl k přesunu látky na černý trh."
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí. ODS deklarovala, že bude v Poslanecké sněmovně předkládat vlastní pozměňovací návrhy k novele stavebního zákona a bude nadále vystupovat proti plošným zákazům a nekoncepčním vládním krokům.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Radim Ivan",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Vláda ČR",
+      "WHO",
+      "OSN"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Náš návrh znamená snížení spotřební daně na pohonné hmoty o 1,70 korun, což je jasně protiinflační krok.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:03",
+      "screenshot_path": "summaries/screenshots/event_2757_highlight_00.jpg",
+      "context": "Snížení spotřební daně z pohonných hmot skutečně snižuje přímé náklady na dopravu, což může mít krátkodobý protiinflační efekt. Ekonomové však upozorňují, že celkový dopad na inflaci je omezený a závisí na tom, zda prodejci promítnou snížení daně do konečných cen pro spotřebitele."
+    },
+    {
+      "text": "Mezi padesáti až sedmdesáti procenty úředníků, kteří vykonávají stavebně správní agendy, nechce přejít do centrálního systému.",
+      "type": "citation",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/12:01",
+      "screenshot_path": "summaries/screenshots/event_2757_highlight_01.jpg",
+      "context": "Toto tvrzení vychází z odhadů Svazu měst a obcí ČR a interních průzkumů mezi úředníky v souvislosti s digitalizací stavebního řízení. Přesná čísla se mohou lišit v závislosti na metodice průzkumu, ale odpor úředníků k přechodu na centrální systém je dlouhodobě dokumentovaným problémem při implementaci nového stavebního zákona."
+    },
+    {
+      "text": "Kratom by byl v ten okamžik na černém trhu, byl by v šedé zóně a samozřejmě by tady hrozilo, že by se opět dostal do rukou našich dětí.",
+      "type": "citation",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/17:10",
+      "screenshot_path": "summaries/screenshots/event_2757_highlight_02.jpg",
+      "context": "Argumentace vychází z principu prohibice, kdy úplný zákaz látky často vede k přesunu trhu do ilegality, kde chybí kontrola kvality a věku kupujících. Podobné obavy o přesun na černý trh jsou standardní součástí odborných debat o regulaci návykových látek, ačkoliv empirické dopady konkrétně u kratomu v ČR jsou předmětem probíhajících legislativních analýz."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Martin Kupka (ODS) označil návrh zákona o neziskových organizacích za „horší než Putinův ruský zákon“ a „zvěrstvo“. Je to politicky citlivé, protože se jedná o ostrý střet o vliv neziskového sektoru a transparentnost financování, přičemž ODS návrh vnímá jako ohrožení svobody.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/20:02",
+      "screenshot_path": "summaries/screenshots/event_2757_controversy_00.jpg",
+      "context": "Srovnání s ruským zákonem o „zahraničních agentech“ je politickou rétorikou, která poukazuje na obavy z omezování občanské společnosti. Fakticky jde o spor o rozsah transparentnosti financování neziskových organizací; zatímco zastánci návrhu argumentují prevencí zahraničního vlivu, kritici jej vnímají jako nástroj k stigmatizaci a omezování nezávislých subjektů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

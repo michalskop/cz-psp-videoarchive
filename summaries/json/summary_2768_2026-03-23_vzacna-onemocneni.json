@@ -1,0 +1,127 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:36:40",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2768",
+    "name": "Vzácná onemocnění",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-03-23T14:00",
+    "end_date": "2026-03-23T16:43",
+    "sources": [
+      "final/event_2768_2026-03-23_vzacna-onemocneni.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 17,
+    "parts_total": 17,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na problematiku vzácných onemocnění v České republice, konkrétně na finalizaci a implementaci Národní strategie pro vzácná onemocnění. Cílem bylo zhodnotit současný stav péče, identifikovat systémové nedostatky (zejména v oblasti diagnostiky, koordinace péče a dostupnosti inovativní léčby) a diskutovat o možnostech zlepšení spolupráce mezi ministerstvem zdravotnictví, zdravotními pojišťovnami, odbornými centry a pacientskými organizacemi.\n\nJednání sloužilo jako platforma pro výměnu zkušeností mezi experty, plátci péče a zástupci pacientů, přičemž důraz byl kladen na nutnost systémového ukotvení koordinátorů péče, zlepšení sběru dat prostřednictvím orfakódů a zajištění udržitelnosti center vysoce specializované péče.",
+    "main_points": [
+      "**Zachar (Ministerstvo zdravotnictví)** — Finalizace Národní strategie pro vzácná onemocnění, příprava implementačních plánů na 10 let, důraz na koordinovanou péči napříč obory a získávání relevantních dat.",
+      "**Duškov (VZP)** — Potřeba zaměření na včasnou diagnostiku a efektivní terapii. Uznání omezenosti prostředků, ale ochota spolupracovat na definování jasných zadání pro úhrady.",
+      "**Alharrásnová (ČAVO)** — Upozornění na fakt, že v ČR žije přes půl milionu lidí se vzácnou diagnózou. Zdůraznění potřeby zkrácení diagnostické odysey a nutnosti odlehčovacích služeb.",
+      "**Břečtěn (místopředseda)** — Kritika zdlouhavosti procesu vstupu léků do úhrad, což vede k progresi onemocnění u pacientů.",
+      "**Macek (odborník)** — Zdůraznění evropského kontextu (ERN). ČR je v kvalitě péče na 8. místě v Evropě, ale chybí personální a finanční zázemí.",
+      "**Vojtěch (ministr zdravotnictví)** — Potvrzení prioritizace vzácných onemocnění a důraz na roli koordinátora péče propojujícího zdravotní a sociální sféru.",
+      "**Doleželová (odbornice)** — Analýza nedostatků v centralizaci péče. Upozornila na to, že existující centra jsou přetížena a chybí formální definice „sdílené péče“."
+    ],
+    "outcome": "Jednání nemělo formální výstup v podobě hlasování, ale došlo ke konsenzu v následujících bodech:\n* Dokončit a implementovat Národní strategii.\n* Legislativně zakotvit Národní registr vzácných onemocnění.\n* Zavést pozici koordinátora péče.\n* Zlepšit datovou analytiku pomocí orfakódů pro lepší plánování úhrad.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, nedokončená slova, opakující se fráze). Části záznamu jsou nesrozumitelné kvůli automatickému přepisu, ale hlavní argumentační linie zůstala zachována."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zachar",
+        "person_id": "psp:person:7095",
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Duškov",
+        "person_id": null,
+        "affiliation": "VZP"
+      },
+      {
+        "name": "Anička Alharrásnová",
+        "person_id": null,
+        "affiliation": "ČAVO"
+      },
+      {
+        "name": "René Břečtěn",
+        "person_id": null,
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Prof. Macek",
+        "person_id": "psp:person:2589",
+        "affiliation": "Společnost lékařské genetiky"
+      },
+      {
+        "name": "Adam Vojtěch",
+        "person_id": "psp:person:5768",
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Prof. Doleželová",
+        "person_id": "psp:person:1049",
+        "affiliation": "Odborná lékařská společnost"
+      }
+    ],
+    "parties": [
+      "VZP",
+      "ČAVO"
+    ],
+    "institutions": [
+      "Ministerstvo zdravotnictví",
+      "Poslanecká sněmovna",
+      "ÚZIS"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nám v zácné komunitě čas utíká mnohem rychleji, proto jsme tady, abychom uspíšili pomoc lidem, kteří nemají léky.",
+      "type": "citation",
+      "speaker": "Anička Alharrásnová",
+      "affiliation": "ČAVO",
+      "timestamp": "2/05:16",
+      "screenshot_path": "summaries/screenshots/event_2768_highlight_00.jpg",
+      "context": "Jde o subjektivní vyjádření prožívané reality pacientů se vzácným onemocněním. Z hlediska medicínského a legislativního je tvrzení o „rychlejším utíkání času“ metaforou pro progresi onemocnění a omezenou dostupnost včasné léčby."
+    },
+    {
+      "text": "V 8 z 10 lidí se vzácným onemocněním má zdravotní postižení a 7 z 10 z nich má i psychické problémy.",
+      "type": "citation",
+      "speaker": "Anička Alharrásnová",
+      "affiliation": "ČAVO",
+      "timestamp": "2/04:53",
+      "screenshot_path": "summaries/screenshots/event_2768_highlight_01.jpg",
+      "context": "Údaje odpovídají statistikám publikovaným Českou asociací pro vzácná onemocnění (ČAVO) a evropskými pacientskými organizacemi (např. EURORDIS). Tato data reflektují vysokou míru komorbidit a psychosociální zátěže u pacientů se vzácnými diagnózami."
+    },
+    {
+      "text": "Česká republika je osmá v Evropě v kvalitě péče o vzácná onemocnění, ale nejde to dělat na koleně.",
+      "type": "paraphrase",
+      "speaker": "Prof. Macek",
+      "affiliation": "Odborná společnost",
+      "timestamp": "4/08:03",
+      "screenshot_path": "summaries/screenshots/event_2768_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Pořadí ČR v kvalitě péče o vzácná onemocnění se liší podle metodiky (např. dostupnost léků vs. síť center vysoce specializované péče). ČR disponuje sítí center vysoce specializované zdravotní péče pro vzácná onemocnění, jejichž fungování upravuje zákon č. 372/2011 Sb."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zneužívání paragrafu 16 jako systémového řešení.\n\n* **Kdo:** Neurologické centrum (lékařka)\n* **Co:** „Pokud já musím takto systematicky téměř zneužívat paragraf 16, tak si myslím, že ten systém není nastavený správně.“\n* **Proč:** Paragraf 16 je určen pro výjimečné případy, nikoliv pro rutinní úhradu léčby, která by měla být standardizována. Je to politicky citlivé, protože to ukazuje na selhání standardního úhradového procesu.\n* **Čas:** 11/02:00",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "11/02:00",
+      "screenshot_path": "summaries/screenshots/event_2768_controversy_00.jpg",
+      "context": "Paragraf 16 zákona č. 48/1997 Sb. je skutečně koncipován jako nástroj pro úhradu zdravotní péče v případech, kdy je poskytnutí jiné služby nezbytné z hlediska zdravotního stavu a nejde o standardní postup. Odborná veřejnost dlouhodobě kritizuje jeho využívání jako náhrady za chybějící standardní úhradové mechanismy pro moderní a nákladnou léčbu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

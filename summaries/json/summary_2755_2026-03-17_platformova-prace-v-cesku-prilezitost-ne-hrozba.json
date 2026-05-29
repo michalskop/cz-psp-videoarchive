@@ -1,0 +1,138 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:42:02",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2755",
+    "name": "Platformová práce v Česku: příležitost, ne hrozba",
+    "classification": "Seminář",
+    "start_date": "2026-03-17T09:05",
+    "end_date": "2026-03-17T12:09",
+    "sources": [
+      "final/event_2755_2026-03-17_platformova-prace-v-cesku-prilezitost-ne-hrozba.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 19,
+    "parts_total": 19,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář „Platformová práce v Česku: příležitost, ne hrozba“ se konal 17. března 2026 v Poslanecké sněmovně pod záštitou Výboru pro sociální politiku ve spolupráci se Svazem obchodu a cestovního ruchu ČR. Cílem setkání bylo otevřít věcnou diskuzi o transpozici evropské směrnice o platformové práci do české legislativy.\n\nJednání se zaměřilo na definování platformové práce, její ekonomický přínos, flexibilitu jako klíčový benefit pro pracovníky a potřebu nastavit pravidla, která nebudou brzdit rozvoj tohoto sektoru. Důraz byl kladen na nalezení rovnováhy mezi ochranou pracovníků (transparentnost algoritmů, lidský dohled) a zachováním svobody podnikání (OSVČ model).",
+    "main_points": [
+      "**Tomáš Prouza (Svaz obchodu a cestovního ruchu)** — Zdůraznil rostoucí význam platformové práce pro mladé i starší generace a rodiče. Prosazuje minimalistickou transpozici směrnice, která zachová flexibilitu a model OSVČ.",
+      "**Lukáš Henzl (Svaz obchodu a cestovního ruchu)** — Definoval platformovou práci jako intermediaci v reálném čase. Zdůraznil, že směrnice neukládá automatickou přeměnu na zaměstnanecký poměr.",
+      "**Adam Kolesa (Foodora)** — Popsal platformu jako ekosystém propojující kurýry, restaurace a zákazníky. Uvedl, že 90 % kurýrů preferuje flexibilitu před zaměstnaneckým poměrem.",
+      "**Jan Uhlíř (Bolt)** — Zaměřil se na bezpečnostní prvky a zdůraznil, že 60 % řidičů by omezilo práci, pokud by byla omezena flexibilita.",
+      "**Veronika Moskvá (Wolt)** — Prezentovala zahraniční zkušenosti a uvedla, že 88 % kurýrů preferuje živnost před zaměstnáním.",
+      "**Soňa Větrovková a Jana Váňová (RILSA)** — Prezentovaly výzkum mezi kurýry. Doporučují nevnucovat ochranu zákoníku práce těm, kteří o ni nestojí.",
+      "**Aleš Rod (CETA)** — Upozornil, že boj proti platformám je bojem proti antidiskriminačnímu nástroji na trhu práce.",
+      "**Dana Roučková (MPSV)** — Představila legislativní plán: nový zákon o platformové práci, redefinici závislé práce a zavedení vyvratitelné právní domněnky pracovně-právního vztahu.",
+      "**Bohdan Wojnar (Svaz průmyslu a dopravy)** — Vyjádřil podporu kvalitní legislativě, která nepoškodí konkurenceschopnost."
+    ],
+    "outcome": "Konsenzem účastníků je potřeba „minimalistické“ transpozice směrnice, která zajistí transparentnost algoritmů a ochranu pracovníků, aniž by zničila flexibilitu modelu OSVČ. Ministerstvo práce a sociálních věcí připravuje legislativní návrh, který bude v nejbližší době předložen do mezirezortního připomínkového řízení.",
+    "notes": "Přepis obsahuje opakující se halucinace („Příležitost, ne hrozba“, „Představující se na www.hradeckralove.org“), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomáš Prouza",
+        "person_id": null,
+        "affiliation": "Svaz obchodu a cestovního ruchu"
+      },
+      {
+        "name": "Lukáš Henzl",
+        "person_id": null,
+        "affiliation": "Svaz obchodu a cestovního ruchu"
+      },
+      {
+        "name": "Adam Kolesa",
+        "person_id": null,
+        "affiliation": "Foodora"
+      },
+      {
+        "name": "Jan Uhlíř",
+        "person_id": "psp:person:4823",
+        "affiliation": "Bolt"
+      },
+      {
+        "name": "Veronika Moskvá",
+        "person_id": "psp:person:2946",
+        "affiliation": "Wolt"
+      },
+      {
+        "name": "Soňa Větrovková",
+        "person_id": null,
+        "affiliation": "RILSA"
+      },
+      {
+        "name": "Aleš Rod",
+        "person_id": "psp:person:5495",
+        "affiliation": "CETA"
+      },
+      {
+        "name": "Dana Roučková",
+        "person_id": null,
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "Bohdan Wojnar",
+        "person_id": null,
+        "affiliation": "Svaz průmyslu a dopravy"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "MPSV",
+      "Svaz obchodu a cestovního ruchu",
+      "RILSA",
+      "CETA"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Kdo bojuje proti platformám, bojuje proti části trhu práce, která je signifikantně antidiskriminační.",
+      "type": "paraphrase",
+      "speaker": "Aleš Rod",
+      "affiliation": "CETA",
+      "timestamp": "13/03:46",
+      "screenshot_path": "summaries/screenshots/event_2755_highlight_00.jpg",
+      "context": "Tvrzení je subjektivním názorem na charakter platforem. Nelze nezávisle ověřit jako objektivní fakt, neboť míra antidiskriminace závisí na nastavení algoritmů a interních pravidel konkrétních platforem, nikoliv pouze na jejich obchodním modelu."
+    },
+    {
+      "text": "90 % kurýrů preferuje práci na volné noze před zaměstnáním.",
+      "type": "citation",
+      "speaker": "Adam Kolesa",
+      "affiliation": "Foodora",
+      "timestamp": "4/00:18",
+      "screenshot_path": "summaries/screenshots/event_2755_highlight_01.jpg",
+      "context": "Toto číslo vychází z interních průzkumů platforem, nikoliv z nezávislých dat ČSÚ nebo MPSV. Reprezentativnost a metodika sběru těchto dat nejsou veřejně ověřitelné, proto je třeba údaj vnímat jako firemní prezentaci zájmů."
+    },
+    {
+      "text": "Platformy neřeší, jestli jste matka samoživitelka, vězeň po výkonu trestu nebo cizinec, který se chce socializovat.",
+      "type": "citation",
+      "speaker": "Aleš Rod",
+      "affiliation": "CETA",
+      "timestamp": "13/04:18",
+      "screenshot_path": "summaries/screenshots/event_2755_highlight_02.jpg",
+      "context": "Tvrzení o nízkých bariérách vstupu na trh práce je fakticky podloženo nízkými nároky na kvalifikaci u kurýrních služeb. Nicméně fakt, že platformy „neřeší“ identitu, je zjednodušením, neboť platformy musí ze zákona ověřovat totožnost a právní způsobilost (např. zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zavedení nevyvratitelné právní domněnky pracovního poměru v případech nehlášené práce.\n- **Kdo:** Dana Roučková (MPSV)\n- **Co:** Pokud zaměstnavatel neuzavře ani pracovně-právní vztah, bude platit nevyvratitelná domněnka pracovního poměru.\n- **Proč:** Je to politicky citlivé, protože to výrazně zpřísňuje postihy pro firmy a omezuje smluvní volnost.\n- **Čas:** 18/04:04",
+      "speaker": "Dana Roučková",
+      "affiliation": "MPSV",
+      "timestamp": "18/04:04",
+      "screenshot_path": "summaries/screenshots/event_2755_controversy_00.jpg",
+      "context": "Návrh na zavedení nevyvratitelné domněnky pracovního poměru je součástí diskusí o novele zákoníku práce (zákon č. 262/2006 Sb.). Cílem je boj proti švarcsystému a nelegálnímu zaměstnávání, přičemž jde o právní nástroj, který by přenesl důkazní břemeno na zaměstnavatele."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

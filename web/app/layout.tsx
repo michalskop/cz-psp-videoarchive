@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import "./globals.css";
 import { SiteHeader } from "./components/SiteHeader";
 import { SiteFooter } from "./components/SiteFooter";
+import { MatomoScript, MatomoNoscript } from "./components/MatomoScript";
 
 const BASE_URL = "https://snemovna.datatimes.cz";
+const MATOMO = { url: "//matomo.kohovolit.eu/", siteId: "2" };
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
@@ -39,9 +42,13 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-full flex flex-col bg-surface-1 text-foreground font-slab antialiased">
+        <MatomoNoscript {...MATOMO} />
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />
+        <Suspense>
+          <MatomoScript {...MATOMO} />
+        </Suspense>
       </body>
     </html>
   );
