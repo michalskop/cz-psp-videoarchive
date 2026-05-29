@@ -1,0 +1,121 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T22:24:15",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2886",
+    "name": "Tisková konference k akci na téma Novinky v pomoci dětským obětem násilí",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-11",
+    "sources": [
+      "final/event_2886_2026-05-11_tiskova-konference-k-akci-na-tema-novinky-v-pomoci.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5280_video-psp-2026511-93-9-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Jednání proběhlo formou tiskové konference u příležitosti XI. odborné konference Centra Locika. Cílem akce bylo upozornit na alarmující statistiky násilí na dětech v České republice, kriticky zhodnotit současný stav systému sociálně-právní ochrany dětí (OSPOD) a diskutovat o nutných systémových změnách.\n\nHlavním motivem byla reakce na nedávné tragické případy úmrtí dětí, které odhalily zásadní nedostatky v komunikaci mezi institucemi, nedostatečnou prevenci a roztříštěnost systému. Řečníci se shodli na nutnosti přechodu od reaktivního přístupu k preventivnímu a na potřebě vytvoření komplexního, mezioborového systému ochrany dětí.",
+    "main_points": [
+      "**Taťána Malá (vládní zmocněnkyně pro lidská práva)** — Prezentovala hrozivá data: ročně zemře 8 dětí na následky násilí v rodině, 150 dětí utrpí trvalé následky, 2000 dětí je odebráno z péče rodičů. Navrhuje zavedení „dětského certifikátu“ pro prevenci práce sexuálních delikventů s dětmi a znovuzavedení kriminalizace neplacení výživného. Zdůraznila potřebu mezioborové spolupráce. `[1/02:02]`",
+      "**Petra Wünschová (ředitelka a zakladatelka Centra Locika)** — Kritizovala nečinnost státu, kdy za dobu existence jejího centra zemřelo 60 dětí, aniž by došlo k systémové reformě. Požaduje zavedení institutu forenzního pediatra, propojení informací mezi trestním a opatrovnickým řízením a vytvoření vládní pracovní skupiny pro přípravu zákona o ochraně dětských obětí násilí. `[1/08:00]`",
+      "**Martin Beneš (dětský ombudsman)** — Varoval před politickými zkratkami a rychlými „kosmetickými“ úpravami zákona. Zdůraznil, že systém OSPOD je obrovský kolos, který vyžaduje profesionální systémové řízení. `[1/14:07]`",
+      "**Edita Stejskalová (náměstkyně ministra práce a sociálních věcí)** — Oznámila vznik komise pro řešení nepřirozených úmrtí dětí a plánovanou reformu OSPOD, jejímž cílem je vznik „Úřadu pro rodinu a ochranu dětí“. Legislativní změny očekává v horizontu roku 2028. `[1/16:01]`",
+      "**Kateřina Bělohlávková (národní koordinátorka pro prevenci násilí, MV ČR)** — Představila vládní program „Bezpečné dětství“. Ministerstvo vnitra pro letošní rok investuje přes 30 milionů Kč do programů práce s agresory a podpory multidisciplinárních center. `[1/20:04]`"
+    ],
+    "outcome": "Jednání vyústilo v konsenzus, že stávající systém ochrany dětí je dlouhodobě podfinancovaný, roztříštěný a neefektivní. Politická reprezentace a odborníci se shodli na prioritě systémové reformy, nicméně nebyl stanoven žádný okamžitý legislativní výstup. Dominujícím postojem je nutnost mezioborové spolupráce a potřeba „odpracovat“ komplexní změny, přičemž reálný časový horizont pro legislativní ukotvení reformy OSPOD byl odhadnut na rok 2028.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování slov, které však nebrání pochopení obsahu. Část dotazů novinářů nebyla zodpovězena z důvodu nedostatku informací na straně řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Taťána Malá",
+        "person_id": "psp:person:6468",
+        "affiliation": "Vládní zmocněnkyně pro lidská práva"
+      },
+      {
+        "name": "Petra Wünschová",
+        "person_id": null,
+        "affiliation": "Centrum Locika"
+      },
+      {
+        "name": "Martin Beneš",
+        "person_id": "psp:person:6747",
+        "affiliation": "Dětský ombudsman"
+      },
+      {
+        "name": "Edita Stejskalová",
+        "person_id": null,
+        "affiliation": "Ministerstvo práce a sociálních věcí"
+      },
+      {
+        "name": "Kateřina Bělohlávková",
+        "person_id": null,
+        "affiliation": "Ministerstvo vnitra"
+      }
+    ],
+    "parties": [
+      "ANO 2011"
+    ],
+    "institutions": [
+      "Centrum Locika",
+      "Ministerstvo práce a sociálních věcí",
+      "Ministerstvo vnitra",
+      "OSPOD"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Osm dětí zemře ročně na následky násilí v rodinách, 150 dětí si odnese trvalé zdravotní následky a 2000 dětí je každoročně odebráno z péče biologických rodičů.",
+      "type": "paraphrase",
+      "speaker": "Taťána Malá",
+      "affiliation": "Vládní zmocněnkyně pro lidská práva",
+      "timestamp": "1/00:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2886_highlight_00.jpg",
+      "context": "Statistiky týkající se násilí na dětech se v ČR liší podle metodiky a zdroje (např. Policie ČR vs. zdravotnická zařízení). Údaje o 2000 odebraných dětech ročně odpovídají dlouhodobým trendům v agendě OSPOD, nicméně přesná čísla úmrtí v důsledku domácího násilí bývají předmětem odborných debat kvůli rozdílné klasifikaci příčin smrti."
+    },
+    {
+      "text": "Za dobu, co existuje centrum Locika, zemřelo 60 dětí, a přestože se usilovně snažíme o změny, stále nejsou dostatečné.",
+      "type": "paraphrase",
+      "speaker": "Petra Wünschová",
+      "affiliation": "Centrum Locika",
+      "timestamp": "1/08:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2886_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Centrum Locika se specializuje na pomoc dětem ohroženým násilím, ale neexistuje veřejně dostupná centrální statistika, která by přímo spojovala úmrtnost dětí s dobou existence této konkrétní organizace."
+    },
+    {
+      "text": "Systém sociálně-právní ochrany dětí je obrovský kolos, ve kterém pracuje okolo 10 tisíc lidí a je na něj vynakládáno 20 až 30 miliard korun ročně, který se nedá řídit pocitově.",
+      "type": "citation",
+      "speaker": "Martin Beneš",
+      "affiliation": "Dětský ombudsman",
+      "timestamp": "1/13:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2886_highlight_02.jpg",
+      "context": "Počet pracovníků v systému sociálně-právní ochrany dětí (OSPOD) na obecních úřadech se pohybuje v řádech tisíců, nicméně celkový počet 10 tisíc osob může zahrnovat i širší spektrum pracovníků v sociálních službách a návazných profesích. Výdaje v řádech desítek miliard korun odpovídají celkovému rozpočtu na sociální ochranu dětí a rodiny v rámci kapitol MPSV a obcí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma: Fyzické tresty dětí**\n*   **Kdo:** Taťána Malá (vládní zmocněnkyně pro lidská práva)\n*   **Co:** Deklarovala nepřijatelnost fyzického trestání dětí a snahu o výchovu bez trestů.\n*   **Proč:** Sama řečnice přiznala, že jde o téma, které je pro mnohé rodiče velmi kontroverzní a citlivé.\n*   **Čas:** `1/04:04`",
+      "speaker": "Taťána Malá",
+      "affiliation": "Vládní zmocněnkyně pro lidská práva",
+      "timestamp": "1/04:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2886_controversy_00.jpg",
+      "context": "V českém právním řádu není fyzické trestání dětí výslovně zakázáno, ačkoliv je v rozporu s Úmluvou o právech dítěte, kterou je ČR vázána. Debata o legislativním zákazu fyzických trestů je dlouhodobě politicky citlivým tématem, kde se střetává ochrana práv dítěte s právem rodičů na výchovu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

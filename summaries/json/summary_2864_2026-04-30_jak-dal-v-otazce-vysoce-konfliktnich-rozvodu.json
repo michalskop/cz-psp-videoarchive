@@ -10,6 +10,69 @@
     "end_date": "2026-04-30T16:26",
     "sources": [
       "final/event_2864_2026-04-30_jak-dal-v-otazce-vysoce-konfliktnich-rozvodu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430140009.mp4",
+        "from_sec": 258
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430141009.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430142009.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430143009.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430144009.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430145009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430150009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430151009.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430152009.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430153009.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430154009.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430155009.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430160009.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430161009.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/30/_20260430162009.mp4"
+      }
     ]
   },
   "transcription": {
@@ -87,7 +150,7 @@
       "speaker": "Soudce Rudolf",
       "affiliation": "Soudce",
       "timestamp": "10/02:05",
-      "screenshot_path": "summaries/screenshots/event_2864_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_highlight_00.jpg",
       "context": "Jde o subjektivní odborný názor na procesní právo. Efektivita soudního řízení je dlouhodobě diskutovaným tématem v rámci reformy civilního procesu, avšak hodnocení taktiky vedení sporu je individuální kompetencí soudce."
     },
     {
@@ -96,7 +159,7 @@
       "speaker": "Eva Petrová",
       "affiliation": "KVZ",
       "timestamp": "8/02:48",
-      "screenshot_path": "summaries/screenshots/event_2864_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_highlight_01.jpg",
       "context": "Délka řízení je skutečně častým důvodem pro podávání stížností k Evropskému soudu pro lidská práva (ESLP) z důvodu porušení práva na spravedlivý proces v přiměřené lhůtě (čl. 6 Úmluvy). ČR byla v minulosti opakovaně kritizována za průtahy v opatrovnických řízeních."
     },
     {
@@ -105,7 +168,7 @@
       "speaker": "Pavel Kotrády",
       "affiliation": "Soudce",
       "timestamp": "12/00:43",
-      "screenshot_path": "summaries/screenshots/event_2864_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_highlight_02.jpg",
       "context": "Znalecké posudky v oboru psychologie se zaměřují na posouzení výchovných předpokladů a vztahové vazby dítěte, nikoliv na prostou volbu mezi rodiči. Metodika znaleckého zkoumání je upravena zákonem č. 254/2019 Sb., o znalcích, a příslušnými vyhláškami Ministerstva spravedlnosti."
     }
   ],
@@ -115,7 +178,7 @@
       "speaker": "Soudce Rudolf",
       "affiliation": "Soudce",
       "timestamp": "2/02:01",
-      "screenshot_path": "summaries/screenshots/event_2864_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_controversy_00.jpg",
       "context": "Kasační princip v českém civilním procesu je omezen zásadou apelační, která preferuje, aby odvolací soud věc meritorně rozhodl, nikoliv ji vracel zpět. Zákaz rušení rozsudků není absolutní, ale řídí se zákonem č. 99/1963 Sb., občanský soudní řád."
     },
     {
@@ -123,7 +186,7 @@
       "speaker": "Vana Mirovská",
       "affiliation": "Veřejnost",
       "timestamp": "13/06:05",
-      "screenshot_path": "summaries/screenshots/event_2864_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_controversy_01.jpg",
       "context": "Tvrzení je subjektivním hodnotícím soudem. Kvalifikační předpoklady pro pracovníky OSPOD jsou stanoveny zákonem č. 359/1999 Sb., o sociálně-právní ochraně dětí, a vyžadují specifické odborné vzdělání (sociální práce, právo, psychologie či pedagogika)."
     }
   ],

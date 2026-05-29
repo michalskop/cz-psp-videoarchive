@@ -10,6 +10,50 @@
     "end_date": "2026-04-29T14:02",
     "sources": [
       "final/event_2858_2026-04-29_7-schuze-vyboru-pro-socialni-politiku.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429130002.mp4",
+        "from_sec": 118
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429130009.mp4",
+        "from_sec": 111
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429131002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429131009.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429132002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429132009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429133009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429134009.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429135009.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/29/_20260429140009.mp4"
+      }
     ]
   },
   "transcription": {
@@ -78,7 +122,7 @@
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
       "timestamp": "1/06:12",
-      "screenshot_path": "summaries/screenshots/event_2858_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2858_highlight_00.jpg",
       "context": "Jde o argumentaci k odkladu účinnosti zákona o dávkách pomoci v hmotné nouzi. Rizika spojená s IT systémy MPSV jsou dlouhodobě diskutovaným tématem, přičemž technická připravenost systémů je klíčová pro včasnou výplatu dávek dle zákona č. 111/2006 Sb."
     },
     {
@@ -87,7 +131,7 @@
       "speaker": "Karel Trpkoš",
       "affiliation": "MPSV",
       "timestamp": "6/01:03",
-      "screenshot_path": "summaries/screenshots/event_2858_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2858_highlight_01.jpg",
       "context": "Tvrzení o harmonogramu implementace „superdávky“ (sloučení čtyř dávek do jedné) vychází z vládní strategie digitalizace sociálních agend. Zda by další agenda vedla k rozkolísání institucí, je subjektivní odhad kapacity úřadů, nikoliv objektivně měřitelný fakt."
     },
     {
@@ -96,7 +140,7 @@
       "speaker": "Marian Jurečka",
       "affiliation": "KDU-ČSL",
       "timestamp": "8/04:58",
-      "screenshot_path": "summaries/screenshots/event_2858_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2858_highlight_02.jpg",
       "context": "Z ekonomického hlediska je péče v domácím prostředí zpravidla méně nákladná pro veřejné rozpočty než pobytové sociální služby. Úspora je však závislá na konkrétní míře závislosti klienta a rozsahu poskytované terénní či ambulantní podpory."
     }
   ],
@@ -106,7 +150,7 @@
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
       "timestamp": "7/01:41",
-      "screenshot_path": "summaries/screenshots/event_2858_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2858_controversy_00.jpg",
       "context": "Využití veta či jiných obstrukčních nástrojů je legitimní součástí parlamentního procesu dle Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Zda je konkrétní veto „politicky motivované“ nebo „legitimní“, je věcí politického názoru, nikoliv faktického ověření."
     }
   ],

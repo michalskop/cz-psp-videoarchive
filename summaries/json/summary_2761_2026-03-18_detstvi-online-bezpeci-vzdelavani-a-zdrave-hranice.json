@@ -10,6 +10,85 @@
     "end_date": "2026-03-18",
     "sources": [
       "final/event_2761_2026-03-18_detstvi-online-bezpeci-vzdelavani-a-zdrave-hranice.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318091003.mp4",
+        "from_sec": 51
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318092003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318093003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318094003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318095003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318100001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318101001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318102001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318103002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318104002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318105002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318110002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318111002.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318112002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318113001.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318114001.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318115000.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318120000.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/18/_20260318121000.mp4"
+      }
     ]
   },
   "transcription": {
@@ -102,7 +181,7 @@
       "speaker": "Štěpán Vymětal",
       "affiliation": "MV ČR",
       "timestamp": "6/01:28",
-      "screenshot_path": "summaries/screenshots/event_2761_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2761_highlight_00.jpg",
       "context": "Tento údaj odpovídá závěrům výzkumů Národního monitorovacího střediska pro drogy a závislosti (např. studie ESPAD či data z projektů zaměřených na digitální zdraví). Odhad 10 % se pohybuje v rozmezí odborných studií o problematickém užívání technologií u dospívajících v ČR."
     },
     {
@@ -111,7 +190,7 @@
       "speaker": "Lukáš Kintr",
       "affiliation": "NÚKIB",
       "timestamp": "7/01:51",
-      "screenshot_path": "summaries/screenshots/event_2761_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2761_highlight_01.jpg",
       "context": "Data vycházejí z průzkumů NÚKIB a spolupracujících organizací (např. projekt E-Bezpečí). Uvedené hodnoty odpovídají trendům, kdy starší žáci tráví online časem srovnatelným s plným pracovním úvazkem, přičemž tyto údaje zahrnují jak školní práci, tak volnočasové aktivity."
     },
     {
@@ -120,7 +199,7 @@
       "speaker": null,
       "affiliation": null,
       "timestamp": "16/06:05",
-      "screenshot_path": "summaries/screenshots/event_2761_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2761_highlight_02.jpg",
       "context": "Nelze nezávisle ověřit. Jde o hodnotící úsudek a metaforické vyjádření, které nelze podložit exaktními daty, ačkoliv reflektuje odbornou debatu o tzv. digitální propasti a mediální gramotnosti."
     }
   ],
@@ -130,7 +209,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "3/01:00",
-      "screenshot_path": "summaries/screenshots/event_2761_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2761_controversy_00.jpg",
       "context": "Tvrzení správně identifikuje hlavní body debaty. Plošný zákaz naráží na Listinu základních práv a svobod (právo na informace) a technicky je obtížně vymahatelný kvůli anonymitě internetu a snadnému obcházení věkového ověření (např. pomocí VPN či sdílených účtů)."
     }
   ],

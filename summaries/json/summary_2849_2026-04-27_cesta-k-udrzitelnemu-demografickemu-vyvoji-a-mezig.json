@@ -10,6 +10,81 @@
     "end_date": "2026-04-27T15:51",
     "sources": [
       "final/event_2849_2026-04-27_cesta-k-udrzitelnemu-demografickemu-vyvoji-a-mezig.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427130007.mp4",
+        "from_sec": 238
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427131007.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427132007.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427133007.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427134007.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427135007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427140007.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427141007.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427142007.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427143007.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427144007.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427145007.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427150007.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427151007.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427152007.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427153007.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427154007.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/27/_20260427155007.mp4"
+      }
     ]
   },
   "transcription": {
@@ -109,7 +184,7 @@
       "speaker": "Regina Dlouhá",
       "affiliation": "Unie center pro rodinu a komunitu",
       "timestamp": "6/00:45",
-      "screenshot_path": "summaries/screenshots/event_2849_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_highlight_00.jpg",
       "context": "Jde o hodnotové a politické tvrzení, které nelze fakticky ověřit. Vyjadřuje názor na filozofický přístup k rodinné politice, nikoliv měřitelný ekonomický nebo právní fakt."
     },
     {
@@ -118,7 +193,7 @@
       "speaker": "Jiřina Kocourková",
       "affiliation": "Univerzita Karlova",
       "timestamp": "2/06:02",
-      "screenshot_path": "summaries/screenshots/event_2849_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_highlight_01.jpg",
       "context": "Údaj za rok 2021 (1,83) odpovídá datům ČSÚ. Odhad pro rok 2025 je predikcí; podle ČSÚ úhrnná plodnost v roce 2023 klesla na 1,45 a trend poklesu pokračuje, nicméně hodnota 1,28 je odborným odhadem, nikoliv uzavřeným statistickým faktem."
     },
     {
@@ -127,7 +202,7 @@
       "speaker": "Jiřina Kocourková",
       "affiliation": "Univerzita Karlova",
       "timestamp": "4/02:10",
-      "screenshot_path": "summaries/screenshots/event_2849_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_highlight_02.jpg",
       "context": "Sociologické tvrzení o korelaci mezi kvalitou mezigeneračních vazeb a reprodukčním chováním. Nelze nezávisle ověřit jako exaktní vědecký fakt, jde o interpretaci demografických a sociologických souvislostí."
     },
     {
@@ -136,7 +211,7 @@
       "speaker": "Jana Vidovičová",
       "affiliation": "RILSA",
       "timestamp": "8/06:01",
-      "screenshot_path": "summaries/screenshots/event_2849_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_highlight_03.jpg",
       "context": "Metaforické vyjádření demografického vývoje. Z hlediska veřejných financí a důchodového systému je stárnutí populace objektivně doložitelným procesem, který vyžaduje strukturální změny (např. dle zpráv Národní rozpočtové rady)."
     }
   ],
@@ -146,7 +221,7 @@
       "speaker": null,
       "affiliation": null,
       "timestamp": "9/02:15",
-      "screenshot_path": "summaries/screenshots/event_2849_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_controversy_00.jpg",
       "context": "Téma klimatické úzkosti jako faktoru ovlivňujícího reprodukční rozhodování je předmětem aktuálních psychologických a sociologických studií (např. výzkumy publikované v časopise The Lancet Planetary Health). Jde o reálný fenomén diskutovaný v odborných kruzích."
     },
     {
@@ -154,7 +229,7 @@
       "speaker": null,
       "affiliation": null,
       "timestamp": "9/08:15",
-      "screenshot_path": "summaries/screenshots/event_2849_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_controversy_01.jpg",
       "context": "Střet mezi biologickými aspekty reprodukce a společenskými změnami je předmětem dlouhodobých debat v sociologii a evoluční psychologii. Tvrzení o „genetické potřebě“ je předmětem vědeckých sporů a nelze jej zjednodušeně potvrdit či vyvrátit."
     }
   ],

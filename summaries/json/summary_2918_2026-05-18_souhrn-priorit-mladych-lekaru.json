@@ -10,6 +10,105 @@
     "end_date": "2026-05-18T12:54",
     "sources": [
       "final/event_2918_2026-05-18_souhrn-priorit-mladych-lekaru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518090009.mp4",
+        "from_sec": 391
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518091009.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518092009.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518093009.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518094009.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518095009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518100009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518101009.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518102009.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518103009.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518104009.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518105009.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518110009.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518111009.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518112009.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518113009.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518114009.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518115009.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518120009.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518121009.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518122009.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518123009.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518124009.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/18/_20260518125009.mp4"
+      }
     ]
   },
   "transcription": {
@@ -104,7 +203,7 @@
       "speaker": "Veronika Vlachová",
       "affiliation": "lékařka",
       "timestamp": "12/06:48",
-      "screenshot_path": "summaries/screenshots/event_2918_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2918_highlight_00.jpg",
       "context": "Údaj vychází z průzkumu České lékařské komory (ČLK) z roku 2023 mezi mladými lékaři. Potvrzuje dlouhodobý trend nespokojenosti s pracovními podmínkami, který je pravidelně monitorován v rámci analýz ČLK a Institutu postgraduálního vzdělávání ve zdravotnictví (IPVZ)."
     },
     {
@@ -113,7 +212,7 @@
       "speaker": "Jakub Mach",
       "affiliation": "AČMN",
       "timestamp": "22/08:51",
-      "screenshot_path": "summaries/screenshots/event_2918_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2918_highlight_01.jpg",
       "context": "Česká republika dlouhodobě vzdělává významný podíl zahraničních studentů na lékařských fakultách (zejména v anglických programech). Podle dat MŠMT a ÚZIS tvoří tito studenti podstatnou část kapacity fakult, přičemž jejich následné setrvání v českém zdravotnictví je nízké, což potvrzuje argument o odlivu investovaných prostředků do vzdělávání."
     },
     {
@@ -122,7 +221,7 @@
       "speaker": "Marek Babiuk",
       "affiliation": "Asociace děkanů LF",
       "timestamp": "19/04:00",
-      "screenshot_path": "summaries/screenshots/event_2918_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2918_highlight_02.jpg",
       "context": "Tvrzení odpovídá realitě medicínského vzdělávání, kde délka studia (6 let) a následná specializační příprava (atestace trvající 3–6 let) vytvářejí přirozenou setrvačnost. Změny v kurikulech se tak v praxi plně projeví až po více než dekádě, kdy absolventi dokončí celý proces specializačního vzdělávání."
     }
   ],
@@ -132,7 +231,7 @@
       "speaker": "Jakub Mach",
       "affiliation": "AČMN",
       "timestamp": "23/02:05",
-      "screenshot_path": "summaries/screenshots/event_2918_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2918_controversy_00.jpg",
       "context": "Požadavky na akreditaci nemocnic pro specializační vzdělávání jsou definovány zákonem č. 95/2004 Sb. Zrušení povinnosti mít všech pět základních oborů by skutečně vyžadovalo legislativní změnu a představuje střet mezi snahou o zvýšení počtu akreditovaných pracovišť a zachováním kvality výuky v rámci tzv. komplexní péče."
     }
   ],

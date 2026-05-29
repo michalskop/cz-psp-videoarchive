@@ -10,6 +10,57 @@
     "end_date": "2026-05-12T12:52",
     "sources": [
       "final/event_2893_2026-05-12_4-schuze-vyboru-pro-zivotni-prostredi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512110004.mp4",
+        "from_sec": 316
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512111004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512112004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512113004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512114004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512115004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512120004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512121004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512122004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512123004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512124004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/05/12/_20260512125004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -95,7 +146,7 @@
       "speaker": "Berenika Peštová",
       "affiliation": "ANO",
       "timestamp": "2/04:44",
-      "screenshot_path": "summaries/screenshots/event_2893_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2893_highlight_00.jpg",
       "context": "Údaj odpovídá datům ze Závěrečného účtu kapitoly Státní fond životního prostředí (SFŽP) za rok 2023. Nižší plnění příjmů z emisních povolenek je dlouhodobě sledovaným jevem v důsledku volatility jejich tržní ceny."
     },
     {
@@ -104,7 +155,7 @@
       "speaker": "Petr Waldman",
       "affiliation": "SFŽP",
       "timestamp": "6/02:11",
-      "screenshot_path": "summaries/screenshots/event_2893_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2893_highlight_01.jpg",
       "context": "Tato čísla korespondují s výroční zprávou SFŽP za rok 2023. Vysoká míra plnění rozpočtu (99 %) je u tohoto fondu standardní vzhledem k administraci dotací z programů jako Nová zelená úsporám."
     },
     {
@@ -113,7 +164,7 @@
       "speaker": "Kristýna Meclová",
       "affiliation": "MPO",
       "timestamp": "10/03:02",
-      "screenshot_path": "summaries/screenshots/event_2893_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2893_highlight_02.jpg",
       "context": "Odhad vychází z dokumentů Evropské komise k plánu REPowerEU a balíčku „Fit for 55“. Částka 660 miliard eur ročně představuje souhrnnou investiční potřebu pro energetický sektor a dopravu v rámci celé EU."
     }
   ],
@@ -123,7 +174,7 @@
       "speaker": "Berenika Peštová",
       "affiliation": "ANO",
       "timestamp": "4/00:00",
-      "screenshot_path": "summaries/screenshots/event_2893_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2893_controversy_00.jpg",
       "context": "Výše výnosů z těžby je závislá na tržních cenách uhlí a objemu těžby, které v posledních letech klesají. Tvrzení o netransparentnosti vzorců je politickou interpretací; mechanismus přerozdělování byl nastaven legislativou (zákon o daních z příjmů a související předpisy), nikoliv pouze ad-hoc rozhodnutím vlády."
     }
   ],

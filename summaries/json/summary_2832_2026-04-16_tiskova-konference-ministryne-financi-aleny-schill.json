@@ -10,6 +10,12 @@
     "end_date": "2026-04-16T13:33",
     "sources": [
       "final/event_2832_2026-04-16_tiskova-konference-ministryne-financi-aleny-schill.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5216_video-psp-2026416-138-35-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +78,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "hnutí ANO",
       "timestamp": "1/09:18",
-      "screenshot_path": "summaries/screenshots/event_2832_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2832_highlight_00.jpg",
       "context": "Ministerstvo financí v roce 2022 skutečně provádělo cenové kontroly marží u čerpacích stanic. Údaje o výši marží se však v čase i mezi jednotlivými prodejci výrazně lišily a jejich interpretace jako „nepřijatelných“ je politickým hodnocením, nikoliv právně definovaným stavem."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Jana Mračková Vildumetzová",
       "affiliation": "hnutí ANO",
       "timestamp": "1/06:15",
-      "screenshot_path": "summaries/screenshots/event_2832_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2832_highlight_01.jpg",
       "context": "Jde o subjektivní politickou interpretaci legislativního procesu v Senátu. Použití termínu „rukojmí“ je běžnou rétorickou figurou v parlamentním boji, kterou nelze fakticky ověřit, neboť jde o vyjádření názoru na motivaci a postup politických oponentů."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "hnutí ANO",
       "timestamp": "1/24:01",
-      "screenshot_path": "summaries/screenshots/event_2832_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2832_highlight_02.jpg",
       "context": "Stav zásob pohonných hmot v ČR je monitorován státní organizací ČEPRO a Správou státních hmotných rezerv (SSHR). Dostupnost paliv je závislá na logistických řetězcích a mezinárodní situaci; tvrzení o neexistenci rizika nedostatku je v daném čase oficiálním stanoviskem státních orgánů."
     }
   ],
@@ -100,7 +106,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "hnutí ANO",
       "timestamp": "1/24:01",
-      "screenshot_path": "summaries/screenshots/event_2832_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2832_controversy_00.jpg",
       "context": "Označení výroku za „lživý“ je subjektivní hodnocení politické oponentky. Bez konkrétního srovnání citovaného výroku Danuše Nerudové s ověřitelnými daty nelze nezávisle potvrdit, zda se jednalo o vědomou lež, či o odlišnou interpretaci faktů."
     }
   ],

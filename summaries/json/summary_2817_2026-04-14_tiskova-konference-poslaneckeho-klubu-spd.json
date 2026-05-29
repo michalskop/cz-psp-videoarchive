@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T12:21",
     "sources": [
       "final/event_2817_2026-04-14_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5195_video-psp-2026414-120-15-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -77,7 +83,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/00:31",
-      "screenshot_path": "summaries/screenshots/event_2817_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_highlight_00.jpg",
       "context": "Výdaje na zahraniční cesty vedení Poslanecké sněmovny jsou veřejně dostupné v rozpočtových kapitolách Kanceláře Poslanecké sněmovny. Tvrzení o 700 000 Kč za první tři měsíce a srovnání s předchozím obdobím lze ověřit v účetních výkazech sněmovny, nicméně je nutné zohlednit rozdílnou intenzitu zahraničních aktivit v různých letech."
     },
     {
@@ -86,7 +92,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/02:20",
-      "screenshot_path": "summaries/screenshots/event_2817_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_highlight_01.jpg",
       "context": "Trestní zákoník (zákon č. 40/2009 Sb.) v § 185 stanoví trestní sazby za znásilnění. Soudy mají při ukládání trestů zákonnou možnost volby mezi nepodmíněným trestem odnětí svobody a podmíněným trestem v závislosti na konkrétních okolnostech případu; tvrzení je tedy politickým vyjádřením postoje k soudní praxi, nikoliv popisem platné legislativy."
     },
     {
@@ -95,7 +101,7 @@
       "speaker": "Lucie Šafránková",
       "affiliation": "SPD",
       "timestamp": "1/12:05",
-      "screenshot_path": "summaries/screenshots/event_2817_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_highlight_02.jpg",
       "context": "Sudetoněmecký sněm (Sudetendeutscher Tag) je tradiční akce Sudetoněmeckého krajanského sdružení, která se koná primárně v Německu. Politický nesouhlas s konáním akce v Brně je legitimním politickým postojem, nikoliv faktickým tvrzením o probíhající události."
     },
     {
@@ -104,7 +110,7 @@
       "speaker": "Jan Síla",
       "affiliation": "SPD",
       "timestamp": "1/16:24",
-      "screenshot_path": "summaries/screenshots/event_2817_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_highlight_03.jpg",
       "context": "Národní očkovací strategie je strategický dokument Ministerstva zdravotnictví ČR. Označení kritiky za „odbornou“ je subjektivní hodnocení; faktickou správnost jednotlivých medicínských či ekonomických argumentů nelze paušálně potvrdit ani vyvrátit bez specifikace konkrétních bodů kritiky."
     }
   ],
@@ -114,7 +120,7 @@
       "speaker": "Radek Koten",
       "affiliation": "SPD",
       "timestamp": "1/09:40",
-      "screenshot_path": "summaries/screenshots/event_2817_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_controversy_00.jpg",
       "context": "Činnost zpravodajských služeb (BIS, ÚZSI, VZ) podléhá zákonu č. 153/1994 Sb. a je kontrolována příslušnými parlamentními komisemi. Výrok o „zimním spánku“ je řečnickou nadsázkou, nikoliv ověřitelným faktem o aktuální operativní činnosti tajných služeb."
     }
   ],

@@ -10,6 +10,69 @@
     "end_date": "2026-05-21T11:30",
     "sources": [
       "final/event_2924_2026-05-21_likvidace-nebezpecnych-odpadu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521090003.mp4",
+        "from_sec": 162
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521091003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521092003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521093003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521094003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521095003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521100003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521101003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521102003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521103003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521104003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521105003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521110003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521111003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/21/_20260521112003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -107,7 +170,7 @@
       "speaker": "neidentifikovaný řečník",
       "affiliation": null,
       "timestamp": "1/02:39",
-      "screenshot_path": "summaries/screenshots/event_2924_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2924_highlight_00.jpg",
       "context": "Odhad kapacity vychází z analýz odpadového hospodářství ČR, které dlouhodobě identifikují nedostatek zařízení pro energetické využití nebezpečného odpadu (ZEVO). Konkrétní čísla se mohou lišit dle metodiky výpočtu produkce odpadů dle katalogu odpadů a započtení exportu do zahraničí."
     },
     {
@@ -116,7 +179,7 @@
       "speaker": "Ondřej Palán",
       "affiliation": "AVE CZ",
       "timestamp": "3/02:25",
-      "screenshot_path": "summaries/screenshots/event_2924_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2924_highlight_01.jpg",
       "context": "Tvrzení o „bodu nula“ je subjektivním hodnocením dlouhodobé neúspěšnosti investičních záměrů v oblasti spaloven nebezpečných odpadů. Fakticky v ČR v posledních dvou dekádách skutečně nedošlo k výstavbě významných nových kapacit pro tento typ odpadu, a to především kvůli silnému odporu místních samospráv a zdlouhavým povolovací procesům (EIA)."
     },
     {
@@ -125,7 +188,7 @@
       "speaker": "Dan Jiránek",
       "affiliation": "Svaz měst a obcí",
       "timestamp": "12/03:42",
-      "screenshot_path": "summaries/screenshots/event_2924_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2924_highlight_02.jpg",
       "context": "Jde o politický názor reflektující napětí mezi státní strategickou potřebou (nakládání s odpady) a principem samosprávy. Podle zákona č. 128/2000 Sb., o obcích, mají obce právo hájit zájmy svých občanů, což často vede ke střetu s celostátními infrastrukturními projekty."
     }
   ],
@@ -135,7 +198,7 @@
       "speaker": "Jaromír Wasserbauer",
       "affiliation": "Ministerstvo životního prostředí",
       "timestamp": "10/03:07",
-      "screenshot_path": "summaries/screenshots/event_2924_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2924_controversy_00.jpg",
       "context": "Návrh na zavedení kaucí pro spolky je předmětem odborné debaty o zneužívání procesních práv (tzv. šikanózní žaloby). Zavedení takového opatření by vyžadovalo změnu soudního řádu správního a muselo by být v souladu s Aarhuskou úmluvou, která garantuje veřejnosti přístup k informacím a spravedlnosti v environmentálních věcech."
     }
   ],

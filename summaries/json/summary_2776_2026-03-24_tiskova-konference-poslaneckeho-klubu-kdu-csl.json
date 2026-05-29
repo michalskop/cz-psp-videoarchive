@@ -10,6 +10,12 @@
     "end_date": "2026-03-24T12:40",
     "sources": [
       "final/event_2776_2026-03-24_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5143_video-psp-2026324-1223-0-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -77,7 +83,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/03:20",
-      "screenshot_path": "summaries/screenshots/event_2776_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_highlight_00.jpg",
       "context": "Tvrzení o 'zestátnění' je politickou interpretací záměru změnit způsob financování médií veřejné služby. Pokud by média byla přímo závislá na přímých dotacích ze státního rozpočtu namísto koncesionářských poplatků, oslabila by se jejich zákonem garantovaná nezávislost na exekutivě."
     },
     {
@@ -86,7 +92,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/01:09",
-      "screenshot_path": "summaries/screenshots/event_2776_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_highlight_01.jpg",
       "context": "Částky odpovídají tehdejším odhadům výnosů z koncesionářských poplatků. Podle výročních zpráv ČT a ČRo se roční výnosy z poplatků skutečně pohybovaly v řádech miliard (ČT) a stovek milionů (ČRo) korun."
     },
     {
@@ -95,7 +101,7 @@
       "speaker": "František Talíř",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/06:08",
-      "screenshot_path": "summaries/screenshots/event_2776_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_highlight_02.jpg",
       "context": "Výzva k jednání je politickým aktem. Interpretace změny financování jako 'útoku na nezávislost' je legitimním politickým názorem opozice, nikoliv ověřitelným faktem, ačkoliv nezávislost médií veřejné služby je zakotvena v zákonech č. 483/1991 Sb. a č. 484/1991 Sb."
     }
   ],
@@ -105,7 +111,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/06:13",
-      "screenshot_path": "summaries/screenshots/event_2776_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_controversy_00.jpg",
       "context": "Návrhy na změnu financování médií veřejné služby byly v daném období předmětem politických diskusí. Přímé financování ze státního rozpočtu by vyžadovalo legislativní změnu, která by fakticky změnila status médií z institucí financovaných poplatníky na instituce závislé na rozhodnutí vlády o rozpočtu."
     },
     {
@@ -113,7 +119,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/04:05",
-      "screenshot_path": "summaries/screenshots/event_2776_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_controversy_01.jpg",
       "context": "Nelze nezávisle ověřit. Hodnocení 'chaosu' a 'nekoncepčnosti' je subjektivním politickým komentářem k procesu vládní komunikace, který nelze faktograficky potvrdit ani vyvrátit."
     }
   ],

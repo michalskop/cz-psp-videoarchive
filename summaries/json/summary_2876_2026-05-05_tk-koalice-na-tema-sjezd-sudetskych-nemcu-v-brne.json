@@ -10,6 +10,12 @@
     "end_date": "2026-05-05T13:56",
     "sources": [
       "final/event_2876_2026-05-05_tk-koalice-na-tema-sjezd-sudetskych-nemcu-v-brne.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5269_video-psp-202655-1341-14-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -70,7 +76,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/02:36",
-      "screenshot_path": "summaries/screenshots/event_2876_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2876_highlight_00.jpg",
       "context": "Poválečné majetkové uspořádání v ČR vychází z tzv. Benešových dekretů a navazujících zákonů, které jsou součástí českého právního řádu. Ústavní soud ČR opakovaně potvrdil, že tyto dekrety jsou platnou součástí českého práva a nelze je zpětně zpochybňovat."
     },
     {
@@ -79,7 +85,7 @@
       "speaker": "Matěj Gregora",
       "affiliation": "koalice",
       "timestamp": "1/12:39",
-      "screenshot_path": "summaries/screenshots/event_2876_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2876_highlight_01.jpg",
       "context": "Interpretace pojmu „smiřování“ je politickou otázkou, nikoliv právním faktem. Zatímco část politického spektra vnímá účast na sudetoněmeckých sjezdech jako symbol dialogu, kritici jej často interpretují jako snahu o revizi historie, což je předmětem dlouhodobé politické debaty."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/09:23",
-      "screenshot_path": "summaries/screenshots/event_2876_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2876_highlight_02.jpg",
       "context": "Historicky je doloženo, že Brno bylo během nacistické okupace (Protektorát Čechy a Morava) vystaveno tvrdým represím, včetně poprav odbojářů v Kounicových kolejích. Zda je konkrétní politický krok „krokem ke smíření“, je subjektivní politické hodnocení, nikoliv fakt, který lze objektivně změřit."
     }
   ],
@@ -98,7 +104,7 @@
       "speaker": "Radek Bartulíček",
       "affiliation": "aktualne.cz",
       "timestamp": "1/08:26",
-      "screenshot_path": "summaries/screenshots/event_2876_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2876_controversy_00.jpg",
       "context": "Otázka vlivu politické rétoriky na polarizaci společnosti je předmětem sociologických studií a politologických analýz. Nelze nezávisle ověřit, zda konkrétní demonstrace vyvolávají nenávist, nebo zda jsou pouze reflexí již existující společenské polarizace."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-04-13T15:42",
     "sources": [
       "final/event_2811_2026-04-13_tiskova-konference-ods-k-vysledkum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5182_video-psp-2026413-1531-20-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -62,7 +68,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:42",
-      "screenshot_path": "summaries/screenshots/event_2811_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_highlight_00.jpg",
       "context": "Jde o politický názor na ekonomický nástroj. Efektivita zastropování cen je předmětem odborné debaty; ekonomové často varují před rizikem nedostatku zboží na trhu, zatímco zastánci jej vidí jako sociální ochranu spotřebitelů."
     },
     {
@@ -71,7 +77,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/05:15",
-      "screenshot_path": "summaries/screenshots/event_2811_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_highlight_01.jpg",
       "context": "Subjektivní politické hodnocení výkonu funkce premiéra. Pojmy jako „slabý premiér“ nebo „dětinská hra“ nelze fakticky ověřit, jde o rétoriku opozičního politika."
     },
     {
@@ -80,7 +86,7 @@
       "speaker": "Jan Lipavský",
       "affiliation": "ODS",
       "timestamp": "1/06:05",
-      "screenshot_path": "summaries/screenshots/event_2811_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_highlight_02.jpg",
       "context": "Hodnocení zahraniční politiky Maďarska. Dopad politiky Viktora Orbána na mezinárodní postavení Maďarska (např. v rámci EU či NATO) je předmětem politologických analýz a diplomatických hodnocení, nikoliv exaktně měřitelný fakt."
     }
   ],
@@ -90,7 +96,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:05",
-      "screenshot_path": "summaries/screenshots/event_2811_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_controversy_00.jpg",
       "context": "Návrh na zastropování cen pohonných hmot byl v daném období skutečně předmětem politické diskuse. Argumentace ODS o „centrálním plánování“ vychází z liberální ekonomické teorie, která upřednostňuje tržní tvorbu cen."
     },
     {
@@ -98,7 +104,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:05",
-      "screenshot_path": "summaries/screenshots/event_2811_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_controversy_01.jpg",
       "context": "Interpretace komunikace mezi ústavními činiteli. Zda je konkrétní vyjádření „arogancí moci“, je věcí politického názoru a mediální interpretace, nikoliv ověřitelný fakt."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-04-02T09:43",
     "sources": [
       "final/event_2801_2026-04-02_tiskova-konference-poslancu-petra-hladika-a-jany-f.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5172_video-psp-202642-932-50-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -62,7 +68,7 @@
       "speaker": "Petr Hladík",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/00:35",
-      "screenshot_path": "summaries/screenshots/event_2801_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_highlight_00.jpg",
       "context": "Tvrzení odkazuje na systém poplatků za ukládání odpadu na skládky dle zákona č. 541/2020 Sb., o odpadech. Obce, které dosahují vysoké míry třídění, sice platí nižší skládkovací poplatky, ale v systému chybí dostatečná motivace pro obce, které efektivně předcházejí vzniku odpadu (tzv. prevence), což je dlouhodobě diskutovaný problém v odpadové legislativě."
     },
     {
@@ -71,7 +77,7 @@
       "speaker": "Jana Filipovičová",
       "affiliation": null,
       "timestamp": "1/04:25",
-      "screenshot_path": "summaries/screenshots/event_2801_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_highlight_01.jpg",
       "context": "Návrh reflektuje snahu o úpravu metodiky výpočtu cílů třídění pro obce, které již dosahují vysoké efektivity v nakládání s odpady. Aktuálně je legislativní rámec stanoven zákonem č. 541/2020 Sb. a prováděcími předpisy MŽP, které stanovují závazné cíle pro podíl vytříděného odpadu."
     },
     {
@@ -80,7 +86,7 @@
       "speaker": "Jana Filipovičová",
       "affiliation": null,
       "timestamp": "1/04:34",
-      "screenshot_path": "summaries/screenshots/event_2801_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_highlight_02.jpg",
       "context": "Tvrzení se vztahuje k implementaci evropské směrnice o odpadech (2018/851). Možnost úpravy cílů je omezena pravidly EU pro oběhové hospodářství; zda je 10 % skutečně maximální přípustná hranice dle aktuální interpretace Evropské komise, vyžaduje právní posouzení konkrétní notifikace."
     }
   ],
@@ -90,7 +96,7 @@
       "speaker": "Petr Hladík",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/05:30",
-      "screenshot_path": "summaries/screenshots/event_2801_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_controversy_00.jpg",
       "context": "Jde o politické hodnocení (tzv. politický názor) postojů opozičních politiků. Rozdílné výroky Aleny Schillerové a Andreje Babiše k regulaci cen jsou veřejně dohledatelné v mediálních archivech, jejich interpretace jako „Kocourkov“ je subjektivním politickým komentářem, který nelze fakticky verifikovat."
     }
   ],

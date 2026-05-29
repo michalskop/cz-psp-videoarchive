@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T13:21",
     "sources": [
       "final/event_2820_2026-04-14_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5198_video-psp-2026414-1258-21-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +81,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/01:50",
-      "screenshot_path": "summaries/screenshots/event_2820_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_highlight_00.jpg",
       "context": "Tvrzení se týká legislativních návrhů umožňujících cenovou regulaci v krizových stavech. Možnost soudního přezkumu správních rozhodnutí je obecně zaručena Listinou základních práv a svobod (čl. 36), nicméně konkrétní znění návrhů a míra jejich omezitelnosti v legislativní nouzi jsou předmětem právních sporů."
     },
     {
@@ -84,7 +90,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/04:35",
-      "screenshot_path": "summaries/screenshots/event_2820_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_highlight_01.jpg",
       "context": "Jde o politické vyjádření hodnotového postoje. Průzkumy veřejného mínění (např. CVVM či STEM) dlouhodobě ukazují, že většina české populace preferuje ukotvení v EU a NATO, což potvrzuje tvrzení o postoji občanů."
     },
     {
@@ -93,7 +99,7 @@
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/14:33",
-      "screenshot_path": "summaries/screenshots/event_2820_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_highlight_02.jpg",
       "context": "Počet pozměňovacích návrhů je ověřitelný v systému parlamentní evidence (sněmovní tisk). Zda tyto návrhy skutečně „napravují největší problémy“, je subjektivní politické hodnocení."
     },
     {
@@ -102,7 +108,7 @@
       "speaker": "Barbora Urbanová",
       "affiliation": "STAN",
       "timestamp": "1/18:08",
-      "screenshot_path": "summaries/screenshots/event_2820_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_highlight_03.jpg",
       "context": "Návrh na prodloužení promlčecí lhůty u trestných činů proti dětem (včetně znásilnění) je součástí legislativního procesu (tzv. Lex Mareček). Cílem je, aby se promlčecí doba začala počítat až od dosažení zletilosti oběti."
     }
   ],
@@ -112,7 +118,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/01:10",
-      "screenshot_path": "summaries/screenshots/event_2820_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_controversy_00.jpg",
       "context": "Kritika vládního postupu v legislativní nouzi je legitimní politickou opozicí. Otázka, zda je postup „nesmyslný“, je věcí politického názoru, zatímco otázka vyloučení soudního přezkumu je právní otázkou, která podléhá ústavnímu přezkumu."
     },
     {
@@ -120,7 +126,7 @@
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/22:01",
-      "screenshot_path": "summaries/screenshots/event_2820_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_controversy_01.jpg",
       "context": "Vláda má zákonné zmocnění (např. v rámci zákona o cenách či krizového zákona) činit operativní kroky. Zda je využití nařízení vlády namísto zákona obcházením Sněmovny, je předmětem dlouhodobé debaty o dělbě moci mezi exekutivou a legislativou."
     }
   ],

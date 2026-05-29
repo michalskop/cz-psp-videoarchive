@@ -10,6 +10,12 @@
     "end_date": "2026-05-06T14:30",
     "sources": [
       "final/event_2880_2026-05-06_tiskova-konference-piratu-k-vysledkum-17-schuze-ps.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5274_video-psp-202656-1410-31-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -52,7 +58,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2880_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2880_highlight_00.jpg",
       "context": "Nelze nezávisle ověřit. Míra pozornosti věnovaná zákonu je subjektivní hodnocení; lze však ověřit počet vystoupení v rozpravě či mediální výstupy k danému tisku v archivu Poslanecké sněmovny."
     },
     {
@@ -61,7 +67,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2880_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2880_highlight_01.jpg",
       "context": "Státní dluh je právním závazkem České republiky, který musí být splácen ze státního rozpočtu bez ohledu na politickou interpretaci jednotlivých politiků. Výše dluhu a jeho správa podléhají zákonu č. 218/2000 Sb., o rozpočtových pravidlech."
     },
     {
@@ -70,7 +76,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2880_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2880_highlight_02.jpg",
       "context": "Jde o legitimní politický postoj vyjadřující nesouhlas s legislativním návrhem. Fakticky jde o vyjádření záměru hlasovat proti návrhu v rámci parlamentního procesu."
     }
   ],
@@ -80,7 +86,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2880_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2880_controversy_00.jpg",
       "context": "Pojem „bianco šek“ je politická interpretace navrhované úpravy rozpočtových pravidel. Zda návrh skutečně oslabuje kontrolní roli Parlamentu, závisí na konkrétním znění zákona a rozsahu pravomocí, které by vláda získala při nakládání s rozpočtovými prostředky bez předchozího schválení Sněmovnou."
     }
   ],

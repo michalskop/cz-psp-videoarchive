@@ -10,6 +10,73 @@
     "end_date": "2026-03-20",
     "sources": [
       "final/event_2769_2026-03-20_cesta-k-transparentni-energetice-sdileni-dat-jasna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320100003.mp4",
+        "from_sec": 369
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320101003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320102003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320103003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320104003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320105003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320110003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320111003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320112003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320113003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320114003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320115003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320120003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320121003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320122003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/03/20/_20260320123003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -117,7 +184,7 @@
       "speaker": "Jan Šefránek",
       "affiliation": "ERÚ",
       "timestamp": "6/03:38",
-      "screenshot_path": "summaries/screenshots/event_2769_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2769_highlight_00.jpg",
       "context": "Energetický regulační úřad (ERÚ) skutečně zveřejňuje přehledy o sankcích ve svých výročních zprávách. Částka 18,5 milionu korun odpovídá trendu zvýšené kontrolní činnosti ERÚ v oblasti ochrany spotřebitele v posledních letech."
     },
     {
@@ -126,7 +193,7 @@
       "speaker": "Stanislav Votruba",
       "affiliation": "PRE",
       "timestamp": "11/06:43",
-      "screenshot_path": "summaries/screenshots/event_2769_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2769_highlight_01.jpg",
       "context": "Tvrzení popisuje princip regulované složky ceny elektřiny a plynu, která je stanovována ERÚ. Cílem tarifního systému je skutečně alokace nákladů na provoz distribučních soustav mezi jednotlivé kategorie zákazníků dle jejich odběrových charakteristik."
     },
     {
@@ -135,7 +202,7 @@
       "speaker": "Ludvík Baleka",
       "affiliation": "PPAS",
       "timestamp": "10/06:03",
-      "screenshot_path": "summaries/screenshots/event_2769_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2769_highlight_02.jpg",
       "context": "Jde o subjektivní politický a názorový postoj k regulaci trhu. Nelze nezávisle ověřit, zda jsou argumenty o zrakově postižených pouze zástupným tématem, či zda jde o legitimní obavu o přístupnost služeb."
     }
   ],
@@ -145,7 +212,7 @@
       "speaker": "Milan Duba",
       "affiliation": "MND",
       "timestamp": "11/00:00",
-      "screenshot_path": "summaries/screenshots/event_2769_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2769_controversy_00.jpg",
       "context": "15denní lhůta pro odstoupení od smlouvy při změně dodavatele je zakotvena v energetickém zákoně (č. 458/2000 Sb.). Debata o její délce je dlouhodobým střetem mezi zájmy dodavatelů na snížení administrativních nákladů a zájmy spotřebitelů na ochranu před nekalými praktikami (např. podomním prodejem)."
     }
   ],

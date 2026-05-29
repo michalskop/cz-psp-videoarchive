@@ -1,0 +1,129 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T22:48:45",
+  "model_hint": "gemma-4-31b-it",
+  "event": {
+    "id": "2941",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-26T13:01",
+    "end_date": "2026-05-26T13:21",
+    "sources": [
+      "final/event_2941_2026-05-26_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5341_video-psp-2026526-131-21-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "groq"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu Starostů a nezávislých konala 26. května 2026 před jednáním Poslanecké sněmovny. Účelem bylo vyjádřit ostrou kritiku legislativních návrhů vládní koalice (vedené Andrejem Babišem) v oblastech státní správy, veřejnoprávních médií, lidských práv a bydlení, a rovněž oznámit vlastní legislativní iniciativy klubu.",
+    "main_points": [
+      "**Vít Rakušan (předseda klubu)** — Ostře kritizuje návrh nového služebního zákona, který podle něj umožňuje politizaci státní správy a snadnější propouštění úředníků. Varuje před zrušením pozice nejvyššího státního tajemníka a služební komise. Kritizuje návrh Patrika Nachera k médiím jako hrozbu insolvence ČT a ČRo. Varuje před rozdrobením protidrogové politiky. `[1/00:30]`",
+      "**Barbora Urbanová (místopředsedkyně klubu)** — Kritizuje přesun agend lidských práv a rovnosti z Úřadu vlády. Navrhuje změnu kompetenčního zákona a novelu jednacího řádu PS (nárok každé strany na místo místopředsedy). Podporuje tzv. 'lex střízlivost' pro poslance. V otázce OSVČ podporuje vyšší odvody pro zajištění důchodů. `[1/10:03]`",
+      "**Eliška Olšáková (poslankyně)** — Vítá rozšíření poradenství v rámci zákona o podpoře bydlení, ale varuje před neschopností úřadů práce implementovat systém, což může vést k nevyužití cca 3 000 volných bytů. `[1/14:04]`"
+    ],
+    "outcome": "Klub Starostů deklaroval odpor k vládním návrhům ohledně služebního zákona a financování médií. Závěrem bylo oznámení o podání konkrétních pozměňovacích návrhů k kompetenčnímu zákonu (lidská práva) a k jednacímu řádu PS (místa místopředsedů a střízlivost poslanců). V otázce odvodů OSVČ klub trvá na své pozici podpory vyšších odvodů.",
+    "notes": "Přepis obsahuje několik míst s nesrozumitelnými pasážemi (halucinace/chyby přepisu), zejména v části 1 mezi [04:03] a [06:00] a kolem [09:00], kde jsou věty useknuté nebo opakované. Obsah byl však rekonstruován z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Eliška Olšáková",
+        "person_id": "psp:person:6766",
+        "affiliation": "Starostové"
+      }
+    ],
+    "parties": [
+      "Starostové a nezávislí",
+      "SPD",
+      "Piráti",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Úřad vlády",
+      "Česká televize",
+      "Český rozhlas",
+      "Úřady práce"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tím, že tímhle návrhem připraví Českou televizi a Český rozhlas o významné části jejich příjmů, se mohou dostat i do insolvence.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/05:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2941_highlight_00.jpg",
+      "context": "Jde o predikci finančního dopadu konkrétního návrhu. Otázka insolvence je spekulativní, nicméně financování ČT a ČRo je zákonem stanovené a výrazný pokles příjmů by vyžadoval revizi jejich rozpočtů."
+    },
+    {
+      "text": "Víme, že je to bytový fond, který je asi tři tisíce bytů, které by se nám na ten trh s byty mohly přidat.",
+      "type": "citation",
+      "speaker": "Eliška Olšáková",
+      "affiliation": "Starostové",
+      "timestamp": "1/16:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2941_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit bez specifikace konkrétního bytového fondu nebo konkrétního vládního/poslaneckého návrhu, kterého je zmínka."
+    },
+    {
+      "text": "Navrhujeme, aby poslanci při projednávání byli střízliví, protože normální zaměstnanci to mají v zákonníku práce zakázané.",
+      "type": "paraphrase",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "Starostové",
+      "timestamp": "1/12:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2941_highlight_02.jpg",
+      "context": "Zákoník práce skutečně umožňuje zaměstnavateli zakázat konzumaci alkoholu v pracovní době. Poslanci však nejsou zaměstnanci v rámci pracovněprávního vztahu, ale zastupitelé s mandátem definovaným Ústavou a řádem PS."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní výrok: „Flexibilita“ úředníků**\n- **Kdo:** Vít Rakušan (Starostové)\n- **Co přesně:** Tvrdí, že vládní termín „flexibilita“ ve služebním zákoně ve skutečnosti znamená „názorovou flexibilitu“, tedy loajalitu úředníků vůči politické vůli a odstranění těch, kteří se nepřizpůsobí.\n- **Proč je to kontroverzní:** Obviňuje vládu z plánované politizace a privatizace státní správy a přímého tlaku na úředníky.\n- **Čas:** `1/02:04`",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2941_controversy_00.jpg",
+      "context": "Jde o politickou interpretaci pojmu „flexibilita“ v kontextu Služebního zákona. Služební zákon definuje povinnosti úředníků, ale pojem „názorová flexibilita“ v něm jako právní termín nefiguruje."
+    },
+    {
+      "statement": "**Kontroverzní návrh: Lex střízlivost**\n- **Kdo:** Jan Papajanovský (zmiňuje Barbora Urbanová, Starostové)\n- **Co přesně:** Návrh, aby poslanci byli při projednávání v Poslanecké sněmovně střízliví.\n- **Proč je to kontroverzní:** Implicitně naznačuje, že někteří poslanci mohou být při výkonu mandátu pod vlivem návykových látek.\n- **Čas:** `1/12:06`",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "Starostové",
+      "timestamp": "1/12:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2941_controversy_01.jpg",
+      "context": "Zákoník práce skutečně umožňuje zaměstnavateli zakázat konzumaci alkoholu v pracovní době. Poslanci však nejsou zaměstnanci v rámci pracovněprávního vztahu, ale zastupitelé s mandátem definovaným Ústavou a řádem PS."
+    },
+    {
+      "statement": "**Kontroverzní tvrzení: Insolvence médií**\n- **Kdo:** Vít Rakušan (Starostové)\n- **Co přesně:** Tvrzení, že návrh Patrika Nachera k veřejnoprávním médiím může dovést Českou televizi a Český rozhlas k insolvenci.\n- **Proč je to kontroverzní:** Jde o velmi silné varování před finančním kolapsem státních institucí v důsledku politického rozhodnutí.\n- **Čas:** `1/06:00`",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/06:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2941_controversy_02.jpg",
+      "context": "Jde o predikci finančního dopadu konkrétního návrhu. Otázka insolvence je spekulativní, nicméně financování ČT a ČRo je zákonem stanovené a výrazný pokles příjmů by vyžadoval revizi jejich rozpočtů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

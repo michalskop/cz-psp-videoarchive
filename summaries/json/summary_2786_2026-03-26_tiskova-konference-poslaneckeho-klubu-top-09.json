@@ -10,6 +10,12 @@
     "end_date": "2026-03-26T10:29",
     "sources": [
       "final/event_2786_2026-03-26_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/videocut/28/2026/03/26/_20260326100018.mp4"
+      }
     ]
   },
   "transcription": {
@@ -80,7 +86,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/00:54",
-      "screenshot_path": "summaries/screenshots/event_2786_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_highlight_00.jpg",
       "context": "Jde o politickou rétoriku a vyjádření názoru, nikoliv o faktické tvrzení, které lze objektivně ověřit. Hodnocení důvěry vládě je subjektivní politickou kategorií."
     },
     {
@@ -89,7 +95,7 @@
       "speaker": "Ondřej Müller",
       "affiliation": "TOP 09",
       "timestamp": "1/18:25",
-      "screenshot_path": "summaries/screenshots/event_2786_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_highlight_01.jpg",
       "context": "Tvrzení o 'nezákonnosti' rozpočtu je právně sporné; rozpočet schvaluje Parlament ČR v souladu se zákonem č. 218/2000 Sb. Deficit 310 miliard odpovídá schválenému zákonu o státním rozpočtu pro daný rok, jehož výše je výsledkem politického rozhodnutí, nikoliv porušení zákona."
     },
     {
@@ -98,7 +104,7 @@
       "speaker": "Břetislav Rychlík",
       "affiliation": "TOP 09",
       "timestamp": "1/14:35",
-      "screenshot_path": "summaries/screenshots/event_2786_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_highlight_02.jpg",
       "context": "Jde o politický názor na dopady legislativních změn v oblasti médií. Vliv na soukromé vysílatele je předmětem odborných debat a analýz mediálního trhu, nikoliv nezpochybnitelný fakt."
     }
   ],
@@ -108,7 +114,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/04:03",
-      "screenshot_path": "summaries/screenshots/event_2786_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_controversy_00.jpg",
       "context": "Označení 'harakiri' je metaforické politické hodnocení. Výše deficitu 310 miliard je ověřitelný údaj z dat Ministerstva financí ČR, interpretace jeho dopadů na ekonomickou stabilitu je však předmětem ekonomických analýz s různými závěry."
     },
     {
@@ -116,7 +122,7 @@
       "speaker": "Břetislav Rychlík",
       "affiliation": "TOP 09",
       "timestamp": "1/12:00",
-      "screenshot_path": "summaries/screenshots/event_2786_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_controversy_01.jpg",
       "context": "Srovnání s politickým vývojem na Slovensku a v Maďarsku je subjektivní politickou interpretací. Míra nezávislosti médií v těchto zemích je dlouhodobě sledována institucemi jako Reportéři bez hranic (Index svobody tisku), ale přímé srovnání vládních kroků zůstává v rovině politické argumentace."
     }
   ],

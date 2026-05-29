@@ -10,6 +10,12 @@
     "end_date": "2026-03-24T13:59",
     "sources": [
       "final/event_2780_2026-03-24_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5147_video-psp-2026324-1341-18-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +81,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/05:48",
-      "screenshot_path": "summaries/screenshots/event_2780_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení vládní rozpočtové politiky, nikoliv o faktické tvrzení. Výrok je metaforou kritizující státní hospodaření, kterou nelze faktograficky verifikovat."
     },
     {
@@ -84,7 +90,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/06:35",
-      "screenshot_path": "summaries/screenshots/event_2780_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_highlight_01.jpg",
       "context": "Částka 715 Kč odpovídá rozdílu mezi minimální zálohou na sociální pojištění pro OSVČ v roce 2023 (2 944 Kč) a 2024 (3 852 Kč) po započtení vládního návrhu na postupné zvyšování, resp. jde o výpočet úspory při určitém nastavení parametrů pojistného. Údaj je ověřitelný na základě parametrů zákona č. 589/1992 Sb., o pojistném na sociální zabezpečení."
     },
     {
@@ -93,7 +99,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "1/14:48",
-      "screenshot_path": "summaries/screenshots/event_2780_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_highlight_02.jpg",
       "context": "Data o podílu seniorů nad 75 let na celkové populaci (cca 9 %) odpovídají demografickým údajům ČSÚ. Údaj o 22,5% podílu na poplatcích je interpretací dat o struktuře plátců koncesionářských poplatků, která však závisí na konkrétním metodickém výpočtu (např. zda jsou započítány domácnosti osvobozené od poplatků)."
     }
   ],
@@ -103,7 +109,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "1/12:04",
-      "screenshot_path": "summaries/screenshots/event_2780_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_controversy_00.jpg",
       "context": "Návrh na zrušení koncesionářských poplatků a přechod na financování ze státního rozpočtu je dlouhodobým politickým tématem. Odborná veřejnost a mezinárodní instituce (např. EBU) varují, že přímé financování ze státního rozpočtu může oslabit nezávislost médií veřejné služby, neboť rozpočet podléhá každoročnímu schvalování vládou a parlamentem."
     }
   ],

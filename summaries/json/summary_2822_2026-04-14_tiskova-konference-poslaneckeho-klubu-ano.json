@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T14:01",
     "sources": [
       "final/event_2822_2026-04-14_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5200_video-psp-2026414-1342-13-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +81,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/03:34",
-      "screenshot_path": "summaries/screenshots/event_2822_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2822_highlight_00.jpg",
       "context": "Inflace v roce 2022 byla ovlivněna kombinací faktorů, včetně dozvuků pandemie a energetické krize po invazi na Ukrajinu. Tvrzení o 'půlročním zpoždění' je interpretací politické opozice; vliv vládních opatření na inflaci je předmětem odborných sporů mezi ekonomy."
     },
     {
@@ -84,7 +90,7 @@
       "speaker": "Jeroným Tejc",
       "affiliation": "ANO",
       "timestamp": "1/11:59",
-      "screenshot_path": "summaries/screenshots/event_2822_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2822_highlight_01.jpg",
       "context": "Trestný čin zanedbání povinné výživy (§ 196 trestního zákoníku) je v ČR dlouhodobě řešen. Účinnost vymáhání výživného je komplexní problém, který zahrnuje jak trestní postih, tak exekuční řízení; záměr cílit na 'úmyslné neplatiče' je legitimním politickým cílem, jehož efektivita závisí na konkrétním legislativním návrhu."
     },
     {
@@ -93,7 +99,7 @@
       "speaker": "Táňa Malá",
       "affiliation": "ANO",
       "timestamp": "1/09:40",
-      "screenshot_path": "summaries/screenshots/event_2822_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2822_highlight_02.jpg",
       "context": "Statistická data o počtu uložených trestů domácího vězení jsou veřejně dostupná v ročenkách Ministerstva spravedlnosti ČR. Tvrzení o 'nefunkčnosti' podmíněných trestů je subjektivním hodnotícím soudem, neboť recidiva a efektivita alternativních trestů jsou předmětem dlouhodobých kriminologických studií."
     }
   ],
@@ -103,7 +109,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/06:30",
-      "screenshot_path": "summaries/screenshots/event_2822_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2822_controversy_00.jpg",
       "context": "Legislativní nouze je podle § 99 zákona č. 90/1995 Sb. určena pro mimořádné situace, kdy jsou zásadním způsobem ohrožena základní práva a svobody občanů nebo bezpečnost státu. Kritika jejího využívání pro standardní legislativu je častým tématem parlamentních sporů a byla opakovaně předmětem podnětů k Ústavnímu soudu."
     }
   ],

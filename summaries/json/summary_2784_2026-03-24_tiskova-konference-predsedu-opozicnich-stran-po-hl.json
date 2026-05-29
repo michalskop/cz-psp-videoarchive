@@ -10,6 +10,12 @@
     "end_date": "2026-03-24T19:30",
     "sources": [
       "final/event_2784_2026-03-24_tiskova-konference-predsedu-opozicnich-stran-po-hl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5152_video-psp-2026324-1912-46-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -82,7 +88,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "Starostové",
       "timestamp": "1/00:58",
-      "screenshot_path": "summaries/screenshots/event_2784_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2784_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení. Historicky proběhly v ČR i jiné zásahy do médií (např. krize v ČT v roce 2000 nebo změny ve vlastnictví médií v posledních deseti letech), jejichž intenzita je předmětem politické debaty, nikoliv objektivně měřitelný fakt."
     },
     {
@@ -91,7 +97,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/07:10",
-      "screenshot_path": "summaries/screenshots/event_2784_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2784_highlight_01.jpg",
       "context": "Částky odpovídají odhadům dopadů v případě zrušení koncesionářských poplatků bez náhradního financování. Podle výročních zpráv ČT a ČRo tvoří koncesionářské poplatky hlavní část jejich příjmů, jejich výpadek by znamenal zásadní ohrožení provozu těchto institucí."
     },
     {
@@ -100,7 +106,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/04:33",
-      "screenshot_path": "summaries/screenshots/event_2784_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2784_highlight_02.jpg",
       "context": "Tvrzení o „ovládnutí“ médií je politickou interpretací vládních kroků. Vztah mezi financováním samospráv a veřejnoprávních médií není legislativně přímo propojen, jde o dvě odlišné rozpočtové a legislativní agendy."
     },
     {
@@ -109,7 +115,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/09:58",
-      "screenshot_path": "summaries/screenshots/event_2784_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2784_highlight_03.jpg",
       "context": "Evropský akt o svobodě médií (EMFA), přijatý v roce 2024, skutečně klade důraz na nezávislé a stabilní financování veřejnoprávních médií. Soulad konkrétního vládního návrhu s tímto aktem je předmětem právních analýz, nikoliv nezpochybnitelný fakt."
     }
   ],
@@ -119,7 +125,7 @@
       "speaker": "Vít Rakušan, Martin Kupka, Jan Jakob",
       "affiliation": "Opoziční strany",
       "timestamp": "1/02:01",
-      "screenshot_path": "summaries/screenshots/event_2784_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2784_controversy_00.jpg",
       "context": "Nelze nezávisle ověřit. Využití obstrukcí, Senátu či Ústavního soudu je standardní součástí parlamentního procesu, ale konkrétní koordinovaný plán opozice v tomto rozsahu nebyl oficiálně potvrzen jako jednotný postup všech jmenovaných subjektů."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-05-28T11:38",
     "sources": [
       "final/event_2952_2026-05-28_tiskova-konference-po-jednani-kabinetu-budoucnosti.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5354_video-psp-2026528-111-16-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -76,7 +82,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "Stínový premiér",
       "timestamp": "1/01:16",
-      "screenshot_path": "summaries/screenshots/event_2952_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2952_highlight_00.jpg",
       "context": "Státní zemědělský intervenční fond (SZIF) v minulosti skutečně proplácel dotace subjektům holdingu Agrofert. Zda se částka 200 milionů vztahuje k konkrétnímu aktuálnímu rozhodnutí, nelze bez specifikace konkrétního dotačního titulu a data nezávisle ověřit."
     },
     {
@@ -85,7 +91,7 @@
       "speaker": "Jan Lacina",
       "affiliation": "Stínový ministr",
       "timestamp": "1/13:13",
-      "screenshot_path": "summaries/screenshots/event_2952_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2952_highlight_01.jpg",
       "context": "Rozdílné odhady ztrát v médiích (ČT vs. ČRo) obvykle pramení z odlišných metodik výpočtu, zahrnutí různých typů nákladů či časových horizontů. Konkrétní částky jsou závislé na ekonomických modelech, které nejsou veřejně jednotně definovány."
     },
     {
@@ -94,7 +100,7 @@
       "speaker": "Barbora Stašková",
       "affiliation": "Stínová ministryně",
       "timestamp": "1/17:52",
-      "screenshot_path": "summaries/screenshots/event_2952_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2952_highlight_02.jpg",
       "context": "Počet neúspěšných žádostí o dotaci je ověřitelný v registrech Ministerstva pro místní rozvoj (MMR) v rámci konkrétních výzev. Nelze však bez znalosti konkrétního dotačního programu potvrdit, zda jde o plošné odmítnutí, nebo o nesplnění podmínek ze strany žadatelů."
     }
   ],
@@ -104,7 +110,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "Stínový premiér",
       "timestamp": "1/04:08",
-      "screenshot_path": "summaries/screenshots/event_2952_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2952_controversy_00.jpg",
       "context": "Explosia a.s. je strategický podnik vlastněný státem (prostřednictvím Ministerstva průmyslu a obchodu). Vláda o prodeji či privatizaci strategických podniků v minulosti opakovaně diskutovala, avšak oficiální rozhodnutí o prodeji Explosie nebylo vládou potvrzeno jako aktuální vládní politika."
     },
     {
@@ -112,7 +118,7 @@
       "speaker": "Barbora Urbanová",
       "affiliation": "Stínová ministryně",
       "timestamp": "1/10:04",
-      "screenshot_path": "summaries/screenshots/event_2952_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2952_controversy_01.jpg",
       "context": "Přesun agend (např. vládních zmocněnců) mezi Úřadem vlády a resorty je politickým rozhodnutím vlády o organizační struktuře státní správy. Kritika opozice ohledně „ztráty expertízy“ je subjektivním politickým hodnocením, nikoliv fakticky ověřitelným stavem."
     }
   ],

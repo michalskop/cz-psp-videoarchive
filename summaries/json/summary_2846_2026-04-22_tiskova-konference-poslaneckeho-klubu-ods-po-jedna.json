@@ -10,6 +10,21 @@
     "end_date": "2026-04-22",
     "sources": [
       "final/event_2846_2026-04-22_tiskova-konference-poslaneckeho-klubu-ods-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/22/_20260422161004.mp4",
+        "from_sec": 164
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/22/_20260422162004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/22/_20260422163004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +87,7 @@
       "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "1/04:16",
-      "screenshot_path": "summaries/screenshots/event_2846_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_highlight_00.jpg",
       "context": "Tvrzení je zavádějící. Data Eurostatu a Evropské komise (Oil Bulletin) ukazují, že ceny pohonných hmot v ČR v březnu kolísaly, ale ČR se v meziročním srovnání růstu cen nafty pravidelně neumisťovala na prvních dvou místech v rámci EU. Pozice se mění v závislosti na konkrétním týdnu a daňových úpravách v okolních státech."
     },
     {
@@ -81,7 +96,7 @@
       "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "3/03:31",
-      "screenshot_path": "summaries/screenshots/event_2846_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_highlight_01.jpg",
       "context": "Výdaje na obsluhu státního dluhu (úroky) skutečně rostou v důsledku vyššího zadlužení a úrokových sazeb. Podle údajů Ministerstva financí ČR dosáhly výdaje na obsluhu dluhu v roce 2024 přibližně 95–100 mld. Kč; predikce růstu k hranici 200 mld. Kč v budoucích letech je reálným odhadem založeným na střednědobém výhledu státního rozpočtu."
     },
     {
@@ -90,7 +105,7 @@
       "speaker": "Petr Bendl",
       "affiliation": "ODS",
       "timestamp": "2/02:57",
-      "screenshot_path": "summaries/screenshots/event_2846_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_highlight_02.jpg",
       "context": "Státní zemědělský intervenční fond (SZIF) je vázán zákonem č. 106/1999 Sb., o svobodném přístupu k informacím. Zveřejňování posudků podléhá ochraně obchodního tajemství, nicméně v minulosti byla legitimita dotací pro Agrofert předmětem sporů s Evropskou komisí (audity ke střetu zájmů), které jsou veřejně dostupné."
     }
   ],
@@ -100,7 +115,7 @@
       "speaker": "Filip Turek",
       "affiliation": "Vládní zmocněnec",
       "timestamp": "3/00:45",
-      "screenshot_path": "summaries/screenshots/event_2846_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_controversy_00.jpg",
       "context": "Výrok je fakticky doložitelný jako citace, nicméně interpretace „nacistické rétoriky“ je subjektivním politickým a historickým hodnocením. Použití termínu „deratizace“ ve vztahu k lidem je v demokratické politické kultuře považováno za dehumanizující a vysoce kontroverzní."
     }
   ],

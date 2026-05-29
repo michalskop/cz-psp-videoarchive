@@ -10,6 +10,69 @@
     "end_date": "2026-03-23",
     "sources": [
       "final/event_2766_2026-03-23_smrt-ve-skole-od-prevence-k-intervenci.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323110007.mp4",
+        "from_sec": 23
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323111007.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323112007.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323113007.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323114007.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323115007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323120007.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323121007.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323122007.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323123007.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323124007.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323125007.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323130007.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323131007.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/23/_20260323132007.mp4"
+      }
     ]
   },
   "transcription": {
@@ -100,7 +163,7 @@
       "speaker": "Ana Julia Staníčková",
       "affiliation": "Studentka",
       "timestamp": "2/04:44",
-      "screenshot_path": "summaries/screenshots/event_2766_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2766_highlight_00.jpg",
       "context": "Jde o rétorické vyjádření zdůrazňující význam prevence a komunikace v oblasti duševního zdraví dětí. Z hlediska psychologie a pedagogiky je tento přístup podložen odborným konsenzem, že otevřená komunikace snižuje riziko traumatizace."
     },
     {
@@ -109,7 +172,7 @@
       "speaker": "Miroslav Zavadil",
       "affiliation": "Semiramis z.ú.",
       "timestamp": "9/07:49",
-      "screenshot_path": "summaries/screenshots/event_2766_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2766_highlight_01.jpg",
       "context": "Tvrzení odpovídá odbornému konsenzu v suicidologii (např. dle metodik Národního ústavu duševního zdraví), která definuje sebevražedné jednání jako proces s varovnými signály. Včasná identifikace těchto signálů je klíčovým pilířem preventivních programů."
     },
     {
@@ -118,7 +181,7 @@
       "speaker": "Gražina Kokešová Kleinová",
       "affiliation": "FN Motol",
       "timestamp": "8/04:01",
-      "screenshot_path": "summaries/screenshots/event_2766_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2766_highlight_02.jpg",
       "context": "Nelze nezávisle ověřit. Ačkoliv odborníci z praxe dlouhodobě upozorňují na nedostatečnou připravenost škol na krizové situace, neexistuje centrální statistika MŠMT, která by kvantifikovala existenci krizových plánů pro úmrtí ve všech školách v ČR."
     }
   ],
@@ -128,7 +191,7 @@
       "speaker": "Sylvie Stretti a Miroslav Zavadil",
       "affiliation": "Poradna Vigvam / Semiramis",
       "timestamp": "13/02:00",
-      "screenshot_path": "summaries/screenshots/event_2766_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2766_controversy_00.jpg",
       "context": "Tvrzení reflektuje reálný problém absence akreditace či standardizace služeb v oblasti krizové intervence pro školy. Ředitelé škol skutečně nemají k dispozici oficiální certifikovaný seznam garantovaných poskytovatelů, což vytváří prostor pro nekvalitní či neodborné zásahy."
     }
   ],

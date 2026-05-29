@@ -10,6 +10,12 @@
     "end_date": "2026-05-12T12:57",
     "sources": [
       "final/event_2896_2026-05-12_tiskova-konference-predsedu-opozicnich-stran.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5290_video-psp-2026512-1244-36-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -80,7 +86,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:01",
-      "screenshot_path": "summaries/screenshots/event_2896_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2896_highlight_00.jpg",
       "context": "Jde o hodnotící výrok o roli poslance, který nelze fakticky ověřit. Náplň práce poslance je definována Ústavou ČR a zákonem č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, které se k otázce „rozněcování nenávisti“ přímo nevyjadřují."
     },
     {
@@ -89,7 +95,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/01:59",
-      "screenshot_path": "summaries/screenshots/event_2896_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2896_highlight_01.jpg",
       "context": "SPD je součástí frakce Evropa suverénních národů (ESN), kde zasedá i německá AfD. Někteří představitelé AfD v minulosti zpochybňovali platnost Benešových dekretů, nicméně oficiální program frakce se k otázce dekretů jako celku nevyjadřuje."
     },
     {
@@ -98,7 +104,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/13:02",
-      "screenshot_path": "summaries/screenshots/event_2896_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2896_highlight_02.jpg",
       "context": "Německo je dlouhodobě nejvýznamnějším obchodním partnerem ČR (dle dat ČSÚ a MPO). Hodnocení kvality diplomatických vztahů je subjektivní politický názor, nikoliv ověřitelný fakt."
     }
   ],
@@ -108,7 +114,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/02:06",
-      "screenshot_path": "summaries/screenshots/event_2896_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2896_controversy_00.jpg",
       "context": "Strana FPÖ byla v roce 1956 založena Antonem Reinthallerem, bývalým důstojníkem SS a nacistickým ministrem. Historická fakta o nacistické minulosti zakladatelů FPÖ jsou doložitelná v historických studiích o rakouské politice po roce 1945."
     },
     {
@@ -116,7 +122,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/08:05",
-      "screenshot_path": "summaries/screenshots/event_2896_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2896_controversy_01.jpg",
       "context": "Jde o politickou rétoriku a subjektivní hodnocení postupu vládní koalice. Zda je postup v souladu s Ústavou ČR, může závazně posoudit pouze Ústavní soud, nikoliv faktografická analýza."
     }
   ],

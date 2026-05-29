@@ -10,6 +10,12 @@
     "end_date": "2026-04-16T10:16",
     "sources": [
       "final/event_2828_2026-04-16_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5211_video-psp-2026416-100-56-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +78,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/00:45",
-      "screenshot_path": "summaries/screenshots/event_2828_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_highlight_00.jpg",
       "context": "Jde o politické hodnocení a predikci vývoje, kterou nelze fakticky ověřit. Srovnání se Slovenskem a Maďarskem reflektuje debatu o politickém vlivu na veřejnoprávní média, avšak přímá kauzalita mezi konkrétní změnou financování a ohrožením demokracie je předmětem politického názoru, nikoliv objektivní fakt."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Věra Kovářová",
       "affiliation": "STAN",
       "timestamp": "1/07:44",
-      "screenshot_path": "summaries/screenshots/event_2828_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_highlight_01.jpg",
       "context": "Tvrzení o cílení na ohrožené skupiny je politickou deklarací priorit hnutí STAN. Zda jsou vládní opatření (např. konsolidační balíček) plošná, či cílená, je předmětem odborné ekonomické debaty; vládní koalice argumentuje kombinací obojího, zatímco opozice často kritizuje dopady na široké vrstvy obyvatel."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/08:05",
-      "screenshot_path": "summaries/screenshots/event_2828_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_highlight_02.jpg",
       "context": "Programové prohlášení vlády ČR je veřejně dostupný dokument zveřejněný na stránkách vlády (vlada.cz). Tvrzení o jeho „nezveřejnění“ je fakticky nepravdivé, neboť dokument byl oficiálně představen a publikován v lednu 2022."
     }
   ],
@@ -100,7 +106,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/02:03",
-      "screenshot_path": "summaries/screenshots/event_2828_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_controversy_00.jpg",
       "context": "Možnost využití obstrukcí je legitimním parlamentním nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Zda je konkrétní legislativa ohrožením demokracie, je subjektivní politické hodnocení, nikoliv fakt."
     },
     {
@@ -108,7 +114,7 @@
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/10:02",
-      "screenshot_path": "summaries/screenshots/event_2828_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_controversy_01.jpg",
       "context": "Nelze nezávisle ověřit bez přístupu k neveřejné korespondenci mezi českou vládou a Evropskou komisí. Otázka střetu zájmů byla v minulosti předmětem auditů EK, jejichž závěry jsou veřejně dostupné, avšak aktuální komunikace o tomto tématu podléhá diplomatickým procesům."
     }
   ],

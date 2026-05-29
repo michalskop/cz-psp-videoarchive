@@ -10,6 +10,12 @@
     "end_date": "2026-03-23T15:44",
     "sources": [
       "final/event_2770_2026-03-23_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5137_video-psp-2026323-1535-4-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -65,7 +71,7 @@
       "speaker": "Lucie Bartošová",
       "affiliation": "ODS",
       "timestamp": "1/01:44",
-      "screenshot_path": "summaries/screenshots/event_2770_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2770_highlight_00.jpg",
       "context": "Výrok se pravděpodobně vztahuje k debatě o financování veřejnoprávních médií (ČT a ČRo). Celkový rozpočet obou institucí se pohybuje v řádech miliard korun, nicméně přesná částka 2,7 miliardy jako „čtvrtina“ závisí na konkrétním výpočtu zahrnujícím inflační doložky a legislativní změny v koncesionářských poplatcích."
     },
     {
@@ -74,7 +80,7 @@
       "speaker": "Jan Lipavský",
       "affiliation": "ODS",
       "timestamp": "1/03:59",
-      "screenshot_path": "summaries/screenshots/event_2770_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2770_highlight_01.jpg",
       "context": "Rozpočet BIS je součástí kapitoly státního rozpočtu pro Úřad vlády ČR a podléhá utajení. Tvrzení o krácení o 300 milionů korun nelze z veřejných zdrojů nezávisle ověřit, stejně tak jako konkrétní podíl BIS na vyšetřování incidentu v Pardubicích, které je vedeno orgány činnými v trestním řízení."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Jan Bureš",
       "affiliation": "ODS",
       "timestamp": "1/08:27",
-      "screenshot_path": "summaries/screenshots/event_2770_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2770_highlight_02.jpg",
       "context": "Jde o politický názor na regulaci trhu. V ČR platí zákon č. 223/2016 Sb., o prodejní době v maloobchodě, který omezuje prodej ve vybrané svátky; debata o jeho zrušení je dlouhodobým tématem, nikoliv faktickým sporem o existenci zákona."
     }
   ],
@@ -93,7 +99,7 @@
       "speaker": "Jan Lipavský",
       "affiliation": "ODS",
       "timestamp": "1/04:45",
-      "screenshot_path": "summaries/screenshots/event_2770_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2770_controversy_00.jpg",
       "context": "Právní kvalifikace útoku v Pardubicích jako „teroristický“ je v kompetenci orgánů činných v trestním řízení (Policie ČR, státní zastupitelství), nikoliv politiků. Označení za teroristický útok je politickou interpretací události, nikoliv potvrzeným právním stavem."
     }
   ],

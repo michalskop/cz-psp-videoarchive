@@ -1,0 +1,132 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T17:05:45",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "event": {
+    "id": "2871",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-05",
+    "end_date": "2026-05-05T12:40",
+    "sources": [
+      "final/event_2871_2026-05-05_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5264_video-psp-202655-1224-11-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "groq",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se zaměřila na organizační změny ve vedení klubu a na aktuální politické otázky, včetně rozpočtové odpovědnosti a chystané mimořádné schůze Poslanecké sněmovny.",
+    "main_points": [
+      "- Marian Jurečka (KDU-ČSL) — Nový předseda poslaneckého klubu KDU-ČSL, dříve první místopředseda strany. Předchozí předseda klubu Tom Filip se stal místopředsedou.[01:00]",
+      "- Jan Grolich (KDU-ČSL) — Předseda KDU-ČSL, vítá účastníky tiskové konference.",
+      "- Benjamín Činčilla (KDU-ČSL) — První místopředseda KDU-ČSL, zmíněn jako součást nového vedení.",
+      "- Libuše Hubáčková (KDU-ČSL) — Místopředsedkyně KDU-ČSL.",
+      "- František Talíř (KDU-ČSL) — Místopředseda KDU-ČSL a poslanec.",
+      "- Václav Pláteník (KDU-ČSL) — Místopředseda KDU-ČSL a poslanec.",
+      "- Tom Filip (KDU-ČSL) — Předchozí předseda poslaneckého klubu, nyní místopředseda.",
+      "- Marian Jurečka (KDU-ČSL) — Zmínil potřebu silného hlasu ve sněmovně a konstruktivní opozice.[02:03]",
+      "- Neidentifikovaný řečník — Novinářka Karolína Jelinková z České televize se ptá na strategii KDU-ČSL pro mimořádnou schůzi.[08:03]"
+    ],
+    "outcome": "Tisková konference se soustředila na představení nového vedení poslaneckého klubu KDU-ČSL a na aktuální politické otázky. Klub chce být konstruktivní opozicí a připravuje se na mimořádnou schůzi Poslanecké sněmovny.",
+    "notes": "- Části přepisu mohly být nesrozumitelné nebo chybět.\n- Tisková konference proběhla 5. května 2026."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Jan Grolich",
+        "person_id": "psp:person:6669",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Benjamín Činčilla",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Libuše Hubáčková",
+        "person_id": "psp:person:1594",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Václav Pláteník",
+        "person_id": "psp:person:7036",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Tom Filip",
+        "person_id": null,
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My jako opozice chceme být tvrdá, konstruktivní, ale umíme rozjišťovat, co je mlha dnešních dní a co jsou podstatné věci, na ty reagovat, na ty se soustředit.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/13:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2871_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit."
+    },
+    {
+      "text": "Zákon o rozpočtové odpovědnosti je opravdu něco, co jde vyloženě proti budoucnosti téhle země, proti budoucnosti našich dětí, vnoučat, budoucnosti podnikatelského prostředí.",
+      "type": "citation",
+      "speaker": "Benjamín Činčilla",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/04:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2871_highlight_01.jpg",
+      "context": "Zákon o rozpočtové odpovědnosti upravuje pravidla pro hospodaření státu a územních samosprávných celků. Jeho dopady na budoucnost země, podnikatelské prostředí a budoucí generace závisí na konkrétních parametrech a implementaci zákona. Více informací lze nalézt na webových stránkách Ministerstva financí ČR nebo Poslanecké sněmovny."
+    },
+    {
+      "text": "My varujeme před tím, abychom naskočili na vlnu tzv. pravicového populismu, abychom jenom slibovali, že všechno vrátíme do těch původních mezí, že budeme snižovat daně a podobně.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/03:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2871_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "My varujeme před tím, abychom naskočili na vlnu tzv. pravicového populismu, abychom jenom slibovali, že všechno vrátíme do těch původních mezí, že budeme snižovat daně a podobně.",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/03:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2871_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

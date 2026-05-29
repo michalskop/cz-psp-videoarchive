@@ -10,6 +10,12 @@
     "end_date": "2026-04-16T14:27",
     "sources": [
       "final/event_2833_2026-04-16_slavnostni-losovani-sekce-beachvolejbalu-a-volejba.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5217_video-psp-2026416-145-55-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -95,7 +101,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2833_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_highlight_00.jpg",
       "context": "Tvrzení je zavádějící. Praha hostila Olympiádu dětí a mládeže (ODM) již v roce 2005 (letní verze). Aktuální ročník 2025 je tedy návratem po 20 letech, nikoliv historickou premiérou."
     },
     {
@@ -104,7 +110,7 @@
       "speaker": "Marek Pakosta",
       "affiliation": "Český olympijský výbor",
       "timestamp": "1/19:33",
-      "screenshot_path": "summaries/screenshots/event_2833_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_highlight_01.jpg",
       "context": "Ověřitelné. Projekt Olympiáda dětí a mládeže (ODM) pořádá Český olympijský výbor od roku 2003. Cílem projektu je dle stanov ČOV podpora sportovní aktivity dětí a mládeže a simulace atmosféry skutečných olympijských her."
     },
     {
@@ -113,7 +119,7 @@
       "speaker": "Ondřej Gros",
       "affiliation": "Praha 8",
       "timestamp": "1/10:15",
-      "screenshot_path": "summaries/screenshots/event_2833_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_highlight_02.jpg",
       "context": "Ověřitelné. Dle oficiálního harmonogramu ODM 2025 jsou sportoviště na Praze 8 (např. Beachklub Ládví pro beachvolejbal) skutečně zahrnuta do plánu konání her."
     }
   ],
@@ -123,7 +129,7 @@
       "speaker": "Boris Šťastný",
       "affiliation": "Ministerstvo sportu, prevence a zdraví",
       "timestamp": "1/06:02",
-      "screenshot_path": "summaries/screenshots/event_2833_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_controversy_00.jpg",
       "context": "Nelze nezávisle ověřit jako oficiální vládní politiku. V současné době neexistuje žádné oficiální vládní usnesení o kandidatuře ČR na pořádání olympijských her; jde o politickou vizi či úvahu, která naráží na vysoké ekonomické nároky potvrzené zkušenostmi z jiných zemí (např. analýzy nákladů MOV)."
     }
   ],

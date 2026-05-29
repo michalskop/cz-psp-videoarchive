@@ -10,6 +10,12 @@
     "end_date": "2026-05-06T09:00",
     "sources": [
       "final/event_2878_2026-05-06_spolecna-tiskova-konference-piratu-starostu-ods-to.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5271_video-psp-202656-841-28-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -80,7 +86,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "1/02:00",
-      "screenshot_path": "summaries/screenshots/event_2878_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2878_highlight_00.jpg",
       "context": "Jde o politické hodnocení fiskální politiky, nikoliv o ověřitelný fakt. Udržitelnost veřejných financí je dlouhodobě sledována Národní rozpočtovou radou (NRR), která pravidelně varuje před strukturálním deficitem."
     },
     {
@@ -89,7 +95,7 @@
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
       "timestamp": "1/04:00",
-      "screenshot_path": "summaries/screenshots/event_2878_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2878_highlight_01.jpg",
       "context": "Tvrzení o „kolapsu“ je politickou interpretací dopadů rozpočtových změn. Dopady konkrétních pozměňovacích návrhů na státní rozpočet lze vyčíslit pomocí analýz Parlamentního institutu nebo Ministerstva financí ČR, ale jejich reálný vliv na stabilitu rozpočtu je předmětem odborného sporu."
     },
     {
@@ -98,7 +104,7 @@
       "speaker": "Lucie Sedmihradská",
       "affiliation": "Starostové",
       "timestamp": "1/06:48",
-      "screenshot_path": "summaries/screenshots/event_2878_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2878_highlight_02.jpg",
       "context": "Jedná se o subjektivní definici politického pojmu „transparentnost“. Otevřenost debaty ve Sněmovně je upravena zákonem č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny."
     },
     {
@@ -107,7 +113,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/10:06",
-      "screenshot_path": "summaries/screenshots/event_2878_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2878_highlight_03.jpg",
       "context": "Nelze nezávisle ověřit. Výše schodku státního rozpočtu závisí na schváleném zákonu o státním rozpočtu pro daný rok a následných rozpočtových opatřeních; tvrzení o konkrétní částce 400 miliard je v tuto chvíli spekulativním odhadem budoucího vývoje."
     }
   ],
@@ -117,7 +123,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/13:45",
-      "screenshot_path": "summaries/screenshots/event_2878_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2878_controversy_00.jpg",
       "context": "„Pevné hlasování“ (stanovení pevného času hlasování) je standardní nástroj dle § 54 jednacího řádu Poslanecké sněmovny. Jeho využití je legitimním procedurálním krokem, opozice jej však často kritizuje jako omezování prostoru pro rozpravu."
     },
     {
@@ -125,7 +131,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/18:04",
-      "screenshot_path": "summaries/screenshots/event_2878_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2878_controversy_01.jpg",
       "context": "Průběh jednání a případné porušení pravidel slušného chování jsou zaznamenány ve stenografických protokolech a videozáznamech z jednání Sněmovny. Zda došlo k porušení pravidel, posuzuje v případě podnětu Mandátový a imunitní výbor."
     }
   ],

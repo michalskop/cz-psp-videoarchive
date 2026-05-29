@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T15:04",
     "sources": [
       "final/event_2824_2026-04-14_tiskova-konference-ministra-kultury-o-klempire.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5202_video-psp-2026414-1431-45-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -78,7 +84,7 @@
       "speaker": "Oto Klempíř",
       "affiliation": "ministr kultury",
       "timestamp": "1/04:46",
-      "screenshot_path": "summaries/screenshots/event_2824_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_highlight_00.jpg",
       "context": "Aktuální vládní návrh novely zákona o České televizi a Českém rozhlasu (sněmovní tisk č. 760) nezavádí financování přímo ze státního rozpočtu, ale rozšiřuje definici poplatníka na každého, kdo má zařízení schopné příjmu, a zvyšuje výši poplatků. Tvrzení o přímém financování ze státního rozpočtu je v kontextu aktuálního legislativního procesu věcně nesprávné."
     },
     {
@@ -87,7 +93,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "poslanec",
       "timestamp": "1/11:49",
-      "screenshot_path": "summaries/screenshots/event_2824_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_highlight_01.jpg",
       "context": "Vládní návrh skutečně obsahuje osvobození od poplatků pro některé skupiny (např. domácnosti s příjmem pod hranicí životního minima). Zda jde o naplnění předvolebních slibů, je politická interpretace, neboť programové prohlášení vlády se k přímému osvobození od poplatků v této konkrétní podobě explicitně nevyjadřovalo."
     },
     {
@@ -96,7 +102,7 @@
       "speaker": null,
       "affiliation": "vládní koalice",
       "timestamp": "1/29:59",
-      "screenshot_path": "summaries/screenshots/event_2824_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_highlight_02.jpg",
       "context": "Podle analýz Evropské vysílací unie (EBU) využívá systém koncesionářských poplatků přibližně polovina zemí EU, zatímco druhá polovina volí přímé financování ze státního rozpočtu nebo kombinované modely. Číslo 10 z 27 je zavádějící, neboť se liší podle metodiky započítávání různých forem financování veřejnoprávních médií."
     }
   ],
@@ -106,7 +112,7 @@
       "speaker": "Radek Bartoníček",
       "affiliation": "Aktuálně.cz",
       "timestamp": "1/26:03",
-      "screenshot_path": "summaries/screenshots/event_2824_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_controversy_00.jpg",
       "context": "Jde o interpretaci politické debaty o vztahu mezi politiky a novináři. Označení za „nebezpečnou filozofickou myšlenku“ je subjektivním politickým hodnocením koalice, které nelze fakticky ověřit jako pravdivé či nepravdivé, neboť se jedná o názorový střet o roli médií v demokracii."
     }
   ],

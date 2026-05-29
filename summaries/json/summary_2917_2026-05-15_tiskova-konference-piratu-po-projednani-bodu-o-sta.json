@@ -10,6 +10,12 @@
     "end_date": "2026-05-15T10:13",
     "sources": [
       "final/event_2917_2026-05-15_tiskova-konference-piratu-po-projednani-bodu-o-sta.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5315_video-psp-2026515-101-44-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -63,7 +69,7 @@
       "speaker": "Olga Richterová",
       "affiliation": "Piráti",
       "timestamp": "1/01:04",
-      "screenshot_path": "summaries/screenshots/event_2917_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2917_highlight_00.jpg",
       "context": "Náklady na navýšení rodičovského příspěvku závisí na konkrétním návrhu (výše navýšení a okruh příjemců). Částka 8 miliard korun odpovídá odhadům MPSV pro některé varianty plošného navýšení, nicméně přesná fiskální dopadová analýza se liší podle parametrů konkrétního pozměňovacího návrhu."
     },
     {
@@ -72,7 +78,7 @@
       "speaker": "Olga Richterová",
       "affiliation": "Piráti",
       "timestamp": "1/01:18",
-      "screenshot_path": "summaries/screenshots/event_2917_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2917_highlight_01.jpg",
       "context": "Podle dat ČSÚ činila kumulovaná míra inflace mezi lednem 2020 a koncem roku 2023 přibližně 35–38 %. Tvrzení o 40% nárůstu cen je tedy fakticky blízké realitě, přičemž rodičovský příspěvek byl naposledy plošně valorizován v roce 2024 (z 300 na 350 tisíc Kč)."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Olga Richterová",
       "affiliation": "Piráti",
       "timestamp": "1/08:42",
-      "screenshot_path": "summaries/screenshots/event_2917_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2917_highlight_02.jpg",
       "context": "Dluhová brzda je definována zákonem č. 23/2017 Sb. (o pravidlech rozpočtové odpovědnosti). Vláda v minulosti navrhovala úpravy fiskálních pravidel, ale tvrzení o „vypnutí“ brzdy a deficitu 440 miliard je politickou interpretací rozpočtových výhledů a legislativních změn, které mají za cíl zvýšit flexibilitu státního rozpočtu."
     }
   ],
@@ -91,7 +97,7 @@
       "speaker": "Olga Richterová",
       "affiliation": "Piráti",
       "timestamp": "1/08:00",
-      "screenshot_path": "summaries/screenshots/event_2917_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2917_controversy_00.jpg",
       "context": "Návrh na úpravu pravomocí vlády při rozpočtových přesunech u nezávislých institucí vyvolal kritiku z hlediska ústavního principu dělby moci. Zda tyto změny skutečně ohrožují nezávislost institucí jako NKÚ, je předmětem právního a politického sporu, nikoliv objektivně ověřitelný fakt."
     }
   ],

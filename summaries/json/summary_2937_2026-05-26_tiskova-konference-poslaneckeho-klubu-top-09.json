@@ -10,6 +10,12 @@
     "end_date": "2026-05-26",
     "sources": [
       "final/event_2937_2026-05-26_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5337_video-psp-2026526-1119-44-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -70,7 +76,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/02:06",
-      "screenshot_path": "summaries/screenshots/event_2937_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2937_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení a rétorický obrat, který nelze fakticky ověřit jako pravdivý či nepravdivý. Pojmy „kulturní války“ a „spolupráce“ jsou interpretativní kategorie politického diskurzu."
     },
     {
@@ -79,7 +85,7 @@
       "speaker": "Miloslav Válek",
       "affiliation": "TOP 09",
       "timestamp": "1/15:46",
-      "screenshot_path": "summaries/screenshots/event_2937_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2937_highlight_01.jpg",
       "context": "Bezpečnost očkování je potvrzena rozsáhlými klinickými studiemi a institucemi jako SÚKL či EMA. První moderní vakcína (proti pravým neštovicím) byla zavedena Edwardem Jennerem v roce 1796, což odpovídá tvrzení o zhruba dvousetleté historii."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
       "timestamp": "1/09:18",
-      "screenshot_path": "summaries/screenshots/event_2937_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2937_highlight_02.jpg",
       "context": "Tvrzení o posilování strategických kapacit v EU je v souladu s aktuálními trendy (např. snaha o energetickou či surovinovou soběstačnost). Zda je konkrétní prodej „nesmyslný“, je politickým názorem na správu státního majetku, nikoliv objektivním faktem."
     }
   ],
@@ -98,7 +104,7 @@
       "speaker": "Matěj Ondřej Havel, Michal Zuna",
       "affiliation": "TOP 09",
       "timestamp": "1/06:01",
-      "screenshot_path": "summaries/screenshots/event_2937_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2937_controversy_00.jpg",
       "context": "Požadavek na rezignaci členů vlády je legitimním politickým nástrojem opozice. Nelze nezávisle ověřit „nekompetentnost“ jako objektivní fakt, neboť jde o politické hodnocení výkonu exekutivy, nikoliv o právní či statisticky měřitelnou veličinu."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T12:35",
     "sources": [
       "final/event_2818_2026-04-14_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5196_video-psp-2026414-1222-5-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -68,7 +74,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/01:12",
-      "screenshot_path": "summaries/screenshots/event_2818_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2818_highlight_00.jpg",
       "context": "Tvrzení o předávání informací Kremlu je politickým hodnocením a závažným obviněním, které nebylo podloženo žádným veřejně dostupným důkazem či zpravodajským potvrzením. Maďarsko je členem NATO a EU, a ačkoliv je jeho politika vůči Rusku kritizována spojenci, obvinění z „vlastizrádného postupu“ zůstává v rovině politické rétoriky."
     },
     {
@@ -77,7 +83,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/05:00",
-      "screenshot_path": "summaries/screenshots/event_2818_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2818_highlight_01.jpg",
       "context": "Jde o politickou metaforu pro udělení širokých pravomocí vládě bez konkrétních podmínek či časového omezení. Zda je návrh „bianco šekem“, závisí na interpretaci konkrétního legislativního textu a rozsahu pravomocí, které má vláda v daném zákoně získat."
     },
     {
@@ -86,7 +92,7 @@
       "speaker": "Monika Brzesková",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/07:46",
-      "screenshot_path": "summaries/screenshots/event_2818_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2818_highlight_02.jpg",
       "context": "Nelze nezávisle ověřit bez znalosti konkrétního sněmovního tisku a jeho rozpočtových dopadů. Návrhy zákonů, které „nestojí ani korunu“, mohou mít nepřímé dopady na státní rozpočet (např. skrze výpadek příjmů nebo administrativní náklady), což bývá častým předmětem sporů mezi předkladateli a Ministerstvem financí."
     },
     {
@@ -95,7 +101,7 @@
       "speaker": "Tom Philipp",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/10:41",
-      "screenshot_path": "summaries/screenshots/event_2818_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2818_highlight_03.jpg",
       "context": "Jednací řád Poslanecké sněmovny (zákon č. 90/1995 Sb.) umožňuje poslancům s přednostním právem vystoupit kdykoliv. Pokud koalice využije kumulaci těchto vystoupení, fakticky tím odsouvá projednávání bodů navržených opozicí, což je v souladu s procedurálními pravidly sněmovny."
     }
   ],
@@ -105,7 +111,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/01:15",
-      "screenshot_path": "summaries/screenshots/event_2818_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2818_controversy_00.jpg",
       "context": "Výrok je interpretací politického postoje Marka Výborného. Jak bylo uvedeno u id 'h0', obvinění z předávání informací Kremlu je závažné tvrzení, které postrádá oporu ve veřejně dostupných faktech a je vedeno v rovině politické kritiky zahraniční politiky Maďarska."
     }
   ],

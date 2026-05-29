@@ -10,6 +10,25 @@
     "end_date": "2026-04-27T16:10",
     "sources": [
       "final/event_2852_2026-04-27_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/27/_20260427153003.mp4",
+        "from_sec": 385
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/27/_20260427154003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/27/_20260427155003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/27/_20260427160003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -67,7 +86,7 @@
       "speaker": "Neidentifikovaný řečník",
       "affiliation": "ODS",
       "timestamp": "1/07:20",
-      "screenshot_path": "summaries/screenshots/event_2852_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_highlight_00.jpg",
       "context": "Jde o subjektivní politickou interpretaci komunikačního stylu premiéra. Nelze nezávisle ověřit jako fakt, neboť jde o hodnotící úsudek o záměrech a způsobu komunikace konkrétní osoby."
     },
     {
@@ -76,7 +95,7 @@
       "speaker": "Petr Beník",
       "affiliation": "ODS",
       "timestamp": "3/01:14",
-      "screenshot_path": "summaries/screenshots/event_2852_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_highlight_01.jpg",
       "context": "Státní zemědělský intervenční fond (SZIF) je vázán zákonem č. 256/2000 Sb. a pravidly EU pro vyplácení dotací. Zastavení všech podpor by bylo v rozporu s platnou legislativou a mohlo by vést k žalobám ze strany příjemců dotací."
     },
     {
@@ -85,7 +104,7 @@
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
       "timestamp": "2/03:41",
-      "screenshot_path": "summaries/screenshots/event_2852_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_highlight_02.jpg",
       "context": "Výhled státního rozpočtu je predikcí. Podle aktuálních dat MF ČR (Konvergenční program) se sice počítá s deficity, ale jejich konkrétní výše závisí na budoucích rozpočtových zákonech a ekonomickém vývoji, nikoliv na fixním trendu."
     },
     {
@@ -94,7 +113,7 @@
       "speaker": "Petr Beník",
       "affiliation": "ODS",
       "timestamp": "3/05:14",
-      "screenshot_path": "summaries/screenshots/event_2852_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_highlight_03.jpg",
       "context": "Jde o politický a rétorický postoj k ochraně přírody. Problematika regulace hrabošů je odborně řešena Ústředním kontrolním a zkušebním ústavem zemědělským (ÚKZÚZ) s ohledem na zákon č. 326/2004 Sb., o rostlinolékařské péči."
     }
   ],
@@ -104,7 +123,7 @@
       "speaker": "Petr Beník",
       "affiliation": "ODS",
       "timestamp": "3/04:05",
-      "screenshot_path": "summaries/screenshots/event_2852_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_controversy_00.jpg",
       "context": "Plošná aplikace rodenticidů (např. Stutox II) je dlouhodobě předmětem sporů mezi zemědělci a ochránci přírody (AOPK ČR). ÚKZÚZ povoluje tyto výjimky pouze za přísných podmínek, aby se minimalizovaly dopady na necílové druhy živočichů."
     }
   ],

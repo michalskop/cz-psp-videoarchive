@@ -10,6 +10,17 @@
     "end_date": "2026-04-21T12:57",
     "sources": [
       "final/event_2840_2026-04-21_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421124003.mp4",
+        "from_sec": 147
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421125003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -67,7 +78,7 @@
       "speaker": "Neidentifikovaný řečník",
       "affiliation": "Piráti",
       "timestamp": "2/01:01",
-      "screenshot_path": "summaries/screenshots/event_2840_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_highlight_00.jpg",
       "context": "Nelze nezávisle ověřit. Bez znalosti konkrétního rozpočtového dokumentu nebo kapitoly, ke které se řečník vztahuje, nelze určit, zda částka 7,5 miliardy odpovídá realitě."
     },
     {
@@ -76,7 +87,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "2/04:00",
-      "screenshot_path": "summaries/screenshots/event_2840_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_highlight_01.jpg",
       "context": "Tvrzení je zavádějící. Zákon o rozpočtové odpovědnosti (č. 23/2017 Sb.) stanovuje přísná pravidla pro výdajové rámce; navýšení výdajů nad rámec zákona vyžaduje schválení Parlamentem, nikoliv pouze rozhodnutí kabinetu bez legislativního procesu."
     },
     {
@@ -85,7 +96,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "2/04:12",
-      "screenshot_path": "summaries/screenshots/event_2840_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_highlight_02.jpg",
       "context": "Jde o spekulativní odhad. Výše deficitu státního rozpočtu je limitována zákonem o státním rozpočtu na daný rok, který schvaluje Poslanecká sněmovna, nikoliv pouze součtem výjimek v rozpočtových pravidlech."
     }
   ],
@@ -95,7 +106,7 @@
       "speaker": "Neidentifikovaný řečník",
       "affiliation": "Piráti",
       "timestamp": "2/00:45",
-      "screenshot_path": "summaries/screenshots/event_2840_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_controversy_00.jpg",
       "context": "Nominační zákon (zákon č. 159/2017 Sb.) byl zaveden za účelem transparentního výběru členů orgánů státních firem. Debata o jeho zrušení či úpravě je dlouhodobým politickým sporem mezi vládní koalicí a opozicí ohledně míry politických nominací."
     },
     {
@@ -103,7 +114,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "2/02:40",
-      "screenshot_path": "summaries/screenshots/event_2840_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_controversy_01.jpg",
       "context": "Změna pravidel rozpočtové odpovědnosti je předmětem odborné diskuse o tzv. 'zlatém fiskálním pravidle' (vyjmutí investic z dluhové brzdy). Podle zákona č. 23/2017 Sb. je dluhová brzda nastavena na 55 % HDP; úprava výpočtu by fakticky změnila metodiku sledování zadlužení státu."
     }
   ],

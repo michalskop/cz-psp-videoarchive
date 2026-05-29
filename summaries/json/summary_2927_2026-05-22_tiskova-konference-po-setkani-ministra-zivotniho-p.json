@@ -10,6 +10,12 @@
     "end_date": "2026-05-22T13:57",
     "sources": [
       "final/event_2927_2026-05-22_tiskova-konference-po-setkani-ministra-zivotniho-p.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5327_video-psp-2026522-1350-47-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -55,7 +61,7 @@
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
       "timestamp": "1/04:00",
-      "screenshot_path": "summaries/screenshots/event_2927_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2927_highlight_00.jpg",
       "context": "Obce v ČR jsou financovány z příspěvků od společnosti EKO-KOM, které jsou závislé na množství vytříděného odpadu. Zavedení zálohového systému by vedlo k odklonu PET lahví ze žlutých kontejnerů, což by snížilo příjmy obcí z tohoto systému; dopad na rozpočty obcí je jedním z hlavních bodů odborné debaty."
     },
     {
@@ -64,7 +70,7 @@
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
       "timestamp": "1/01:16",
-      "screenshot_path": "summaries/screenshots/event_2927_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2927_highlight_01.jpg",
       "context": "Nelze nezávisle ověřit. Jde o subjektivní vyjádření ochoty třetí strany (pravděpodobně Evropské komise nebo jiného legislativního orgánu) k budoucímu vyjednávání o interpretaci právních předpisů."
     },
     {
@@ -73,7 +79,7 @@
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
       "timestamp": "1/04:10",
-      "screenshot_path": "summaries/screenshots/event_2927_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2927_highlight_02.jpg",
       "context": "Podle dat MŽP a autorizované obalové společnosti EKO-KOM se míra zpětného odběru PET lahví v ČR pohybuje kolem 80–82 %. Toto číslo však vyjadřuje míru vytřídění do kontejnerů, nikoliv nutně míru recyklace (materiálového využití), která bývá nižší kvůli ztrátám při dotřiďování."
     }
   ],
@@ -83,7 +89,7 @@
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
       "timestamp": "1/06:02",
-      "screenshot_path": "summaries/screenshots/event_2927_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2927_controversy_00.jpg",
       "context": "Spor mezi obcemi a zastánci zálohového systému je faktický. Obce se obávají ztráty příjmů z prodeje vytříděných surovin a plateb od EKO-KOM, zatímco zastánci zálohování argumentují vyšší čistotou materiálu a plněním cílů EU pro sběr nápojových obalů (směrnice 2019/904)."
     }
   ],

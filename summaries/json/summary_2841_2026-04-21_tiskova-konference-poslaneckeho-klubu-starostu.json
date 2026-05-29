@@ -10,6 +10,21 @@
     "end_date": "2026-04-21T13:20",
     "sources": [
       "final/event_2841_2026-04-21_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421130003.mp4",
+        "from_sec": 22
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421131003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421132003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -64,7 +79,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/03:03",
-      "screenshot_path": "summaries/screenshots/event_2841_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_highlight_00.jpg",
       "context": "Role nezávislých médií jako pilíře demokracie je zakotvena v demokratické teorii a judikatuře Ústavního soudu ČR, který opakovaně zdůrazňuje význam svobody slova a nezávislosti veřejnoprávních médií pro fungování právního státu."
     },
     {
@@ -73,7 +88,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "2/07:58",
-      "screenshot_path": "summaries/screenshots/event_2841_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_highlight_01.jpg",
       "context": "Jde o subjektivní manažerské tvrzení (tzv. „if it ain't broke, don't fix it“), které nelze fakticky ověřit jako pravdivé či nepravdivé, neboť hodnocení funkčnosti konkrétního systému je věcí politického a odborného názoru."
     },
     {
@@ -82,7 +97,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "2/05:26",
-      "screenshot_path": "summaries/screenshots/event_2841_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_highlight_02.jpg",
       "context": "V českém právním řádu mají „dekrety“ specifický historický význam (např. Benešovy dekrety). Vláda v ČR vládne prostřednictvím nařízení vlády vydávaných na základě zmocnění v zákonech (čl. 78 Ústavy ČR), nikoliv dekrety, které by obcházely legislativní proces."
     }
   ],
@@ -92,7 +107,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "2/00:00",
-      "screenshot_path": "summaries/screenshots/event_2841_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_controversy_00.jpg",
       "context": "Návrh na posílení pravomocí nominačního výboru v rámci zákona o státní službě (zákon č. 234/2014 Sb.) je předmětem politické debaty. Změna by skutečně znamenala posun v rovnováze mezi odborným výběrem a politickou odpovědností exekutivy za obsazování pozic."
     }
   ],

@@ -10,6 +10,41 @@
     "end_date": "2026-04-01",
     "sources": [
       "final/event_2796_2026-04-01_6-schuze-zemedelskeho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401130003.mp4",
+        "from_sec": 432
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401131003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401132003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401133003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401134003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401135003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401140003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/A108/2026/04/01/_20260401141004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +110,7 @@
       "speaker": "Martin Šebestian",
       "affiliation": "Ministerstvo zemědělství",
       "timestamp": "4/00:47",
-      "screenshot_path": "summaries/screenshots/event_2796_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2796_highlight_00.jpg",
       "context": "Nelze nezávisle ověřit. Jde o subjektivní hodnocení shody mezi předloženým návrhem a předchozími politickými dohodami, které nejsou veřejně dokumentovány v rámci legislativního procesu."
     },
     {
@@ -84,7 +119,7 @@
       "speaker": "Petr Bendl",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "4/08:00",
-      "screenshot_path": "summaries/screenshots/event_2796_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2796_highlight_01.jpg",
       "context": "Klasifikace ohradníků jako stavby či nestavby je předmětem výkladové praxe stavebních úřadů podle zákona č. 183/2006 Sb. (stavební zákon). Návrh na legislativní ukotvení „nestavby“ u mobilních ohradníků je politickým požadavkem na změnu právní interpretace, nikoliv stávající zákonný stav."
     },
     {
@@ -93,7 +128,7 @@
       "speaker": "Hana Landová",
       "affiliation": "Vládní zmocněnkyně",
       "timestamp": "6/06:00",
-      "screenshot_path": "summaries/screenshots/event_2796_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2796_highlight_02.jpg",
       "context": "Nelze nezávisle ověřit. Efektivita zrychlení stavebního řízení v důsledku rušení duplicit je předmětem odborných analýz a bude prokazatelná až po určité době účinnosti novely stavebního zákona prostřednictvím dat o délce správních řízení."
     }
   ],
@@ -103,7 +138,7 @@
       "speaker": "David Pražák, Jan Kučera",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "7/02:15",
-      "screenshot_path": "summaries/screenshots/event_2796_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2796_controversy_00.jpg",
       "context": "Zákon č. 114/1992 Sb. je klíčovou normou pro ochranu přírody. Označení „přílepek“ odkazuje na legislativní techniku vkládání nesouvisejících změn do jiných zákonů, což je v rozporu s nálezy Ústavního soudu (např. Pl. ÚS 77/06), pokud změny věcně nesouvisejí s hlavním obsahem zákona."
     }
   ],

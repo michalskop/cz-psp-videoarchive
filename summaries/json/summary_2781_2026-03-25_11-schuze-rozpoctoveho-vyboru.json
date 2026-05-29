@@ -10,6 +10,33 @@
     "end_date": "2026-03-25T09:02",
     "sources": [
       "final/event_2781_2026-03-25_11-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/03/25/_20260325081004.mp4",
+        "from_sec": 441
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/03/25/_20260325082004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/03/25/_20260325083004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/03/25/_20260325084004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/03/25/_20260325085004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/03/25/_20260325090004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -71,7 +98,7 @@
       "speaker": "Miroslav Kala",
       "affiliation": "Nejvyšší kontrolní úřad",
       "timestamp": "4/01:36",
-      "screenshot_path": "summaries/screenshots/event_2781_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2781_highlight_00.jpg",
       "context": "Údaje o počtu zaměstnanců a rozpočtu NKÚ jsou ověřitelné prostřednictvím výročních zpráv úřadu a schválených zákonů o státním rozpočtu. NKÚ jako nezávislá instituce podléhá kontrole rozpočtového výboru Poslanecké sněmovny, kde jsou tyto úspory v rámci kapitoly 381 pravidelně reportovány."
     },
     {
@@ -80,7 +107,7 @@
       "speaker": "Věra Kovářová",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "5/06:56",
-      "screenshot_path": "summaries/screenshots/event_2781_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2781_highlight_01.jpg",
       "context": "Jde o subjektivní politické hodnocení a názor na personální politiku státu. Konkurenceschopnost platů ve státní správě je předmětem dlouhodobé debaty, přičemž srovnání s privátním sektorem se liší podle konkrétních profesních kategorií a regionů."
     },
     {
@@ -89,7 +116,7 @@
       "speaker": "Věra Kovářová",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "5/02:48",
-      "screenshot_path": "summaries/screenshots/event_2781_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2781_highlight_02.jpg",
       "context": "Objem nespotřebovaných výdajů (tzv. nároky z nespotřebovaných výdajů) je sledován Ministerstvem financí ČR v rámci státního závěrečného účtu. Částka 178 miliard korun odpovídá řádově objemům, které jsou v posledních letech v systému evidovány, nicméně přesná hodnota podléhá každoroční aktualizaci."
     }
   ],
@@ -99,7 +126,7 @@
       "speaker": "Miroslav Kala",
       "affiliation": "Nejvyšší kontrolní úřad",
       "timestamp": "4/02:04",
-      "screenshot_path": "summaries/screenshots/event_2781_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2781_controversy_00.jpg",
       "context": "Požadavky na snižování počtu zaměstnanců státní správy vycházejí z vládních úsporných balíčků a usnesení vlády o snižování počtu systemizovaných míst. Tvrzení o kontraproduktivnosti je názorem prezidenta NKÚ; dopad na kontrolní činnost je věcí odborné diskuse mezi NKÚ a Ministerstvem financí."
     }
   ],

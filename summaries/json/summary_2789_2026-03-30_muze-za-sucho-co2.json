@@ -10,6 +10,113 @@
     "end_date": "2026-03-30T19:23",
     "sources": [
       "final/event_2789_2026-03-30_muze-za-sucho-co2.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330151000.mp4",
+        "from_sec": 196
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330152003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330153003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330154003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330155003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330160002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330161001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330162001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330163001.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330164001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330165000.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330170003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330171003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330172003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330173003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330174003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330175003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330180002.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330181001.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330182001.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330183001.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330184001.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330185001.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330190001.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330191001.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/30/_20260330192001.mp4"
+      }
     ]
   },
   "transcription": {
@@ -73,7 +180,7 @@
       "speaker": "Milan Smutný",
       "affiliation": "Realistická energetika a ekologie",
       "timestamp": "21/03:22",
-      "screenshot_path": "summaries/screenshots/event_2789_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2789_highlight_00.jpg",
       "context": "Výrok je subjektivním politickým hodnocením a hodnotovým soudem, který nelze fakticky ověřit. Neexistují žádná data, která by potvrzovala, že environmentální politika je primárně nástrojem pro obohacení úzké skupiny osob."
     }
   ],
@@ -83,7 +190,7 @@
       "speaker": "Milan Smutný",
       "affiliation": "Realistická energetika a ekologie",
       "timestamp": "21/06:03",
-      "screenshot_path": "summaries/screenshots/event_2789_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2789_controversy_00.jpg",
       "context": "Státní energetická obchodní společnost (SEOS) byla v ČR diskutována jako nástroj pro zajištění energií pro státní instituce, nikoliv pro plošný prodej za výrobní náklady. Prodej elektřiny pod tržní cenou by byl v rozporu s pravidly EU o veřejné podpoře a vnitřním trhu s elektřinou (směrnice 2019/944)."
     }
   ],

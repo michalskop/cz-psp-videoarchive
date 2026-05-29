@@ -10,6 +10,57 @@
     "end_date": "2026-05-12",
     "sources": [
       "final/event_2891_2026-05-12_reforma-fiskalniho-ramce-eu-a-dopad-na-odvozovani-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512140001.mp4",
+        "from_sec": 357
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512141000.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512142000.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512143000.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512144008.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512145009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512150000.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512151000.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512152000.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512153000.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512154000.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/05/12/_20260512155009.mp4"
+      }
     ]
   },
   "transcription": {
@@ -65,7 +116,7 @@
       "speaker": "Doufala",
       "affiliation": "Ministerstvo financí",
       "timestamp": "9/04:47",
-      "screenshot_path": "summaries/screenshots/event_2891_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2891_highlight_01.jpg",
       "context": "Nelze nezávisle ověřit bez přístupu k interním pracovním verzím rozpočtových rámců Ministerstva financí. Rozdíl 40 miliard korun v predikcích mezi dubnem a srpnem odpovídá běžné volatilitě při aktualizaci makroekonomické predikce a přípravě návrhu státního rozpočtu."
     },
     {
@@ -74,7 +125,7 @@
       "speaker": "Doufala",
       "affiliation": "Ministerstvo financí",
       "timestamp": "4/00:40",
-      "screenshot_path": "summaries/screenshots/event_2891_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2891_highlight_02.jpg",
       "context": "Tvrzení odpovídá principům tzv. výdajových rámců, které jsou součástí evropských fiskálních pravidel (Pakt o stabilitě a růstu). Cílem je omezit růst výdajů tak, aby veřejné finance zůstaly dlouhodobě udržitelné v souladu s metodikou EU."
     }
   ],
@@ -84,7 +135,7 @@
       "speaker": "neidentifikovaný řečník",
       "affiliation": null,
       "timestamp": "7/04:10",
-      "screenshot_path": "summaries/screenshots/event_2891_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2891_controversy_00.jpg",
       "context": "Jde o legitimní politickou interpretaci. Evropská komise v rámci procesu tzv. evropského semestru skutečně posuzuje národní plány a reformy; zda jsou fiskální cíle 'ohýbány', je předmětem odborné debaty mezi vládou a Národní rozpočtovou radou, která pravidelně hodnotí plnění pravidel rozpočtové odpovědnosti."
     }
   ],

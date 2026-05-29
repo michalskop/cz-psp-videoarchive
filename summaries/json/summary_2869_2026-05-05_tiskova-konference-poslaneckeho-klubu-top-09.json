@@ -10,6 +10,12 @@
     "end_date": "2026-05-05T11:40",
     "sources": [
       "final/event_2869_2026-05-05_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5262_video-psp-202655-1119-23-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -74,7 +80,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/00:31",
-      "screenshot_path": "summaries/screenshots/event_2869_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2869_highlight_00.jpg",
       "context": "Tvrzení o využívání obecního bytu se týká konkrétní osoby a její minulosti. Ověření vyžaduje nahlédnutí do nájemních smluv a cenových map v dané lokalitě, což jsou neveřejné dokumenty, pokud nejsou zveřejněny v rámci majetkových přiznání či investigativních reportáží. Nelze nezávisle ověřit bez přístupu k primárním dokumentům."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
       "timestamp": "1/06:02",
-      "screenshot_path": "summaries/screenshots/event_2869_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2869_highlight_01.jpg",
       "context": "Návrh účinnosti zákona je legitimním legislativním nástrojem. Zvolené datum 1. července 2029 je politickým rozhodnutím, nikoliv faktickým faktem; standardní legislativní proces v ČR obvykle počítá s účinností od 1. ledna nebo 1. července následujícího roku po schválení."
     },
     {
@@ -92,7 +98,7 @@
       "speaker": "Zdeňka Blišťanová",
       "affiliation": "TOP 09",
       "timestamp": "1/12:01",
-      "screenshot_path": "summaries/screenshots/event_2869_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2869_highlight_02.jpg",
       "context": "Toto je hodnotový a politický výrok o ideálním fungování legislativního procesu. Nejedná se o faktické tvrzení, které by bylo možné objektivně verifikovat, ale o vyjádření politického postoje ke kvalitě zákonodárné práce."
     }
   ],
@@ -102,7 +108,7 @@
       "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
       "timestamp": "1/07:03",
-      "screenshot_path": "summaries/screenshots/event_2869_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2869_controversy_00.jpg",
       "context": "Výrok je interpretací verbálního projevu ministra. Zda ministr skutečně použil termín „méněcenný“ a v jakém kontextu, lze ověřit ze stenografických záznamů jednání Poslanecké sněmovny nebo audiovizuálního archivu. Interpretace tohoto výroku jako „dehumanizace“ je politickým hodnocením řečníka."
     }
   ],

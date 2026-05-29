@@ -10,6 +10,12 @@
     "end_date": "2026-05-05T13:15",
     "sources": [
       "final/event_2873_2026-05-05_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5266_video-psp-202655-130-16-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -71,7 +77,7 @@
       "speaker": "Věra Kovářová",
       "affiliation": "STAN",
       "timestamp": "1/04:27",
-      "screenshot_path": "summaries/screenshots/event_2873_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2873_highlight_00.jpg",
       "context": "Státní dluh ČR je veřejně dostupný údaj spravovaný MF ČR. Tvrzení o zadlužování budoucích generací je interpretací politiky deficitního financování, která je v ČR dlouhodobě praktikována napříč vládami; dopad na budoucí generace závisí na efektivitě vynaložených prostředků (investice vs. mandatorní výdaje)."
     },
     {
@@ -80,7 +86,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/05:51",
-      "screenshot_path": "summaries/screenshots/event_2873_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2873_highlight_01.jpg",
       "context": "Návrh na změnu financování ČT a ČRo (tzv. mediální novela) je předmětem politické debaty. Tvrzení o „zestátnění“ je politickou interpretací opozice; vládní koalice argumentuje nutností valorizace poplatků v reakci na inflaci a nezbytností udržitelnosti veřejnoprávních médií."
     },
     {
@@ -89,7 +95,7 @@
       "speaker": "Barbora Urbanová",
       "affiliation": "STAN",
       "timestamp": "1/09:56",
-      "screenshot_path": "summaries/screenshots/event_2873_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2873_highlight_02.jpg",
       "context": "Rozdělení funkcí v Poslanecké sněmovně (např. předsedové výborů) se řídí dohodou mezi poslaneckými kluby, nikoliv striktním zákonným poměrným systémem. Poměrné zastoupení je politickou tradicí, nikoliv právní povinností zakotvenou v jednacím řádu."
     }
   ],
@@ -99,7 +105,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/02:01",
-      "screenshot_path": "summaries/screenshots/event_2873_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2873_controversy_00.jpg",
       "context": "Zavedení „únikových doložek“ pro specifické výdaje (např. obrana 2 % HDP) je legislativní návrh, který by vyžadoval změnu zákona o rozpočtové odpovědnosti. Kritika netransparentnosti vychází z obavy, že vyjmutí výdajů z deficitu oslabí kontrolní mechanismy státního rozpočtu."
     },
     {
@@ -107,7 +113,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/06:02",
-      "screenshot_path": "summaries/screenshots/event_2873_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2873_controversy_01.jpg",
       "context": "Návrh na zvýšení koncesionářských poplatků a rozšíření okruhu plátců je vládním záměrem. Obvinění ze „zestátnění“ je politickým názorem; nezávislost médií je právně chráněna zákony o ČT a ČRo, jejichž změna by vyžadovala legislativní proces v Parlamentu ČR."
     }
   ],

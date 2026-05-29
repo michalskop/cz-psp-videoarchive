@@ -10,6 +10,81 @@
     "end_date": "2026-03-30",
     "sources": [
       "final/event_2787_2026-03-30_paliativni-pece-a-otazky-rozhodovani-na-konci-zivo.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330092003.mp4",
+        "from_sec": 547
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330093003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330094003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330095003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330100003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330101003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330102003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330103003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330104003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330105003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330110003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330111003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330112003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330113003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330114003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330115003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330120004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/30/_20260330121004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -111,7 +186,7 @@
       "speaker": "Ladislav Dušek",
       "affiliation": "ÚZIS",
       "timestamp": "3/00:01",
-      "screenshot_path": "summaries/screenshots/event_2787_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2787_highlight_00.jpg",
       "context": "Demografické projekce ČSÚ potvrzují trend stárnutí populace. Podle aktuálních scénářů se počet osob ve věku 80+ skutečně výrazně zvýší, přičemž hranici zdvojnásobení oproti současnému stavu (cca 450 tisíc) by populace v tomto věku měla překročit v horizontu let 2035–2040."
     },
     {
@@ -128,7 +203,7 @@
       "speaker": "Kateřina Rusinová",
       "affiliation": "VFN",
       "timestamp": "8/06:18",
-      "screenshot_path": "summaries/screenshots/event_2787_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2787_highlight_02.jpg",
       "context": "Údaj vychází z interních auditů kvality péče ve VFN, které se zaměřují na standardy paliativní péče. Jde o specifické interní data nemocnice, která reflektují míru implementace komplexní paliativní péče v klinické praxi, nikoliv o celostátní statistiku."
     }
   ],
@@ -138,7 +213,7 @@
       "speaker": "Ladislav Dušek",
       "affiliation": "ÚZIS",
       "timestamp": "15/01:00",
-      "screenshot_path": "summaries/screenshots/event_2787_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2787_controversy_00.jpg",
       "context": "Prof. Dušek dlouhodobě upozorňuje na neudržitelnost modelu „švédského stolu“ (neomezený přístup k péči bez spoluúčasti) v kontextu stárnoucí populace. Jde o odborný názor podložený daty ÚZIS o nákladech na zdravotní péči u seniorů, nikoliv o oficiální vládní návrh reformy."
     }
   ],

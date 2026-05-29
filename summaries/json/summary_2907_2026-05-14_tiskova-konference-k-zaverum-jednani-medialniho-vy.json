@@ -10,6 +10,12 @@
     "end_date": "2026-05-14T13:18",
     "sources": [
       "final/event_2907_2026-05-14_tiskova-konference-k-zaverum-jednani-medialniho-vy.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5313_video-psp-2026514-131-52-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -85,7 +91,7 @@
       "speaker": "Jakob",
       "affiliation": "opozice",
       "timestamp": "1/01:55",
-      "screenshot_path": "summaries/screenshots/event_2907_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2907_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení kvality legislativního textu, nikoliv o faktické tvrzení. Kvalita návrhu je předmětem politické debaty a legislativního procesu v rámci výborů Poslanecké sněmovny."
     },
     {
@@ -94,7 +100,7 @@
       "speaker": "František Talíř",
       "affiliation": "opozice",
       "timestamp": "1/15:29",
-      "screenshot_path": "summaries/screenshots/event_2907_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2907_highlight_01.jpg",
       "context": "Jedná se o řečnickou figuru vyjadřující politický nesouhlas s návrhem zákona. Nejedná se o faktické tvrzení, které by bylo možné ověřit."
     },
     {
@@ -103,7 +109,7 @@
       "speaker": "František Talíř",
       "affiliation": "opozice",
       "timestamp": "1/15:46",
-      "screenshot_path": "summaries/screenshots/event_2907_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2907_highlight_02.jpg",
       "context": "Číslo 1,2 milionu posluchačů regionálního vysílání odpovídá datům z výzkumů poslechovosti (např. Radioprojekt). Zda návrh zákona obsahuje dostatečnou zákonnou oporu pro regionální vysílání, je předmětem právní interpretace a diskuse v rámci legislativního procesu."
     }
   ],
@@ -113,7 +119,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "opozice",
       "timestamp": "1/12:03",
-      "screenshot_path": "summaries/screenshots/event_2907_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2907_controversy_00.jpg",
       "context": "Tvrzení o autorství návrhu je spekulativní. Oficiálním předkladatelem zákona je vládní instituce, která nese za text plnou odpovědnost bez ohledu na to, kdo se podílel na jeho technické přípravě."
     },
     {
@@ -121,7 +127,7 @@
       "speaker": "Jakob",
       "affiliation": "opozice",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2907_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2907_controversy_01.jpg",
       "context": "Označení „legislativní zmetek“ je hodnotící soud opozičního poslance. Odborná kvalita návrhu zákona je standardně posuzována Legislativní radou vlády a následně v rámci připomínkového řízení a výborů Poslanecké sněmovny."
     }
   ],

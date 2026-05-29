@@ -10,6 +10,17 @@
     "end_date": "2026-04-28T13:41",
     "sources": [
       "final/event_2854_2026-04-28_tiskova-konference-piratu-k-zahajeni-senatni-kampa.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/28/_20260428133003.mp4",
+        "from_sec": 37
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/28/_20260428134003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +83,7 @@
       "speaker": "Adéla Šípová",
       "affiliation": "Senátorka",
       "timestamp": "1/07:42",
-      "screenshot_path": "summaries/screenshots/event_2854_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení situace v Maďarsku a na Slovensku. Vývoj v těchto zemích je předmětem kritiky evropských institucí (např. Evropského parlamentu) kvůli obavám o stav právního státu a nezávislost institucí, což je kontext, na který řečnice pravděpodobně odkazuje."
     },
     {
@@ -81,7 +92,7 @@
       "speaker": "Adéla Šípová",
       "affiliation": "Senátorka",
       "timestamp": "1/08:29",
-      "screenshot_path": "summaries/screenshots/event_2854_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_highlight_01.jpg",
       "context": "Princip „jeden exekutor v jednom kraji“ (tzv. teritorialita) je dlouhodobým tématem odborných diskusí v ČR. Aktuálně platí systém, kdy si věřitel může vybrat libovolného exekutora z celé ČR; návrhy na změnu tohoto systému jsou předmětem politického sporu mezi zastánci ochrany dlužníků a exekutorskou komorou."
     },
     {
@@ -90,7 +101,7 @@
       "speaker": "Adéla Šípová",
       "affiliation": "Senátorka",
       "timestamp": "1/08:50",
-      "screenshot_path": "summaries/screenshots/event_2854_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_highlight_02.jpg",
       "context": "Jedná se o politický proklamativní výrok, který nelze fakticky ověřit jako pravdivý či nepravdivý. Demografická data ČSÚ však potvrzují trend odchodu mladých lidí z některých regionů kvůli nedostupnosti bydlení či trhu práce, což dává tvrzení reálný socioekonomický základ."
     }
   ],
@@ -100,7 +111,7 @@
       "speaker": "Adéla Šípová",
       "affiliation": "Senátorka",
       "timestamp": "1/07:30",
-      "screenshot_path": "summaries/screenshots/event_2854_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_controversy_00.jpg",
       "context": "Tvrzení je politickou interpretací vládnutí v Maďarsku a na Slovensku. Kritika se opírá o zprávy o omezování nezávislosti médií a justice v těchto zemích, nicméně jde o hodnotový soud, nikoliv o exaktně měřitelný fakt."
     }
   ],

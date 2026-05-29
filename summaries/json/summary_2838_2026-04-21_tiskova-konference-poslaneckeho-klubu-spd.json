@@ -10,6 +10,21 @@
     "end_date": "2026-04-21T12:20",
     "sources": [
       "final/event_2838_2026-04-21_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421120003.mp4",
+        "from_sec": 24
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421121003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421122003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -80,7 +95,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/00:34",
-      "screenshot_path": "summaries/screenshots/event_2838_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2838_highlight_00.jpg",
       "context": "Ursula von der Leyen skutečně v rámci diskusí o reformě EU (např. v rámci Konference o budoucnosti Evropy) podpořila přechod na hlasování kvalifikovanou většinou v oblastech zahraniční a bezpečnostní politiky. Zrušení práva veta však vyžaduje jednomyslný souhlas všech členských států EU, což je v současnosti politicky vysoce nepravděpodobné."
     },
     {
@@ -89,7 +104,7 @@
       "speaker": "Lucie Šafránková",
       "affiliation": "SPD",
       "timestamp": "1/07:44",
-      "screenshot_path": "summaries/screenshots/event_2838_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2838_highlight_01.jpg",
       "context": "V platné české legislativě (zákon č. 246/1992 Sb., na ochranu zvířat proti týrání) obecná povinnost obcí kastrovat toulavé kočky neexistuje. Návrhy na plošnou kastraci jsou předmětem odborných diskusí, avšak aktuálně jde o dobrovolné aktivity obcí nebo spolků, nikoliv o zákonnou povinnost obcí."
     },
     {

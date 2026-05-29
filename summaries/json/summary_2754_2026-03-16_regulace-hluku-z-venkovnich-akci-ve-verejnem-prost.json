@@ -10,6 +10,133 @@
     "end_date": "2026-03-16T15:01",
     "sources": [
       "final/event_2754_2026-03-16_regulace-hluku-z-venkovnich-akci-ve-verejnem-prost.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316100001.mp4",
+        "from_sec": 384
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316101001.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316102002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316103002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316104003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316105000.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316110003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316111003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316112003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316113000.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316114000.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316115000.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316120000.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316121000.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316122000.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316123003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316124000.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316125000.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316130000.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316131001.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316132004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316133001.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316134001.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316135001.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316140000.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316141003.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316142003.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316143003.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316144003.mp4"
+      },
+      {
+        "part": 30,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316145003.mp4"
+      },
+      {
+        "part": 31,
+        "url": "https://videoarchiv.psp.cz/video/107/2026/03/16/_20260316150003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -90,7 +217,7 @@
       "speaker": "Miloš Závora",
       "affiliation": "Česko bez hluku",
       "timestamp": "5/09:38",
-      "screenshot_path": "summaries/screenshots/event_2754_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_highlight_00.jpg",
       "context": "Tvrzení o „největších festivalech na světě“ je subjektivní a nelze jej objektivně ověřit. V ČR neexistuje specifický zákon o hluku z festivalů, problematika je řešena zákonem č. 258/2000 Sb., o ochraně veřejného zdraví, a nařízením vlády č. 272/2011 Sb., které stanovuje hygienické limity hluku v chráněném venkovním prostoru."
     },
     {
@@ -99,7 +226,7 @@
       "speaker": "Petr Malý",
       "affiliation": "advokát",
       "timestamp": "14/02:03",
-      "screenshot_path": "summaries/screenshots/event_2754_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_highlight_01.jpg",
       "context": "Z hlediska akustiky a legislativy (zákon č. 258/2000 Sb.) se hluk z dopravy a hluk z produkce liší svým charakterem, frekvenčním spektrem i časovým průběhem. Právní předpisy však pro oba zdroje stanovují limity v decibelech (dB) pro chráněný venkovní prostor, přičemž pro nárazové akce existují specifické výjimky (tzv. časově omezené produkce)."
     },
     {
@@ -108,7 +235,7 @@
       "speaker": "Dana Potužníková",
       "affiliation": "Národní referenční laboratoř",
       "timestamp": "19/05:32",
-      "screenshot_path": "summaries/screenshots/event_2754_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_highlight_02.jpg",
       "context": "Obce mají v rámci samostatné působnosti možnost regulovat hluk prostřednictvím obecně závazných vyhlášek (např. o nočním klidu dle zákona o obcích č. 128/2000 Sb.). Debata o posílení nástrojů obcí je legitimním politickým tématem, které se týká vyvážení pravomocí mezi státní správou (hygienické stanice) a samosprávou."
     }
   ],
@@ -118,7 +245,7 @@
       "speaker": "Dana Potužníková",
       "affiliation": "Národní referenční laboratoř",
       "timestamp": "16/06:03",
-      "screenshot_path": "summaries/screenshots/event_2754_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_controversy_00.jpg",
       "context": "Hygienické limity jsou skutečně výsledkem konsenzu mezi vědeckými poznatky o vlivu hluku na zdraví a ekonomickými či společenskými možnostmi společnosti. Tento proces je standardní součástí tvorby legislativy, kde se zohledňuje proveditelnost a společenský přínos regulace."
     },
     {
@@ -126,7 +253,7 @@
       "speaker": "Jitka Sajtlová",
       "affiliation": "Senát PČR",
       "timestamp": "3/08:05",
-      "screenshot_path": "summaries/screenshots/event_2754_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_controversy_01.jpg",
       "context": "Stavební zákon (č. 283/2021 Sb.) a související předpisy obsahují mechanismy, které umožňují za určitých podmínek povolit stavby i při překročení hlukových limitů, pokud je to odůvodněno veřejným zájmem či ekonomickou nepřiměřeností opatření. Kritika místopředsedkyně Senátu reflektuje dlouhodobý střet mezi ochranou veřejného zdraví a zájmy stavebního rozvoje."
     }
   ],

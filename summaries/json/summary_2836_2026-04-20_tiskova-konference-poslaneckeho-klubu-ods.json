@@ -10,6 +10,12 @@
     "end_date": "2026-04-20T16:00",
     "sources": [
       "final/event_2836_2026-04-20_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5220_tiskovka_20260420-1535-49-atriuum.mp4"
+      }
     ]
   },
   "transcription": {
@@ -70,7 +76,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/03:03",
-      "screenshot_path": "summaries/screenshots/event_2836_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_00.jpg",
       "context": "Data ČNB a agentury CzechInvest dlouhodobě potvrzují, že objem tchajwanských investic v ČR (např. Foxconn, Wistron) výrazně převyšuje přímé investice z pevninské Číny. Přesná čísla se mohou lišit podle metodiky započítávání (např. přes holdingové společnosti v jiných zemích), ale trend je statisticky podložený."
     },
     {
@@ -79,7 +85,7 @@
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/14:12",
-      "screenshot_path": "summaries/screenshots/event_2836_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_01.jpg",
       "context": "Toto tvrzení je politickým názorem na vládní reorganizaci. Zda dojde k úsporám, či nikoliv, nelze objektivně ověřit bez konkrétní analýzy dopadů (RIA), která by vyčíslila náklady na přesun agendy a efektivitu nového modelu."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Renata Zajíčková",
       "affiliation": "ODS",
       "timestamp": "1/20:23",
-      "screenshot_path": "summaries/screenshots/event_2836_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_02.jpg",
       "context": "Tvrzení o absenci konzultací je subjektivním hodnocením procesu komunikace mezi ministerstvem a samosprávami. Faktickou stránku nelze nezávisle ověřit bez doložení záznamů o proběhlých či neproběhlých jednáních mezi MŠMT a dotčenými starosty."
     }
   ],
@@ -98,7 +104,7 @@
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/12:26",
-      "screenshot_path": "summaries/screenshots/event_2836_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_controversy_00.jpg",
       "context": "Jde o kritiku organizační změny v rámci státní správy. Argumenty o ztrátě know-how a poškození průmyslu jsou předmětem odborné debaty mezi resorty MO a MPO; dopady na funkčnost systému jsou v tuto chvíli hypotetické a nelze je nezávisle ověřit."
     },
     {
@@ -106,7 +112,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/06:00",
-      "screenshot_path": "summaries/screenshots/event_2836_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_controversy_01.jpg",
       "context": "Nelze nezávisle ověřit. Pokud nebylo zahájeno trestní stíhání nebo vydáno pravomocné rozhodnutí orgánů činných v trestním řízení, jde o politické obvinění, které není podloženo veřejně dostupnými důkazy."
     }
   ],

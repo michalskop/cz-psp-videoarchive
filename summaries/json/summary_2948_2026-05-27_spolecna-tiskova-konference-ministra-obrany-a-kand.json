@@ -10,6 +10,12 @@
     "end_date": "2026-05-27T09:26",
     "sources": [
       "final/event_2948_2026-05-27_spolecna-tiskova-konference-ministra-obrany-a-kand.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5349_video-psp-2026527-858-58-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -88,7 +94,7 @@
       "speaker": "Generál Hlaváč",
       "affiliation": "Armáda České republiky",
       "timestamp": "1/06:40",
-      "screenshot_path": "summaries/screenshots/event_2948_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2948_highlight_00.jpg",
       "context": "Závazek vybudovat těžkou brigádu (brigádní úkolové uskupení těžkého typu) je klíčovým cílem ČR v rámci NATO. Tento závazek je součástí Koncepce výstavby Armády ČR 2030 a je pravidelně potvrzován v dokumentech Ministerstva obrany ČR."
     },
     {
@@ -97,7 +103,7 @@
       "speaker": "Generál Hlaváč",
       "affiliation": "Armáda České republiky",
       "timestamp": "1/17:28",
-      "screenshot_path": "summaries/screenshots/event_2948_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2948_highlight_01.jpg",
       "context": "Cíl dosáhnout počtu 30 000 až 32 000 vojáků z povolání do roku 2030 je oficiálně zakotven v Koncepci výstavby Armády České republiky (KVAČR 2030). Aktuální počty vojáků se však dlouhodobě pohybují pod touto hranicí a nábor je jednou z hlavních priorit resortu."
     },
     {
@@ -106,7 +112,7 @@
       "speaker": "Generál Hlaváč",
       "affiliation": "Armáda České republiky",
       "timestamp": "1/18:13",
-      "screenshot_path": "summaries/screenshots/event_2948_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2948_highlight_02.jpg",
       "context": "Zavedení povinné základní vojenské služby není součástí vládního programu ani aktuálních legislativních plánů Ministerstva obrany. Armáda ČR se v současnosti plně orientuje na profesionální model a systém aktivních záloh."
     }
   ],
@@ -116,7 +122,7 @@
       "speaker": "Generál Hlaváč",
       "affiliation": "Armáda České republiky",
       "timestamp": "1/22:04",
-      "screenshot_path": "summaries/screenshots/event_2948_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2948_controversy_00.jpg",
       "context": "Projekt pořízení samohybných děl CAESAR je součástí modernizace dělostřelectva. Zpoždění v akvizičních procesech a riziko navýšení ceny v důsledku inflace či dodatečných technických požadavků jsou u velkých zbrojních zakázek běžným předmětem auditů Nejvyššího kontrolního úřadu (NKÚ) a parlamentní kontroly."
     }
   ],

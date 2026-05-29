@@ -10,6 +10,12 @@
     "end_date": "2026-04-02",
     "sources": [
       "final/event_2806_2026-04-02_tiskova-konference-poslaneckeho-klubu-ods-po-mimor.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5177_video-psp-202642-1333-42-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -63,7 +69,7 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/04:16",
-      "screenshot_path": "summaries/screenshots/event_2806_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2806_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení (tzv. politickou rétoriku), které nelze fakticky ověřit jako pravdivé či nepravdivé. Hodnocení „nečinnosti“ vlády je věcí politického názoru opozice."
     },
     {
@@ -72,7 +78,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:58",
-      "screenshot_path": "summaries/screenshots/event_2806_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2806_highlight_01.jpg",
       "context": "Snížení spotřební daně je legitimní legislativní nástroj, který v minulosti (např. v roce 2022) skutečně využila vláda Petra Fialy u nafty a benzinu. Zda bylo usnesení stínové vlády skutečně odesláno, je ověřitelná administrativní skutečnost."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/04:24",
-      "screenshot_path": "summaries/screenshots/event_2806_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2806_highlight_02.jpg",
       "context": "Ekonomická teorie (např. koncept cenových stropů) potvrzuje, že umělá regulace cen či marží může vést k převisu poptávky nad nabídkou a následnému nedostatku zboží. Historické příklady (např. ropné šoky v 70. letech v USA) tyto negativní dopady potvrzují."
     }
   ],
@@ -91,7 +97,7 @@
       "speaker": "Jan Skopeček, Vojtěch Munzar",
       "affiliation": "ODS",
       "timestamp": "1/04:04",
-      "screenshot_path": "summaries/screenshots/event_2806_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2806_controversy_00.jpg",
       "context": "Argumentace ODS vychází z liberální ekonomické teorie, která varuje před narušením tržního mechanismu. Riziko, že plošný strop marží poškodí menší prodejce s nízkými maržemi a povede k výpadkům zásobování, je standardním ekonomickým argumentem proti cenové regulaci."
     }
   ],

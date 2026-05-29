@@ -10,6 +10,12 @@
     "end_date": "2026-05-21T10:21",
     "sources": [
       "final/event_2926_2026-05-21_tiskova-konference-ods-k-demontazi-expertnich-odbo.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5325_video-psp-2026521-103-5-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -68,7 +74,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/00:22",
-      "screenshot_path": "summaries/screenshots/event_2926_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2926_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, kterou nelze fakticky ověřit jako pravdivou či nepravdivou. Pojem „destrukce státu“ není definovatelný právní ani ekonomický termín."
     },
     {
@@ -77,7 +83,7 @@
       "speaker": "Štěpán Slovák",
       "affiliation": "ODS",
       "timestamp": "1/07:19",
-      "screenshot_path": "summaries/screenshots/event_2926_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2926_highlight_01.jpg",
       "context": "Tvrzení je zavádějící. K přesunům kompetencí mezi ministerstvy či reorganizacím státní správy dochází v různých evropských zemích běžně v závislosti na vládních koalicích a programovém prohlášení, nejde o unikátní slovenský fenomén."
     },
     {
@@ -86,7 +92,7 @@
       "speaker": "Eva Decroix",
       "affiliation": "ODS",
       "timestamp": "1/06:29",
-      "screenshot_path": "summaries/screenshots/event_2926_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2926_highlight_02.jpg",
       "context": "Pozice zmocněnkyně pro lidská práva je poradním orgánem vlády, nikoliv samostatným rezortem s vlastní legislativní pravomocí ke zrušení. Zda se zmocněnkyně vyjádřila či nikoliv, je otázkou její mediální prezentace, nikoliv faktického zrušení úřadu."
     }
   ],
@@ -96,7 +102,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/14:02",
-      "screenshot_path": "summaries/screenshots/event_2926_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2926_controversy_00.jpg",
       "context": "Volba členů Rady ČT probíhá dle zákona č. 483/1991 Sb., o České televizi. Blokace volby je legitimním politickým nástrojem opozice, avšak obvinění z korupčního jednání kandidátů Matochy a Bradáče nebyla v době výroku potvrzena orgány činnými v trestním řízení."
     }
   ],

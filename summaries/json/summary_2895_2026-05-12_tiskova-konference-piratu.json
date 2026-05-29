@@ -10,6 +10,12 @@
     "end_date": "2026-05-12T12:39",
     "sources": [
       "final/event_2895_2026-05-12_tiskova-konference-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5289_video-psp-2026512-1220-5-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -62,7 +68,7 @@
       "speaker": "Martin Šmída",
       "affiliation": "Piráti",
       "timestamp": "1/01:54",
-      "screenshot_path": "summaries/screenshots/event_2895_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2895_highlight_00.jpg",
       "context": "Tvrzení vychází z odhadů dopadů konkrétního legislativního návrhu na nakládání se státní půdou. Přesná částka 35 miliard je předmětem politického sporu a závisí na metodice ocenění pozemků, nelze ji tedy považovat za oficiálně potvrzený fakt, ale za odhad opozice."
     },
     {
@@ -71,7 +77,7 @@
       "speaker": "Jaroslav Šebek",
       "affiliation": "Asociace soukromého zemědělství",
       "timestamp": "1/06:58",
-      "screenshot_path": "summaries/screenshots/event_2895_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2895_highlight_01.jpg",
       "context": "Jde o vyjádření politického a etického postoje k vlastnickému právu, nikoliv o faktické tvrzení. Právní rámec nabývání půdy v ČR upravuje zejména občanský zákoník a zákon o Státním pozemkovém úřadu."
     },
     {
@@ -80,7 +86,7 @@
       "speaker": "Kateřina Stojanová",
       "affiliation": "Piráti",
       "timestamp": "1/11:46",
-      "screenshot_path": "summaries/screenshots/event_2895_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2895_highlight_02.jpg",
       "context": "Jedná se o hodnotící politický soud a rétorickou figuru. Nelze nezávisle ověřit, neboť jde o subjektivní interpretaci politického směřování státu."
     }
   ],
@@ -90,7 +96,7 @@
       "speaker": "Kateřina Stojanová",
       "affiliation": "Piráti",
       "timestamp": "1/18:01",
-      "screenshot_path": "summaries/screenshots/event_2895_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2895_controversy_00.jpg",
       "context": "Toto obvinění je subjektivním politickým hodnocením diskurzu v Poslanecké sněmovně. Neexistuje žádná oficiální statistika či databáze, která by systematicky klasifikovala výroky poslanců jako „dehumanizující“, proto nelze tvrzení o tom, že většina zaznívá z řad koalice, nezávisle ověřit."
     }
   ],

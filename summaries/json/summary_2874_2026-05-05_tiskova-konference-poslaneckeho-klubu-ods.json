@@ -10,6 +10,12 @@
     "end_date": "2026-05-05T13:40",
     "sources": [
       "final/event_2874_2026-05-05_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5267_video-psp-202655-1320-22-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -69,7 +75,7 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/06:11",
-      "screenshot_path": "summaries/screenshots/event_2874_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2874_highlight_00.jpg",
       "context": "Tvrzení je politickou interpretací rozpočtových priorit vlády. Zda konkrétní legislativní změny vedou k vyšším výdajům, závisí na schváleném státním rozpočtu a fiskálních pravidlech (např. zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti)."
     },
     {
@@ -78,7 +84,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:15",
-      "screenshot_path": "summaries/screenshots/event_2874_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2874_highlight_01.jpg",
       "context": "Současná legislativa (zákon č. 483/1991 Sb. o ČT a zákon č. 484/1991 Sb. o ČRo) vyžaduje pro schválení zákonů pouze souhlas Poslanecké sněmovny. Návrh na změnu vyžaduje ústavní většinu, neboť by šlo o zásadní změnu legislativního procesu."
     },
     {
@@ -87,7 +93,7 @@
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/18:03",
-      "screenshot_path": "summaries/screenshots/event_2874_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2874_highlight_02.jpg",
       "context": "Výrok je subjektivním hodnocením rétoriky opozičního lídra. Existence kritických vyjádření Andreje Babiše na adresu Ministerstva obrany je veřejně dohledatelná v médiích a na sociálních sítích, jejich klasifikace jako „nenávistné hejty“ je politickým názorem."
     }
   ],
@@ -97,7 +103,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:15",
-      "screenshot_path": "summaries/screenshots/event_2874_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2874_controversy_00.jpg",
       "context": "Návrh představuje zásadní změnu ústavního pořádku, neboť zákony týkající se veřejnoprávních médií jsou nyní běžnými zákony. Přenesení rozhodování na obě komory by fakticky posílilo vliv Senátu na obsazování a fungování mediálních rad."
     },
     {
@@ -105,7 +111,7 @@
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/18:03",
-      "screenshot_path": "summaries/screenshots/event_2874_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2874_controversy_01.jpg",
       "context": "Podání žaloby na ochranu osobnosti či podání trestního oznámení je legitimním právním nástrojem. Fakt, že k těmto krokům dochází v rámci politického střetu, je doložitelný z veřejných prohlášení ministryně Černochové."
     }
   ],

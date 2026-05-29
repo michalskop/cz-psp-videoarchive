@@ -10,6 +10,160 @@
     "end_date": "2026-04-20T16:00",
     "sources": [
       "final/event_2835_2026-04-20_narodni-pametove-instituce-v-zemich-v4.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420091001.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420092001.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420093001.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420094001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420095001.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420100001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420101001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420102001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420103001.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420104001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420105001.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420110001.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420111001.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420112001.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420113001.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420114001.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420115001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420120001.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420121001.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420122001.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420123001.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420124001.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420125001.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420130001.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420131001.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420132001.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420133001.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420134001.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420135001.mp4"
+      },
+      {
+        "part": 30,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420140001.mp4"
+      },
+      {
+        "part": 31,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420141001.mp4"
+      },
+      {
+        "part": 32,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420142001.mp4"
+      },
+      {
+        "part": 33,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420143001.mp4"
+      },
+      {
+        "part": 34,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420144001.mp4"
+      },
+      {
+        "part": 35,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420145001.mp4"
+      },
+      {
+        "part": 36,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420150001.mp4"
+      },
+      {
+        "part": 37,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420151001.mp4"
+      },
+      {
+        "part": 38,
+        "url": "https://videoarchiv.psp.cz/video2/E48ZAL/2026/04/20/_20260420152001.mp4"
+      }
     ]
   },
   "transcription": {
@@ -84,7 +238,7 @@
       "speaker": "Dalibor Sypták",
       "affiliation": "ÚDV",
       "timestamp": "34/04:16",
-      "screenshot_path": "summaries/screenshots/event_2835_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2835_highlight_00.jpg",
       "context": "Jde o filozofický a rétorický výrok, který nelze faktograficky ověřit, neboť se nejedná o tvrzení o objektivní realitě, ale o hodnotový soud."
     },
     {
@@ -93,7 +247,7 @@
       "speaker": "Petr Vrndek",
       "affiliation": "Archiv bezpečnostních složek",
       "timestamp": "32/04:11",
-      "screenshot_path": "summaries/screenshots/event_2835_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2835_highlight_01.jpg",
       "context": "Tvrzení o 'generačním skoku' je predikcí vývoje v oblasti archivnictví. Status nezávislosti Archivu bezpečnostních složek (ABS) je upraven zákonem č. 181/2007 Sb., o Ústavu pro studium totalitních režimů a Archivu bezpečnostních složek."
     }
   ],
@@ -103,7 +257,7 @@
       "speaker": "Pavel Žáček",
       "affiliation": "Poslanecká sněmovna ČR",
       "timestamp": "22/08:00",
-      "screenshot_path": "summaries/screenshots/event_2835_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2835_controversy_00.jpg",
       "context": "Rada vlády pro paměťovou agendu byla skutečně zrušena v roce 2022 v rámci úsporných opatření vlády. Otázka rozpočtových prostředků v řádech desítek milionů korun byla předmětem politické debaty, konkrétní alokace však podléhá schválenému státnímu rozpočtu a rozhodnutí Úřadu vlády."
     },
     {
@@ -111,7 +265,7 @@
       "speaker": "Mikuláš Kroupa",
       "affiliation": "Post Bellum",
       "timestamp": "24/06:04",
-      "screenshot_path": "summaries/screenshots/event_2835_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2835_controversy_01.jpg",
       "context": "Tvrzení se týká situace organizace Post Bellum na Slovensku. V roce 2024 čelila slovenská pobočka Post Bellum zvýšenému tlaku a kontrolám ze strany slovenských úřadů, což bylo médii i organizací interpretováno jako politicky motivovaný krok vůči neziskovému sektoru."
     }
   ],

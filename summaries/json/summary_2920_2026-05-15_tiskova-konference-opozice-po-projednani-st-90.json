@@ -10,6 +10,12 @@
     "end_date": "2026-05-15T13:43",
     "sources": [
       "final/event_2920_2026-05-15_tiskova-konference-opozice-po-projednani-st-90.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5318_video-psp-2026515-1323-30-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -78,7 +84,7 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/08:12",
-      "screenshot_path": "summaries/screenshots/event_2920_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2920_highlight_00.jpg",
       "context": "Tvrzení je fakticky správné. Podle údajů Ministerstva financí ČR činily náklady na obsluhu státního dluhu v roce 2020 přibližně 42 miliard Kč, zatímco pro rok 2024 jsou plánovány výdaje na obsluhu dluhu v řádu 100–120 miliard Kč v důsledku nárůstu zadlužení a vyšších úrokových sazeb."
     },
     {
@@ -87,7 +93,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/11:28",
-      "screenshot_path": "summaries/screenshots/event_2920_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2920_highlight_01.jpg",
       "context": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 241 miliard Kč. Tvrzení o deficitu nad 400 miliard korun je zavádějící, pokud není specifikováno, že jde o hypotetický scénář bez započtení vládních úspor či mimořádných příjmů."
     },
     {
@@ -96,7 +102,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/02:36",
-      "screenshot_path": "summaries/screenshots/event_2920_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2920_highlight_02.jpg",
       "context": "Soulad legislativních „přílepků“ s ústavou je předmětem právní interpretace. Ústavní soud v minulosti opakovaně kritizoval praxi pozměňovacích návrhů, které věcně nesouvisejí s projednávaným zákonem, nicméně konkrétní posouzení ústavnosti je v kompetenci Ústavního soudu, nikoliv zákonodárců."
     }
   ],
@@ -106,7 +112,7 @@
       "speaker": "Jan Jakob (TOP 09) a Vít Rakušan (STAN)",
       "affiliation": null,
       "timestamp": "1/12:01",
-      "screenshot_path": "summaries/screenshots/event_2920_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2920_controversy_00.jpg",
       "context": "Tvrzení o možnosti rozhodovat o 10 % rozpočtu bez souhlasu Sněmovny se pravděpodobně vztahuje k rozpočtovým opatřením vlády (tzv. přesuny v rámci kapitol). Rozsah těchto pravomocí je dán zákonem o rozpočtových pravidlech; otázka, zda tato praxe narušuje ústavní dělbu moci, je předmětem politického a právního sporu, nikoliv objektivně ověřitelný fakt."
     }
   ],

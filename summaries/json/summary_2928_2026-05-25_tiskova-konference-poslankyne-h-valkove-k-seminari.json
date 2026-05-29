@@ -10,6 +10,12 @@
     "end_date": "2026-05-25T09:51",
     "sources": [
       "final/event_2928_2026-05-25_tiskova-konference-poslankyne-h-valkove-k-seminari.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5328_video-psp-2026525-938-7-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -79,7 +85,7 @@
       "speaker": "Helena Válková",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/12:49",
-      "screenshot_path": "summaries/screenshots/event_2928_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2928_highlight_00.jpg",
       "context": "Tvrzení reflektuje sociologický a kriminologický konsenzus o vlivu socioekonomického prostředí na vývoj jedince. Ačkoliv kriminologie nepracuje s pojmem 'dědičnost kriminality', potvrzuje silnou korelaci mezi nepříznivými životními podmínkami v dětství a budoucí delikvencí."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Monika Šimůnková",
       "affiliation": "Český helsinský výbor",
       "timestamp": "1/10:28",
-      "screenshot_path": "summaries/screenshots/event_2928_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2928_highlight_01.jpg",
       "context": "Jde o kvalifikovaný odhad týkající se dětí rodičů ve výkonu trestu odnětí svobody. Vzhledem k absenci centrální evidence dětí vězněných osob v ČR (data nejsou systematicky sbírána Vězeňskou službou ČR ani jinými úřady) je přesný počet skutečně neověřitelný."
     },
     {
@@ -97,7 +103,7 @@
       "speaker": "Petra Zdražilová",
       "affiliation": "Ministerstvo spravedlnosti",
       "timestamp": "1/07:31",
-      "screenshot_path": "summaries/screenshots/event_2928_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2928_highlight_02.jpg",
       "context": "Tento výrok vyjadřuje etický a právní princip, který je v souladu s Úmluvou o právech dítěte (sdělení MZV č. 104/1991 Sb.). Dítě má právo na ochranu před diskriminací a negativními důsledky jednání svých rodičů."
     }
   ],
@@ -107,7 +113,7 @@
       "speaker": "Martin Beneš",
       "affiliation": "Dětský ombudsman",
       "timestamp": "1/06:03",
-      "screenshot_path": "summaries/screenshots/event_2928_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2928_controversy_00.jpg",
       "context": "Vláda ČR v rámci úsporných opatření a reorganizací opakovaně mění strukturu agendy lidských práv. Obavy z oslabení systémového řešení bezresortních témat (např. práva dětí) jsou častým tématem kritiky ze strany neziskového sektoru i odborných orgánů."
     }
   ],

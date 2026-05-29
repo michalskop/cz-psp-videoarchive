@@ -1,0 +1,150 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T18:32:15",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "event": {
+    "id": "2889",
+    "name": "Seminář na téma sdíleného ubytování",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-05-12",
+    "end_date": "2026-05-12T16:00",
+    "sources": [
+      "final/event_2889_2026-05-12_airbnb.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512143005.mp4",
+        "from_sec": 305
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512144005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512145005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512150005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512151005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512152005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512153005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512154005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/12/_20260512155005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 9,
+    "parts_total": 9,
+    "source": "whisper",
+    "model": "large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na problematiku sdíleného ubytování a jeho regulaci.",
+    "main_points": [
+      "Barbora Rázgová: Představila téma a účel jednání.",
+      "Robert Králíček: Hovořil o bezpečnostních rizicích.",
+      "Stanislav Dvořák: Zdůraznil potřebu evidence a kontroly.",
+      "Eliška Klimentová: Informovala o připravované legislativě.",
+      "Petr Městecký: Apeloval na používání správných termínů.",
+      "Hanna Kordová-Marvanová: Hovořila o potřebě úpravy zákona.",
+      "Jakub Juračka: Představil stanovisko podnikatelů."
+    ],
+    "outcome": "Jednání dospělo k závěru, že je potřeba najít kompromis mezi regulací a svobodou podnikání.",
+    "notes": "Části přepisu mohou být nesrozumitelné nebo chybějící."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Barbora Rázgová",
+        "person_id": "psp:person:7038",
+        "affiliation": "poslankyně"
+      },
+      {
+        "name": "Robert Králíček",
+        "person_id": "psp:person:6509",
+        "affiliation": "poslanec"
+      },
+      {
+        "name": "Stanislav Dvořák",
+        "person_id": "psp:person:185",
+        "affiliation": "zmocněnec pro regionální politiku a cestovní ruch"
+      },
+      {
+        "name": "Eliška Klimentová",
+        "person_id": null,
+        "affiliation": "odbor bydlení a legislativy"
+      },
+      {
+        "name": "Petr Městecký",
+        "person_id": null,
+        "affiliation": "předseda výboru Snesitelné bydlení v centru Prahy"
+      },
+      {
+        "name": "Hanna Kordová-Marvanová",
+        "person_id": "psp:person:100",
+        "affiliation": "senátorka"
+      },
+      {
+        "name": "Jakub Juračka",
+        "person_id": null,
+        "affiliation": "předseda České unie cestovního ruchu"
+      }
+    ],
+    "parties": [],
+    "institutions": []
+  },
+  "highlights": [
+    {
+      "text": "Cílem je najít rovnováhu mezi podnikáním a ochranou veřejného prostoru.",
+      "type": "citation",
+      "speaker": "Barbora Rázgová",
+      "affiliation": "poslankyně",
+      "timestamp": "1/04:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2889_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit."
+    },
+    {
+      "text": "Bezpečnostní rizika jsou zásadní problém.",
+      "type": "citation",
+      "speaker": "Robert Králíček",
+      "affiliation": "poslanec",
+      "timestamp": "1/08:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2889_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit."
+    },
+    {
+      "text": "Potřebujeme evidence a kontrolu sdíleného ubytování.",
+      "type": "citation",
+      "speaker": "Stanislav Dvořák",
+      "affiliation": "zmocněnec pro regionální politiku a cestovní ruch",
+      "timestamp": "2/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2889_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit."
+    }
+  ],
+  "controversial": [],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

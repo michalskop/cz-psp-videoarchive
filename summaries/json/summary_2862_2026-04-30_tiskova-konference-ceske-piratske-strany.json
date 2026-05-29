@@ -10,6 +10,12 @@
     "end_date": "2026-04-30T09:22",
     "sources": [
       "final/event_2862_2026-04-30_tiskova-konference-ceske-piratske-strany.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5255_TK-PIR-video-psp-2026430-910-19-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -61,7 +67,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/00:00",
-      "screenshot_path": "summaries/screenshots/event_2862_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_highlight_00.jpg",
       "context": "Tvrzení o 70 % úředníků je spekulativní odhad, který není podložen oficiální analýzou dopadů (RIA) k novele stavebního zákona. Reálný dopad na personální kapacity úřadů závisí na konkrétní implementaci digitalizace a přechodných ustanoveních zákona č. 283/2021 Sb."
     },
     {
@@ -70,7 +76,7 @@
       "speaker": "Veronika Kovářová",
       "affiliation": "Piráti",
       "timestamp": "1/04:45",
-      "screenshot_path": "summaries/screenshots/event_2862_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_highlight_01.jpg",
       "context": "Jde o interpretaci priorit v rámci povolovacího procesu. Stavební zákon č. 283/2021 Sb. sice klade důraz na zrychlení řízení, ale ochrana veřejných zájmů (včetně hygienických limitů hluku) zůstává zakotvena v zákoně o ochraně veřejného zdraví č. 258/2000 Sb., který novela neruší."
     },
     {
@@ -79,7 +85,7 @@
       "speaker": "Olga Richtrová",
       "affiliation": "Piráti",
       "timestamp": "1/08:45",
-      "screenshot_path": "summaries/screenshots/event_2862_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_highlight_02.jpg",
       "context": "Jedná se o politický záměr v oblasti sociální politiky. Úprava limitů pro dávky na bydlení (příspěvek na bydlení) spadá pod zákon č. 117/1995 Sb., o státní sociální podpoře, a je předmětem probíhajících legislativních debat o adresnosti sociální pomoci."
     }
   ],
@@ -89,7 +95,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/02:04",
-      "screenshot_path": "summaries/screenshots/event_2862_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_controversy_00.jpg",
       "context": "Nelze nezávisle ověřit. Jde o osobní obvinění, které nebylo v rámci veřejně dostupných rejstříků či soudních rozhodnutí potvrzeno jako fakt; vyžaduje doložení konkrétními důkazy ze strany mluvčího."
     }
   ],

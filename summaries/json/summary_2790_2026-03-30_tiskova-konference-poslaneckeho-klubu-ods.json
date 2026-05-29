@@ -10,6 +10,12 @@
     "end_date": "2026-03-30T16:04",
     "sources": [
       "final/event_2790_2026-03-30_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5160_video-psp-2026330-1545-19-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -66,7 +72,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/12:17",
-      "screenshot_path": "summaries/screenshots/event_2790_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_highlight_00.jpg",
       "context": "Snížení spotřební daně o 1,70 Kč na litr nafty a benzinu bylo v ČR skutečně realizováno v roce 2022 (zákon č. 132/2022 Sb.). Vzhledem k tomu, že spotřební daň je zatížena i DPH, snížení daně o 1,70 Kč vedlo k celkovému poklesu ceny u čerpacích stanic o cca 2,06 Kč včetně DPH."
     },
     {
@@ -75,7 +81,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/14:04",
-      "screenshot_path": "summaries/screenshots/event_2790_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_highlight_01.jpg",
       "context": "Jde o politické hodnocení (tzv. hodnotový úsudek), které nelze fakticky ověřit. Výrok reflektuje tehdejší politickou situaci a rozdílné názory vládních představitelů na řešení energetické krize."
     },
     {
@@ -84,7 +90,7 @@
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
       "timestamp": "1/18:03",
-      "screenshot_path": "summaries/screenshots/event_2790_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_highlight_02.jpg",
       "context": "Zákon č. 223/2016 Sb. o prodejní době v maloobchodě omezuje prodej ve vybraných svátcích pro provozovny nad 200 m². Návrh na zrušení tohoto zákona je dlouhodobým programovým bodem ODS, který však v minulosti narážel na odpor koaličních partnerů i části opozice."
     }
   ],
@@ -94,7 +100,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/04:03",
-      "screenshot_path": "summaries/screenshots/event_2790_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_controversy_00.jpg",
       "context": "Jde o subjektivní politickou interpretaci a rétorické přirovnání. „Minuty nenávisti“ jsou literární odkaz na dílo George Orwella, nikoliv faktický údaj; tvrzení o autoritářství je politickým názorem, který nelze nezávisle ověřit."
     }
   ],

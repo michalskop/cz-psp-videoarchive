@@ -10,6 +10,12 @@
     "end_date": "2026-05-25T15:54",
     "sources": [
       "final/event_2932_2026-05-25_tiskova-konference-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5332_video-psp-2026525-1531-40-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -67,7 +73,7 @@
       "speaker": "Jan Lipavský",
       "affiliation": "ODS",
       "timestamp": "1/14:42",
-      "screenshot_path": "summaries/screenshots/event_2932_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2932_highlight_00.jpg",
       "context": "Jde o politickou metaforu vyjadřující postoj k zahraniční politice a globalizaci. Výrok nelze fakticky ověřit, neboť se jedná o subjektivní zhodnocení politické strategie izolacionismu."
     },
     {
@@ -76,7 +82,7 @@
       "speaker": "Eva de Croix",
       "affiliation": "ODS",
       "timestamp": "1/06:27",
-      "screenshot_path": "summaries/screenshots/event_2932_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2932_highlight_01.jpg",
       "context": "Hodnocení „politické odvahy“ je subjektivním politickým názorem. Kompetence a činnost vládní zmocněnkyně pro lidská práva se řídí Statutem zmocněnce vlády pro lidská práva, nikoliv zákonem definovanou povinností projevovat „politickou odvahu“."
     },
     {
@@ -85,7 +91,7 @@
       "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "1/01:58",
-      "screenshot_path": "summaries/screenshots/event_2932_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2932_highlight_02.jpg",
       "context": "Společnost Explosia a.s. je stoprocentně vlastněna státem prostřednictvím Ministerstva průmyslu a obchodu ČR. Tvrzení o neschopnosti Andreje Babiše kontrolovat tuto společnost je politickým názorem, neboť Andrej Babiš v současnosti nedisponuje exekutivní pravomocí nad státními podniky."
     }
   ],
@@ -95,7 +101,7 @@
       "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "1/00:45",
-      "screenshot_path": "summaries/screenshots/event_2932_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2932_controversy_00.jpg",
       "context": "Ve Francii probíhalo předběžné vyšetřování týkající se finančních transakcí Andreje Babiše v souvislosti s nákupem nemovitostí (kauza Pandora Papers). V roce 2023 však francouzská prokuratura vyšetřování zastavila s tím, že nebyly zjištěny důkazy o praní špinavých peněz."
     }
   ],

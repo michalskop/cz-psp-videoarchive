@@ -10,6 +10,12 @@
     "end_date": "2026-05-26T13:36",
     "sources": [
       "final/event_2942_2026-05-26_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5342_video-psp-2026526-1322-41-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -65,7 +71,7 @@
       "speaker": "Karel Haas",
       "affiliation": "ODS",
       "timestamp": "1/09:24",
-      "screenshot_path": "summaries/screenshots/event_2942_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2942_highlight_00.jpg",
       "context": "Data ČSSZ a MF ČR dlouhodobě ukazují, že velká část OSVČ platí minimální zálohy na sociální a zdravotní pojištění. Tvrzení, že jde o méně než 5 %, je v rozporu s dostupnými statistikami, které uvádějí podíl OSVČ platících minimální odvody v řádech desítek procent."
     },
     {
@@ -74,7 +80,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "1/07:35",
-      "screenshot_path": "summaries/screenshots/event_2942_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2942_highlight_01.jpg",
       "context": "Toto tvrzení je fakticky rozporuplné s rolí Martina Baxy jako ministra kultury, který je členem vlády. Nelze nezávisle ověřit, zda jde o citaci z minulosti, nebo o chybnou interpretaci, neboť ministr Baxa v rámci vládní koalice naopak prosazuje posílení nezávislosti médií veřejné služby."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/04:17",
-      "screenshot_path": "summaries/screenshots/event_2942_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2942_highlight_02.jpg",
       "context": "Společnost Explosia a.s. je stoprocentně vlastněna státem prostřednictvím Ministerstva průmyslu a obchodu. V současnosti neexistuje žádný oficiální vládní plán ani schválený proces prodeje této společnosti francouzskému státnímu subjektu."
     }
   ],
@@ -93,7 +99,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:20",
-      "screenshot_path": "summaries/screenshots/event_2942_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2942_controversy_00.jpg",
       "context": "Označení za „ekonomického parazita“ je hodnotící politický výrok, nikoliv ověřitelný fakt. Auditní zprávy Evropské komise z let 2019 a 2021 však skutečně konstatovaly střet zájmů Andreje Babiše ve vztahu k čerpání dotací pro holding Agrofert."
     },
     {
@@ -101,7 +107,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "1/07:31",
-      "screenshot_path": "summaries/screenshots/event_2942_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2942_controversy_01.jpg",
       "context": "Jde o politickou interpretaci legislativních změn týkajících se médií veřejné služby. Míra nezávislosti médií je předmětem dlouhodobé debaty, přičemž opozice a vládní strany se pravidelně obviňují z pokusů o politické ovlivňování těchto institucí."
     }
   ],

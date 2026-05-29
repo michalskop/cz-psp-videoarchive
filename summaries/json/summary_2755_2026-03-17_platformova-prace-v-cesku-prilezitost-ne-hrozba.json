@@ -10,6 +10,85 @@
     "end_date": "2026-03-17T12:09",
     "sources": [
       "final/event_2755_2026-03-17_platformova-prace-v-cesku-prilezitost-ne-hrozba.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317090001.mp4",
+        "from_sec": 304
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317091001.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317092001.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317093001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317094001.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317095001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317100001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317101001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317102001.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317103001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317104001.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317105001.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317110001.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317111001.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317112001.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317113001.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317114001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317115001.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317120001.mp4"
+      }
     ]
   },
   "transcription": {
@@ -105,7 +184,7 @@
       "speaker": "Aleš Rod",
       "affiliation": "CETA",
       "timestamp": "13/03:46",
-      "screenshot_path": "summaries/screenshots/event_2755_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2755_highlight_00.jpg",
       "context": "Tvrzení je interpretací charakteru platforem. Ačkoliv platformy umožňují snadný vstup na trh práce bez tradičních bariér (např. pohovory), kritici namítají, že chybějící ochrana zaměstnanců a nejistota příjmů mohou naopak vytvářet nové formy zranitelnosti."
     },
     {
@@ -114,7 +193,7 @@
       "speaker": "Adam Kolesa",
       "affiliation": "Foodora",
       "timestamp": "4/00:18",
-      "screenshot_path": "summaries/screenshots/event_2755_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2755_highlight_01.jpg",
       "context": "Data o preferencích kurýrů se liší podle metodiky průzkumů. Zatímco interní data platforem často potvrzují vysokou míru preference flexibility, nezávislé studie (např. z prostředí EU či akademické sféry) upozorňují, že pro část pracovníků je „volná noha“ vynucenou volbou kvůli nedostatku jiných pracovních příležitostí."
     },
     {
@@ -123,7 +202,7 @@
       "speaker": "Aleš Rod",
       "affiliation": "CETA",
       "timestamp": "13/04:18",
-      "screenshot_path": "summaries/screenshots/event_2755_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2755_highlight_02.jpg",
       "context": "Nízké vstupní bariéry platforem skutečně umožňují výdělek lidem, kteří mají na běžném trhu práce potíže s uplatněním. Nelze však nezávisle ověřit, zda je tento efekt systémově antidiskriminační, nebo zda platformy pouze využívají zranitelnosti těchto skupin k udržení nízkých nákladů na pracovní sílu."
     }
   ],
@@ -133,7 +212,7 @@
       "speaker": "Dana Roučková",
       "affiliation": "MPSV",
       "timestamp": "18/04:04",
-      "screenshot_path": "summaries/screenshots/event_2755_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2755_controversy_00.jpg",
       "context": "Právní domněnka závislé práce je nástrojem k potírání švarcsystému a nelegálního zaměstnávání. Dopad na administrativní zátěž firem je předmětem politické debaty; odpůrci varují před rizikem plošné kriminalizace běžných dodavatelských vztahů, zastánci zdůrazňují nutnost ochrany pracovníků a narovnání tržního prostředí."
     }
   ],

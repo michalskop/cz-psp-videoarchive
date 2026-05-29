@@ -10,6 +10,12 @@
     "end_date": "2026-05-15T11:35",
     "sources": [
       "final/event_2916_2026-05-15_tiskova-konference-ods-po-jednani-stinove-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5312_video-psp-2026515-1115-44-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +81,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:24",
-      "screenshot_path": "summaries/screenshots/event_2916_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2916_highlight_00.jpg",
       "context": "Podání ústavní stížnosti skupinou poslanců je legitimní nástroj dle čl. 87 odst. 1 písm. a) Ústavy ČR. Zda jsou pozměňovací návrhy v rozporu s ústavním pořádkem či legislativním procesem, je předmětem právního výkladu, nikoliv objektivní faktické danosti."
     },
     {
@@ -84,7 +90,7 @@
       "speaker": "Alexandr Vondra",
       "affiliation": "ODS",
       "timestamp": "1/08:34",
-      "screenshot_path": "summaries/screenshots/event_2916_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2916_highlight_01.jpg",
       "context": "Tvrzení o konkurenceschopnosti EU je politickým názorem založeným na interpretaci ekonomických dat (např. zprávy Eurostatu či OECD). Srovnání růstu HDP a technologického náskoku USA a Číny oproti EU je dlouhodobě diskutovaným tématem v evropských institucích (např. Draghiho zpráva o konkurenceschopnosti)."
     },
     {
@@ -93,7 +99,7 @@
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
       "timestamp": "1/05:10",
-      "screenshot_path": "summaries/screenshots/event_2916_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2916_highlight_02.jpg",
       "context": "Jde o politický příslib a vizi digitalizace státní správy. Efektivita využití umělé inteligence ve státní správě je v současnosti ve fázi pilotních projektů a strategií (např. Digitální Česko), nelze tedy zatím objektivně vyčíslit konkrétní úspory."
     },
     {
@@ -102,7 +108,7 @@
       "speaker": "Veronika Vrecionová",
       "affiliation": "ODS",
       "timestamp": "1/18:52",
-      "screenshot_path": "summaries/screenshots/event_2916_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2916_highlight_03.jpg",
       "context": "Pravidla pro čerpání dotací z fondů EU jsou definována nařízením Evropského parlamentu a Rady (EU) 2018/1046. Pokud jsou dotace shledány jako neoprávněné kvůli střetu zájmů, EU je skutečně neproplatí, což znamená, že náklady musí pokrýt národní rozpočet."
     }
   ],
@@ -112,7 +118,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:25",
-      "screenshot_path": "summaries/screenshots/event_2916_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2916_controversy_00.jpg",
       "context": "Ústavní stížnost je politický nástroj opozice. Zda je návrh v souladu s ústavou, posuzuje výhradně Ústavní soud ČR na základě podané žaloby, nikoliv na základě politické deklarace."
     },
     {
@@ -120,7 +126,7 @@
       "speaker": "Veronika Vrecionová",
       "affiliation": "ODS",
       "timestamp": "1/17:35",
-      "screenshot_path": "summaries/screenshots/event_2916_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2916_controversy_01.jpg",
       "context": "Otázka střetu zájmů Andreje Babiše byla předmětem auditů Evropské komise, které potvrdily existenci střetu zájmů v souvislosti s koncernem Agrofert. Evropská komise v minulosti skutečně zastavila proplácení některých dotací, které musela následně hradit ČR ze státního rozpočtu."
     }
   ],

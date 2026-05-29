@@ -10,6 +10,21 @@
     "end_date": "2026-04-21T12:41",
     "sources": [
       "final/event_2839_2026-04-21_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421122003.mp4",
+        "from_sec": 180
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421123003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421124003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -64,7 +79,7 @@
       "speaker": "Václav Pláteník",
       "affiliation": "KDU-ČSL",
       "timestamp": "2/02:03",
-      "screenshot_path": "summaries/screenshots/event_2839_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2839_highlight_00.jpg",
       "context": "Efektivita trestního práva v oblasti vymáhání výživného je předmětem odborných debat. Statistiky Ministerstva spravedlnosti ČR dlouhodobě ukazují, že vysoký podíl odsouzených za trestný čin zanedbání povinné výživy (dle § 196 trestního zákoníku) vede k jejich nezaměstnanosti a následné neschopnosti dluhy splácet, což potvrzuje tezi o nízké efektivitě pro věřitele."
     },
     {
@@ -73,7 +88,7 @@
       "speaker": "Václav Pláteník",
       "affiliation": "KDU-ČSL",
       "timestamp": "2/00:53",
-      "screenshot_path": "summaries/screenshots/event_2839_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2839_highlight_01.jpg",
       "context": "Trestný čin zanedbání povinné výživy je v českém právním řádu (§ 196 trestního zákoníku) trvale obsažen. Výrok je věcně nepřesný, neboť se v legislativním procesu nejedná o „obnovení“ (zrušen nebyl), ale o úpravu podmínek trestní odpovědnosti či zpřísnění postihu."
     },
     {
@@ -82,7 +97,7 @@
       "speaker": "Václav Pláteník",
       "affiliation": "KDU-ČSL",
       "timestamp": "2/02:53",
-      "screenshot_path": "summaries/screenshots/event_2839_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2839_highlight_02.jpg",
       "context": "Nominační zákon (zákon č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů) upravuje pravidla pro obsazování pozic v orgánech firem se státní účastí. Postoj KDU-ČSL k jeho případné úpravě či zrušení je politickým rozhodnutím, které nelze fakticky ověřit jako pravdivé či nepravdivé, jde o deklaraci politické vůle."
     }
   ],
@@ -92,7 +107,7 @@
       "speaker": "Tom Filip",
       "affiliation": "KDU-ČSL",
       "timestamp": "2/04:04",
-      "screenshot_path": "summaries/screenshots/event_2839_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2839_controversy_00.jpg",
       "context": "Požadavek na odložení volby a výzva k odstoupení kandidátů jsou politické kroky založené na interpretaci nahrávek. Autentičnost nahrávek a jejich právní či etické dopady na integritu volby členů Rady ČT jsou předmětem politického sporu a nelze je nezávisle ověřit bez výsledků šetření orgánů činných v trestním řízení či příslušných kontrolních orgánů."
     }
   ],

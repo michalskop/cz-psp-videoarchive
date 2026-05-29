@@ -10,6 +10,77 @@
     "end_date": "2026-03-25T12:55",
     "sources": [
       "final/event_2774_2026-03-25_pocinstovani-tibetu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325101005.mp4",
+        "from_sec": 215
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325102005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325103005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325104005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325105005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325110005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325111005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325112005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325113005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325114005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325115005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325120005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325121005.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325122005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325123005.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325124005.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/25/_20260325125005.mp4"
+      }
     ]
   },
   "transcription": {
@@ -111,7 +182,7 @@
       "speaker": "Martin Hála",
       "affiliation": "projekt Sinopsis",
       "timestamp": "2/06:04",
-      "screenshot_path": "summaries/screenshots/event_2774_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_00.jpg",
       "context": "Jde o politologickou interpretaci geopolitického významu Tibetu jako strategického území s vodními zdroji a vojenským potenciálem. Nelze nezávisle ověřit jako fakt, jedná se o analytické tvrzení."
     },
     {
@@ -120,7 +191,7 @@
       "speaker": "Břetislav Rychlík",
       "affiliation": "Senát PČR",
       "timestamp": "3/06:01",
-      "screenshot_path": "summaries/screenshots/event_2774_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_01.jpg",
       "context": "Metafora odkazuje na čínské vládní nařízení č. 5 (2007), které vyžaduje schválení reinkarnací tibetských lámů čínskými úřady. Srovnání s Kremlem a papežem je hodnotící příměr ilustrující zásah sekulární moci do náboženských záležitostí."
     },
     {
@@ -129,7 +200,7 @@
       "speaker": "Tomáš Etzler",
       "affiliation": "novinář",
       "timestamp": "12/04:03",
-      "screenshot_path": "summaries/screenshots/event_2774_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_02.jpg",
       "context": "Podle žebříčků organizace Reportéři bez hranic (RSF) se Čína dlouhodobě umisťuje na chvostu indexu svobody tisku. Vstup novinářů do Tibetské autonomní oblasti je čínskými úřady systematicky omezován a vyžaduje speciální povolení, která jsou pro nezávislé zpravodaje prakticky nedostupná."
     },
     {
@@ -138,7 +209,7 @@
       "speaker": "Alexandr Neumann",
       "affiliation": "novinář",
       "timestamp": "14/08:22",
-      "screenshot_path": "summaries/screenshots/event_2774_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_03.jpg",
       "context": "Subjektivní politické hodnocení odkazu Václava Havla v kontextu české zahraniční politiky a lidskoprávní agendy. Nelze nezávisle ověřit, jde o interpretaci historické role a osobní názor."
     }
   ],
@@ -148,7 +219,7 @@
       "speaker": "Břetislav Rychlík",
       "affiliation": "Senát PČR",
       "timestamp": "3/06:01",
-      "screenshot_path": "summaries/screenshots/event_2774_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_controversy_00.jpg",
       "context": "Čínské úřady skutečně uplatňují nárok na kontrolu procesu reinkarnace skrze státní správu (Státní správa pro náboženské záležitosti). Přirovnání k volbě papeže Kremlem je legitimní politickou metaforou pro zásah státu do autonomie církevní hierarchie."
     }
   ],

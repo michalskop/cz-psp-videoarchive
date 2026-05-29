@@ -10,6 +10,61 @@
     "end_date": "2026-03-19T10:32",
     "sources": [
       "final/event_2763_2026-03-19_kompetence-lekarniku-a-jejich-pridana-hodnota-pro-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319083002.mp4",
+        "from_sec": 438
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319084002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319085002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319090002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319091002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319092002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319093002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319094002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319095002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319100002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319101002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319102002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/19/_20260319103002.mp4"
+      }
     ]
   },
   "transcription": {
@@ -99,7 +154,7 @@
       "speaker": "Jedená Štorová",
       "affiliation": null,
       "timestamp": "7/00:55",
-      "screenshot_path": "summaries/screenshots/event_2763_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_highlight_00.jpg",
       "context": "Dle dat Státního ústavu pro kontrolu léčiv (SÚKL) se počet lékáren v ČR dlouhodobě pohybuje kolem 2 700 až 2 800. Role lékárníka jako vysokoškolsky vzdělaného odborníka (magisterské studium farmacie) je definována zákonem č. 95/2004 Sb."
     },
     {
@@ -108,7 +163,7 @@
       "speaker": "Filip Škarda",
       "affiliation": "Česká lékárnická komora",
       "timestamp": "9/05:43",
-      "screenshot_path": "summaries/screenshots/event_2763_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_highlight_01.jpg",
       "context": "Tvrzení vychází z odhadů České lékárnické komory založených na analýze lékových interakcí a duplicit v systému eRecept. Přesnou metodiku výpočtu úspory 55 milionů korun nelze nezávisle ověřit bez přístupu k interním datům o konkrétních intervencích lékárníků."
     },
     {
@@ -117,7 +172,7 @@
       "speaker": "Jedená Štorová",
       "affiliation": null,
       "timestamp": "12/05:29",
-      "screenshot_path": "summaries/screenshots/event_2763_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_highlight_02.jpg",
       "context": "Demografický vývoj (stárnutí populace) a potřeba zvyšování proočkovanosti jsou dlouhodobě uznávané výzvy českého zdravotnictví potvrzované daty ÚZIS a Ministerstva zdravotnictví ČR. Rozsah kompetencí lékárníků v oblasti očkování je předmětem probíhající legislativní debaty."
     }
   ],
@@ -127,7 +182,7 @@
       "speaker": "Milan Kubek",
       "affiliation": "Česká lékařská komora",
       "timestamp": "8/04:00",
-      "screenshot_path": "summaries/screenshots/event_2763_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_controversy_00.jpg",
       "context": "Napětí mezi Českou lékařskou komorou (ČLK) a lékárníky ohledně rozšiřování kompetencí (např. očkování, diagnostické úkony) je dlouhodobým politickým a profesním tématem. Zda byla konference jednostranná, je subjektivní hodnocení, které nelze objektivně verifikovat."
     },
     {
@@ -135,7 +190,7 @@
       "speaker": "Dalibor Veselý",
       "affiliation": "Mladí lékaři",
       "timestamp": "11/06:06",
-      "screenshot_path": "summaries/screenshots/event_2763_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_controversy_01.jpg",
       "context": "Obava z „overdiagnózy“ (nadměrné diagnostiky) je legitimním odborným argumentem v medicíně, který se týká rizika falešně pozitivních výsledků a následného tlaku na primární péči. Jde o názorovou pozici profesní organizace, nikoliv o statisticky doložený fakt."
     }
   ],

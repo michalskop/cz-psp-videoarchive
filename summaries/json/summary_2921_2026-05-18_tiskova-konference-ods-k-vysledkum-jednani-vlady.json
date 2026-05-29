@@ -10,6 +10,12 @@
     "end_date": "2026-05-18T15:48",
     "sources": [
       "final/event_2921_2026-05-18_tiskova-konference-ods-k-vysledkum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5319_video-psp-2026518-1529-55-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -65,7 +71,7 @@
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/06:56",
-      "screenshot_path": "summaries/screenshots/event_2921_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2921_highlight_00.jpg",
       "context": "Výdaje na obranu jsou definovány zákonem č. 214/2022 Sb., který stanovuje povinnost vynaložit 2 % HDP. Zahrnování výdajů mimo resort obrany (např. výzkum či infrastruktura) do celkových obranných výdajů je předmětem debat s NATO; metodika výpočtu podléhá standardům aliance, které vyžadují transparentnost a přímou souvislost s obranyschopností."
     },
     {
@@ -74,7 +80,7 @@
       "speaker": "Karel Haas",
       "affiliation": "ODS",
       "timestamp": "1/14:04",
-      "screenshot_path": "summaries/screenshots/event_2921_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2921_highlight_01.jpg",
       "context": "Princip, že parlament schvaluje rozpočet a vláda jej realizuje, vychází z Ústavy ČR (čl. 42). Tvrzení o „otočení paradigmatu“ je politickou interpretací legislativního návrhu, který mění pravidla pro rozpočtové přesuny; fakticky jde o debatu o míře exekutivní flexibility oproti parlamentní kontrole."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
       "timestamp": "1/08:55",
-      "screenshot_path": "summaries/screenshots/event_2921_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2921_highlight_02.jpg",
       "context": "Zákon o pravidlech rozpočtové odpovědnosti (č. 23/2017 Sb.) existuje a stanovuje dluhovou brzdu. Hodnocení, zda je konkrétní návrh v souladu s principy rozpočtové odpovědnosti, je subjektivní politický názor, nikoliv objektivně ověřitelný fakt."
     }
   ],
@@ -93,7 +99,7 @@
       "speaker": "Karel Haas",
       "affiliation": "ODS",
       "timestamp": "1/14:04",
-      "screenshot_path": "summaries/screenshots/event_2921_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2921_controversy_00.jpg",
       "context": "Návrh na zvýšení limitů pro rozpočtová opatření vlády (tzv. přesuny mezi kapitolami bez souhlasu Sněmovny) je předmětem legislativního procesu. Zda jde o „brutální rozvolnění“ a narušení ústavní dělby moci, je předmětem právní a politické polemiky, nikoliv ustálený právní fakt."
     }
   ],

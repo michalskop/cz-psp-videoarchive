@@ -10,6 +10,45 @@
     "end_date": "2026-05-14",
     "sources": [
       "final/event_2911_2026-05-14_spolecenske-setkani-na-pocest-statu-izrael-a-svatk.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514150002.mp4",
+        "from_sec": 583
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514151000.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514152002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514153000.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514154001.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514155001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514160003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514161001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/106/2026/05/14/_20260514162001.mp4"
+      }
     ]
   },
   "transcription": {
@@ -95,7 +134,7 @@
       "speaker": "Petr Macinka",
       "affiliation": "Ministerstvo zahraničních věcí",
       "timestamp": "8/01:04",
-      "screenshot_path": "summaries/screenshots/event_2911_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_00.jpg",
       "context": "ČR dlouhodobě deklaruje Izrael jako jednoho ze svých klíčových strategických partnerů na Blízkém východě. Tato spolupráce je ukotvena v řadě bilaterálních dohod a pravidelných společných zasedání vlád obou zemí."
     },
     {
@@ -104,7 +143,7 @@
       "speaker": "Amir Weissbrod",
       "affiliation": "Velvyslanectví Státu Izrael",
       "timestamp": "3/06:57",
-      "screenshot_path": "summaries/screenshots/event_2911_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_01.jpg",
       "context": "Tvrzení má historicko-náboženský charakter a nelze jej faktograficky ověřit jako politický či právní fakt. Odkazuje na tisíciletou židovskou přítomnost v Jeruzalémě, nikoliv na oficiální státní politiku ČR."
     },
     {
@@ -113,7 +152,7 @@
       "speaker": "Karel Sedláček",
       "affiliation": "Česká společnost přátel Izraele",
       "timestamp": "7/09:33",
-      "screenshot_path": "summaries/screenshots/event_2911_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_02.jpg",
       "context": "Jde o subjektivní hodnotový výrok, který nelze nezávisle ověřit. V politickém kontextu se vztahuje k diplomatické podpoře ČR vůči Izraeli, zejména v rámci mezinárodních organizací (např. OSN)."
     }
   ],
@@ -123,7 +162,7 @@
       "speaker": "Miloslav Janulík",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "2/04:02",
-      "screenshot_path": "summaries/screenshots/event_2911_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_controversy_00.jpg",
       "context": "Oficiální pozicí ČR, v souladu s politikou EU, zůstává, že Jeruzalém by měl být budoucím hlavním městem obou států (Izraele i Palestiny). Přesun ambasády do Jeruzaléma by byl v rozporu s konsenzem většiny členských států OSN a rezolucemi Rady bezpečnosti OSN, které status města ponechávají k vyjednání."
     }
   ],

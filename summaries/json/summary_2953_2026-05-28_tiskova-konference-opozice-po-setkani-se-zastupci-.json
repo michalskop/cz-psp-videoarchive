@@ -10,6 +10,12 @@
     "end_date": "2026-05-28T14:43",
     "sources": [
       "final/event_2953_2026-05-28_tiskova-konference-opozice-po-setkani-se-zastupci-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5355_video-psp-2026528-1421-35-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +78,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/02:35",
-      "screenshot_path": "summaries/screenshots/event_2953_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2953_highlight_00.jpg",
       "context": "Jde o politické hodnocení a interpretaci dopadů vládních kroků na politický systém. Pojem „demokratický deficit“ je v politologii subjektivní koncept, který nelze objektivně změřit jako ekonomický ukazatel."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Poslankyně Sourová",
       "affiliation": "Piráti",
       "timestamp": "1/04:21",
-      "screenshot_path": "summaries/screenshots/event_2953_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2953_highlight_01.jpg",
       "context": "Toto tvrzení představuje politologickou tezi o fungování moci v byrokracii. V kontextu ČR je kontrola rozpočtu svěřena Ministerstvu financí a Parlamentu ČR dle zákona č. 218/2000 Sb., o rozpočtových pravidlech."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Předseda Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/06:46",
-      "screenshot_path": "summaries/screenshots/event_2953_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2953_highlight_02.jpg",
       "context": "Nelze nezávisle ověřit. Výrok obsahuje subjektivní hodnocení dopadů personálních změn a označení „nikým nevolená“ je fakticky nepřesné, neboť vicepremiéři jsou jmenováni na návrh premiéra, který vzešel z voleb do Poslanecké sněmovny."
     }
   ],
@@ -100,7 +106,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/10:00",
-      "screenshot_path": "summaries/screenshots/event_2953_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2953_controversy_00.jpg",
       "context": "Tvrzení o odchodech expertů je ověřitelné skrze personální statistiky příslušných ministerstev a veřejná prohlášení odcházejících poradců či úředníků. Označení „autokratický playbook“ je subjektivní politická rétorika."
     },
     {
@@ -108,7 +114,7 @@
       "speaker": "Předseda Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/06:06",
-      "screenshot_path": "summaries/screenshots/event_2953_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2953_controversy_01.jpg",
       "context": "Jde o metaforické vyjádření kritiky stavu státní správy. Faktický stav lidskoprávních struktur lze posoudit na základě výročních zpráv Kanceláře veřejného ochránce práv nebo zpráv Rady vlády pro lidská práva."
     }
   ],

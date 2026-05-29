@@ -10,6 +10,12 @@
     "end_date": "2026-04-02",
     "sources": [
       "final/event_2803_2026-04-02_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5174_video-psp-202642-115-15-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +78,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/02:26",
-      "screenshot_path": "summaries/screenshots/event_2803_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2803_highlight_00.jpg",
       "context": "Jde o politický příslib, který nelze fakticky ověřit. Nezávislost veřejnoprávních médií je v ČR ukotvena v zákonech č. 483/1991 Sb. (ČT) a č. 484/1991 Sb. (ČRo), přičemž jejich fungování je předmětem dlouhodobé politické debaty o způsobu volby členů mediálních rad."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Jan Lacina",
       "affiliation": "STAN",
       "timestamp": "1/07:15",
-      "screenshot_path": "summaries/screenshots/event_2803_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2803_highlight_01.jpg",
       "context": "Jde o hodnotící úsudek a politickou rétoriku, nikoliv o faktické tvrzení. Nelze nezávisle ověřit, zda je záměrem předkladatele „uškodit“, nebo zda sleduje jiný politický cíl."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/03:07",
-      "screenshot_path": "summaries/screenshots/event_2803_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2803_highlight_02.jpg",
       "context": "Agentura pro sociální začleňování je součástí Ministerstva pro místní rozvoj ČR. Její činnost je v souladu s vládní strategií zaměřena na podporu obcí při řešení sociálního vyloučení a integraci znevýhodněných osob, což odpovídá popisu ministra Rakušana."
     }
   ],
@@ -100,7 +106,7 @@
       "speaker": "Jan Lacina",
       "affiliation": "STAN",
       "timestamp": "1/06:00",
-      "screenshot_path": "summaries/screenshots/event_2803_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2803_controversy_00.jpg",
       "context": "Výrok je interpretací politického postoje a rétorickým obratem. Obvinění z návratu k praktikám před rokem 1989 je subjektivním politickým hodnocením, které nelze fakticky verifikovat jako objektivní stav."
     }
   ],

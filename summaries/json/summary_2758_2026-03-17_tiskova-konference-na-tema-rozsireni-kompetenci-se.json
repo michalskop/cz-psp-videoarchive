@@ -10,6 +10,12 @@
     "end_date": "2026-03-17T12:04",
     "sources": [
       "final/event_2758_2026-03-17_tiskova-konference-na-tema-rozsireni-kompetenci-se.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5124_video-psp-2026317-1155-33-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -67,7 +73,7 @@
       "speaker": "Prof. Linhart",
       "affiliation": "Česká kardiologická společnost",
       "timestamp": "1/02:46",
-      "screenshot_path": "summaries/screenshots/event_2758_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_highlight_00.jpg",
       "context": "Odhad 400 000 pacientů odpovídá datům České kardiologické společnosti a ÚZIS, které dlouhodobě upozorňují na vysokou prevalenci srdečního selhání v ČR. Vzhledem ke stárnutí populace a výskytu rizikových faktorů (hypertenze, diabetes) je predikce dalšího nárůstu odborníky považována za vědecky podloženou."
     },
     {
@@ -76,7 +82,7 @@
       "speaker": "Markéta Křečková",
       "affiliation": "Všeobecná fakultní nemocnice v Praze",
       "timestamp": "1/04:51",
-      "screenshot_path": "summaries/screenshots/event_2758_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_highlight_01.jpg",
       "context": "Jde o odborný názor reflektující dlouhodobý problém personální kapacity českého zdravotnictví. Legislativní úpravy kompetencí sester (např. vyhláška č. 55/2011 Sb.) jsou často kritizovány zástupci profesních organizací právě pro nedostatečné provázání s reálnou pracovní zátěží a nedostatkem personálu."
     },
     {
@@ -85,7 +91,7 @@
       "speaker": "Kristina Čelíková",
       "affiliation": "Česká aliance pro kardiovaskulární onemocnění",
       "timestamp": "1/06:33",
-      "screenshot_path": "summaries/screenshots/event_2758_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_highlight_02.jpg",
       "context": "Tvrzení vychází ze standardů ošetřovatelské péče a zákona č. 96/2004 Sb., který definuje požadavky na odbornou způsobilost nelékařských zdravotnických pracovníků. Role sestry jako garanta kvality a bezpečnosti je v souladu s moderními trendy v medicíně (tzv. nursing-sensitive outcomes)."
     }
   ],
@@ -95,7 +101,7 @@
       "speaker": "Markéta Křečková",
       "affiliation": "Všeobecná fakultní nemocnice v Praze",
       "timestamp": "1/04:03",
-      "screenshot_path": "summaries/screenshots/event_2758_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_controversy_00.jpg",
       "context": "Tvrzení o přetížení personálu je podloženo daty ÚZIS o fluktuaci a věkové struktuře sester v ČR. Politický kontext spočívá v debatě o reformě primární péče a kompetenčním posunu, kde odborové organizace (např. ČAS) opakovaně varují před 'skrytým' navyšováním úvazků bez odpovídajícího finančního a personálního krytí."
     }
   ],

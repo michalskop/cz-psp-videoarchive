@@ -10,6 +10,12 @@
     "end_date": "2026-05-05T12:23",
     "sources": [
       "final/event_2881_2026-05-05_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5275_video-psp-202655-1158-51-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -79,7 +85,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/06:01",
-      "screenshot_path": "summaries/screenshots/event_2881_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2881_highlight_00.jpg",
       "context": "EU nemá přímou pravomoc zavádět daně, ty musí schválit členské státy jednomyslně v Radě EU. Unie však může navrhovat harmonizaci daňových základů nebo zavádění vlastních zdrojů rozpočtu, což je předmětem politických debat o suverenitě."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Marie Pošarová",
       "affiliation": "SPD",
       "timestamp": "1/18:42",
-      "screenshot_path": "summaries/screenshots/event_2881_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2881_highlight_01.jpg",
       "context": "Aktuální legislativa (zákon č. 458/2000 Sb., energetický zákon) stanovuje minimální vzdálenost větrných elektráren od obydlí na 500 metrů. Návrh na zvýšení této hranice je legitimním politickým požadavkem, který závisí na posouzení vlivu na rozvoj obnovitelných zdrojů energie."
     },
     {
@@ -97,7 +103,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/06:42",
-      "screenshot_path": "summaries/screenshots/event_2881_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2881_highlight_02.jpg",
       "context": "Zrušení koncesionářských poplatků by znamenalo zásadní změnu financování veřejnoprávních médií (ČT a ČRo), které jsou podle zákona č. 483/1991 Sb. a č. 484/1991 Sb. financovány primárně z těchto poplatků. Návrh je politickým programovým bodem SPD, nikoliv platnou právní úpravou."
     }
   ],
@@ -107,7 +113,7 @@
       "speaker": "Jindřich Reichl",
       "affiliation": "SPD",
       "timestamp": "1/10:03",
-      "screenshot_path": "summaries/screenshots/event_2881_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2881_controversy_00.jpg",
       "context": "Statistiky Policie ČR o kriminalitě cizinců takové paušální tvrzení nepotvrzují. Podle výročních zpráv o kriminalitě nejsou Ukrajinci v ČR dominantní skupinou v oblasti organizovaného zločinu a podíl cizinců na celkové kriminalitě dlouhodobě nevykazuje takový trend, jaký výrok naznačuje."
     },
     {
@@ -115,7 +121,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/04:07",
-      "screenshot_path": "summaries/screenshots/event_2881_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2881_controversy_01.jpg",
       "context": "Data Úřadu práce ČR a Ministerstva práce a sociálních věcí ukazují, že ukrajinští uprchlíci na trhu práce často obsazují pozice s nízkou kvalifikací, o které není mezi českými občany zájem. Ekonomické studie (např. ČNB) naopak naznačují, že zapojení uprchlíků do trhu práce pomáhá řešit nedostatek pracovních sil v české ekonomice."
     }
   ],

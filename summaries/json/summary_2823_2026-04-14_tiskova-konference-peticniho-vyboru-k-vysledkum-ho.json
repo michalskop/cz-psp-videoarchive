@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T14:26",
     "sources": [
       "final/event_2823_2026-04-14_tiskova-konference-peticniho-vyboru-k-vysledkum-ho.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5201_video-psp-2026414-1410-41-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -81,7 +87,7 @@
       "speaker": "Petra Šach",
       "affiliation": "Hodnotící komise",
       "timestamp": "1/07:11",
-      "screenshot_path": "summaries/screenshots/event_2823_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2823_highlight_00.jpg",
       "context": "Jde o konstatování výsledku dílčího hlasování v rámci procedury volby. Údaj o počtu hlasů je ověřitelný ze zápisu o hlasování příslušné komise."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Jan Hrnčíř",
       "affiliation": "Petiční výbor",
       "timestamp": "1/08:20",
-      "screenshot_path": "summaries/screenshots/event_2823_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2823_highlight_01.jpg",
       "context": "Role poradního orgánu a tajná volba jsou v souladu s jednacím řádem Poslanecké sněmovny (zákon č. 90/1995 Sb.). Tajná volba je standardním mechanismem pro personální nominace v parlamentu."
     },
     {
@@ -99,7 +105,7 @@
       "speaker": "Helena Válková",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/11:26",
-      "screenshot_path": "summaries/screenshots/event_2823_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2823_highlight_02.jpg",
       "context": "Nezávislost ombudsmana je zakotvena v zákoně č. 349/1999 Sb., o Veřejném ochránci práv. Tvrzení o „naprosté“ nezávislosti je však subjektivním hodnocením, neboť volba ombudsmana probíhá v politickém prostředí Poslanecké sněmovny, což je předmětem dlouhodobé odborné debaty."
     }
   ],
@@ -109,7 +115,7 @@
       "speaker": "Radek Bartoníček",
       "affiliation": "Aktuálně.cz",
       "timestamp": "1/13:31",
-      "screenshot_path": "summaries/screenshots/event_2823_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2823_controversy_00.jpg",
       "context": "Tvrzení reflektuje politologickou debatu o rozporu mezi zákonným požadavkem na odbornost a politickou realitou výběru kandidátů. Příklady Otakara Motejla a Stanislava Křečka ilustrují, že volba je výsledkem shody politických stran, nikoliv pouze odborného konsenzu."
     }
   ],

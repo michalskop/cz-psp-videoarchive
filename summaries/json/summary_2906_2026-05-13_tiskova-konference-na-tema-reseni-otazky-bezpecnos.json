@@ -10,6 +10,12 @@
     "end_date": "2026-05-13T15:34",
     "sources": [
       "final/event_2906_2026-05-13_tiskova-konference-na-tema-reseni-otazky-bezpecnos.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5303_video-psp-2026513-151-5-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +78,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO 2011",
       "timestamp": "1/01:43",
-      "screenshot_path": "summaries/screenshots/event_2906_highlight_00.jpg"
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2906_highlight_00.jpg"
     },
     {
       "text": "Nechceme posilovat soukromé osoby na úroveň policie, ale to hnutí si může uvnitř svými procesy nastavit parametry tak, aby si je samy metodicky nastavily.",
@@ -80,7 +86,7 @@
       "speaker": "Robert Králíček",
       "affiliation": "ANO 2011",
       "timestamp": "1/18:00",
-      "screenshot_path": "summaries/screenshots/event_2906_highlight_01.jpg"
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2906_highlight_01.jpg"
     },
     {
       "text": "V tuto chvíli na stole není plošné skenování lidí na stadionech, pracujeme s variantou, že do systému by se dostávali pouze lidé, kteří poruší pravidla.",
@@ -88,7 +94,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO 2011",
       "timestamp": "1/20:07",
-      "screenshot_path": "summaries/screenshots/event_2906_highlight_02.jpg"
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2906_highlight_02.jpg"
     }
   ],
   "controversial": [
@@ -97,7 +103,7 @@
       "speaker": "Patrik Nacher, Jiří Havránek",
       "affiliation": "ANO 2011, ODS",
       "timestamp": "1/04:02",
-      "screenshot_path": "summaries/screenshots/event_2906_controversy_00.jpg"
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2906_controversy_00.jpg"
     }
   ],
   "quality": {

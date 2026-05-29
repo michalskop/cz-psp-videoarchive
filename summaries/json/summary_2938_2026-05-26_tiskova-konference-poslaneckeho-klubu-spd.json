@@ -10,6 +10,12 @@
     "end_date": "2026-05-26T12:20",
     "sources": [
       "final/event_2938_2026-05-26_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5338_video-psp-2026526-120-8-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -74,7 +80,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/00:00",
-      "screenshot_path": "summaries/screenshots/event_2938_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2938_highlight_00.jpg",
       "context": "Tvrzení nelze nezávisle ověřit bez specifikace konkrétního legislativního návrhu či daňového opatření, na které řečník odkazuje. Úspora závisí na konkrétní skupině živnostníků, výši jejich příjmů a typu výdajových paušálů, nikoliv na plošném průměru pro všechny OSVČ."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Libor Vondráček",
       "affiliation": "SPD",
       "timestamp": "1/07:01",
-      "screenshot_path": "summaries/screenshots/event_2938_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2938_highlight_01.jpg",
       "context": "Jde o politický názor a vyjádření postoje k územnímu plánování a ochraně krajinného rázu. Výška větrných elektráren je regulována stavebním zákonem a procesy posuzování vlivů na životní prostředí (EIA), nikoliv plošným zákazem."
     },
     {
@@ -92,7 +98,7 @@
       "speaker": "Radek Koten",
       "affiliation": "SPD",
       "timestamp": "1/13:31",
-      "screenshot_path": "summaries/screenshots/event_2938_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2938_highlight_02.jpg",
       "context": "Tvrzení je zavádějící. Podle zákona č. 65/2022 Sb. (tzv. Lex Ukrajina) a souvisejících předpisů zaniká dočasná ochrana při dlouhodobém pobytu mimo území ČR, nikoliv pouze mimo Schengenský prostor. Pravidla pro zánik ochrany se řídí konkrétními lhůtami stanovenými v aktuálním znění zákona."
     }
   ],
@@ -102,7 +108,7 @@
       "speaker": "Radek Koten",
       "affiliation": "SPD",
       "timestamp": "1/14:05",
-      "screenshot_path": "summaries/screenshots/event_2938_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2938_controversy_00.jpg",
       "context": "Návrh na zrušení dočasné ochrany a dávek je politickým programovým bodem SPD. Zrušení dočasné ochrany by bylo v rozporu s aktuálním nastavením implementace směrnice EU o dočasné ochraně (2001/55/ES), ke které je ČR vázána."
     }
   ],

@@ -10,6 +10,81 @@
     "end_date": "2026-05-14T12:50",
     "sources": [
       "final/event_2910_2026-05-14_voda-je-zivot.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514100003.mp4",
+        "from_sec": 212
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514101003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514102003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514103001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514104002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514105001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514110001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514111002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514112000.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514113003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514114003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514115002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514120000.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514121001.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514122002.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514123003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514124003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/103/2026/05/14/_20260514125002.mp4"
+      }
     ]
   },
   "transcription": {
@@ -104,7 +179,7 @@
       "speaker": "Zdeněk Žalud",
       "affiliation": "Ústav výzkumu globální změny",
       "timestamp": "12/09:39",
-      "screenshot_path": "summaries/screenshots/event_2910_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2910_highlight_00.jpg",
       "context": "Tvrzení odpovídá závěrům zpráv IPCC (Mezivládní panel pro změnu klimatu), které potvrzují rozšiřování aridních a semiaridních oblastí. Dopad na zemědělskou produkci v klíčových regionech je vědecky podloženým rizikem pro globální potravinovou bezpečnost."
     },
     {
@@ -113,7 +188,7 @@
       "speaker": "Aleš Farda",
       "affiliation": "Ústav výzkumu globální změny",
       "timestamp": "9/05:56",
-      "screenshot_path": "summaries/screenshots/event_2910_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2910_highlight_01.jpg",
       "context": "Tento údaj je vědecky uznávaný a odpovídá odhadům oceánografů a klimatologů (např. NOAA či NASA). Fytoplankton v oceánech skutečně produkuje přibližně 50 až 80 % kyslíku v zemské atmosféře prostřednictvím fotosyntézy."
     },
     {
@@ -122,7 +197,7 @@
       "speaker": "Zdeněk Žalud",
       "affiliation": "Ústav výzkumu globální změny",
       "timestamp": "12/07:33",
-      "screenshot_path": "summaries/screenshots/event_2910_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2910_highlight_02.jpg",
       "context": "Data z projektu InterSucho (Ústav výzkumu globální změny AV ČR) potvrzují, že v posledních dvou dekádách dochází v ČR k častějšímu výskytu epizod sucha s vyšší intenzitou. Tento trend je v souladu s klimatickými modely předpovídajícími dopady globálního oteplování na střední Evropu."
     }
   ],
@@ -132,7 +207,7 @@
       "speaker": "Neidentifikovaný student",
       "affiliation": null,
       "timestamp": "6/04:03",
-      "screenshot_path": "summaries/screenshots/event_2910_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2910_controversy_00.jpg",
       "context": "Vědecká komunita pracuje s dlouhodobými paleoklimatickými daty (ledová jádra, sedimenty), nikoliv pouze s 25letým horizontem. Krátkodobá data se využívají pro analýzu současného antropogenního vlivu, který je svou rychlostí bezprecedentní v porovnání s přirozenými klimatickými cykly historie Země."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": null,
     "sources": [
       "final/event_2812_2026-03-31_slavnostni-provedeni-ustavy-ceske-republiky.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5183_Slavnostni_provedeni_Ustavy_CR.mp4"
+      }
     ]
   },
   "transcription": {
@@ -84,7 +90,7 @@
       "speaker": "Martin Plíšek",
       "affiliation": "Kancelář Poslanecké sněmovny",
       "timestamp": "1/07:02",
-      "screenshot_path": "summaries/screenshots/event_2812_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2812_highlight_00.jpg",
       "context": "Skládání slibu prezidenta republiky je dle čl. 59 Ústavy ČR ústavním aktem, při kterém je využíván originál Ústavy. Použití slavnostního provedení pro tyto účely je v souladu s protokolem Kanceláře Poslanecké sněmovny."
     },
     {
@@ -93,7 +99,7 @@
       "speaker": "Ondřej Tikovský",
       "affiliation": "Parlamentní knihovna",
       "timestamp": "1/16:40",
-      "screenshot_path": "summaries/screenshots/event_2812_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2812_highlight_01.jpg",
       "context": "Nelze nezávisle ověřit. Výrok je příliš obecný a bez kontextu konkrétního procesu, o kterém řečník hovoří, nelze určit, zda v daném případě skutečně nedocházelo k politickému či úřednímu rozhodování."
     },
     {
@@ -102,7 +108,7 @@
       "speaker": "Tomio Okamura",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/05:32",
-      "screenshot_path": "summaries/screenshots/event_2812_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2812_highlight_02.jpg",
       "context": "Jde o hodnotový a politický výrok, který vyjadřuje postoj řečníka k dodržování ústavních principů. Z povahy věci se nejedná o faktické tvrzení, které by bylo možné objektivně ověřit."
     }
   ],
@@ -112,7 +118,7 @@
       "speaker": "Iva Knobloch",
       "affiliation": "Odborná porota",
       "timestamp": "1/18:08",
-      "screenshot_path": "summaries/screenshots/event_2812_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2812_controversy_00.jpg",
       "context": "Povinnost vypisovat veřejné zakázky upravuje zákon č. 134/2016 Sb., o zadávání veřejných zakázek. Tvrzení, že soutěže „vždycky dopadají špatně“ kvůli neporovnatelnosti návrhů, je subjektivním názorem na efektivitu zadávacího procesu, nikoliv statisticky podloženým faktem."
     }
   ],

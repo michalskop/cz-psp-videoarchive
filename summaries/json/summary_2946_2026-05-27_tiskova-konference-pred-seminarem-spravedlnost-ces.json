@@ -10,6 +10,12 @@
     "end_date": "2026-05-27T09:41",
     "sources": [
       "final/event_2946_2026-05-27_tiskova-konference-pred-seminarem-spravedlnost-ces.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5346_video-psp-2026527-933-41-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -78,7 +84,7 @@
       "speaker": "Renáta Vesecká",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/01:45",
-      "screenshot_path": "summaries/screenshots/event_2946_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2946_highlight_00.jpg",
       "context": "Princip nezávislosti soudní moci je zakotven v Ústavě ČR (čl. 81 a 82). Nezávislost soudců se vztahuje na jejich rozhodovací činnost, nikoliv na jejich odpovědnost za kárná pochybení, která řeší zákon č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů."
     },
     {
@@ -87,7 +93,7 @@
       "speaker": "Petr Sadovský",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/02:35",
-      "screenshot_path": "summaries/screenshots/event_2946_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2946_highlight_01.jpg",
       "context": "Podle údajů Vězeňské služby ČR se naplněnost věznic dlouhodobě pohybuje kolem 100 % kapacity. Rozpočet Vězeňské služby ČR se v posledních letech skutečně pohybuje v řádech 12–14 miliard korun ročně (dle schválených zákonů o státním rozpočtu)."
     },
     {
@@ -96,7 +102,7 @@
       "speaker": "Brandon Garrett",
       "affiliation": null,
       "timestamp": "1/06:00",
-      "screenshot_path": "summaries/screenshots/event_2946_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2946_highlight_02.jpg",
       "context": "Údaj o 450 osvobozeních na základě DNA testů odpovídá datům organizace 'The Innocence Project', která se v USA specializuje na revizi případů odsouzených na základě nových důkazů. Časový odhad 15 let je v kontextu amerického soudního systému a složitosti odvolacích řízení považován za realistický průměr."
     }
   ],
@@ -106,7 +112,7 @@
       "speaker": "Petr Sadovský",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2946_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2946_controversy_00.jpg",
       "context": "Statistiky recidivy v ČR se liší podle metodiky (např. 3letá vs. 5letá recidiva), přičemž oficiální data Vězeňské služby ČR a Probační a mediační služby se často pohybují v rozmezí 60–70 %. Tvrzení o naplněnosti věznic nad 100 % a nákladech 13 mld. Kč odpovídá aktuálním výročním zprávám Vězeňské služby ČR."
     }
   ],

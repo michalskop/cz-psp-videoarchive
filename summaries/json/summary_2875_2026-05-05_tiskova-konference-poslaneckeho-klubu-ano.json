@@ -10,6 +10,12 @@
     "end_date": "2026-05-05T14:00",
     "sources": [
       "final/event_2875_2026-05-05_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5268_video-psp-202655-1356-34-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -56,7 +62,7 @@
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
       "timestamp": "1/02:08",
-      "screenshot_path": "summaries/screenshots/event_2875_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_highlight_00.jpg",
       "context": "Příspěvek na mobilitu je upraven zákonem č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením. Aktuální výše příspěvku činí 900 Kč měsíčně, nikoliv 3 000 Kč; tvrzení o částce 3 000 Kč je tedy fakticky nesprávné."
     },
     {
@@ -65,7 +71,7 @@
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
       "timestamp": "1/01:50",
-      "screenshot_path": "summaries/screenshots/event_2875_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_highlight_01.jpg",
       "context": "Jde o politické hodnocení připravenosti digitalizačních procesů. Srovnání s digitalizací stavebního řízení (podle zákona č. 283/2021 Sb.), která čelila po spuštění v červenci 2024 rozsáhlým technickým výpadkům, je legitimní politickou kritikou, kterou nelze objektivně potvrdit ani vyvrátit před spuštěním konkrétního systému."
     },
     {
@@ -74,7 +80,7 @@
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
       "timestamp": "1/03:15",
-      "screenshot_path": "summaries/screenshots/event_2875_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_highlight_02.jpg",
       "context": "Czech POINT je standardizovaný systém asistovaného přístupu k elektronické komunikaci státu (zákon č. 365/2000 Sb.). Dostupnost služeb Czech POINT na úřadech je fakticky nezávislá na počtu poboček České pošty, ačkoliv pošty byly historicky jedním z hlavních míst poskytování těchto služeb."
     }
   ],
@@ -84,7 +90,7 @@
       "speaker": "Taťána Malá",
       "affiliation": "ANO",
       "timestamp": "1/01:15",
-      "screenshot_path": "summaries/screenshots/event_2875_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_controversy_00.jpg",
       "context": "Návrh na rozšíření pravomocí NKÚ na hospodaření ČT a ČRo je dlouhodobým politickým tématem. Podle platného zákona č. 166/1993 Sb. NKÚ nemá pravomoc kontrolovat média veřejné služby; změna vyžaduje ústavní zákon, o kterém se v Parlamentu ČR opakovaně diskutuje, ale dosud nebyl přijat."
     }
   ],

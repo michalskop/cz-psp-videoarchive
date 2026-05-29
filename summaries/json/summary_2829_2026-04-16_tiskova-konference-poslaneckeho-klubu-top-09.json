@@ -10,6 +10,12 @@
     "end_date": "2026-04-16",
     "sources": [
       "final/event_2829_2026-04-16_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5212_video-psp-2026416-1019-58-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -70,7 +76,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/00:30",
-      "screenshot_path": "summaries/screenshots/event_2829_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_highlight_00.jpg",
       "context": "Tvrzení se týká kauzy poradkyně ministryně práce a sociálních věcí Jany Maláčové (ČSSD) z roku 2021. Částka 100 milionů Kč byla uváděna v médiích jako odhadovaná výše škody v souvislosti s údajným střetem zájmů a zakázkami, avšak věc byla předmětem politické debaty a šetření orgánů činných v trestním řízení; konečná právní kvalifikace škody závisí na výsledcích vyšetřování."
     },
     {
@@ -79,7 +85,7 @@
       "speaker": "Břetislav Rychlík",
       "affiliation": "Senát",
       "timestamp": "1/11:07",
-      "screenshot_path": "summaries/screenshots/event_2829_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_highlight_01.jpg",
       "context": "Role veřejnoprávních médií v krizových situacích je ukotvena v zákoně č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání, a v zákoně č. 240/2000 Sb. (krizový zákon). ČT a ČRo mají zákonnou povinnost poskytovat informace v případě ohrožení státu nebo při mimořádných událostech, což potvrzuje jejich roli v bezpečnostním systému."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/14:48",
-      "screenshot_path": "summaries/screenshots/event_2829_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_highlight_02.jpg",
       "context": "Jedná se o politické prohlášení o záměru využít parlamentní obstrukce. Možnost blokovat legislativní proces je legitimním politickým nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.), jehož efektivita závisí na aktuálním nastavení pravidel a ochotě koalice k dohodě."
     }
   ],
@@ -98,7 +104,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/14:05",
-      "screenshot_path": "summaries/screenshots/event_2829_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_controversy_00.jpg",
       "context": "Obstrukce jsou v Poslanecké sněmovně běžným nástrojem opozice (např. dlouhé projevy, blokování schůze). Výrok o „obstrukcích, jaké sněmovna ještě nezažila“ je politickou rétorikou, jejíž naplnění nelze fakticky ověřit, neboť intenzita obstrukcí je subjektivně vnímána a závisí na konkrétním postupu opozičních poslanců."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-05-26T15:24",
     "sources": [
       "final/event_2944_2026-05-26_tiskova-konference-k-akci-charitativni-orientak-v-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5344_video-psp-2026526-151-40-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -93,7 +99,7 @@
       "speaker": "Jan Picek",
       "affiliation": "Český svaz orientačních sportů",
       "timestamp": "1/03:42",
-      "screenshot_path": "summaries/screenshots/event_2944_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2944_highlight_00.jpg",
       "context": "Jedná se o konkrétní údaj o účasti a vybrané částce z charitativní akce. Nelze nezávisle ověřit bez přístupu k internímu vyúčtování pořadatele, ale údaj je v kontextu lokálních sportovních akcí věrohodný."
     },
     {
@@ -102,7 +108,7 @@
       "speaker": "Aleš Sedláček",
       "affiliation": "Česká rada dětí a mládeže",
       "timestamp": "1/15:38",
-      "screenshot_path": "summaries/screenshots/event_2944_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2944_highlight_01.jpg",
       "context": "Projekt „Darujeme kroužky dětem“ je dlouhodobá iniciativa České rady dětí a mládeže. Dle veřejných zpráv projektu a výročních zpráv skutečně počet podpořených dětí přesáhl hranici 20 000."
     },
     {
@@ -111,7 +117,7 @@
       "speaker": "Karel Haas",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/09:56",
-      "screenshot_path": "summaries/screenshots/event_2944_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2944_highlight_02.jpg",
       "context": "Jde o subjektivní politické a filozofické hodnocení fungování institucí. Nelze fakticky ověřit, neboť jde o názor na míru transparentnosti a přístupnosti parlamentu."
     }
   ],
@@ -121,7 +127,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/06:09",
-      "screenshot_path": "summaries/screenshots/event_2944_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2944_controversy_00.jpg",
       "context": "Návrh na rozšíření trasy závodu do prostor s vyšším stupněm zabezpečení podléhá schválení Kanceláře Poslanecké sněmovny a Ochranné služby Policie ČR. Obavy o bezpečnost v souvislosti s pohybem osob v neveřejných částech budov jsou v kontextu zákona č. 154/1994 Sb., o utajovaných informacích, a vnitřních předpisů sněmovny legitimním faktorem."
     }
   ],

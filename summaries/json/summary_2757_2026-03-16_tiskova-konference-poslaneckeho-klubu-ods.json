@@ -10,6 +10,12 @@
     "end_date": "2026-03-16",
     "sources": [
       "final/event_2757_2026-03-16_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5123_video-psp-2026316-1532-4-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -71,7 +77,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/00:45",
-      "screenshot_path": "summaries/screenshots/event_2757_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2757_highlight_00.jpg",
       "context": "Vláda v roce 2022 skutečně dočasně snížila spotřební daň z nafty o 1,50 Kč a z benzinu o 1,50 Kč (později 1,70 Kč). Ekonomické studie (např. analýzy NERV či MF ČR) se však rozcházejí v tom, zda se snížení plně promítlo do cen pro konečné spotřebitele, nebo zda jej částečně pohltily marže prodejců."
     },
     {
@@ -80,7 +86,7 @@
       "speaker": "Karel Haas",
       "affiliation": "ODS",
       "timestamp": "1/11:45",
-      "screenshot_path": "summaries/screenshots/event_2757_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2757_highlight_01.jpg",
       "context": "Toto tvrzení vychází z průzkumů mezi úředníky obcí s rozšířenou působností v rámci přípravy reformy stavebního řízení. Data reflektují obavy úředníků z nejistoty ohledně budoucího zařazení a pracovních podmínek při přechodu pod státní správu."
     },
     {
@@ -89,7 +95,7 @@
       "speaker": "Renata Zajíčková",
       "affiliation": "ODS",
       "timestamp": "1/16:20",
-      "screenshot_path": "summaries/screenshots/event_2757_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2757_highlight_02.jpg",
       "context": "Argument o přesunu na černý trh je častým tématem odborné debaty o adiktologii. V současnosti probíhá legislativní proces, který zvažuje zařazení kratomu na seznam návykových látek, přičemž zastánci regulace (včetně některých vládních poslanců) argumentují rizikem nekontrolované distribuce nekvalitních produktů."
     }
   ],
@@ -99,7 +105,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/20:02",
-      "screenshot_path": "summaries/screenshots/event_2757_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2757_controversy_00.jpg",
       "context": "Srovnání s ruským zákonem o „zahraničních agentech“ je politickou rétorikou. Ruský zákon z roku 2012 slouží k systematické perzekuci neziskových organizací, zatímco debata v ČR se vede o transparentnosti financování subjektů ovlivňujících veřejné dění; konkrétní návrh zákona o neziskových organizacích v této podobě nebyl v době výroku vládním legislativním materiálem."
     }
   ],

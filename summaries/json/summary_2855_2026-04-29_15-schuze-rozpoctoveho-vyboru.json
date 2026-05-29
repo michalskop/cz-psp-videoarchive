@@ -10,6 +10,85 @@
     "end_date": "2026-04-29T12:02",
     "sources": [
       "final/event_2855_2026-04-29_15-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429090004.mp4",
+        "from_sec": 349
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429091004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429092004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429093004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429094004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429095004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429100004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429101004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429102004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429103004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429104004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429105004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429110004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429111004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429112004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429113003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429114003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429115002.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/04/29/_20260429120002.mp4"
+      }
     ]
   },
   "transcription": {
@@ -90,7 +169,7 @@
       "speaker": "Jan Gregor",
       "affiliation": "Evropský účetní dvůr",
       "timestamp": "7/02:05",
-      "screenshot_path": "summaries/screenshots/event_2855_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2855_highlight_00.jpg",
       "context": "Tvrzení je pravdivé. Evropský účetní dvůr (EÚD) má podle článku 287 Smlouvy o fungování EU povinnost předkládat Evropskému parlamentu a Radě výroční zprávu o plnění rozpočtu EU."
     },
     {
@@ -99,7 +178,7 @@
       "speaker": null,
       "affiliation": null,
       "timestamp": "6/00:40",
-      "screenshot_path": "summaries/screenshots/event_2855_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2855_highlight_01.jpg",
       "context": "Údaje odpovídají datům Ministerstva financí ČR za září 2024. Schodek státního rozpočtu ke konci září 2024 skutečně činil 153,9 mld. Kč, což odpovídá přibližně 63,8 % schváleného deficitu pro rok 2024 (252 mld. Kč)."
     },
     {
@@ -108,7 +187,7 @@
       "speaker": "Vojtěch Munzar",
       "affiliation": "ODS",
       "timestamp": "12/02:05",
-      "screenshot_path": "summaries/screenshots/event_2855_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2855_highlight_02.jpg",
       "context": "Jde o interpretaci právního vývoje. Judikatura Nejvyššího soudu ČR (např. sp. zn. 33 Cdo 3624/2019) se dlouhodobě staví proti lichvě a stanovuje limity pro RPSN, nicméně konkrétní hranice 48 % RPSN je předmětem politické debaty o legislativním ukotvení zákona o spotřebitelském úvěru."
     }
   ],
@@ -118,7 +197,7 @@
       "speaker": "Miroslav Ševčík, Jan Jakob, Věra Kovářová",
       "affiliation": "SPD, TOP 09, STAN",
       "timestamp": "9/02:08",
-      "screenshot_path": "summaries/screenshots/event_2855_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2855_controversy_00.jpg",
       "context": "Nelze nezávisle ověřit. Jedná se o politickou polemiku a hodnotové soudy, nikoliv o faktická tvrzení, která by bylo možné objektivně verifikovat pomocí statistických dat."
     }
   ],

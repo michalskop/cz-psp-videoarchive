@@ -10,6 +10,85 @@
     "end_date": "2026-05-14T12:06",
     "sources": [
       "final/event_2909_2026-05-14_16-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514090003.mp4",
+        "from_sec": 312
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514091003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514092003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514093003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514094003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514095004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514100004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514101004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514102004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514103004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514104004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514105004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514110004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514111004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514112004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514113004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514114004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514115004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/14/_20260514120004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -82,7 +161,7 @@
       "speaker": "Karel Tyl",
       "affiliation": "Ministerstvo financí",
       "timestamp": "14/03:46",
-      "screenshot_path": "summaries/screenshots/event_2909_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2909_highlight_00.jpg",
       "context": "Údaje odpovídají predikcím Ministerstva financí ČR v rámci návrhu státního rozpočtu na rok 2025. Přesná čísla se mohou lišit v závislosti na aktuálním plnění rozpočtu a vývoji emisí státních dluhopisů, které eviduje Správa státního dluhu."
     },
     {
@@ -91,7 +170,7 @@
       "speaker": "Miroslav Samaš",
       "affiliation": "Poslanec",
       "timestamp": "11/06:14",
-      "screenshot_path": "summaries/screenshots/event_2909_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2909_highlight_01.jpg",
       "context": "Jde o politické tvrzení založené na teorii multiplikačního efektu investic. Ekonomický dopad dluhu závisí na efektivitě vynaložených prostředků a schopnosti ekonomiky generovat vyšší HDP než jsou náklady na obsluhu dluhu, což je předmětem odborných debat."
     },
     {
@@ -100,7 +179,7 @@
       "speaker": "Jan Munzar",
       "affiliation": "Poslanec",
       "timestamp": "12/07:06",
-      "screenshot_path": "summaries/screenshots/event_2909_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2909_highlight_02.jpg",
       "context": "Výnosy polských desetiletých státních dluhopisů se v průběhu roku 2024 a začátku roku 2025 pohybovaly v rozmezí 5,5–6 %. Výše úročení je však ovlivněna nejen zadlužením, ale především měnovou politikou polské centrální banky (NBP) a inflačními očekáváními."
     }
   ],
@@ -110,7 +189,7 @@
       "speaker": "Jan Munzar",
       "affiliation": "Poslanec",
       "timestamp": "3/02:03",
-      "screenshot_path": "summaries/screenshots/event_2909_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2909_controversy_00.jpg",
       "context": "Argument o riziku přesunu klientů k nelegálním poskytovatelům (tzv. efekt vytěsnění) je častým tématem diskusí o regulaci trhu spotřebitelských úvěrů. Empirické studie o dopadech zastropování RPSN na šedou ekonomiku nejsou jednoznačné a závisí na míře vymahatelnosti práva a aktivitách ČNB."
     }
   ],

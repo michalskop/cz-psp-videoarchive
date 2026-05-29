@@ -10,6 +10,61 @@
     "end_date": "2026-03-17T18:01",
     "sources": [
       "final/event_2756_2026-03-17_rozpoctove-urceni-dani.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317160002.mp4",
+        "from_sec": 88
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317161002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317162002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317163002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317164002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317165002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317170002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317171002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317172002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317173002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317174002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317175002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/17/_20260317180002.mp4"
+      }
     ]
   },
   "transcription": {
@@ -76,7 +131,7 @@
       "speaker": "Petra Pecková",
       "affiliation": "Hejtmanka Středočeského kraje",
       "timestamp": "3/07:04",
-      "screenshot_path": "summaries/screenshots/event_2756_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2756_highlight_00.jpg",
       "context": "Zákon o rozpočtovém určení daní (RUD) pro kraje byl naposledy zásadněji reformován v roce 2004 a od té doby nedošlo k systémové změně parametrů rozdělování výnosů daní. Středočeský kraj dlouhodobě argumentuje, že současný model znevýhodňuje kraje s vysokým nárůstem obyvatelstva, neboť kritéria nedostatečně reflektují dynamiku demografického vývoje a potřeby investic do infrastruktury."
     }
   ],
@@ -86,7 +141,7 @@
       "speaker": "Jiří Munich",
       "affiliation": "PAQ Research",
       "timestamp": "5/06:02",
-      "screenshot_path": "summaries/screenshots/event_2756_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2756_controversy_00.jpg",
       "context": "Debata o motivačních prvcích v RUD (např. podíl z vybrané daně z příjmů právnických osob v daném regionu) je předmětem odborných diskusí. Obava z „hungarizace“ (odkaz na maďarský model centralizace) reflektuje riziko, že by bohatší regiony získaly výraznou výhodu na úkor strukturálně postižených oblastí, což by prohloubilo regionální nerovnosti. Ministerstvo financí dlouhodobě preferuje stabilitu a předvídatelnost systému před zavedením prvků, které by mohly vést k fiskální nestabilitě periferií."
     }
   ],

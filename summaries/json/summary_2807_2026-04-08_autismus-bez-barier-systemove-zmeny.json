@@ -10,6 +10,129 @@
     "end_date": "2026-04-08T17:55",
     "sources": [
       "final/event_2807_2026-04-08_autismus-bez-barier-systemove-zmeny.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408130004.mp4",
+        "from_sec": 401
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408131004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408132004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408133004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408134004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408135004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408140004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408141004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408142004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408143004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408144004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408145004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408150004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408151004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408152004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408153004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408154004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408155004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408160004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408161003.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408162003.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408163003.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408164003.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408165003.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408170003.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408171003.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408172003.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408173003.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408174003.mp4"
+      },
+      {
+        "part": 30,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/04/08/_20260408175003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -95,7 +218,7 @@
       "speaker": "Petr Třešňák",
       "affiliation": "Děti úplňku",
       "timestamp": "14/00:45",
-      "screenshot_path": "summaries/screenshots/event_2807_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_highlight_00.jpg",
       "context": "Nelze nezávisle ověřit. Studie zabývající se kvalitou života osob s PAS v ústavní péči často uvádějí negativní dopady na psychický stav, avšak konkrétní kvantifikace „20 až 40 %“ není podložena všeobecně uznávanou vědeckou metaanalýzou."
     },
     {
@@ -104,7 +227,7 @@
       "speaker": "Kateřina Vencová",
       "affiliation": "ČZU",
       "timestamp": "26/04:00",
-      "screenshot_path": "summaries/screenshots/event_2807_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_highlight_01.jpg",
       "context": "Tento údaj odpovídá datům publikovaným organizacemi jako Autism-Europe či European Disability Forum. Míra nezaměstnanosti osob s PAS se v evropském kontextu skutečně dlouhodobě pohybuje v rozmezí 70–90 % v závislosti na míře podpory a typu postižení."
     },
     {
@@ -113,7 +236,7 @@
       "speaker": "Paní Vingraupová",
       "affiliation": "rodič",
       "timestamp": "11/08:04",
-      "screenshot_path": "summaries/screenshots/event_2807_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_highlight_02.jpg",
       "context": "Jde o subjektivní vyjádření osobní zkušenosti rodiče, které nelze fakticky ověřit. V kontextu školství se jedná o kritiku komunikace mezi školským zařízením a zákonnými zástupci ohledně incidentů v rámci inkluzivního či speciálního vzdělávání."
     }
   ],
@@ -123,7 +246,7 @@
       "speaker": "Petr Horský",
       "affiliation": "LEGO Group",
       "timestamp": "27/04:00",
-      "screenshot_path": "summaries/screenshots/event_2807_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_controversy_00.jpg",
       "context": "Označení „výpalné“ je hodnotící politický a rétorický obrat. Z právního hlediska jde o povinný odvod do státního rozpočtu dle zákona č. 435/2004 Sb., o zaměstnanosti, pokud zaměstnavatel nezaměstnává zákonem stanovený podíl osob se zdravotním postižením."
     }
   ],

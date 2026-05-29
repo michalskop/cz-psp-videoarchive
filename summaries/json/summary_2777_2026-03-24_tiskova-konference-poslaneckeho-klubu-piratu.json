@@ -10,6 +10,12 @@
     "end_date": "2026-03-24T13:00",
     "sources": [
       "final/event_2777_2026-03-24_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5144_video-psp-2026324-1241-33-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -73,7 +79,7 @@
       "speaker": "Kateřina Stojanová",
       "affiliation": "Piráti",
       "timestamp": "1/01:01",
-      "screenshot_path": "summaries/screenshots/event_2777_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2777_highlight_00.jpg",
       "context": "Návrh na zrušení zákona u Ústavního soudu může podat skupina nejméně 25 poslanců nebo 10 senátorů podle čl. 87 odst. 1 písm. a) Ústavy ČR. Zda je konkrétní legislativní návrh v rozporu s ústavním pořádkem, je právní interpretace, kterou s konečnou platností posuzuje až Ústavní soud."
     },
     {
@@ -82,7 +88,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/03:48",
-      "screenshot_path": "summaries/screenshots/event_2777_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2777_highlight_01.jpg",
       "context": "Současný systém financování ČT a ČRo je založen na koncesionářských poplatcích, což je zákonem stanovený mechanismus (zákon č. 483/1991 Sb. a č. 484/1991 Sb.). Přímé financování ze státního rozpočtu by vyžadovalo legislativní změnu, která by dle kritiků mohla oslabit nezávislost médií, neboť rozpočet podléhá každoročnímu schvalování Poslaneckou sněmovnou."
     },
     {
@@ -91,7 +97,7 @@
       "speaker": "Olga Richterová",
       "affiliation": "Piráti",
       "timestamp": "1/09:18",
-      "screenshot_path": "summaries/screenshots/event_2777_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2777_highlight_02.jpg",
       "context": "Výpočet závisí na konkrétním investičním horizontu, výši vkladů a zhodnocení v rámci penzijního připojištění či doplňkového penzijního spoření. Snížení poplatků správcům fondů skutečně snižuje nákladovost (TER), což v dlouhodobém horizontu díky složenému úročení zvyšuje konečnou naspořenou částku, ale konkrétní výše úspory je individuální."
     }
   ],
@@ -101,7 +107,7 @@
       "speaker": null,
       "affiliation": null,
       "timestamp": "1/02:15",
-      "screenshot_path": "summaries/screenshots/event_2777_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2777_controversy_00.jpg",
       "context": "Vláda Andreje Babiše v minulosti skutečně opakovaně kritizovala koncesionářské poplatky a zmiňovala možnost jejich zrušení. K legislativnímu kroku, který by plně převedl financování médií pod státní rozpočet, však během jejího funkčního období nedošlo."
     },
     {
@@ -109,7 +115,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/14:03",
-      "screenshot_path": "summaries/screenshots/event_2777_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2777_controversy_01.jpg",
       "context": "Nelze nezávisle ověřit. Bezpečnostní složky státu (BIS, Policie ČR) k případu útoku v Pardubicích oficiálně neposkytly informace, které by potvrzovaly verzi o „false flag“ operaci či přímé ruské stopě. Jde o politickou interpretaci události, která nebyla podložena zveřejněnými důkazy z vyšetřování."
     }
   ],

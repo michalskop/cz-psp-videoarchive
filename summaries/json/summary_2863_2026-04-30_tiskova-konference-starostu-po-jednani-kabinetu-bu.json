@@ -10,6 +10,12 @@
     "end_date": "2026-04-30T11:11",
     "sources": [
       "final/event_2863_2026-04-30_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5256_TK-STAN-video-psp-2026430-1059-54-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -64,7 +70,7 @@
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/04:24",
-      "screenshot_path": "summaries/screenshots/event_2863_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_highlight_00.jpg",
       "context": "Tvrzení se týká novely zákona o rozpočtové odpovědnosti (tzv. fiskální pravidla). Zda jsou národní pravidla přísnější než evropská (Pakt stability a růstu), je předmětem odborné debaty o nastavení výdajových rámců a dluhové brzdy; nelze nezávisle ověřit jako fakt, jde o interpretaci dopadů legislativního návrhu."
     },
     {
@@ -73,7 +79,7 @@
       "speaker": "Lukáš Vlček",
       "affiliation": "STAN",
       "timestamp": "1/02:05",
-      "screenshot_path": "summaries/screenshots/event_2863_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_highlight_01.jpg",
       "context": "Jde o politické obvinění směřující k osobní integritě ministryně. Zda se konkrétní legislativní návrh vztahuje na legalizaci konkrétní stavby, je otázkou právního výkladu a faktického stavu dané nemovitosti, což nelze bez konkrétního spisu ověřit."
     },
     {
@@ -82,7 +88,7 @@
       "speaker": "Tomáš Dubský",
       "affiliation": "STAN",
       "timestamp": "1/08:33",
-      "screenshot_path": "summaries/screenshots/event_2863_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_highlight_02.jpg",
       "context": "Vymáhání dotací se řídí zákonem č. 218/2000 Sb., o rozpočtových pravidlech. Pravomoc rozhodovat o neoprávněném použití prostředků mají primárně poskytovatelé dotací a finanční úřady, přičemž soudy přezkoumávají zákonnost těchto rozhodnutí ve správním soudnictví."
     }
   ],
@@ -92,7 +98,7 @@
       "speaker": "Lukáš Vlček",
       "affiliation": "STAN",
       "timestamp": "1/01:15",
-      "screenshot_path": "summaries/screenshots/event_2863_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_controversy_00.jpg",
       "context": "Výzva k rezignaci je politickým aktem, nikoliv faktickým tvrzením. Obvinění ze střetu zájmů a legalizace staveb je politickou interpretací kauzy, jejíž právní podstatu musí posoudit příslušné stavební úřady nebo soudy."
     },
     {
@@ -100,7 +106,7 @@
       "speaker": "Lukáš Vlček",
       "affiliation": "STAN",
       "timestamp": "1/10:05",
-      "screenshot_path": "summaries/screenshots/event_2863_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_controversy_01.jpg",
       "context": "Kompetenční žaloba je ústavní nástroj podle čl. 87 odst. 1 písm. k) Ústavy ČR. Zda vláda brání prezidentovi v účasti na summitu NATO, je předmětem politického sporu o výklad pravomocí v zahraniční politice mezi vládou a Hradem."
     }
   ],

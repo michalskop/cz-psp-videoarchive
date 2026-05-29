@@ -10,6 +10,12 @@
     "end_date": "2026-04-02T11:34",
     "sources": [
       "final/event_2804_2026-04-02_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5175_video-psp-202642-1123-1-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -60,7 +66,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/07:32",
-      "screenshot_path": "summaries/screenshots/event_2804_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_highlight_00.jpg",
       "context": "Výrok se týká interpretace pojmu 'veřejný zájem' v rámci legislativního procesu (např. stavební zákon). Zda je podnikatelský záměr v souladu s veřejným zájmem, je předmětem právní a politické debaty, nikoliv exaktně měřitelný fakt."
     },
     {
@@ -69,7 +75,7 @@
       "speaker": "Veronika Kovářová",
       "affiliation": "Piráti",
       "timestamp": "1/05:01",
-      "screenshot_path": "summaries/screenshots/event_2804_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_highlight_01.jpg",
       "context": "Možnost individuálních změn územního plánu (tzv. změny na míru) je dlouhodobě kritizována protikorupčními organizacemi (např. Transparency International) jako riziková oblast. Fakticky jde o procesní nastavení samospráv, které může být zneužito, pokud není dostatečně transparentní."
     },
     {
@@ -78,7 +84,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/08:00",
-      "screenshot_path": "summaries/screenshots/event_2804_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_highlight_02.jpg",
       "context": "Sazby DPH jsou stanoveny zákonem č. 235/2004 Sb. Návrh na snížení DPH je legitimní politický požadavek, nikoliv faktické tvrzení. Pojem 'nadvýběr DPH' je ekonomický konstrukt závislý na predikcích MF ČR a vývoji inflace, nelze jej tedy objektivně vyčíslit jako fixní částku k vrácení."
     }
   ],
@@ -88,7 +94,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/06:02",
-      "screenshot_path": "summaries/screenshots/event_2804_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_controversy_00.jpg",
       "context": "Tvrzení o 'překrucování definice' je politickou interpretací legislativního návrhu. Zda konkrétní znění novely umožňuje vyvlastnění ve prospěch soukromého podnikání, závisí na právním výkladu ustanovení o veřejném zájmu v zákoně č. 184/2006 Sb. (o odnětí nebo omezení vlastnického práva)."
     }
   ],

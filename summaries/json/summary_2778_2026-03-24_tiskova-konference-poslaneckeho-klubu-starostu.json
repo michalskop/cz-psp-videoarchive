@@ -10,6 +10,12 @@
     "end_date": "2026-03-24T13:20",
     "sources": [
       "final/event_2778_2026-03-24_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5145_video-psp-2026324-131-32-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -76,7 +82,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/01:22",
-      "screenshot_path": "summaries/screenshots/event_2778_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2778_highlight_00.jpg",
       "context": "Jde o politickou interpretaci legislativního návrhu na změnu způsobu volby členů rad veřejnoprávních médií. Z právního hlediska se nejedná o zestátnění v pravém smyslu (převod do vlastnictví státu), ale o změnu mechanismu dohledu, což kritici vnímají jako posílení politického vlivu."
     },
     {
@@ -85,7 +91,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/12:02",
-      "screenshot_path": "summaries/screenshots/event_2778_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2778_highlight_01.jpg",
       "context": "Údaje odpovídají statistikám Národního onkologického registru (NOR) pro vybraná onkologická onemocnění (např. karcinom děložního hrdla). Pro přesné ověření je nutné znát konkrétní diagnózu, ke které se řečnice vztahovala."
     },
     {
@@ -94,7 +100,7 @@
       "speaker": "Jan Papajanovský",
       "affiliation": "STAN",
       "timestamp": "1/15:03",
-      "screenshot_path": "summaries/screenshots/event_2778_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2778_highlight_02.jpg",
       "context": "Tvrzení vychází z analýz daňové zátěže OSVČ, které zohledňují vliv paušálních výdajů a degresivního efektu sociálního a zdravotního pojištění. Výsledná procenta se mohou lišit podle metodiky výpočtu a započtení slev na dani."
     }
   ],
@@ -104,7 +110,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/02:01",
-      "screenshot_path": "summaries/screenshots/event_2778_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2778_controversy_00.jpg",
       "context": "Výrok je politickým hodnocením záměru vlády. Srovnání se Slovenskem (změna zákona o RTVS) a Maďarskem (centralizace médií pod vládní vliv) je běžnou politickou rétorikou, nikoliv faktickým popisem právního stavu."
     },
     {
@@ -112,7 +118,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/10:03",
-      "screenshot_path": "summaries/screenshots/event_2778_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2778_controversy_01.jpg",
       "context": "Nelze nezávisle ověřit. Jde o interpretaci politických motivů a zákulisních vyjednávání mezi politickými subjekty, kterou nelze objektivně doložit z veřejných záznamů."
     }
   ],

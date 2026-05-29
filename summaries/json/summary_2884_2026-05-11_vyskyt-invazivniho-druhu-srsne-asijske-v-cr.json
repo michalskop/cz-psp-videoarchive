@@ -10,6 +10,77 @@
     "end_date": "2026-05-11",
     "sources": [
       "final/event_2884_2026-05-11_vyskyt-invazivniho-druhu-srsne-asijske-v-cr.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511101003.mp4",
+        "from_sec": 247
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511102003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511103003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511104003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511105003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511110003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511111003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511112003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511113003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511114003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511115003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511120003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511121003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511122003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511123003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511124003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/11/_20260511125003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -113,7 +184,7 @@
       "speaker": "František Krejčí",
       "affiliation": "Český svaz včelařů",
       "timestamp": "10/04:22",
-      "screenshot_path": "summaries/screenshots/event_2884_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2884_highlight_00.jpg",
       "context": "Tvrzení odpovídá odborným odhadům o predátorské aktivitě sršně asijské (Vespa velutina). Podle dat z evropských invazních studií může jedna kolonie sršní při vysoké hustotě populace způsobit včelstvům značné ztráty, přičemž denní lov jedné dělnice se pohybuje v řádech desítek včel."
     },
     {
@@ -122,7 +193,7 @@
       "speaker": "Stanislav Volf",
       "affiliation": "Asociace profesionálních včelařů",
       "timestamp": "8/04:38",
-      "screenshot_path": "summaries/screenshots/event_2884_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2884_highlight_01.jpg",
       "context": "Pasti jsou skutečně primárně určeny k detekci výskytu invazního druhu v dané lokalitě. Odborníci z AOPK ČR a výzkumných ústavů potvrzují, že plošné nastražení pastí včelstva před útoky sršní reálně neochrání, naopak může vést k vysokým vedlejším ztrátám jiného užitečného hmyzu."
     },
     {
@@ -131,7 +202,7 @@
       "speaker": "Tomáš Görner",
       "affiliation": "AOPK ČR",
       "timestamp": "2/03:30",
-      "screenshot_path": "summaries/screenshots/event_2884_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2884_highlight_02.jpg",
       "context": "Tento postup vychází z Nařízení Evropského parlamentu a Rady (EU) č. 1143/2014 o prevenci a regulaci zavlékání či vysazování invazních nepůvodních druhů. Rychlá eradikace (likvidace) v počáteční fázi je mezinárodně uznávanou strategií, neboť po plném usídlení druhu je jeho úplné vyhubení v otevřené krajině prakticky nemožné."
     }
   ],
@@ -141,7 +212,7 @@
       "speaker": "Stanislav Volf a Helena Proková Mališová",
       "affiliation": "APV a COLOSS",
       "timestamp": "3/02:03",
-      "screenshot_path": "summaries/screenshots/event_2884_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2884_controversy_00.jpg",
       "context": "Riziko neodborného zásahu je potvrzeno entomology, kteří varují před tzv. 'vedlejšími úlovky' v selektivně neupravených pastích. Politický kontext spočívá v tlaku včelařské veřejnosti na aktivní řešení, které však bez koordinace s orgány ochrany přírody (AOPK ČR) může narušit ekosystémovou rovnováhu."
     }
   ],

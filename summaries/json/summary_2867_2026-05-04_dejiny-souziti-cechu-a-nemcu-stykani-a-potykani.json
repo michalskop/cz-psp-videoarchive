@@ -10,6 +10,85 @@
     "end_date": "2026-05-04",
     "sources": [
       "final/event_2867_2026-05-04_dejiny-souziti-cechu-a-nemcu-stykani-a-potykani.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504140003.mp4",
+        "from_sec": 117
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504141003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504142003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504143003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504144003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504145003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504150003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504151003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504152003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504153003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504154003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504155003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504160003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504161003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504162003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504163003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504164003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504165003.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/05/04/_20260504170003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -80,7 +159,7 @@
       "speaker": "Tomáš Okamura",
       "affiliation": "SPD",
       "timestamp": "1/07:05",
-      "screenshot_path": "summaries/screenshots/event_2867_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2867_highlight_00.jpg",
       "context": "Tvrzení je tautologické a právně vágní. Definice 'německého nepřátelského majetku' byla historicky upravena zejména Benešovými dekrety (např. dekret č. 108/1945 Sb.), jejichž interpretace v kontextu reparací je předmětem dlouhodobých právních a politických debat."
     },
     {
@@ -89,7 +168,7 @@
       "speaker": "Jiří Hejlek",
       "affiliation": "filozof",
       "timestamp": "12/00:18",
-      "screenshot_path": "summaries/screenshots/event_2867_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2867_highlight_01.jpg",
       "context": "Jde o historickou interpretaci, nikoliv o fakt, který lze objektivně potvrdit či vyvrátit. Historikové se shodují na silné podpoře Sudetoněmecké strany (SdP) mezi sudetskými Němci v 30. letech, ale míra jejich přímého podílu na vzniku nacistické ideologie je předmětem odborných diskuzí."
     },
     {
@@ -98,7 +177,7 @@
       "speaker": "Michal Klusáček",
       "affiliation": "ČSNS",
       "timestamp": "16/09:01",
-      "screenshot_path": "summaries/screenshots/event_2867_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2867_highlight_02.jpg",
       "context": "Tvrzení o národní povaze Němců je subjektivní sociologický soud, který nelze fakticky ověřit. Srovnání nacismu a současného environmentalismu jako ideologií je politická rétorika, nikoliv vědecky podložený fakt."
     }
   ],
@@ -108,7 +187,7 @@
       "speaker": "Jiří Hejlek",
       "affiliation": "filozof",
       "timestamp": "7/08:01",
-      "screenshot_path": "summaries/screenshots/event_2867_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2867_controversy_00.jpg",
       "context": "Postupimská dohoda byla podepsána 2. srpna 1945. Oficiálním státním svátkem v ČR je 8. květen (Den vítězství), což reflektuje konec bojů v Evropě; návrh na změnu data je politickým názorem, nikoliv historickým faktem."
     },
     {
@@ -116,7 +195,7 @@
       "speaker": "Michal Klusáček",
       "affiliation": "ČSNS",
       "timestamp": "16/08:15",
-      "screenshot_path": "summaries/screenshots/event_2867_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2867_controversy_01.jpg",
       "context": "Označení Německa za 'iniciátora zániku evropské kultury' je hodnotový soud a politická interpretace migrační politiky. Neexistují žádná objektivní data či metriky, které by takové tvrzení verifikovaly."
     }
   ],

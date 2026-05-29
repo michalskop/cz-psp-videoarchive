@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T18:32:39",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "event": {
+    "id": "2897",
+    "name": "Tisková konference ODS po semináři Předkupní právo – cesta do pekel nebo k prosperitě",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-12",
+    "end_date": "2026-05-12",
+    "sources": [
+      "final/event_2897_2026-05-12_tiskova-konference-ods-po-seminari-predkupni-pravo.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5291_video-psp-2026512-121-45-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference občanských demokratů se konala po semináři o předkupním právu, který uspořádal Petr Bendl. Cílem tiskové konference bylo informovat veřejnost o postoji ODS k vládnímu návrhu zavést předkupní právo pro zemědělskou půdu.",
+    "main_points": [
+      "- **Martina Kupka (ODS)** — Předpokládá se, že vládní většina zavedie předkupní právo pro 1,6 milionu vlastníků zemědělské půdy. ODS proti tomuto záměru vystupuje, považuje ho za znevýhodnění malých vlastníků a zemědělců a naopak za výhodu pro velké holdingy, jako je Agrofert. [1/00:00]\n- **Petr Bendl (ODS)** — Předkupní právo by mohlo vést k znehodnocení půdy pro malé vlastníky a naopak k zhodnocení pro velké firmy, které půdu pronajímají. [1/02:01]\n- **Josef Stehlík (Asociace soukromého zemědělství)** — Předkupní právo by mohlo zastavit rozvoj menších farem a vést k permanentní výpovědi pro zemědělce, kteří mají pronajatou půdu. [1/04:05]\n- **Karel Haas (ODS)** — Navrhovaný zákon by mohl být protiústavní, neboť omezuje vlastnická práva a svobodu nakládat s majetkem. [1/06:00]"
+    ],
+    "outcome": "Tisková konference potvrdila, že ODS je proti zavedení předkupního práva pro zemědělskou půdu. Strana považuje tento návrh za škodlivý a neférový, zejména proto, že by zvýhodnil velké agroholdingy na úkor malých vlastníků a zemědělců.",
+    "notes": "Přepis tiskové konference byl automaticky vytvořen a může obsahovat chyby. Pro ověření citace doporučuje hledat podle čísla části a časové značky v souboru `transcription_local`."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martina Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Josef Stehlík",
+        "person_id": "psp:person:6838",
+        "affiliation": "Asociace soukromého zemědělství"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Asociace soukromého zemědělství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vládní většina se chystá zatížit vlastnictví celkem 1,6 milionu vlastníků zemědělské půdy předkupním právem.",
+      "type": "citation",
+      "speaker": "Martina Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:34",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2897_highlight_00.jpg",
+      "context": "Tvrzení, že vládní většina plánuje zatížit 1,6 milionu vlastníků zemědělské půdy předkupním právem, nelze bez dalších informací ověřit. Podle dostupných informací se návrh týká předkupního práva státu pro případ prodeje zemědělské půdy."
+    },
+    {
+      "text": "Předkupní právo by mohlo zastavit rozvoj menších farem a vést k permanentní výpovědi pro zemědělce, kteří mají pronajatou půdu.",
+      "type": "citation",
+      "speaker": "Josef Stehlík",
+      "affiliation": "Asociace soukromého zemědělství",
+      "timestamp": "1/04:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2897_highlight_01.jpg",
+      "context": "Tvrzení, že předkupní právo by mohlo zastavit rozvoj menších farem a vést k permanentní výpovědi pro zemědělce, kteří mají pronajatou půdu, je možné považovat za pravděpodobné, ale nelze ověřit bez konkrétních analýz dopadů návrhu."
+    },
+    {
+      "text": "Máme obavu, že takový zákon by byl protiústavní, neboť omezuje vlastnická práva a svobodu nakládat s majetkem.",
+      "type": "citation",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/05:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2897_highlight_02.jpg",
+      "context": "Obava z protiústavnosti zákona kvůli omezení vlastnických práv a svobody nakládat s majetkem je legitimní. Ověření této obavy by vyžadovalo analýzu Ústavního soudu nebo odborníků v oblasti práva."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "- **Kdo:** Martina Kupka (ODS)\n- **Co:** \"Vládní většina se chystá zatížit vlastnictví celkem 1,6 milionu vlastníků zemědělské půdy předkupním právem... Je jasné, že proti takovému záměru budeme stát.\"\n- **Proč je to kontroverzní:** Tento návrh je kontroverzní, protože by mohl výrazně ovlivnit vlastnická práva a podmínky podnikání v zemědělství, zvýhodnit velké holdingy a znevýhodnit malé vlastníky a zemědělce.\n- **Čas:** [1/00:00]",
+      "speaker": "Martina Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2897_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

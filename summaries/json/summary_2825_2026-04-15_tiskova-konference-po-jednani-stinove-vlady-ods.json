@@ -10,6 +10,12 @@
     "end_date": "2026-04-15T16:32",
     "sources": [
       "final/event_2825_2026-04-15_tiskova-konference-po-jednani-stinove-vlady-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5206_video-psp-2026415-167-59-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -79,7 +85,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/00:39",
-      "screenshot_path": "summaries/screenshots/event_2825_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_highlight_00.jpg",
       "context": "Tvrzení o „socialistických hrátkách“ je politickým hodnocením. Vláda Andreje Babiše v reakci na růst cen pohonných hmot v roce 2021 a 2022 zavedla opatření jako zastropování cen či dočasné snížení spotřební daně, což jsou standardní fiskální nástroje, nikoliv výhradně socialistické."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/04:53",
-      "screenshot_path": "summaries/screenshots/event_2825_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_highlight_01.jpg",
       "context": "Snížení spotřební daně na pohonné hmoty je legitimní ekonomický návrh. Vláda Petra Fialy v roce 2022 skutečně přistoupila k dočasnému snížení spotřební daně u nafty o 1,50 Kč na litr, což bylo v souladu s tehdejší snahou o zmírnění inflačních tlaků."
     },
     {
@@ -97,7 +103,7 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/17:10",
-      "screenshot_path": "summaries/screenshots/event_2825_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_highlight_02.jpg",
       "context": "Jde o politickou interpretaci postojů Aleny Schillerové (ANO) k rozpočtové politice. Hodnocení „populismu“ je subjektivní, nicméně debaty o dodržování zákona č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, jsou v Poslanecké sněmovně dlouhodobým předmětem politického střetu."
     },
     {
@@ -106,7 +112,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/14:24",
-      "screenshot_path": "summaries/screenshots/event_2825_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_highlight_03.jpg",
       "context": "Postoj ODS k médiím veřejné služby je dlouhodobě deklarován jako podpora jejich nezávislosti. Koncesionářské poplatky jsou zákonem č. 483/1991 Sb. (ČT) a č. 348/2005 Sb. (ČRo) ukotveny jako hlavní zdroj financování, jejich zrušení by vyžadovalo legislativní změnu."
     }
   ],
@@ -116,7 +122,7 @@
       "speaker": "Jan Skopeček, Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/16:00",
-      "screenshot_path": "summaries/screenshots/event_2825_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_controversy_00.jpg",
       "context": "Kritika novely zákona o rozpočtových pravidlech se týká debaty o transparentnosti státního rozpočtu. Zda jsou výdaje na obranu či infrastrukturu „skrytými“ předvolebními sliby, je otázkou politické interpretace rozpočtových priorit, nikoliv fakticky ověřitelným faktem."
     }
   ],

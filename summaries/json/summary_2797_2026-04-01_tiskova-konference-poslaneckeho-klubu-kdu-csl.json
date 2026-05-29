@@ -10,6 +10,12 @@
     "end_date": "2026-04-01T08:26",
     "sources": [
       "final/event_2797_2026-04-01_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5168_video-psp-202641-85-0-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -64,7 +70,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/12:02",
-      "screenshot_path": "summaries/screenshots/event_2797_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_highlight_00.jpg",
       "context": "Čepro je státní podnik, který provozuje síť čerpacích stanic EuroOil. Ačkoliv stát může ovlivňovat cenotvorbu u vlastních stanic, jejich tržní podíl je příliš malý (cca 200 stanic z celkových více než 4 000 v ČR) na to, aby efektivně reguloval celostátní marže na trhu s pohonnými hmotami."
     },
     {
@@ -73,7 +79,7 @@
       "speaker": "Marian Jurečka",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/06:01",
-      "screenshot_path": "summaries/screenshots/event_2797_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_highlight_01.jpg",
       "context": "Toto tvrzení je subjektivním politickým hodnocením legislativního procesu. Nelze nezávisle ověřit, zda konkrétní zamítnutá opatření nemají žádné rozpočtové dopady, neboť i administrativní změny či úpravy v sociálním systému často vyžadují náklady na implementaci či správu."
     },
     {
@@ -82,7 +88,7 @@
       "speaker": "František Talíř",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/09:00",
-      "screenshot_path": "summaries/screenshots/event_2797_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_highlight_02.jpg",
       "context": "Změna financování veřejnoprávních médií (např. zvýšení koncesionářských poplatků) je předmětem probíhající legislativní debaty. Návrh alternativy je legitimním politickým nástrojem opozice, nicméně konkrétní parametry „stability a nezávislosti“ v rámci alternativního návrhu zatím nebyly představeny."
     }
   ],
@@ -92,7 +98,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/01:15",
-      "screenshot_path": "summaries/screenshots/event_2797_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_controversy_00.jpg",
       "context": "Výrok je doložitelným politickým vyjádřením Marka Výborného. Označení Pétera Szijjártóa za „kremelskou spojku“ reflektuje kritiku maďarské zahraniční politiky a jejího přístupu k Rusku, což je ověřitelný faktický postoj politika, nikoliv objektivní právní či diplomatická klasifikace."
     }
   ],

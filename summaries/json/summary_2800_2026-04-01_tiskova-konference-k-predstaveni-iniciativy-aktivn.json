@@ -10,6 +10,12 @@
     "end_date": "2026-04-01",
     "sources": [
       "final/event_2800_2026-04-01_tiskova-konference-k-predstaveni-iniciativy-aktivn.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5171_video-psp-202641-104-1-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +81,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "1/04:02",
-      "screenshot_path": "summaries/screenshots/event_2800_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2800_highlight_00.jpg",
       "context": "Jde o subjektivní politické vyjádření záměru, nikoliv o ověřitelné faktické tvrzení. Zdravý životní styl je individuální volbou a neexistuje žádná oficiální norma, která by definovala, jak mají politici v tomto ohledu „jít příkladem“."
     },
     {
@@ -84,7 +90,7 @@
       "speaker": "Martin Plíšek",
       "affiliation": "Kancelář Poslanecké sněmovny",
       "timestamp": "1/09:18",
-      "screenshot_path": "summaries/screenshots/event_2800_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2800_highlight_01.jpg",
       "context": "Toto tvrzení je ověřitelné interním rozhodnutím Kanceláře Poslanecké sněmovny o úpravě jídelníčku v parlamentních stravovacích zařízeních. Změna nabídky je administrativním krokem, který lze potvrdit nahlédnutím do aktuálních jídelních lístků sněmovní jídelny."
     },
     {
@@ -93,7 +99,7 @@
       "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
       "timestamp": "1/06:42",
-      "screenshot_path": "summaries/screenshots/event_2800_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2800_highlight_02.jpg",
       "context": "Tvrzení o přibírání či hubnutí během čtyřletého poslaneckého mandátu je nadsázkou (hyperbolou) ilustrující životní styl politiků. Neexistují žádné statistické údaje, které by potvrzovaly vliv výkonu poslaneckého mandátu na tělesnou hmotnost zákonodárců."
     }
   ],
@@ -103,7 +109,7 @@
       "speaker": "Radek Bartoníček",
       "affiliation": "Aktuálně.cz",
       "timestamp": "1/12:44",
-      "screenshot_path": "summaries/screenshots/event_2800_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2800_controversy_00.jpg",
       "context": "Otázka novináře představuje hodnotící soud a politickou kritiku priorit Sněmovny. Zda je jedna agenda důležitější než druhá, je věcí politického názoru a mediálního diskurzu, nikoliv faktograficky ověřitelný údaj."
     }
   ],

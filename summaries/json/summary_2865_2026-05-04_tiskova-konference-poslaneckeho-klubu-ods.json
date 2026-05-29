@@ -10,6 +10,12 @@
     "end_date": "2026-05-04T15:50",
     "sources": [
       "final/event_2865_2026-05-04_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5258_video-psp-202654-1533-13-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -74,7 +80,7 @@
       "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "1/02:41",
-      "screenshot_path": "summaries/screenshots/event_2865_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2865_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení, které nelze fakticky ověřit. Výrok reflektuje politický střet o interpretaci výroků premiéra a jejich dopadu na důvěru v instituce státu."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/08:32",
-      "screenshot_path": "summaries/screenshots/event_2865_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2865_highlight_01.jpg",
       "context": "Podle dat MF ČR a analýz daňových úniků (např. tzv. VAT Gap) se největší objem úniků dlouhodobě koncentruje v oblasti DPH u velkých firem a řetězců. Tvrzení o nízkém podílu živnostníků na celkovém objemu daňových úniků je v souladu s makroekonomickými odhady, ačkoliv drobné úniky v sektoru služeb nelze zcela vyloučit."
     },
     {
@@ -92,7 +98,7 @@
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
       "timestamp": "1/11:36",
-      "screenshot_path": "summaries/screenshots/event_2865_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2865_highlight_02.jpg",
       "context": "Výrok pravděpodobně odkazuje na digitalizaci státní správy nebo zavedení systémů typu EET (v minulosti) či nových kontrolních hlášení. Zda je systém „robustní“ a přináší nová data, je ověřitelné skrze technickou dokumentaci konkrétního informačního systému státu."
     }
   ],
@@ -102,7 +108,7 @@
       "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "1/13:13",
-      "screenshot_path": "summaries/screenshots/event_2865_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2865_controversy_00.jpg",
       "context": "Pavel Blažek je v současnosti ministrem spravedlnosti a členem ODS. Tvrzení, že rezignoval a odešel z ODS, je fakticky nepravdivé; Pavel Blažek v ODS nadále působí a zastává vládní funkci."
     }
   ],

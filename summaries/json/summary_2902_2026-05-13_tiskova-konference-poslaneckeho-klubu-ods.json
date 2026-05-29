@@ -10,6 +10,12 @@
     "end_date": "2026-05-13",
     "sources": [
       "final/event_2902_2026-05-13_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5299_video-psp-2026513-84-48-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -81,7 +87,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:02",
-      "screenshot_path": "summaries/screenshots/event_2902_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2902_highlight_00.jpg",
       "context": "Jde o politickou rétoriku a hodnotový soud, nikoliv o faktické tvrzení. Dopad vládních opatření na budoucí generace je předmětem politické debaty o udržitelnosti veřejných financí, nikoliv objektivně měřitelný fakt."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/06:19",
-      "screenshot_path": "summaries/screenshots/event_2902_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2902_highlight_01.jpg",
       "context": "Metafora o „rozbití teploměru“ je politickým obratem kritizujícím snahu o úpravu rozpočtových pravidel (např. změnu metodiky výpočtu deficitu či dluhové brzdy). Fakticky se vztahuje k debatě o tom, zda úprava pravidel zakrývá reálný stav ekonomiky, nebo jej pouze reflektuje."
     },
     {
@@ -99,7 +105,7 @@
       "speaker": "Vojtěch Munzar",
       "affiliation": "ODS",
       "timestamp": "1/07:07",
-      "screenshot_path": "summaries/screenshots/event_2902_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2902_highlight_02.jpg",
       "context": "Tvrzení o „plánu na zvýšení dluhů“ je interpretací opozičních návrhů na rozvolnění rozpočtových pravidel. Zda konkrétní legislativní návrh povede k faktickému nárůstu dluhu, závisí na budoucím plnění státního rozpočtu a makroekonomickém vývoji, což nelze předem exaktně potvrdit."
     }
   ],
@@ -109,7 +115,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO 2011",
       "timestamp": "1/02:00",
-      "screenshot_path": "summaries/screenshots/event_2902_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2902_controversy_00.jpg",
       "context": "Zavedení únikových doložek v rozpočtovém procesu je legitimní legislativní nástroj (např. v rámci zákona č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti). Zda je jejich využití „hazardem“ nebo „nezbytností“, je předmětem politického střetu, nikoliv faktické ověřitelnosti."
     },
     {
@@ -117,7 +123,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/12:04",
-      "screenshot_path": "summaries/screenshots/event_2902_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2902_controversy_01.jpg",
       "context": "Účast na akcích spojených se sudetskými Němci je v české politice dlouhodobě kontroverzním tématem. Označení iniciativ SPD jako „nahnědlých“ je politickým hodnocením postojů dané strany, nikoliv právně či fakticky definovaným pojmem."
     }
   ],

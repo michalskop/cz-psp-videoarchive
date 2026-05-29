@@ -10,6 +10,12 @@
     "end_date": "2026-05-14T11:23",
     "sources": [
       "final/event_2908_2026-05-14_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5304_video-psp-2026514-116-2-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -68,7 +74,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/01:42",
-      "screenshot_path": "summaries/screenshots/event_2908_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2908_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení rétoriky politických oponentů. Výrok nelze fakticky ověřit, neboť termín „nahnědlá rétorika“ je metaforickým označením pro názory blízké krajní pravici či extremismu."
     },
     {
@@ -77,7 +83,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/04:04",
-      "screenshot_path": "summaries/screenshots/event_2908_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2908_highlight_01.jpg",
       "context": "Tvrzení o „rozpočtu v šuplíku“ se vztahuje k politické debatě z podzimu 2021 po volbách do PS. Tehdejší ministryně financí Alena Schillerová (ANO) existenci připraveného rozpočtu popírala, zatímco nová vládní koalice tvrdila, že rozpočet byl připraven nedostatečně či účelově; jde o interpretaci politického procesu, nikoliv o ověřitelný fakt."
     },
     {
@@ -86,7 +92,7 @@
       "speaker": "Jan Lacina",
       "affiliation": "STAN",
       "timestamp": "1/14:02",
-      "screenshot_path": "summaries/screenshots/event_2908_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2908_highlight_02.jpg",
       "context": "Návrh novely zákona o České televizi a Českém rozhlasu počítá se zvýšením koncesionářských poplatků a rozšířením okruhu plátců. Zvýšení příjmů je záměrem návrhu, což fakticky znamená vyšší finanční zátěž pro poplatníky oproti současnému stavu."
     }
   ],
@@ -96,7 +102,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/01:45",
-      "screenshot_path": "summaries/screenshots/event_2908_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2908_controversy_00.jpg",
       "context": "Označení za „nahnědlou“ je politická nálepka, nikoliv právní či faktografická klasifikace. Kontextem je vyhrocená debata v Poslanecké sněmovně, kde se opozice a vládní koalice vzájemně obviňují z radikalizace politického diskurzu."
     }
   ],

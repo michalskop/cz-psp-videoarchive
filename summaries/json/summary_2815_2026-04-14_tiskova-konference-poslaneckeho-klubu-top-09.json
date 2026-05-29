@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T11:44",
     "sources": [
       "final/event_2815_2026-04-14_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5193_video-psp-2026414-1120-51-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -65,7 +71,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/00:40",
-      "screenshot_path": "summaries/screenshots/event_2815_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2815_highlight_00.jpg",
       "context": "Prezident republiky je dle Ústavy ČR (čl. 63 odst. 1 písm. a) vrchním velitelem ozbrojených sil. Tvrzení o „umlčování“ v armádním podcastu je politickou interpretací události, nikoliv právně definovaným aktem cenzury."
     },
     {
@@ -74,7 +80,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/10:01",
-      "screenshot_path": "summaries/screenshots/event_2815_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2815_highlight_01.jpg",
       "context": "V tržní ekonomice jsou ceny skutečně primárně určovány nabídkou a poptávkou. Vláda však do cenotvorby vstupuje regulacemi (např. zastropování cen energií, regulace nájemného nebo marží u vybraných komodit), což jsou legitimní nástroje státní politiky."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/10:54",
-      "screenshot_path": "summaries/screenshots/event_2815_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2815_highlight_02.jpg",
       "context": "Jde o politický hodnotový soud. Pojem „socialistický experiment“ není ekonomicky definovaný termín a slouží jako rétorický prostředek k vymezení se vůči konkrétním vládním opatřením."
     }
   ],
@@ -93,7 +99,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/00:45",
-      "screenshot_path": "summaries/screenshots/event_2815_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2815_controversy_00.jpg",
       "context": "Účast prezidenta na summitech NATO je předmětem diplomatické koordinace mezi Kanceláří prezidenta republiky a vládou. Obvinění z cenzury či bránění v účasti jsou politická tvrzení, která nebyla podložena důkazy o přímém zákazu či zásahu do ústavních pravomocí prezidenta."
     },
     {
@@ -101,7 +107,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/08:04",
-      "screenshot_path": "summaries/screenshots/event_2815_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2815_controversy_01.jpg",
       "context": "Označení legislativního návrhu za „miliardové plýtvání“ je politickým hodnocením rozpočtových dopadů. Legislativní nouze je institut upravený v zákoně č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, a její využití je často předmětem politických sporů o legitimitu postupu vlády."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-05-21T11:17",
     "sources": [
       "final/event_2925_2026-05-21_tiskova-konference-po-jednani-kabinetu-budoucnosti.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5324_video-psp-2026521-110-32-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -83,7 +89,7 @@
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/00:42",
-      "screenshot_path": "summaries/screenshots/event_2925_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_highlight_00.jpg",
       "context": "Zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, stanovuje výdajové rámce. Překročení limitů je možné pouze v případě mimořádných okolností (např. válečný stav či živelní pohroma), přičemž vláda musí postupovat v souladu s ustanoveními o rozpočtové kázni."
     },
     {
@@ -92,7 +98,7 @@
       "speaker": "Tomáš Dubský",
       "affiliation": "STAN",
       "timestamp": "1/12:40",
-      "screenshot_path": "summaries/screenshots/event_2925_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_highlight_01.jpg",
       "context": "Data o zisku zemědělství vycházejí ze Souhrnného zemědělského účtu (SZÚ), který každoročně publikuje ČSÚ. Výše dotací je definována v návrhu státního rozpočtu na příslušný rok; porovnání s loňským ziskem je věcně správné, ale interpretace o přímé souvislosti mezi ziskem a krácením dotací je politickým názorem."
     },
     {
@@ -101,7 +107,7 @@
       "speaker": "Barbora Urbanová",
       "affiliation": "STAN",
       "timestamp": "1/09:06",
-      "screenshot_path": "summaries/screenshots/event_2925_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_highlight_02.jpg",
       "context": "Kompetenční zákon (zákon č. 2/1969 Sb.) upravuje působnost ministerstev a jiných ústředních orgánů státní správy. Návrh novely je legislativní proces, který lze ověřit v systému e-Knihovna Poslanecké sněmovny."
     }
   ],
@@ -111,7 +117,7 @@
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/01:40",
-      "screenshot_path": "summaries/screenshots/event_2925_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_controversy_00.jpg",
       "context": "Označení „rozpočtový podfuk“ je politická rétorika, nikoliv právní termín. Faktická podstata tvrzení závisí na interpretaci dodržení výdajových rámců dle zákona č. 23/2017 Sb."
     },
     {
@@ -119,7 +125,7 @@
       "speaker": "Petr Kulhánek",
       "affiliation": "STAN",
       "timestamp": "1/10:45",
-      "screenshot_path": "summaries/screenshots/event_2925_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_controversy_01.jpg",
       "context": "Tvrzení o střetu zájmů a zneužívání dotací ve prospěch konkrétních subjektů je předmětem dlouhodobých politických sporů a šetření orgánů EU (např. auditní zprávy Evropské komise). Nelze nezávisle ověřit jako obecný fakt bez odkazu na konkrétní dotační titul a probíhající správní řízení."
     }
   ],

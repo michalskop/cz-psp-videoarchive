@@ -10,6 +10,12 @@
     "end_date": "2026-04-01T09:27",
     "sources": [
       "final/event_2799_2026-04-01_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5170_video-psp-202641-93-47-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -82,7 +88,7 @@
       "speaker": "David Smoljak",
       "affiliation": "STAN",
       "timestamp": "1/10:36",
-      "screenshot_path": "summaries/screenshots/event_2799_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_highlight_00.jpg",
       "context": "Jde o řečnickou otázku reflektující etický standard poslance. Z právního hlediska je dodržování zákonů povinností každého občana, u zákonodárce je však tento požadavek umocněn jeho rolí při tvorbě legislativy a výkonu mandátu."
     },
     {
@@ -91,7 +97,7 @@
       "speaker": "Tomáš Etzler",
       "affiliation": "kandidát",
       "timestamp": "1/06:31",
-      "screenshot_path": "summaries/screenshots/event_2799_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_highlight_01.jpg",
       "context": "Tvrzení je hodnotovým soudem, který je široce sdílen v politologii a teorii médií (např. koncept veřejné služby dle Rady Evropy). Role veřejnoprávních médií jako pilíře demokracie je zakotvena v demokratických ústavních systémech mnoha evropských zemí."
     },
     {
@@ -100,7 +106,7 @@
       "speaker": "Hynek Čermák",
       "affiliation": "kandidát",
       "timestamp": "1/15:24",
-      "screenshot_path": "summaries/screenshots/event_2799_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_highlight_02.jpg",
       "context": "Česká televize je dle zákona č. 483/1991 Sb. institucí zřízenou zákonem, jejímž posláním je poskytovat službu veřejnosti. Koncesionářský poplatek je zákonem stanovená platba, nikoliv přímé vlastnictví občanů v soukromoprávním smyslu."
     }
   ],
@@ -110,7 +116,7 @@
       "speaker": "Tomáš Etzler",
       "affiliation": "kandidát",
       "timestamp": "1/20:01",
-      "screenshot_path": "summaries/screenshots/event_2799_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_controversy_00.jpg",
       "context": "Michal Kubal zastává pozici ředitele zpravodajství ČT. Kritika kumulace funkcí je legitimním politickým a profesním názorem, ovšem faktická správnost tvrzení o kumulaci závisí na interní organizační struktuře ČT a popisu pracovní náplně dané pozice."
     },
     {
@@ -118,7 +124,7 @@
       "speaker": "Václav Němec",
       "affiliation": "Vraťte nám stát",
       "timestamp": "1/06:02",
-      "screenshot_path": "summaries/screenshots/event_2799_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_controversy_01.jpg",
       "context": "Jde o subjektivní politické hodnocení a interpretaci motivací při volbě členů Rady ČT. Nelze nezávisle ověřit, zda konkrétní kandidáti byli voleni za účelem „destrukce médií“, neboť volba radních je výsledkem tajného hlasování poslanců v Poslanecké sněmovně."
     }
   ],

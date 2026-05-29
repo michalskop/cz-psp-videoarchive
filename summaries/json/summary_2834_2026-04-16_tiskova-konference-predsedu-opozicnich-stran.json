@@ -10,6 +10,12 @@
     "end_date": "2026-04-16T18:36",
     "sources": [
       "final/event_2834_2026-04-16_tiskova-konference-predsedu-opozicnich-stran.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5218_video-psp-2026416-1810-26-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -81,7 +87,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/05:37",
-      "screenshot_path": "summaries/screenshots/event_2834_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_highlight_00.jpg",
       "context": "Volba členů Rady ČT probíhá dle zákona č. 483/1991 Sb. Nominace spolků jsou pouze doporučující a konečný výběr provádí Poslanecká sněmovna tajnou volbou. Tvrzení o úmyslu „ničit Českou televizi“ je subjektivní politické hodnocení, které nelze objektivně ověřit."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/08:50",
-      "screenshot_path": "summaries/screenshots/event_2834_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_highlight_01.jpg",
       "context": "Závazek vůči NATO je stanoven na 2 % HDP (zákon č. 214/2023 Sb.). Návrh na 5 % HDP je politickým požadavkem, nikoliv platným aliančním závazkem ČR."
     },
     {
@@ -99,7 +105,7 @@
       "speaker": "Karel Haas",
       "affiliation": "ODS",
       "timestamp": "1/14:54",
-      "screenshot_path": "summaries/screenshots/event_2834_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_highlight_02.jpg",
       "context": "Odklad plateb DPH sice krátkodobě zvýší likviditu firem, ale z pohledu státního rozpočtu jde o posun v čase, který může ovlivnit cash-flow státní pokladny v daném účetním období. Dopad na rozpočet je tedy nulový pouze v dlouhodobém horizontu, nikoliv v rámci jednoho fiskálního roku."
     }
   ],
@@ -109,7 +115,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/02:03",
-      "screenshot_path": "summaries/screenshots/event_2834_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_controversy_00.jpg",
       "context": "Jde o politickou rétoriku a předpověď parlamentní strategie. Obstrukce jsou legitimním nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.), jejich intenzita je však věcí politického rozhodnutí."
     },
     {
@@ -117,7 +123,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/08:03",
-      "screenshot_path": "summaries/screenshots/event_2834_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_controversy_01.jpg",
       "context": "Výdaje na obranu ve výši 1,7 % HDP byly historickou realitou ČR před rokem 2022. Hodnocení „Darwinova cena“ je expresivní politická metafora, nikoliv faktický údaj; bezpečnostní politika je předmětem legitimní politické debaty o dostatečnosti investic do armády."
     }
   ],

@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T17:06:00",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "event": {
+    "id": "2870",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-05",
+    "end_date": "2026-05-05T12:23",
+    "sources": [
+      "final/event_2870_2026-05-05_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5263_video-psp-202655-1158-51-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": "automatický přepis"
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD se konala za účelem informování veřejnosti o aktuálních tématech týkajících se daňových slev, kontroly zneužívání dávek pro Ukrajince, EET, a dalších otázek.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — představil pozitivní zprávy týkajících se daňových slev pro rodiny s dětmi a studenty, zrušení daně z propitného pro pracovníky v gastronomii, snížení DPH na nealkoholické nápoje v restauracích na 12 %, výjimku pro živnostníky s obratem do jednoho milionu korun od EET, zpřísnění kontrol zneužívání dávek pro Ukrajince, a novelu zákona o pobytu cizinců.",
+      "**Jindřich Rajchl (SPD)** — diskutoval ekonomický přínos a kriminalitu ukrajinských migrantů, kauzu bitcoin, a požadoval zveřejňování férového obrazu migrace z Ukrajiny.",
+      "**Libor Vondráček (SPD)** — odmítl výroky prezidenta republiky o vzniku Evropské federace a připomenul návrh na zakotvení práva na korunu a hotovost v ústavě.",
+      "**Marie Pošarová (SPD)** — vyjádřila postoj proti výstavbě větrných elektráren a navrhla zpřísnění pravidel pro jejich umístění.",
+      "**Jan Síla (SPD)** — komentoval národní očkovací strategii a vyjádřil obavy ohledně jejího zavádění a financování."
+    ],
+    "outcome": "Tisková konference sloužila jako platforma pro hnutí SPD k prezentaci svých stanovisek a návrhů týkajících se aktuálních politických a společenských otázek.",
+    "notes": "Části přepisu mohly být nesrozumitelné nebo chybět."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jindřich Rajchl",
+        "person_id": "psp:person:7037",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Marie Pošarová",
+        "person_id": "psp:person:6745",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Síla",
+        "person_id": "psp:person:6783",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": []
+  },
+  "highlights": [
+    {
+      "text": "Máme dobré zprávy pro občany, dále snížíme také DPH v restauracích na nealkoholické nápoje z 21 % na 12 %. Opět chceme pomoci podnikatelům i pracovníkům, aby měli vyšší tržby, aby lidé více mohli využívat těchto služeb.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "02:03",
+      "context": "Snížení DPH na nealkoholické nápoje z 21 % na 12 % bylo skutečně navrženo a následně schváleno. Tento krok měl za účel podpořit podnikatele v gastronomii a zvýšit dostupnost těchto služeb pro občany. Podle zákona č. 106/1999 Sb., o svobodě informací, lze najít podrobnosti o daňových změnách."
+    },
+    {
+      "text": "Podařilo se nám prosadit výjimku pro živnostníky s obratem do jednoho milionu korun. EET bylo hlavním volebním bodem hnutí ANO, ale v rámci koaličního kompromisu...",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "02:03",
+      "context": "Výjimka pro živnostníky s obratem do jednoho milionu korun byla skutečně prosazena. EET (Elektronická evidence tržeb) byla zavedena v roce 2016 a byla předmětem diskusí během voleb. Podle informací od Ministerstva financí ČR bylo cílem EET zvýšit transparentnost a snížit daňové úniky."
+    },
+    {
+      "text": "Organizovaný zločin v Česku ovládli Ukrajinci,",
+      "type": "citation",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "SPD",
+      "timestamp": "12:04",
+      "context": "Nelze nezávisle ověřit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Navrhl zrušení daně z propitného pro pracovníky v gastronomii a snížení DPH na nealkoholické nápoje v restauracích. Někteří mohou považovat tyto návrhy za populistické nebo neekonomicky podložené.",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "02:03",
+      "context": "Návrh na zrušení daně z propitného pro pracovníky v gastronomii a snížení DPH na nealkoholické nápoje v restauracích byl skutečně předložen. Tyto návrhy mohou být vnímány jako populistické nebo ekonomicky nepodložené, nicméně mají potenciál pozitivně ovlivnit zaměstnanost a ekonomiku v sektoru služeb."
+    },
+    {
+      "statement": "Upozornil na údajně vylhanou tabulku ministerstva práce a sociálních věcí týkající se ekonomického přínosu migrace z Ukrajiny. Tento výrok může být považován za kontroverzní vzhledem k odlišným názorům na ekonomický dopad migrace.",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "SPD",
+      "timestamp": "10:00",
+      "context": "Nelze nezávisle ověřit."
+    },
+    {
+      "statement": "Ohradil se proti prezidentovým návrhům na vznik Evropské federace. Tento postoj může být vnímán jako kontroverzní vzhledem k různým názorům na evropskou integraci.",
+      "speaker": "Libor Vondráček",
+      "affiliation": "SPD",
+      "timestamp": "16:02",
+      "context": "Postoj proti prezidentovým návrhům na vznik Evropské federace je politickým stanoviskem. Různé názory na evropskou integraci existují a tento postoj může být vnímán jako kontroverzní v závislosti na individuálních názorech na evropskou spolupráci."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

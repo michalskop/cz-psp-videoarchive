@@ -10,6 +10,12 @@
     "end_date": "2026-03-24T13:38",
     "sources": [
       "final/event_2779_2026-03-24_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5146_video-psp-2026324-1323-26-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -63,7 +69,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/01:03",
-      "screenshot_path": "summaries/screenshots/event_2779_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_highlight_00.jpg",
       "context": "Návrh státního rozpočtu na rok 2025 skutečně počítá se schodkem 241 miliard Kč, přičemž debata o výši deficitu je věcí politické interpretace. Označení za „projídání budoucnosti“ je subjektivní politické hodnocení, nikoliv ekonomický fakt, neboť záleží na poměru investičních a mandatorních výdajů."
     },
     {
@@ -72,7 +78,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "1/06:32",
-      "screenshot_path": "summaries/screenshots/event_2779_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_highlight_01.jpg",
       "context": "Nelze nezávisle ověřit. Výrok je vnitřně rozporný, neboť Martin Baxa je ministrem kultury ve vládě Petra Fialy, tudíž kritika „vlády Petra Fialy“ z jeho strany nedává v kontextu vládní koalice smysl."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Pavel Žáček",
       "affiliation": "ODS",
       "timestamp": "1/12:02",
-      "screenshot_path": "summaries/screenshots/event_2779_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_highlight_02.jpg",
       "context": "Údaje o škrtech v rozpočtech bezpečnostních složek lze ověřit v přílohách návrhu zákona o státním rozpočtu předloženého Ministerstvem financí. Konkrétní částky odpovídají rozdílům mezi původními rozpočtovými výhledy a finálním návrhem pro daný rok."
     }
   ],
@@ -91,7 +97,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:01",
-      "screenshot_path": "summaries/screenshots/event_2779_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_controversy_00.jpg",
       "context": "Jde o politickou interpretaci záměrů vlády. V českém právním řádu neexistuje žádný legislativní návrh na „zestátnění“ soukromých médií; tvrzení o „vyhladovění“ je metaforou pro změny v dotační politice či financování veřejnoprávních médií."
     },
     {
@@ -99,7 +105,7 @@
       "speaker": "Pavel Žáček",
       "affiliation": "ODS",
       "timestamp": "1/10:01",
-      "screenshot_path": "summaries/screenshots/event_2779_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_controversy_01.jpg",
       "context": "Toto tvrzení je politickým hodnocením rétoriky premiéra. Zda byla reakce na bezpečnostní incident zneužita k politickému boji, je subjektivní názor, který nelze fakticky verifikovat, neboť závisí na interpretaci motivů aktérů."
     }
   ],

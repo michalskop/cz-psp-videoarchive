@@ -10,6 +10,101 @@
     "end_date": "2026-05-28",
     "sources": [
       "final/event_2950_2026-05-28_prilezitost-pro-koho-cesky-zakon-o-platformach-oci.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528091002.mp4",
+        "from_sec": 53
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528092002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528093002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528094002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528095003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528100002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528101002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528102002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528103002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528104002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528105002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528110003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528111003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528112002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528113003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528114003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528115003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528120003.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528121003.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528122003.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528123003.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528124003.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/28/_20260528125003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -65,7 +160,7 @@
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
       "timestamp": "2/02:35",
-      "screenshot_path": "summaries/screenshots/event_2950_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2950_highlight_00.jpg",
       "context": "Tvrzení o absenci souvislosti s transpozicí směrnice je subjektivním politickým hodnocením legislativního procesu. Zda návrh fakticky legalizuje švarcsystém, závisí na právní interpretaci definice závislé práce podle zákoníku práce (zákon č. 262/2006 Sb.) a konkrétních ustanoveních projednávaného návrhu."
     }
   ],
@@ -75,7 +170,7 @@
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
       "timestamp": "2/04:06",
-      "screenshot_path": "summaries/screenshots/event_2950_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2950_controversy_00.jpg",
       "context": "Označení za „digitální podobu švarcsystému“ a „loupežnictví“ jsou hodnotícími soudy a rétorickými obraty, nikoliv ověřitelnými fakty. Srovnání s praxí 90. let je politickou interpretací dopadů návrhu na trh práce, kterou nelze objektivně potvrdit ani vyvrátit bez analýzy konkrétních paragrafů zákona."
     }
   ],

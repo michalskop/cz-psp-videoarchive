@@ -10,6 +10,12 @@
     "end_date": "2026-04-08T13:29",
     "sources": [
       "final/event_2808_2026-04-08_tiskova-konference-ods-na-tema-ceny-pohonnych-hmot.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5179_video-psp-202648-131-39-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -64,7 +70,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:06",
-      "screenshot_path": "summaries/screenshots/event_2808_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2808_highlight_00.jpg",
       "context": "Jde o politický příslib budoucího hlasování. Zda poslanci ODS skutečně dodrží stranickou linii při tajné volbě, nelze předem ověřit, neboť hlasování v Poslanecké sněmovně je v těchto případech tajné."
     },
     {
@@ -73,7 +79,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:53",
-      "screenshot_path": "summaries/screenshots/event_2808_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2808_highlight_01.jpg",
       "context": "Jednací řád Poslanecké sněmovny (zákon č. 90/1995 Sb.) umožňuje opozici využívat nástroje jako obstrukce (např. přednostní práva řečníků, návrhy na přerušení schůze). Zda bude konkrétní návrh na zrušení poplatků blokován, závisí na aktuální politické strategii a procedurálních krocích opozičních klubů."
     },
     {
@@ -82,7 +88,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "1/22:51",
-      "screenshot_path": "summaries/screenshots/event_2808_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2808_highlight_02.jpg",
       "context": "Toto tvrzení je politickým hodnocením záměrů vládní koalice a opozičních stran. Neexistuje objektivní důkaz o přímém plánu na „sražení na kolena“, nicméně debata o způsobu volby radních do orgánů České televize a Českého rozhlasu je dlouhodobě předmětem politických sporů o nezávislost těchto institucí."
     }
   ],
@@ -92,7 +98,7 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:00",
-      "screenshot_path": "summaries/screenshots/event_2808_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2808_controversy_00.jpg",
       "context": "Potvrzení o hlasování poslanců ODS pro Stanislava Berkovce v mediálním výboru je doložitelné ze zápisů z jednání výboru, které jsou veřejně dostupné na stránkách Poslanecké sněmovny. Rozpor mezi tímto hlasováním a oficiální rétorikou strany je předmětem politické kritiky."
     }
   ],

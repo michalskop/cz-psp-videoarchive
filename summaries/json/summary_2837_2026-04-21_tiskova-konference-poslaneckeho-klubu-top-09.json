@@ -10,6 +10,17 @@
     "end_date": "2026-04-21T11:40",
     "sources": [
       "final/event_2837_2026-04-21_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421112003.mp4",
+        "from_sec": 4
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421113003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -66,7 +77,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/03:10",
-      "screenshot_path": "summaries/screenshots/event_2837_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2837_highlight_00.jpg",
       "context": "Tchaj-wan je dle indexů (např. Economist Intelligence Unit) považován za plnou demokracii. Zároveň je domovem společnosti TSMC, která vyrábí přes 90 % nejmodernějších světových polovodičů, což potvrzuje jeho status klíčového hráče v globálním dodavatelském řetězci čipů."
     },
     {
@@ -75,7 +86,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/06:22",
-      "screenshot_path": "summaries/screenshots/event_2837_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2837_highlight_01.jpg",
       "context": "Nelze nezávisle ověřit. Výrok je v přímém rozporu s politickou příslušností řečníka (TOP 09 je součástí vládní koalice, která volbu radních prosazuje), pravděpodobně se jedná o chybnou citaci nebo záměnu subjektu v přepisu."
     },
     {

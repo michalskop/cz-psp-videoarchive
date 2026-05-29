@@ -10,6 +10,105 @@
     "end_date": "2026-05-13T18:07",
     "sources": [
       "final/event_2898_2026-05-13_8-schuze-vyboru-pro-zdravotnictvi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513141002.mp4",
+        "from_sec": 218
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513142002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513143002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513144002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513145002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513150002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513151002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513152002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513153002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513154002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513155002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513160002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513161002.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513162002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513163002.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513164002.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513165002.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513170002.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513171002.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513172002.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513173002.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513174002.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513175002.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/13/_20260513180002.mp4"
+      }
     ]
   },
   "transcription": {
@@ -69,7 +168,7 @@
       "speaker": "Ladislav Dušek",
       "affiliation": "ÚZIS",
       "timestamp": "11/01:00",
-      "screenshot_path": "summaries/screenshots/event_2898_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2898_highlight_00.jpg",
       "context": "Dle demografických projekcí ČSÚ (scénář střední varianty) se počet osob ve věku 85 a více let skutečně výrazně zvyšuje. Vzhledem k trendům stárnutí populace je predikce nárůstu na více než dvojnásobek do roku 2040 v souladu s aktuálními daty o věkové struktuře obyvatelstva."
     },
     {
@@ -78,7 +177,7 @@
       "speaker": "Vladimír Černý",
       "affiliation": "ČSARIM",
       "timestamp": "20/04:41",
-      "screenshot_path": "summaries/screenshots/event_2898_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2898_highlight_01.jpg",
       "context": "Tvrzení o 70–80% úmrtnosti rok po propuštění z JIP je v kontextu české medicíny považováno za vysoce nadhodnocené a neodpovídá běžným klinickým datům. Úmrtnost se výrazně liší podle diagnózy a věku pacienta; celorepubliková data takto vysokou míru úmrtnosti u všech pacientů po JIP nepotvrzují."
     }
   ],
@@ -88,7 +187,7 @@
       "speaker": "David Kasal",
       "affiliation": "ANO",
       "timestamp": "8/08:02",
-      "screenshot_path": "summaries/screenshots/event_2898_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2898_controversy_00.jpg",
       "context": "Debata o centralizaci péče (tzv. koncentraci péče do center excelence) je dlouhodobým odborným i politickým tématem. Zatímco odborné společnosti (např. ČLS JEP) často argumentují vyšší kvalitou a bezpečností v centrech, politici z regionů poukazují na riziko zhoršení dostupnosti péče a odlivu personálu z menších nemocnic; jde o střet dvou legitimních, ale protichůdných priorit zdravotní politiky."
     }
   ],

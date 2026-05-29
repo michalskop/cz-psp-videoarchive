@@ -10,6 +10,12 @@
     "end_date": "2026-05-07T11:26",
     "sources": [
       "final/event_2882_2026-05-07_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5276_video-psp-202657-115-36-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -82,7 +88,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/00:51",
-      "screenshot_path": "summaries/screenshots/event_2882_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2882_highlight_00.jpg",
       "context": "Jde o politické hodnocení rozpočtové politiky, nikoliv o ověřitelný fakt. Zadlužení státu je dáno schváleným zákonem o státním rozpočtu a výší deficitu, přičemž dlouhodobá udržitelnost veřejných financí je předmětem odborných debat (např. Národní rozpočtová rada)."
     },
     {
@@ -91,7 +97,7 @@
       "speaker": "Martin Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/08:47",
-      "screenshot_path": "summaries/screenshots/event_2882_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2882_highlight_01.jpg",
       "context": "Počet ruských diplomatů v ČR je veřejně sledovanou záležitostí v gesci Ministerstva zahraničních věcí ČR. Nelze nezávisle ověřit bez přístupu k utajovaným informacím o aktuálních diplomatických krocích a personálních stavech ambasády."
     },
     {
@@ -100,7 +106,7 @@
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/14:30",
-      "screenshot_path": "summaries/screenshots/event_2882_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2882_highlight_02.jpg",
       "context": "Označení „Lex Čapí hnízdo“ je politická metafora používaná opozicí pro legislativní návrhy, které mají podle nich ovlivnit probíhající trestní řízení. Nejedná se o oficiální název zákona."
     }
   ],
@@ -110,7 +116,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/06:00",
-      "screenshot_path": "summaries/screenshots/event_2882_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2882_controversy_00.jpg",
       "context": "Podání ústavní stížnosti je legitimní parlamentní nástroj opozice. Zda byl postup vlády (využití pevného hlasování) v souladu s Ústavou ČR a Jednacím řádem Poslanecké sněmovny, může závazně posoudit pouze Ústavní soud ČR."
     },
     {
@@ -118,7 +124,7 @@
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/14:05",
-      "screenshot_path": "summaries/screenshots/event_2882_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2882_controversy_01.jpg",
       "context": "Tvrzení o „Lex Čapí hnízdo“ je interpretací záměru zákonodárců. Zda má konkrétní legislativní úprava trestního řádu zpětný dopad na probíhající kauzy, je právní otázka, kterou v případě sporu posuzují nezávislé soudy v rámci konkrétních trestních řízení."
     }
   ],

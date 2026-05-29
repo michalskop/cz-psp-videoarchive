@@ -10,6 +10,97 @@
     "end_date": "2026-03-17",
     "sources": [
       "final/event_2759_2026-03-17_verejne-slyseni-kandidatu-na-verejneho-ochrance-pr.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317141001.mp4",
+        "from_sec": 59
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317142001.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317143001.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317144001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317145001.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317150001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317151001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317152001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317153001.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317154001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317155001.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317160001.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317161001.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317162001.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317163001.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317164001.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317165001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317170001.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317171001.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317172001.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317173001.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video/106/2026/03/17/_20260317174001.mp4"
+      }
     ]
   },
   "transcription": {
@@ -87,7 +178,7 @@
       "speaker": "Vít Aleksandr Šorm",
       "affiliation": "kandidát ČKR",
       "timestamp": "5/05:31",
-      "screenshot_path": "summaries/screenshots/event_2759_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2759_highlight_00.jpg",
       "context": "Tento výrok odpovídá zákonnému vymezení instituce Veřejného ochránce práv (zákon č. 349/1999 Sb.), který má působit k ochraně osob před jednáním úřadů, pokud je v rozporu s právem nebo neodpovídá principům demokratického právního státu."
     },
     {
@@ -96,7 +187,7 @@
       "speaker": "Vítězslav Dohnal",
       "affiliation": "kandidát prezidenta",
       "timestamp": "1/08:37",
-      "screenshot_path": "summaries/screenshots/event_2759_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2759_highlight_01.jpg",
       "context": "Jde o subjektivní hodnotový postoj k pluralitě názorů, který nelze fakticky ověřit jako pravdivý či nepravdivý. V kontextu veřejné správy odkazuje na princip nestrannosti při posuzování podnětů."
     },
     {
@@ -105,7 +196,7 @@
       "speaker": "Fričová",
       "affiliation": "předsedkyně hodnotící komise",
       "timestamp": "9/03:25",
-      "screenshot_path": "summaries/screenshots/event_2759_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2759_highlight_02.jpg",
       "context": "Tvrzení je v souladu s ústavním pořádkem ČR, zejména Listinou základních práv a svobod, která zaručuje ochranu lidských práv nezávisle na aktuální politické konstelaci. Princip nezávislosti ombudsmana na politické moci je klíčovým pilířem jeho legitimity."
     }
   ],
@@ -115,7 +206,7 @@
       "speaker": null,
       "affiliation": null,
       "timestamp": "13/05:00",
-      "screenshot_path": "summaries/screenshots/event_2759_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2759_controversy_00.jpg",
       "context": "Legislativa o „zahraničních agentech“ (např. v Gruzii či Rusku) je mezinárodními organizacemi (např. Benátská komise) kritizována jako nástroj omezování občanské společnosti. V ČR zatím nebyl předložen zákon, který by přímo kopíroval tyto modely, diskuse se však často vede v rámci debaty o transparentnosti financování neziskových organizací."
     }
   ],

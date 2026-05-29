@@ -10,6 +10,97 @@
     "end_date": "2026-05-14T16:32",
     "sources": [
       "final/event_2905_2026-05-14_chirurgicka-robotika-v-roce-2026-soucasne-problemy.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514130005.mp4",
+        "from_sec": 120
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514131005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514132005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514133005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514134005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514135005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514140005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514141005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514142005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514143005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514144005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514145005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514150005.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514151005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514152005.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514153005.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514154005.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514155005.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514160005.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514161005.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514162005.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/14/_20260514163005.mp4"
+      }
     ]
   },
   "transcription": {
@@ -91,7 +182,7 @@
       "speaker": "Prof. Moláček",
       "affiliation": "Česká chirurgická společnost",
       "timestamp": "9/08:02",
-      "screenshot_path": "summaries/screenshots/event_2905_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2905_highlight_00.jpg",
       "context": "Robotická chirurgie je v medicíně považována za moderní standard, avšak její status jako jediného 'standardu' pro rok 2026 není legislativně ukotven. Kvalita péče je doložitelná studiemi o kratší rekonvalescenci a menší krevní ztrátě, nicméně ekonomická dostupnost a plošné zavedení závisí na úhradové vyhlášce MZ ČR."
     },
     {
@@ -100,7 +191,7 @@
       "speaker": "Prof. Liške",
       "affiliation": "Hrudní chirurgie",
       "timestamp": "12/04:49",
-      "screenshot_path": "summaries/screenshots/event_2905_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2905_highlight_01.jpg",
       "context": "Jde o odborný názor na strategii onkologické péče. Efektivita robotické chirurgie u karcinomu plic je podpořena klinickými studiemi, ale její zařazení do 'projektu' screeningu je otázkou prioritizace zdravotnické politiky a financování ze systému veřejného zdravotního pojištění."
     },
     {
@@ -109,7 +200,7 @@
       "speaker": "Prof. Zachoval",
       "affiliation": "Urologie",
       "timestamp": "14/00:00",
-      "screenshot_path": "summaries/screenshots/event_2905_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2905_highlight_02.jpg",
       "context": "Tvrzení o vyšší mortalitě v centrech s nízkým objemem výkonů (tzv. low-volume centra) je v medicíně dlouhodobě známý fakt, potvrzovaný daty z Národního onkologického registru (NOR) a odbornými společnostmi. Centralizace vysoce specializované péče je proto oficiální strategií MZ ČR pro zlepšení výsledků léčby."
     }
   ],
@@ -119,7 +210,7 @@
       "speaker": "Dr. Hladík",
       "affiliation": "Fakultní nemocnice Motol/Homolka",
       "timestamp": "16/06:20",
-      "screenshot_path": "summaries/screenshots/event_2905_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2905_controversy_00.jpg",
       "context": "Ekonomická efektivita robotických systémů závisí na vysokém počtu provedených výkonů (vytížení systému). Kritika nevyužitých kapacit je relevantní téma, neboť pořizovací náklady a servisní poplatky jsou vysoké; data o konkrétní míře nevyužití v jednotlivých nemocnicích nejsou centrálně veřejně publikována v reálném čase."
     }
   ],

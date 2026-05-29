@@ -10,6 +10,21 @@
     "end_date": "2026-04-21T14:00",
     "sources": [
       "final/event_2843_2026-04-21_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421134003.mp4",
+        "from_sec": 291
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421135003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421140003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -57,7 +72,7 @@
       "speaker": "neidentifikovaný řečník",
       "affiliation": "ANO",
       "timestamp": "2/00:35",
-      "screenshot_path": "summaries/screenshots/event_2843_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_highlight_00.jpg",
       "context": "Výrok je subjektivním politickým hodnocením rozpočtového výhledu. Reálná výše deficitu závisí na schváleném zákonu o státním rozpočtu pro daný rok a aktuálním makroekonomickém vývoji, který predikuje Ministerstvo financí ČR."
     },
     {
@@ -66,7 +81,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "2/05:13",
-      "screenshot_path": "summaries/screenshots/event_2843_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_highlight_01.jpg",
       "context": "Nelze nezávisle ověřit bez specifikace konkrétního daňového titulu či rozpočtové kapitoly, ke které se nadvýběr vztahuje. Data o plnění státního rozpočtu zveřejňuje Ministerstvo financí ČR v měsíčních zprávách."
     },
     {
@@ -75,7 +90,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "2/08:20",
-      "screenshot_path": "summaries/screenshots/event_2843_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_highlight_02.jpg",
       "context": "V českém daňovém systému neexistuje věková hranice 75 let, po které by fyzická osoba přestala být poplatníkem daně z příjmů. Poplatníkem daně z příjmů fyzických osob je každý, kdo má zdanitelné příjmy, bez ohledu na věk (dle zákona č. 586/1992 Sb., o daních z příjmů)."
     }
   ],
@@ -85,7 +100,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "2/06:02",
-      "screenshot_path": "summaries/screenshots/event_2843_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_controversy_00.jpg",
       "context": "Nelze nezávisle ověřit. Jde o tvrzení o interní komunikaci mezi organizátorem (Aspen Institute) a účastníkem, které není veřejně dohledatelné."
     }
   ],

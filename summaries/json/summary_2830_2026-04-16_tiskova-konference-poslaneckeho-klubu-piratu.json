@@ -10,6 +10,12 @@
     "end_date": "2026-04-16T11:05",
     "sources": [
       "final/event_2830_2026-04-16_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5214_video-psp-2026416-1043-46-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -78,7 +84,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/02:51",
-      "screenshot_path": "summaries/screenshots/event_2830_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2830_highlight_00.jpg",
       "context": "Sazby DPH jsou v ČR stanoveny zákonem č. 235/2004 Sb. Návrh na snížení sazby na 6 % je politickým požadavkem, nikoliv stávající legislativní realitou. Pojem „nadvýběr DPH“ je interpretací daňových příjmů, které jsou ovlivněny inflací a spotřebním chováním, nikoliv automaticky oddělenou částkou určenou k přímému vracení."
     },
     {
@@ -87,7 +93,7 @@
       "speaker": "Andrea Hoffmannová",
       "affiliation": "Piráti",
       "timestamp": "1/05:08",
-      "screenshot_path": "summaries/screenshots/event_2830_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2830_highlight_01.jpg",
       "context": "Tyto částky odpovídají odhadům dopadů v případě zrušení koncesionářských poplatků nebo jejich zmrazení v kontextu inflace a nákladů na provoz veřejnoprávních médií. Údaje vycházejí z finančních plánů ČT a ČRo, které jsou veřejně dostupné ve výročních zprávách těchto institucí."
     },
     {
@@ -96,7 +102,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/07:57",
-      "screenshot_path": "summaries/screenshots/event_2830_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2830_highlight_02.jpg",
       "context": "Výdaje na obranu jsou vázány zákonem č. 21/2023 Sb., který stanovuje povinnost vydávat 2 % HDP na obranu. Zda v rozpočtu „chybí“ 21 miliard, závisí na aktuální predikci vývoje HDP a započtení všech výdajů resortu obrany, což je předmětem politických sporů mezi opozicí a Ministerstvem financí."
     }
   ],
@@ -106,7 +112,7 @@
       "speaker": "Gabriela Svárovská",
       "affiliation": "Piráti",
       "timestamp": "1/12:00",
-      "screenshot_path": "summaries/screenshots/event_2830_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2830_controversy_00.jpg",
       "context": "Tvrzení o vazbách rodinných příslušníků na ruské struktury je závažným politickým obviněním. Nelze nezávisle ověřit bez přístupu k utajovaným informacím bezpečnostních složek (BIS, NÚKIB), které prověřují bezpečnostní prověrky osob v blízkosti premiéra."
     },
     {
@@ -114,7 +120,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/08:01",
-      "screenshot_path": "summaries/screenshots/event_2830_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2830_controversy_01.jpg",
       "context": "Označení ministra za „rukojmího“ je politická metafora, nikoliv faktické konstatování. Hodnocení zahraniční politiky jako „černého pasažéra“ v NATO je subjektivní politický názor na efektivitu a aktivitu české diplomacie v rámci aliančních struktur."
     }
   ],

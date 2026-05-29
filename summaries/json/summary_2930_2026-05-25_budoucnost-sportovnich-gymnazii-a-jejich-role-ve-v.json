@@ -10,6 +10,64 @@
     "end_date": "2026-05-25T15:18",
     "sources": [
       "final/event_2930_2026-05-25_budoucnost-sportovnich-gymnazii-a-jejich-role-ve-v.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525130647.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525131004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525132004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525133004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525134004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525135004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525140004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525141004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525142004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525143004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525144004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525145004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525150004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/05/25/_20260525151004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -79,7 +137,7 @@
       "speaker": "Karel Kovář",
       "affiliation": "Národní sportovní agentura",
       "timestamp": "2/00:00",
-      "screenshot_path": "summaries/screenshots/event_2930_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_highlight_00.jpg",
       "context": "Tvrzení je částečně zavádějící. Existuje systém sportovních tříd a škol se sportovním zaměřením (vymezeno v zákoně č. 561/2004 Sb., školský zákon), nicméně chybí ucelený celostátní systém podpory pro individuální sportovce mimo tyto vybrané školy."
     },
     {
@@ -96,7 +154,7 @@
       "speaker": "Renata",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "9/00:00",
-      "screenshot_path": "summaries/screenshots/event_2930_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_highlight_02.jpg",
       "context": "Tvrzení je fakticky správné. Ministerstvo školství, mládeže a tělovýchovy (MŠMT) ani Národní sportovní agentura (NSA) nevedou centrální evidenci vrcholových sportovců integrovaných do běžného vzdělávacího systému."
     }
   ],
@@ -106,7 +164,7 @@
       "speaker": "Zdeněk Ledvina",
       "affiliation": "Sportovní gymnázium",
       "timestamp": "8/02:01",
-      "screenshot_path": "summaries/screenshots/event_2930_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_controversy_00.jpg",
       "context": "Jde o subjektivní hodnocení profesní etiky trenérů, které nelze nezávisle ověřit statistikami. Konflikt mezi sportovní kariérou a vzdělávacími nároky je dlouhodobým systémovým problémem, kde střet zájmů mezi klubem a školou není legislativně ošetřen."
     }
   ],

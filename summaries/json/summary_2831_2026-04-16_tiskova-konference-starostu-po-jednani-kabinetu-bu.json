@@ -10,6 +10,12 @@
     "end_date": "2026-04-16T11:26",
     "sources": [
       "final/event_2831_2026-04-16_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5215_video-psp-2026416-115-55-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +81,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "Starostové",
       "timestamp": "1/01:45",
-      "screenshot_path": "summaries/screenshots/event_2831_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_00.jpg",
       "context": "Tvrzení je interpretací politického záměru. Financování médií veřejné služby je upraveno zákonem a přímá politická kontrola nad rozpočtem by vyžadovala legislativní změnu, kterou vládní návrhy v současné podobě explicitně neobsahují."
     },
     {
@@ -84,7 +90,7 @@
       "speaker": "Jan Lacina",
       "affiliation": "Starostové",
       "timestamp": "1/06:51",
-      "screenshot_path": "summaries/screenshots/event_2831_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_01.jpg",
       "context": "Jde o politický názor na dopady legislativní změny. Zrušení koncesionářských poplatků a přechod na přímé financování ze státního rozpočtu by skutečně znamenalo strukturální změnu, jejíž vratnost závisí na budoucí politické vůli a legislativním procesu."
     },
     {
@@ -93,7 +99,7 @@
       "speaker": "David Smoljak",
       "affiliation": "Starostové",
       "timestamp": "1/08:03",
-      "screenshot_path": "summaries/screenshots/event_2831_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_02.jpg",
       "context": "Návrhy na úpravu definice veřejné služby v zákoně o ČT a ČRo jsou předmětem politické debaty. Zda tyto změny povedou k faktické likvidaci konkrétních žánrů, je spekulativní tvrzení o budoucím dopadu legislativy."
     },
     {
@@ -102,7 +108,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "Starostové",
       "timestamp": "1/14:04",
-      "screenshot_path": "summaries/screenshots/event_2831_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_03.jpg",
       "context": "Jde o politickou rétoriku. Vydání poslance k trestnímu stíhání je procesní rozhodnutí Poslanecké sněmovny podle Ústavy ČR a jednacího řádu, nikoliv otázka „dohody“ vlády."
     }
   ],
@@ -112,7 +118,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "Starostové",
       "timestamp": "1/02:05",
-      "screenshot_path": "summaries/screenshots/event_2831_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_controversy_00.jpg",
       "context": "Obstrukce jsou legitimním nástrojem parlamentní opozice. Zda Vít Rakušan skutečně koordinuje postup se Senátem, nelze nezávisle ověřit, neboť jde o interní politické vyjednávání."
     },
     {
@@ -120,7 +126,7 @@
       "speaker": "Martin Dvořák",
       "affiliation": "Starostové",
       "timestamp": "1/10:07",
-      "screenshot_path": "summaries/screenshots/event_2831_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_controversy_01.jpg",
       "context": "Výrok je subjektivním hodnotícím soudem. Zda byl výrok pronesen v této konkrétní podobě, lze ověřit ze stenografických záznamů jednání Poslanecké sněmovny."
     }
   ],

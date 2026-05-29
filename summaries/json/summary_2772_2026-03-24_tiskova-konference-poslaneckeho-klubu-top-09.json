@@ -10,6 +10,12 @@
     "end_date": "2026-03-24T11:43",
     "sources": [
       "final/event_2772_2026-03-24_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5139_video-psp-2026324-1119-33-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -72,7 +78,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/02:11",
-      "screenshot_path": "summaries/screenshots/event_2772_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2772_highlight_00.jpg",
       "context": "Koncept koncesionářských poplatků jako nástroje nezávislosti je zakotven v zákoně č. 483/1991 Sb. (o ČT) a č. 484/1991 Sb. (o ČRo). Argumentace vychází z teorie, že přímé financování občany snižuje závislost médií na státním rozpočtu a politické reprezentaci."
     },
     {
@@ -81,7 +87,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/01:40",
-      "screenshot_path": "summaries/screenshots/event_2772_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2772_highlight_01.jpg",
       "context": "Vládní koalice v současnosti debatuje o novele mediálních zákonů, která rozšiřuje okruh poplatníků. Tvrzení o „rozebírání systému bez náhrady“ je politickou interpretací probíhajícího legislativního procesu, nikoliv popisem schváleného stavu."
     },
     {
@@ -90,7 +96,7 @@
       "speaker": "Vlastimil Válek",
       "affiliation": "TOP 09",
       "timestamp": "1/10:36",
-      "screenshot_path": "summaries/screenshots/event_2772_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2772_highlight_02.jpg",
       "context": "Přesun prostředků z fondů zdravotních pojišťoven do státního rozpočtu je předmětem politických sporů o hospodaření ve zdravotnictví. Dopad na fondy prevence je reálným rizikem, neboť tyto fondy jsou financovány ze zůstatků na účtech pojišťoven, které jsou zákonem limitovány."
     }
   ],
@@ -100,7 +106,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "1/02:05",
-      "screenshot_path": "summaries/screenshots/event_2772_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2772_controversy_00.jpg",
       "context": "Vláda v rámci tzv. „velké mediální novely“ (sněmovní tisk č. 734) nezrušila poplatky, ale naopak je navýšila a rozšířila okruh plátců. Označení za „cestu k zestátnění“ je politickým názorem na riziko přímého financování ze státního rozpočtu, které by mohlo oslabit nezávislost médií."
     }
   ],

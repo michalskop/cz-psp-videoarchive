@@ -10,6 +10,12 @@
     "end_date": "2026-05-28T09:01",
     "sources": [
       "final/event_2951_2026-05-28_tiskova-konference-piratu-k-platformove-praci.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5352_video-psp-2026528-845-42-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -69,7 +75,7 @@
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
       "timestamp": "1/04:34",
-      "screenshot_path": "summaries/screenshots/event_2951_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2951_highlight_00.jpg",
       "context": "Částka 120 miliard korun je odhad ČMKOS založený na předpokladu masivního přechodu zaměstnanců na švarcsystém. Oficiální analýzy dopadů regulace (RIA) ze strany Ministerstva práce a sociálních věcí se v odhadech výpadku příjmů státního rozpočtu výrazně liší, proto nelze tuto konkrétní sumu nezávisle potvrdit jako faktický dopad."
     },
     {
@@ -78,7 +84,7 @@
       "speaker": "Zdeněk K. Neubauer",
       "affiliation": "Asociace platformových pracovníků",
       "timestamp": "1/10:00",
-      "screenshot_path": "summaries/screenshots/event_2951_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2951_highlight_01.jpg",
       "context": "Tento výrok popisuje znaky tzv. závislé práce podle § 2 zákoníku práce (č. 262/2006 Sb.). Pokud platforma fakticky naplňuje tyto znaky, může se jednat o zastřený pracovněprávní vztah, což je v rozporu se zákonem, nicméně posouzení legality je vždy individuální záležitostí soudů a inspektorátů práce."
     },
     {
@@ -87,7 +93,7 @@
       "speaker": "Irena Ferčíková Konečná",
       "affiliation": "Piráti",
       "timestamp": "1/01:08",
-      "screenshot_path": "summaries/screenshots/event_2951_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2951_highlight_02.jpg",
       "context": "Jde o politickou rétoriku a hodnotový soud, který nelze fakticky ověřit. Debata o postavení platformových pracovníků probíhá v rámci implementace evropské směrnice o platformové práci (směrnice EU 2024/2858), která má za cíl právě zpřesnění kritérií pro určení zaměstnaneckého statusu."
     }
   ],
@@ -97,7 +103,7 @@
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
       "timestamp": "1/04:03",
-      "screenshot_path": "summaries/screenshots/event_2951_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2951_controversy_00.jpg",
       "context": "Označení za „švarcsystém“ je interpretací legislativního návrhu ze strany odborů. Částka 120 miliard korun představuje odhadovaný maximální fiskální dopad při plošném zneužití navrhované úpravy, nikoliv potvrzený výsledek vládního návrhu; jde o předmět probíhajícího politického a expertního sporu."
     }
   ],

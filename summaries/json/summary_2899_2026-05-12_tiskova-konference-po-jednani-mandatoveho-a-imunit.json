@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T18:33:00",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "event": {
+    "id": "2899",
+    "name": "Tisková konference po jednání mandátového a imunitního výboru",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-12",
+    "end_date": "2026-05-12T11:59",
+    "sources": [
+      "final/event_2899_2026-05-12_tiskova-konference-po-jednani-mandatoveho-a-imunit.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5293_video-psp-2026512-1146-45-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference po jednání mandátového a imunitního výboru. Cílem bylo informovat veřejnost o projednání standardního programu výboru, včetně podnětů občanů týkajících se chování poslanců.",
+    "main_points": [
+      "**Helena Válková (předsedkyně mandátového a imunitního výboru)** — informovala o standardním programu jednání výboru, včetně projednání podnětů občanů. Uvedla, že výbor nemá kompetenci řešit výroky poslanců mimo jednání Sněmovny.",
+      "**Michal Zuno (místopředseda mandátového a imunitního výboru)** — vyjádřil názor, že by mandátový a imunitní výbor měl mít větší kompetence k řešení nevhodných výroků poslanců. Navrhl usnesení, aby výbor vyzval poslance k etickému chování, ale nebylo přijato.",
+      "**Neidentifikovaný řečník (Český rozhlas)** — položil dotaz týkající se konkrétních podnětů a poslanců, kteří je učinili.",
+      "**Neidentifikovaný řečník (Aktuálně.cz)** — položil dotaz ohledně smyslu psát mandátovému a imunitnímu výboru a možnosti konstatovat, že poslanec se vyjádřil neslušně."
+    ],
+    "outcome": "Bylo rozhodnuto, že mandátový a imunitní výbor nemá kompetenci řešit výroky poslanců mimo jednání Sněmovny. Výbor se shodl na tom, že bude odpovídat občanům, kteří podávají podněty, ale nebude vyvozovat žádné konsekvence pro poslance.",
+    "notes": "Některé části přepisu mohou být nesrozumitelné nebo chybět, neboť přepis byl vytvořen automaticky a může obsahovat chyby."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Helena Válková",
+        "person_id": "psp:person:6168",
+        "affiliation": "předsedkyně mandátového a imunitního výboru"
+      },
+      {
+        "name": "Michal Zuno",
+        "person_id": "psp:person:6796",
+        "affiliation": "místopředseda mandátového a imunitního výboru"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "mandátový a imunitní výbor"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Já si myslím, že pro vás nemám žádné dramatické novinky. Projednali jsme standardní program, musím říct, na standardně svolané schůzi...",
+      "type": "citation",
+      "speaker": "Helena Válková",
+      "affiliation": "předsedkyně mandátového a imunitního výboru",
+      "timestamp": "1/00:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2899_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit."
+    },
+    {
+      "text": "Mám za to, že role mandátového a imunitního výboru by měla mít tu kompetenci, takže já bych rád využil i toho, že je to předmětem k debatě o změně jednacího řádu...",
+      "type": "citation",
+      "speaker": "Michal Zuno",
+      "affiliation": "místopředseda mandátového a imunitního výboru",
+      "timestamp": "12/12:00",
+      "screenshot_path": null,
+      "context": "Jednací řád Poslanecké sněmovny upravuje její vnitřní fungování a rozhodovací procesy. Změna jednacího řádu by musela být projednána a schválena Sněmovnou."
+    },
+    {
+      "text": "Občané nám můžou psát. Oni píší předsedovi Poslanecké sněmovny, na ústavněprávní výbor, to vím, na mandátový a imunitní výbor...",
+      "type": "citation",
+      "speaker": "Helena Válková",
+      "affiliation": "předsedkyně mandátového a imunitního výboru",
+      "timestamp": "10/10:00",
+      "screenshot_path": null,
+      "context": "Občané se mohou obrátit na Poslaneckou sněmovnu nebo její výbory s podněty a stížnostmi. Předseda Sněmovny a výbory jsou odpovědné za prošetření těchto podnětů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo**: Helena Válková — Uvedla, že mandátový a imunitní výbor nemá kompetenci řešit výroky poslanců mimo jednání Sněmovny. / **Proč je to kontroverzní**: Omezení kompetencí výboru může být vnímáno jako nedostatečná reakce na nevhodné chování poslanců.",
+      "speaker": "Helena Válková",
+      "affiliation": "předsedkyně mandátového a imunitního výboru",
+      "timestamp": "2/02:00",
+      "screenshot_path": null,
+      "context": "Kompetence mandátového a imunitního výboru jsou stanoveny zákonem č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny. Výbor řeší otázky mandátu a imunity poslanců."
+    },
+    {
+      "statement": "**Kdo**: Michal Zuno — Navrhl usnesení, aby mandátový a imunitní výbor vyzval poslance k etickému chování. / **Proč je to kontroverzní**: Někteří členové výboru nemusí souhlasit s rozšířením kompetencí výboru.",
+      "speaker": "Michal Zuno",
+      "affiliation": "místopředseda mandátového a imunitního výboru",
+      "timestamp": "4/04:00",
+      "screenshot_path": null,
+      "context": "Navržené usnesení by muselo být projednáno a schváleno mandátovým a imunitním výborem a případně i Sněmovnou. Etické chování poslanců je dáno zákonem a vnitřními předpisy Sněmovny."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

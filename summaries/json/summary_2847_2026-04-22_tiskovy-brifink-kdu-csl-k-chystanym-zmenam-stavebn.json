@@ -10,6 +10,21 @@
     "end_date": "2026-04-22T12:20",
     "sources": [
       "final/event_2847_2026-04-22_tiskovy-brifink-kdu-csl-k-chystanym-zmenam-stavebn.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/22/_20260422120004.mp4",
+        "from_sec": 4
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/22/_20260422121004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/22/_20260422122004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -63,7 +78,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/01:40",
-      "screenshot_path": "summaries/screenshots/event_2847_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2847_highlight_00.jpg",
       "context": "Jde o řečnickou otázku vyjadřující politický postoj k územnímu plánování a ochraně zemědělského půdního fondu. Úbytek kvalitní zemědělské půdy v důsledku výstavby logistických center je dlouhodobě sledovaným tématem, které potvrzují data ČSÚ a Státního pozemkového úřadu o záboru půdy."
     },
     {
@@ -72,7 +87,7 @@
       "speaker": "Petr Hladík",
       "affiliation": "KDU-ČSL",
       "timestamp": "2/09:35",
-      "screenshot_path": "summaries/screenshots/event_2847_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2847_highlight_01.jpg",
       "context": "Tvrzení se vztahuje ke sporům o střet zájmů a proplácení dotací z fondů EU. V minulosti skutečně došlo k situacím, kdy Evropská komise odmítla proplatit výdaje, které následně musel hradit státní rozpočet ČR, což potvrdily zprávy auditů EK a vyjádření Ministerstva financí ČR."
     },
     {
@@ -81,7 +96,7 @@
       "speaker": "Němec",
       "affiliation": "KDU-ČSL",
       "timestamp": "2/00:09",
-      "screenshot_path": "summaries/screenshots/event_2847_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2847_highlight_02.jpg",
       "context": "Výrok odkazuje na ustanovení nového stavebního zákona (zákon č. 283/2021 Sb.). Interpretace, zda jde o „prolomení principů“, je právním názorem; fakticky zákon skutečně obsahuje ustanovení umožňující dodatečné povolení staveb za určitých podmínek, což je předmětem odborné debaty o vymahatelnosti práva."
     }
   ],
@@ -91,7 +106,7 @@
       "speaker": "Petr Hladík",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/06:02",
-      "screenshot_path": "summaries/screenshots/event_2847_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2847_controversy_00.jpg",
       "context": "Návrh se týká úpravy zákona o ochraně přírody a krajiny. Změna pravidel pro kácení v ochranných pásmech infrastruktury je předmětem legislativního procesu, přičemž dopady na životní prostředí a kvalitu života jsou předmětem odborného sporu mezi zastánci zjednodušení administrativy a ochránci zeleně."
     },
     {
@@ -99,7 +114,7 @@
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "2/02:03",
-      "screenshot_path": "summaries/screenshots/event_2847_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2847_controversy_01.jpg",
       "context": "Spor mezi SZIF a Evropskou komisí ohledně dotací pro holding Agrofert je doložitelný skrze auditní zprávy EK a následné právní kroky. Zda SZIF ignoruje stanovisko EK, je politickou interpretací postupu úřadu, který se opírá o vlastní právní analýzy v kontextu národní legislativy."
     }
   ],

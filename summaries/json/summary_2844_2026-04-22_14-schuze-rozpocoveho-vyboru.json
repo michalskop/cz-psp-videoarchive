@@ -10,6 +10,110 @@
     "end_date": "2026-04-22T21:43",
     "sources": [
       "final/event_2844_2026-04-22_14-schuze-rozpocoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422191000.mp4",
+        "from_sec": 30
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422192000.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422193000.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422194000.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422195000.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422200000.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422201000.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422202000.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422203000.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422204000.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422205000.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422210000.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422211000.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422212000.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422213000.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/04/22/_20260422214000.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422073004.mp4",
+        "from_sec": 86
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422074004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422075004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422080004.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422081004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422082004.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422083004.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422084004.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/04/22/_20260422085004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -87,7 +191,7 @@
       "speaker": "Jana Murovová",
       "affiliation": null,
       "timestamp": "17/06:05",
-      "screenshot_path": "summaries/screenshots/event_2844_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2844_highlight_00.jpg",
       "context": "Výrok je hodnotícím politickým tvrzením. Zda je návrh 'významným krokem k modernizaci', je subjektivní interpretace, kterou nelze fakticky ověřit; závisí na odborném posouzení dopadů konkrétní legislativy na fiskální stabilitu."
     },
     {
@@ -96,7 +200,7 @@
       "speaker": "Mojmír Hampl",
       "affiliation": "Národní rozpočtová rada",
       "timestamp": "6/03:57",
-      "screenshot_path": "summaries/screenshots/event_2844_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2844_highlight_01.jpg",
       "context": "Jde o rétorické vyjádření názoru na závažnost legislativní změny. Změna 'fiskálního paradigmatu' není exaktně definovatelný termín, jde o interpretaci rozsahu změn v rozpočtových pravidlech (např. zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti)."
     },
     {
@@ -105,7 +209,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "Ministerstvo financí",
       "timestamp": "7/01:20",
-      "screenshot_path": "summaries/screenshots/event_2844_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2844_highlight_02.jpg",
       "context": "Tvrzení o 'investicích, které nemůžeme zastavit', je politickou argumentací. Fakticky jde o definici priorit státu; zákonné vymezení toho, co je považováno za 'nezastavitelnou investici', je předmětem legislativního procesu a není objektivně danou kategorií."
     }
   ],
@@ -115,7 +219,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "Ministerstvo financí",
       "timestamp": "5/06:15",
-      "screenshot_path": "summaries/screenshots/event_2844_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2844_controversy_00.jpg",
       "context": "Možnost vlády navýšit výdaje o 10 % bez souhlasu Sněmovny by představovala zásadní vybočení z dosavadních rozpočtových pravidel. Aktuálně zákon o rozpočtových pravidlech (č. 218/2000 Sb.) vyžaduje pro podstatné změny rozpočtu schválení Parlamentem; návrh je tedy ověřitelný jako konkrétní legislativní záměr."
     }
   ],

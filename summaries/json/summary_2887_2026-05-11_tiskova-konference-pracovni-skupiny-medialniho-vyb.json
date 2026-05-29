@@ -10,6 +10,12 @@
     "end_date": "2026-05-11",
     "sources": [
       "final/event_2887_2026-05-11_tiskova-konference-pracovni-skupiny-medialniho-vyb.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5281_video-psp-2026511-1339-43-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -88,7 +94,7 @@
       "speaker": "Martina Májíček Poliaková",
       "affiliation": "Český rozhlas",
       "timestamp": "1/09:13",
-      "screenshot_path": "summaries/screenshots/event_2887_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2887_highlight_00.jpg",
       "context": "Vládní novela zákona o České televizi a Českém rozhlasu skutečně mění mechanismus financování (indexace poplatků) a rozšiřuje definici poplatníka. Změny v rozsahu veřejné služby jsou předmětem odborné debaty, neboť novela upravuje i zákonné vymezení činnosti těchto institucí."
     },
     {
@@ -97,7 +103,7 @@
       "speaker": "Vlastimil Vojtěch",
       "affiliation": "Odbory Českého rozhlasu",
       "timestamp": "1/10:16",
-      "screenshot_path": "summaries/screenshots/event_2887_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2887_highlight_01.jpg",
       "context": "Toto je politický postoj (názor) odborové organizace, který nelze fakticky ověřit jako pravdivý či nepravdivý. Postoj odborů vychází z jejich vnitřního hodnocení dopadů novely na nezávislost a provozní stabilitu médií."
     },
     {
@@ -106,7 +112,7 @@
       "speaker": "Hana Kordová Marvanová",
       "affiliation": "Senát",
       "timestamp": "1/04:39",
-      "screenshot_path": "summaries/screenshots/event_2887_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2887_highlight_02.jpg",
       "context": "Ministerstvo kultury vedlo k novele řadu jednání, nicméně zástupci médií veřejné služby i někteří zákonodárci opakovaně kritizovali nedostatečnou transparentnost a absenci zapracování připomínek v raných fázích procesu. Míra 'reflektování' analýz je subjektivním hodnocením legislativního procesu."
     }
   ],
@@ -116,7 +122,7 @@
       "speaker": "Hana Kordová Marvanová",
       "affiliation": "Senát",
       "timestamp": "1/00:43",
-      "screenshot_path": "summaries/screenshots/event_2887_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2887_controversy_00.jpg",
       "context": "Návrh na stažení zákona z legislativního procesu je legitimním parlamentním nástrojem. Zpochybnění kompetence ministerstva je politickým názorem senátorky; fakticky jde o projev nesouhlasu s konkrétní podobou vládního návrhu a způsobem jeho projednávání."
     }
   ],

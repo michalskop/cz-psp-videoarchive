@@ -10,6 +10,73 @@
     "end_date": "2026-04-29",
     "sources": [
       "final/event_2860_2026-04-29_7-schuze-vyboru-pro-zdravotnictvi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429140004.mp4",
+        "from_sec": 286
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429141004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429142004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429143004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429144004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429145005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429150004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429151005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429152004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429153005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429154005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429155005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429160005.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429161005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429162005.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/04/29/_20260429163005.mp4"
+      }
     ]
   },
   "transcription": {
@@ -70,7 +137,7 @@
       "speaker": "Barbara Macková",
       "affiliation": "Hlavní hygienička ČR",
       "timestamp": "1/07:00",
-      "screenshot_path": "summaries/screenshots/event_2860_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2860_highlight_00.jpg",
       "context": "Národní očkovací strategie (NOS) byla skutečně v roce 2024 aktualizována jako komplexní dokument Ministerstva zdravotnictví ČR pro období 2024–2030. Dokument definuje očkování jako prioritu veřejného zdraví a prevence, přičemž navazuje na předchozí dílčí strategie; tvrzení o „prvním komplexním popisu“ je však subjektivní hodnocením míry komplexnosti oproti předchozím verzím."
     }
   ],
@@ -80,7 +147,7 @@
       "speaker": "David Síla",
       "affiliation": "SPD",
       "timestamp": "7/01:00",
-      "screenshot_path": "summaries/screenshots/event_2860_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2860_controversy_00.jpg",
       "context": "Návrh na revokaci vládního usnesení je legitimním politickým nástrojem poslance. Tvrzení o „zmanipulovaných studiích“ Hospodářské komory ČR je subjektivním politickým výrokem, který není podložen žádným pravomocným rozhodnutím orgánů činných v trestním řízení či nezávislým auditem, který by manipulaci dat prokázal."
     }
   ],

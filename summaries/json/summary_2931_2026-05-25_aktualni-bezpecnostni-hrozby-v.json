@@ -10,6 +10,113 @@
     "end_date": "2026-05-25T14:41",
     "sources": [
       "final/event_2931_2026-05-25_aktualni-bezpecnostni-hrozby-v.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525090003.mp4",
+        "from_sec": 22
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525091003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525092003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525093003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525094003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525095003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525100003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525101003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525102003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525103003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525104003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525105003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525123052.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525124008.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525125008.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525130008.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525131008.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525132008.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525133008.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525134008.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525135008.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525140008.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525141008.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525142008.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525143008.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/25/_20260525144008.mp4"
+      }
     ]
   },
   "transcription": {
@@ -101,7 +208,7 @@
       "speaker": "Karel Řehka",
       "affiliation": "AČR",
       "timestamp": "4/05:18",
-      "screenshot_path": "summaries/screenshots/event_2931_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2931_highlight_00.jpg",
       "context": "Tvrzení reflektuje oficiální Bezpečnostní strategii ČR (2023), která definuje ruskou agresi proti Ukrajině jako přímou hrozbu pro bezpečnost ČR. Strategický zájem je v tomto kontextu podložen snahou o udržení stability v regionu a dodržování mezinárodního práva."
     },
     {
@@ -110,7 +217,7 @@
       "speaker": "Tomáš Kubík",
       "affiliation": "Policie ČR",
       "timestamp": "7/00:34",
-      "screenshot_path": "summaries/screenshots/event_2931_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2931_highlight_01.jpg",
       "context": "Výdaje na obranu jsou v ČR legislativně ukotveny zákonem č. 219/2023 Sb., který stanovuje povinnost vynakládat na obranu minimálně 2 % HDP. Potřeba investic do vnitřní bezpečnosti je předmětem rozpočtových debat v rámci kapitoly Ministerstva vnitra."
     },
     {
@@ -119,7 +226,7 @@
       "speaker": "Lukáš Kintr",
       "affiliation": "NÚKIB",
       "timestamp": "9/04:27",
-      "screenshot_path": "summaries/screenshots/event_2931_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2931_highlight_02.jpg",
       "context": "Tvrzení odpovídá dlouhodobým analýzám NÚKIB i globálním statistikám kybernetické bezpečnosti (např. zprávy Verizon DBIR), které uvádějí, že sociální inženýrství a chyby uživatelů jsou příčinou naprosté většiny úspěšných průniků do systémů."
     }
   ],
@@ -129,7 +236,7 @@
       "speaker": "Břetislav Brejcha",
       "affiliation": "NCTK",
       "timestamp": "21/04:01",
-      "screenshot_path": "summaries/screenshots/event_2931_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2931_controversy_00.jpg",
       "context": "Věková hranice trestní odpovědnosti je v ČR stanovena na 15 let (zákon č. 40/2009 Sb., trestní zákoník). Diskuze o jejím snížení se v politickém spektru objevuje opakovaně, avšak naráží na ústavní principy ochrany dětí a doporučení odborníků na dětskou psychologii a prevenci kriminality."
     }
   ],

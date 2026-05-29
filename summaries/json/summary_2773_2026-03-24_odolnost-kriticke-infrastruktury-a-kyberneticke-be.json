@@ -10,6 +10,101 @@
     "end_date": "2026-03-24T17:46",
     "sources": [
       "final/event_2773_2026-03-24_odolnost-kriticke-infrastruktury-a-kyberneticke-be.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324140004.mp4",
+        "from_sec": 431
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324141004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324142004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324143004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324144004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324145004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324150004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324151004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324152004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324153004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324154004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324155004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324160004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324161004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324162004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324163004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324164004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324165004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324170004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324171004.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324172004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324173004.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video/K48/2026/03/24/_20260324174004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -73,7 +168,7 @@
       "speaker": "Jaroslav Vítek",
       "affiliation": "Asociace pověřenců ČR",
       "timestamp": "4/05:42",
-      "screenshot_path": "summaries/screenshots/event_2773_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2773_highlight_00.jpg",
       "context": "Jde o odborný názor na tzv. komplexní bezpečnostní management. Tento přístup je v souladu s moderními standardy řízení rizik (např. norma ISO 31000), které prosazují integraci všech bezpečnostních aspektů do jednoho celku."
     },
     {
@@ -82,7 +177,7 @@
       "speaker": "Renáta Berkovcová",
       "affiliation": "Poslanecká sněmovna",
       "timestamp": "1/09:45",
-      "screenshot_path": "summaries/screenshots/event_2773_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2773_highlight_01.jpg",
       "context": "Školy nejsou dle zákona č. 240/2000 Sb. (krizový zákon) a vyhlášky č. 432/2010 Sb. automaticky zařazeny mezi prvky kritické infrastruktury státu, pokud neplní specifické funkce (např. výzkumná centra). Legislativní debata o jejich zařazení do širšího systému ochrany měkkých cílů však probíhá."
     },
     {
@@ -91,7 +186,7 @@
       "speaker": "Monika Bendová",
       "affiliation": null,
       "timestamp": "17/00:19",
-      "screenshot_path": "summaries/screenshots/event_2773_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2773_highlight_02.jpg",
       "context": "Tvrzení je dlouhodobě podporováno daty o platových rozdílech v IT sektoru. Podle statistik ISPV (Informační systém o průměrném výdělku) jsou platy IT specialistů ve veřejné správě výrazně nižší než v komerční sféře, což vede k vysoké fluktuaci odborníků."
     }
   ],
@@ -101,7 +196,7 @@
       "speaker": "Josef Myslín, Olga Helclová",
       "affiliation": null,
       "timestamp": "14/04:00",
-      "screenshot_path": "summaries/screenshots/event_2773_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2773_controversy_00.jpg",
       "context": "Zavedení nového předmětu podléhá schválení Ministerstva školství, mládeže a tělovýchovy v rámci Rámcových vzdělávacích programů (RVP). Návrh naráží na limity tzv. hodinové dotace a probíhající revizi RVP, která se snaží spíše o redukci obsahu než o přidávání nových předmětů."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-05-13T09:04",
     "sources": [
       "final/event_2904_2026-05-13_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5301_video-psp-2026513-842-1-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -73,7 +79,7 @@
       "speaker": "Jan Papajanovský",
       "affiliation": "STAN",
       "timestamp": "1/02:28",
-      "screenshot_path": "summaries/screenshots/event_2904_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2904_highlight_00.jpg",
       "context": "Jedná se o politickou interpretaci rozpočtových pravidel. Únikové doložky v rámci rozpočtové odpovědnosti (dle zákona č. 23/2017 Sb.) umožňují dočasné překročení limitů při mimořádných událostech, přičemž jejich vliv na deficit je předmětem odborné debaty o transparentnosti veřejných financí."
     },
     {
@@ -82,7 +88,7 @@
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/09:12",
-      "screenshot_path": "summaries/screenshots/event_2904_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2904_highlight_01.jpg",
       "context": "Spending reviews (přezkumy výdajů) jsou standardním nástrojem pro zvyšování efektivity státního rozpočtu, který využívá i Ministerstvo financí ČR. Odhad úspor ve výši 3 % výdajů je teoretický model; reálný objem úspor závisí na politické vůli k implementaci konkrétních opatření identifikovaných v těchto přezkumech."
     },
     {
@@ -91,7 +97,7 @@
       "speaker": "Pavla Pivoňka Vaňková",
       "affiliation": "STAN",
       "timestamp": "1/12:23",
-      "screenshot_path": "summaries/screenshots/event_2904_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2904_highlight_02.jpg",
       "context": "Jde o hodnotící výrok (metaforu) k návrhu zákona o podpoře bydlení. Faktická účinnost zákona v oblasti pomoci samoživitelkám a seniorům je předmětem legislativního procesu a bude záviset na finálním znění prováděcích předpisů a nastavení parametrů sociální podpory."
     }
   ],
@@ -101,7 +107,7 @@
       "speaker": "Barbora Urbanová",
       "affiliation": "STAN",
       "timestamp": "1/14:01",
-      "screenshot_path": "summaries/screenshots/event_2904_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2904_controversy_00.jpg",
       "context": "Návrh na změnu Ústavy ČR vyžaduje ústavní většinu (3/5 všech poslanců a 3/5 přítomných senátorů). Změna článku 40 by fakticky zavedla pojistku proti změnám institucionálního rámce státu prováděným pouze vládní většinou v Poslanecké sněmovně, což by posílilo roli Senátu."
     }
   ],

@@ -10,6 +10,21 @@
     "end_date": "2026-04-21T13:40",
     "sources": [
       "final/event_2842_2026-04-21_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421132003.mp4",
+        "from_sec": 152
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421133003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/04/21/_20260421134003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -59,7 +74,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "2/05:28",
-      "screenshot_path": "summaries/screenshots/event_2842_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2842_highlight_00.jpg",
       "context": "Tvrzení o legislativní kvalitě je subjektivním politickým hodnocením. Zda je systém poplatků 'funkční' či nikoliv, je předmětem politické debaty o udržitelnosti financování médií veřejné služby, nikoliv objektivně měřitelný fakt."
     },
     {
@@ -68,7 +83,7 @@
       "speaker": "Neidentifikovaná řečnice",
       "affiliation": "ODS",
       "timestamp": "2/01:25",
-      "screenshot_path": "summaries/screenshots/event_2842_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2842_highlight_01.jpg",
       "context": "Citace 'reflexy konkrétních životních zkušeností osob' se objevila v důvodových zprávách k některým legislativním návrhům jako zdůvodnění společenské potřeby úpravy. Zda je takové zdůvodnění dostatečné pro 'prevenční charakter' zákona, je předmětem právní a politické interpretace."
     },
     {
@@ -77,7 +92,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "2/04:50",
-      "screenshot_path": "summaries/screenshots/event_2842_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2842_highlight_02.jpg",
       "context": "Jedná se o politické prohlášení o záměru využít obstrukční nástroje (např. blokování schůze, dlouhé projevy), které jsou legitimní součástí parlamentního boje v rámci Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.)."
     }
   ],
@@ -87,7 +102,7 @@
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "2/06:03",
-      "screenshot_path": "summaries/screenshots/event_2842_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2842_controversy_00.jpg",
       "context": "Výrok je expresivním politickým rétorickým obratem (hyperbolou). Nejedná se o faktické tvrzení, které by bylo možné ověřit, ale o vyjádření silného nesouhlasu s předloženým legislativním návrhem."
     }
   ],

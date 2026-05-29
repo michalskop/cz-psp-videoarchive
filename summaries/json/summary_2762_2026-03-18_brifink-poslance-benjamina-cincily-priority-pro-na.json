@@ -10,6 +10,12 @@
     "end_date": "2026-03-18T10:04",
     "sources": [
       "final/event_2762_2026-03-18_brifink-poslance-benjamina-cincily-priority-pro-na.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5128_video-psp-2026318-100-1-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -55,7 +61,7 @@
       "speaker": "Benjamin Činčila",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/01:02",
-      "screenshot_path": "summaries/screenshots/event_2762_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2762_highlight_00.jpg",
       "context": "Jde o politické prohlášení hodnotového charakteru, které nelze fakticky ověřit. Vyjadřuje programovou prioritu strany v oblasti rodinné politiky a trhu práce."
     },
     {
@@ -64,7 +70,7 @@
       "speaker": "Benjamin Činčila",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/00:49",
-      "screenshot_path": "summaries/screenshots/event_2762_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2762_highlight_01.jpg",
       "context": "Tvrzení reflektuje základní ekonomický princip rozpočtového omezení. Z hlediska veřejných financí ČR je udržitelnost státního rozpočtu závislá na poměru mezi daňovými příjmy a mandatorními výdaji, což potvrzují pravidelné zprávy Národní rozpočtové rady."
     },
     {
@@ -73,7 +79,7 @@
       "speaker": "Benjamin Činčila",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/02:56",
-      "screenshot_path": "summaries/screenshots/event_2762_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2762_highlight_02.jpg",
       "context": "Jde o subjektivní politické přání a rétorický cíl, který není fakticky ověřitelný."
     }
   ],
@@ -83,7 +89,7 @@
       "speaker": "Benjamin Činčila",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/01:15",
-      "screenshot_path": "summaries/screenshots/event_2762_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2762_controversy_00.jpg",
       "context": "Výrok je ekonomickým komentářem k fiskální politice. Z hlediska teorie veřejných financí je tvrzení o neslučitelnosti nízkých daní a rozsáhlého státu podloženo nutností vyrovnaného hospodaření, přičemž aktuální data MF ČR o strukturálním deficitu potvrzují obtížnost udržení obou parametrů současně."
     }
   ],

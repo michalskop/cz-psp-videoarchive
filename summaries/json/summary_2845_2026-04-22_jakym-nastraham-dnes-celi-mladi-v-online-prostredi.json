@@ -10,6 +10,101 @@
     "end_date": "2026-04-22T17:45",
     "sources": [
       "final/event_2845_2026-04-22_jakym-nastraham-dnes-celi-mladi-v-online-prostredi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422140003.mp4",
+        "from_sec": 352
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422141003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422142003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422143003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422144003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422145003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422150003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422151003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422152003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422153003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422154003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422155003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422160003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422161003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422162003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422163003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422164004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422165004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422170003.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422171004.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422172004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422173003.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/04/22/_20260422174003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -81,7 +176,7 @@
       "speaker": "Martin Kožíšek",
       "affiliation": "Safer Internet Centrum",
       "timestamp": "2/06:37",
-      "screenshot_path": "summaries/screenshots/event_2845_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_highlight_00.jpg",
       "context": "Tento údaj vychází z průzkumů Safer Internet Centra (CZ.NIC) mezi českými dětmi. Potvrzuje dlouhodobý trend, kdy děti běžně využívají techniky jako změnu data narození nebo sdílené účty k obcházení věkových limitů platných dle podmínek provozovatelů platforem."
     },
     {
@@ -90,7 +185,7 @@
       "speaker": "Matěj Hollan",
       "affiliation": "Asociace poskytovatelů adiktologických služeb",
       "timestamp": "4/00:55",
-      "screenshot_path": "summaries/screenshots/event_2845_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_highlight_01.jpg",
       "context": "Vliv nadměrného užívání digitálních technologií na kvalitu spánku dětí je potvrzen řadou studií (např. Národní ústav duševního zdraví). Jde o odborný konsenzus v oblasti adiktologie, který spojuje modré světlo a psychickou stimulaci před spaním s narušením cirkadiánního rytmu."
     },
     {
@@ -99,7 +194,7 @@
       "speaker": "Klára Šimáčková-Laurenčíková",
       "affiliation": "bývalá zmocněnkyně vlády pro lidská práva",
       "timestamp": "5/06:51",
-      "screenshot_path": "summaries/screenshots/event_2845_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_highlight_02.jpg",
       "context": "Jde o hodnotové a pedagogické tvrzení, které nelze fakticky ověřit jako statistický údaj. Odpovídá však současným debatám o digitální deprivaci a rozvoji sociálních dovedností, které jsou předmětem výzkumů v oblasti pedagogické psychologie."
     }
   ],
@@ -109,7 +204,7 @@
       "speaker": "Matěj Hollan",
       "affiliation": "Asociace poskytovatelů adiktologických služeb",
       "timestamp": "4/06:18",
-      "screenshot_path": "summaries/screenshots/event_2845_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_controversy_00.jpg",
       "context": "V ČR neexistuje celostátní zákonný zákaz mobilů ve školách; rozhodnutí je v kompetenci ředitelů škol dle školského zákona č. 561/2004 Sb. Debata o plošné regulaci probíhá v kontextu evropských zemí (např. Francie či Nizozemsko), kde jsou přístupy k zákazu různé a často diskutované z pohledu efektivity a práv žáků."
     }
   ],

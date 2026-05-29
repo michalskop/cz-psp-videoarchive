@@ -10,6 +10,57 @@
     "end_date": "2026-04-28T14:53",
     "sources": [
       "final/event_2853_2026-04-28_7-schuze-zemedelskeho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428130005.mp4",
+        "from_sec": 305
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428131005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428132005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428133005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428134005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428135005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428140005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428141005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428142005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428143005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428144005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/04/28/_20260428145005.mp4"
+      }
     ]
   },
   "transcription": {
@@ -89,7 +140,7 @@
       "speaker": "Josef Kučera",
       "affiliation": "PGRLF",
       "timestamp": "5/09:05",
-      "screenshot_path": "summaries/screenshots/event_2853_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2853_highlight_00.jpg",
       "context": "Tento multiplikační efekt je uváděn v interních materiálech PGRLF jako odhadovaný dopad podpůrných programů. Přesná hodnota se však liší podle typu konkrétního dotačního titulu a nelze ji plošně aplikovat na veškeré investice fondu bez podrobné analýzy konkrétních ročních výkazů."
     },
     {
@@ -98,7 +149,7 @@
       "speaker": "Daniel Albrecht",
       "affiliation": "MZe",
       "timestamp": "10/04:31",
-      "screenshot_path": "summaries/screenshots/event_2853_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2853_highlight_01.jpg",
       "context": "Tvrzení odpovídá zákonu č. 254/2001 Sb. (vodní zákon), který omezuje výstavbu v aktivních zónách záplavových území z důvodu zajištění průtočnosti a bezpečnosti. Porušování těchto pravidel je dlouhodobě kritizováno jako bezpečnostní riziko i z pohledu pojišťoven."
     }
   ],
@@ -108,7 +159,7 @@
       "speaker": "Jan Šmída",
       "affiliation": "Piráti",
       "timestamp": "8/01:00",
-      "screenshot_path": "summaries/screenshots/event_2853_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2853_controversy_00.jpg",
       "context": "Vymáhání dotací u subjektů spojených s Agrofertem je předmětem dlouhodobých právních sporů mezi ČR a Evropskou komisí. Informace o konkrétních posudcích a časových plánech jsou předmětem správních řízení, jejichž zveřejnění podléhá zákonu č. 106/1999 Sb. o svobodném přístupu k informacím."
     }
   ],

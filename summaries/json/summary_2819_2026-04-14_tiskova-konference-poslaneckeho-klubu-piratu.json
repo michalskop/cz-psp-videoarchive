@@ -10,6 +10,12 @@
     "end_date": "2026-04-14T12:55",
     "sources": [
       "final/event_2819_2026-04-14_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5197_video-psp-2026414-1238-20-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -74,7 +80,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/02:42",
-      "screenshot_path": "summaries/screenshots/event_2819_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2819_highlight_00.jpg",
       "context": "Údaj vychází z principů metody 'Housing First' (Bydlení především), která je v ČR testována v rámci projektů sociálního bydlení. Data z pilotních projektů (např. v Brně či Praze) skutečně potvrzují úspěšnost udržení bydlení u cílových skupin v rozmezí 80–90 % po dobu dvou let."
     },
     {
@@ -83,7 +89,7 @@
       "speaker": "Hana Ančincová",
       "affiliation": "Piráti",
       "timestamp": "1/07:44",
-      "screenshot_path": "summaries/screenshots/event_2819_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2819_highlight_01.jpg",
       "context": "Tvrzení je závislé na konkrétním investičním horizontu a výnosnosti zvoleného finančního produktu. Při horizontu 30–40 let a započtení státních příspěvků či daňových úlev lze při měsíční úspoře 2 000 Kč dosáhnout vysokého zhodnocení, nicméně částka 500 tisíc Kč navíc je hypotetický odhad závislý na tržních podmínkách."
     },
     {
@@ -92,7 +98,7 @@
       "speaker": "Kateřina Stojanová",
       "affiliation": "Piráti",
       "timestamp": "1/09:31",
-      "screenshot_path": "summaries/screenshots/event_2819_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2819_highlight_02.jpg",
       "context": "Jde o politickou rétoriku a hodnotový výrok, který nelze fakticky ověřit. Odráží kritiku střetu zájmů Andreje Babiše a jeho způsobu správy státu v porovnání s jeho podnikatelskou činností."
     }
   ],
@@ -102,7 +108,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/12:04",
-      "screenshot_path": "summaries/screenshots/event_2819_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2819_controversy_00.jpg",
       "context": "Jedná se o metaforické vyjádření politického názoru na vládní hospodářskou politiku. Faktická podstata vládních zásahů do cen pohonných hmot (např. snížení spotřební daně v minulosti) je předmětem odborné ekonomické debaty, nikoliv ověřitelný fakt."
     },
     {
@@ -110,7 +116,7 @@
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/16:04",
-      "screenshot_path": "summaries/screenshots/event_2819_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2819_controversy_01.jpg",
       "context": "Přednostní právo členů vlády vystoupit v Poslanecké sněmovně je zakotveno v § 59 zákona č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny. Využití tohoto práva vládními představiteli během schůzí iniciovaných opozicí je legitimní procedurální krok, jehož interpretace jako 'výsměchu' je subjektivním politickým hodnocením."
     }
   ],

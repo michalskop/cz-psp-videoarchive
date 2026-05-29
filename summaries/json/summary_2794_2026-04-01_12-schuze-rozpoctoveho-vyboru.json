@@ -10,6 +10,85 @@
     "end_date": "2026-04-01T12:03",
     "sources": [
       "final/event_2794_2026-04-01_12-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401090004.mp4",
+        "from_sec": 331
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401091004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401092004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401093004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401094004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401095004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401100004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401101004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401102004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401103005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401104005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401105005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401110005.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401111005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401112005.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401113005.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401114005.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401115005.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/27/2026/04/01/_20260401120005.mp4"
+      }
     ]
   },
   "transcription": {
@@ -81,7 +160,7 @@
       "speaker": "Jan Munzar",
       "affiliation": "ODS",
       "timestamp": "6/01:47",
-      "screenshot_path": "summaries/screenshots/event_2794_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2794_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení záměru zákona. Dopad na rozpočtovou odpovědnost je předmětem odborné debaty mezi vládní koalicí a opozicí, nikoliv objektivně měřitelný fakt."
     },
     {
@@ -90,7 +169,7 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "17/05:15",
-      "screenshot_path": "summaries/screenshots/event_2794_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2794_highlight_01.jpg",
       "context": "Částka 60 milionů korun vychází z odhadů dopadů konkrétního pozměňovacího návrhu k zákonu o penzijním spoření. Zda tato částka představuje riziko pro důvěru střadatelů, je politické tvrzení, které nelze fakticky ověřit."
     }
   ],
@@ -100,7 +179,7 @@
       "speaker": "Jan Munzar",
       "affiliation": "ODS",
       "timestamp": "6/02:08",
-      "screenshot_path": "summaries/screenshots/event_2794_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2794_controversy_00.jpg",
       "context": "Návrh zákona o rozpočtové odpovědnosti (zákon č. 23/2017 Sb.) skutečně obsahuje mechanismy pro úpravu výdajových rámců v krizových situacích. Interpretace, zda jde o „bianco šek“, je politickým názorem opozice na míru parlamentní kontroly nad exekutivou."
     }
   ],

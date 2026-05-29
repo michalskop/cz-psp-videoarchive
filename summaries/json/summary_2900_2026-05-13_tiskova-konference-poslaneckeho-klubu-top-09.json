@@ -10,6 +10,12 @@
     "end_date": "2026-05-13T07:56",
     "sources": [
       "final/event_2900_2026-05-13_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5295_video-psp-2026513-739-43-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -70,7 +76,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/01:38",
-      "screenshot_path": "summaries/screenshots/event_2900_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2900_highlight_00.jpg",
       "context": "Jde o subjektivní politické hodnocení dopadů legislativní změny na probíhající trestní řízení. Nelze nezávisle ověřit, zda by konkrétní změna zákona vedla k zastavení stíhání konkrétní osoby, neboť výklad práva náleží nezávislým soudům."
     },
     {
@@ -79,7 +85,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/02:22",
-      "screenshot_path": "summaries/screenshots/event_2900_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2900_highlight_01.jpg",
       "context": "Jedná se o politický odhad budoucího vývoje státního rozpočtu. Výše schodků závisí na mnoha proměnných, jako je makroekonomický vývoj, daňové příjmy a vládní výdajová politika, nelze tedy fakticky potvrdit ani vyvrátit konkrétní predikovanou částku."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Marek Ženíšek",
       "affiliation": "TOP 09",
       "timestamp": "1/09:45",
-      "screenshot_path": "summaries/screenshots/event_2900_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2900_highlight_02.jpg",
       "context": "Toto tvrzení je hodnotovým soudem a politickou rétorikou. Hodnocení „ostudy“ vlády je subjektivní názor, který není fakticky ověřitelný."
     },
     {
@@ -97,7 +103,7 @@
       "speaker": "Marek Ženíšek",
       "affiliation": "TOP 09",
       "timestamp": "1/09:13",
-      "screenshot_path": "summaries/screenshots/event_2900_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2900_highlight_03.jpg",
       "context": "Citát je připisován T. G. Masarykovi, ačkoliv přesná formulace se v jeho dílech vyskytuje v různých variacích. Jde o filozofický výrok, nikoliv o faktické tvrzení podléhající verifikaci."
     }
   ],
@@ -107,7 +113,7 @@
       "speaker": "Marek Ženíšek",
       "affiliation": "TOP 09",
       "timestamp": "1/00:00",
-      "screenshot_path": "summaries/screenshots/event_2900_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2900_controversy_00.jpg",
       "context": "Účast na schůzích Poslanecké sněmovny je ústavní povinností poslance (čl. 23 Ústavy ČR). Rozhodnutí neúčastnit se schůze je politickým aktem, který je fakticky doložitelný prezenční listinou z dané schůze."
     },
     {
@@ -115,7 +121,7 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/05:13",
-      "screenshot_path": "summaries/screenshots/event_2900_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2900_controversy_01.jpg",
       "context": "Důvody personálních změn na ministerstvech jsou často předmětem politických sporů. Tvrzení o „zadání zbavit se odborníka“ je interpretací politických kroků, kterou nelze nezávisle ověřit bez přístupu k interní komunikaci ministerstva obrany."
     }
   ],

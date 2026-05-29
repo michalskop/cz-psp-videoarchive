@@ -10,6 +10,105 @@
     "end_date": "2026-03-19T17:56",
     "sources": [
       "final/event_2765_2026-03-19_statni-sluzba-a-planovane-zmeny.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319140003.mp4",
+        "from_sec": 37
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319141003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319142003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319143003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319144003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319145003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319150003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319151003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319152003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319153003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319154003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319155003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319160003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319161003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319162003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319163003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319164003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319165003.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319170003.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319171003.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319172003.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319173003.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319174003.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video/A55/2026/03/19/_20260319175003.mp4"
+      }
     ]
   },
   "transcription": {
@@ -113,7 +212,7 @@
       "speaker": "Jakub Černý",
       "affiliation": "konzultant pro veřejnou správu",
       "timestamp": "5/00:57",
-      "screenshot_path": "summaries/screenshots/event_2765_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2765_highlight_00.jpg",
       "context": "Podle výročních zpráv o státní službě (MV ČR) podíl mladých úředníků skutečně dlouhodobě klesá a věkový průměr státních zaměstnanců je vyšší než v soukromém sektoru. Přesné procentuální vyjádření poklesu o 65 % však závisí na zvoleném časovém úseku od účinnosti zákona o státní službě (2015) a metodice výpočtu."
     },
     {
@@ -122,7 +221,7 @@
       "speaker": "Eliška Hronová",
       "affiliation": "Platforma zaměstnanců Ministerstva spravedlnosti",
       "timestamp": "7/07:39",
-      "screenshot_path": "summaries/screenshots/event_2765_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2765_highlight_01.jpg",
       "context": "Údaje odpovídají trendům v Informačním systému o průměrném výdělku (ISPV), který dlouhodobě potvrzuje výrazný rozdíl v odměňování právních profesí mezi státní a soukromou sférou. Konkrétní částky se mohou lišit v závislosti na započtení odměn a příplatků, ale rozdíl v řádech desítek tisíc korun je fakticky podložen."
     },
     {
@@ -131,7 +230,7 @@
       "speaker": "Šárka Homfrej",
       "affiliation": "Odborový svaz státních orgánů",
       "timestamp": "20/08:05",
-      "screenshot_path": "summaries/screenshots/event_2765_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2765_highlight_02.jpg",
       "context": "Nelze nezávisle ověřit. Údaj o 5 % úředníků vnímajících zrušení zákona pozitivně vychází z interního průzkumu odborové organizace, jehož metodika, velikost vzorku a reprezentativnost nejsou veřejně dostupné k nezávislé verifikaci."
     }
   ],
@@ -141,7 +240,7 @@
       "speaker": "Kateřina Stojanová, Zuzana Ožanová",
       "affiliation": "Poslankyně PS PČR",
       "timestamp": "19/06:03",
-      "screenshot_path": "summaries/screenshots/event_2765_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2765_controversy_00.jpg",
       "context": "Jde o politický střet názorů na interpretaci zákona č. 234/2014 Sb., o státní službě. Zatímco argument o politizaci vychází z obav o oslabení kontrolních mechanismů (např. role služebních orgánů), argument o osobní integritě je subjektivním postojem k efektivitě státní správy, který nelze fakticky potvrdit ani vyvrátit."
     }
   ],

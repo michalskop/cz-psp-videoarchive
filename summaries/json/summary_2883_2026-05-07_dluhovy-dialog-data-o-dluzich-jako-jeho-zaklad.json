@@ -10,6 +10,80 @@
     "end_date": "2026-05-07T12:08",
     "sources": [
       "final/event_2883_2026-05-07_dluhovy-dialog-data-o-dluzich-jako-jeho-zaklad.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507091008.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507092008.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507093008.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507094008.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507095008.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507100007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507101008.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507102008.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507103008.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507104008.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507105008.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507110008.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507111008.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507112008.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507113008.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507114008.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507115008.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/05/07/_20260507120008.mp4"
+      }
     ]
   },
   "transcription": {
@@ -117,7 +191,7 @@
       "speaker": "Jarmila Veselá",
       "affiliation": "InsolCentrum",
       "timestamp": "9/06:07",
-      "screenshot_path": "summaries/screenshots/event_2883_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2883_highlight_00.jpg",
       "context": "Státní správa skutečně nedisponuje komplexní a propojenou databází, která by v reálném čase propojovala exekuční řízení s demografickými a zdravotními údaji dlužníků. Evidence exekucí (Centrální evidence exekucí) je vedena Exekutorskou komorou ČR a primárně slouží k evidenci probíhajících řízení, nikoliv k sociologickému monitoringu dlužníků."
     },
     {
@@ -126,7 +200,7 @@
       "speaker": "Jarmila Veselá",
       "affiliation": "InsolCentrum",
       "timestamp": "9/08:00",
-      "screenshot_path": "summaries/screenshots/event_2883_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2883_highlight_01.jpg",
       "context": "Tvrzení o 200 miliardách korun jako nákladech na sanaci dlužníků je interpretací InsolCentra, která zahrnuje odpuštěné dluhy v rámci oddlužení. Nelze nezávisle ověřit, zda lze tuto částku v plném rozsahu označit za přímou „sanaci daňovými poplatníky“, neboť jde o kombinaci ztrát soukromých věřitelů a veřejných institucí."
     },
     {
@@ -135,7 +209,7 @@
       "speaker": "Pavel Staněk",
       "affiliation": "Česká asociace věřitelů",
       "timestamp": "17/01:52",
-      "screenshot_path": "summaries/screenshots/event_2883_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2883_highlight_02.jpg",
       "context": "Tento údaj vychází z analýz InsolCentra, které dlouhodobě upozorňuje na podíl dluhů z trestné činnosti v insolvenčních řízeních. Oficiální statistiky Ministerstva spravedlnosti ČR tuto konkrétní kategorii dluhů v insolvenci jako samostatný statistický celek standardně nesledují, proto jde o odhad založený na datech z insolvenčních návrhů."
     }
   ],
@@ -145,7 +219,7 @@
       "speaker": "Pavel Staněk",
       "affiliation": "Česká asociace věřitelů",
       "timestamp": "17/00:00",
-      "screenshot_path": "summaries/screenshots/event_2883_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2883_controversy_00.jpg",
       "context": "Návrh na prioritní uspokojování pohledávek z trestné činnosti je věcným tématem diskusí o novele insolvenčního zákona. V současné právní úpravě (zákon č. 182/2006 Sb., insolvenční zákon) mají přednostní postavení pouze pohledávky za majetkovou podstatou a výživné; změna tohoto principu by vyžadovala zásadní legislativní úpravu priorit věřitelů."
     }
   ],

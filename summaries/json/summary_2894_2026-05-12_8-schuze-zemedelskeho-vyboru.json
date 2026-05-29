@@ -10,6 +10,12 @@
     "end_date": "2026-05-12T15:01",
     "sources": [
       "final/event_2894_2026-05-12_8-schuze-zemedelskeho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5288_zemedelsky_vybor_new_sound.mp4"
+      }
     ]
   },
   "transcription": {
@@ -81,7 +87,7 @@
       "speaker": "Karel Štencel",
       "affiliation": "ČÚZK",
       "timestamp": "1/04:11",
-      "screenshot_path": "summaries/screenshots/event_2894_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2894_highlight_00.jpg",
       "context": "Údaj je ověřitelný v závěrečném účtu kapitoly ČÚZK za příslušný rok. Pro potvrzení přesnosti je nutné porovnat výši příjmů s rozpočtovanou částkou schválenou zákonem o státním rozpočtu na daný rok."
     },
     {
@@ -98,7 +104,7 @@
       "speaker": "Martin Šebestian",
       "affiliation": "Ministerstvo zemědělství",
       "timestamp": "1/47:41",
-      "screenshot_path": "summaries/screenshots/event_2894_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2894_highlight_02.jpg",
       "context": "Odhad škod ve výši 70 miliard korun odpovídá vládním odhadům publikovaným po zářijových povodních 2024. Konečná výše škod se však může lišit po dokončení detailních analýz pojišťoven a státních orgánů."
     }
   ],
@@ -108,7 +114,7 @@
       "speaker": "Jana Krutáková",
       "affiliation": null,
       "timestamp": "1/02:00",
-      "screenshot_path": "summaries/screenshots/event_2894_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2894_controversy_00.jpg",
       "context": "Hlasování o zařazení bodu je doložitelné ve stenografickém záznamu a výsledcích hlasování Poslanecké sněmovny. Politická citlivost tématu střetu zájmů je předmětem dlouhodobé debaty mezi vládní koalicí a opozicí."
     },
     {
@@ -116,7 +122,7 @@
       "speaker": "Martin Šebestian",
       "affiliation": "Ministerstvo zemědělství",
       "timestamp": "1/56:12",
-      "screenshot_path": "summaries/screenshots/event_2894_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2894_controversy_01.jpg",
       "context": "Spor mezi Ministerstvem zemědělství a AOPK (Agentura ochrany přírody a krajiny) ohledně prioritizace protipovodňových opatření vs. ochrany přírody je dlouhodobým administrativním konfliktem. Jde o střet dvou odlišných zákonných mandátů (zákon o vodách vs. zákon o ochraně přírody a krajiny)."
     }
   ],

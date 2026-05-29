@@ -1,0 +1,152 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T18:53:07",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2892",
+    "name": "Předkupní právo - cesta do pekla nebo k prosperitě",
+    "classification": "Seminář",
+    "start_date": "2026-05-12",
+    "end_date": "2026-05-12",
+    "sources": [
+      "final/event_2892_2026-05-12_predkupni-pravo-cesta-do-pekla-nebo-k-prosperite.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5286_predkupni_pravo_new_sound.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zabýval plánovaným zavedením zákonného předkupního práva na zemědělskou půdu, které je součástí programového prohlášení současné vlády a má být legislativně ukotveno v první polovině roku 2027. Cílem jednání bylo pojmenovat rizika a ekonomické souvislosti tohoto kroku, zhodnotit dopady na vlastnická práva a analyzovat zkušenosti ze zahraničí.\n\nHlavním motivem kritiky byla obava ze zásahu do ústavně zaručeného vlastnického práva, rizika poklesu hodnoty půdy, dopadů na bankovní sektor a právní nejistoty. Diskutující se snažili najít odpověď na otázku, zda je předkupní právo skutečně efektivním nástrojem pro podporu aktivních zemědělců, nebo zda povede ke konzervaci současného stavu a posílení velkých kapitálových skupin.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Iniciátor semináře; varoval před zásahem do vlastnických práv, rizikem poklesu hodnoty půdy a informační výhodou finančně nejsilnějších skupin. `[1/00:00]`",
+      "**Mag. Kuneš (Liberální institut)** — Prezentoval ekonomické dopady; upozornil, že Česko má s 72 % podílem pachtované půdy jeden z nejvyšších podílů v EU. `[1/06:02]`",
+      "**Mgr. Marie Pastyříková (advokátní kancelář Chrenek Tomanko Trba)** — Právní pohled; konstatovala, že návrh pravděpodobně neprojde testem proporcionality. `[1/18:31]`",
+      "**Mgr. Eva Benešová (Živá půda)** — Praktické zkušenosti; zdůraznila, že předkupní právo je legitimní nástroj, ale v českém kontextu rizikový. `[1/32:26]`",
+      "**David Brož (Mladí agrárníci)** — Perspektiva mladých zemědělců; upozornil na extrémní návratnost investic do půdy (50–100 let). `[1/56:04]`",
+      "**Zástupce Ministerstva zemědělství** — Uvedl, že ministerstvo připravuje analýzu, cílem je zamezení spekulativním nákupům. `[1/38:04]`",
+      "**Jiří Černý (Agrární komora)** — Vyjádřil podporu regulaci trhu s půdou pro zamezení spekulací. `[1/46:04]`",
+      "**Jan Šebek (Asociace soukromého zemědělství)** — Rezolutně odmítl předkupní právo jako nesystémové. `[1/56:04]`",
+      "**Martin Pícha (Zemědělský svaz)** — Obhajoval potřebu regulace, navrhl „minimalistickou variantu“ – zákonnou informační povinnost. `[2/12:03]`",
+      "**Michal Kučera (TOP 09)** — Kritizoval politizaci tématu a vyzval k hledání konsenzu. `[2/32:02]`",
+      "**Karel Hás (ODS)** — Právní varování; zdůraznil rozpor s ústavní ochranou vlastnictví. `[2/36:06]`"
+    ],
+    "outcome": "Jednání skončilo bez formálního závěru, neboť vládní návrh zákona zatím nebyl předložen. Dominujícím postojem opozice a zástupců soukromých zemědělců je odmítnutí plošného předkupního práva. Zástupci velkých zemědělských svazů se přiklánějí k mírnější variantě (informační povinnost). Shoda panuje v tom, že současná situace na trhu s půdou je pro aktivní zemědělce ekonomicky neudržitelná, ale nástroje k jejímu řešení jsou předmětem ostrého politického a právního sporu.",
+    "notes": "Záznam obsahuje technické problémy s připojením prezentací (HDMI), což způsobilo krátké pauzy v úvodu projevů některých řečníků. Části přepisu jsou místy nesrozumitelné kvůli automatickému přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Mag. Kuneš",
+        "person_id": null,
+        "affiliation": "Liberální institut"
+      },
+      {
+        "name": "Marie Pastyříková",
+        "person_id": null,
+        "affiliation": "Chrenek Tomanko Trba"
+      },
+      {
+        "name": "Eva Benešová",
+        "person_id": "psp:person:629",
+        "affiliation": "Živá půda"
+      },
+      {
+        "name": "David Brož",
+        "person_id": null,
+        "affiliation": "Mladí agrárníci"
+      },
+      {
+        "name": "Jiří Černý",
+        "person_id": "psp:person:892",
+        "affiliation": "Agrární komora"
+      },
+      {
+        "name": "Jan Šebek",
+        "person_id": "psp:person:3635",
+        "affiliation": "Asociace soukromého zemědělství"
+      },
+      {
+        "name": "Martin Pícha",
+        "person_id": "psp:person:6822",
+        "affiliation": "Zemědělský svaz"
+      },
+      {
+        "name": "Michal Kučera",
+        "person_id": "psp:person:6216",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Karel Hás",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "TOP 09",
+      "ODS"
+    ],
+    "institutions": [
+      "Ministerstvo zemědělství",
+      "Agrární komora",
+      "Zemědělský svaz",
+      "Asociace soukromého zemědělství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika patří mezi země, kde podíl pronajaté půdy patří mezi největší, což je jeden z aspektů, který destabilizuje zemědělskou prvovýrobu.",
+      "type": "paraphrase",
+      "speaker": "Martin Pícha",
+      "affiliation": "Zemědělský svaz",
+      "timestamp": "2/16:03",
+      "context": "Data Eurostatu dlouhodobě potvrzují, že ČR má jeden z nejvyšších podílů pronajaté zemědělské půdy v EU (přes 80 %). Vliv tohoto faktoru na stabilitu prvovýroby je předmětem odborných debat; kritici poukazují na nejistotu nájemních vztahů, zastánci velkých podniků naopak na efektivitu plynoucí z velkého rozsahu hospodaření."
+    },
+    {
+      "text": "Předkupní právo v českých podmínkách povede k posílení koncentrace půdy v rukou silnějších ekonomických subjektů.",
+      "type": "paraphrase",
+      "speaker": "Karel Hás",
+      "affiliation": "ODS",
+      "timestamp": "2/36:06",
+      "context": "Toto tvrzení je politickým názorem na dopady legislativy. Ekonomické analýzy se rozcházejí: zatímco někteří experti varují před posílením kapitálově silných subjektů, jiní argumentují, že předkupní právo pro nájemce může naopak bránit spekulativním nákupům půdy nezemědělskými subjekty."
+    },
+    {
+      "text": "Nejklíčovější je zeptat se, jestli to zemědělci vůbec chtějí; naše asociace to rozhodně nechce.",
+      "type": "citation",
+      "speaker": "Jan Šebek",
+      "affiliation": "Asociace soukromého zemědělství",
+      "timestamp": "1/58:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2892_highlight_02.jpg",
+      "context": "Asociace soukromého zemědělství ČR (ASZ) dlouhodobě vystupuje proti plošnému předkupnímu právu pro nájemce, neboť jej vnímá jako omezení vlastnických práv drobných sedláků. Jde o legitimní vyjádření postoje zájmové organizace, nikoliv o univerzální konsenzus všech zemědělských subjektů v ČR."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zavedení zákonného předkupního práva na zemědělskou půdu.\n\n*   **Kdo:** Vláda ČR (programové prohlášení).\n*   **Proč je to kontroverzní:** Jde o zásah do ústavně chráněného vlastnického práva a dispoziční svobody vlastníků. Politicky citlivé je to kvůli obavám z posílení velkých zemědělských korporací na úkor drobných vlastníků a kvůli riziku znehodnocení majetku.\n*   **Čas:** 1/00:00",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "1/20:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2892_controversy_00.jpg",
+      "context": "Zavedení předkupního práva nájemce k zemědělské půdě je součástí programového prohlášení vlády Petra Fialy. Návrh vyvolává právní debaty o souladu s Listinou základních práv a svobod (čl. 11), přičemž střet zájmů mezi velkými zemědělskými podniky a drobnými vlastníky půdy zůstává hlavním bodem politického sporu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

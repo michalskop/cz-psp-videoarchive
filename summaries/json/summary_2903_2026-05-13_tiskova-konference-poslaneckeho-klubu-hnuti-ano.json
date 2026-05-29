@@ -10,6 +10,12 @@
     "end_date": "2026-05-13T08:39",
     "sources": [
       "final/event_2903_2026-05-13_tiskova-konference-poslaneckeho-klubu-hnuti-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5300_video-psp-2026513-822-5-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -70,7 +76,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/05:12",
-      "screenshot_path": "summaries/screenshots/event_2903_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2903_highlight_00.jpg",
       "context": "Toto tvrzení je subjektivním politickým názorem na rozpočtovou politiku. Možnost snížení deficitu závisí na konkrétních úsporných opatřeních (např. rušení daňových výjimek, omezení dotací) a makroekonomickém vývoji, což činí toto tvrzení neověřitelným faktem, ale legitimní politickou polemikou."
     },
     {
@@ -79,7 +85,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/08:55",
-      "screenshot_path": "summaries/screenshots/event_2903_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2903_highlight_01.jpg",
       "context": "Jde o politickou deklaraci, kterou nelze fakticky ověřit. Hodnocení „kamuflování“ je subjektivní interpretací účetních a rozpočtových postupů dané politické strany."
     },
     {
@@ -88,7 +94,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/04:38",
-      "screenshot_path": "summaries/screenshots/event_2903_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2903_highlight_02.jpg",
       "context": "Závazek držet deficit pod 3 % HDP vychází z pravidel Paktu stability a růstu EU. Aktuální data MF ČR a predikce ČNB ukazují, že dodržení tohoto limitu je závislé na konkrétních rozpočtových opatřeních a vývoji ekonomiky; v minulosti se cíle v oblasti deficitu často měnily v závislosti na vnějších šocích."
     }
   ],
@@ -98,7 +104,7 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/12:05",
-      "screenshot_path": "summaries/screenshots/event_2903_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2903_controversy_00.jpg",
       "context": "Výdajové rámce jsou definovány zákonem č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti. Návrhy na jejich úpravu či výjimky jsou předmětem legislativního procesu; Národní rozpočtová rada (NRR) pravidelně upozorňuje, že rozšiřování výjimek oslabuje transparentnost a závaznost fiskálních pravidel."
     }
   ],

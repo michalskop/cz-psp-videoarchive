@@ -1,0 +1,128 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T22:43:46",
+  "model_hint": "gemma-4-31b-it",
+  "event": {
+    "id": "2943",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-26T13:41",
+    "end_date": "2026-05-26T14:01",
+    "sources": [
+      "final/event_2943_2026-05-26_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5343_video-psp-2026526-1341-16-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "groq",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ANO proběhla 26. května 2026 za účelem informování veřejnosti o plánovaném průběhu nadcházejícího týdne v Poslanecké sněmovně. Hlavním cílem bylo prezentovat priority klubu v oblasti legislativy (stavební zákon, podpora bydlení, státní zaměstnanci) a vyjádřit nesouhlas s postupem opozice, která podle mluvčích klubu blokuje projednávání nového jednacího řádu Poslanecké sněmovny.",
+    "main_points": [
+      "**Tatiana Malá (předsedkyně klubu ANO)** — Senátní vratky: Sněmovna bude přehlasovávat vratky Senátu k zákonu o pojistném na sociálním zabezpečení a k zákonu o zdravotnických diagnostických prostředcích. `[00:15]`\n- **Jednací řád:** V druhém čtení bude projednáván jednací řád. Klub ANO i koalice ustoupili opozici v otázkách přednostního práva předsedy sněmovny a omezování faktických poznámek, ale opozice (kromě ODS) projednávání blokuje a podmiňuje jej diskusí o zákonech o ČT a ČRo.\n- **Další legislativa:** Třetí čtení zákonů o doplňkovém penzijním spoření a volbě Rady ČT.\n- **Stavební zákon:** Cílem je zrychlit povolovací procesy (srovnání s Polskem). Konkrétní úpravy zahrnují vypuštění náhrady za zvýšení hodnoty území (§ 136a), upřesnění definice jiného přístupu k pozemku (§ 140 odst. 2) a zpřesnění vymezení veřejného zájmu u vyvlastňování (§ 11). `[06:00]`\n- **Podpora bydlení:** Novela zavádí přenos kompetencí na Úřady práce ČR a rozšíření kontaktních míst na všech 205 obcí s rozšířenou působností. Limit pro osoby ve specifických situacích bude 3x životního minima, pro oběti domácího násilí bez limitu. Obecný příjmový limit bude 2x životního minima. `[10:19]`",
+      "**Radek Ondráček (předseda zahraničního výboru)** — Označil novelu jednacího řádu za „zákon desetiletí“ a kritizoval opozici za bojkot vlastních podepsaných návrhů. Podpořil opoziční návrh u zákona o státních zaměstnancích, aby pověření státního tajemníka funkcí ředitele úřadu bylo možností, nikoliv povinností. `[12:00]`",
+      "**Patrik Nacher (poslanec ANO)** — Kritizoval obstrukování jednacího řádu. K financování ČT a ČRo vysvětlil, že jeho návrh předpokládá proaktivní odhlášení seniorů nad 75 let, což má zajistit organický a postupný výpadek příjmů místo skokového. `[14:04]`"
+    ],
+    "outcome": "Jednání (tisková konference) sloužilo k deklaraci postojů klubu ANO. Klub je připraven prosazovat efektivnější stavební zákon a podpoře bydlení, přičemž vykazuje ochotu přijímat i opoziční pozměňovací návrhy, pokud jsou věcné. Dominujícím postoje je frustrace z politického boje kolem jednacího řádu a mediálních zákonů, který klub ANO vnímá jako neseriózní obstrukování legislativního procesu.",
+    "notes": "Přepis obsahuje několik automatických chyb v jménech (např. „Tate Aně Malé“ místo Tatiana Malá) a překlepy v termínech („povalování“ místo povolovacích), které byly v shrnutí opraveny na základě kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tatiana Malá",
+        "person_id": null,
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Radek Ondráček",
+        "person_id": "psp:person:6165",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Česká televize",
+      "Český rozhlas",
+      "Úřady práce ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česko má dlouhodobě jeden z nejpomalejších povolovacích procesů, který nás neřadí mezi vyspělé země, ale spíše mezi ty rozvojové.",
+      "type": "paraphrase",
+      "speaker": "Tatiana Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/06:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2943_highlight_00.jpg",
+      "context": "Tvrzení o pomalosti povolovacích procesů je častým předmětem diskusí (např. v rámci zpráv OECD), ale označení ČR za „rozvojovou zemi“ je rétorickou nadsázkou; ČR je mezinárodně klasifikována jako vyspělá ekonomika."
+    },
+    {
+      "text": "Označil jednací řád a jeho novelu za zákon desetiletí.",
+      "type": "paraphrase",
+      "speaker": "Radek Ondráček",
+      "affiliation": "ANO",
+      "timestamp": "1/12:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2943_highlight_01.jpg",
+      "context": "Jde o subjektivní hodnotové zhodnocení mluvčího, nikoliv o ověřitelný fakt."
+    },
+    {
+      "text": "Nově nastavuje limit na trojnásobek životního minima pro osoby ve specifických situacích, jako jsou osoby se zdravotním postižením nebo osoby v rozvodovém řízení.",
+      "type": "citation",
+      "speaker": "Tatiana Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/11:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2943_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit bez uvedení konkrétního čísla zákonu nebo vládního tisku, kterého se mluvčí v daný moment referuje."
+    },
+    {
+      "text": "Koncept je takový, že poplatníkem není člověk nad 75 let, ale aby opravdu přestal platit, musí se proaktivně přihlásit k odhlášení.",
+      "type": "citation",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/18:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2943_highlight_03.jpg",
+      "context": "Jde o popis navrhovaného konceptu (návrhu), nikoliv o popis platného právního stavu. Aktuální financování ČT a ČRo je regulováno zákony o těchto institucích."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma: Blokování jednacího řádu**\n  - **Kdo:** Tatiana Malá, Radek Ondráček, Patrik Nacher (ANO)\n  - **Co přesně:** Opozice (s výjimkou ODS) údajně blokuje projednávání nového jednacího řádu a podmiňuje jeho schválení diskusí o zákonech o ČT a ČRo.\n  - **Proč je to kontroverzní:** Jde o střet dvou zásadních oblastí (administrativa sněmovny vs. mediální legislativa), který vede k paralýze efektivního fungování sněmovny.\n  - **Čas:** `1/02:05`, `1/12:00`, `1/14:04`",
+      "speaker": "Tatiana Malá, Radek Ondráček, Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2943_controversy_00.jpg",
+      "context": "Jde o politické tvrzení o strategii opozičních stran v rámci parlamentních vyjednávání, které nelze objektivně ověřit faktografickými daty."
+    },
+    {
+      "statement": "**Kontroverzní téma: Financování veřejnoprávních médií**\n  - **Kdo:** Patrik Nacher (ANO)\n  - **Co přesně:** Návrh na změnu systému poplatků, kde senioři nad 75 let musí proaktivně žádat o odhlášení z placení, aby přestali platit.\n  - **Proč je to kontroverzní:** Opozice (např. Vít Rakušan) to označuje za hrozbu insolvence ČT a ČRo a „brutální zásek“ do financování.\n  - **Čas:** `1/16:02`",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/16:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2943_controversy_01.jpg",
+      "context": "Návrh představuje změnu stávajícího systému; tvrzení o hrozbě insolvence médií jsou předmětem politické polemiky a ekonomických prognóz, nikoliv doloženým faktem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

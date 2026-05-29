@@ -10,6 +10,77 @@
     "end_date": "2026-04-07T15:40",
     "sources": [
       "final/event_2802_2026-04-07_regulace-socialnich-siti-a-mobilnich-telefonu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407130000.mp4",
+        "from_sec": 180
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407131000.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407132000.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407133000.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407134000.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407135000.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407140000.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407141000.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407142000.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407143000.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407144000.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407145000.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407150000.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407151000.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407152000.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407153000.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/07/_20260407154000.mp4"
+      }
     ]
   },
   "transcription": {
@@ -84,7 +155,7 @@
       "speaker": "David Adam",
       "affiliation": "3. LF UK / Amygdala",
       "timestamp": "3/08:01",
-      "screenshot_path": "summaries/screenshots/event_2802_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2802_highlight_00.jpg",
       "context": "Neurovědecké studie (např. publikované v Journal of Cognitive Neuroscience) potvrzují, že sociální interakce a lajky aktivují dopaminergní systém odměny v mozku, podobně jako jiné podněty vyvolávající potěšení. Přímé srovnání s farmakologickým účinkem kokainu je však vědecky nepřesné, neboť mechanismus a intenzita uvolňování dopaminu se zásadně liší."
     },
     {
@@ -93,7 +164,7 @@
       "speaker": "Josef Holý",
       "affiliation": null,
       "timestamp": "5/06:00",
-      "screenshot_path": "summaries/screenshots/event_2802_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2802_highlight_01.jpg",
       "context": "Nelze nezávisle ověřit. Společnost ByteDance (provozovatel TikToku) nezveřejňuje interní data o přesném počtu videí potřebných ke vzniku návykového chování; toto tvrzení pravděpodobně vychází z neoficiálních úniků nebo interpretací algoritmických studií."
     },
     {
@@ -102,7 +173,7 @@
       "speaker": "Petr Lupač",
       "affiliation": "FF UK",
       "timestamp": "7/02:04",
-      "screenshot_path": "summaries/screenshots/event_2802_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2802_highlight_02.jpg",
       "context": "Tvrzení vychází z principu tzv. vytěsňovací hypotézy (displacement hypothesis), která je v sociologii a psychologii médií běžně uznávaným konceptem. Je fakticky nezpochybnitelné, že čas strávený u digitálních zařízení je časem odebraným jiným aktivitám, jako je spánek, pohyb nebo přímá sociální interakce."
     }
   ],
@@ -112,7 +183,7 @@
       "speaker": "Josef Holý",
       "affiliation": null,
       "timestamp": "12/05:01",
-      "screenshot_path": "summaries/screenshots/event_2802_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2802_controversy_00.jpg",
       "context": "Jde o subjektivní politické hodnocení a rétorickou nadsázku. Vztahy mezi technologickými giganty ze Silicon Valley a Donaldem Trumpem jsou proměnlivé a komplexní; zatímco někteří lídři firem s ním vyjednávají o clech, jiní čelí jeho kritice za údajnou cenzuru konzervativních názorů."
     }
   ],

@@ -10,6 +10,12 @@
     "end_date": "2026-05-05T12:59",
     "sources": [
       "final/event_2872_2026-05-05_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5265_video-psp-202655-1241-44-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -73,7 +79,7 @@
       "speaker": "Olga Richterová",
       "affiliation": "Piráti",
       "timestamp": "1/02:51",
-      "screenshot_path": "summaries/screenshots/event_2872_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2872_highlight_00.jpg",
       "context": "Výdaje na důchody vzrostly z cca 350 mld. Kč (2010) na cca 700 mld. Kč (2024), což odpovídá zdvojnásobení. Rodičovský příspěvek byl v roce 2010 celkem 217 000 Kč, od ledna 2024 činí 350 000 Kč, což je nárůst o cca 61 %, nikoliv stagnace."
     },
     {
@@ -82,7 +88,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/04:35",
-      "screenshot_path": "summaries/screenshots/event_2872_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2872_highlight_01.jpg",
       "context": "Tvrzení se týká kauzy ministryně pro místní rozvoj (dříve starostky Bíliny). Výše nájemného a velikost bytu jsou předmětem veřejné debaty, nicméně konkrétní nájemní smlouvy a jejich výhodnost jsou věcí místní samosprávy a nájemních vztahů, které podléhají zákonu o obcích."
     },
     {
@@ -91,7 +97,7 @@
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
       "timestamp": "1/08:27",
-      "screenshot_path": "summaries/screenshots/event_2872_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2872_highlight_02.jpg",
       "context": "Nelze nezávisle ověřit. Výrok je vágní a neodkazuje na konkrétní legislativní změnu, která by umožňovala „skryté“ půjčování státu nad rámec schváleného státního rozpočtu a pravidel dluhové brzdy."
     },
     {
@@ -100,7 +106,7 @@
       "speaker": "Samuel Volpe",
       "affiliation": "Piráti",
       "timestamp": "1/10:09",
-      "screenshot_path": "summaries/screenshots/event_2872_highlight_03.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2872_highlight_03.jpg",
       "context": "Pravomoci NKÚ jsou vymezeny ústavním zákonem č. 166/1993 Sb. NKÚ kontroluje hospodaření se státním majetkem a prostředky vybranými na základě zákona. Rozšíření pravomocí na všechny subjekty s vlivem státu je předmětem dlouhodobých politických diskusí."
     }
   ],
@@ -110,7 +116,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/06:00",
-      "screenshot_path": "summaries/screenshots/event_2872_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2872_controversy_00.jpg",
       "context": "Jedná se o politický návrh (legislativní záměr). Povinnost zveřejňovat informace o užívání obecních bytů politiky by vyžadovala změnu zákona o střetu zájmů nebo zákona o obcích; v současnosti taková plošná povinnost neexistuje."
     },
     {
@@ -118,7 +124,7 @@
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/14:03",
-      "screenshot_path": "summaries/screenshots/event_2872_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2872_controversy_01.jpg",
       "context": "Vztahy mezi SPD a AfD jsou politicky doložitelné (obě strany spolupracují v rámci frakce v Evropském parlamentu). Tvrzení o zájmu AfD na přehodnocení Benešových dekretů je interpretací politických postojů některých představitelů AfD, nikoliv oficiálním programovým bodem, který by byl právně závazný."
     }
   ],

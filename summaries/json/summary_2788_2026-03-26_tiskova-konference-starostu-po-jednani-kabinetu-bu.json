@@ -10,6 +10,12 @@
     "end_date": "2026-03-26T11:49",
     "sources": [
       "final/event_2788_2026-03-26_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5158_video-psp-2026326-117-23-Atrium.mp4.mp4"
+      }
     ]
   },
   "transcription": {
@@ -78,7 +84,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/04:39",
-      "screenshot_path": "summaries/screenshots/event_2788_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2788_highlight_00.jpg",
       "context": "Zákon č. 214/2023 Sb. ukotvil povinnost vydávat na obranu minimálně 2 % HDP ročně. Podle údajů Ministerstva obrany ČR a NATO byla tato hranice v roce 2024 splněna, tvrzení je tedy v rozporu s aktuálními rozpočtovými daty."
     },
     {
@@ -87,7 +93,7 @@
       "speaker": "Petr Kulhánek",
       "affiliation": "STAN",
       "timestamp": "1/08:00",
-      "screenshot_path": "summaries/screenshots/event_2788_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2788_highlight_01.jpg",
       "context": "Jedná se o politický odhad a interpretaci organizačních změn. Dopad na fungování Agentury pro sociální začleňování nelze objektivně ověřit, dokud nebudou známy konkrétní parametry sloučení agend a vnitřní struktura nového celku."
     },
     {
@@ -96,7 +102,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/23:12",
-      "screenshot_path": "summaries/screenshots/event_2788_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2788_highlight_02.jpg",
       "context": "Data o proočkovanosti v ČR pravidelně publikuje Státní zdravotní ústav (SZÚ). Ačkoliv v některých lokalitách či u specifických vakcín může být proočkovanost nízká, celostátní průměry u povinného očkování se obvykle pohybují nad 90 %; tvrzení o 30 % v celých regionech je nutné ověřit u konkrétních dat SZÚ."
     }
   ],
@@ -106,7 +112,7 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/22:03",
-      "screenshot_path": "summaries/screenshots/event_2788_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2788_controversy_00.jpg",
       "context": "Rozhodnutí o krácení rozpočtu na propagaci očkování v minulých obdobích je doložitelný fakt z rozpočtových kapitol Ministerstva zdravotnictví. Interpretace, že jde o ústupek hnutím či přímé ohrožení zdraví, je politickým hodnocením a věcí názoru."
     },
     {
@@ -114,7 +120,7 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/30:02",
-      "screenshot_path": "summaries/screenshots/event_2788_controversy_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2788_controversy_01.jpg",
       "context": "Srovnání politického vývoje v ČR a na Slovensku je subjektivní politickou rétorikou. Nelze nezávisle ověřit, zda jsou procesy v obou zemích „úplně totéž“, neboť politické systémy, vládní koalice i legislativní kroky se v obou státech zásadně liší."
     }
   ],

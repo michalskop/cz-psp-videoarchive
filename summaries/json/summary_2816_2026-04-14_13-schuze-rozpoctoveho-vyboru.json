@@ -10,6 +10,49 @@
     "end_date": "2026-04-14T11:41",
     "sources": [
       "final/event_2816_2026-04-14_13-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414101004.mp4",
+        "from_sec": 11
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414102004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414103004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414104004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414105004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414110004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414111004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414112004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414113004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video/A106/2026/04/14/_20260414114004.mp4"
+      }
     ]
   },
   "transcription": {
@@ -75,7 +118,7 @@
       "speaker": "Jiří Fojtík",
       "affiliation": "Ministerstvo financí",
       "timestamp": "1/02:02",
-      "screenshot_path": "summaries/screenshots/event_2816_highlight_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2816_highlight_00.jpg",
       "context": "Stávající právní rámec pro cenovou regulaci upravuje zákon č. 526/1990 Sb., o cenách. Možnost vlády regulovat ceny přímo nařízením by představovala zásadní změnu legislativního procesu, neboť standardně jsou cenové regulace vydávány jako opatření obecné povahy ministerstvy."
     },
     {
@@ -84,7 +127,7 @@
       "speaker": "Jiří Fojtík",
       "affiliation": "Ministerstvo financí",
       "timestamp": "1/05:44",
-      "screenshot_path": "summaries/screenshots/event_2816_highlight_01.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2816_highlight_01.jpg",
       "context": "Tvrzení o hrozbě nákladového šoku je ekonomickým odhadem, nikoliv ověřitelným faktem. Dopady cenových regulací na ekonomiku jsou předmětem odborných diskusí a závisí na konkrétním nastavení parametrů trhu."
     },
     {
@@ -93,7 +136,7 @@
       "speaker": "Jana Kovářová",
       "affiliation": "Opozice",
       "timestamp": "3/01:16",
-      "screenshot_path": "summaries/screenshots/event_2816_highlight_02.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2816_highlight_02.jpg",
       "context": "Zákon o cenách (č. 526/1990 Sb.) je komplexní norma, nikoliv zákon o dvou paragrafech. Tvrzení o absenci ekonomické analýzy dopadů (RIA) je politickým hodnocením legislativního procesu, který se v režimu legislativní nouze skutečně často zkracuje."
     }
   ],
@@ -103,7 +146,7 @@
       "speaker": "Jan Jakob",
       "affiliation": "TOP 09",
       "timestamp": "5/06:07",
-      "screenshot_path": "summaries/screenshots/event_2816_controversy_00.jpg",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2816_controversy_00.jpg",
       "context": "Nařízení vlády je skutečně právním předpisem, který nelze napadnout žalobou ve správním soudnictví (na rozdíl od opatření obecné povahy). Jedinou cestou k přezkumu nařízení vlády je návrh na zrušení právního předpisu podaný Ústavnímu soudu, což je pro jednotlivé podnikatele procesně náročnější."
     }
   ],
