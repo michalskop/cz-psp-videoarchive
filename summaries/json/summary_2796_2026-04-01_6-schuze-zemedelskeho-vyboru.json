@@ -1,0 +1,135 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:22:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2796",
+    "name": "6. schůze Zemědělského výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-01",
+    "sources": [
+      "final/event_2796_2026-04-01_6-schuze-zemedelskeho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 8,
+    "parts_total": 8,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Hlavním účelem 6. schůze Zemědělského výboru bylo projednání vládního návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči (sněmovní tisk 48), a dále diskuse o aktuálním stavu projednávání novely stavebního zákona z pohledu resortu zemědělství, lesního a vodního hospodářství.\n\nCílem jednání bylo vypořádat pozměňovací návrhy k rostlinolékařskému zákonu a získat informace o stavu vyjednávání komplexního pozměňovacího návrhu ke stavebnímu zákonu, aby byly zajištěny zájmy zemědělců a ochrana přírodních zdrojů.",
+    "main_points": [
+      "**Martin Šebestian (Ministr zemědělství)** — Prezentoval stav vyjednávání ke stavebnímu zákonu. Uvedl, že nedojde k integraci úředníků státní správy lesů a vodoprávních úřadů, ti budou vydávat vyjádření místo závazných stanovisek. Potvrdil přesun staveb pro zemědělství do 60 m² do přílohy č. 1 (bez povolení) a zvýšení limitu pro posuzování vlivů na životní prostředí (EIA) u chovů z 50 na 75 velkých dobytčích jednotek.",
+      "**David Pražák (Poslanec, zpravodaj)** — Představil 10 pozměňovacích návrhů k tisku 48 (rostlinolékařská péče), které zahrnovaly např. používání dronů, úpravu evidence přípravků na ochranu rostlin či změny v rybářském a veterinárním zákoně.",
+      "**Hana Landová (Vládní zmocněnkyně)** — Potvrdila konstruktivní jednání mezi resorty a zdůraznila, že se podařilo odstranit duplicitní procesy, což výrazně zrychlí stavební řízení.",
+      "**Petr Bendl (Poslanec)** — Kritizoval způsob projednávání stavebního zákona bez včasného zapojení zemědělského resortu. Navrhl, aby se ohrady pro hospodářská zvířata (nespojené pevně se zemí) definitivně definovaly jako stavby, které nevyžadují stavební povolení.",
+      "**Josef Kot (Poslanec, zpravodaj)** — Upozornil na nutnost hlídat zájmy zemědělství v rámci rekodifikace stavebního práva a vyjádřil obavy z některých „přílepků“.",
+      "**Jan Kučera (Poslanec)** — Podpořil zachování novely zákona č. 114/1992 Sb. (o ochraně přírody) v rámci stavebního zákona kvůli posunu v druhové ochraně, ačkoliv někteří kolegové varovali před její citlivostí.",
+      "**Arnošt Buček (Sdružení vlastníků lesů)** — Apeloval na opatrnost při projednávání novely zákona č. 114/1992 Sb., neboť její dopady na vlastníky lesů nejsou dostatečně definovány v prováděcích vyhláškách.",
+      "**Petr Kubala (Svaz vodního hospodářství)** — Poděkoval za zachování kompetencí vodoprávních úřadů, což považuje za koncepční krok."
+    ],
+    "outcome": "Sněmovní tisk 48: Všechny pozměňovací návrhy (A1a–A7) byly schváleny. Výbor přijal usnesení, kterým doporučuje Poslanecké sněmovně návrh zákona schválit ve znění přijatých změn.\n\nStavební zákon: Výbor vzal na vědomí informace o stavu projednávání. Požádal Ministerstvo pro místní rozvoj o předložení komplexního pozměňovacího návrhu v části vodního a lesního zákona a předsedkyně byla pověřena svoláním mimořádného jednání k tomuto návrhu, jakmile bude k dispozici.\n\nOrganizační: Byly odsouhlaseny termíny budoucích výjezdů a seminářů (např. výjezd do Horažďovic 29. dubna 2026).",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky slov, které však nebránily pochopení obsahu. Části týkající se technických detailů (např. přesné znění paragrafů) byly v přepisu místy neúplné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Šebestian",
+        "person_id": "psp:person:7072",
+        "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "David Pražák",
+        "person_id": "psp:person:6527",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Hana Landová",
+        "person_id": "psp:person:88",
+        "affiliation": "Vládní zmocněnkyně"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Josef Kot",
+        "person_id": "psp:person:2225",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jan Kučera",
+        "person_id": "psp:person:2388",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Arnošt Buček",
+        "person_id": null,
+        "affiliation": "Sdružení vlastníků lesů"
+      },
+      {
+        "name": "Petr Kubala",
+        "person_id": "psp:person:5530",
+        "affiliation": "Svaz vodního hospodářství"
+      }
+    ],
+    "parties": [
+      "Koalice",
+      "Opozice"
+    ],
+    "institutions": [
+      "Zemědělský výbor",
+      "Ministerstvo zemědělství",
+      "Ministerstvo pro místní rozvoj",
+      "Sdružení vlastníků lesů",
+      "Svaz vodního hospodářství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Dnes zaslaná verze komplexního pozměňovacího návrhu v části týkající se lesního a vodního zákona v zásadě odpovídá tomu, co jsme si na jednáních vydiskutovali.",
+      "type": "paraphrase",
+      "speaker": "Martin Šebestian",
+      "affiliation": "Ministerstvo zemědělství",
+      "timestamp": "4/00:47",
+      "screenshot_path": "summaries/screenshots/event_2796_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní hodnocení shody mezi politickým vyjednáváním a finálním textem návrhu, které závisí na interní komunikaci mezi ministerstvem a dalšími aktéry."
+    },
+    {
+      "text": "Podařilo se výjmout tu situaci s tou státní správou, což byl pro nás rozsáhlý bod, kde jsme chtěli řešit, že to považujeme za vykostění státní správy lesů.",
+      "type": "citation",
+      "speaker": "Arnošt Buček",
+      "affiliation": "Sdružení vlastníků lesů",
+      "timestamp": "6/04:15",
+      "screenshot_path": "summaries/screenshots/event_2796_highlight_01.jpg",
+      "context": "Tvrzení se týká legislativního procesu a kompetencí orgánů státní správy lesů (dle zákona č. 289/1995 Sb.). Zda došlo k „vykostění“ (oslabení pravomocí) státní správy, je politická interpretace, nikoliv právní fakt."
+    },
+    {
+      "text": "My jsme byli schopni identifikovat některé duplicitní procesy, o kterých jsme se dohodli, že zpřesníme text zákona tak, aby nebyly vůbec.",
+      "type": "citation",
+      "speaker": "Hana Landová",
+      "affiliation": "Vládní zmocněnkyně",
+      "timestamp": "6/01:43",
+      "screenshot_path": "summaries/screenshots/event_2796_highlight_02.jpg",
+      "context": "Odstranění duplicit v legislativě je standardním cílem legislativního procesu. Zda jsou konkrétní procesy skutečně duplicitní, závisí na právním výkladu souvisejících předpisů, např. správního řádu či lesního zákona."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh novely zákona č. 114/1992 Sb. (ochrana přírody) v rámci stavebního zákona. David Pražák (poslanec) označil novelu za „průšvih“ a „přílepek“, který může způsobit trestní odpovědnost, zatímco Jan Kučera (poslanec) ji obhajoval jako nezbytnou pro modernizaci druhové ochrany. Politicky citlivé téma střetu mezi zrychlením výstavby a ochranou přírody.",
+      "speaker": "David Pražák, Jan Kučera",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "7/02:15",
+      "screenshot_path": "summaries/screenshots/event_2796_controversy_00.jpg",
+      "context": "Označení za „přílepek“ odkazuje na judikaturu Ústavního soudu (např. nález Pl. ÚS 77/06), který kritizuje vkládání nesouvisejících změn do zákonů. Otázka, zda novela zákona č. 114/1992 Sb. v rámci stavebního zákona naplňuje znaky protiústavního přílepku, je předmětem právního sporu a závisí na posouzení věcné souvislosti mezi předpisy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

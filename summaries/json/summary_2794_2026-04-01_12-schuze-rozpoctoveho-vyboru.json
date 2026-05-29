@@ -1,0 +1,92 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:23:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2794",
+    "name": "12. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-04-01T09:05",
+    "end_date": "2026-04-01T12:03",
+    "sources": [
+      "final/event_2794_2026-04-01_12-schuze-rozpoctoveho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 19,
+    "parts_total": 19,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání Rozpočtového výboru bylo zaměřeno na projednání vládních návrhů zákonů v oblasti finančního trhu a veřejných rozpočtů, včetně transpozice evropských směrnic. Cílem bylo připravit podklady pro druhé čtení v Poslanecké sněmovně, projednat pozměňovací návrhy a schválit usnesení k jednotlivým tiskům.",
+    "main_points": [
+      "**Patrik Nacher (ANO)**: Předkladatel návrhu zákona o doplňkovém penzijním spoření (tisk 119). Argumentoval nutností kompenzovat účastníky, kteří byli poškozeni změnou pravidel v minulém období.",
+      "**Karel Tyl (Ministerstvo financí)**: Prezentoval vládní návrh zákona o veřejných rozpočtech (tisk 90). Vysvětloval transpozici EU směrnic a zjednodušení rozpočtových pravidel.",
+      "**Mojmír Hampl (Národní rozpočtová rada)**: Kritizoval zrušení rezervy důchodového pojištění a příliš široké kompetence vlády při navyšování výdajů v krizových situacích.",
+      "**Jan Munzar (ODS)**: Kritizoval rozmělnění rozpočtové odpovědnosti a oslabení kontrolní funkce výboru."
+    ],
+    "outcome": "Výbor doporučil ke schválení tisky 13, 90 a 119. Všechny opoziční pozměňovací návrhy k tisku 90 a 119 byly zamítnuty.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky v textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Karel Tyl",
+        "person_id": "psp:person:7091",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Mojmír Hampl",
+        "person_id": "psp:person:5540",
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Jan Munzar",
+        "person_id": null,
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Rozpočtový výbor",
+      "Ministerstvo financí",
+      "Národní rozpočtová rada",
+      "NKÚ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Návrh dává vládě neuvěřitelně velkou diskreci použít ustanovení o navyšování výdajů i v okamžicích, které nemusí být vázány na bezpečnostní situaci.",
+      "type": "citation",
+      "speaker": "Mojmír Hampl",
+      "affiliation": "Národní rozpočtová rada",
+      "timestamp": "5/04:01",
+      "screenshot_path": "summaries/screenshots/event_2794_highlight_00.jpg",
+      "context": "Národní rozpočtová rada (NRR) dlouhodobě upozorňuje na rizika spojená s nejasným vymezením výjimek v rozpočtových pravidlech. Tvrzení o vysoké diskreci vlády vychází z analýzy legislativních návrhů, které umožňují navýšení výdajů bez přímého schválení Parlamentem v případech, které nejsou striktně definovány jako stav ohrožení státu či válečný stav."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na 'bianco šek' pro vládu (navýšení výdajů o 10 % v krizových situacích). Kritizováno jako vágní definice 'zhoršené bezpečnostní situace', která umožňuje vládě obejít kontrolu Sněmovny.",
+      "speaker": "Mojmír Hampl",
+      "affiliation": "Národní rozpočtová rada",
+      "timestamp": "5/04:01",
+      "screenshot_path": "summaries/screenshots/event_2794_controversy_00.jpg",
+      "context": "Pojem 'zhoršená bezpečnostní situace' není v českém právním řádu (např. v zákoně č. 218/2000 Sb., o rozpočtových pravidlech) definován dostatečně úzce, což potvrzuje i NRR. Kritika směřuje k tomu, že vágní definice umožňuje vládě využít rozpočtovou rezervu či navýšení výdajů bez standardního legislativního procesu, čímž se oslabuje kontrolní role Poslanecké sněmovny."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}

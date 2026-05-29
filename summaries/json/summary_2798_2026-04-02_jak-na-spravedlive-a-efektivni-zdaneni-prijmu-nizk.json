@@ -1,0 +1,129 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:21:21",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2798",
+    "name": "Kulatý stůl na téma \"Jak na spravedlivé a efektivní zdanění příjmů nízkopříjmových poplatníků?\"",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-04-02T10:31",
+    "end_date": "2026-04-02T12:05",
+    "sources": [
+      "final/event_2798_2026-04-02_jak-na-spravedlive-a-efektivni-zdaneni-prijmu-nizk.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 10,
+    "parts_total": 10,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Kulatý stůl s názvem „Jak na spravedlivé a efektivní zdanění příjmů nízkopříjmových poplatníků?“ se konal 2. dubna 2026 v Poslanecké sněmovně. Cílem akce bylo prodiskutovat současné nastavení zdanění práce v ČR, identifikovat jeho nedostatky z hlediska spravedlnosti a efektivity a představit konkrétní legislativní návrhy na zlepšení situace nízkopříjmových zaměstnanců.\n\nJednání se zaměřilo na problematiku vysokého zdanění nízkopříjmových skupin, motivaci k legální práci, dopady na rodinné rozpočty a otázku automatické valorizace daňových slev. Diskuse se dotkla i technických aspektů legislativních návrhů a jejich ústavní a evropské konformity.",
+    "main_points": [
+      "**Jan Papajanovský (STAN)** — Představil návrh (ST 120) zaměřený na zavedení daňového bonusu pro nízkopříjmové zaměstnance, navázaný na zaplacené sociální a zdravotní pojištění.",
+      "**Vendula Svobodová (Piráti)** — Představila „rodinný balíček“ (ST 4) zahrnující zvýšení slevy na poplatníka, zvýšení slevy na první dítě a pravidelnou valorizaci.",
+      "**Petr Vilím (PAQ Research)** — Upozornil na vysoké zdanění nízkopříjmových v ČR a navrhl financování změn skrze omezení optimalizací u dohod a narovnání zdanění OSVČ.",
+      "**Michal Šoltés (CERGE-AI / PF UK)** — Podpořil automatickou valorizaci daňových parametrů jako nástroj pro snížení politické nejistoty.",
+      "**Ondřej Málek (PF UK)** — Analyzoval návrhy z pohledu ústavního práva a upozornil na rizika diskriminace při rozlišování mezi zaměstnanci a OSVČ."
+    ],
+    "outcome": "Formální hlasování neproběhlo, neboť šlo o odborný kulatý stůl. Dominujícím postojem byla shoda na tom, že současný systém zdanění nízkopříjmových zaměstnanců je neefektivní a nespravedlivý. Účastníci se shodli na potřebě další odborné diskuse, zejména o rozdílech ve zdanění mezi zaměstnanci a OSVČ.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Petr Vilím",
+        "person_id": null,
+        "affiliation": "PAQ Research"
+      },
+      {
+        "name": "Michal Šoltés",
+        "person_id": "psp:person:3892",
+        "affiliation": "CERGE-AI / PF UK"
+      },
+      {
+        "name": "Ondřej Málek",
+        "person_id": null,
+        "affiliation": "PF UK"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "PAQ Research",
+      "CERGE-AI",
+      "Univerzita Karlova"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zdanění zaměstnanců s nižšími a vyššími příjmy je v Česku do velké míry rovné, míra progrese je nižší než v zahraničí.",
+      "type": "paraphrase",
+      "speaker": "Petr Vilím",
+      "affiliation": "PAQ Research",
+      "timestamp": "2/08:30",
+      "screenshot_path": "summaries/screenshots/event_2798_highlight_00.jpg",
+      "context": "Český daňový systém je skutečně charakteristický nízkou mírou progrese u zdanění práce, zejména po zrušení superhrubé mzdy v roce 2021. Podle dat OECD patří Česko mezi země s nižší mírou daňové progrese ve srovnání s průměrem vyspělých ekonomik."
+    },
+    {
+      "text": "Automatická valorizace snižuje míru nejistoty pro investice a rozhodování, což je něco, co v ekonomice systematicky chceme.",
+      "type": "citation",
+      "speaker": "Michal Šoltés",
+      "affiliation": "CERGE-AI / PF UK",
+      "timestamp": "4/06:08",
+      "screenshot_path": "summaries/screenshots/event_2798_highlight_01.jpg",
+      "context": "Ekonomická teorie obecně potvrzuje, že předvídatelnost fiskálních parametrů (např. valorizační mechanismy u důchodů či platů) snižuje transakční náklady a nejistotu subjektů. Empirické dopady na investiční rozhodování se však liší podle konkrétního typu valorizované položky a stavu veřejných financí."
+    },
+    {
+      "text": "Vláda k našemu návrhu dala negativní stanovisko, takže bude v prvním čtení zaparkován až do konce funkčního období.",
+      "type": "citation",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "9/01:02",
+      "screenshot_path": "summaries/screenshots/event_2798_highlight_02.jpg",
+      "context": "Pokud vláda zaujme k návrhu zákona negativní stanovisko, neznamená to automaticky konec legislativního procesu, ale výrazně se snižuje pravděpodobnost jeho projednání. „Zaparkování“ v prvním čtení je běžnou parlamentní praxí, kdy vládní většina blokuje projednávání opozičních návrhů tím, že je nezařadí na pořad schůze."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Zdanění tichého vína**\n- **Kdo:** Vendula Svobodová (Piráti)\n- **Co:** Návrh na zavedení spotřební daně na tiché víno.\n- **Proč:** Politicky citlivé téma s dlouhodobým odporem vinařské lobby.\n- **Čas:** 2/04:01",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "2/05:49",
+      "screenshot_path": "summaries/screenshots/event_2798_controversy_00.jpg",
+      "context": "Tiché víno je v ČR v současnosti osvobozeno od spotřební daně (nulová sazba dle zákona č. 353/2003 Sb., o spotřebních daních). Návrhy na zavedení této daně jsou dlouhodobě předmětem politických debat, přičemž hlavními argumenty proti jsou podpora vinařského sektoru a administrativní náročnost."
+    },
+    {
+      "statement": "**Narovnání zdanění OSVČ a zaměstnanců**\n- **Kdo:** Petr Vilím (PAQ Research)\n- **Co:** Návrh na omezení paušálních výdajů a narovnání zdanění OSVČ.\n- **Proč:** Vysoce citlivé téma narážející na odpor podnikatelů a ústavní limity.\n- **Čas:** 4/04:00",
+      "speaker": "Petr Vilím",
+      "affiliation": "PAQ Research",
+      "timestamp": "4/04:00",
+      "screenshot_path": "summaries/screenshots/event_2798_controversy_01.jpg",
+      "context": "Rozdíly v efektivním zdanění zaměstnanců a OSVČ jsou dány především výdajovými paušály a odlišným odvodovým zatížením (sociální a zdravotní pojištění). Úprava těchto parametrů je politicky citlivá a naráží na odpor podnikatelských svazů, přičemž jakékoli změny musí respektovat ústavní principy rovnosti a zákazu diskriminace."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
