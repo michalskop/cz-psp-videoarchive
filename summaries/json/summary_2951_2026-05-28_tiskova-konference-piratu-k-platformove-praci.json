@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:23:07",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2951",
+    "name": "Tisková konference Pirátů k platformové práci",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-28T08:45",
+    "end_date": "2026-05-28T09:01",
+    "sources": [
+      "final/event_2951_2026-05-28_tiskova-konference-piratu-k-platformove-praci.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference Pirátů se zaměřila na problematiku platformové práce (kurýři, řidiči, hlídačky) a kritiku aktuálního návrhu zákona, který má do českého právního řádu implementovat evropskou směrnici. Hlavním cílem vystupujících bylo upozornit na rizika spojená s tzv. „digitálním švarcsystémem“, kdy jsou pracovníci formálně vedeni jako OSVČ, přestože fakticky vykonávají závislou práci pod přímým dohledem algoritmů.\n\nÚčastníci konference zdůraznili, že současný vládní návrh zákona nedostatečně chrání práva pracovníků a naopak legitimizuje obcházení zákoníku práce. V rámci konference byl ohlášen odborný seminář v Poslanecké sněmovně, jehož cílem je konfrontovat zákonodárce s realitou pracovníků v terénu a připravit pozměňovací návrhy, které zajistí transparentnost algoritmů, právo na lidský přezkum při výpovědi a lepší sociální jistoty.",
+    "main_points": [
+      "**Irena Ferčíková Konečná (Piráti)** – Upozornila, že platformová práce se týká až půl milionu lidí v ČR. Kritizovala vládní návrh za to, že otevírá dveře k legalizaci švarcsystému. Požaduje transparentnost algoritmů a právo na lidský přezkum při ukončení spolupráce.",
+      "**Hana Ančincová (Piráti)** – Zdůraznila, že platformoví pracovníci postrádají základní jistoty (nemocenská, dovolená, důchodové pojištění). Upozornila na negativní dopady na státní rozpočet a zdravotní systém kvůli nízkým odvodům. Cílem Pirátů není brzdit inovace, ale zvýšit ochranu zaměstnanců.",
+      "**Josef Středula (ČMKOS)** – Varoval před fatálními dopady na státní rozpočet, které odhadl na 120 miliard korun (při půl milionu pracovníků). Označil návrh za „švarcsystém v novém digitálním kabátě“. Vyzval k odmítnutí třetího typu pracovního poměru a podpořil zakládání odborů mezi platformovými pracovníky.",
+      "**Zdeněk K. Neubauer (Asociace platformových pracovníků)** – Představil pět konkrétních požadavků: 1. Efektivní vyvratitelná domněnka pracovněprávního vztahu; 2. Právo na kolektivní zastupování; 3. Úrazové pojištění a spravedlivé odměňování; 4. Lidský přezkum při deaktivaci účtu; 5. Společná odpovědnost platformy a zprostředkovatele (flotil)."
+    ],
+    "outcome": "Jednání vyústilo v jasný konsenzus mezi zástupci Pirátů, odborů a asociace pracovníků, že vládní návrh zákona v současné podobě je neakceptovatelný. Nebylo přijato žádné formální rozhodnutí, neboť proces je ve fázi vypořádávání připomínek. Účastníci se shodli na dalším postupu:\n* Využití semináře v Poslanecké sněmovně k tlaku na MPSV.\n* Příprava pozměňovacích návrhů po skončení mezirezortního připomínkového řízení.\n* Téma bude předmětem jednání tripartity dne 20. července.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Irena Ferčíková Konečná",
+        "person_id": "psp:person:7003",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Hana Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Josef Středula",
+        "person_id": null,
+        "affiliation": "ČMKOS"
+      },
+      {
+        "name": "Zdeněk K. Neubauer",
+        "person_id": null,
+        "affiliation": "Asociace platformových pracovníků"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "ČMKOS",
+      "Asociace platformových pracovníků",
+      "Poslanecká sněmovna",
+      "MPSV"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Při půl milionu zaměstnanců je dopad 120 miliard korun minus ve státním rozpočtu a v jeho příjmové stránce.",
+      "type": "citation",
+      "speaker": "Josef Středula",
+      "affiliation": "ČMKOS",
+      "timestamp": "1/04:34",
+      "screenshot_path": "summaries/screenshots/event_2951_highlight_00.jpg",
+      "context": "Částka 120 miliard korun je odhad ČMKOS založený na předpokladu masivního přechodu zaměstnanců na švarcsystém. Oficiální analýzy dopadů regulace (RIA) ze strany Ministerstva práce a sociálních věcí se v odhadech výpadku příjmů státního rozpočtu výrazně liší, proto nelze tuto konkrétní sumu nezávisle potvrdit jako faktický dopad."
+    },
+    {
+      "text": "Pokud mi platforma určuje, kdy mám pracovat, kudy mám jezdit, jak mám být oblečen a jak se mám chovat k zákazníkovi, a zároveň tvrdí, že jsem svobodný podnikatel, jak tohle může být legální?",
+      "type": "citation",
+      "speaker": "Zdeněk K. Neubauer",
+      "affiliation": "Asociace platformových pracovníků",
+      "timestamp": "1/10:00",
+      "screenshot_path": "summaries/screenshots/event_2951_highlight_01.jpg",
+      "context": "Tento výrok popisuje znaky tzv. závislé práce podle § 2 zákoníku práce (č. 262/2006 Sb.). Pokud platforma fakticky naplňuje tyto znaky, může se jednat o zastřený pracovněprávní vztah, což je v rozporu se zákonem, nicméně posouzení legality je vždy individuální záležitostí soudů a inspektorátů práce."
+    },
+    {
+      "text": "V České republice se právě teď rozhoduje o tom, zda těžce vydobytá práva zaměstnanců přežijí digitální revoluci, nebo zda dovolíme vznik formy digitálního nevolnictví.",
+      "type": "citation",
+      "speaker": "Irena Ferčíková Konečná",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:08",
+      "screenshot_path": "summaries/screenshots/event_2951_highlight_02.jpg",
+      "context": "Jde o politickou rétoriku a hodnotový soud, který nelze fakticky ověřit. Debata o postavení platformových pracovníků probíhá v rámci implementace evropské směrnice o platformové práci (směrnice EU 2024/2858), která má za cíl právě zpřesnění kritérií pro určení zaměstnaneckého statusu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Josef Středula (ČMKOS)\n**Co:** Označil vládní návrh zákona za „švarcsystém v novém digitálním kabátě“ a „hazard“, který připraví státní rozpočet o 120 miliard korun.\n**Proč:** Jde o přímou kritiku vládní legislativy, kterou označuje za snahu vyhovět zájmům velkých firem na úkor státu a práv zaměstnanců.\n**Čas:** 1/04:03",
+      "speaker": "Josef Středula",
+      "affiliation": "ČMKOS",
+      "timestamp": "1/04:03",
+      "screenshot_path": "summaries/screenshots/event_2951_controversy_00.jpg",
+      "context": "Označení za „švarcsystém“ je interpretací legislativního návrhu ze strany odborů. Částka 120 miliard korun představuje odhadovaný maximální fiskální dopad při plošném zneužití navrhované úpravy, nikoliv potvrzený výsledek vládního návrhu; jde o předmět probíhajícího politického a expertního sporu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

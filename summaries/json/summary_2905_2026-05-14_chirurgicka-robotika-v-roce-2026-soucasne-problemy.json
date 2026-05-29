@@ -1,0 +1,131 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:06:47",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2905",
+    "name": "Chirurgická robotika v roce 2026, současné problémy a vize do budoucna",
+    "classification": "Seminář",
+    "start_date": "2026-05-14T13:02",
+    "end_date": "2026-05-14T16:32",
+    "sources": [
+      "final/event_2905_2026-05-14_chirurgicka-robotika-v-roce-2026-soucasne-problemy.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 22,
+    "parts_total": 22,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na zhodnocení současného stavu chirurgické robotiky v České republice v roce 2026, identifikaci ekonomických a logistických problémů a stanovení vize pro budoucí rozvoj. Cílem bylo otevřít diskuzi mezi poskytovateli zdravotní péče, odbornými společnostmi, zdravotními pojišťovnami a zástupci ministerstva zdravotnictví.\n\nHlavním tématem byla potřeba vytvoření národní koncepce robotické chirurgie, která by definovala síť specializovaných center, zajistila udržitelnost financování prostřednictvím kultivace úhradových mechanismů (DRG) a nastavila standardy kvality. Jednání zdůraznilo nutnost přechodu od ad-hoc pořizování technologií k řízenému procesu založenému na robustních datech.",
+    "main_points": [
+      "**Neidentifikovaný řečník (předsedající)** — Zdůraznil nutnost sjednocení odborných společností pro efektivní vyjednávání o úhradách. Upozornil na politickou citlivost otázky doplatků pacientů a nutnost propojení dat o hospitalizaci s údaji MPSV.",
+      "**Náměstek Hauer (Ministerstvo zdravotnictví)** — Představil strategii centralizace robotické péče do komplexních onkologických center. Zdůraznil, že robotika není „bianco šek“ a její rozvoj musí být řízen daty a indikátory kvality.",
+      "**Ing. Pavel Švadlenka (Asociace nemocnic)** — Upozornil na vysoké vstupní a provozní náklady (servis 3,5 mil. Kč ročně, pořízení 65–75 mil. Kč). Varoval před negativní ekonomickou bilancí u mnoha výkonů.",
+      "**Dr. Tomáš Pavlík (ÚZIS)** — Vysvětlil metodiku kalkulace nákladů v systému CZ-DRG. Apeloval na referenční nemocnice, aby zlepšily kvalitu předávaných dat.",
+      "**Ředitel VZP** — Podpořil vznik národní koncepce a centralizaci. Zdůraznil, že systém veřejného pojištění nemůže být deficitní.",
+      "**Michal Ondica (odborník na robotiku)** — Shrnul technologický vývoj a představil potenciál AI v robotice (3D modely, vizualizace).",
+      "**Prof. Moláček (Česká chirurgická společnost)** — Potvrdil jednotný postoj odborných společností k robotice jako „game changeru“. Varoval před tlakem na provádění výkonů na pracovištích bez dostatečné zkušenosti.",
+      "**Zástupci odborných společností (ORL, urologie, gynekologie, kardiochirurgie)** — Shodli se na přínosech robotiky, ale upozornili na chybějící úhrady pro specifické výkony a nerovný přístup pacientů."
+    ],
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale k jasnému konsenzu o nutnosti:\n* **Vytvořit národní koncepci** rozvoje chirurgické robotiky.\n* **Centralizovat vysoce specializovanou péči** do center s vysokým objemem výkonů.\n* **Zlepšit kvalitu dat** pro DRG kalkulace prostřednictvím sjednocení metodiky v nemocnicích.\n* **Pokračovat v jednáních** (naplánováno na 19. 5. 2026) za účasti ministerstva a pojišťoven pro úpravu úhradových parametrů pro rok 2027.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova). Část 7/22 je prázdná. Diskuze v závěru odráží napětí mezi fakultními nemocnicemi (centry) a regionálními nemocnicemi ohledně smysluplnosti pořizování robotů na pracoviště s nízkým objemem výkonů."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Hauer",
+        "person_id": "psp:person:6261",
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Pavel Švadlenka",
+        "person_id": null,
+        "affiliation": "Asociace nemocnic"
+      },
+      {
+        "name": "Tomáš Pavlík",
+        "person_id": "psp:person:5573",
+        "affiliation": "ÚZIS"
+      },
+      {
+        "name": "Michal Ondica",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Prof. Moláček",
+        "person_id": "psp:person:3303",
+        "affiliation": "Česká chirurgická společnost"
+      },
+      {
+        "name": "Prof. Liške",
+        "person_id": null,
+        "affiliation": "Hrudní chirurgie"
+      },
+      {
+        "name": "Prof. Zachoval",
+        "person_id": null,
+        "affiliation": "Urologie"
+      },
+      {
+        "name": "Doc. Prsl",
+        "person_id": "psp:person:5222",
+        "affiliation": "Gynekologie"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Ministerstvo zdravotnictví",
+      "VZP",
+      "ÚZIS",
+      "Česká chirurgická společnost"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Robotická chirurgie není jen luxus, v roce 2026 je to standard, který zásadně mění kvalitu péče o pacienta.",
+      "type": "paraphrase",
+      "speaker": "Prof. Moláček",
+      "affiliation": "Česká chirurgická společnost",
+      "timestamp": "9/08:02",
+      "screenshot_path": "summaries/screenshots/event_2905_highlight_00.jpg",
+      "context": "Robotická chirurgie je v medicíně považována za moderní standard, avšak její status jako jediného 'standardu' pro rok 2026 není legislativně ukotven. Kvalita péče je doložitelná studiemi o kratší rekonvalescenci a menší krevní ztrátě, nicméně ekonomická dostupnost a plošné zavedení závisí na úhradové vyhlášce MZ ČR."
+    },
+    {
+      "text": "Pokud v kontextu screeningu a moderní léčby rakoviny plic bude chybět robotická chirurgie, jde o nedokončený projekt.",
+      "type": "citation",
+      "speaker": "Prof. Liške",
+      "affiliation": "Hrudní chirurgie",
+      "timestamp": "12/04:49",
+      "screenshot_path": "summaries/screenshots/event_2905_highlight_01.jpg",
+      "context": "Jde o odborný názor na strategii onkologické péče. Efektivita robotické chirurgie u karcinomu plic je podpořena klinickými studiemi, ale její zařazení do 'projektu' screeningu je otázkou prioritizace zdravotnické politiky a financování ze systému veřejného zdravotního pojištění."
+    },
+    {
+      "text": "Máme data, že mortalita u radikálních cystektomií je mimo onkourocentra dvojnásobná.",
+      "type": "citation",
+      "speaker": "Prof. Zachoval",
+      "affiliation": "Urologie",
+      "timestamp": "14/00:00",
+      "screenshot_path": "summaries/screenshots/event_2905_highlight_02.jpg",
+      "context": "Tvrzení o vyšší mortalitě v centrech s nízkým objemem výkonů (tzv. low-volume centra) je v medicíně dlouhodobě známý fakt, potvrzovaný daty z Národního onkologického registru (NOR) a odbornými společnostmi. Centralizace vysoce specializované péče je proto oficiální strategií MZ ČR pro zlepšení výsledků léčby."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika „bezmyšlenkovitého“ utrácení za roboty, kteří v některých nemocnicích stojí nevyužití, protože je to ekonomicky neudržitelné a neefektivní.",
+      "speaker": "Dr. Hladík",
+      "affiliation": "Fakultní nemocnice Motol/Homolka",
+      "timestamp": "16/06:20",
+      "screenshot_path": "summaries/screenshots/event_2905_controversy_00.jpg",
+      "context": "Ekonomická efektivita robotických systémů závisí na vysokém počtu provedených výkonů (vytížení systému). Kritika nevyužitých kapacit je relevantní téma, neboť pořizovací náklady a servisní poplatky jsou vysoké; data o konkrétní míře nevyužití v jednotlivých nemocnicích nejsou centrálně veřejně publikována v reálném čase."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

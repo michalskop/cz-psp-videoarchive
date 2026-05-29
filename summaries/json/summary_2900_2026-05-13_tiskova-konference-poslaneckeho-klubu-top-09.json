@@ -1,0 +1,127 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:11:26",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2900",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-13T07:39",
+    "end_date": "2026-05-13T07:56",
+    "sources": [
+      "final/event_2900_2026-05-13_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala před mimořádnou schůzí Poslanecké sněmovny. Cílem bylo představit postoje strany k aktuálním politickým kauzám, legislativním změnám a kritizovat vládní politiku.\n\nHlavními tématy byla kritika navrhované změny trestního řádu (změna kompetencí odvolacích soudů), nesouhlas s rozvolňováním rozpočtových pravidel, otázka financování obrany a kybernetické bezpečnosti, odchod vrchního ředitele Jiřího Šedivého z ministerstva obrany, bojkot mimořádné schůze k Sudetoněmeckým dnům a bezpečnostní situace na fotbalových stadionech.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval změnu trestního řádu jako účelovou pro Andreje Babiše. Varoval před rozvolněním rozpočtových pravidel (riziko schodků 400 mld. Kč). Navrhl úspory 64 mld. Kč a dodatečné financování BIS a NÚKIB. Označil odchod Jiřího Šedivého z MO za politickou čistku.",
+      "**Marek Ženíšek (TOP 09)** — Odsoudil mimořádnou schůzi k Sudetoněmeckým dnům jako politiku strachu a nenávisti. Oznámil, že se jí TOP 09 nezúčastní.",
+      "**Tomáš Třetina (TOP 09)** — Incident na Slavii označil za selhání pořadatelské služby, nikoliv za systémový problém. Podpořil opatření pro bezpečnost rodin na stadionech."
+    ],
+    "outcome": "TOP 09 potvrdila bojkot mimořádné schůze k Sudetoněmeckým dnům. Strana bude na plénu Sněmovny aktivně vystupovat proti novele zákona o rozpočtové odpovědnosti a změnám v trestním řádu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Marek Ženíšek",
+        "person_id": "psp:person:6154",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Tomáš Třetina",
+        "person_id": "psp:person:6682",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Petr Vašek",
+        "person_id": "psp:person:4469",
+        "affiliation": "Česká televize"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "BIS",
+      "NÚKIB",
+      "Ministerstvo obrany",
+      "FAČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud by tato změna prošla, tak by to nejspíš znamenalo, že by Andrej Babiš spravedlnosti na rozdíl od Jany Nagyové unikl.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/01:38",
+      "screenshot_path": "summaries/screenshots/event_2900_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení dopadů legislativní změny na probíhající trestní řízení. Nelze nezávisle ověřit, zda by konkrétní změna zákona vedla k zastavení stíhání konkrétní osoby, neboť výklad práva náleží nezávislým soudům."
+    },
+    {
+      "text": "My máme důvodnou obavu, že by to mohlo vést k tomu, že schodky budou v budoucnu přesahovat až 400 miliard korun.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:22",
+      "screenshot_path": "summaries/screenshots/event_2900_highlight_01.jpg",
+      "context": "Jedná se o politický odhad budoucího vývoje státního rozpočtu. Výše schodků závisí na mnoha proměnných, jako je makroekonomický vývoj, daňové příjmy a vládní výdajová politika, nelze tedy fakticky potvrdit ani vyvrátit konkrétní predikovanou částku."
+    },
+    {
+      "text": "Nechceme dělat kompars ostudě, kterou tato vláda předvádí, ostudu doma a i v Evropě.",
+      "type": "citation",
+      "speaker": "Marek Ženíšek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/09:45",
+      "screenshot_path": "summaries/screenshots/event_2900_highlight_02.jpg",
+      "context": "Toto tvrzení je hodnotovým soudem a politickou rétorikou. Hodnocení „ostudy“ vlády je subjektivní názor, který není fakticky ověřitelný."
+    },
+    {
+      "text": "Vlastenectví to není! Jak říkal Tomáš Garrigue Masaryk, vlastenectví je láska k vlastnímu národu, nikoliv nenávist k jiným.",
+      "type": "citation",
+      "speaker": "Marek Ženíšek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/09:13",
+      "screenshot_path": "summaries/screenshots/event_2900_highlight_03.jpg",
+      "context": "Citát je připisován T. G. Masarykovi, ačkoliv přesná formulace se v jeho dílech vyskytuje v různých variacích. Jde o filozofický výrok, nikoliv o faktické tvrzení podléhající verifikaci."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Bojkot mimořádné schůze**\n- **Kdo:** Marek Ženíšek (TOP 09)\n- **Co:** Oznámil, že se poslanci TOP 09 nezúčastní mimořádné schůze svolané k Sudetoněmeckým dnům.\n- **Proč:** Je to politicky citlivé, protože bojkot parlamentní schůze je vnímán jako vyhýbání se ústavní povinnosti poslance, což vyvolává kritiku o „nechození do práce“.\n- **Čas:** 1/08:00",
+      "speaker": "Marek Ženíšek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/00:00",
+      "screenshot_path": "summaries/screenshots/event_2900_controversy_00.jpg",
+      "context": "Účast na schůzích Poslanecké sněmovny je ústavní povinností poslance (čl. 23 Ústavy ČR). Rozhodnutí neúčastnit se schůze je politickým aktem, který je fakticky doložitelný prezenční listinou z dané schůze."
+    },
+    {
+      "statement": "**Odstranění Jiřího Šedivého**\n- **Kdo:** Matěj Ondřej Havel (TOP 09)\n- **Co:** Tvrdí, že ministr obrany dostal zadání zbavit se odborníka Jiřího Šedivého, protože ten říkal pravdu o neplnění výdajů na obranu.\n- **Proč:** Jde o přímé obvinění vlády z politických čistek na ministerstvu obrany a umlčování odborníků.\n- **Čas:** 1/06:04",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/05:13",
+      "screenshot_path": "summaries/screenshots/event_2900_controversy_01.jpg",
+      "context": "Důvody personálních změn na ministerstvech jsou často předmětem politických sporů. Tvrzení o „zadání zbavit se odborníka“ je interpretací politických kroků, kterou nelze nezávisle ověřit bez přístupu k interní komunikaci ministerstva obrany."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

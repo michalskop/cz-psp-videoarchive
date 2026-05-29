@@ -1,0 +1,102 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:14:45",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2895",
+    "name": "Tisková konference Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-12T12:20",
+    "end_date": "2026-05-12T12:39",
+    "sources": [
+      "final/event_2895_2026-05-12_tiskova-konference-piratu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána primárně za účelem kritiky vládních záměrů v oblasti zemědělské politiky, konkrétně zavedení zákonného předkupního práva na zemědělskou půdu. Piráti a zástupci Asociace soukromého zemědělství varují, že tento krok povede k další koncentraci půdy v rukou velkých agroholdingů a poškodí malé, rodinné a začínající zemědělce.\n\nDruhým tématem byla širší kritika současné vládní koalice, kterou Piráti obviňují z „oligarchizace státu“. V této souvislosti zazněla kritika rušení nominačního zákona, oslabování služebního zákona a přístupu k vymáhání dotací.",
+    "main_points": [
+      "**Martin Šmída (Piráti)** — Varoval před nebezpečím, že se česká půda stane kořistí „agromamutů“. Uvedl, že průměrná rozloha farmy v ČR je 121 hektarů (v EU 17 ha). Předkupní právo označil za ekonomickou výhodu pro velké hráče v hodnotě cca 35 miliard korun.",
+      "**Jaroslav Šebek (Asociace soukromého zemědělství)** — Kategoricky odmítl zavedení předkupního práva. Upozornil na negativní zkušenost z Norska (zavedeno 1974, zrušeno 2001). Navrhl alternativy: podpora nákupu přes PGRLF, přednostní právo k pachtu státní půdy a osvětová kampaň pro prodej půdy lokálním farmářům.",
+      "**Kateřina Stojanová (Piráti)** — Kritizovala „oligarchizaci státu“ a ohýbání pravidel (rušení nominačního zákona). K jednání mandátového výboru o poslanci Turkovi uvedla, že hlasování o etickém kodexu bylo „prázdné gesto“."
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o tiskové prohlášení. Piráti a Asociace soukromého zemědělství se shodli na odmítavém postoji k předkupnímu právu na půdu. Piráti deklarovali, že budou v parlamentu nadále prosazovat protikorupční opatření a transparentní pravidla.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Šmída",
+        "person_id": "psp:person:7065",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Jaroslav Šebek",
+        "person_id": "psp:person:6829",
+        "affiliation": "Asociace soukromého zemědělství"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Asociace soukromého zemědělství",
+      "Poslanecká sněmovna",
+      "Agrofert"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Jen Agrofert by díky tomu získal předkupní právo k půdě za přibližně 35 miliard korun.",
+      "type": "citation",
+      "speaker": "Martin Šmída",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:54",
+      "screenshot_path": "summaries/screenshots/event_2895_highlight_00.jpg",
+      "context": "Tvrzení vychází z odhadů dopadů konkrétního legislativního návrhu na nakládání se státní půdou. Přesná částka 35 miliard je předmětem politického sporu a závisí na metodice ocenění pozemků, nelze ji tedy považovat za oficiálně potvrzený fakt, ale za odhad opozice."
+    },
+    {
+      "text": "Půda má patřit těm, kdo za ni řádně zaplatili nebo ji nabyli řádným legálním způsobem.",
+      "type": "citation",
+      "speaker": "Jaroslav Šebek",
+      "affiliation": "Asociace soukromého zemědělství",
+      "timestamp": "1/06:58",
+      "screenshot_path": "summaries/screenshots/event_2895_highlight_01.jpg",
+      "context": "Jde o vyjádření politického a etického postoje k vlastnickému právu, nikoliv o faktické tvrzení. Právní rámec nabývání půdy v ČR upravuje zejména občanský zákoník a zákon o Státním pozemkovém úřadu."
+    },
+    {
+      "text": "Stát se přestává chovat jako neutrální správce pravidel pro všechny a začíná být nástrojem upevňování moci pro úzkou skupinu lidí.",
+      "type": "citation",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/11:46",
+      "screenshot_path": "summaries/screenshots/event_2895_highlight_02.jpg",
+      "context": "Jedná se o hodnotící politický soud a rétorickou figuru. Nelze nezávisle ověřit, neboť jde o subjektivní interpretaci politického směřování státu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kateřina Stojanová (Piráti) uvedla, že většina dehumanizujících výroků (např. o „parazitech, které je potřeba deratizovat“) zaznívá z úst koaličních poslanců. Jde o přímé obvinění vládní koalice z používání nenávistné rétoriky, což je politicky vysoce citlivé téma.",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/18:01",
+      "screenshot_path": "summaries/screenshots/event_2895_controversy_00.jpg",
+      "context": "Toto obvinění je subjektivním politickým hodnocením diskurzu v Poslanecké sněmovně. Neexistuje žádná oficiální statistika či databáze, která by systematicky klasifikovala výroky poslanců jako „dehumanizující“, proto nelze tvrzení o tom, že většina zaznívá z řad koalice, nezávisle ověřit."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

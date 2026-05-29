@@ -1,10 +1,10 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:40:18",
+  "created_at": "2026-05-29T15:33:01",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
-    "id": "2761",
-    "name": "Dětství online: bezpečí, vzdělávání a zdravé hranice",
+    "id": "21851",
+    "name": "Seminář \"Dětství online: bezpečí, vzdělávání a zdravé hranice\"",
     "classification": "Seminář",
     "start_date": "2026-03-18",
     "end_date": "2026-03-18",
@@ -19,38 +19,67 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na problematiku digitálního dětství, vlivu sociálních sítí a umělé inteligence na vývoj dětí a dospívajících. Cílem akce bylo pojmenovat rizika online prostředí a hledat rovnováhu mezi ochranou dětí, svobodou a odpovědností jednotlivých aktérů.",
+    "topic": "Seminář „Dětství online: bezpečí, vzdělávání a zdravé hranice“, který se konal 18. března 2026 v Poslanecké sněmovně pod záštitou poslankyně Barbory Rázgy, se zaměřil na problematiku digitálního prostředí dětí a dospívajících. Cílem akce bylo otevřít mezioborovou diskuzi o rizicích (kyberšikana, závislost, nevhodný obsah, predátoři) i přínosech digitálních technologií.\n\nJednání se nesoustředilo pouze na represi či plošné zákazy, ale na hledání rovnováhy mezi ochranou dětí, svobodou a odpovědností. Hlavní důraz byl kladen na roli rodičů, vzdělávacího systému, státu a odpovědnost technologických platforem.",
     "main_points": [
-      "**Patrik Nacher (místopředseda PS PČR)** – Vyjádřil dilema mezi rolí rodiče a zákonodárce. Varoval před neúčinností plošných zákazů.",
-      "**Barbora Rázga (poslankyně PS PČR)** – Zdůraznila, že technologie jsou integrální součástí života dětí a problémem je absence podpory.",
-      "**Štěpán Vymětal (MV ČR)** – Upozornil na toxicitu algoritmů a fakt, že 10–15 % dětí je v online prostředí ve vážném riziku.",
-      "**Lukáš Kintr (NÚKIB)** – Varoval před predátory na herních platformách a lineárním růstu času stráveného online.",
-      "**Zástupci platforem (Google, Meta)** – Prezentovali nástroje pro rodičovskou kontrolu a bezpečnější nastavení účtů pro teenagery."
+      "**Patrik Nacher (místopředseda PS PČR)** — Vyjádřil dilema mezi rolí rodiče a zákonodárce. Upozornil na rizika kyberšikany a kyberšmejdů.",
+      "**Barbora Rázga (poslankyně PS PČR)** — Zdůraznila, že problémem je ponechání dětí v digitálním prostředí bez podpory a jasných pravidel.",
+      "**Ondřej Andrys (MŠMT ČR)** — Preferuje kulturu školy a metodiku před plošným zákazem mobilních telefonů.",
+      "**Štěpán Vymětal (MV ČR)** — Varoval před toxickými algoritmy a závislostmi; uvedl, že 10–15 % dětí vykazuje příznaky závislosti.",
+      "**Lukáš Kintr (NÚKIB)** — Upozornil na vysokou expozici dětí online (až 9 hodin denně) a ztrátu ostražitosti.",
+      "**Marek Vrbík (ČTÚ)** — Zdůraznil potřebu budovat odolnost dětí namísto jejich izolace.",
+      "**Lukáš Benzl (Česká asociace AI)** — Varoval před zneužitím generativní AI a zdůraznil význam kritického myšlení.",
+      "**Julia Schvarcová (Google)** — Představila nástroje pro rodičovskou kontrolu a varovala před riziky plošného ověřování věku přes eID.",
+      "**Patrik Tovaryš (Meta)** — Popsal zavedení \"Instagram Teen Accounts\" a navrhl verifikaci věku na úrovni operačních systémů."
     ],
-    "outcome": "Jednání potvrdilo konsenzus v odmítnutí plošných zákazů. Důraz je kladen na digitální gramotnost, aktivní roli rodičů a odpovědnost technologických firem při designu produktů.",
-    "notes": "Přepis obsahuje četné technické artefakty a opakující se fráze, které byly pro účely shrnutí ignorovány."
+    "outcome": "Jednání nevedlo k přijetí formálního usnesení, ale potvrdilo konsenzus v následujících bodech:\n* **Odmítnutí plošných zákazů:** Převládl názor, že plošné zákazy jsou obtížně vymahatelné.\n* **Důraz na digitální gramotnost:** Vzdělávání dětí, rodičů i pedagogů je klíčové.\n* **Odpovědnost platforem:** Nutnost tlačit na firmy, aby jejich design nebyl návykový.\n* **Role rodičů:** Rodiče zůstávají primárními průvodci dětí v digitálním světě.",
+    "notes": "Přepis obsahuje četné technické artefakty (opakující se fráze), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
       {
         "name": "Patrik Nacher",
         "person_id": "psp:person:6487",
-        "affiliation": "Poslanecká sněmovna PČR"
+        "affiliation": "Poslanecká sněmovna"
       },
       {
         "name": "Barbora Rázga",
         "person_id": "psp:person:7038",
-        "affiliation": "Poslanecká sněmovna PČR"
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Ondřej Andrys",
+        "person_id": null,
+        "affiliation": "MŠMT ČR"
       },
       {
         "name": "Štěpán Vymětal",
         "person_id": null,
-        "affiliation": "Ministerstvo vnitra ČR"
+        "affiliation": "MV ČR"
       },
       {
         "name": "Lukáš Kintr",
         "person_id": null,
         "affiliation": "NÚKIB"
+      },
+      {
+        "name": "Marek Vrbík",
+        "person_id": null,
+        "affiliation": "ČTÚ"
+      },
+      {
+        "name": "Lukáš Benzl",
+        "person_id": null,
+        "affiliation": "Česká asociace AI"
+      },
+      {
+        "name": "Julia Schvarcová",
+        "person_id": null,
+        "affiliation": "Google"
+      },
+      {
+        "name": "Patrik Tovaryš",
+        "person_id": null,
+        "affiliation": "Meta"
       }
     ],
     "parties": [
@@ -58,31 +87,51 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "MŠMT",
+      "MŠMT ČR",
+      "MV ČR",
       "NÚKIB",
+      "ČTÚ",
       "Google",
       "Meta"
     ]
   },
   "highlights": [
     {
-      "text": "Děti v online prostředí nejsou problém; problém vzniká tehdy, když v něm zůstávají bez podpory a jasných pravidel.",
+      "text": "10 % českých dětí ve věku 11 až 14 let má příznaky závislosti na digitálních médiích.",
       "type": "citation",
-      "speaker": "Barbora Rázga",
-      "affiliation": "Poslanecká sněmovna PČR",
-      "timestamp": "3/08:21",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2761_highlight_00.jpg",
-      "context": "Jde o hodnotící úsudek v oblasti digitální gramotnosti a výchovy, který nelze fakticky potvrdit ani vyvrátit. Odborné studie (např. NPI ČR či projekty zaměřené na kyberbezpečnost) však potvrzují, že role rodičů a nastavení pravidel jsou klíčovými faktory pro prevenci rizikového chování dětí v online prostředí."
+      "speaker": "Štěpán Vymětal",
+      "affiliation": "MV ČR",
+      "timestamp": "6/01:28",
+      "screenshot_path": "summaries/screenshots/event_2761_highlight_00.jpg",
+      "context": "Tento údaj odpovídá závěrům výzkumů Národního monitorovacího střediska pro drogy a závislosti (např. studie ESPAD či data z projektů zaměřených na digitální zdraví). Odhad 10 % se pohybuje v rozmezí odborných studií o problematickém užívání technologií u dospívajících v ČR."
+    },
+    {
+      "text": "U dětí mladších školáků doba strávená online činí čtyři hodiny a u dětí na druhém stupni je to až sedm či devět hodin denně.",
+      "type": "citation",
+      "speaker": "Lukáš Kintr",
+      "affiliation": "NÚKIB",
+      "timestamp": "7/01:51",
+      "screenshot_path": "summaries/screenshots/event_2761_highlight_01.jpg",
+      "context": "Data vycházejí z průzkumů NÚKIB a spolupracujících organizací (např. projekt E-Bezpečí). Uvedené hodnoty odpovídají trendům, kdy starší žáci tráví online časem srovnatelným s plným pracovním úvazkem, přičemž tyto údaje zahrnují jak školní práci, tak volnočasové aktivity."
+    },
+    {
+      "text": "Vzdělanému člověku, který zná algoritmy, je svět technologií nástrojem, nevzdělaného izoluje a je pro něho smrtící zbraní.",
+      "type": "paraphrase",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "16/06:05",
+      "screenshot_path": "summaries/screenshots/event_2761_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o hodnotící úsudek a metaforické vyjádření, které nelze podložit exaktními daty, ačkoliv reflektuje odbornou debatu o tzv. digitální propasti a mediální gramotnosti."
     }
   ],
   "controversial": [
     {
-      "statement": "Vlasta Volák (Krajské centrum vzdělávání) kritizoval snahy o plošný zákaz mobilů ve školách jako cestu do ilegality.",
-      "speaker": "Vlasta Volák",
-      "affiliation": "Krajské centrum vzdělávání",
-      "timestamp": "17/09:28",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2761_controversy_00.jpg",
-      "context": "Tvrzení o 'cestě do ilegality' je názorovou interpretací možných dopadů plošné regulace. V ČR neexistuje celostátní zákonný zákaz mobilů ve školách; rozhodnutí o jejich omezení je v kompetenci jednotlivých škol v rámci jejich školního řádu (podle zákona č. 561/2004 Sb., školský zákon)."
+      "statement": "Diskuze o plošném zákazu sociálních sítí pro děti do 15–16 let. Je to kontroverzní kvůli střetu mezi ochranou dětí a svobodou přístupu k informacím, a také kvůli technické obtížnosti vymáhání.",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "3/01:00",
+      "screenshot_path": "summaries/screenshots/event_2761_controversy_00.jpg",
+      "context": "Tvrzení správně identifikuje hlavní body debaty. Plošný zákaz naráží na Listinu základních práv a svobod (právo na informace) a technicky je obtížně vymahatelný kvůli anonymitě internetu a snadnému obcházení věkového ověření (např. pomocí VPN či sdílených účtů)."
     }
   ],
   "quality": {

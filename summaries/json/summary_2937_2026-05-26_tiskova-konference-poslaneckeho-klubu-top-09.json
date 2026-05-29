@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:20:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2937",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-26",
+    "end_date": "2026-05-26",
+    "sources": [
+      "final/event_2937_2026-05-26_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala před jednáním Poslanecké sněmovny. Cílem bylo prezentovat postoje strany k aktuálním politickým tématům, kritizovat kroky vládní koalice a vyjádřit nesouhlas s konkrétními legislativními návrhy.\n\nHlavními tématy byly zhodnocení sudetoněmeckého sjezdu, kritika vládního přístupu k financování veřejnoprávních médií, problematika střetu zájmů Andreje Babiše, otázka prodeje podniku Explosia, kritika stavebního zákona a změny v oblasti očkovací strategie a adiktologie.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** — Sudetoněmecký sjezd označil za kulturní akci, odmítl strašení SPD. Kritizoval střet zájmů Andreje Babiše a vyzval k transparentnosti. Vyzval k rezignaci ministra kultury kvůli návrhu financování médií.",
+      "**Michal Zuna (TOP 09)** — Odmítl prodej podniku Explosia jako strategickou chybu. Kritizoval ministryni pro místní rozvoj za chaos ve stavebním zákoně a vyzval ji k rezignaci.",
+      "**Miloslav Válek (TOP 09)** — Zdůraznil význam očkování a varoval před poklesem proočkovanosti. Kritizoval převod adiktologie pod Ministerstvo zdravotnictví jako ohrožení odbornosti.",
+      "**Lukáš Otys (TOP 09)** — Kritizoval vládní novelu Lex Ukrajina za poškozování českých firem a exportérů."
+    ],
+    "outcome": "Jednání nebylo legislativním aktem, ale tiskovou konferencí. Dominujícím postojem TOP 09 je ostrá opoziční kritika vládní koalice, zejména v otázkách správy státu, nezávislosti médií a strategických rozhodnutí.",
+    "notes": "Přepis obsahuje opakující se technické fráze, které byly ignorovány. Jména ministrů mohou být v přepisu zkreslena."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Michal Zuna",
+        "person_id": "psp:person:6796",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Miloslav Válek",
+        "person_id": "psp:person:4370",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Lukáš Otys",
+        "person_id": null,
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Budoucnost není o strašení a kulturních válkách, budoucnost je samozřejmě o spolupráci.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:06",
+      "screenshot_path": "summaries/screenshots/event_2937_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorický obrat, který nelze fakticky ověřit jako pravdivý či nepravdivý. Pojmy „kulturní války“ a „spolupráce“ jsou interpretativní kategorie politického diskurzu."
+    },
+    {
+      "text": "Očkování je bezpečné, zachraňuje miliony lidských životů a máme ho tady dvěstě let.",
+      "type": "citation",
+      "speaker": "Miloslav Válek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/15:46",
+      "screenshot_path": "summaries/screenshots/event_2937_highlight_01.jpg",
+      "context": "Bezpečnost očkování je potvrzena rozsáhlými klinickými studiemi a institucemi jako SÚKL či EMA. První moderní vakcína (proti pravým neštovicím) byla zavedena Edwardem Jennerem v roce 1796, což odpovídá tvrzení o zhruba dvousetleté historii."
+    },
+    {
+      "text": "V době, kdy státy v Evropě strategické kapacity posilují, nikoli oslabují, by prodej takového podniku byl zcela mimo a zcela nesmyslný.",
+      "type": "citation",
+      "speaker": "Michal Zuna",
+      "affiliation": "TOP 09",
+      "timestamp": "1/09:18",
+      "screenshot_path": "summaries/screenshots/event_2937_highlight_02.jpg",
+      "context": "Tvrzení o posilování strategických kapacit v EU je v souladu s aktuálními trendy (např. snaha o energetickou či surovinovou soběstačnost). Zda je konkrétní prodej „nesmyslný“, je politickým názorem na správu státního majetku, nikoliv objektivním faktem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Matěj Ondřej Havel a Michal Zuna (TOP 09)\n**Co:** Požadavek na okamžitou rezignaci členů vlády kvůli nekompetentnosti.\n**Proč:** Jde o vyhrocený politický střet, kdy opozice zpochybňuje základní schopnost vlády řídit resorty.\n**Čas:** 1/06:01 a 1/10:08",
+      "speaker": "Matěj Ondřej Havel, Michal Zuna",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:01",
+      "screenshot_path": "summaries/screenshots/event_2937_controversy_00.jpg",
+      "context": "Požadavek na rezignaci členů vlády je legitimním politickým nástrojem opozice. Nelze nezávisle ověřit „nekompetentnost“ jako objektivní fakt, neboť jde o politické hodnocení výkonu exekutivy, nikoliv o právní či statisticky měřitelnou veličinu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

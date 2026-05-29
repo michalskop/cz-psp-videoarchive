@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:48:22",
+  "created_at": "2026-05-29T14:28:45",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2841",
@@ -19,14 +19,14 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat postoj hnutí STAN k aktuálním legislativním a politickým tématům. Hlavním bodem byla kritika vládního postupu při volbě radních České televize, kterou hnutí považuje za nepřijatelnou kvůli podezřením z korupčního jednání.\n\nDalšími tématy byly kritika vládních návrhů v oblasti médií (změna financování veřejnoprávních médií), otázka nominačního zákona a chaos vládní koalice při předkládání zákonů formou poslaneckých návrhů, což obchází standardní legislativní proces.",
+    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat postoje hnutí STAN k aktuálním legislativním prioritám a politickým sporům. Hlavním tématem byla snaha o zablokování volby radních České televize, kterou hnutí považuje za nepřijatelnou kvůli podezřením z korupčního jednání.\n\nDalšími klíčovými tématy byla kritika vládního postupu v oblasti veřejnoprávních médií, kritika rušení nominačního zákona a vyjádření k legislativě v sociální oblasti.",
     "main_points": [
-      "**Michaela Šebelová (STAN)** — Požaduje odložení volby radních České televize kvůli podezření na korupci. Kritizuje vládní mediální novelu za snahu zrušit koncesionářské poplatky.",
-      "**Vít Rakušan (STAN)** — Podmiňuje podporu vládních bodů stažením volby radních ČT. Kritizuje rušení nominačního zákona a označuje vládní zákon o cenách pohonných hmot za hazard s ústavností.",
-      "**Pavla Pivoňka Vaňková (STAN)** — Kritizuje obcházení legislativního procesu předkládáním zákonů jako poslaneckých návrhů a upozorňuje na vnitřní rozpory vládní koalice v sociální oblasti."
+      "**Michaela Šebelová (STAN)** — Požaduje odložení volby radních ČT, kritizuje vládní mediální novelu a způsob komunikace ministra kultury.",
+      "**Vít Rakušan (STAN)** — Svolal odbornou debatu o médiích na čtvrtek, deklaroval obstrukce v případě neústupnosti vlády, kritizuje rušení nominačního zákona a vládní „dekrety“.",
+      "**Pavla Pivoňka Vaňková (STAN)** — Kritizuje chaos v sociální legislativě a obcházení standardních procesů při předkládání zákonů."
     ],
-    "outcome": "Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci. Dominujícím postojem hnutí STAN je pokračování v obstrukcích v Poslanecké sněmovně, dokud vláda neustoupí v otázce volby radních České televize. Hnutí deklaruje ochotu k politické diskuzi o veřejnoprávních médiích na čtvrteční schůzce.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, kde dochází k výpadkům slov nebo opakování nesmyslných shluků znaků."
+    "outcome": "Nebyl učiněn žádný formální závěr. Dominujícím postojem hnutí STAN je neústupnost v otázce volby radních České televize a připravenost k obstrukcím v Poslanecké sněmovně.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže a technické chyby v přepisu jmen a názvů."
   },
   "entities": {
     "speakers": [
@@ -64,8 +64,8 @@
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
       "timestamp": "1/03:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_highlight_00.jpg",
-      "context": "Role nezávislých médií jako pilíře demokracie je ukotvena v judikatuře Ústavního soudu ČR i v principech Rady Evropy. Jde o politický postoj, který reflektuje roli veřejnoprávních médií definovanou zákonem č. 483/1991 Sb. (ČT) a č. 484/1991 Sb. (ČRo)."
+      "screenshot_path": "summaries/screenshots/event_2841_highlight_00.jpg",
+      "context": "Role nezávislých médií jako pilíře demokracie je zakotvena v demokratické teorii a judikatuře Ústavního soudu ČR, který opakovaně zdůrazňuje význam svobody slova a nezávislosti veřejnoprávních médií pro fungování právního státu."
     },
     {
       "text": "Manažerská poučka číslo jedna: neměň něco, co funguje.",
@@ -73,27 +73,27 @@
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "2/07:58",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_highlight_01.jpg",
-      "context": "Jde o subjektivní manažerské tvrzení (tzv. „If it ain't broke, don't fix it“), které nelze fakticky ověřit jako pravdivé či nepravdivé. Jeho validita závisí na definici toho, co je považováno za „fungující“ systém."
+      "screenshot_path": "summaries/screenshots/event_2841_highlight_01.jpg",
+      "context": "Jde o subjektivní manažerské tvrzení (tzv. „if it ain't broke, don't fix it“), které nelze fakticky ověřit jako pravdivé či nepravdivé, neboť hodnocení funkčnosti konkrétního systému je věcí politického a odborného názoru."
     },
     {
-      "text": "Takový chaos v naší vládě funguje, že ministerstvo financí dává zamítavé stanovisko k tomu, co mají ve svém vládním prohlášení.",
-      "type": "citation",
-      "speaker": "Pavla Pivoňka Vaňková",
+      "text": "Vláda říká, budeme vládnout nařízeními. Já tomu pro srozumitelnost říkám dekrety.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "2/03:43",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_highlight_02.jpg",
-      "context": "Tvrzení o rozporu mezi stanovisky Ministerstva financí a vládním prohlášením se v legislativním procesu občas objevuje, např. při připomínkovém řízení k návrhům zákonů. Konkrétní případy, kdy MF ČR zamítá vlastní vládní priority, jsou předmětem politické debaty o rozpočtové odpovědnosti."
+      "timestamp": "2/05:26",
+      "screenshot_path": "summaries/screenshots/event_2841_highlight_02.jpg",
+      "context": "V českém právním řádu mají „dekrety“ specifický historický význam (např. Benešovy dekrety). Vláda v ČR vládne prostřednictvím nařízení vlády vydávaných na základě zmocnění v zákonech (čl. 78 Ústavy ČR), nikoliv dekrety, které by obcházely legislativní proces."
     }
   ],
   "controversial": [
     {
-      "statement": "Vít Rakušan navrhuje, aby negativní hodnocení nominačního výboru znamenalo automatickou stopku pro kandidáta do státní správy. Je to politicky citlivé, protože by to fakticky odebralo vládě právo nominovat své kandidáty, pokud by neprošli odborným sítem, což je v přímém rozporu s vládním záměrem zákon zrušit.",
+      "statement": "Vít Rakušan navrhuje, aby nominační výbor měl právo definitivně zablokovat kandidáta do státní správy, pokud obdrží záporné hodnocení. Je to politicky citlivé, protože by to výrazně posílilo pravomoci nominačního výboru nad exekutivou.",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "2/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2841_controversy_00.jpg",
-      "context": "Návrh na posílení role nominačních výborů při výběru do státní správy je předmětem diskusí o novele zákona o státní službě (zákon č. 234/2014 Sb.). Zda by takový krok fakticky odebral vládě právo nominace, je otázkou právní interpretace míry politické kontroly nad státní správou."
+      "screenshot_path": "summaries/screenshots/event_2841_controversy_00.jpg",
+      "context": "Návrh na posílení pravomocí nominačního výboru v rámci zákona o státní službě (zákon č. 234/2014 Sb.) je předmětem politické debaty. Změna by skutečně znamenala posun v rovnováze mezi odborným výběrem a politickou odpovědností exekutivy za obsazování pozic."
     }
   ],
   "quality": {

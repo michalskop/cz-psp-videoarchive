@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:33:15",
+  "created_at": "2026-05-29T14:13:41",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2779",
@@ -19,13 +19,13 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána po jednání poslaneckého klubu ODS u příležitosti blížícího se 100. dne vlády Andreje Babiše. Cílem řečníků bylo představit kritické hodnocení dosavadního vládnutí, které označili za arogantní, nekompetentní a ohrožující bezpečnost i demokratické směřování České republiky.\n\nKromě celkového zhodnocení vlády se zástupci ODS zaměřili na konkrétní resortní selhání v oblasti kultury a na bezpečnostní rizika v souvislosti s nedávným teroristickým útokem v Pardubicích.",
+    "topic": "Tisková konference byla svolána k hodnocení prvních 100 dnů vlády Andreje Babiše. Představitelé ODS v rámci tohoto „vysvědčení“ kritizovali vládní politiku v oblastech rozpočtové odpovědnosti, nezávislosti médií, bezpečnosti státu a personální politiky ve státní správě.\n\nCílem vystoupení bylo poukázat na údajnou aroganci vládnutí, neplnění předvolebních slibů a odklon České republiky od západního demokratického směřování směrem k východním modelům (Maďarsko, Slovensko).",
     "main_points": [
-      "**Martin Kupka (předseda ODS)** — Kritizoval 100 dní vlády za aroganci, neplnění slibů a „projídání budoucnosti“ (rozpočtový schodek 310 miliard Kč). Varoval před útokem na nezávislost veřejnoprávních médií a zneužíváním státních prostředků pro podporu Agrofertu.",
-      "**Martin Baxa (stínový ministr kultury)** — Označil řízení Ministerstva kultury za hluboce nekompetentní. Upozornil na rozpočtové škrty přesahující miliardu korun a kritizoval vládní postup v mediální legislativě, zejména plánované zrušení koncesionářských poplatků.",
-      "**Pavel Žáček (poslanec)** — Kritizoval reakci premiéra Babiše na teroristický útok v Pardubicích. Upozornil na krácení rozpočtů bezpečnostních složek (BIS, NÚKIB, NBÚ) a zdůraznil, že finance jsou klíčové pro moderní technologie a prevenci terorismu."
+      "**Martin Kupka (předseda ODS)** — Kritizoval rozpočtový schodek ve výši 310 miliard korun, obvinil vládu z „vyhladovění“ veřejnoprávních médií, kritizoval snížení rozpočtu armády o 21 miliard korun a poukázal na využívání imunity k ochraně Andreje Babiše.",
+      "**Martin Baxa (stínový ministr kultury)** — Odsoudil rozpočtové škrty v kultuře (přes 1 miliardu Kč) a varoval před dopadem zrušení koncesionářských poplatků na nezávislost médií.",
+      "**Pavel Žáček (poslanec)** — Kritizoval reakci premiéra na útok v Pardubicích a uvedl konkrétní škrty v bezpečnostních složkách (BIS -300 mil. Kč, NÚKIB -43 mil. Kč, NBÚ -36 mil. Kč)."
     ],
-    "outcome": "Opoziční klub ODS se shodl na nutnosti vyvolat debatu o bezpečnostní situaci země na půdě Poslanecké sněmovny. Pokud vláda nebude ochotna věcně reagovat na požadavky opozice ohledně financování bezpečnostních složek a vysvětlení vládních kroků, ODS nevylučuje svolání mimořádné schůze Sněmovny.",
+    "outcome": "Opoziční klub ODS hodlá na plénu Poslanecké sněmovny navrhnout zařazení speciálního bodu k bezpečnosti státu. Vláda bude vyzvána k představení konkrétních kroků k posílení zpravodajských služeb. V případě arogantního přístupu vlády nevylučuje ODS iniciaci mimořádné schůze.",
     "notes": null
   },
   "entities": {
@@ -51,7 +51,6 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Ministerstvo kultury",
       "BIS",
       "NÚKIB",
       "NBÚ"
@@ -59,49 +58,49 @@
   },
   "highlights": [
     {
-      "text": "Projídání budoucnosti s rozpočtem, který přináší schodek 310 miliard korun, je jasný důkaz, že vláda Andreje Babiše nejedná v zájmu České republiky.",
+      "text": "Rozpočet přináší schodek 310 miliard korun a Andrej Babiš dodává, že v příštím roce bude ještě vyšší, což je jasný důkaz projídání budoucnosti.",
       "type": "paraphrase",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/01:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_highlight_00.jpg",
-      "context": "Schodek státního rozpočtu pro rok 2021 byl v důsledku pandemie covid-19 skutečně schválen ve výši 320 miliard korun (později novelizován na 500 miliard). Hodnocení, zda jde o „projídání budoucnosti“, je politickým názorem, nikoliv faktickým údajem."
+      "timestamp": "1/01:03",
+      "screenshot_path": "summaries/screenshots/event_2779_highlight_00.jpg",
+      "context": "Návrh státního rozpočtu na rok 2025 skutečně počítá se schodkem 241 miliard Kč, přičemž debata o výši deficitu je věcí politické interpretace. Označení za „projídání budoucnosti“ je subjektivní politické hodnocení, nikoliv ekonomický fakt, neboť záleží na poměru investičních a mandatorních výdajů."
     },
     {
-      "text": "Ministerstvo kultury vykazuje velkou nekompetentnost a rozpočtové škrty v kultuře přesahující miliardu korun jsou největším útokem na tuto sféru od roku 1989.",
+      "text": "Ministerstvo kultury vykazuje velkou nekompetentnost a oproti návrhu vlády Petra Fialy se jedná o škrty víc než miliardu korun.",
       "type": "paraphrase",
       "speaker": "Martin Baxa",
       "affiliation": "ODS",
       "timestamp": "1/06:32",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_highlight_01.jpg",
-      "context": "Výše rozpočtových škrtů v kultuře je předmětem politické interpretace, neboť závisí na srovnání konkrétních kapitol a investičních výdajů v čase. Tvrzení o „největším útoku od roku 1989“ je subjektivní rétorické vyjádření, které nelze objektivně kvantifikovat."
+      "screenshot_path": "summaries/screenshots/event_2779_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Výrok je vnitřně rozporný, neboť Martin Baxa je ministrem kultury ve vládě Petra Fialy, tudíž kritika „vlády Petra Fialy“ z jeho strany nedává v kontextu vládní koalice smysl."
     },
     {
-      "text": "Bezpečnostní informační služba přišla oproti návrhu naší vlády o 300 milionů korun, což přímo ohrožuje naši schopnost využívat moderní technologie a AI k prevenci terorismu.",
+      "text": "Bezpečnostní informační služba oproti návrhu naší vlády přišla o 300 milionů, NÚKIB o 43 milionů a Národní bezpečnostní úřad o 36 milionů.",
       "type": "citation",
       "speaker": "Pavel Žáček",
       "affiliation": "ODS",
-      "timestamp": "1/12:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_highlight_02.jpg",
-      "context": "Návrhy rozpočtů zpravodajských služeb jsou součástí neveřejných částí rozpočtové kapitoly Úřadu vlády. Nelze nezávisle ověřit přesnou výši krácení ani přímý dopad na konkrétní technologie bez přístupu k utajovaným přílohám rozpočtu."
+      "timestamp": "1/12:02",
+      "screenshot_path": "summaries/screenshots/event_2779_highlight_02.jpg",
+      "context": "Údaje o škrtech v rozpočtech bezpečnostních složek lze ověřit v přílohách návrhu zákona o státním rozpočtu předloženého Ministerstvem financí. Konkrétní částky odpovídají rozdílům mezi původními rozpočtovými výhledy a finálním návrhem pro daný rok."
     }
   ],
   "controversial": [
     {
-      "statement": "**Změna mediální legislativy a zrušení koncesionářských poplatků**\n- **Kdo:** Martin Baxa (ODS)\n- **Co:** Kritika záměru vládní koalice zrušit koncesionářské poplatky a provést „orbánovsko-slovenskou revizi“ médií.\n- **Proč:** Jde o politicky citlivé téma, které přímo ovlivňuje nezávislost veřejnoprávních médií a jejich financování; opozice to vnímá jako přímý útok na demokracii.",
-      "speaker": "Martin Baxa",
+      "statement": "**Martin Kupka (ODS)** obvinil vládu z přípravy „zestátnění“ médií a jejich „vyhladovění“ po vzoru Maďarska a Slovenska. Je to kontroverzní, protože jde o silné politické obvinění z podkopávání demokratických institucí.",
+      "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/08:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_controversy_00.jpg",
-      "context": "Debata o financování veřejnoprávních médií je dlouhodobým politickým tématem. Srovnání s maďarským či slovenským modelem je politickou analogií, nikoliv popisem legislativního stavu v ČR, kde koncesionářské poplatky zůstávají v platnosti."
+      "timestamp": "1/02:01",
+      "screenshot_path": "summaries/screenshots/event_2779_controversy_00.jpg",
+      "context": "Jde o politickou interpretaci záměrů vlády. V českém právním řádu neexistuje žádný legislativní návrh na „zestátnění“ soukromých médií; tvrzení o „vyhladovění“ je metaforou pro změny v dotační politice či financování veřejnoprávních médií."
     },
     {
-      "statement": "**Bezpečnostní selhání a krácení rozpočtů BIS**\n- **Kdo:** Pavel Žáček (ODS)\n- **Co:** Obvinění premiéra Babiše, že zanedbává bezpečnost státu a krácením rozpočtů BIS (o 300 mil. Kč) ohrožuje schopnost země čelit terorismu.\n- **Proč:** Přímé zpochybnění schopnosti premiéra zajistit bezpečnost občanů v době krize.",
+      "statement": "**Pavel Žáček (ODS)** obvinil premiéra Babiše, že po útoku v Pardubicích odváděl pozornost útokem na obranný průmysl a zanedbává bezpečnostní složky. Je to politicky citlivé téma zneužití bezpečnostního incidentu k politickému boji.",
       "speaker": "Pavel Žáček",
       "affiliation": "ODS",
-      "timestamp": "1/12:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2779_controversy_01.jpg",
-      "context": "Rozpočtové kapitoly BIS jsou schvalovány v rámci zákona o státním rozpočtu. Tvrzení o ohrožení bezpečnosti státu je politickým hodnocením priorit vlády, nikoliv ověřitelným technickým faktem o schopnosti BIS plnit své úkoly."
+      "timestamp": "1/10:01",
+      "screenshot_path": "summaries/screenshots/event_2779_controversy_01.jpg",
+      "context": "Toto tvrzení je politickým hodnocením rétoriky premiéra. Zda byla reakce na bezpečnostní incident zneužita k politickému boji, je subjektivní názor, který nelze fakticky verifikovat, neboť závisí na interpretaci motivů aktérů."
     }
   ],
   "quality": {

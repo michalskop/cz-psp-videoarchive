@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:45:42",
+  "created_at": "2026-05-29T14:26:21",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2804",
@@ -19,15 +19,14 @@
     "model": "large-v3"
   },
   "summary": {
-    "topic": "Tisková konference Pirátů se zaměřila na kritiku vládní novely stavebního zákona, kterou představitelé strany označují za chaotickou a nedostatečnou pro řešení krize dostupnosti bydlení. Cílem vystoupení bylo upozornit na absenci komplexního pozměňovacího návrhu, rizika spojená s úbytkem odborníků na stavebních úřadech a obavy z korupčního potenciálu při změnách v územním plánování.\n\nKromě stavební legislativy se zástupci Pirátů vyjádřili také k aktuální energetické situaci a cenám pohonných hmot, kde navrhují konkrétní ekonomická opatření pro pomoc občanům a posílení energetické bezpečnosti státu.",
+    "topic": "Tisková konference byla svolána za účelem vyjádření kritického postoje Pirátské strany k aktuální podobě novely stavebního zákona, která je projednávána v Poslanecké sněmovně. Piráti označují vládní postup za chaotický a varují před negativními dopady na dostupnost bydlení, kvalitu územního plánování a stabilitu státní správy.\n\nCílem vystoupení bylo upozornit na absenci komplexního pozměňovacího návrhu, kritizovat snižování odborných nároků na úředníky a varovat před riziky spojenými s novou definicí veřejného zájmu, která by podle Pirátů mohla vést k neoprávněnému vyvlastňování ve prospěch soukromých developerů.",
     "main_points": [
-      "**Zdeněk Hřib (předseda Pirátů)** – Kritizuje „babišovský chaos“ v legislativním procesu, kdy koalice opakovaně odkládá předložení komplexního pozměňovacího návrhu. Varuje před odlivem odborníků ze stavebních úřadů a snižováním kvalifikačních nároků.",
-      "**Veronika Kovářová (poslankyně)** – Zaměřila se na územní plánování. Upozornila, že novela bere obcím odbornou oporu a stát přestává sbírat klíčová data. Kritizuje možnost udělování výjimek z územního plánu „za zavřenými dveřmi“, což vytváří prostor pro korupci.",
-      "**Ivan Bartoš (místopředseda klubu)** – Zdůraznil potřebu zákona o podpoře bydlení a systémového řešení. Varuje před překroucením definice „veřejného zájmu“ v novele, která by mohla umožnit vyvlastňování pozemků ve prospěch soukromých developerských projektů.",
-      "**Energetická opatření** – Piráti navrhují snížení DPH na potraviny (z 12 % na 6 %) a vrácení nadvýběru DPH z pohonných hmot občanům."
+      "**Zdeněk Hřib (předseda Pirátů)** — Kritizoval vládní „babišovský chaos“ a opakované odkládání předložení komplexního pozměňovacího návrhu k novele stavebního zákona. Varoval před odlivem odborníků ze stavebních úřadů a odmítl snížení nároků na jejich odbornost.",
+      "**Veronika Kovářová (poslankyně Pirátů)** — Zdůraznila význam územního plánování, kritizovala rušení odborné opory pro obce a varovala před korupčním potenciálem výjimek z územního plánu. Navrhla koncept „akceleračních zón“.",
+      "**Ivan Bartoš (místopředseda klubu Pirátů)** — Prosazuje zákon o podpoře bydlení. Kritizoval překroucení definice veřejného zájmu, která nyní zahrnuje i podnikání, a varoval před předkupním právem pro velké developery."
     ],
-    "outcome": "Piráti vyzvali vládu ke stažení stávající novely stavebního zákona, jejímu kompletnímu přepracování a zahájení standardního připomínkovacího procesu. Konsenzem strany je, že současná podoba zákona slouží spíše velkým developerům než občanům a neřeší krizi bydlení.",
-    "notes": null
+    "outcome": "Jednání nebylo formálním hlasováním, ale politickým prohlášením. Piráti se shodli na odmítavém postoji k aktuálnímu znění novely stavebního zákona a vyzvali vládu k jejímu stažení a přepracování. V závěru konference představili také manifest energetické bezpečnosti.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Zdeňek Hřib“ místo „Zdeněk Hřib“) a občasné syntaktické nesrovnalosti způsobené automatickým přepisem."
   },
   "entities": {
     "speakers": [
@@ -56,41 +55,41 @@
   },
   "highlights": [
     {
-      "text": "Pokud veřejný zájem zredukujeme tak, jak koalice navrhuje, tedy jen na čísla, nebo dokonce prohlásíme, že veřejný zájem je třeba i podnikání, otevíráme tím velmi nebezpečné dveře k vyvlastňování.",
-      "type": "paraphrase",
+      "text": "Pokud veřejný zájem zredukujeme tak, jak koalice navrhuje, tedy jen na čísla, nebo dokonce prohlásíme, že veřejný zájem je třeba i podnikání, otevíráme tím velmi nebezpečné dveře.",
+      "type": "citation",
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
       "timestamp": "1/07:32",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_highlight_00.jpg",
-      "context": "Definice veřejného zájmu v legislativě je předmětem právní interpretace; rozšíření tohoto pojmu na soukromé podnikatelské záměry je dlouhodobým bodem kritiky opozice i některých právních expertů. Ústavní soud ČR opakovaně judikoval, že vyvlastnění musí být vždy v souladu s ústavním pořádkem a sloužit výhradně veřejnému účelu, nikoliv pouze soukromému zisku."
+      "screenshot_path": "summaries/screenshots/event_2804_highlight_00.jpg",
+      "context": "Výrok se týká interpretace pojmu 'veřejný zájem' v rámci legislativního procesu (např. stavební zákon). Zda je podnikatelský záměr v souladu s veřejným zájmem, je předmětem právní a politické debaty, nikoliv exaktně měřitelný fakt."
     },
     {
       "text": "Majitel pozemku si může domluvit výjimku z územního plánu za zavřenými dveřmi Rady města, tam vidíme obrovský korupční potenciál.",
-      "type": "paraphrase",
+      "type": "citation",
       "speaker": "Veronika Kovářová",
       "affiliation": "Piráti",
       "timestamp": "1/05:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_highlight_01.jpg",
-      "context": "Změny územních plánů jsou v kompetenci zastupitelstev obcí a měst, přičemž proces podléhá zákonu č. 183/2006 Sb. (stavební zákon). Riziko korupčního jednání při individuálních změnách územního plánu je dlouhodobě identifikováno jako systémové riziko v protikorupčních strategiích (např. dle analýz Transparency International)."
+      "screenshot_path": "summaries/screenshots/event_2804_highlight_01.jpg",
+      "context": "Možnost individuálních změn územního plánu (tzv. změny na míru) je dlouhodobě kritizována protikorupčními organizacemi (např. Transparency International) jako riziková oblast. Fakticky jde o procesní nastavení samospráv, které může být zneužito, pokud není dostatečně transparentní."
     },
     {
       "text": "Vláda by měla snížit DPH na potraviny z 12 na 6 % a vrátit lidem nadvýběr DPH z drahých pohonných hmot.",
       "type": "paraphrase",
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
-      "timestamp": "1/09:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_highlight_02.jpg",
-      "context": "Sazby DPH jsou v ČR stanoveny zákonem č. 235/2004 Sb. Návrh na snížení DPH na potraviny je politickým požadavkem; ekonomické dopady takového kroku na státní rozpočet jsou předmětem sporů mezi zastánci podpory spotřeby a odpůrci kvůli výpadku příjmů. Pojem „nadvýběr DPH“ je interpretací příjmů státního rozpočtu v kontextu inflace a cenové hladiny."
+      "timestamp": "1/08:00",
+      "screenshot_path": "summaries/screenshots/event_2804_highlight_02.jpg",
+      "context": "Sazby DPH jsou stanoveny zákonem č. 235/2004 Sb. Návrh na snížení DPH je legitimní politický požadavek, nikoliv faktické tvrzení. Pojem 'nadvýběr DPH' je ekonomický konstrukt závislý na predikcích MF ČR a vývoji inflace, nelze jej tedy objektivně vyčíslit jako fixní částku k vrácení."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Ivan Bartoš (Piráti)\n**Co:** Upozornil, že vládní koalice v novele definuje „veřejný zájem“ tak široce, že zahrnuje i podnikání, což by mohlo umožnit vyvlastňování pozemků pro soukromé projekty.\n**Proč:** Jde o citlivé téma zásahu do vlastnických práv občanů ve prospěch soukromých developerů.\n**Čas:** 1/07:00",
+      "statement": "**Kdo:** Ivan Bartoš (Piráti)\n**Co:** Uvedl, že vládní koalice v novele překrucuje definici veřejného zájmu tak, že zahrnuje i podnikání, což umožňuje vyvlastňování pozemků.\n**Proč:** Je to politicky citlivé, protože to přímo napadá integritu vládního návrhu a obviňuje koalici z upřednostňování zájmů velkých developerů před zájmy občanů a rodin.\n**Čas:** 1/06:02",
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
-      "timestamp": "1/07:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2804_controversy_00.jpg",
-      "context": "Tvrzení se vztahuje k projednávané novele stavebního zákona a souvisejícím předpisům. Zda definice v konkrétním návrhu skutečně umožňuje vyvlastnění pro soukromé projekty, je předmětem právního výkladu textu zákona a jeho souladu s Listinou základních práv a svobod."
+      "timestamp": "1/06:02",
+      "screenshot_path": "summaries/screenshots/event_2804_controversy_00.jpg",
+      "context": "Tvrzení o 'překrucování definice' je politickou interpretací legislativního návrhu. Zda konkrétní znění novely umožňuje vyvlastnění ve prospěch soukromého podnikání, závisí na právním výkladu ustanovení o veřejném zájmu v zákoně č. 184/2006 Sb. (o odnětí nebo omezení vlastnického práva)."
     }
   ],
   "quality": {

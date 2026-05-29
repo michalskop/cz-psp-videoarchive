@@ -1,21 +1,23 @@
-# PSP Video Archive
+# Sněmovna Digest
 
 AI-structured summaries of Czech Parliament (Poslanecká sněmovna) events.
 Transcribed from official PSP recordings. Summaries in Czech.
 
+Site: https://snemovna.datatimes.cz/digest
+
 ## Data
 
-- [Event index](/videoarchiv/api/events.json): all events — id, name, date, category, summary status
-- [Speaker index](/videoarchiv/api/speakers.json): all speakers — name, person_id (psp:person:NNN), event count
-- [Event summary](/videoarchiv/summaries/[id].json): full summary for one event — topic, main points, highlights, controversies, entities
-- [JSON schema](/videoarchiv/summary.schema.json): schema v2 for all summary files
-- [Skill description](/videoarchiv/SKILL.md): full capability and data format reference for agents
+- [Event index](/digest/api/events.json): all events — id, name, date, category, summary status
+- [Speaker index](/digest/api/speakers.json): all speakers — name, person_id (psp:person:NNN), event count
+- [Event summary](/digest/summaries/[id].json): full summary for one event — topic, main points, highlights, controversies, entities
+- [JSON schema](/digest/summary.schema.json): schema v2 for all summary files
+- [Skill description](/digest/SKILL.md): full capability and data format reference for agents
 
 ## Key pages
 
-- [/videoarchiv/events](/videoarchiv/events): browse and filter all events by category and date
-- [/videoarchiv/events/[id]](/videoarchiv/events/2866): full summary detail — topic, speakers, highlights with screenshots, controversies with fact-check context
-- [/videoarchiv/speakers](/videoarchiv/speakers): speaker index with event counts and Popolo person IDs
+- [/digest/events](/digest/events): browse and filter all events by category and month
+- [/digest/events/[id]](/digest/events/2866): full summary detail — topic, speakers, highlights with screenshots, controversies with fact-check context
+- [/digest/speakers](/digest/speakers): speaker index with event counts and Popolo person IDs
 
 ## Event categories
 

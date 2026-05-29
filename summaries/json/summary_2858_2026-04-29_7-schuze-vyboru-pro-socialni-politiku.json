@@ -1,0 +1,118 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:50:19",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2858",
+    "name": "7. schůze Výboru pro sociální politiku",
+    "classification": "Jednání výborů",
+    "start_date": "2026-04-29T13:02",
+    "end_date": "2026-04-29T14:02",
+    "sources": [
+      "final/event_2858_2026-04-29_7-schuze-vyboru-pro-socialni-politiku.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 10,
+    "parts_total": 10,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Účelem jednání bylo projednání dvou klíčových poslaneckých návrhů zákonů (sněmovní tisky 125 a 124), které se týkají odkladu digitalizace a převodu agendy sociálních dávek z Úřadu práce ČR na Českou správu sociálního zabezpečení (ČSSZ). Cílem je předejít kolapsu systémů a zajistit stabilitu výplaty dávek v kontextu kumulace nových legislativních úkolů.\n\nJednání se rovněž věnovalo organizačním záležitostem výboru, včetně plánování výjezdních zasedání a přípravy programu na 8. schůzi.",
+    "main_points": [
+      "**Jana Pastuchová (ANO)**: Předkladatelka návrhů, zdůraznila nutnost odkladu převodu kompetencí na 1. června 2028 kvůli riziku nefunkčnosti systémů.",
+      "**Marek Novák (ANO)**: Zpravodaj, informoval o procesním postupu a zkrácení lhůt pro projednání.",
+      "**Marian Jurečka (KDU-ČSL)**: Předložil pozměňovací návrhy k tisku 125 (příspěvek na mobilitu a péči), které však nebyly přijaty.",
+      "**Karel Trpkoš (MPSV)**: Odborně zdůvodnil, že kumulace nových dávek a transpozice evropského průkazu znemožňují stihnout původní termíny.",
+      "**Zdeňka Blišťanová (STAN)**: Dotazovala se na důvody pozdního předložení tisků."
+    ],
+    "outcome": "Výbor doporučil ke schválení sněmovní tisky 125 a 124. Pozměňovací návrhy Mariana Jurečky k tisku 125 byly zamítnuty. Výbor se příště sejde 12. května 2026.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova, která však nebránila pochopení věcné podstaty diskuse."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jana Pastuchová",
+        "person_id": "psp:person:6225",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Marek Novák",
+        "person_id": "psp:person:6533",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Karel Trpkoš",
+        "person_id": null,
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "Zdeňka Blišťanová",
+        "person_id": "psp:person:6992",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "KDU-ČSL",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Výbor pro sociální politiku",
+      "MPSV",
+      "Úřad práce ČR",
+      "ČSSZ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Bez posunu účinnosti by hrozilo riziko nefunkčnosti informačních systémů, prodloužení řízení a ohrožení výplaty dávek pro osoby se zdravotním postižením.",
+      "type": "paraphrase",
+      "speaker": "Jana Pastuchová",
+      "affiliation": "ANO",
+      "timestamp": "1/06:12",
+      "screenshot_path": "summaries/screenshots/event_2858_highlight_00.jpg",
+      "context": "Jde o argumentaci k odkladu účinnosti zákona o dávkách pomoci v hmotné nouzi. Rizika spojená s IT systémy MPSV jsou dlouhodobě diskutovaným tématem, přičemž technická připravenost systémů je klíčová pro včasnou výplatu dávek dle zákona č. 111/2006 Sb."
+    },
+    {
+      "text": "Zavedení superdávky v nejkratším čase skončí na konci roku 2026; kdybychom pustili další agendu, měli bychom rozkolísané instituce.",
+      "type": "paraphrase",
+      "speaker": "Karel Trpkoš",
+      "affiliation": "MPSV",
+      "timestamp": "6/01:03",
+      "screenshot_path": "summaries/screenshots/event_2858_highlight_01.jpg",
+      "context": "Tvrzení o harmonogramu implementace „superdávky“ (sloučení čtyř dávek do jedné) vychází z vládní strategie digitalizace sociálních agend. Zda by další agenda vedla k rozkolísání institucí, je subjektivní odhad kapacity úřadů, nikoliv objektivně měřitelný fakt."
+    },
+    {
+      "text": "Každý člověk, který zůstane doma a nestoupne si do fronty na pobytové zařízení, šetří státní rozpočet a veřejné finance.",
+      "type": "paraphrase",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "8/04:58",
+      "screenshot_path": "summaries/screenshots/event_2858_highlight_02.jpg",
+      "context": "Z ekonomického hlediska je péče v domácím prostředí zpravidla méně nákladná pro veřejné rozpočty než pobytové sociální služby. Úspora je však závislá na konkrétní míře závislosti klienta a rozsahu poskytované terénní či ambulantní podpory."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Spor o „politické veto“ při projednávání tisků. Jana Pastuchová (ANO) označila veto za politicky motivované „něco za něco“, zatímco opoziční poslanci zdůraznili, že jde o legitimní využití jednacího řádu.",
+      "speaker": "Jana Pastuchová",
+      "affiliation": "ANO",
+      "timestamp": "7/01:41",
+      "screenshot_path": "summaries/screenshots/event_2858_controversy_00.jpg",
+      "context": "Využití veta či jiných obstrukčních nástrojů je legitimní součástí parlamentního procesu dle Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Zda je konkrétní veto „politicky motivované“ nebo „legitimní“, je věcí politického názoru, nikoliv faktického ověření."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

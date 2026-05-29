@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:55:25",
+  "created_at": "2026-05-29T14:36:15",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2824",
@@ -19,13 +19,13 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem představení vládního návrhu zákona o médiích veřejné služby a změně souvisejících zákonů. Hlavním cílem koalice je zrušení koncesionářských poplatků a přechod na financování České televize (ČT) a Českého rozhlasu (ČRo) přímo ze státního rozpočtu.\n\nVládní koalice argumentuje potřebou modernizace systému, odstraněním administrativní zátěže pro občany a firmy a naplněním předvolebních slibů. Návrh klade důraz na nezávislost médií, zachování stávajícího systému rad a managementu a zavedení kontroly hospodaření ze strany Nejvyššího kontrolního úřadu (NKÚ).",
+    "topic": "Tisková konference byla svolána za účelem představení vládního návrhu zákona o médiích veřejné služby a souvisejících legislativních změn. Hlavním cílem koalice je reforma financování České televize (ČT) a Českého rozhlasu (ČRo), konkrétně zrušení koncesionářských poplatků a jejich nahrazení přímým příspěvkem ze státního rozpočtu.\n\nVládní koalice argumentuje potřebou modernizace systému, odstraněním administrativní zátěže pro občany a firmy a zajištěním stability financování prostřednictvím zákonné valorizace. Zároveň byl avizován poslanecký návrh, který má zajistit úlevy pro nejzranitelnější skupiny obyvatel ještě před nabytím účinnosti hlavní novely.",
     "main_points": [
-      "**Oto Klempíř (ministr kultury)** — Představil parametry novely: zrušení poplatků, žádné slučování ČT a ČRo, zachování stávajících rad. Definoval priority veřejné služby (zpravodajství, vzdělávání, zábava). Financování: ČT (5,74 mld. Kč), ČRo (2,06 mld. Kč) ročně s valorizací o inflaci. Účinnost od 1. ledna 2027.",
-      "**Patrik Nacher (poslanec)** — Potvrdil přípravu „rychlého“ poslaneckého návrhu pro osvobození nejzranitelnějších od poplatků. Argumentoval, že kritika médií je legitimní a neznamená snahu o jejich ovládnutí.",
-      "**Vládní koalice** — Zdůraznila, že stávající rady a vedení institucí přecházejí pod nový zákon automaticky. Odmítla obavy z politického vlivu s odkazem na evropské trendy a potvrdila připravenost k parlamentním obstrukcím."
+      "**Oto Klempíř (ministr kultury)** — Představil parametry novely: zrušení poplatků, zachování samostatnosti ČT a ČRo, zachování stávajícího modelu rad a managementu. Financování bude probíhat formou přímého příspěvku ze státního rozpočtu (ČT: 5,74 mld. Kč, ČRo: 2,06 mld. Kč). Zavedení každoroční valorizace o inflaci (max. 5 %). Definice priorit veřejné služby: 1. zpravodajství/publicistika, 2. vzdělávání/kultura, 3. zábava. Účinnost zákona plánována od 1. ledna 2027.",
+      "**Patrik Nacher (poslanec)** — Potvrdil přípravu poslaneckého návrhu („malá novela“), který má rychleji osvobodit zranitelné skupiny od poplatků. Zdůraznil, že koalice plní volební sliby a že poslanecký návrh bude nahrán do systému do konce týdne. Argumentoval, že kritika médií je legitimní a neznamená ohrožení jejich nezávislosti.",
+      "**Neidentifikovaný řečník (vládní koalice)** — Upozornil, že v EU je trendem rušení poplatků (v 17 z 27 zemí neexistují). Odmítl obavy z politického ovládnutí médií s tím, že zákon výslovně zakazuje zásahy státu do programové činnosti."
     ],
-    "outcome": "Vládní koalice představila vládní návrh mediální novely a avizovala souběžný poslanecký návrh pro rychlejší úlevu občanům. Nebylo dosaženo žádné dohody s opozicí, naopak se očekává ostrý střet v Poslanecké sněmovně. Koalice trvá na termínu účinnosti velké novely od 1. ledna 2027.",
+    "outcome": "Vládní koalice trvá na předložení a prosazení vládní novely s účinností od 1. ledna 2027. Souběžně bude předložen poslanecký návrh pro rychlejší úlevu občanům. Koalice je připravena na obstrukce ze strany opozice, ale hodlá využít parlamentní nástroje k prosazení svých priorit. Managementy médií budou přizvány k jednání v rámci meziresortního připomínkového řízení.",
     "notes": null
   },
   "entities": {
@@ -51,6 +51,11 @@
         "affiliation": "Český rozhlas"
       },
       {
+        "name": "Kristýna Jelínková",
+        "person_id": "psp:person:6156",
+        "affiliation": "Respekt"
+      },
+      {
         "name": "Radek Bartoníček",
         "person_id": null,
         "affiliation": "Aktuálně.cz"
@@ -62,28 +67,19 @@
     "institutions": [
       "Česká televize",
       "Český rozhlas",
-      "Poslanecká sněmovna",
-      "NKÚ"
+      "NKÚ",
+      "Poslanecká sněmovna"
     ]
   },
   "highlights": [
     {
-      "text": "Zákon výslovně garantuje, že do programové činnosti Českého rozhlasu a České televize nesmí zasahovat žádný státní orgán, ani politický subjekt.",
-      "type": "citation",
-      "speaker": "Oto Klempíř",
-      "affiliation": "ministr kultury",
-      "timestamp": "1/01:39",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_highlight_00.jpg",
-      "context": "Tvrzení odpovídá zákonům č. 483/1991 Sb. (o České televizi) a č. 484/1991 Sb. (o Českém rozhlasu), které stanovují povinnost subjektů poskytovat objektivní a vyvážené informace a zakazují státním orgánům zasahovat do jejich činnosti."
-    },
-    {
       "text": "Náš návrh ruší zastaralý systém televizních a rozhlasových poplatků a zavádí nový model financování prostřednictvím přímého příspěvku ze státního rozpočtu.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Oto Klempíř",
       "affiliation": "ministr kultury",
       "timestamp": "1/04:46",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_highlight_01.jpg",
-      "context": "Aktuální legislativní návrh (tzv. velká mediální novela) nezavádí financování přímo ze státního rozpočtu, ale rozšiřuje definici poplatníka o domácnosti s chytrým telefonem či počítačem a navyšuje výši poplatků. Přímé financování ze státního rozpočtu by bylo v rozporu s dosavadním modelem nezávislého financování."
+      "screenshot_path": "summaries/screenshots/event_2824_highlight_00.jpg",
+      "context": "Aktuální vládní návrh novely zákona o České televizi a Českém rozhlasu (sněmovní tisk č. 760) nezavádí financování přímo ze státního rozpočtu, ale rozšiřuje definici poplatníka na každého, kdo má zařízení schopné příjmu, a zvyšuje výši poplatků. Tvrzení o přímém financování ze státního rozpočtu je v kontextu aktuálního legislativního procesu věcně nesprávné."
     },
     {
       "text": "My plníme sliby, které jsme dávali voličům před volbami. Chceme od koncesionářských poplatků osvobodit ty nejzranitelnější skupiny.",
@@ -91,18 +87,27 @@
       "speaker": "Patrik Nacher",
       "affiliation": "poslanec",
       "timestamp": "1/11:49",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_highlight_02.jpg",
-      "context": "Osvobození zranitelných skupin od poplatků (např. osoby s nízkými příjmy či zdravotním postižením) je součástí stávajícího zákona o rozhlasových a televizních poplatcích. Návrh novely tyto výjimky zachovává a dále specifikuje."
+      "screenshot_path": "summaries/screenshots/event_2824_highlight_01.jpg",
+      "context": "Vládní návrh skutečně obsahuje osvobození od poplatků pro některé skupiny (např. domácnosti s příjmem pod hranicí životního minima). Zda jde o naplnění předvolebních slibů, je politická interpretace, neboť programové prohlášení vlády se k přímému osvobození od poplatků v této konkrétní podobě explicitně nevyjadřovalo."
+    },
+    {
+      "text": "Z 27 zemí EU je systém poplatků jen v 10, to znamená, že my patříme k té menšině zemí, která má systém poplatků.",
+      "type": "citation",
+      "speaker": null,
+      "affiliation": "vládní koalice",
+      "timestamp": "1/29:59",
+      "screenshot_path": "summaries/screenshots/event_2824_highlight_02.jpg",
+      "context": "Podle analýz Evropské vysílací unie (EBU) využívá systém koncesionářských poplatků přibližně polovina zemí EU, zatímco druhá polovina volí přímé financování ze státního rozpočtu nebo kombinované modely. Číslo 10 z 27 je zavádějící, neboť se liší podle metodiky započítávání různých forem financování veřejnoprávních médií."
     }
   ],
   "controversial": [
     {
-      "statement": "Redaktor Radek Bartoníček (Aktuálně.cz) zpochybnil upřímnost koalice v otázce nezávislosti médií vzhledem k jejich časté kritice vůči ČT a ČRo. Vládní představitelé (zejména Patrik Nacher a Oto Klempíř) reagovali odmítavě s tím, že kritika je legitimní součástí demokratické diskuse a její zpochybňování je nebezpečným filozofickým konceptem.",
+      "statement": "Redaktor Radek Bartoníček zpochybnil záruky nezávislosti médií, pokud je kritizují politici, kteří se sami vyhýbají médiím. Koalice to označila za „nebezpečnou filozofickou myšlenku“, která by mohla vést k diskreditaci novinářů.",
       "speaker": "Radek Bartoníček",
       "affiliation": "Aktuálně.cz",
-      "timestamp": "1/27:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2824_controversy_00.jpg",
-      "context": "Otázka nezávislosti médií veřejné služby je předmětem politického sporu. Právo na kritiku médií je součástí svobody projevu (čl. 17 Listiny základních práv a svobod), nicméně hranice mezi legitimní kritikou a politickým tlakem na média veřejné služby není právně definována a zůstává předmětem politické debaty."
+      "timestamp": "1/26:03",
+      "screenshot_path": "summaries/screenshots/event_2824_controversy_00.jpg",
+      "context": "Jde o interpretaci politické debaty o vztahu mezi politiky a novináři. Označení za „nebezpečnou filozofickou myšlenku“ je subjektivním politickým hodnocením koalice, které nelze fakticky ověřit jako pravdivé či nepravdivé, neboť se jedná o názorový střet o roli médií v demokracii."
     }
   ],
   "quality": {

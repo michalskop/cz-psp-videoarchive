@@ -43,7 +43,7 @@ export default async function OgImage({ params }: Props) {
   const s = getSummaryById(id);
   const [boldFont, regularFont] = await Promise.all([robotoSlabBold, robotoSlabRegular]);
 
-  const title = s?.event.name ?? "PSP Video Archive";
+  const title = s?.event.name ?? "Sněmovna Digest";
   const topic  = s?.summary.topic.split("\n")[0].slice(0, 160) ?? "";
   const date   = s ? (() => {
     const d = new Date(s.event.start_date);
@@ -86,7 +86,7 @@ export default async function OgImage({ params }: Props) {
               <span style={{ color: NAVY9, fontWeight: 700, fontSize: 20 }}>DataTimes</span>
               <span style={{ color: YELLOW7, fontWeight: 700, fontSize: 20 }}>.</span>
               <span style={{ color: NAVY9, fontWeight: 700, fontSize: 20 }}>cz</span>
-              <span style={{ color: NAVY6, fontWeight: 700, fontSize: 20 }}>/videoarchiv</span>
+              <span style={{ color: NAVY6, fontWeight: 700, fontSize: 20 }}>/digest</span>
             </div>
             <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
               {date && (

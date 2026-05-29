@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:54:19",
+  "created_at": "2026-05-29T14:34:56",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2827",
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu ODS se konala dne 16. dubna 2026 před mimořádným jednáním Poslanecké sněmovny. Cílem konference bylo představit hlavní důvody, které vedly opoziční strany ke svolání této schůze, a kriticky zhodnotit aktuální kroky vlády Andreje Babiše.\n\nPředstavitelé ODS se ostře vymezili proti vládní politice v oblastech ekonomiky, bezpečnosti, nezávislosti médií a střetu zájmů premiéra. Opozice vládě vyčítá chaos, nečinnost při řešení inflace a cen energií, ohrožování nezávislosti České televize a Českého rozhlasu a nejasnou zahraničně-politickou orientaci, která podle nich poškozuje důvěryhodnost České republiky u spojenců v NATO.",
+    "topic": "Tisková konference byla svolána před mimořádnou schůzí Poslanecké sněmovny, kterou iniciovaly opoziční strany. Cílem bylo představit hlavní body, které opozice hodlá na schůzi prosazovat a konfrontovat s nimi vládu Andreje Babiše.\n\nHlavními tématy jsou dopady ekonomické krize na občany, ohrožení nezávislosti veřejnoprávních médií, bezpečnostní chaos v zahraniční politice vlády a rizika spojená se střetem zájmů premiéra Andreje Babiše. ODS kritizuje vládu za nečinnost, diletantství a nejasné směřování České republiky v rámci mezinárodních struktur.",
     "main_points": [
-      "**Martin Kupka (ODS)** — Kritizoval vládu za „ospalé“ chování a pomalou reakci na krizi. Představil „nárazník proti krizi“ (7 bodů). Varoval před destabilizací veřejnoprávních médií a kritizoval bezpečnostní chaos vlády.",
-      "**Petr Sokol (ODS)** — Upozornil na kritickou bezpečnostní situaci. Kritizoval snížení výdajů na obranu o 21 miliard korun a nevhodné personální obsazení delegace na summit NATO.",
-      "**Eva Decroix (ODS)** — Zaměřila se na právní stát a střet zájmů premiéra. Vyzvala k zveřejnění dokumentu o vyřešení střetu zájmů. Varovala před rizikem ztráty evropských dotací a zneužíváním legislativní nouze."
+      "**Martin Kupka (ODS)** — Kritizoval vládu za „ospalé“ chování a pomalou reakci na zdražování energií a potravin. Představil „nárazník proti krizi“ – sedm konkrétních bodů pro pomoc domácnostem a firmám. Varoval před snahou vlády destabilizovat Českou televizi a Český rozhlas změnou financování. Odsoudil nejednotnou zahraniční politiku vlády a proruské hlasy v jejím okolí.",
+      "**Petr Sokol (ODS)** — Upozornil na nejhorší bezpečnostní situaci v historii ČR. Kritizoval vládu za snížení výdajů na obranu o 21 miliard korun a škrty v rozpočtech BIS a NÚKIB. Označil vládní politiku za směs populismu a diletantství.",
+      "**Eva Decroix (ODS)** — Zaměřila se na právní stát a střet zájmů premiéra Babiše. Vyzvala premiéra ke zveřejnění dokumentu (statutu), který má prokazovat vyřešení jeho střetu zájmů. Varovala před rizikem ztráty evropských dotací kvůli střetu zájmů a kritizovala zneužívání legislativní nouze."
     ],
-    "outcome": "Jednání nebylo zakončeno formálním hlasováním, neboť šlo o tiskovou konferenci před zahájením schůze. Dominujícím postojem ODS je požadavek na přímou odpovědnost vlády před občany a Poslaneckou sněmovnou. Opozice hodlá na mimořádné schůzi konfrontovat vládu s konkrétními otázkami ohledně bezpečnosti, střetu zájmů a ekonomických opatření.",
-    "notes": null
+    "outcome": "Nebyl přijat žádný formální závěr, neboť šlo o tiskovou konferenci opozice. Konsenzem řečníků je požadavek, aby vláda přestala s „chaotickou politikou“, začala transparentně řešit střet zájmů premiéra a jasně se přihlásila k proevropskému směřování a závazkům vůči NATO.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování slov, které však nebrání porozumění obsahu. Části přepisu týkající se konkrétních jmen (např. „Leonardo v Bratislavě“) jsou metaforické narážky na politické představitele."
   },
   "entities": {
     "speakers": [
@@ -53,46 +53,48 @@
       "Poslanecká sněmovna",
       "Česká televize",
       "Český rozhlas",
-      "NATO"
+      "NATO",
+      "BIS",
+      "NÚKIB"
     ]
   },
   "highlights": [
     {
-      "text": "Ztratilo se 21 miliard z původního rozpočtu na obranu.",
-      "type": "paraphrase",
+      "text": "Jsme jediná země snad v Evropské unii, která začala snižovat své výdaje na obranu, ztratilo se 21 miliard z původního rozpočtu.",
+      "type": "citation",
       "speaker": "Petr Sokol",
       "affiliation": "ODS",
-      "timestamp": "1/05:16",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2827_highlight_00.jpg",
-      "context": "Tvrzení o „ztrátě“ 21 miliard z rozpočtu na obranu je zavádějící. Obvykle jde o interpretaci přesunů v rámci rozpočtových kapitol nebo nevyčerpaných prostředků v rámci investičních projektů Ministerstva obrany ČR, nikoliv o jejich fyzickou ztrátu či zpronevěru."
+      "timestamp": "1/05:08",
+      "screenshot_path": "summaries/screenshots/event_2827_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. Výdaje na obranu ČR v posledních letech naopak rostou v souladu se zákonem č. 214/2023 Sb., který stanovuje povinnost vynakládat na obranu minimálně 2 % HDP. Údaj o „ztrátě 21 miliard“ pravděpodobně odkazuje na vnitřní rozpočtové přesuny, nikoliv na celkové snížení výdajů pod úroveň předchozích let."
     },
     {
-      "text": "Státní prostředky a náš rozpočet má sloužit občanům, nikoliv jedné nebo dvěma firmám.",
+      "text": "Vyzývám pana premiéra, aby on sám zveřejnil dokument, který právně doloží, že vyřešil střet zájmů.",
       "type": "citation",
       "speaker": "Eva Decroix",
       "affiliation": "ODS",
-      "timestamp": "1/09:35",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2827_highlight_01.jpg",
-      "context": "Jde o politické prohlášení hodnotového charakteru. Nelze nezávisle ověřit, neboť definice toho, komu má rozpočet sloužit, je předmětem politické debaty a priorit vlády."
+      "timestamp": "1/11:00",
+      "screenshot_path": "summaries/screenshots/event_2827_highlight_01.jpg",
+      "context": "Střet zájmů bývalého premiéra byl předmětem auditů Evropské komise, které konstatovaly porušení pravidel při čerpání dotací. Právní „vyřešení“ střetu zájmů je subjektivní politický požadavek, neboť neexistuje jeden konkrétní dokument, který by automaticky zrušil zjištění evropských auditorů."
     },
     {
-      "text": "Maďarsko kvůli arogantnímu přístupu bývalého premiéra přišlo o desítky miliard euro a nám může hrozit stejné riziko.",
-      "type": "paraphrase",
+      "text": "Maďarsko kvůli arogantnímu přístupu bývalého premiéra přišlo o desítky miliard euro, nám může hrozit stejné riziko.",
+      "type": "citation",
       "speaker": "Eva Decroix",
       "affiliation": "ODS",
       "timestamp": "1/11:51",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2827_highlight_02.jpg",
-      "context": "Evropská komise skutečně zmrazila Maďarsku desítky miliard eur z fondů EU kvůli obavám o právní stát a korupci. Srovnání s rizikem pro ČR je politickou interpretací, neboť právní a politická situace v ČR a Maďarsku se v otázkách čerpání fondů EU liší."
+      "screenshot_path": "summaries/screenshots/event_2827_highlight_02.jpg",
+      "context": "Maďarsko skutečně čelí pozastavení výplat prostředků z fondů EU kvůli porušování principů právního státu. Zda ČR hrozí identické riziko, je předmětem politické debaty; Evropská komise v případě ČR aktuálně nevede řízení o podmíněnosti, které by vedlo k plošnému zmrazení desítek miliard eur."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Kritika složení delegace na summit NATO (premiér Babiš s ministry Macinkou a Zůnou) a označení postupu vlády za „slabošství“ vůči prezidentovi.\n**Proč:** Jde o politicky citlivou otázku kompetencí v zahraniční politice a jednoty státní reprezentace v době bezpečnostní krize.\n**Čas:** 1/12:02",
+      "statement": "**Kontroverzní návrh: Účast na summitu NATO**\n- **Kdo:** Martin Kupka (ODS)\n- **Co:** Kritika vládního rozhodnutí o složení delegace na summit NATO (premiér Babiš s ministry Macinkou a Zůnou) bez konzultace s prezidentem.\n- **Proč:** Je to politicky citlivé, protože to odhaluje vnitřní rozkol mezi vládou a prezidentem a zpochybňuje jednotnou reprezentaci ČR v zahraničí.\n- **Čas:** 1/12:02",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/12:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2827_controversy_00.jpg",
-      "context": "Složení delegace na summity NATO je v ČR tradičně předmětem politického sporu mezi vládou a prezidentem. Označení postupu za „slabošství“ je subjektivní politické hodnocení, nikoliv fakt, který lze objektivně verifikovat."
+      "screenshot_path": "summaries/screenshots/event_2827_controversy_00.jpg",
+      "context": "Složení delegace na summit NATO je v kompetenci vlády, avšak ústavní zvyklosti předpokládají koordinaci s prezidentem jako vrchním velitelem ozbrojených sil. Spor o reprezentaci ČR v zahraničí je doložitelným politickým tématem, které odráží napětí mezi exekutivou a Hradem v daném období."
     }
   ],
   "quality": {

@@ -1,9 +1,9 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:08:53",
+  "created_at": "2026-05-29T14:53:13",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
-    "id": "2866",
+    "id": "22085",
     "name": "Seminář \"Strategická surovina - české uhlí\"",
     "classification": "Seminář",
     "start_date": "2026-05-04",
@@ -19,19 +19,20 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na kritickou analýzu energetické transformace České republiky se specifickým důrazem na roli uhlí jako strategické suroviny. Cílem akce bylo vrátit debatu o energetice k technickým a ekonomickým faktům, zpochybnit proveditelnost současného rychlého útlumu uhelné energetiky bez adekvátní náhrady a formulovat realistická doporučení pro vládu a parlament.\n\nHlavním motivem byla obava z energetické nesoběstačnosti, vysokých cen energií a rizik spojených s ideologickým přístupem k dekarbonizaci (Green Deal). Účastníci se shodli, že bez zajištění stabilních zdrojů (jádro, plyn) a infrastruktury je současný plán útlumu uhlí rizikový pro ekonomiku i sociální stabilitu regionů.",
+    "topic": "Seminář se konal 4. května 2026 v Poslanecké sněmovně pod záštitou poslance Jindřicha Rajchla. Cílem akce bylo otevřít odbornou diskuzi o roli uhlí v české energetice, a to v kontextu probíhající energetické transformace, energetické bezpečnosti a geopolitických souvislostí.\n\nHlavním motivem byla kritika současného směřování energetické politiky, která je podle řečníků odtržená od technické reality a fyzikálních zákonů. Seminář si kladl za cíl formulovat realistická doporučení pro vládu a parlament, pojmenovat rizika spojená s útlumem uhelné energetiky a zdůraznit potřebu zachování uhlí jako strategické suroviny pro průmysl a teplárenství.",
     "main_points": [
-      "**Jindřich Rajchl (poslanec, garant akce)** – Kritizoval „bruselské ideologie“ a nekritické přejímání cílů EU. Navrhl model prodeje elektřiny za výrobní cenu plus marži a označil uhlí za strategickou surovinu.",
-      "**Roman Čada (moderátor, Právodaspej)** – Upozornil na technickou neproveditelnost transformace bez dostavěných jaderných bloků a akumulace.",
-      "**Martin Čermák (Sokolovská uhelná)** – Popsal realitu těžební společnosti. Uvedl, že uhlí je dost, ale ekonomicky se jeho spalování v elektrárnách nevyplatí kvůli emisním povolenkám.",
-      "**František Hrdlička (ČVUT, Uhelná komise)** – Varoval před energetickým trilematem a rizikem propadu energetické bezpečnosti na úroveň Albánie.",
-      "**Jan Vondráš (Invicta Bohemica)** – Představil analýzu, podle které nám z trhu vypadne až 17–18 TWh kondenzační výroby.",
-      "**René Neděla (MPO)** – Přiznal, že transformace je „rozjetý vlak“, který nelze zastavit, pouze přibrzdit.",
-      "**Vladimír Dědeček (fyzikální chemik)** – Vysvětlil, proč je uhlí jako chemická surovina problematické a varoval před riziky metanu při přechodu na plyn.",
-      "**Ivan Čížek (energetik)** – Zdůraznil, že uhlí je tuzemský stabilní zdroj, který nevyžaduje zálohování."
+      "**Jindřich Rajchl (poslanec)** — Zdůraznil nutnost „uzlevnění“ energií jako klíčového faktoru pro konkurenceschopnost české ekonomiky. Navrhl model státního obchodníka s elektřinou.",
+      "**Roman Čada (moderátor)** — Upozornil na technickou neproveditelnost současného útlumu uhlí bez zajištění stabilních náhradních zdrojů.",
+      "**Martin Čermák (Sokolovská uhelná)** — Varoval před znepřístupněním uhelných zásob v důsledku plánovaných rekultivací a navrhl vznik pracovní skupiny pro plánování konce těžby.",
+      "**František Hrdlička (ČVUT)** — Varoval před energetickým trilematem a rizikem energetické závislosti při odstavování zdrojů.",
+      "**Jan Vondráš (Invicta Bohemica)** — Prezentoval analýzu, podle které jsou náklady na dekarbonizační scénář jedenáctinásobně vyšší než investice do jádra a uhlí.",
+      "**Neidentifikovaný řečník (náměstek MPO)** — Připustil, že transformace je rozjetá, ale zdůraznil nedostatek lidských zdrojů a technickou náročnost provozu starých zdrojů.",
+      "**Hynek Beran (Realistická energetika a ekologie)** — Kritizoval dotace do obnovitelných zdrojů na úkor tradiční energetiky.",
+      "**Tomáš Mašek (Česká geologická služba)** — Uvedl, že černé uhlí je v ČR vytěženo, hnědé má omezené zásoby a ropa/plyn jsou pro ČR marginální.",
+      "**Ivan Čížek (fyzikální chemik)** — Analyzoval fyzikální limity obnovitelných zdrojů a varoval před riziky úniků metanu při náhradě uhlí plynem."
     ],
-    "outcome": "Seminář dospěl ke konsenzu, že současný proces útlumu uhlí je technicky a ekonomicky rizikový. Jako hlavní závěr bylo formulováno doporučení:\n* **Obnovit činnost Uhelné komise** nebo zřídit pracovní výbor při MPO pro řízenou transformaci.\n* **Zachovat uhlí jako strategickou surovinu** a zajistit podmínky pro jeho případnou těžbu v budoucích desetiletích.\n* **Změnit přístup k energetice** směrem k „méně ideologie, více fyziky“.",
-    "notes": "Přepis obsahuje četné chyby v diakritice a občasné halucinace modelu (opakující se nesmyslné fráze), které byly pro účely shrnutí ignorovány."
+    "outcome": "Seminář dospěl ke konsenzu, že současná transformace energetiky není dostatečně připravena a nese příliš mnoho rizik. Jako oficiální závěr bylo navrženo:\n* **Obnovit činnost Uhelné komise** nebo ustanovit pracovní výbor při MPO pro řízenou transformaci uhelného průmyslu.\n* **Cíle výboru:** Zachovat uhlí jako strategickou surovinu, zajistit podmínky pro případnou těžbu v dalších desetiletích a nastavit parametry řízeného útlumu tak, aby nebyla ohrožena energetická bezpečnost státu.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a občasné halucinace (opakující se nesmyslné fráze). Obsah byl rekonstruován na základě srozumitelných částí záznamu."
   },
   "entities": {
     "speakers": [
@@ -43,7 +44,7 @@
       {
         "name": "Roman Čada",
         "person_id": null,
-        "affiliation": "Právodaspej"
+        "affiliation": "Právo a odbornost"
       },
       {
         "name": "Martin Čermák",
@@ -61,80 +62,81 @@
         "affiliation": "Invicta Bohemica"
       },
       {
-        "name": "René Neděla",
+        "name": "Hynek Beran",
         "person_id": null,
-        "affiliation": "MPO"
+        "affiliation": "Realistická energetika a ekologie"
       },
       {
-        "name": "Vladimír Dědeček",
+        "name": "Tomáš Mašek",
         "person_id": null,
-        "affiliation": "Akademie věd"
+        "affiliation": "Česká geologická služba"
       },
       {
         "name": "Ivan Čížek",
         "person_id": null,
-        "affiliation": "Realistická energetika a ekologie"
+        "affiliation": "Akademie věd"
       }
     ],
     "parties": [
-      "SPD"
+      "SPD",
+      "ANO 2011"
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "MPO",
-      "ČVUT",
-      "ČEPS"
+      "Ministerstvo průmyslu a obchodu",
+      "ČEPS",
+      "ČVUT"
     ]
   },
   "highlights": [
     {
       "text": "Transformace bez realistického plánu není transformací, je to riziko.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Roman Čada",
-      "affiliation": "Právodaspej",
+      "affiliation": "Právo a odbornost",
       "timestamp": "2/02:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_highlight_00.jpg",
-      "context": "Jde o subjektivní politické hodnocení, které nelze fakticky ověřit. Kvalita a existence plánů transformace (např. v energetice či průmyslu) jsou předmětem politické debaty o jejich dostatečnosti."
+      "screenshot_path": "summaries/screenshots/event_2866_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení kvality vládní strategie. Nelze nezávisle ověřit jako fakt, neboť definice 'realistického plánu' je předmětem politické debaty."
     },
     {
-      "text": "Čeští občané a čeští podnikatelé mají nejdražší elektřinu na celém světě.",
-      "type": "citation",
-      "speaker": "Jindřich Rajchl",
-      "affiliation": "Poslanec",
-      "timestamp": "3/04:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_highlight_01.jpg",
-      "context": "Tvrzení je nepravdivé. Podle dat Eurostatu a Mezinárodní energetické agentury (IEA) se cena elektřiny pro domácnosti v ČR pohybuje v rámci průměru EU; země jako Německo, Dánsko či Irsko mají ceny dlouhodobě vyšší."
+      "text": "Náklady na dekarbonizační scénář do roku 2040 by dosáhly 6 bilionů korun, což je jedenáctinásobek nákladů na výstavbu jaderných bloků a udržení uhlí.",
+      "type": "paraphrase",
+      "speaker": "Jan Vondráš",
+      "affiliation": "Invicta Bohemica",
+      "timestamp": "3/04:24",
+      "screenshot_path": "summaries/screenshots/event_2866_highlight_01.jpg",
+      "context": "Částka 6 bilionů korun je odhadem, který se objevuje v některých studiích (např. v kontextu celkových nákladů na energetickou transformaci do roku 2050), ale metodika výpočtu je předmětem odborných sporů. Srovnání s náklady na jaderné bloky je zavádějící, neboť nezohledňuje provozní úspory, externality a rozdílné časové horizonty investic."
     },
     {
-      "text": "Kdybychom chtěli postavit baterii, aby udržela Česko za jediný den, potřebujeme k tomu státní rozpočet České republiky.",
+      "text": "Pokud nebudou politici respektovat názory odborné veřejnosti, máme tady vědce, kvalitní lidi, kteří bohužel nemají slovo, tak tady poslední zhasne.",
       "type": "citation",
-      "speaker": "Ivan Čížek",
+      "speaker": "Hynek Beran",
       "affiliation": "Realistická energetika a ekologie",
-      "timestamp": "32/05:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_highlight_02.jpg",
-      "context": "Tvrzení je zavádějící. Náklady na výstavbu bateriových úložišť o kapacitě odpovídající denní spotřebě ČR by sice byly v řádech stovek miliard až bilionů korun, ale srovnání s celým státním rozpočtem (cca 2,2 bilionu Kč) je nadsazené a technicky nepřesné vzhledem k rozdílným technologiím a životnosti."
+      "timestamp": "3/08:04",
+      "screenshot_path": "summaries/screenshots/event_2866_highlight_02.jpg",
+      "context": "Jde o hodnotící soud a rétorickou figuru. Zapojení odborníků do tvorby legislativy je standardně zajišťováno prostřednictvím poradních orgánů vlády (např. NERV) a připomínkových řízení, jejichž míra respektování je politickým rozhodnutím."
     }
   ],
   "controversial": [
     {
-      "statement": "Jindřich Rajchl (poslanec) navrhl, aby stát převzal kontrolu nad prodejem elektřiny a prodával ji za výrobní cenu plus marži, čímž by obešel tržní mechanismus Lipské burzy.",
+      "statement": "Návrh na „znárodnění“ ČEZu a vytvoření státního obchodníka s elektřinou.\n* **Kdo:** Jindřich Rajchl (poslanec).\n* **Proč:** Jde o zásadní zásah do tržního prostředí, který vyvolává obavy z neefektivity státního řízení a právních sporů s akcionáři.\n* **Čas:** 2/04:02",
       "speaker": "Jindřich Rajchl",
       "affiliation": "Poslanec",
-      "timestamp": "3/04:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_controversy_00.jpg",
-      "context": "Státní zásah do cenotvorby elektřiny by byl v rozporu s pravidly vnitřního trhu EU a legislativou o volném pohybu zboží. Prodej za „výrobní cenu“ by vyžadoval vyvlastnění nebo zásadní změnu vlastnických vztahů v energetických společnostech, což by pravděpodobně vedlo k mezinárodním arbitrážím."
+      "timestamp": "2/04:02",
+      "screenshot_path": "summaries/screenshots/event_2866_controversy_00.jpg",
+      "context": "Stát je již majoritním akcionářem ČEZ (cca 70 %). Plné 'znárodnění' (vytěsnění minoritních akcionářů) by vyžadovalo zákon o vyvlastnění a vyplacení tržní ceny akcií, což by dle právních expertů vyvolalo rozsáhlé mezinárodní arbitráže."
     },
     {
-      "statement": "Účastník z publika (Petr Marš) naznačil, že klimatická politika je řízena „globálním prediktorem“ (Rothschildové, Rockefellerové) a je to úmyslná likvidace Evropy.",
-      "speaker": "Petr Marš",
+      "statement": "Označení klimatických cílů za „podvod“ a „řízený proces“.\n* **Kdo:** Neidentifikovaný řečník z publika.\n* **Proč:** Zpochybňuje vědecký konsenzus o klimatické změně a zavádí konspirační teorie o „globálním prediktoru“.\n* **Čas:** 3/06:02",
+      "speaker": null,
       "affiliation": null,
-      "timestamp": "24/08:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_controversy_01.jpg",
-      "context": "Tvrzení o „globálním prediktorovi“ a úmyslné likvidaci Evropy je konspirační teorie, která není podložena žádnými ověřitelnými fakty. Klimatická politika EU (např. Green Deal) je výsledkem veřejných legislativních procesů schvalovaných volenými zástupci členských států a Evropského parlamentu."
+      "timestamp": "3/06:02",
+      "screenshot_path": "summaries/screenshots/event_2866_controversy_01.jpg",
+      "context": "Tvrzení o 'podvodu' a 'řízeném procesu' je v rozporu s vědeckým konsenzem o antropogenní klimatické změně, který potvrzují instituce jako IPCC (Mezivládní panel pro změnu klimatu) či Akademie věd ČR. Jde o nepodloženou konspirační teorii."
     }
   ],
   "quality": {
-    "transcript_quality": "partial",
+    "transcript_quality": "poor",
     "unintelligible_parts": true
   },
   "extras": null

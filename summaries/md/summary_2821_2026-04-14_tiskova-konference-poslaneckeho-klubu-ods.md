@@ -1,57 +1,55 @@
-Zde je strukturované shrnutí tiskové konference poslaneckého klubu ODS ze dne 14. dubna 2026.
+Toto je strukturované shrnutí tiskové konference poslaneckého klubu ODS ze dne 14. dubna 2026.
 
 ### 1. Téma a účel jednání
-Tisková konference poslaneckého klubu ODS byla svolána za účelem kritiky aktuálních kroků vlády, které představitelé strany označili za nekompetentní, chaotické a směřující k totalitním praktikám. Hlavními tématy byla cenzura v resortu obrany, nekoncepční zásahy do cen pohonných hmot a přetrvávající střet zájmů Andreje Babiše.
+Tisková konference byla svolána za účelem vyjádření kritického postoje ODS k aktuálním krokům vlády, které představitelé strany označili za nekompetentní, chaotické a směřující k návratu k totalitním praktikám či centrálně plánované ekonomice.
 
-Cílem vystoupení bylo prezentovat opoziční postoj ODS, představit návrh na zařazení nového bodu jednání sněmovny a vymezit se proti vládní hospodářské politice, kterou ODS považuje za návrat k centrálně plánované ekonomice.
+Hlavními tématy byla cenzura v resortu obrany, nekoncepční zásahy do cen pohonných hmot a přetrvávající střet zájmů Andreje Babiše. ODS deklarovala záměr prosadit na jednání Sněmovny speciální bod programu věnovaný vládní cenzuře a odmítla podporu vládních návrhů na cenovou regulaci.
 
 ### 2. Hlavní body
-
-**Martin Kupka (ODS)**
-*   **Cenzura v armádě:** Kritizoval Ministerstvo obrany za to, že zakázalo zveřejnění rozhovoru s prezidentem Petrem Pavlem. Označil to za „návrat totality“ a vyzval k rezignaci ministra obrany (Zůny).
-*   **Pohonné hmoty:** Odmítl vládní návrh na cenovou regulaci pohonných hmot jako „návrat k socialistické ekonomice“. Upozornil na rozporuplné výroky vládních představitelů (Schillerová vs. Babiš) a zdůraznil, že ODS prosazuje tržní řešení.
-*   **Střet zájmů:** Obvinil Andreje Babiše z pokračujícího střetu zájmů prostřednictvím skupiny Synbiol (včetně reprodukčních klinik čerpajících veřejné prostředky), což má umožňovat ovlivňování úhradových mechanismů přes ministra zdravotnictví.
-*   **Summit NATO:** Kritizoval vládní spory o to, kdo má reprezentovat ČR na summitu NATO, a označil je za „žabomyší války“ a „dětské hry na písku“.
-
-**Jana Černochová (ODS)**
-*   **Kritika ministra Zůny:** Ohradila se proti tomu, že si současný ministr obrany přivlastňuje úspěchy v náboru nových vojáků. Uvedla, že jde o výsledek práce předchozí vlády (změna legislativy, platy, zdravotní vyhlášky).
-*   **Data:** Uvedla, že v roce 2025 bylo přijato 2390 nováčků, čímž byl překonán rekrutační cíl 2100 osob. Zdůraznila, že SPD (strana ministra) původně zrychlené projednání zákona o armádě nepodporovala.
-
-**Jan Skopeček (ODS)**
-*   **Ekonomické dopady regulace:** Varoval, že cenové stropy u pohonných hmot povedou ke kartelům, nedostatku paliv a zavírání čerpacích stanic.
-*   **Právní obcházení:** Upozornil, že vláda chce regulaci zavést nařízením (podzákonný akt), čímž chce znemožnit podnikatelům žalovat stát u správních soudů a žádat kompenzace.
-*   **Alternativa:** Zopakoval, že ODS navrhuje snížení spotřebních daní jako efektivní nástroj pro snížení cen pro občany.
+*   **Martin Kupka (ODS):**
+    *   Kritizoval Ministerstvo obrany za cenzuru (zákaz zveřejnění rozhovoru s prezidentem Pavlem) a vyzval ministra Zůnu k rezignaci.
+    *   Navrhl zařadit na program Sněmovny bod „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“.
+    *   Odsoudil vládní záměr regulovat ceny pohonných hmot jako návrat k socialistické ekonomice, který poškodí spotřebitele i průmysl.
+    *   Upozornil na střet zájmů Andreje Babiše v souvislosti se skupinou Synbiol a jejími příjmy z veřejného zdravotního pojištění.
+    *   Kritizoval vládní spory ohledně delegace na summit NATO jako „žabomyší války“.
+*   **Jana Černochová (ODS):**
+    *   Označila zásahy ministra Zůny do obsahu armádních médií za bezprecedentní.
+    *   Odmítla, aby si současné vedení resortu přivlastňovalo úspěchy v náboru vojáků. Uvedla, že rekordní zájem (2390 nováčků v roce 2025) je výsledkem práce minulé vlády (navýšení platů, změna zdravotní vyhlášky, odstranění bariér).
+    *   Uvedla, že SPD (strana ministra Zůny) původně nechtěla podpořit zrychlené projednání zákona 221, který nábor umožnil.
+*   **Jan Skopeček (ODS):**
+    *   Varoval před ekonomickými dopady cenové regulace paliv (riziko kartelů, nedostatek nafty, zavírání čerpacích stanic).
+    *   Kritizoval záměr vlády realizovat regulaci prostřednictvím nařízení vlády, což znemožní podnikatelům žalovat stát u správních soudů a žádat kompenzace.
+    *   Zdůraznil, že ODS prosazuje snížení spotřební daně, nikoliv plošnou cenovou regulaci.
 
 ### 3. Výsledek / závěr
-ODS navrhla zařadit na program jednání sněmovny nový bod s názvem „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“. Strana deklarovala, že nepodpoří vládní návrh na cenovou regulaci pohonných hmot v režimu legislativní nouze.
+ODS se jednoznačně vymezila proti vládní politice v oblasti cenotvorby a svobody slova. Strana hodlá v Poslanecké sněmovně iniciovat debatu o cenzurních praktikách na Ministerstvu obrany a bude hlasovat proti vládním návrhům na cenovou regulaci pohonných hmot, které považuje za právně i ekonomicky nebezpečné.
 
 ### 4. Poznámky
-Přepis obsahuje drobné chyby v diakritice a občasné useknutí slov, které však nemají vliv na pochopení obsahu.
+Přepis je místy nesrozumitelný kvůli chybějící diakritice a useknutým slovům, nicméně hlavní argumentační linie řečníků jsou zřejmé.
 
 ---
 
 ## Doplňující otázky
 
 *   **Kdo:** Martin Kupka (ODS)
-    *   **Co:** Návrh na zařazení bodu „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“.
-    *   **Proč:** Jde o silné obvinění vlády z autoritářských praktik, které politicky vyhrocuje debatu o svobodě slova.
-    *   **Čas:** 1/01:50
-
+    *   **Co:** Označil vládní kroky v oblasti cen pohonných hmot za „faktický návrat k centrální socialistické ekonomice“.
+    *   **Proč:** Jde o silné ideologické vymezení vůči vládní koalici, které polarizuje debatu o roli státu v tržní ekonomice.
+    *   **Čas:** 1/02:01
 *   **Kdo:** Jan Skopeček (ODS)
-    *   **Co:** Obvinění ministryně Schillerové, že záměrně volí formu vládního nařízení, aby se vyhnula žalobám u správních soudů.
-    *   **Proč:** Zpochybňuje právní legitimitu vládního postupu a obviňuje vládu z obcházení demokratických kontrolních mechanismů.
-    *   **Čas:** 1/15:30
+    *   **Co:** Obvinil ministryni Schillerovou, že záměrně volí formu „nařízení vlády“ pro regulaci cen, aby znemožnila podnikatelům soudní obranu.
+    *   **Proč:** Jde o přímé obvinění z obcházení právního státu a zneužití moci k ochraně před žalobami.
+    *   **Čas:** 1/16:00
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Vláda předvedla bohužel další posun, tentokrát od náhubků k cenzuře.“ (citace)
-    *   **Řečník:** Martin Kupka (ODS), **Čas:** 1/00:35
-*   **Text:** „V roce 2025 vstoupilo do řad profesionálních vojáků 2390 nováčků, rekrutačním cílem bylo přijmout 2100 nových vojáků.“ (citace)
+*   **Text:** „To, že armáda nezveřejnila natočený rozhovor s prezidentem České republiky, představuje zásah do normálních poměrů v České republice.“ (citace)
+    *   **Řečník:** Martin Kupka (ODS), **Čas:** 1/00:22
+*   **Text:** „V roce 2025 vstoupilo do řad profesionálních vojáků 2390 nováčků, čímž jsme rekrutační cíl 2100 vojáků překonali o 300 lidí.“ (parafráze)
     *   **Řečník:** Jana Černochová (ODS), **Čas:** 1/10:03
-*   **Text:** „Zásahy do cenového mechanismu nefungují, negativa se projeví velmi rychle, viděli jsme to v Maďarsku.“ (parafráze)
-    *   **Řečník:** Jan Skopeček (ODS), **Čas:** 1/14:30
+*   **Text:** „Zásahy do cenového mechanismu nefungují, vidíme to na zkušenostech z Maďarska, kde se negativa projevila velmi rychle.“ (citace)
+    *   **Řečník:** Jan Skopeček (ODS), **Čas:** 1/14:03
 
 ---
 
@@ -77,14 +75,14 @@ Přepis obsahuje drobné chyby v diakritice a občasné useknutí slov, které v
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu ODS byla svolána za účelem kritiky aktuálních kroků vlády, které představitelé strany označili za nekompetentní, chaotické a směřující k totalitním praktikám. Hlavními tématy byla cenzura v resortu obrany, nekoncepční zásahy do cen pohonných hmot a přetrvávající střet zájmů Andreje Babiše.\n\nCílem vystoupení bylo prezentovat opoziční postoj ODS, představit návrh na zařazení nového bodu jednání sněmovny a vymezit se proti vládní hospodářské politice, kterou ODS považuje za návrat k centrálně plánované ekonomice.",
+    "topic": "Tisková konference byla svolána za účelem vyjádření kritického postoje ODS k aktuálním krokům vlády, které představitelé strany označili za nekompetentní, chaotické a směřující k návratu k totalitním praktikám či centrálně plánované ekonomice.\n\nHlavními tématy byla cenzura v resortu obrany, nekoncepční zásahy do cen pohonných hmot a přetrvávající střet zájmů Andreje Babiše. ODS deklarovala záměr prosadit na jednání Sněmovny speciální bod programu věnovaný vládní cenzuře a odmítla podporu vládních návrhů na cenovou regulaci.",
     "main_points": [
-      "**Martin Kupka (ODS)** — Kritizoval cenzuru v armádě (zákaz rozhovoru s prezidentem), označil vládní kroky za „návrat totality“. Odmítl cenovou regulaci pohonných hmot jako návrat k socialismu a upozornil na střet zájmů Andreje Babiše (skupina Synbiol).",
-      "**Jana Černochová (ODS)** — Ohradila se proti přivlastňování úspěchů v náboru vojáků ministrem Zůnou. Uvedla, že v roce 2025 bylo přijato 2390 nováčků, čímž byl překonán cíl 2100 osob díky legislativě předchozí vlády.",
-      "**Jan Skopeček (ODS)** — Varoval před ekonomickými dopady cenové regulace (kartely, nedostatek paliv). Upozornil, že vláda chce regulaci zavést nařízením, aby znemožnila podnikatelům žalovat stát u správních soudů."
+      "**Martin Kupka (ODS)** — Kritizoval Ministerstvo obrany za cenzuru a vyzval ministra Zůnu k rezignaci. Navrhl zařadit na program Sněmovny bod „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“. Odsoudil vládní záměr regulovat ceny pohonných hmot a upozornil na střet zájmů Andreje Babiše v souvislosti se skupinou Synbiol.",
+      "**Jana Černochová (ODS)** — Označila zásahy ministra Zůny do obsahu armádních médií za bezprecedentní. Zdůraznila, že rekordní zájem o nábor do armády (2390 nováčků v roce 2025) je výsledkem práce minulé vlády, nikoliv současného vedení resortu.",
+      "**Jan Skopeček (ODS)** — Varoval před ekonomickými dopady cenové regulace paliv. Kritizoval záměr vlády realizovat regulaci prostřednictvím nařízení vlády, což znemožní podnikatelům žalovat stát u správních soudů a žádat kompenzace."
     ],
-    "outcome": "ODS navrhla zařadit na program jednání sněmovny nový bod s názvem „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“. Strana deklarovala, že nepodpoří vládní návrh na cenovou regulaci pohonných hmot v režimu legislativní nouze.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné useknutí slov, které však nemají vliv na pochopení obsahu."
+    "outcome": "ODS se jednoznačně vymezila proti vládní politice v oblasti cenotvorby a svobody slova. Strana hodlá v Poslanecké sněmovně iniciovat debatu o cenzurních praktikách na Ministerstvu obrany a bude hlasovat proti vládním návrhům na cenovou regulaci pohonných hmot, které považuje za právně i ekonomicky nebezpečné.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a useknutým slovům, nicméně hlavní argumentační linie řečníků jsou zřejmé."
   },
   "entities": {
     "speakers": [
@@ -93,53 +91,53 @@ Přepis obsahuje drobné chyby v diakritice a občasné useknutí slov, které v
       {"name": "Jan Skopeček", "person_id": null, "affiliation": "ODS"}
     ],
     "parties": ["ODS", "SPD"],
-    "institutions": ["Poslanecká sněmovna", "Ministerstvo obrany", "Ministerstvo financí", "NATO", "Agrofert", "Synbiol"]
+    "institutions": ["Poslanecká sněmovna", "Ministerstvo obrany", "Ministerstvo financí", "NATO"]
   },
   "highlights": [
     {
-      "text": "Vláda předvedla bohužel další posun, tentokrát od náhubků k cenzuře.",
+      "text": "To, že armáda nezveřejnila natočený rozhovor s prezidentem České republiky, představuje zásah do normálních poměrů v České republice.",
       "type": "citation",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/00:35",
+      "timestamp": "1/00:22",
       "screenshot_path": null
     },
     {
-      "text": "V roce 2025 vstoupilo do řad profesionálních vojáků 2390 nováčků, rekrutačním cílem bylo přijmout 2100 nových vojáků.",
-      "type": "citation",
+      "text": "V roce 2025 vstoupilo do řad profesionálních vojáků 2390 nováčků, čímž jsme rekrutační cíl 2100 vojáků překonali o 300 lidí.",
+      "type": "paraphrase",
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/10:03",
       "screenshot_path": null
     },
     {
-      "text": "Zásahy do cenového mechanismu nefungují, negativa se projeví velmi rychle, viděli jsme to v Maďarsku.",
-      "type": "paraphrase",
+      "text": "Zásahy do cenového mechanismu nefungují, vidíme to na zkušenostech z Maďarska, kde se negativa projevila velmi rychle.",
+      "type": "citation",
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
-      "timestamp": "1/14:30",
+      "timestamp": "1/14:03",
       "screenshot_path": null
     }
   ],
   "controversial": [
     {
-      "statement": "**Martin Kupka (ODS)** navrhl zařazení bodu „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“. Toto označení je politicky vysoce citlivé, neboť přímo obviňuje vládu z totalitních praktik.\n\n**Čas:** 1/01:50",
+      "statement": "**Martin Kupka (ODS)** označil vládní kroky v oblasti cen pohonných hmot za „faktický návrat k centrální socialistické ekonomice“.",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/01:50",
+      "timestamp": "1/02:01",
       "screenshot_path": null
     },
     {
-      "statement": "**Jan Skopeček (ODS)** obvinil ministryni Schillerovou z obcházení soudní kontroly tím, že chce cenovou regulaci zavést formou vládního nařízení, což znemožní podnikatelům žalovat stát.\n\n**Čas:** 1/15:30",
+      "statement": "**Jan Skopeček (ODS)** obvinil ministryni Schillerovou, že záměrně volí formu „nařízení vlády“ pro regulaci cen, aby znemožnila podnikatelům soudní obranu.",
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
-      "timestamp": "1/15:30",
+      "timestamp": "1/16:00",
       "screenshot_path": null
     }
   ],
   "quality": {
-    "transcript_quality": "good",
-    "unintelligible_parts": false
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
   },
   "extras": null
 }

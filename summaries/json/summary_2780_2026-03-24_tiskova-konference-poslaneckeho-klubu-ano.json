@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:32:46",
+  "created_at": "2026-05-29T14:13:01",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2780",
@@ -19,16 +19,16 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána po jednání poslaneckého klubu hnutí ANO za účelem představení priorit pro nadcházející týden zasedání Poslanecké sněmovny. Hlavním cílem bylo informovat o legislativních návrzích, které hnutí ANO vnímá jako nápravu kroků předchozí vlády, a to zejména v oblastech sociální politiky, podpory seniorů a živnostníků.\n\nKlíčovými tématy byla novela trestního zákoníku (znovuzavedení trestnosti neplacení výživného), podpora seniorů v rámci penzijního spoření, úprava odvodů pro OSVČ a stabilizace zdravotních pojišťoven.",
+    "topic": "Tisková konference poslaneckého klubu hnutí ANO se konala dne 24. března 2026 před zahájením dalšího zasedacího týdne Poslanecké sněmovny. Cílem konference bylo představit priority hnutí pro nadcházející schůzi, zejména v oblasti legislativních změn týkajících se sociální politiky, zdravotnictví a penzijního spoření.\n\nPředstavitelé hnutí ANO prezentovali své kroky jako nápravu opatření předchozí „Fialovy vlády“, kterou kritizovali za nekoncepčnost a negativní dopady na seniory, samoživitele a živnostníky. Konference se zaměřila na konkrétní poslanecké návrhy, které mají za cíl zmírnit finanční zátěž občanů a stabilizovat systém veřejného zdravotního pojištění.",
     "main_points": [
-      "**Taťána Malá (ANO)** — Představila novelu trestního zákoníku, která vrací trestnost neplacení výživného. Cílem je vyslat signál o odpovědnosti rodičů, nikoliv primárně věznění; preferuje alternativní tresty (např. domácí vězení).",
-      "**Alena Schillerová (ANO)** — Představila návrh na pomoc seniorům, kterým byly odebrány státní příspěvky ve 3. penzijním pilíři. Navrhuje zrychlené schválení v prvním čtení. Prosazuje snížení vyměřovacího základu pro sociální pojištění OSVČ ze 40 % na 35 % průměrné mzdy. Odmítá unáhlené zásahy do spotřební daně u pohonných hmot.",
-      "**Patrik Nacher (ANO)** — Potvrdil, že opozice bude vetovat zrychlené projednání u návrhu na pomoc seniorům. Oznámil záměr zrušit koncesionářské poplatky a nahradit je financováním ze státního rozpočtu.",
-      "**Adam Vojtěch (ANO)** — Představil návrh na přerozdělení 8 miliard Kč z rezerv VZP mezi menší zdravotní pojišťovny pro stabilizaci systému.",
-      "**Aleš Juchelka (ANO)** — Informoval o dohodě se Senátem na zamítnutí nadbytečného paralelního tisku k „superdávce“."
+      "**Taťána Malá (ANO)** — Ohlásila znovuzavedení trestnosti neplacení výživného jako prioritu. Navrhuje využívat alternativní tresty, zejména domácí vězení.",
+      "**Alena Schillerová (ANO)** — Představila novelu zákona o doplňkovém penzijním spoření (pomoc seniorům) a návrh na snížení vyměřovacího základu pro odvody OSVČ na 35 %. Kritizovala vládní daňovou politiku.",
+      "**Patrik Nacher (ANO)** — Potvrdil, že opozice zablokuje zrychlené projednání penzijní novely. K tématu koncesionářských poplatků uvedl, že hnutí prosazuje jejich zrušení a financování ze státního rozpočtu.",
+      "**Adam Vojtěch (ANO)** — Představil návrh na přerozdělení 8 miliard Kč z rezerv VZP mezi ostatní zdravotní pojišťovny pro stabilizaci systému.",
+      "**Aleš Juchelka (ANO)** — Informoval o dohodě se Senátem na zamítnutí nadbytečného tiskového návrhu týkajícího se přechodného období pro tzv. superdávku."
     ],
-    "outcome": "Jednání se neslo v duchu přípravy na nadcházející schůzi Sněmovny. Hnutí ANO deklarovalo své priority, přičemž u některých bodů (penzijní spoření) již předem avizovalo střet s vládní koalicí (vetování zrychleného projednání). U tématu koncesionářských poplatků a stabilizace zdravotních pojišťoven hnutí pokračuje v legislativní přípravě vlastních návrhů.",
-    "notes": null
+    "outcome": "Jednání potvrdilo konfrontační postoj hnutí ANO vůči vládní koalici. Hnutí se soustředí na prosazování poslaneckých návrhů, které mají přímý dopad na peněženky občanů. V otázce penzijního spoření se očekává zdlouhavý legislativní proces, neboť opozice avizovala zablokování zrychleného schvalování. V oblasti zdravotnictví a sociálních dávek panuje snaha o stabilizaci systému skrze přerozdělování rezerv a technické úpravy legislativy.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a občasné opakování slov, které však nemají vliv na pochopení obsahu. Části záznamu jsou srozumitelné a logicky navazují."
   },
   "entities": {
     "speakers": [
@@ -63,29 +63,20 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Senát",
       "VZP",
-      "Úřad práce"
+      "Ústavní soud",
+      "Senát"
     ]
   },
   "highlights": [
-    {
-      "text": "Cílem této novely určitě není zavírat neplatící rodiče do vězení, cílem je vyslat tu jasnou zprávu, že je normální se o své děti starat.",
-      "type": "paraphrase",
-      "speaker": "Taťána Malá",
-      "affiliation": "ANO",
-      "timestamp": "1/01:36",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_highlight_00.jpg",
-      "context": "Trestný čin zanedbání povinné výživy (§ 196 trestního zákoníku) v ČR existuje a nebyl zrušen. Debata se vede o zpřísnění postihů a efektivitě vymáhání, nikoliv o znovuzavedení skutkové podstaty, která by byla dříve zrušena."
-    },
     {
       "text": "Stát, který postihuje finanční šmejdy, by se sám jako finanční šmejd neměl chovat.",
       "type": "citation",
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/05:48",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_highlight_01.jpg",
-      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, kterou nelze fakticky ověřit. Výrok se vztahuje ke kritice vládní rozpočtové politiky a nakládání se státními prostředky."
+      "screenshot_path": "summaries/screenshots/event_2780_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení vládní rozpočtové politiky, nikoliv o faktické tvrzení. Výrok je metaforou kritizující státní hospodaření, kterou nelze faktograficky verifikovat."
     },
     {
       "text": "OSVČ tak každý měsíc ušetří 715 Kč, za celý rok 8 580 Kč.",
@@ -93,8 +84,8 @@
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
       "timestamp": "1/06:35",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_highlight_02.jpg",
-      "context": "Částka 715 Kč odpovídá rozdílu mezi minimálními zálohami na sociální pojištění pro OSVČ v roce 2023 a 2024 (při zohlednění změn v sazbách). Údaj je matematicky správný při výpočtu 715 × 12 měsíců."
+      "screenshot_path": "summaries/screenshots/event_2780_highlight_01.jpg",
+      "context": "Částka 715 Kč odpovídá rozdílu mezi minimální zálohou na sociální pojištění pro OSVČ v roce 2023 (2 944 Kč) a 2024 (3 852 Kč) po započtení vládního návrhu na postupné zvyšování, resp. jde o výpočet úspory při určitém nastavení parametrů pojistného. Údaj je ověřitelný na základě parametrů zákona č. 589/1992 Sb., o pojistném na sociální zabezpečení."
     },
     {
       "text": "Když se podíváte na seniory nad 75 let, tak ti tvoří asi 9 % populace, ale na poplatcích se podílí 22,5 %.",
@@ -102,26 +93,18 @@
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "1/14:48",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_highlight_03.jpg",
-      "context": "Statisticky lze podíl seniorů nad 75 let v populaci ověřit u ČSÚ (aktuálně se pohybuje kolem 9 %). Údaj o 22,5% podílu na poplatcích je interpretací dat o struktuře plátců koncesionářských poplatků, kterou nelze bez přístupu k interním datům České televize nezávisle potvrdit."
+      "screenshot_path": "summaries/screenshots/event_2780_highlight_02.jpg",
+      "context": "Data o podílu seniorů nad 75 let na celkové populaci (cca 9 %) odpovídají demografickým údajům ČSÚ. Údaj o 22,5% podílu na poplatcích je interpretací dat o struktuře plátců koncesionářských poplatků, která však závisí na konkrétním metodickém výpočtu (např. zda jsou započítány domácnosti osvobozené od poplatků)."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Taťána Malá (ANO)\n**Co:** Návrh na znovuzavedení trestnosti neplacení výživného, které bylo předchozí vládou dekriminalizováno.\n**Proč:** Politicky citlivé téma, které rozděluje společnost na zastánce přísné represe a zastánce alternativních řešení.\n**Čas:** 1/01:15",
-      "speaker": "Taťána Malá",
-      "affiliation": "ANO",
-      "timestamp": "1/01:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_controversy_00.jpg",
-      "context": "Tvrzení o dekriminalizaci neplacení výživného je fakticky nepřesné. Trestní zákoník č. 40/2009 Sb. neplacení výživného nadále definuje jako trestný čin; politická diskuse se týká spíše podmínek pro zahájení trestního stíhání a využívání alternativních trestů."
-    },
-    {
-      "statement": "**Kdo:** Patrik Nacher (ANO)\n**Co:** Záměr zrušit koncesionářské poplatky a nahradit je přímým financováním ze státního rozpočtu.\n**Proč:** Vyvolává obavy z ohrožení nezávislosti veřejnoprávních médií na státní moci.\n**Čas:** 1/12:04",
+      "statement": "**Kdo:** Patrik Nacher (ANO)\n**Co:** Návrh na nahrazení koncesionářských poplatků přímým financováním ze státního rozpočtu a v mezifázi osvobození vybraných skupin od poplatků.\n**Proč:** Politicky citlivé téma, které vyvolává obavy z ohrožení nezávislosti veřejnoprávních médií a jejich podřízení politické moci.\n**Čas:** 1/12:04",
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "1/12:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2780_controversy_01.jpg",
-      "context": "Návrh na zrušení koncesionářských poplatků je legitimním politickým tématem. Odborníci na mediální právo a mezinárodní organizace (např. EBU) varují, že přímé financování ze státního rozpočtu může oslabit nezávislost médií veřejné služby na vládě."
+      "screenshot_path": "summaries/screenshots/event_2780_controversy_00.jpg",
+      "context": "Návrh na zrušení koncesionářských poplatků a přechod na financování ze státního rozpočtu je dlouhodobým politickým tématem. Odborná veřejnost a mezinárodní instituce (např. EBU) varují, že přímé financování ze státního rozpočtu může oslabit nezávislost médií veřejné služby, neboť rozpočet podléhá každoročnímu schvalování vládou a parlamentem."
     }
   ],
   "quality": {

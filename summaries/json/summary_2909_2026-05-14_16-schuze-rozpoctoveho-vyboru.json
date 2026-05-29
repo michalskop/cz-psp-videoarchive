@@ -1,0 +1,122 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:08:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2909",
+    "name": "16. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-05-14T09:05",
+    "end_date": "2026-05-14T12:06",
+    "sources": [
+      "final/event_2909_2026-05-14_16-schuze-rozpoctoveho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 19,
+    "parts_total": 19,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání Rozpočtového výboru se zaměřilo na projednávání vládního návrhu novely zákona o spotřebitelském úvěru (sněmovní tisk 145) a na kontrolu státních závěrečných účtů za rok 2025 pro vybrané kapitoly (Ministerstvo financí, státní dluh, operace státních finančních aktiv, Všeobecná pokladní správa, Poslanecká sněmovna). Cílem bylo připravit tyto body pro druhé čtení v Poslanecké sněmovně, projednat pozměňovací návrhy a schválit rozpočtové ukazatele pro rok 2027.",
+    "main_points": [
+      "**Jiří Palán (Ministerstvo financí)** – Představil novelu zákona o spotřebitelském úvěru. Hlavní body: zastropování úvěrů (48 % RPSN), materiální posuzování úvěruschopnosti, právo být zapomenut u onkologických pacientů.",
+      "**Vladimír Píkor (předseda výboru)** – Upozornil na rizika napadání již splacených úvěrů a kritizoval nízkou kvalitu RIA u předložených návrhů.",
+      "**Patrik Pařil (místopředseda výboru)** – Předložil pozměňovací návrhy k novele zákona o spotřebitelském úvěru týkající se zpřesnění transpozice.",
+      "**Jan Munzar (poslanec)** – Varoval před vytlačováním rizikových klientů k lichvářům v důsledku úrokových stropů.",
+      "**Karel Tyl (Ministerstvo financí)** – Prezentoval závěrečné účty kapitol; dluh ČR k HDP činí 43,1 %.",
+      "**Věra Kovářová (poslankyně)** – Hájila rozpočtovou odpovědnost obcí a apelovala na zajištění kvalitního zázemí pro zaměstnance Sněmovny."
+    ],
+    "outcome": "Výbor přijal pozměňovací návrhy k novele zákona o spotřebitelském úvěru a doporučil ji ke schválení. Dále vzal na vědomí a doporučil ke schválení závěrečné účty kapitol Ministerstvo financí, státní dluh, operace státních finančních aktiv, Všeobecná pokladní správa a Poslanecká sněmovna. Byly schváleny rozpočtové ukazatele pro kapitolu Poslanecká sněmovna na rok 2027.",
+    "notes": "Přepis obsahuje četné chyby v přepisu jmen a občasné technické výpadky zvuku."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jiří Palán",
+        "person_id": null,
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Vladimír Píkor",
+        "person_id": "psp:person:7034",
+        "affiliation": "Rozpočtový výbor"
+      },
+      {
+        "name": "Patrik Pařil",
+        "person_id": "psp:person:7031",
+        "affiliation": "Rozpočtový výbor"
+      },
+      {
+        "name": "Jan Munzar",
+        "person_id": null,
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Karel Tyl",
+        "person_id": "psp:person:7091",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "Poslankyně"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "Piráti",
+      "SPD"
+    ],
+    "institutions": [
+      "Rozpočtový výbor",
+      "Ministerstvo financí",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Státní dluh celkem se v roce 2025 zvýšil o 312,3 miliardy korun na celkových 3,677 bilionu korun.",
+      "type": "paraphrase",
+      "speaker": "Karel Tyl",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "14/03:46",
+      "screenshot_path": "summaries/screenshots/event_2909_highlight_00.jpg",
+      "context": "Údaje odpovídají predikcím Ministerstva financí ČR v rámci návrhu státního rozpočtu na rok 2025. Přesná čísla se mohou lišit v závislosti na aktuálním plnění rozpočtu a vývoji emisí státních dluhopisů, které eviduje Správa státního dluhu."
+    },
+    {
+      "text": "Pokud budeme investovat do rozvoje dopravní infrastruktury a podpory bydlení, můžeme si dovolit zvednout dluh, aniž by to ekonomiku limitovalo.",
+      "type": "citation",
+      "speaker": "Miroslav Samaš",
+      "affiliation": "Poslanec",
+      "timestamp": "11/06:14",
+      "screenshot_path": "summaries/screenshots/event_2909_highlight_01.jpg",
+      "context": "Jde o politické tvrzení založené na teorii multiplikačního efektu investic. Ekonomický dopad dluhu závisí na efektivitě vynaložených prostředků a schopnosti ekonomiky generovat vyšší HDP než jsou náklady na obsluhu dluhu, což je předmětem odborných debat."
+    },
+    {
+      "text": "Polsko má dnes u dlouhodobých dluhopisů úroky skoro 6 %, což je důsledek jejich vysokého zadlužení.",
+      "type": "citation",
+      "speaker": "Jan Munzar",
+      "affiliation": "Poslanec",
+      "timestamp": "12/07:06",
+      "screenshot_path": "summaries/screenshots/event_2909_highlight_02.jpg",
+      "context": "Výnosy polských desetiletých státních dluhopisů se v průběhu roku 2024 a začátku roku 2025 pohybovaly v rozmezí 5,5–6 %. Výše úročení je však ovlivněna nejen zadlužením, ale především měnovou politikou polské centrální banky (NBP) a inflačními očekáváními."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Zastropování úvěrů (48 % RPSN)**\n* **Kdo:** Jan Munzar (ODS) a Jiří Hautmann (Asociace poskytovatelů nebankovních úvěrů)\n* **Co:** Obava, že nízké stropy vyženou klienty k lichvářům mimo regulovaný trh.\n* **Proč:** Politicky citlivé téma ochrany spotřebitele vs. dostupnost úvěrů pro rizikové skupiny.\n* **Čas:** 3/02:03",
+      "speaker": "Jan Munzar",
+      "affiliation": "Poslanec",
+      "timestamp": "3/02:03",
+      "screenshot_path": "summaries/screenshots/event_2909_controversy_00.jpg",
+      "context": "Argument o riziku přesunu klientů k nelegálním poskytovatelům (tzv. efekt vytěsnění) je častým tématem diskusí o regulaci trhu spotřebitelských úvěrů. Empirické studie o dopadech zastropování RPSN na šedou ekonomiku nejsou jednoznačné a závisí na míře vymahatelnosti práva a aktivitách ČNB."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

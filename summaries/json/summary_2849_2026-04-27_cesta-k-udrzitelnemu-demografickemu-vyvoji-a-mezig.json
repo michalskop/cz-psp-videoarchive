@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:03:53",
+  "created_at": "2026-05-29T14:49:05",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2849",
@@ -19,21 +19,18 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání s názvem „Cesta k udržitelnému demografickému vývoji a mezigenerační solidaritě“ se konalo v Poslanecké sněmovně pod záštitou poslance Václava Pláteníka. Cílem bylo otevřít odbornou diskuzi o rodinné politice, která přesahuje pouhé finanční otázky a zaměřuje se na systémovou podporu rodin jako investici do budoucnosti.\n\nHlavním tématem byl alarmující pokles porodnosti, odkládání rodičovství a proměna mezigeneračních vazeb. Účastníci z řad akademiků, zástupců neziskových organizací a samospráv hledali cesty, jak vytvořit prorodinné klima, posílit mezigenerační solidaritu a jak efektivně využít komunitní modely podpory rodin a seniorů.",
+    "topic": "Jednání s názvem „Cesta k udržitelnému demografickému vývoji a mezigenerační solidaritě“ se konalo v Poslanecké sněmovně pod záštitou poslance Václava Pláteníka. Cílem bylo otevřít odbornou diskuzi o rodinné politice, která přesahuje pouhé finanční otázky a zaměřuje se na systémovou podporu rodin jako investici do budoucnosti.\n\nJednání reflektovalo aktuální demografické výzvy, zejména prudký pokles porodnosti, odkládání rodičovství a stárnutí populace. Účastníci se shodli na nutnosti změnit narativ o rodině – z vnímání rodiny jako „sociálního problému“ na vnímání rodiny jako klíčového subjektu, který pro společnost vykonává zásadní investici.",
     "main_points": [
-      "**Václav Pláteník (poslanec, KDU-ČSL)** – Zdůraznil potřebu mluvit o rodině pozitivně jako o investici, nikoliv jako o sociálním problému.",
-      "**Dana Lipová (ředitelka nadace Sirius)** – Upozornila, že řešení pouze finanční situace rodin nestačí; je nutné se zaměřit na celkové klima ve společnosti.",
-      "**Regina Dlouhá (předsedkyně Unie center pro rodinu a komunitu)** – Zdůraznila, že rodina je subjekt, který pro společnost vykonává zásadní práci.",
-      "**Prof. Jiřina Kocourková (demografka, UK)** – Prezentovala data o propadu porodnosti a varovala před rizikem „pasti nízké plodnosti“.",
-      "**Dr. Hana Hašková (socioložka, AV ČR)** – Analyzovala odkládání rodičovství a kritizovala nedostatek služeb péče o děti.",
-      "**Dr. Lucie Vidovičová (socioložka, RILSA)** – Zaměřila se na stárnutí populace a kritizovala rétoriku „šedé tsunami“.",
-      "**Olga Mourková (RC Na schodech, Plzeň)** – Představila model klubu seniorů 65+, který využívá potenciál seniorů v komunitě.",
-      "**Hana Půjpe (Centrum pro rodinu Vizovice)** – Prezentovala model „1+1 je víc než 2“, zaměřený na posilování vztahů v rámci komunitních klubů.",
-      "**Lenka Kamadová a Kateřina Pevná (Mendelova univerzita)** – Představily mezigenerační programy propojující seniory a studenty.",
-      "**Radek Klacko (radní MČ Praha 4)** – Sdílel zkušenosti s exekutivní podporou komunitních center a mezigeneračního bydlení."
+      "**Václav Pláteník (poslanec, KDU-ČSL)** – Zdůraznil potřebu mluvit o rodině pozitivně. Nabídl součinnost při propojování odborníků z terénu s legislativním procesem.",
+      "**Dana Lipová (ředitelka nadace Sirius)** – Upozornila, že řešení pouze finanční situace a bydlení nestačí; je nutné řešit vztahové bezpečí a komunitní podporu.",
+      "**Jiřina Kocourková (demografka, UK)** – Prezentovala data o propadu porodnosti (z 1,8 na 1,28 dětí na ženu). Varovala před „pastí nízké plodnosti“ a rizikem trvalé bezdětnosti v důsledku odkládání rodičovství.",
+      "**Hana Hašková (socioložka, AV ČR)** – Poukázala na nedostatečnou dostupnost služeb péče o děti v ČR a na „sandvičový efekt“, kdy generace rodičů musí současně pečovat o děti i stárnoucí rodiče.",
+      "**Regina Dlouhá (Unie center pro rodinu a komunitu)** – Argumentovala, že rodinná politika musí uznat investice rodiny do společnosti. Zdůraznila význam partnerských kompetencí a komunitního bezpečí.",
+      "**Jana Vidovičová (socioložka, RILSA)** – Zaměřila se na stárnutí populace. Kritizovala rétoriku „šedé tsunami“ a zdůraznila, že stáří je „fakturou za mládí“ a společnost musí řešit sociální nerovnosti, které ovlivňují naději na dožití.",
+      "**Příklady z praxe (Olga Mourková, Hana Půjpe, Lenka Kamadová, Kateřina Pevná, Radek Lacko)** – Prezentovaly úspěšné modely rodinných center, mezigenerační univerzity, mezigenerační bydlení a komunitní zahrady. Společným jmenovatelem je potřeba víceletého financování a stabilní podpory obcí."
     ],
-    "outcome": "Jednání potvrdilo konsenzus, že rodinná politika musí být vnímána jako investice, nikoliv výdaj. Mezi hlavní závěry patří:\n* Nutnost stabilního víceletého financování pro rodinná centra.\n* Potřeba inkluzivního přístupu k rodinné politice.\n* Důraz na prevenci a osvětu (výchova k partnerství, fertilitní gramotnost).\n* Podpora komunitních modelů, které přirozeně propojují generace.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, ale hlavní argumentační linie jsou zřetelné."
+    "outcome": "Jednání vyústilo v konsenzus o nutnosti systémových změn:\n* **Legislativa:** Potřeba víceletého financování pro rodinná centra a neziskové organizace (místo jednoletých dotačních titulů).\n* **Pracovní trh:** Podpora flexibilních úvazků a firemní kultury vstřícné k pečujícím osobám.\n* **Prevence:** Zavedení výchovy k partnerství a fertilitní gramotnosti do vzdělávacího systému.\n* **Komunitní rozvoj:** Podpora pozic koordinátorů rodinné politiky na obcích a krajích.\n* **Další kroky:** Cyklus kulatých stolů bude pokračovat v červnu (duševní zdraví), září a říjnu.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (chybějící diakritika, useknutá slova). Obsah byl rekonstruován na základě kontextu."
   },
   "entities": {
     "speakers": [
@@ -41,6 +38,11 @@
         "name": "Václav Pláteník",
         "person_id": "psp:person:7036",
         "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Dana Lipová",
+        "person_id": "psp:person:6652",
+        "affiliation": "Nadace Sirius"
       },
       {
         "name": "Jiřina Kocourková",
@@ -53,18 +55,50 @@
         "affiliation": "AV ČR"
       },
       {
-        "name": "Lucie Vidovičová",
+        "name": "Regina Dlouhá",
+        "person_id": null,
+        "affiliation": "Unie center pro rodinu a komunitu"
+      },
+      {
+        "name": "Jana Vidovičová",
         "person_id": null,
         "affiliation": "RILSA"
+      },
+      {
+        "name": "Olga Mourková",
+        "person_id": null,
+        "affiliation": "Rodinné centrum na schodech"
+      },
+      {
+        "name": "Hana Půjpe",
+        "person_id": null,
+        "affiliation": "Centrum pro rodinu Vizovice"
+      },
+      {
+        "name": "Lenka Kamadová",
+        "person_id": null,
+        "affiliation": "Mendelova univerzita"
+      },
+      {
+        "name": "Kateřina Pevná",
+        "person_id": null,
+        "affiliation": "Mendelova univerzita"
+      },
+      {
+        "name": "Radek Lacko",
+        "person_id": null,
+        "affiliation": "Městská část Praha 4"
       }
     ],
     "parties": [
       "KDU-ČSL"
     ],
     "institutions": [
-      "Poslanecká sněmovna",
       "Nadace Sirius",
+      "Univerzita Karlova",
+      "AV ČR",
       "Unie center pro rodinu a komunitu",
+      "RILSA",
       "Mendelova univerzita"
     ]
   },
@@ -75,36 +109,53 @@
       "speaker": "Regina Dlouhá",
       "affiliation": "Unie center pro rodinu a komunitu",
       "timestamp": "6/00:45",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_highlight_00.jpg",
-      "context": "Jde o hodnotové a politické vyjádření, nikoliv o faktické tvrzení. Koncept 'uznání investic rodiny' je předmětem politických debat o daňových úlevách a sociálních transferech, nikoliv objektivně měřitelná veličina."
+      "screenshot_path": "summaries/screenshots/event_2849_highlight_00.jpg",
+      "context": "Jde o hodnotové a politické tvrzení, které nelze fakticky ověřit. Vyjadřuje názor na filozofický přístup k rodinné politice, nikoliv měřitelný ekonomický nebo právní fakt."
+    },
+    {
+      "text": "Porodnost v ČR klesla z 1,8 dětí na ženu v roce 2021 na odhadovaných 1,28 v roce 2025.",
+      "type": "citation",
+      "speaker": "Jiřina Kocourková",
+      "affiliation": "Univerzita Karlova",
+      "timestamp": "2/06:02",
+      "screenshot_path": "summaries/screenshots/event_2849_highlight_01.jpg",
+      "context": "Údaj za rok 2021 (1,83) odpovídá datům ČSÚ. Odhad pro rok 2025 je predikcí; podle ČSÚ úhrnná plodnost v roce 2023 klesla na 1,45 a trend poklesu pokračuje, nicméně hodnota 1,28 je odborným odhadem, nikoliv uzavřeným statistickým faktem."
     },
     {
       "text": "Mezigenerační vztahy nejsou jen důsledkem porodnosti, jsou i jejím klíčovým předpokladem.",
-      "type": "paraphrase",
+      "type": "citation",
       "speaker": "Jiřina Kocourková",
       "affiliation": "Univerzita Karlova",
       "timestamp": "4/02:10",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_highlight_01.jpg",
-      "context": "Sociologický a demografický předpoklad. Vztah mezi mezigenerační solidaritou a porodností je potvrzován studiemi (např. ČSÚ či demografické výzkumy), které ukazují, že dostupnost péče o děti (např. prarodiči) pozitivně koreluje s ochotou mít více dětí."
+      "screenshot_path": "summaries/screenshots/event_2849_highlight_02.jpg",
+      "context": "Sociologické tvrzení o korelaci mezi kvalitou mezigeneračních vazeb a reprodukčním chováním. Nelze nezávisle ověřit jako exaktní vědecký fakt, jde o interpretaci demografických a sociologických souvislostí."
     },
     {
-      "text": "Stáří je jen fakturou za to, co jsme dělali v mládí, ať už jako lidé nebo jako společnost.",
+      "text": "Stáří není tsunami, která zničí prostor, je to jen faktura za to, co jsme dělali v mládí.",
       "type": "citation",
-      "speaker": "Lucie Vidovičová",
+      "speaker": "Jana Vidovičová",
       "affiliation": "RILSA",
       "timestamp": "8/06:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_highlight_02.jpg",
-      "context": "Metaforické vyjádření sociologického konceptu 'stárnutí populace'. Z hlediska veřejných financí a důchodového systému (MF ČR) je kvalita života ve stáří skutečně přímo závislá na ekonomické aktivitě a investicích do lidského kapitálu v produktivním věku."
+      "screenshot_path": "summaries/screenshots/event_2849_highlight_03.jpg",
+      "context": "Metaforické vyjádření demografického vývoje. Z hlediska veřejných financí a důchodového systému je stárnutí populace objektivně doložitelným procesem, který vyžaduje strukturální změny (např. dle zpráv Národní rozpočtové rady)."
     }
   ],
   "controversial": [
     {
-      "statement": "Diskuse o „klimatické úzkosti“ jako faktoru ovlivňujícím rozhodování o dětech. Prof. Jiřina Kocourková uvedla, že obavy z budoucnosti planety jsou mezi mladými lidmi, zejména vysokoškolačkami, reálným faktorem snižujícím ochotu mít děti.",
-      "speaker": "Jiřina Kocourková",
-      "affiliation": "Univerzita Karlova",
-      "timestamp": "9/02:06",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2849_controversy_00.jpg",
-      "context": "Tvrzení je podloženo řadou sociologických šetření (např. výzkumy PAQ Research nebo studie publikované v odborných časopisech jako The Lancet Planetary Health). Klimatická úzkost je v současné demografii uznávána jako jeden z psychologických faktorů ovlivňujících reprodukční plány mladé generace v rozvinutých zemích."
+      "statement": "Diskutovalo se o „klimatické úzkosti“ jako faktoru ovlivňujícím rozhodnutí nemít děti (část 9/02:15).",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "9/02:15",
+      "screenshot_path": "summaries/screenshots/event_2849_controversy_00.jpg",
+      "context": "Téma klimatické úzkosti jako faktoru ovlivňujícího reprodukční rozhodování je předmětem aktuálních psychologických a sociologických studií (např. výzkumy publikované v časopise The Lancet Planetary Health). Jde o reálný fenomén diskutovaný v odborných kruzích."
+    },
+    {
+      "statement": "Debata o „genetické/biologické potřebě mít děti“ vs. současný trend bezdětnosti (část 9/08:15). Je to citlivé téma, protože naráží na střet mezi tradičním vnímáním lidské přirozenosti a moderními hodnotovými změnami.",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "9/08:15",
+      "screenshot_path": "summaries/screenshots/event_2849_controversy_01.jpg",
+      "context": "Střet mezi biologickými aspekty reprodukce a společenskými změnami je předmětem dlouhodobých debat v sociologii a evoluční psychologii. Tvrzení o „genetické potřebě“ je předmětem vědeckých sporů a nelze jej zjednodušeně potvrdit či vyvrátit."
     }
   ],
   "quality": {

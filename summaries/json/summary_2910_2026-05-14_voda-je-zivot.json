@@ -1,0 +1,144 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:08:05",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2910",
+    "name": "Voda je život",
+    "classification": "Konference",
+    "start_date": "2026-05-14T10:03",
+    "end_date": "2026-05-14T12:50",
+    "sources": [
+      "final/event_2910_2026-05-14_voda-je-zivot.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 18,
+    "parts_total": 18,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Sedmá odborná konference „Voda je život“ se konala 14. května 2026 v Poslanecké sněmovně Parlamentu ČR. Cílem akce bylo zvýšit povědomí o kritickém významu vody pro lidskou společnost, ekosystémy a zemědělství v kontextu probíhající klimatické změny.\n\nAkce byla určena především studentům středních škol a byla koncipována jako platforma pro sdílení vědeckých poznatků a praktických studentských projektů.",
+    "main_points": [
+      "**Petr Kubala (moderátor)**: Zdůraznil nezbytnost vody pro život a nutnost mezigeneračního dialogu.",
+      "**Jana Krutáková (poslankyně)**: Garantka konference, zdůraznila význam vzdělávání mladé generace.",
+      "**Michal Marek (Ústav výzkumu globální změny)**: Apeloval na odbornou zdatnost a využívání vědeckých poznatků.",
+      "**Oldřich Černý (náměstek MZe)**: Popsal technickou náročnost zajištění pitné vody a čištění odpadních vod.",
+      "**Jitka Seitlová (místopředsedkyně Senátu)**: Upozornila na stres v zemědělství a potřebu vyvážené bilance vody.",
+      "**Jan Daňhelka (hydrolog)**: Prezentoval historii hydrologického měření v Praze a význam Vltavské kaskády.",
+      "**Kamil Láska (Masarykova univerzita)**: Popsal alarmující úbytek antarktických ledovců.",
+      "**Aleš Farda (Ústav výzkumu globální změny)**: Varoval před okyselováním oceánů a oslabováním Golfského proudu.",
+      "**Zdeněk Žalud (Ústav výzkumu globální změny)**: Analyzoval příčiny sucha v ČR a budoucí vývoj klimatu.",
+      "**Studenti (Kutná Hora, Olomouc, Polička)**: Prezentovali odborné projekty, fyzikální pokusy a ekologické iniciativy."
+    ],
+    "outcome": "Konference vyústila v konsenzus o nutnosti systémových adaptačních opatření. Dominujícím postojem byla shoda na tom, že klimatická změna je fyzikální realitou vyžadující okamžitou pozornost. Závěrem byla zdůrazněna role mladé generace jako budoucích rozhodovatelů.",
+    "notes": "Přepis obsahuje četné technické artefakty (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Petr Kubala",
+        "person_id": "psp:person:5530",
+        "affiliation": "Vodní hospodářství"
+      },
+      {
+        "name": "Jana Krutáková",
+        "person_id": "psp:person:6466",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Michal Marek",
+        "person_id": "psp:person:5237",
+        "affiliation": "Ústav výzkumu globální změny AV ČR"
+      },
+      {
+        "name": "Oldřich Černý",
+        "person_id": "psp:person:6726",
+        "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "Jitka Seitlová",
+        "person_id": "psp:person:5566",
+        "affiliation": "Senát PČR"
+      },
+      {
+        "name": "Jan Daňhelka",
+        "person_id": null,
+        "affiliation": "Hydrolog"
+      },
+      {
+        "name": "Kamil Láska",
+        "person_id": null,
+        "affiliation": "Masarykova univerzita"
+      },
+      {
+        "name": "Aleš Farda",
+        "person_id": null,
+        "affiliation": "Ústav výzkumu globální změny"
+      },
+      {
+        "name": "Zdeněk Žalud",
+        "person_id": null,
+        "affiliation": "Ústav výzkumu globální změny"
+      },
+      {
+        "name": "Petr Fučík",
+        "person_id": null,
+        "affiliation": "Výzkumný ústav monitoringu ochrany půdy"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát PČR",
+      "Ústav výzkumu globální změny AV ČR",
+      "UNESCO",
+      "Masarykova univerzita"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Třetina naší planety vysychá a hlavně co je nebezpečné, jsou to velmi často významné zemědělské oblasti.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Žalud",
+      "affiliation": "Ústav výzkumu globální změny",
+      "timestamp": "12/09:39",
+      "screenshot_path": "summaries/screenshots/event_2910_highlight_00.jpg",
+      "context": "Tvrzení odpovídá závěrům zpráv IPCC (Mezivládní panel pro změnu klimatu), které potvrzují rozšiřování aridních a semiaridních oblastí. Dopad na zemědělskou produkci v klíčových regionech je vědecky podloženým rizikem pro globální potravinovou bezpečnost."
+    },
+    {
+      "text": "Phytoplankton odpovídá za 50 % vyprodukovaného kyslíku na Zemi.",
+      "type": "citation",
+      "speaker": "Aleš Farda",
+      "affiliation": "Ústav výzkumu globální změny",
+      "timestamp": "9/05:56",
+      "screenshot_path": "summaries/screenshots/event_2910_highlight_01.jpg",
+      "context": "Tento údaj je vědecky uznávaný a odpovídá odhadům oceánografů a klimatologů (např. NOAA či NASA). Fytoplankton v oceánech skutečně produkuje přibližně 50 až 80 % kyslíku v zemské atmosféře prostřednictvím fotosyntézy."
+    },
+    {
+      "text": "V posledních 20 letech je kumulace suchých měsíců a let naprosto alarmující a není to náhoda.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Žalud",
+      "affiliation": "Ústav výzkumu globální změny",
+      "timestamp": "12/07:33",
+      "screenshot_path": "summaries/screenshots/event_2910_highlight_02.jpg",
+      "context": "Data z projektu InterSucho (Ústav výzkumu globální změny AV ČR) potvrzují, že v posledních dvou dekádách dochází v ČR k častějšímu výskytu epizod sucha s vyšší intenzitou. Tento trend je v souladu s klimatickými modely předpovídajícími dopady globálního oteplování na střední Evropu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Dotaz na to, proč se spoléháme na krátkodobá data (25 let), když historie Země je mnohem delší a teplejší.",
+      "speaker": "Neidentifikovaný student",
+      "affiliation": null,
+      "timestamp": "6/04:03",
+      "screenshot_path": "summaries/screenshots/event_2910_controversy_00.jpg",
+      "context": "Vědecká komunita pracuje s dlouhodobými paleoklimatickými daty (ledová jádra, sedimenty), nikoliv pouze s 25letým horizontem. Krátkodobá data se využívají pro analýzu současného antropogenního vlivu, který je svou rychlostí bezprecedentní v porovnání s přirozenými klimatickými cykly historie Země."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:12:44",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2894",
+    "name": "8. schůze Zemědělského výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-05-12T13:03",
+    "end_date": "2026-05-12T15:01",
+    "sources": [
+      "final/event_2894_2026-05-12_8-schuze-zemedelskeho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 8. schůze Zemědělského výboru bylo zaměřeno na kontrolu hospodaření resortních institucí a vyhodnocení krizových situací v zemědělství. Hlavním cílem bylo projednání státních závěrečných účtů za rok 2025 pro Český úřad zeměměřický a katastrální (ČÚZK) a Ministerstvo zemědělství (MZe), včetně dotačních politik.\n\nDalšími klíčovými tématy byla aktuální situace v odstraňování povodňových škod z roku 2024 a výroční zpráva Vinařského fondu. Výbor se rovněž věnoval plánování budoucích výjezdních zasedání a provozním záležitostem.",
+    "main_points": [
+      "**Monika Oborná (předsedkyně výboru)** — Vedla jednání, zamítla návrh na zařazení bodu o dotacích pro holding Agrofert.",
+      "**Karel Štencel (předseda ČÚZK)** — Prezentoval závěrečný účet kapitoly 346, příjmy 1,414 mld. Kč, výdaje 4,266 mld. Kč, zdůraznil nárůst platů o 14 %.",
+      "**Petr Bendl (místopředseda výboru)** — Podpořil schválení účtu ČÚZK, kritizoval komplikovanost přihlašování do katastru.",
+      "**Martin Šebestian (ministr zemědělství)** — Představil závěrečný účet kapitoly 329 (MZe), výdaje 65,2 mld. Kč, upozornil na dluhy z minulých let.",
+      "**Karel Tureček (místopředseda výboru)** — Kritizoval snižování rozpočtu MZe o 6 mld. Kč od roku 2021 bez zohlednění inflace.",
+      "**Povodňové škody 2024** — Diskutována pomalost odstraňování škod, hlavní brzdu představuje nejednotný přístup AOPK a majetkoprávní spory.",
+      "**Vinařský fond** — Ředitel Zbyněk Vičar prezentoval zprávu za rok 2025, fond hospodařil s přebytkem, úspěšně zavedena značka „Bublinky“."
+    ],
+    "outcome": "Výbor schválil státní závěrečné účty ČÚZK i MZe. Informace o povodňových škodách a výroční zpráva Vinařského fondu byly vzaty na vědomí. Byl schválen plán výjezdních zasedání na září 2026.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Monika Oborná",
+        "person_id": "psp:person:6475",
+        "affiliation": "Zemědělský výbor"
+      },
+      {
+        "name": "Karel Štencel",
+        "person_id": "psp:person:3992",
+        "affiliation": "ČÚZK"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "Zemědělský výbor"
+      },
+      {
+        "name": "Martin Šebestian",
+        "person_id": "psp:person:7072",
+        "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "Karel Tureček",
+        "person_id": "psp:person:6240",
+        "affiliation": "Zemědělský výbor"
+      },
+      {
+        "name": "Zbyněk Vičar",
+        "person_id": null,
+        "affiliation": "Vinařský fond"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Zemědělský výbor",
+      "ČÚZK",
+      "Ministerstvo zemědělství",
+      "Vinařský fond",
+      "AOPK"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Skutečné příjmy, které jsme nakonec dosáhli, činili 1 miliardu 414 milionů korun, což teda v porovnání s rozpočtem bylo 123 %.",
+      "type": "citation",
+      "speaker": "Karel Štencel",
+      "affiliation": "ČÚZK",
+      "timestamp": "1/04:11",
+      "screenshot_path": "summaries/screenshots/event_2894_highlight_00.jpg",
+      "context": "Údaj je ověřitelný v závěrečném účtu kapitoly ČÚZK za příslušný rok. Pro potvrzení přesnosti je nutné porovnat výši příjmů s rozpočtovanou částkou schválenou zákonem o státním rozpočtu na daný rok."
+    },
+    {
+      "text": "Kapitola ministerstva zemědělství je permanentně ponížená každoročně o 6 miliard korun, bez jakéhokoliv zohlednění inflace.",
+      "type": "citation",
+      "speaker": "Karel Tureček",
+      "affiliation": "Zemědělský výbor",
+      "timestamp": "1/119:59",
+      "context": "Tvrzení o „permanentním ponížení o 6 miliard“ je interpretací rozpočtového procesu. Výše rozpočtové kapitoly MZe podléhá každoročnímu schvalování v Poslanecké sněmovně a odráží aktuální priority vlády, nikoliv automatickou indexaci o inflaci."
+    },
+    {
+      "text": "Celkový rámec škod po povodni v září 2024 přesahuje v rámci České republiky zhruba 70 miliard korun.",
+      "type": "citation",
+      "speaker": "Martin Šebestian",
+      "affiliation": "Ministerstvo zemědělství",
+      "timestamp": "1/47:41",
+      "screenshot_path": "summaries/screenshots/event_2894_highlight_02.jpg",
+      "context": "Odhad škod ve výši 70 miliard korun odpovídá vládním odhadům publikovaným po zářijových povodních 2024. Konečná výše škod se však může lišit po dokončení detailních analýz pojišťoven a státních orgánů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Jana Krutáková (poslankyně)** — Navrhovala zařazení bodu o dotační politice pro holding Agrofert. Návrh nebyl schválen (6 pro, 8 se zdrželo). Je to kontroverzní kvůli politické citlivosti tématu střetu zájmů. `1/02:00`",
+      "speaker": "Jana Krutáková",
+      "affiliation": null,
+      "timestamp": "1/02:00",
+      "screenshot_path": "summaries/screenshots/event_2894_controversy_00.jpg",
+      "context": "Hlasování o zařazení bodu je doložitelné ve stenografickém záznamu a výsledcích hlasování Poslanecké sněmovny. Politická citlivost tématu střetu zájmů je předmětem dlouhodobé debaty mezi vládní koalicí a opozicí."
+    },
+    {
+      "statement": "**Martin Šebestian (ministr)** a **ředitelé povodí** — Kritika AOPK za blokování obnovy po povodních. Kontroverzní kvůli střetu zájmů mezi ochranou přírody a rychlou obnovou majetku. `1/56:12`",
+      "speaker": "Martin Šebestian",
+      "affiliation": "Ministerstvo zemědělství",
+      "timestamp": "1/56:12",
+      "screenshot_path": "summaries/screenshots/event_2894_controversy_01.jpg",
+      "context": "Spor mezi Ministerstvem zemědělství a AOPK (Agentura ochrany přírody a krajiny) ohledně prioritizace protipovodňových opatření vs. ochrany přírody je dlouhodobým administrativním konfliktem. Jde o střet dvou odlišných zákonných mandátů (zákon o vodách vs. zákon o ochraně přírody a krajiny)."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

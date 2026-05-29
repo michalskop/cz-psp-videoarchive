@@ -3,47 +3,48 @@ Zde je strukturované shrnutí tiskové konference poslaneckého klubu ANO ze dn
 ### 1. Téma a účel jednání
 Tisková konference byla svolána za účelem informování veřejnosti o programu probíhající schůze Poslanecké sněmovny a o konkrétních legislativních prioritách hnutí ANO v oblasti sociální politiky a stavebního zákona.
 
-Cílem bylo představit postoj hnutí k projednávaným tiskům, zejména k digitalizaci státní správy, a oznámit otevření nové pobočky Czech POINT v prostorách Poslanecké sněmovny.
+Cílem bylo představit postoj hnutí k digitalizačním procesům, ohlásit projednávání novely stavebního zákona (tzv. bypass) a informovat o sociálních tiscích, které mají za cíl zmírnit dopady nefunkční digitalizace na občany. Zároveň byla oznámena zřízení nového pracoviště Czech POINT v prostorách Poslanecké sněmovny.
 
 ### 2. Hlavní body
 *   **Taťána Malá (ANO):**
-    *   Informovala o programu schůze: projednávání novely stavebního zákona („bypass“ související s digitalizací).
-    *   Upozornila na zítřejší mimořádnou schůzi, kde se bude projednávat zákon o rozpočtové odpovědnosti (3. čtení) a senátní návrh novely ústavy o rozšíření pravomocí Nejvyššího kontrolního úřadu (NKÚ) o kontrolu veřejnoprávních médií.
-    *   Zmínila, že zákon o podpoře bydlení se pravděpodobně kvůli reakci opozice na pořad jednání nedostane.
+    *   Ohlásila projednávání novely stavebního zákona („bypass“), která souvisí s digitalizací.
+    *   Upozornila na zítřejší mimořádnou schůzi k zákonu o rozpočtové odpovědnosti (3. čtení).
+    *   Zmínila projednávání senátního návrhu novely ústavy, který má rozšířit pravomoci Nejvyššího kontrolního úřadu (NKÚ) o kontrolu veřejnoprávních médií.
 *   **Jana Pastuchová (ANO):**
-    *   Představila dva sociální tisky: prioritou je oddálení digitalizace v sociální oblasti, neboť současný systém nefunguje bezproblémově (odkaz na problémy se stavebním řízením).
-    *   Oznámila pozměňovací návrh k příspěvku na mobilitu pro uživatele oxygenátorů a plicních ventilátorů: příspěvek ve výši 3 000 Kč bude poskytován neomezeně (původně do konce roku 2027) na úhradu nákladů za elektrickou energii. Uvedla, že návrh získal podporu napříč koalicí i opozicí.
-    *   Oznámila otevření nového pracoviště Czech POINT v Poslanecké sněmovně, které bude sloužit poslancům, zaměstnancům i občanům Prahy 1 (jako náhrada za zrušené pobočky pošt).
+    *   Představila dva sněmovní tisky v oblasti sociální politiky, jejichž cílem je odsunout termíny digitalizace, která podle hnutí ANO nefunguje správně.
+    *   Navrhuje posun náběhu digitalizačních procesů v dohodě s ministrem Jurečkou.
+    *   Představila pozměňovací návrh týkající se příspěvku na mobilitu pro osoby využívající oxygenátory nebo plicní ventilátory: příspěvek ve výši 3 000 Kč bude poskytován neomezeně (původně měl končit koncem roku 2027) jako kompenzace za náklady na elektrickou energii.
+    *   Oznámila otevření pracoviště Czech POINT v Poslanecké sněmovně, které bude sloužit poslancům, zaměstnancům i občanům Prahy 1 (jako náhrada za zrušené pobočky pošt).
 
 ### 3. Výsledek / závěr
-Jednání bylo ukončeno předčasně z důvodu začínající schůze Poslanecké sněmovny. Nebylo přijato žádné formální usnesení, tisková konference sloužila výhradně k informování médií o legislativním postupu a aktivitách klubu.
+Jednání bylo ukončeno předčasně z důvodu začínající schůze Poslanecké sněmovny. Nebyla přijata žádná formální usnesení, pouze byly prezentovány legislativní záměry a pozměňovací návrhy hnutí ANO. Konsenzus byl vyjádřen pouze u pozměňovacího návrhu k příspěvku na mobilitu, který získal podporu napříč koalicí i opozicí.
 
 ### 4. Poznámky
-Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova (např. „oxigenátory“, „sněmovní tisk“). Části textu jsou nesrozumitelné kvůli automatickému přepisu (např. „tisková konerci pojednání“, „mimožádná shůze“).
+Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova (např. „sn tisk“, „oxigenátory“). Části textu jsou nesrozumitelné kvůli automatickému přepisu, nicméně hlavní sdělení jsou identifikovatelná.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh:**
-    *   **Kdo:** Taťána Malá (ANO)
-    *   **Co:** Návrh na rozšíření pravomocí NKÚ o možnost kontrolovat veřejnoprávní média.
-    *   **Proč:** Jde o politicky citlivé téma, které se dotýká nezávislosti veřejnoprávních médií a jejich vztahu k exekutivě a kontrolním orgánům státu.
+*   **Kontroverzní návrh:** Rozšíření pravomocí NKÚ na veřejnoprávní média.
+    *   **Kdo:** Taťána Malá (ANO).
+    *   **Co:** Projednávání senátního návrhu novely ústavy, který má umožnit NKÚ kontrolovat veřejnoprávní média.
+    *   **Proč:** Tato otázka je politicky citlivá, neboť se dotýká nezávislosti veřejnoprávních médií a jejich podřízení státní kontrole, což bývá vnímáno jako nástroj politického tlaku.
     *   **Čas:** 1/01:15
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Digitalizace není připravena tak, aby fungovala bez problémů, a neradi bychom se dostali do situace jako u stavebního zákona.“ (parafráze)
+*   **Text:** „Těmto lidem bude poskytován příspěvek na mobilitu v částce 3 000 Kč neomezeně.“ (parafráze)
     *   **Řečník:** Jana Pastuchová (ANO)
-    *   **Čas:** 1/01:45
-*   **Text:** „Těmto lidem bude poskytován příspěvek na mobilitu v částce 3 000 Kč neomezeně.“ (citace)
+    *   **Čas:** 1/02:30
+*   **Text:** „Digitalizace není připravena tak, aby fungovala bez problémů, a neradi bychom se dostali do situace jako u stavebního zákona.“ (citace)
     *   **Řečník:** Jana Pastuchová (ANO)
-    *   **Čas:** 1/02:08
-*   **Text:** „Otevřen Czech POINT, který bude sloužit pro zaměstnance, poslance, ale i občany Prahy 1, protože tady byly zrušeny pošty.“ (parafráze)
+    *   **Čas:** 1/01:50
+*   **Text:** „Czech POINT bude sloužit pro zaměstnance, poslance, ale i občany Prahy 1, protože tady byly zrušeny pošty.“ (citace)
     *   **Řečník:** Jana Pastuchová (ANO)
-    *   **Čas:** 1/02:40
+    *   **Čas:** 1/03:15
 
 ---
 
@@ -69,13 +70,13 @@ Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá 
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem informování veřejnosti o programu probíhající schůze Poslanecké sněmovny a o konkrétních legislativních prioritách hnutí ANO v oblasti sociální politiky a stavebního zákona.\n\nCílem bylo představit postoj hnutí k projednávaným tiskům, zejména k digitalizaci státní správy, a oznámit otevření nové pobočky Czech POINT v prostorách Poslanecké sněmovny.",
+    "topic": "Tisková konference byla svolána za účelem informování veřejnosti o programu probíhající schůze Poslanecké sněmovny a o konkrétních legislativních prioritách hnutí ANO v oblasti sociální politiky a stavebního zákona.\n\nCílem bylo představit postoj hnutí k digitalizačním procesům, ohlásit projednávání novely stavebního zákona (tzv. bypass) a informovat o sociálních tiscích, které mají za cíl zmírnit dopady nefunkční digitalizace na občany. Zároveň byla oznámena zřízení nového pracoviště Czech POINT v prostorách Poslanecké sněmovny.",
     "main_points": [
-      "**Taťána Malá (ANO)** — Informovala o programu schůze: projednávání novely stavebního zákona („bypass“ související s digitalizací). Upozornila na zítřejší mimořádnou schůzi, kde se bude projednávat zákon o rozpočtové odpovědnosti (3. čtení) a senátní návrh novely ústavy o rozšíření pravomocí Nejvyššího kontrolního úřadu (NKÚ) o kontrolu veřejnoprávních médií. Zmínila, že zákon o podpoře bydlení se pravděpodobně kvůli reakci opozice na pořad jednání nedostane.",
-      "**Jana Pastuchová (ANO)** — Představila dva sociální tisky: prioritou je oddálení digitalizace v sociální oblasti, neboť současný systém nefunguje bezproblémově. Oznámila pozměňovací návrh k příspěvku na mobilitu pro uživatele oxygenátorů a plicních ventilátorů: příspěvek ve výši 3 000 Kč bude poskytován neomezeně na úhradu nákladů za elektrickou energii. Oznámila otevření nového pracoviště Czech POINT v Poslanecké sněmovně."
+      "**Taťána Malá (ANO)** — Ohlásila projednávání novely stavebního zákona, zítřejší mimořádnou schůzi k zákonu o rozpočtové odpovědnosti a projednávání novely ústavy o rozšíření pravomocí NKÚ na veřejnoprávní média.",
+      "**Jana Pastuchová (ANO)** — Představila návrhy na odsunutí digitalizace, pozměňovací návrh na neomezený příspěvek na mobilitu ve výši 3 000 Kč pro osoby s plicní ventilací a otevření Czech POINTu v budově Sněmovny."
     ],
-    "outcome": "Jednání bylo ukončeno předčasně z důvodu začínající schůze Poslanecké sněmovny. Nebylo přijato žádné formální usnesení, tisková konference sloužila výhradně k informování médií o legislativním postupu a aktivitách klubu.",
-    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova. Části textu jsou nesrozumitelné kvůli automatickému přepisu."
+    "outcome": "Jednání bylo ukončeno předčasně z důvodu začínající schůze Poslanecké sněmovny. Nebyla přijata žádná formální usnesení, pouze byly prezentovány legislativní záměry a pozměňovací návrhy hnutí ANO. Konsenzus byl vyjádřen pouze u pozměňovacího návrhu k příspěvku na mobilitu, který získal podporu napříč koalicí i opozicí.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova. Části textu jsou nesrozumitelné kvůli automatickému přepisu, nicméně hlavní sdělení jsou identifikovatelná."
   },
   "entities": {
     "speakers": [
@@ -83,34 +84,34 @@ Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá 
       {"name": "Jana Pastuchová", "person_id": null, "affiliation": "ANO"}
     ],
     "parties": ["ANO"],
-    "institutions": ["Poslanecká sněmovna", "Nejvyšší kontrolní úřad", "Czech POINT"]
+    "institutions": ["Poslanecká sněmovna", "NKÚ", "Czech POINT"]
   },
   "highlights": [
     {
-      "text": "Digitalizace není připravena tak, aby fungovala bez problémů, a neradi bychom se dostali do situace jako u stavebního zákona.",
+      "text": "Těmto lidem bude poskytován příspěvek na mobilitu v částce 3 000 Kč neomezeně.",
       "type": "paraphrase",
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
-      "timestamp": "1/01:45"
+      "timestamp": "1/02:30"
     },
     {
-      "text": "Těmto lidem bude poskytován příspěvek na mobilitu v částce 3 000 Kč neomezeně.",
+      "text": "Digitalizace není připravena tak, aby fungovala bez problémů, a neradi bychom se dostali do situace jako u stavebního zákona.",
       "type": "citation",
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
-      "timestamp": "1/02:08"
+      "timestamp": "1/01:50"
     },
     {
-      "text": "Otevřen Czech POINT, který bude sloužit pro zaměstnance, poslance, ale i občany Prahy 1, protože tady byly zrušeny pošty.",
-      "type": "paraphrase",
+      "text": "Czech POINT bude sloužit pro zaměstnance, poslance, ale i občany Prahy 1, protože tady byly zrušeny pošty.",
+      "type": "citation",
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
-      "timestamp": "1/02:40"
+      "timestamp": "1/03:15"
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Taťána Malá (ANO)\n**Co:** Návrh na rozšíření pravomocí NKÚ o možnost kontrolovat veřejnoprávní média.\n**Proč:** Jde o politicky citlivé téma, které se dotýká nezávislosti veřejnoprávních médií a jejich vztahu k exekutivě a kontrolním orgánům státu.\n**Čas:** 1/01:15",
+      "statement": "**Kontroverzní návrh:** Rozšíření pravomocí NKÚ na veřejnoprávní média.\n- **Kdo:** Taťána Malá (ANO).\n- **Co:** Projednávání senátního návrhu novely ústavy, který má umožnit NKÚ kontrolovat veřejnoprávní média.\n- **Proč:** Tato otázka je politicky citlivá, neboť se dotýká nezávislosti veřejnoprávních médií a jejich podřízení státní kontrole, což bývá vnímáno jako nástroj politického tlaku.\n- **Čas:** 1/01:15",
       "speaker": "Taťána Malá",
       "affiliation": "ANO",
       "timestamp": "1/01:15"

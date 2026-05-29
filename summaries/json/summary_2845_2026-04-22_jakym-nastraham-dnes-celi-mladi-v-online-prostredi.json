@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:46:59",
+  "created_at": "2026-05-29T14:27:25",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2845",
@@ -19,17 +19,17 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář pořádaný v Poslanecké sněmovně dne 22. dubna 2026 se zaměřil na problematiku rizik, kterým čelí děti a mladiství v online prostředí. Cílem jednání bylo otevřít odbornou diskuzi o aktuálních hrozbách, jako jsou kyberšikana, online grooming, závislostní design platforem a dopady umělé inteligence, a identifikovat konkrétní legislativní a preventivní kroky, které by mohly situaci v České republice zlepšit.\n\nJednání zdůraznilo potřebu přejít od obecných proklamací ke konkrétní „chytré regulaci“ a systémovému financování prevence, přičemž zazněla kritika současného stavu, kdy Česká republika v této oblasti zaostává za evropskými standardy.",
+    "topic": "Seminář pořádaný v Poslanecké sněmovně se zaměřil na identifikaci rizik, kterým čelí děti a mladiství v online prostředí, a na hledání efektivních legislativních i preventivních řešení. Cílem bylo otevřít odbornou diskuzi o regulaci digitálních platforem, ochraně dětí před kyberšikanou, groomingem a závislostním designem aplikací.\n\nJednání zdůraznilo potřebu systémové změny, neboť stávající preventivní programy nejsou dostatečně plošné a financování neziskových organizací v této oblasti je dlouhodobě neudržitelné. Účastníci se shodli na nutnosti přejít od obecných proklamací ke konkrétním legislativním krokům, jako je regulace mobilů ve školách, zavedení standardů ochrany dětí (safeguarding) a přísnější postihy za šíření nevhodného obsahu.",
     "main_points": [
-      "**Jakub (Poslanecká sněmovna)** — Organizátor akce, zdůraznil potřebu komparace se zahraničními modely a přípravu manuálu pro zákonodárce.",
-      "**Honza Berky (Poslanecká sněmovna)** — Spolupořadatel, apeluje na komplexní systémové řešení, které nebude pouze politicky snadným, ale neúčinným krokem.",
-      "**Martin Kožíšek (Safer Internet Centrum)** — Upozornil na kritický nedostatek financování preventivních aktivit po roce 2026. Prezentoval data z výzkumu (53 000 dětí), podle nichž 99 % dětí obchází věková omezení platforem. Navrhl zavedení Národního fondu prevence financovaného z reklamního prostoru velkých platforem a zavedení daňových odpočtů pro firmy investující do prevence. Navrhl kriminalizaci zasílání nevyžádaného explicitního obsahu dětem.",
-      "**Matěj Holan (Asociace poskytovatelů adiktologických služeb)** — Varoval před „závislostním designem“ platforem, který využívá mechanismy hazardních her. Zdůraznil devastující vliv na spánkový režim dětí a nárůst násilného chování. Podpořil plošné omezení mobilů ve školách a věkové limity pro přístup k sociálním sítím.",
-      "**Klára Šimáčková-Laurenčíková (bývalá zmocněnkyně vlády pro lidská práva)** — Varovala před riziky AI (deepfakes, manipulace veřejného mínění). Apelovala na implementaci lidskoprávních pojistek do českého zákona o digitální ekonomice a implementaci AI Actu. Podpořila regulaci mobilů ve školách jako nezbytný krok pro ochranu duševního zdraví.",
-      "**Doc. Slávka Karkošková (Univerzita Jana Evangelisty Purkyně)** — Zaměřila se na online grooming a manipulaci dětí osobami v pomáhajících profesích. Navrhla zavedení povinných „standardů safeguardingu“ (ochrany dětí) pro všechny organizace pracující s dětmi, inspirovaných polským modelem."
+      "**Jakub (poslanec)** — Iniciátor debaty, zdůraznil potřebu „chytré regulace“, která nebude jen politickým gestem, ale komplexním řešením.",
+      "**Jan Berky (poslanec)** — Spoluorganizátor, podpořil hledání systémového financování prevence a zdůraznil, že ČR v této oblasti zaostává za zahraničními modely.",
+      "**Martin Kožíšek (Safer Internet Centrum)** — Upozornil na kritický nedostatek financování prevence. Navrhl zdanění velkých platforem pro účely Národního fondu prevence a kriminalizaci zasílání nevyžádaného explicitního obsahu dětem.",
+      "**Matěj Hollan (Asociace poskytovatelů adiktologických služeb)** — Varoval před „závislostním designem“ sociálních sítí. Podpořil plošný zákaz mobilů ve školách a věkové omezení přístupu k sociálním sítím.",
+      "**Klára Šimáčková-Laurenčíková (bývalá zmocněnkyně vlády pro lidská práva)** — Varovala před zneužíváním AI k tvorbě hlubokých manipulací (deepfakes) a radikalizaci dětí v „echokomorách“.",
+      "**Slávka Karkošková (Univerzita J. E. Purkyně)** — Zaměřila se na fenomén groomingu. Představila polský model „safeguardingových politik“, který ukládá organizacím povinnost mít jasná pravidla ochrany dětí."
     ],
-    "outcome": "Jednání nevedlo k okamžitému legislativnímu rozhodnutí, ale vytvořilo konsenzus v několika klíčových bodech:\n* Nutnost vytvořit udržitelný finanční mechanismus pro prevenci (např. zdanění velkých platforem nebo reklamního prostoru).\n* Podpora regulace používání mobilních telefonů ve školním prostředí.\n* Potřeba ukotvit standardy ochrany dětí (safeguarding) v organizacích pracujících s mládeží.\n* Shoda na nutnosti legislativně postihovat zasílání explicitního obsahu dětem a lépe regulovat toxické algoritmy platforem.",
-    "notes": "Od části 9/23 do 23/23 přepis obsahuje opakující se nesmyslné fráze („Přepis je v češtině, obsahuje odbornou terminologii a jména“), což znemožňuje analýzu obsahu v této části. Záznam je tedy kompletní pouze pro první část semináře."
+    "outcome": "Jednání vyústilo v konsenzus, že stávající stav je neudržitelný a vyžaduje rychlou politickou akci. Dominujícími postoji jsou:\n* Potřeba vytvořit **Národní fond prevence** financovaný z příjmů technologických gigantů.\n* Zavedení **povinných standardů ochrany dětí (safeguarding)** pro všechny organizace pracující s mládeží.\n* Politická podpora pro **regulaci používání mobilních telefonů ve školách**.\n* Nutnost legislativně ukotvit **trestnost zasílání explicitního obsahu dětem**.",
+    "notes": "Od 9. části záznamu (cca 02:29) dochází k technické chybě v přepisu, kdy se text opakuje a je nesrozumitelný. Obsah od této části dále není k dispozici pro analýzu."
   },
   "entities": {
     "speakers": [
@@ -39,8 +39,8 @@
         "affiliation": "Poslanecká sněmovna"
       },
       {
-        "name": "Honza Berky",
-        "person_id": null,
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
         "affiliation": "Poslanecká sněmovna"
       },
       {
@@ -49,7 +49,7 @@
         "affiliation": "Safer Internet Centrum"
       },
       {
-        "name": "Matěj Holan",
+        "name": "Matěj Hollan",
         "person_id": null,
         "affiliation": "Asociace poskytovatelů adiktologických služeb"
       },
@@ -71,47 +71,46 @@
       "Poslanecká sněmovna",
       "Safer Internet Centrum",
       "Asociace poskytovatelů adiktologických služeb",
-      "Univerzita Jana Evangelisty Purkyně",
-      "Evropská komise"
+      "Univerzita Jana Evangelisty Purkyně"
     ]
   },
   "highlights": [
     {
-      "text": "99 % dětí nám uvedlo, že pravidla věkového omezení sociálních sítí obchází.",
+      "text": "99 % dětí nám uvedlo, že pravidla věkového omezení sociálních sítí umí obcházet.",
       "type": "citation",
       "speaker": "Martin Kožíšek",
       "affiliation": "Safer Internet Centrum",
       "timestamp": "2/06:37",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_highlight_00.jpg",
-      "context": "Tvrzení vychází z interních průzkumů Safer Internet Centra. Ačkoliv jde o reprezentativní odhad v rámci jejich dotazování, oficiální statistiky o přesném procentu obcházení věkových limitů napříč celou populací ČR neexistují."
+      "screenshot_path": "summaries/screenshots/event_2845_highlight_00.jpg",
+      "context": "Tento údaj vychází z průzkumů Safer Internet Centra (CZ.NIC) mezi českými dětmi. Potvrzuje dlouhodobý trend, kdy děti běžně využívají techniky jako změnu data narození nebo sdílené účty k obcházení věkových limitů platných dle podmínek provozovatelů platforem."
     },
     {
-      "text": "Za rok 2025 jsme zaznamenali nárůst 70 % nahlášení závadného obsahu na lince StopOnline.cz.",
+      "text": "Zničení spánku v důsledku nových závislostí je dramatický problém, který musíme řešit rychle.",
       "type": "citation",
-      "speaker": "Martin Kožíšek",
-      "affiliation": "Safer Internet Centrum",
-      "timestamp": "2/09:24",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_highlight_01.jpg",
-      "context": "Nelze nezávisle ověřit. Rok 2025 ještě neuběhl, tudíž se pravděpodobně jedná o meziroční srovnání k určitému datu nebo o predikci; oficiální výroční zpráva za rok 2025 bude dostupná až po jeho skončení."
+      "speaker": "Matěj Hollan",
+      "affiliation": "Asociace poskytovatelů adiktologických služeb",
+      "timestamp": "4/00:55",
+      "screenshot_path": "summaries/screenshots/event_2845_highlight_01.jpg",
+      "context": "Vliv nadměrného užívání digitálních technologií na kvalitu spánku dětí je potvrzen řadou studií (např. Národní ústav duševního zdraví). Jde o odborný konsenzus v oblasti adiktologie, který spojuje modré světlo a psychickou stimulaci před spaním s narušením cirkadiánního rytmu."
     },
     {
-      "text": "Mediální prostor v ČR generuje 60 až 70 miliard korun, z čehož by se dal financovat Národní fond prevence.",
+      "text": "Pokud ani ve školách děti spolu nebudou normálně mluvit, kde jinde se to mají naučit?",
       "type": "paraphrase",
-      "speaker": "Martin Kožíšek",
-      "affiliation": "Safer Internet Centrum",
-      "timestamp": "3/04:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_highlight_02.jpg",
-      "context": "Odhad celkového objemu mediálního trhu v ČR se pohybuje v řádech desítek miliard korun (dle dat SPIR či Nielsen Admosphere). Návrh na financování Národního fondu prevence z těchto prostředků je politickým návrhem, nikoliv existujícím zákonným mechanismem."
+      "speaker": "Klára Šimáčková-Laurenčíková",
+      "affiliation": "bývalá zmocněnkyně vlády pro lidská práva",
+      "timestamp": "5/06:51",
+      "screenshot_path": "summaries/screenshots/event_2845_highlight_02.jpg",
+      "context": "Jde o hodnotové a pedagogické tvrzení, které nelze fakticky ověřit jako statistický údaj. Odpovídá však současným debatám o digitální deprivaci a rozvoji sociálních dovedností, které jsou předmětem výzkumů v oblasti pedagogické psychologie."
     }
   ],
   "controversial": [
     {
-      "statement": "* **Kontroverzní návrh:** Zákaz mobilů ve školách.\n    * **Kdo:** Matěj Holan (APAS) a Klára Šimáčková-Laurenčíková.\n    * **Co:** Plošný zákaz nebo přísná regulace mobilů ve školách.\n    * **Proč:** Politicky citlivé téma narážející na svobodu jednotlivce a odpor části veřejnosti, která to vnímá jako omezování práv dětí.\n    * **Čas:** 4/06:18 a 5/06:00.",
-      "speaker": "Matěj Holan, Klára Šimáčková-Laurenčíková",
-      "affiliation": "APAS, Úřad vlády",
+      "statement": "* **Kontroverzní návrh: Zákaz mobilů ve školách**\n    * **Kdo:** Matěj Hollan (Asociace poskytovatelů adiktologických služeb) a Klára Šimáčková-Laurenčíková.\n    * **Co:** Plošný zákaz nebo přísná regulace používání mobilů ve školách.\n    * **Proč:** Je to citlivé téma z hlediska svobody jednotlivce a digitální gramotnosti, přičemž odpůrci argumentují obtížnou vymahatelností a potřebou mobilů pro výuku.\n    * **Čas:** 4/06:18 a 5/06:00.",
+      "speaker": "Matěj Hollan",
+      "affiliation": "Asociace poskytovatelů adiktologických služeb",
       "timestamp": "4/06:18",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2845_controversy_00.jpg",
-      "context": "V ČR neexistuje celoplošný zákonný zákaz mobilních telefonů ve školách; rozhodnutí o regulaci je v současnosti v kompetenci jednotlivých škol (školský zákon č. 561/2004 Sb.). Debata o plošné regulaci je předmětem politické diskuse, nikoliv platné legislativy."
+      "screenshot_path": "summaries/screenshots/event_2845_controversy_00.jpg",
+      "context": "V ČR neexistuje celostátní zákonný zákaz mobilů ve školách; rozhodnutí je v kompetenci ředitelů škol dle školského zákona č. 561/2004 Sb. Debata o plošné regulaci probíhá v kontextu evropských zemí (např. Francie či Nizozemsko), kde jsou přístupy k zákazu různé a často diskutované z pohledu efektivity a práv žáků."
     }
   ],
   "quality": {

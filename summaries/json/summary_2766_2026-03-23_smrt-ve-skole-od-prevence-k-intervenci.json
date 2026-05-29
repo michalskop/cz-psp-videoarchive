@@ -1,0 +1,140 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:18:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2766",
+    "name": "Kulatý stůl na téma \"Smrt ve škole – od prevence k intervenci\"",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-23",
+    "sources": [
+      "final/event_2766_2026-03-23_smrt-ve-skole-od-prevence-k-intervenci.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Kulatý stůl, pořádaný poslancem Jiřím Vojáčkem dne 23. března 2026 v Poslanecké sněmovně, se zaměřil na problematiku úmrtí, sebevražd a traumatických ztrát v prostředí škol. Cílem bylo otevřít tabuizované téma, sdílet zkušenosti mezi odborníky z praxe a diskutovat o potřebě systémové prevence a krizové intervence.\n\nDiskuse zdůraznila nutnost propojení škol s externími odborníky, potřebu vzdělávání pedagogů v oblasti duševního zdraví a důležitost otevřené komunikace.",
+    "main_points": [
+      "**Jiří Vojáček (poslanec PSP ČR)** — zdůraznil nárůst úzkostí u mládeže a nutnost vrátit téma smrti do veřejné debaty.",
+      "**Robert Plaga (MŠMT)** — rozlišil tři úrovně pohledu: bezprostřední incident, úmrtí v okolí školy a dlouhodobou preventivní přípravu.",
+      "**Ana Julia Staníčková a Ester (studentky)** — kritizovaly nedostatek důvěry k učitelům a vyzvaly k otevřenější komunikaci o smrti.",
+      "**Laura Juríková (NÚDZ)** — prezentovala data o sebevraždách a navrhla systémový přístup \"whole school approach\".",
+      "**Simona Hoskovcová (Policejní prezidium PČR)** — popsala roli krizové intervence při obnově bezpečí a varovala před nárůstem násilí ve školách.",
+      "**Sylvie Stretti (Poradna Vigvam z.ú.)** — představila model krizových plánů a zdůraznila, že školy potřebují externí pomoc pro zvládání tragédií.",
+      "**Gražina Kokešová Kleinová (FN Motol)** — upozornila na fakt, že 90 % škol nemá nastavené procesy pro řešení úmrtí žáka či učitele.",
+      "**Martin Šimák (Strom života)** — popsal práci mobilních hospiců v terénu a důležitost pravdivé komunikace s dětmi.",
+      "**Miroslav Zavadil (Semiramis z.ú.)** — varoval před neprofesionálními nabídkami pomoci a definoval prevenci jako budování vztahového prostředí."
+    ],
+    "outcome": "Jednání vedlo ke konsenzu o nutnosti:\n* Standardizovat pozůstalostní péči a krizovou intervenci v ČR.\n* Podporovat komunitní síťování škol s odbornými organizacemi.\n* Vzdělávat pedagogy v oblasti duševní gramotnosti.\n* Pokračovat v politické diskusi o systémovém ukotvení těchto služeb.",
+    "notes": "Přepis obsahuje technické artefakty a občasné výpadky textu způsobené automatickým přepisem, obsah je však srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jiří Vojáček",
+        "person_id": "psp:person:7055",
+        "affiliation": "Poslanec PSP ČR"
+      },
+      {
+        "name": "Robert Plaga",
+        "person_id": "psp:person:6549",
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Ana Julia Staníčková",
+        "person_id": null,
+        "affiliation": "Studentka"
+      },
+      {
+        "name": "Laura Juríková",
+        "person_id": null,
+        "affiliation": "NÚDZ"
+      },
+      {
+        "name": "Simona Hoskovcová",
+        "person_id": null,
+        "affiliation": "Policejní prezidium PČR"
+      },
+      {
+        "name": "Sylvie Stretti",
+        "person_id": null,
+        "affiliation": "Poradna Vigvam z.ú."
+      },
+      {
+        "name": "Gražina Kokešová Kleinová",
+        "person_id": null,
+        "affiliation": "FN Motol"
+      },
+      {
+        "name": "Martin Šimák",
+        "person_id": null,
+        "affiliation": "Mobilní hospic Strom života"
+      },
+      {
+        "name": "Miroslav Zavadil",
+        "person_id": "psp:person:4654",
+        "affiliation": "Semiramis z.ú."
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "MŠMT",
+      "NÚDZ",
+      "Policejní prezidium PČR",
+      "Poradna Vigvam",
+      "FN Motol",
+      "Semiramis"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ticho děti nechrání, jen je v tom nechává samotné.",
+      "type": "citation",
+      "speaker": "Ana Julia Staníčková",
+      "affiliation": "Studentka",
+      "timestamp": "2/04:44",
+      "screenshot_path": "summaries/screenshots/event_2766_highlight_00.jpg",
+      "context": "Jde o rétorické vyjádření zdůrazňující význam prevence a komunikace v oblasti duševního zdraví dětí. Z hlediska psychologie a pedagogiky je tento přístup podložen odborným konsenzem, že otevřená komunikace snižuje riziko traumatizace."
+    },
+    {
+      "text": "Sebevražda není jednorázová událost, je to proces a díky tomu vzniká prostor, jak můžeme včas zasáhnout.",
+      "type": "paraphrase",
+      "speaker": "Miroslav Zavadil",
+      "affiliation": "Semiramis z.ú.",
+      "timestamp": "9/07:49",
+      "screenshot_path": "summaries/screenshots/event_2766_highlight_01.jpg",
+      "context": "Tvrzení odpovídá odbornému konsenzu v suicidologii (např. dle metodik Národního ústavu duševního zdraví), která definuje sebevražedné jednání jako proces s varovnými signály. Včasná identifikace těchto signálů je klíčovým pilířem preventivních programů."
+    },
+    {
+      "text": "Devět z deseti škol nemá pro situace úmrtí nastavené žádné řešení.",
+      "type": "citation",
+      "speaker": "Gražina Kokešová Kleinová",
+      "affiliation": "FN Motol",
+      "timestamp": "8/04:01",
+      "screenshot_path": "summaries/screenshots/event_2766_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Ačkoliv odborníci z praxe dlouhodobě upozorňují na nedostatečnou připravenost škol na krizové situace, neexistuje centrální statistika MŠMT, která by kvantifikovala existenci krizových plánů pro úmrtí ve všech školách v ČR."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o tom, že se \"vyrojilo\" mnoho organizací nabízejících pomoc školám, přičemž ředitelé nejsou schopni posoudit jejich kvalitu. Riziko \"obchodu s neštěstím\" a neefektivní pomoci, která může školní kolektivy spíše poškodit.",
+      "speaker": "Sylvie Stretti a Miroslav Zavadil",
+      "affiliation": "Poradna Vigvam / Semiramis",
+      "timestamp": "13/02:00",
+      "screenshot_path": "summaries/screenshots/event_2766_controversy_00.jpg",
+      "context": "Tvrzení reflektuje reálný problém absence akreditace či standardizace služeb v oblasti krizové intervence pro školy. Ředitelé škol skutečně nemají k dispozici oficiální certifikovaný seznam garantovaných poskytovatelů, což vytváří prostor pro nekvalitní či neodborné zásahy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

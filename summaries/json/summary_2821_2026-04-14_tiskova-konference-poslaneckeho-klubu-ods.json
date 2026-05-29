@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:56:37",
+  "created_at": "2026-05-29T14:38:13",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2821",
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu ODS byla svolána za účelem kritiky aktuálních kroků vlády, které představitelé strany označili za nekompetentní, chaotické a směřující k totalitním praktikám. Hlavními tématy byla cenzura v resortu obrany, nekoncepční zásahy do cen pohonných hmot a přetrvávající střet zájmů Andreje Babiše.\n\nCílem vystoupení bylo prezentovat opoziční postoj ODS, představit návrh na zařazení nového bodu jednání sněmovny a vymezit se proti vládní hospodářské politice, kterou ODS považuje za návrat k centrálně plánované ekonomice.",
+    "topic": "Tisková konference byla svolána za účelem vyjádření kritického postoje ODS k aktuálním krokům vlády, které představitelé strany označili za nekompetentní, chaotické a směřující k návratu k totalitním praktikám či centrálně plánované ekonomice.\n\nHlavními tématy byla cenzura v resortu obrany, nekoncepční zásahy do cen pohonných hmot a přetrvávající střet zájmů Andreje Babiše. ODS deklarovala záměr prosadit na jednání Sněmovny speciální bod programu věnovaný vládní cenzuře a odmítla podporu vládních návrhů na cenovou regulaci.",
     "main_points": [
-      "**Martin Kupka (ODS)** — Kritizoval cenzuru v armádě (zákaz rozhovoru s prezidentem), označil vládní kroky za „návrat totality“. Odmítl cenovou regulaci pohonných hmot jako návrat k socialismu a upozornil na střet zájmů Andreje Babiše (skupina Synbiol).",
-      "**Jana Černochová (ODS)** — Ohradila se proti přivlastňování úspěchů v náboru vojáků ministrem Zůnou. Uvedla, že v roce 2025 bylo přijato 2390 nováčků, čímž byl překonán cíl 2100 osob díky legislativě předchozí vlády.",
-      "**Jan Skopeček (ODS)** — Varoval před ekonomickými dopady cenové regulace (kartely, nedostatek paliv). Upozornil, že vláda chce regulaci zavést nařízením, aby znemožnila podnikatelům žalovat stát u správních soudů."
+      "**Martin Kupka (ODS)** — Kritizoval Ministerstvo obrany za cenzuru a vyzval ministra Zůnu k rezignaci. Navrhl zařadit na program Sněmovny bod „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“. Odsoudil vládní záměr regulovat ceny pohonných hmot a upozornil na střet zájmů Andreje Babiše v souvislosti se skupinou Synbiol.",
+      "**Jana Černochová (ODS)** — Označila zásahy ministra Zůny do obsahu armádních médií za bezprecedentní. Zdůraznila, že rekordní zájem o nábor do armády (2390 nováčků v roce 2025) je výsledkem práce minulé vlády, nikoliv současného vedení resortu.",
+      "**Jan Skopeček (ODS)** — Varoval před ekonomickými dopady cenové regulace paliv. Kritizoval záměr vlády realizovat regulaci prostřednictvím nařízení vlády, což znemožní podnikatelům žalovat stát u správních soudů a žádat kompenzace."
     ],
-    "outcome": "ODS navrhla zařadit na program jednání sněmovny nový bod s názvem „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“. Strana deklarovala, že nepodpoří vládní návrh na cenovou regulaci pohonných hmot v režimu legislativní nouze.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné useknutí slov, které však nemají vliv na pochopení obsahu."
+    "outcome": "ODS se jednoznačně vymezila proti vládní politice v oblasti cenotvorby a svobody slova. Strana hodlá v Poslanecké sněmovně iniciovat debatu o cenzurních praktikách na Ministerstvu obrany a bude hlasovat proti vládním návrhům na cenovou regulaci pohonných hmot, které považuje za právně i ekonomicky nebezpečné.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a useknutým slovům, nicméně hlavní argumentační linie řečníků jsou zřejmé."
   },
   "entities": {
     "speakers": [
@@ -54,61 +54,59 @@
       "Poslanecká sněmovna",
       "Ministerstvo obrany",
       "Ministerstvo financí",
-      "NATO",
-      "Agrofert",
-      "Synbiol"
+      "NATO"
     ]
   },
   "highlights": [
     {
-      "text": "Vláda předvedla bohužel další posun, tentokrát od náhubků k cenzuře.",
+      "text": "To, že armáda nezveřejnila natočený rozhovor s prezidentem České republiky, představuje zásah do normálních poměrů v České republice.",
       "type": "citation",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/00:22",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2821_highlight_00.jpg",
-      "context": "Jde o politické hodnocení vládních kroků, nikoliv o faktické tvrzení. Pojmy jako „cenzura“ jsou v tomto kontextu subjektivní interpretací legislativních či exekutivních kroků vlády."
+      "timestamp": "1/00:26",
+      "screenshot_path": "summaries/screenshots/event_2821_highlight_00.jpg",
+      "context": "Jedná se o subjektivní politické hodnocení postupu Armády ČR. Zveřejňování záznamů z interních jednání či rozhovorů podléhá vnitřním předpisům MO ČR a zákonu č. 106/1999 Sb., o svobodném přístupu k informacím, přičemž neexistuje zákonná povinnost zveřejňovat veškeré natočené materiály."
     },
     {
-      "text": "V roce 2025 vstoupilo do řad profesionálních vojáků 2390 nováčků, rekrutačním cílem bylo přijmout 2100 nových vojáků.",
-      "type": "citation",
+      "text": "V roce 2025 vstoupilo do řad profesionálních vojáků 2390 nováčků, čímž jsme rekrutační cíl 2100 vojáků překonali o 300 lidí.",
+      "type": "paraphrase",
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/09:48",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2821_highlight_01.jpg",
-      "context": "Údaje o náboru vojáků z povolání jsou ověřitelné prostřednictvím výročních zpráv Ministerstva obrany ČR a statistik Armády ČR. Vzhledem k tomu, že rok 2025 ještě neskončil, jde o průběžná data, která je třeba konfrontovat s aktuálními výkazy personálního odboru MO."
+      "screenshot_path": "summaries/screenshots/event_2821_highlight_01.jpg",
+      "context": "Údaj je ověřitelný prostřednictvím výročních zpráv Ministerstva obrany ČR a náborových statistik AČR. Matematický součet (2100 + 300) však neodpovídá uváděnému celku 2390, což naznačuje faktickou nepřesnost v prezentovaných číslech."
     },
     {
-      "text": "Zásahy do cenového mechanismu nefungují, negativa se projeví velmi rychle, viděli jsme to v Maďarsku.",
-      "type": "paraphrase",
+      "text": "Zásahy do cenového mechanismu nefungují, vidíme to na zkušenostech z Maďarska, kde se negativa projevila velmi rychle.",
+      "type": "citation",
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
-      "timestamp": "1/14:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2821_highlight_02.jpg",
-      "context": "Ekonomický dopad zastropování cen pohonných hmot a potravin v Maďarsku (zavedeno 2021/2022) je zdokumentován institucemi jako MMF či OECD. Analýzy potvrzují, že tyto zásahy vedly k nedostatku zboží na trhu a následnému prudkému růstu cen po jejich zrušení."
+      "timestamp": "1/14:03",
+      "screenshot_path": "summaries/screenshots/event_2821_highlight_02.jpg",
+      "context": "Ekonomická teorie i empirická data (např. zprávy OECD či MMF) potvrzují, že plošné cenové stropy vedou k tržním deformacím. Maďarská zkušenost s regulací cen potravin a pohonných hmot v letech 2022–2023 skutečně vedla k následnému růstu cen a nedostatku zboží na trhu."
     }
   ],
   "controversial": [
     {
-      "statement": "**Martin Kupka (ODS)** navrhl zařazení bodu „Návrat totality, roubík pro prezidenta a cenzura jako vládní program“. Toto označení je politicky vysoce citlivé, neboť přímo obviňuje vládu z totalitních praktik.\n\n**Čas:** 1/01:50",
+      "statement": "**Martin Kupka (ODS)** označil vládní kroky v oblasti cen pohonných hmot za „faktický návrat k centrální socialistické ekonomice“.",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/01:50",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2821_controversy_00.jpg",
-      "context": "Jedná se o politickou rétoriku a názorové vyjádření poslance. Označení vládních kroků za „totalitu“ či „cenzuru“ není faktickým popisem právního stavu, ale politickou kritikou opozice."
+      "timestamp": "1/02:01",
+      "screenshot_path": "summaries/screenshots/event_2821_controversy_00.jpg",
+      "context": "Jde o politickou rétoriku a hodnotový soud. „Centrální socialistická ekonomika“ je v ekonomické vědě definována státním vlastnictvím výrobních prostředků a centrálním plánováním, nikoliv regulací cen v tržním prostředí."
     },
     {
-      "statement": "**Jan Skopeček (ODS)** obvinil ministryni Schillerovou z obcházení soudní kontroly tím, že chce cenovou regulaci zavést formou vládního nařízení, což znemožní podnikatelům žalovat stát.\n\n**Čas:** 1/15:30",
+      "statement": "**Jan Skopeček (ODS)** obvinil ministryni Schillerovou, že záměrně volí formu „nařízení vlády“ pro regulaci cen, aby znemožnila podnikatelům soudní obranu.",
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
-      "timestamp": "1/15:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2821_controversy_01.jpg",
-      "context": "Možnost soudního přezkumu vládních nařízení je dána zákonem č. 150/2002 Sb., soudní řád správní. Zda konkrétní forma regulace (nařízení vs. zákon) fakticky znemožňuje žalobu, je právní otázka závislá na konkrétní legislativní úpravě a judikatuře Nejvyššího správního soudu."
+      "timestamp": "1/16:00",
+      "screenshot_path": "summaries/screenshots/event_2821_controversy_01.jpg",
+      "context": "Nelze nezávisle ověřit. Záměr (úmysl) ministryně nelze objektivně prokázat; právní forma nařízení vlády je standardním legislativním nástrojem, který je však dle správního řádu a ústavního pořádku ČR přezkoumatelný soudy v rámci správního soudnictví."
     }
   ],
   "quality": {
-    "transcript_quality": "good",
-    "unintelligible_parts": false
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
   },
   "extras": null
 }

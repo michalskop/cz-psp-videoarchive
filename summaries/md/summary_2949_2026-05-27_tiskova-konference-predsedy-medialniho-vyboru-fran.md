@@ -1,0 +1,135 @@
+## 1. Téma a účel jednání
+
+Tisková konference předsedy mediálního výboru Františka Talíře byla svolána za účelem kritiky vládních legislativních návrhů týkajících se veřejnoprávních médií (Česká televize a Český rozhlas). František Talíř označil vládní kroky za pokus o destabilizaci těchto institucí a varoval před riziky spojenými s návrhem novely zákona o veřejnoprávních médiích, který předložil poslanec Patrik Nacher.
+
+Cílem konference bylo rovněž představit občanskou iniciativu studentů středních škol, kteří prostřednictvím petice vyjadřují nesouhlas se zrušením koncesionářských poplatků. Studenti požadují zachování finanční stability a nezávislosti veřejnoprávních médií a kritizují absenci odborné debaty při tvorbě vládní legislativy.
+
+## 2. Hlavní body
+
+*   **František Talíř (předseda mediálního výboru):**
+    *   Kritizuje vládní koalici za destabilizaci České televize a Českého rozhlasu.
+    *   Upozorňuje na návrh Patrika Nachera, který považuje za „parodii na zákon“.
+    *   Varuje před finančními dopady v řádech stovek milionů korun, které nejsou v návrhu přesně vyčísleny.
+    *   Kritizuje legislativní proces, zejména rychlost účinnosti novely (následující měsíc po vyhlášení), což je v rozporu s principem předvídatelnosti financování a může narazit u Evropské komise.
+    *   Deklaruje snahu opozice zabránit těmto návrhům a chránit nezávislost médií.
+*   **Jakub Rechnovský (student Střední průmyslové školy dopravní):**
+    *   Zastupuje iniciativu studentů středních škol, učilišť a gymnázií.
+    *   Kritizuje spěch a absenci odborné debaty při tvorbě vládního návrhu.
+    *   Vyzývá vládu k vysvětlení, jak zajistí nezávislost a finanční stabilitu médií.
+    *   Informuje o petici proti zrušení koncesionářských poplatků, kterou podepsalo téměř 1000 studentů z celé republiky.
+    *   Zdůrazňuje nutnost fungování médií na základě dlouhodobých plánů schválených radami.
+
+## 3. Výsledek / závěr
+
+Jednání nemělo charakter formálního hlasování, šlo o tiskový brífink. Dominujícím postojem řečníků je odmítnutí vládního návrhu novely zákona o médiích, požadavek na zastavení destabilizace veřejnoprávních institucí a apel na vedení odborné diskuse.
+
+## 4. Poznámky
+
+Přepis záznamu je kompletní, bez zjevných výpadků textu.
+
+---
+
+## Doplňující otázky
+
+*   **Kontroverzní návrh:**
+    *   **Kdo:** Patrik Nacher (poslanec).
+    *   **Co:** Návrh novely zákona o veřejnoprávních médiích, který má vést ke zrušení koncesionářských poplatků.
+    *   **Proč:** František Talíř jej označuje za „parodii na zákon“, která destabilizuje média, postrádá finanční analýzu dopadů a odporuje evropským standardům předvídatelnosti financování.
+    *   **Čas:** 1/01:15
+
+---
+
+## Klíčové citace pro veřejnost
+
+*   **Text:** „Vládní koalice se snaží zprava, zleva nějakým způsobem destabilizovat Českou televizi a Český rozhlas, a proto generuje další návrhy.“ (parafráze)
+    *   **Řečník:** František Talíř (předseda mediálního výboru)
+    *   **Čas:** 1/00:45
+*   **Text:** „Jde o stovky milionů korun v jejich rozpočtech, přičemž tam není ani přesně vyčíslené, kolik to tedy vlastně bude.“ (citace)
+    *   **Řečník:** František Talíř (předseda mediálního výboru)
+    *   **Čas:** 1/01:30
+*   **Text:** „Petici studentů středních škol proti zrušení koncesionářských poplatků momentálně podepsalo necelých 1000 studentů.“ (citace)
+    *   **Řečník:** Jakub Rechnovský (student)
+    *   **Čas:** 1/03:30
+
+---
+
+## JSON výstup
+
+```json
+{
+  "schema_version": "2",
+  "created_at": null,
+  "model_hint": null,
+  "event": {
+    "id": "2949",
+    "name": "Tisková konference předsedy mediálního výboru Františka Talíře",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-27T13:00",
+    "end_date": "2026-05-27T13:04",
+    "sources": []
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference předsedy mediálního výboru Františka Talíře byla svolána za účelem kritiky vládních legislativních návrhů týkajících se veřejnoprávních médií (Česká televize a Český rozhlas). František Talíř označil vládní kroky za pokus o destabilizaci těchto institucí a varoval před riziky spojenými s návrhem novely zákona o veřejnoprávních médiích, který předložil poslanec Patrik Nacher.\n\nCílem konference bylo rovněž představit občanskou iniciativu studentů středních škol, kteří prostřednictvím petice vyjadřují nesouhlas se zrušením koncesionářských poplatků. Studenti požadují zachování finanční stability a nezávislosti veřejnoprávních médií a kritizují absenci odborné debaty při tvorbě vládní legislativy.",
+    "main_points": [
+      "**František Talíř (předseda mediálního výboru)** — Kritizuje vládní koalici za destabilizaci České televize a Českého rozhlasu. Upozorňuje na návrh Patrika Nachera, který považuje za „parodii na zákon“. Varuje před finančními dopady v řádech stovek milionů korun a kritizuje legislativní proces, zejména rychlost účinnosti novely, což může narazit u Evropské komise.",
+      "**Jakub Rechnovský (student Střední průmyslové školy dopravní)** — Zastupuje iniciativu studentů středních škol. Kritizuje spěch a absenci odborné debaty při tvorbě vládního návrhu. Vyzývá vládu k vysvětlení, jak zajistí nezávislost a finanční stabilitu médií. Informuje o petici proti zrušení koncesionářských poplatků, kterou podepsalo téměř 1000 studentů."
+    ],
+    "outcome": "Jednání nemělo charakter formálního hlasování, šlo o tiskový brífink. Dominujícím postojem řečníků je odmítnutí vládního návrhu novely zákona o médiích, požadavek na zastavení destabilizace veřejnoprávních institucí a apel na vedení odborné diskuse.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {"name": "František Talíř", "person_id": null, "affiliation": "předseda mediálního výboru"},
+      {"name": "Jakub Rechnovský", "person_id": null, "affiliation": "student Střední průmyslové školy dopravní"}
+    ],
+    "parties": ["vládní koalice", "opozice"],
+    "institutions": ["Česká televize", "Český rozhlas", "Evropská komise", "Střední průmyslová škola dopravní"]
+  },
+  "highlights": [
+    {
+      "text": "Vládní koalice se snaží zprava, zleva nějakým způsobem destabilizovat Českou televizi a Český rozhlas, a proto generuje další návrhy.",
+      "type": "paraphrase",
+      "speaker": "František Talíř",
+      "affiliation": "předseda mediálního výboru",
+      "timestamp": "1/00:45",
+      "screenshot_path": null
+    },
+    {
+      "text": "Jde o stovky milionů korun v jejich rozpočtech, přičemž tam není ani přesně vyčíslené, kolik to tedy vlastně bude.",
+      "type": "citation",
+      "speaker": "František Talíř",
+      "affiliation": "předseda mediálního výboru",
+      "timestamp": "1/01:30",
+      "screenshot_path": null
+    },
+    {
+      "text": "Petici studentů středních škol proti zrušení koncesionářských poplatků momentálně podepsalo necelých 1000 studentů.",
+      "type": "citation",
+      "speaker": "Jakub Rechnovský",
+      "affiliation": "student Střední průmyslové školy dopravní",
+      "timestamp": "1/03:30",
+      "screenshot_path": null
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Patrik Nacher (poslanec).\n**Co:** Návrh novely zákona o veřejnoprávních médiích, který má vést ke zrušení koncesionářských poplatků.\n**Proč:** František Talíř jej označuje za „parodii na zákon“, která destabilizuje média, postrádá finanční analýzu dopadů a odporuje evropským standardům předvídatelnosti financování.\n**Čas:** 1/01:15",
+      "speaker": "Patrik Nacher",
+      "affiliation": "poslanec",
+      "timestamp": "1/01:15",
+      "screenshot_path": null
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
+```

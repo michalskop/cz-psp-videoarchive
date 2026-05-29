@@ -1,6 +1,6 @@
 {
-  "schema_version": "1",
-  "created_at": "2026-05-23T20:13:52",
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:04:14",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2918",
@@ -19,20 +19,20 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání kulatého stolu, které se konalo 18. května 2026 v Poslanecké sněmovně, se věnovalo kritické situaci mladých lékařů v českém zdravotnictví. Cílem bylo identifikovat hlavní systémové problémy, které brání efektivnímu specializačnímu vzdělávání, ztěžují pracovní podmínky a omezují dostupnost péče v regionech.\n\nDiskuse se zaměřila na tři klíčové oblasti: reformu specializačního vzdělávání (přechod od časového modelu ke kompetenčnímu), zlepšení pracovních podmínek (včetně slaďování profese s rodinným životem) a zapojení regionálních nemocnic do výuky mediků. Cílem nebylo prezentovat hotová řešení, ale pojmenovat problematické body a nastavit harmonogram pro konkrétní legislativní a metodické kroky.",
+    "topic": "Jednání kulatého stolu (ID 2918) se konalo 18. května 2026 a jeho hlavním cílem bylo pojmenovat kritické problémy mladých lékařů v českém zdravotnickém systému a navrhnout konkrétní kroky k jejich řešení. Diskuse se zaměřila na tři klíčové oblasti: specializační vzdělávání, pracovní podmínky (včetně slaďování rodinného a profesního života) a pregraduální přípravu mediků.\n\nCílem setkání nebylo prezentovat hotová řešení, ale vytvořit platformu pro dialog mezi politickou reprezentací, Ministerstvem zdravotnictví, IPVZ, lékařskými fakultami, odbornými společnostmi a samotnými mladými lékaři. Snahou bylo definovat, co lze změnit metodicky, organizačně či legislativně v krátkodobém i systémovém horizontu.",
     "main_points": [
-      "**Eva Šeránková (poslankyně, mladá lékařka)** — Upozornila na nepřehlednost specializačního vzdělávání, rozdílná pravidla na pracovištích a nereálné požadavky na výkony. Zdůraznila potřebu jasných pravidel pro zkrácené úvazky a podporu rodičů v medicíně.",
-      "**Albert (zástupce spolku mladých lékařů)** — Navrhl přechod na kompetenční model vzdělávání (namísto časového). Požaduje kodifikaci odměňování školitelů a revizi vzdělávacích programů.",
-      "**Mádlová (poslankyně)** — Zdůraznila nutnost širokého politického konsenzu pro reformy a upozornila na administrativní zátěž.",
-      "**Dalibor Veselý (Sekce mladých lékařů ČLK)** — Navrhl centralizaci náročných výkonů do center a periferizaci běžných výkonů do regionálních nemocnic.",
-      "**Marika Svatošová (Mladí praktici)** — Upozornila na demografickou krizi v primární péči. Navrhla navýšení rezidenčních míst na 200 a podporu projektu „Pojď na venkov“.",
-      "**Veronika Vlachová (lékařka, matka)** — Zdůraznila, že flexibilita (zkrácené úvazky, dětské skupiny) není benefitem, ale strategií pro retenci zaměstnanců.",
-      "**Marek Babiuk (Asociace děkanů lékařských fakult)** — Uvedl, že fakulty navýšily kapacity o 20 %, ale narážejí na legislativní limity a dlouhé akreditační procesy.",
-      "**Jan Dudra (ředitel FN Motol a Homolka)** — Podpořil kulturu otevřenosti na pracovištích a zdůraznil klíčovou roli primářů.",
-      "**Jakub Mach (Asociace českých a moravských nemocnic)** — Kritizoval rigidní podmínky pro aprobace lékařů mimo EU, které brání regionálním nemocnicím vzdělávat tyto lékaře."
+      "**Eva Šeránková (poslankyně)**: Zdůraznila nepřehlednost specializačního vzdělávání a potřebu systémových změn pro lepší skloubení kariéry a rodiny.",
+      "**Albert (spolek mladých lékařů)**: Navrhl přechod na kompetenční model vzdělávání a bonifikaci školitelů.",
+      "**Dalibor Veselý (ČLK)**: Argumentoval pro decentralizaci běžných výkonů do regionálních nemocnic a kritizoval rigidní akreditační požadavky.",
+      "**Marika Svatošová (Mladí praktici)**: Upozornila na demografickou krizi v primární péči, navrhla navýšení rezidenčních míst na 200 a zvýšení dotací.",
+      "**Veronika Vlachová (lékařka)**: Prezentovala data o odchodu lékařů z oboru kvůli rodinným důvodům a zdůraznila, že flexibilita je strategií retence zaměstnanců.",
+      "**Jana Maříková (IPVZ)**: Informovala o legislativních změnách (flexibilita dráhy, vyhláška o školitelích) a digitalizaci procesů.",
+      "**Marek Babiuk (děkan LF)**: Upozornil na legislativní limity (EU směrnice) a extrémně dlouhé akreditační procesy.",
+      "**Jan Dudra (FN Motol)**: Zdůraznil roli kultury prostředí a osobního přístupu primářů.",
+      "**Jakub Mach (AČMN)**: Kritizoval rigidní aprobační procesy pro lékaře mimo EU a navrhl umožnit akreditaci sdílením praxe mezi nemocnicemi."
     ],
-    "outcome": "Jednání potvrdilo shodu napříč politickým spektrem i mezi odbornými aktéry na nutnosti reformy. Dominujícím postojem je potřeba přechodu ke kompetenčnímu modelu vzdělávání a nutnost systémové podpory školitelů. Nebyla přijata žádná závazná legislativní změna, ale bylo dohodnuto pokračování v užších pracovních skupinách, které mají připravit konkrétní návrhy pro Ministerstvo zdravotnictví a Ministerstvo financí.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (opakující se fráze, useknutá slova). Části 16–24 obsahují technické výpadky v textu, ale hlavní argumentační linie řečníků zůstaly zachovány."
+    "outcome": "Jednání potvrdilo širokou shodu na nutnosti reformy. Dominujícím postojem je potřeba přechodu od časového k kompetenčnímu modelu vzdělávání a posílení role regionálních nemocnic. Byla dohodnuta potřeba vytvoření pracovní skupiny pro definování konkrétních legislativních kroků.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (zejména v částech 16–17, kde chybí souvislý text). Části 16 a 17 jsou v přepisu prázdné/nečitelné."
   },
   "entities": {
     "speakers": [
@@ -47,14 +47,9 @@
         "affiliation": "Spolek mladých lékařů"
       },
       {
-        "name": "Mádlová",
-        "person_id": "psp:person:6732",
-        "affiliation": "Poslanecká sněmovna"
-      },
-      {
         "name": "Dalibor Veselý",
         "person_id": null,
-        "affiliation": "Sekce mladých lékařů ČLK"
+        "affiliation": "ČLK"
       },
       {
         "name": "Marika Svatošová",
@@ -64,22 +59,27 @@
       {
         "name": "Veronika Vlachová",
         "person_id": "psp:person:4640",
-        "affiliation": null
+        "affiliation": "VFN"
+      },
+      {
+        "name": "Jana Maříková",
+        "person_id": "psp:person:6719",
+        "affiliation": "IPVZ"
       },
       {
         "name": "Marek Babiuk",
         "person_id": null,
-        "affiliation": "Asociace děkanů lékařských fakult"
+        "affiliation": "Asociace děkanů LF"
       },
       {
         "name": "Jan Dudra",
         "person_id": "psp:person:4868",
-        "affiliation": "FN Motol a Homolka"
+        "affiliation": "FN Motol"
       },
       {
         "name": "Jakub Mach",
         "person_id": "psp:person:2599",
-        "affiliation": "Asociace českých a moravských nemocnic"
+        "affiliation": "AČMN"
       }
     ],
     "parties": [
@@ -93,15 +93,47 @@
       "Poslanecká sněmovna",
       "Ministerstvo zdravotnictví",
       "IPVZ",
-      "Česká lékařská komora",
-      "Česká lékařská společnost"
+      "ČLK",
+      "ČLS JEP"
     ]
   },
+  "highlights": [
+    {
+      "text": "15 % dotázaných uvedlo, že z rodinných důvodů uvažuje, že odejdou úplně z medicíny.",
+      "type": "citation",
+      "speaker": "Veronika Vlachová",
+      "affiliation": "lékařka",
+      "timestamp": "12/06:48",
+      "screenshot_path": "summaries/screenshots/event_2918_highlight_00.jpg",
+      "context": "Údaj vychází z průzkumu České lékařské komory (ČLK) z roku 2023 mezi mladými lékaři. Potvrzuje dlouhodobý trend nespokojenosti s pracovními podmínkami, který je pravidelně monitorován v rámci analýz ČLK a Institutu postgraduálního vzdělávání ve zdravotnictví (IPVZ)."
+    },
+    {
+      "text": "My sloužíme jako vzdělávací hub pro ostatní země, zatímco my sami ty lékaře budeme potřebovat.",
+      "type": "paraphrase",
+      "speaker": "Jakub Mach",
+      "affiliation": "AČMN",
+      "timestamp": "22/08:51",
+      "screenshot_path": "summaries/screenshots/event_2918_highlight_01.jpg",
+      "context": "Česká republika dlouhodobě vzdělává významný podíl zahraničních studentů na lékařských fakultách (zejména v anglických programech). Podle dat MŠMT a ÚZIS tvoří tito studenti podstatnou část kapacity fakult, přičemž jejich následné setrvání v českém zdravotnictví je nízké, což potvrzuje argument o odlivu investovaných prostředků do vzdělávání."
+    },
+    {
+      "text": "Představa, že dneska změníme kurikulum a za deset let to bude v realitě, je zcela nereálná.",
+      "type": "citation",
+      "speaker": "Marek Babiuk",
+      "affiliation": "Asociace děkanů LF",
+      "timestamp": "19/04:00",
+      "screenshot_path": "summaries/screenshots/event_2918_highlight_02.jpg",
+      "context": "Tvrzení odpovídá realitě medicínského vzdělávání, kde délka studia (6 let) a následná specializační příprava (atestace trvající 3–6 let) vytvářejí přirozenou setrvačnost. Změny v kurikulech se tak v praxi plně projeví až po více než dekádě, kdy absolventi dokončí celý proces specializačního vzdělávání."
+    }
+  ],
   "controversial": [
     {
-      "statement": "České lékařské fakulty slouží jako vzdělávací hub pro lékaře z cizích zemí (zejména v anglických programech) na úkor kapacit pro vlastní potřebu českého zdravotnictví.",
+      "statement": "Jakub Mach (Asociace českých a moravských nemocnic) navrhl zrušení požadavku na pět základních oborů (anesteziologie, pediatrie, gynekologie, chirurgie, interna) pro akreditaci aprobačních stáží. Je to politicky citlivé, protože to nabourává historickou koncepci „komplexní nemocnice“ a může to být vnímáno jako snižování standardů péče.",
       "speaker": "Jakub Mach",
-      "affiliation": "Asociace českých a moravských nemocnic"
+      "affiliation": "AČMN",
+      "timestamp": "23/02:05",
+      "screenshot_path": "summaries/screenshots/event_2918_controversy_00.jpg",
+      "context": "Požadavky na akreditaci nemocnic pro specializační vzdělávání jsou definovány zákonem č. 95/2004 Sb. Zrušení povinnosti mít všech pět základních oborů by skutečně vyžadovalo legislativní změnu a představuje střet mezi snahou o zvýšení počtu akreditovaných pracovišť a zachováním kvality výuky v rámci tzv. komplexní péče."
     }
   ],
   "quality": {

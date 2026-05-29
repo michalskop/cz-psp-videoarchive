@@ -1,50 +1,45 @@
-Zde je strukturované shrnutí konference „Počínšťování Tibetu“, která se uskutečnila 25. března 2026 v Poslanecké sněmovně Parlamentu ČR.
+Toto je strukturované shrnutí konference „Počínšťování Tibetu“, která se uskutečnila 25. března 2026 v Poslanecké sněmovně PČR.
 
 ### 1. Téma a účel jednání
-Konference se zaměřila na analýzu současné situace v Tibetu, který je pod čínskou správou vystaven systematickému procesu tzv. „počínšťování“ (sinizace). Cílem akce bylo upozornit na agresivní politiku Pekingu, která směřuje k likvidaci tibetské kultury, náboženství, jazyka a identity, a analyzovat širší geopolitické souvislosti, včetně vlivu Číny na globální bezpečnost a demokratické hodnoty.
+Konference se zaměřila na analýzu současné situace v Tibetu, konkrétně na proces tzv. „počínšťování“ (sinizace), který zahrnuje systematickou likvidaci tibetské kultury, jazyka, náboženské identity a autonomie ze strany Čínské lidové republiky. Cílem akce bylo upozornit na agresivní politiku Pekingu, která má za následek nejen útlak tibetského etnika, ale představuje i širší bezpečnostní a geopolitickou hrozbu pro demokratické státy.
 
-Akce sloužila jako platforma pro sdílení svědectví o porušování lidských práv, diskuzi o strategickém významu Tibetu jako hydrologického a geopolitického uzlu a reflexi české podpory Tibetu navazující na odkaz Václava Havla.
+Konference sloužila jako platforma pro sdílení odborných poznatků sinologů, tibetanistů a politických představitelů. Akcentovala potřebu české zahraniční politiky navázat na „havlovskou tradici“ podpory lidských práv a upozornila na rizika spojená s rostoucím vlivem Číny v Evropě.
 
 ### 2. Hlavní body
-*   **Helena Langšádlová (poslankyně PSP ČR):** Organizátorka akce zdůraznila, že Čína je nedemokratický a agresivní režim. Varovala před bezpečnostními hrozbami plynoucími z rostoucího vlivu Číny v Evropě a ČR. Zdůraznila nutnost sledovat lidskoprávní situaci uvnitř Číny.
-*   **Martin Hála (ředitel projektu Sinopsis):** Definoval Tibet jako „skrytý multiplikátor moci“ v Eurasii. Zdůraznil čtyři roviny významu Tibetu: geopolitickou (kontrola přístupů k Indii), kulturní (kontrola identity), náboženskou (transnacionální vliv buddhismu) a ekologickou (prameny veletoků pro 1/4 světové populace).
-*   **Tinlay Chukki (velvyslankyně Tibetské exilové vlády):** Popsala systematickou represi, včetně „koloniálních škol“ pro milion tibetských dětí. Upozornila na fenomén transnacionální represe, kdy čínský režim monitoruje a zastrašuje Tibeťany žijící v exilu v Evropě.
-*   **Břetislav Rychlík (senátor PČR):** Svědectví z návštěvy Dharamsaly. Varoval před čínským vměšováním do procesu reinkarnace Dalajlámy, což přirovnal k pokusu „vybrat papeže v Kremlu“.
-*   **Jarmila Ptáčková (sinoložka, Orientální ústav AV ČR):** Analyzovala zákon o „etnické jednotě“ (platný od července 2026), který právně ukotvuje asimilaci. Popsala militarizaci hranic a zneužívání ekonomické závislosti tibetských rodin k vynucování loajality.
-*   **David Gardáš (sinolog, projekt Sinopsis):** Představil technokratický pohled na Tibet jako „západní pokladnici“ Číny. Upozornil na masivní těžbu lithia, budování superpočítačových center a vojenskou infrastrukturu (letiště dvojího užití) namířenou proti Indii.
-*   **Tomáš Etzler (novinář):** Popsal nemožnost nezávislé novinářské práce v Tibetu. Tibet je pro novináře „off-limits“, oficiální cesty jsou přísně inscenované a monitorované.
-*   **Alexandr Neumann (novinář):** Připomněl havlovské dědictví a význam pozvání Dalajlámy do Prahy v roce 1990 jako klíčového momentu pro mezinárodní uznání tibetské otázky.
+*   **Helena Langšádlová (poslankyně PSP ČR):** Organizátorka akce zdůraznila, že Čína je nedemokratický a agresivní režim. Varovala před bezpečnostními hrozbami vyplývajícími ze závislosti na Číně a zdůraznila nutnost sledovat čínský vliv v Evropě i ve světě.
+*   **Martin Hála (projekt Sinopsis):** Definoval Tibet jako klíčový geopolitický uzel Eurázie. Upozornil na čtyři roviny významu Tibetu: geopolitickou (kontrola přístupů k Indii), kulturní, náboženskou a ekologickou (zdroj vody pro 1/4 světové populace).
+*   **H.E. Tinlay Chukki (velvyslankyně Tibetské exilové vlády):** Popsala kritickou situaci v Tibetu, včetně nucené převýchovy dětí v koloniálních školách a snahy Pekingu kontrolovat proces reinkarnace dalajlamy. Upozornila na fenomén „transnacionální represe“, kdy Čína pronásleduje Tibeťany žijící v exilu v Evropě.
+*   **Břetislav Rychlík (senátor Senátu PČR):** Sdílel osobní svědectví z návštěvy Dharamsaly. Kritizoval nový čínský zákon o „etnické jednotě“ a přirovnal snahu Pekingu o výběr dalajlamy k situaci, „jako kdyby v Kremlu vybírali papeže“.
+*   **Jarmila Ptáčková (Orientální ústav AV ČR):** Analyzovala systematickou marginalizaci tibetské identity. Upozornila na zneužívání technologií pro sledování obyvatel a na negativní dopady čínského vlivu v sousedním Nepálu, kde jsou Tibeťané zbavováni práv a identity.
+*   **David Gardáš (projekt Sinopsis):** Zaměřil se na ekonomické a strategické ambice Číny v Tibetu (těžba lithia, mědi, budování obřích přehrad a militarizace regionu). Zdůraznil, že infrastruktura v Tibetu slouží „dvojímu účelu“ – civilnímu i vojenskému.
+*   **Zuzana Ondomišiová (etnografka):** Vysvětlila význam instituce dalajlamy jako symbolu kontinuity, legitimity a duchovního sjednocení tibetského národa.
+*   **Tomáš Etzler (novinář):** Popsal extrémní obtížnost novinářské práce v Tibetu, který je pro nezávislé reportéry prakticky uzavřenou oblastí. Informace jsou získávány pouze skrze satelitní snímky nebo velmi riskantní svědectví místních.
+*   **Alexandr Neumann (novinář):** Připomněl odkaz Václava Havla a jeho roli při „otevírání dveří“ pro tibetskou otázku v mezinárodní diplomacii.
 
 ### 3. Výsledek / závěr
-Konference vyústila v konsenzus o nutnosti pokračovat v monitorování situace v Tibetu a šíření osvěty o čínském vlivu. Poslankyně Langšádlová avizovala záměr iniciovat v Poslanecké sněmovně deklaraci k situaci v Tibetu. Byla zdůrazněna potřeba vnímat tibetskou otázku nejen jako lokální problém, ale jako součást širšího boje za demokratické hodnoty a proti hybridním hrozbám.
+Konference vyústila v konsenzus o nutnosti pokračovat v podpoře tibetské otázky na parlamentní úrovni. Poslankyně Langšádlová avizovala záměr projednat s kolegy možnost přijetí parlamentní deklarace k situaci v Tibetu. Závěrem bylo potvrzeno, že Tibet není pouze vzdálenou periferií, ale místem, kde se rozhoduje o hodnotách, které jsou blízké i České republice.
 
 ### 4. Poznámky
-Přepis obsahuje drobné technické artefakty (opakující se fráze, chybějící diakritika), které byly pro účely shrnutí ignorovány. Části přepisu v časech 07:00–08:00 (části 7 a 8) byly nesrozumitelné a obsahovaly halucinace modelu, proto nebyly do shrnutí zahrnuty.
+Přepis obsahuje drobné chyby v diakritice a občasné halucinace modelu (opakování frází), které byly pro účely shrnutí ignorovány. Části záznamu byly srozumitelné a obsahově bohaté.
 
 ---
 
-### Doplňující otázky
-*   **Kontroverzní téma:** Čínské vměšování do reinkarnace Dalajlámy.
+## Doplňující otázky
+*   **Kontroverzní téma:** Zásah Číny do procesu reinkarnace dalajlamy.
     *   **Kdo:** Břetislav Rychlík (senátor).
-    *   **Co:** Přirovnal snahu Číny vybrat 15. Dalajlámu k situaci, kdy by komunisté v Kremlu vybírali papeže.
-    *   **Proč:** Jde o přímý útok na náboženskou svobodu a suverenitu tibetské kultury.
+    *   **Co:** Přirovnání čínského vměšování k situaci, „jako kdyby v Kremlu vybírali papeže“.
+    *   **Proč:** Jde o přímý útok na náboženskou svobodu a suverenitu tibetské kultury, což je politicky vysoce citlivé téma.
     *   **Čas:** 3/06:01.
 
----
-
-### Klíčové citace pro veřejnost
-*   **Text:** „Tibet je skrytým multiplikátorem moci v Eurasii, je to jedno z míst, kde se rozhoduje o budoucnosti.“ (Parafráze)
-    *   **Řečník:** Martin Hála (Sinopsis), 2/06:08.
-*   **Text:** „Čína se snaží kontrolovat instituci Dalajlámy, což je jediný faktor, který vždycky vytvořil Tibet.“ (Parafráze)
-    *   **Řečník:** Tinlay Chukki (Tibetská exilová vláda), 3/00:00.
-*   **Text:** „Práce nezávislých novinářů v Tibetu je naprosto nemožná a trvá to už několik dekád.“ (Citace)
-    *   **Řečník:** Tomáš Etzler (novinář), 12/04:03.
-*   **Text:** „Václav Havel vytvořil příležitost a na nás všech je tuto příležitost udržovat živou.“ (Citace)
-    *   **Řečník:** Alexandr Neumann (novinář), 14/08:00.
+## Klíčové citace pro veřejnost
+1.  „Tibet je vlastně skrytým multiplikátorem moci v Eurázii.“ (parafráze, Martin Hála, Sinopsis, 2/06:08)
+2.  „Je to jako kdyby v Kremlu vybírali papeže.“ (citace, Břetislav Rychlík, Senát PČR, 3/06:01)
+3.  „Práce nezávislého novináře v Tibetu je v Číně naprosto nemožná a trvá to už několik dekád.“ (citace, Tomáš Etzler, novinář, 12/04:03)
+4.  „Václav Havel vytvořil příležitost a na nás bylo a je tuto příležitost udržovat živou.“ (citace, Alexandr Neumann, novinář, 14/08:00)
 
 ---
 
-### JSON výstup
+## JSON výstup
 ```json
 {
   "schema_version": "2",
@@ -65,59 +60,61 @@ Přepis obsahuje drobné technické artefakty (opakující se fráze, chybějíc
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Konference se zaměřila na analýzu současné situace v Tibetu, který je pod čínskou správou vystaven systematickému procesu tzv. „počínšťování“ (sinizace). Cílem akce bylo upozornit na agresivní politiku Pekingu, která směřuje k likvidaci tibetské kultury, náboženství, jazyka a identity, a analyzovat širší geopolitické souvislosti, včetně vlivu Číny na globální bezpečnost a demokratické hodnoty.\n\nAkce sloužila jako platforma pro sdílení svědectví o porušování lidských práv, diskuzi o strategickém významu Tibetu jako hydrologického a geopolitického uzlu a reflexi české podpory Tibetu navazující na odkaz Václava Havla.",
+    "topic": "Konference se zaměřila na analýzu současné situace v Tibetu, konkrétně na proces tzv. „počínšťování“ (sinizace), který zahrnuje systematickou likvidaci tibetské kultury, jazyka, náboženské identity a autonomie ze strany Čínské lidové republiky. Cílem akce bylo upozornit na agresivní politiku Pekingu, která má za následek nejen útlak tibetského etnika, ale představuje i širší bezpečnostní a geopolitickou hrozbu pro demokratické státy.\n\nKonference sloužila jako platforma pro sdílení odborných poznatků sinologů, tibetanistů a politických představitelů. Akcentovala potřebu české zahraniční politiky navázat na „havlovskou tradici“ podpory lidských práv a upozornila na rizika spojená s rostoucím vlivem Číny v Evropě.",
     "main_points": [
-      "**Helena Langšádlová (poslankyně PSP ČR)** — zdůraznila, že Čína je nedemokratický a agresivní režim, a varovala před bezpečnostními hrozbami plynoucími z jejího vlivu v Evropě a ČR.",
-      "**Martin Hála (ředitel projektu Sinopsis)** — definoval Tibet jako „skrytý multiplikátor moci“ v Eurasii s klíčovým významem v geopolitické, kulturní, náboženské a ekologické rovině.",
-      "**Tinlay Chukki (velvyslankyně Tibetské exilové vlády)** — popsala systematickou represi, včetně „koloniálních škol“ pro děti, a fenomén transnacionální represe vůči Tibeťanům v exilu.",
-      "**Břetislav Rychlík (senátor PČR)** — varoval před čínským vměšováním do procesu reinkarnace Dalajlámy, což přirovnal k pokusu „vybrat papeže v Kremlu“.",
-      "**Jarmila Ptáčková (sinoložka, Orientální ústav AV ČR)** — analyzovala zákon o „etnické jednotě“ a popsala militarizaci hranic a zneužívání ekonomické závislosti tibetských rodin.",
-      "**David Gardáš (sinolog, projekt Sinopsis)** — představil Tibet jako „západní pokladnici“ Číny s důrazem na těžbu lithia, superpočítačová centra a vojenskou infrastrukturu.",
-      "**Tomáš Etzler (novinář)** — popsal nemožnost nezávislé novinářské práce v Tibetu, kde jsou oficiální cesty přísně inscenované a monitorované.",
-      "**Alexandr Neumann (novinář)** — připomněl havlovské dědictví a význam pozvání Dalajlámy do Prahy jako klíčového momentu pro mezinárodní uznání tibetské otázky."
+      "**Helena Langšádlová (poslankyně PSP ČR)** — zdůraznila, že Čína je nedemokratický režim, varovala před bezpečnostními hrozbami závislosti na Číně a nutností sledovat její vliv v Evropě.",
+      "**Martin Hála (projekt Sinopsis)** — definoval Tibet jako geopolitický uzel Eurázie s významem v rovinách geopolitické, kulturní, náboženské a ekologické.",
+      "**H.E. Tinlay Chukki (velvyslankyně Tibetské exilové vlády)** — popsala útlak v Tibetu, nucenou převýchovu dětí a fenomén „transnacionální represe“ vůči Tibeťanům v exilu.",
+      "**Břetislav Rychlík (senátor Senátu PČR)** — kritizoval čínský zákon o „etnické jednotě“ a přirovnal vměšování do reinkarnace dalajlamy k výběru papeže v Kremlu.",
+      "**Jarmila Ptáčková (Orientální ústav AV ČR)** — analyzovala marginalizaci tibetské identity, sledovací technologie a negativní vliv Číny v Nepálu.",
+      "**David Gardáš (projekt Sinopsis)** — popsal ekonomické ambice Číny v Tibetu (lithium, přehrady) a militarizaci regionu skrze infrastrukturu „dvojího užití“.",
+      "**Zuzana Ondomišiová (etnografka)** — vysvětlila význam instituce dalajlamy jako symbolu kontinuity a legitimity tibetského národa.",
+      "**Tomáš Etzler (novinář)** — upozornil na nemožnost nezávislé novinářské práce v Tibetu, který je pro média prakticky uzavřen.",
+      "**Alexandr Neumann (novinář)** — připomněl odkaz Václava Havla jako klíčového hybatele mezinárodní podpory Tibetu."
     ],
-    "outcome": "Konference vyústila v konsenzus o nutnosti pokračovat v monitorování situace v Tibetu a šíření osvěty o čínském vlivu. Poslankyně Langšádlová avizovala záměr iniciovat v Poslanecké sněmovně deklaraci k situaci v Tibetu. Byla zdůrazněna potřeba vnímat tibetskou otázku jako součást širšího boje za demokratické hodnoty.",
-    "notes": "Přepis obsahuje drobné technické artefakty, které byly pro účely shrnutí ignorovány. Části přepisu v časech 07:00–08:00 (části 7 a 8) byly nesrozumitelné a obsahovaly halucinace modelu, proto nebyly do shrnutí zahrnuty."
+    "outcome": "Konference vyústila v konsenzus o nutnosti pokračovat v podpoře tibetské otázky na parlamentní úrovni. Poslankyně Langšádlová avizovala záměr projednat s kolegy možnost přijetí parlamentní deklarace k situaci v Tibetu. Závěrem bylo potvrzeno, že Tibet není pouze vzdálenou periferií, ale místem, kde se rozhoduje o hodnotách, které jsou blízké i České republice.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné halucinace modelu (opakování frází), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
-      {"name": "Helena Langšádlová", "person_id": null, "affiliation": "Poslanecká sněmovna"},
-      {"name": "Martin Hála", "person_id": null, "affiliation": "Sinopsis"},
+      {"name": "Helena Langšádlová", "person_id": null, "affiliation": "Poslanecká sněmovna PČR"},
+      {"name": "Martin Hála", "person_id": null, "affiliation": "projekt Sinopsis"},
       {"name": "Tinlay Chukki", "person_id": null, "affiliation": "Tibetská exilová vláda"},
       {"name": "Břetislav Rychlík", "person_id": null, "affiliation": "Senát PČR"},
       {"name": "Jarmila Ptáčková", "person_id": null, "affiliation": "Orientální ústav AV ČR"},
-      {"name": "David Gardáš", "person_id": null, "affiliation": "Sinopsis"},
+      {"name": "David Gardáš", "person_id": null, "affiliation": "projekt Sinopsis"},
+      {"name": "Zuzana Ondomišiová", "person_id": null, "affiliation": "etnografka"},
       {"name": "Tomáš Etzler", "person_id": null, "affiliation": "novinář"},
       {"name": "Alexandr Neumann", "person_id": null, "affiliation": "novinář"},
-      {"name": "Pavel Žáček", "person_id": null, "affiliation": "Poslanecká sněmovna"}
+      {"name": "Pavel Žáček", "person_id": null, "affiliation": "Poslanecká sněmovna PČR"}
     ],
     "parties": ["ANO 2011", "ODS", "STAN", "Piráti", "KDU-ČSL", "SPD", "Motoristé sobě", "TOP 09"],
-    "institutions": ["Poslanecká sněmovna", "Senát PČR", "Orientální ústav AV ČR", "Sinopsis"]
+    "institutions": ["Poslanecká sněmovna PČR", "Senát PČR", "Sinopsis", "Orientální ústav AV ČR"]
   },
   "highlights": [
     {
-      "text": "Tibet je skrytým multiplikátorem moci v Eurasii, je to jedno z míst, kde se rozhoduje o budoucnosti.",
+      "text": "Tibet je vlastně skrytým multiplikátorem moci v Eurázii.",
       "type": "paraphrase",
       "speaker": "Martin Hála",
-      "affiliation": "Sinopsis",
+      "affiliation": "projekt Sinopsis",
       "timestamp": "2/06:08"
     },
     {
-      "text": "Čína se snaží kontrolovat instituci Dalajlámy, což je jediný faktor, který vždycky vytvořil Tibet.",
-      "type": "paraphrase",
-      "speaker": "Tinlay Chukki",
-      "affiliation": "Tibetská exilová vláda",
-      "timestamp": "3/00:00"
+      "text": "Je to jako kdyby v Kremlu vybírali papeže.",
+      "type": "citation",
+      "speaker": "Břetislav Rychlík",
+      "affiliation": "Senát PČR",
+      "timestamp": "3/06:01"
     },
     {
-      "text": "Práce nezávislých novinářů v Tibetu je naprosto nemožná a trvá to už několik dekád.",
+      "text": "Práce nezávislého novináře v Tibetu je v Číně naprosto nemožná a trvá to už několik dekád.",
       "type": "citation",
       "speaker": "Tomáš Etzler",
       "affiliation": "novinář",
       "timestamp": "12/04:03"
     },
     {
-      "text": "Václav Havel vytvořil příležitost a na nás všech je tuto příležitost udržovat živou.",
+      "text": "Václav Havel vytvořil příležitost a na nás bylo a je tuto příležitost udržovat živou.",
       "type": "citation",
       "speaker": "Alexandr Neumann",
       "affiliation": "novinář",
@@ -126,7 +123,7 @@ Přepis obsahuje drobné technické artefakty (opakující se fráze, chybějíc
   ],
   "controversial": [
     {
-      "statement": "**Břetislav Rychlík (senátor)** — Přirovnal snahu Číny vybrat 15. Dalajlámu k situaci, kdy by komunisté v Kremlu vybírali papeže. Je to kontroverzní, protože jde o přímý útok na náboženskou svobodu a suverenitu tibetské kultury.\n\n**Čas:** 3/06:01",
+      "statement": "Zásah Číny do procesu reinkarnace dalajlamy, přirovnán k situaci, „jako kdyby v Kremlu vybírali papeže“.",
       "speaker": "Břetislav Rychlík",
       "affiliation": "Senát PČR",
       "timestamp": "3/06:01"

@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:19:12",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2942",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-26T13:22",
+    "end_date": "2026-05-26T13:36",
+    "sources": [
+      "final/event_2942_2026-05-26_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny. Cílem bylo představit priority ODS pro nadcházející schůzi, kritizovat kroky vlády (zejména Andreje Babiše) a vyjasnit postoj strany k projednávaným legislativním změnám, konkrétně k odvodům pro živnostníky.\n\nHlavními tématy byla kritika střetu zájmů Andreje Babiše, destabilizace médií veřejné služby, rozklad agendy lidských práv a protidrogové politiky a strategické rozhodování o prodeji společnosti Explosia.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval střet zájmů Andreje Babiše (dotace Agrofertu, fond Hartenberg), rozklad agendy lidských práv a protidrogové politiky a záměr prodeje společnosti Explosia.",
+      "**Martin Baxa (ODS)** — Označil vládní legislativu vůči médiím veřejné služby za „jedovatý koktejl“ a „paskvil“, vyzval k zastavení kroků směřujících k jejich destabilizaci.",
+      "**Karel Haas (ODS)** — Oznámil podporu snížení odvodů pro živnostníky. Argumentoval tvrdými daty, podle nichž minimální odvody platí méně než 5 % OSVČ, a označil dřívější souhlas s nárůstem odvodů za „krvavý kompromis“ koaliční vlády."
+    ],
+    "outcome": "ODS potvrdila svůj záměr prosazovat na jednání sněmovny body týkající se vyjasnění střetu zájmů Andreje Babiše a zastavení legislativních útoků na média veřejné služby. V otázce odvodů pro živnostníky je postoj strany jednotný a směřuje k podpoře jejich snížení.",
+    "notes": "Přepis obsahuje několik nesrozumitelných pasáží, které však nemění celkový kontext sdělení."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Agrofert",
+      "Explosia",
+      "Česká televize"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Méně než 5 % českých živnostníků platí minimální odvody, teze o zneužívání systému neplatí.",
+      "type": "paraphrase",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/09:24",
+      "screenshot_path": "summaries/screenshots/event_2942_highlight_00.jpg",
+      "context": "Data ČSSZ a MF ČR dlouhodobě ukazují, že velká část OSVČ platí minimální zálohy na sociální a zdravotní pojištění. Tvrzení, že jde o méně než 5 %, je v rozporu s dostupnými statistikami, které uvádějí podíl OSVČ platících minimální odvody v řádech desítek procent."
+    },
+    {
+      "text": "Vyzýváme vládu: zastavte veškeré kroky k médiím veřejné služby.",
+      "type": "citation",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/07:35",
+      "screenshot_path": "summaries/screenshots/event_2942_highlight_01.jpg",
+      "context": "Toto tvrzení je fakticky rozporuplné s rolí Martina Baxy jako ministra kultury, který je členem vlády. Nelze nezávisle ověřit, zda jde o citaci z minulosti, nebo o chybnou interpretaci, neboť ministr Baxa v rámci vládní koalice naopak prosazuje posílení nezávislosti médií veřejné služby."
+    },
+    {
+      "text": "Prodej Explosie francouzské státní společnosti je krok, který nemá obdoby v kritickém okamžiku, kdy si stát musí uchovat kontrolu.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/04:17",
+      "screenshot_path": "summaries/screenshots/event_2942_highlight_02.jpg",
+      "context": "Společnost Explosia a.s. je stoprocentně vlastněna státem prostřednictvím Ministerstva průmyslu a obchodu. V současnosti neexistuje žádný oficiální vládní plán ani schválený proces prodeje této společnosti francouzskému státnímu subjektu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Střet zájmů Andreje Babiše**\n* **Kdo:** Martin Kupka (ODS)\n* **Co:** Obvinil Andreje Babiše z toho, že je „ekonomickým parazitem“, který ohrožuje prostředky daňových poplatníků.\n* **Proč:** Jde o přímý útok na integritu předsedy hnutí ANO, podložený tlakem evropských orgánů.\n* **Čas:** 1/01:20",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:20",
+      "screenshot_path": "summaries/screenshots/event_2942_controversy_00.jpg",
+      "context": "Označení za „ekonomického parazita“ je hodnotící politický výrok, nikoliv ověřitelný fakt. Auditní zprávy Evropské komise z let 2019 a 2021 však skutečně konstatovaly střet zájmů Andreje Babiše ve vztahu k čerpání dotací pro holding Agrofert."
+    },
+    {
+      "statement": "**Útok na média veřejné služby**\n* **Kdo:** Martin Baxa (ODS)\n* **Co:** Označil vládní návrhy za snahu „ochočit a marginalizovat“ média veřejné služby.\n* **Proč:** Politicky citlivé téma nezávislosti médií, které vyvolává ostré střety mezi vládní koalicí a opozicí.\n* **Čas:** 1/06:08",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/07:31",
+      "screenshot_path": "summaries/screenshots/event_2942_controversy_01.jpg",
+      "context": "Jde o politickou interpretaci legislativních změn týkajících se médií veřejné služby. Míra nezávislosti médií je předmětem dlouhodobé debaty, přičemž opozice a vládní strany se pravidelně obviňují z pokusů o politické ovlivňování těchto institucí."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:35:11",
+  "created_at": "2026-05-29T14:15:29",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2776",
@@ -19,13 +19,13 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána před zahájením schůze Poslanecké sněmovny s cílem vyjádřit zásadní nesouhlas s vládními kroky v oblasti financování veřejnoprávních médií a upozornit na chaotický proces přípravy legislativy týkající se neziskových organizací. KDU-ČSL deklarovala záměr iniciovat mimořádný bod jednání sněmovny k ochraně nezávislosti České televize a Českého rozhlasu.\n\nDalším klíčovým tématem byla energetická krize a prudký nárůst cen pohonných hmot a energií. Lidovci kritizovali vládu za absenci jasné strategie a navrhli konkrétní opatření, včetně využití státní sítě čerpacích stanic Čepro k regulaci cen.",
+    "topic": "Tisková konference byla svolána před zahájením schůze Poslanecké sněmovny s cílem vyjádřit zásadní nesouhlas s vládními kroky v oblasti financování veřejnoprávních médií a s chaotickým přístupem vlády k legislativě týkající se neziskového sektoru. KDU-ČSL deklarovala záměr iniciovat mimořádný bod jednání sněmovny k ochraně nezávislosti médií a požaduje od vlády jasnou strategii v otázce energetické krize a cen pohonných hmot.",
     "main_points": [
-      "**Marek Výborný (KDU-ČSL)** – Ostře odmítl vládní návrh na krácení rozpočtů veřejnoprávních médií, který označil za „vyhladovění“ a cestu k jejich zestátnění. Upozornil na rozpor mezi vládními sliby o změně modelu financování a realitou, která vede k přímé závislosti médií na vládě. Kritizoval chaotický postup vlády při přípravě zákona o neziskových organizacích.",
-      "**František Talíř (KDU-ČSL)** – Uvedl konkrétní čísla dopadů: krácení rozpočtu o 2,1 miliardy Kč pro ČT a 700–800 milionů Kč pro Český rozhlas. Vyzval premiéra Babiše ke konstruktivnímu jednání a varoval, že pokud k němu nedojde, opozice využije všechny dostupné obstrukční nástroje.",
-      "**Petr Hladík (KDU-ČSL)** – Požadoval zařazení bodu o energetické krizi na plénum sněmovny. Kritizoval vládu za nečinnost při řešení cen pohonných hmot a energií. Navrhl využít státní společnost Čepro k prodeji pohonných hmot s nižší marží."
+      "**Marek Výborný (KDU-ČSL)** — Odmítl vládní návrh na krácení rozpočtů České televize a Českého rozhlasu, který označil za „vyhladovění“ a pokus o zestátnění médií. Uvedl konkrétní odhady dopadů: u ČT jde o výpadek přes 2 miliardy Kč, u ČRo o 700–800 milionů Kč ročně. Kritizoval chaotický legislativní proces kolem zákona o neziskových organizacích.",
+      "**František Talíř (KDU-ČSL)** — Vyzval premiéra Andreje Babiše ke konstruktivnímu jednání o financování médií. Varoval před destabilizací médií a připomněl negativní zkušenost ze Slovenska. Upozornil na riziko soudních sporů kvůli již uzavřeným produkčním a vysílacím smlouvám.",
+      "**Petr Hladík (KDU-ČSL)** — Požaduje zařazení bodu o energetické krizi a cenách pohonných hmot na plénum sněmovny. Kritizoval vládu za absenci strategie a navrhl využít státní síť čerpacích stanic Čepro k prodeji pohonných hmot s nižší marží."
     ],
-    "outcome": "KDU-ČSL se dohodla s ostatními opozičními stranami na společném postupu. Na dnešní jednání Poslanecké sněmovny bude navrženo zařazení mimořádného bodu s názvem: *„Snaha vlády Andreje Babiše ohrozit financování a tím i fungování a nezávislost médií veřejné služby“*.",
+    "outcome": "KDU-ČSL se dohodla s ostatními opozičními stranami na podání návrhu na zařazení mimořádného bodu s názvem „Snaha vlády Andreje Babiše ohrozit financování a tím i fungování a nezávislost médií veřejné služby“. Strana je připravena využít všechny parlamentní obstrukce, pokud nedojde k otevřenému jednání o budoucnosti veřejnoprávních médií.",
     "notes": null
   },
   "entities": {
@@ -44,6 +44,16 @@
         "name": "Petr Hladík",
         "person_id": "psp:person:6881",
         "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Petr Vašek",
+        "person_id": "psp:person:4469",
+        "affiliation": "Česká televize"
+      },
+      {
+        "name": "Kopecký",
+        "person_id": "psp:person:220",
+        "affiliation": "iDNES.cz"
       }
     ],
     "parties": [
@@ -62,44 +72,49 @@
   },
   "highlights": [
     {
-      "text": "Vláda fakticky chce zestátnit Českou televizi, zestátnit Český rozhlas, a to na úkor jejich akcionářů, kterými je veřejnost.",
-      "type": "citation",
+      "text": "Vláda fakticky chce zestátnit Českou televizi, zestátnit Český rozhlas, a to na úkor těchto akcionářů, kterými je veřejnost.",
+      "type": "paraphrase",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/03:20",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_highlight_00.jpg"
+      "screenshot_path": "summaries/screenshots/event_2776_highlight_00.jpg",
+      "context": "Tvrzení o 'zestátnění' je politickou interpretací záměru změnit způsob financování médií veřejné služby. Pokud by média byla přímo závislá na přímých dotacích ze státního rozpočtu namísto koncesionářských poplatků, oslabila by se jejich zákonem garantovaná nezávislost na exekutivě."
     },
     {
-      "text": "Pokud by prošel návrh, se kterým koalice včera přišla, v praxi by to znamenalo zkrácení čtvrtiny rozpočtu veřejnoprávních médií.",
+      "text": "U České televize jde o částku přesahující dvě miliardy korun a u Českého rozhlasu se jedná o nějakých 700 až 800 milionů Kč ročně.",
+      "type": "citation",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:09",
+      "screenshot_path": "summaries/screenshots/event_2776_highlight_01.jpg",
+      "context": "Částky odpovídají tehdejším odhadům výnosů z koncesionářských poplatků. Podle výročních zpráv ČT a ČRo se roční výnosy z poplatků skutečně pohybovaly v řádech miliard (ČT) a stovek milionů (ČRo) korun."
+    },
+    {
+      "text": "My jako lidovci vyzýváme premiéra Andreje Babiše, aby s námi jednal o financování veřejnoprávních médií, protože jinak není možné číst to, než jako útok na jejich nezávislost.",
       "type": "citation",
       "speaker": "František Talíř",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/07:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_highlight_01.jpg"
-    },
-    {
-      "text": "My jsme jako lidovci navrhli, aby se odpustily marže u státní sítě Čepro, což ÚOHS potvrdil jako možné řešení pro občany.",
-      "type": "paraphrase",
-      "speaker": "Petr Hladík",
-      "affiliation": "KDU-ČSL",
-      "timestamp": "1/10:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_highlight_02.jpg"
+      "timestamp": "1/06:08",
+      "screenshot_path": "summaries/screenshots/event_2776_highlight_02.jpg",
+      "context": "Výzva k jednání je politickým aktem. Interpretace změny financování jako 'útoku na nezávislost' je legitimním politickým názorem opozice, nikoliv ověřitelným faktem, ačkoliv nezávislost médií veřejné služby je zakotvena v zákonech č. 483/1991 Sb. a č. 484/1991 Sb."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh na „vyhladovění“ médií:**\n* **Kdo:** Marek Výborný (KDU-ČSL).\n* **Co:** Označil vládní návrh na krácení rozpočtů ČT a ČRo za „vyhladovění“ a pokus o zestátnění médií.\n* **Proč:** Jde o politicky citlivé téma zásahu do nezávislosti médií veřejné služby, které je vnímáno jako ohrožení demokratického pilíře kontroly vlády.\n* **Čas:** 1/01:20",
+      "statement": "**Zestátnění financování veřejnoprávních médií**\n- **Kdo:** Vláda Andreje Babiše (prezentováno ministrem Havlíčkem).\n- **Co:** Návrh na krácení rozpočtů ČT a ČRo, což by vedlo k jejich závislosti na státním rozpočtu.\n- **Proč:** Jde o zásah do nezávislosti médií, která mají být kontrolním mechanismem vlády.\n- **Čas:** 1/02:00",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/01:20",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_controversy_00.jpg"
+      "timestamp": "1/06:13",
+      "screenshot_path": "summaries/screenshots/event_2776_controversy_00.jpg",
+      "context": "Návrhy na změnu financování médií veřejné služby byly v daném období předmětem politických diskusí. Přímé financování ze státního rozpočtu by vyžadovalo legislativní změnu, která by fakticky změnila status médií z institucí financovaných poplatníky na instituce závislé na rozhodnutí vlády o rozpočtu."
     },
     {
-      "statement": "**Chaotická komunikace vlády ohledně neziskových organizací:**\n* **Kdo:** Marek Výborný (KDU-ČSL).\n* **Co:** Poukázal na protichůdná vyjádření premiéra Babiše, ministra Tejce a Karla Havlíčka v průběhu jednoho týdne.\n* **Proč:** Zpochybňuje to kompetenci a integritu vládního kabinetu při tvorbě legislativy.\n* **Čas:** 1/04:05",
+      "statement": "**Chaos v legislativě o neziskových organizacích**\n- **Kdo:** Marek Výborný (KDU-ČSL).\n- **Co:** Poukázal na protichůdná vyjádření vládních politiků (Tejc vs. Babiš vs. Havlíček) během několika dnů.\n- **Proč:** Politicky citlivé, neboť to ukazuje na nekoncepčnost a vnitřní rozpor vládní koalice.\n- **Čas:** 1/04:05",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
       "timestamp": "1/04:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2776_controversy_01.jpg"
+      "screenshot_path": "summaries/screenshots/event_2776_controversy_01.jpg",
+      "context": "Nelze nezávisle ověřit. Hodnocení 'chaosu' a 'nekoncepčnosti' je subjektivním politickým komentářem k procesu vládní komunikace, který nelze faktograficky potvrdit ani vyvrátit."
     }
   ],
   "quality": {

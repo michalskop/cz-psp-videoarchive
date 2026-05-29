@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:51:10",
+  "created_at": "2026-05-29T14:30:44",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2834",
@@ -19,16 +19,16 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference opozičních stran (STAN, Piráti, TOP 09, KDU-ČSL, ODS) reagovala na průběh mimořádné schůze Poslanecké sněmovny. Hlavním účelem bylo kritizovat vládní koalici za destrukci demokratických procesů, netransparentní legislativní postupy a nedostatečnou komunikaci s opozicí.\n\nOpoziční představitelé vyjádřili zásadní nesouhlas s vládními návrhy týkajícími se veřejnoprávních médií, které považují za pokus o jejich ovládnutí a „tunelování“ veřejnoprávnosti. Dále byla diskutována bezpečnostní situace, nedostatečné výdaje na obranu (1,7 % HDP) a ekonomické dopady energetické krize, přičemž opozice zdůraznila, že vláda na tyto problémy nereaguje konstruktivně a namísto řešení předvádí „orloj“ útoků na opozici.",
+    "topic": "Tisková konference opozičních stran (STAN, Piráti, TOP 09, KDU-ČSL, ODS) se konala v reakci na průběh mimořádné schůze Poslanecké sněmovny. Hlavním účelem konference bylo kritizovat vládní koalici za způsob vedení legislativního procesu, nedostatečnou komunikaci s opozicí a ignorování klíčových témat, jako jsou energetická krize, bezpečnostní situace a nezávislost veřejnoprávních médií.\n\nOpoziční lídři vyjádřili silnou nespokojenost s tím, že vládní většina odmítá zařazovat opoziční body na program schůzí a místo konstruktivní debaty volí obstrukce nebo ignoraci. Konference sloužila jako platforma pro prezentaci alternativních návrhů opozice a jako varování, že opozice hodlá proti krokům vlády, které považuje za ohrožení demokratických principů, důsledně vystupovat.",
     "main_points": [
-      "**Vít Rakušan (STAN)** — Kritizoval legislativní proces, konkrétně předložení 1073stránkového pozměňovacího návrhu bez připomínkového řízení. Varoval před likvidací veřejnoprávních médií a slíbil obstrukce v případě jejich ohrožení.",
-      "**Zdeněk Hřib (Piráti)** — Upozornil na ohrožení čerpání evropských fondů kvůli vládním kauzám a střetu zájmů Andreje Babiše. Navrhl veřejnou volbu rad veřejnoprávních médií a představil manifest energetické bezpečnosti.",
-      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval nízké výdaje na obranu v kontextu hrozeb ze strany Ruska. Navrhl zvýšení výdajů na obranu až na 5 % HDP a ukotvení členství v EU a NATO do ústavy.",
-      "**Marek Výborný (KDU-ČSL)** — Zdůraznil, že vláda rezignovala na konstruktivní debatu o zahraničněpolitických tématech. Varoval před ztrátou evropských fondů kvůli nevyřešenému střetu zájmů premiéra Babiše.",
-      "**Karel Haas (ODS)** — Představil sedmibodový „krizový nárazník“ pro firmy v reakci na energetickou krizi (např. odsun plateb DPH, zrychlení odpisů). Kritizoval vládní regulaci cen pohonných hmot jako neúčinnou."
+      "**Vít Rakušan (STAN)** — Kritizoval „destrukci demokratických procesů“ a legislativní nouzi vlády. Upozornil na komplexní pozměňovací návrh k vládnímu zákonu o rozsahu 1073 stran. Oznámil, že opozice bude u tématu veřejnoprávních médií využívat obstrukční mechanismy.",
+      "**Zdeněk Hřib (Piráti)** — Zdůraznil nutnost řešení ekonomické situace a bezpečnosti. Představil manifest energetické bezpečnosti (návrhy na vrácení nadvýběru DPH, snížení DPH na potraviny a hygienické potřeby). Kritizoval vládní koalici za ohrožování nezávislosti médií.",
+      "**Matěj Ondřej Havel (TOP 09)** — Zaměřil se na obranyschopnost ČR. Kritizoval nízké výdaje na obranu (1,7 % HDP) a navrhl jejich zvýšení až na 5 % HDP. Navrhl ukotvení členství v EU a NATO do ústavy.",
+      "**Marek Výborný (KDU-ČSL)** — Vyjádřil zklamání nad stylem komunikace premiéra Babiše a vládní koalice. Zdůraznil rizika spojená se střetem zájmů premiéra, která mohou ohrozit čerpání evropských fondů.",
+      "**Karel Haas (ODS)** — Kritizoval absenci vládního řešení dopadů krize v Hormuzském průlivu na ekonomiku a průmysl. Představil sedm bodů „krizového nárazníku“ pro firmy (např. posun plateb DPH, zrychlení odpisů)."
     ],
-    "outcome": "Opozice se shodla na tom, že mimořádná schůze byla nezbytná pro upozornění veřejnosti na kritické problémy země, i když očekává, že vládní koalice program schůze neschválí. Opoziční strany deklarovaly připravenost k dalšímu obstrukčnímu boji v případě ohrožení demokratických institucí a médií a hodlají nadále prosazovat svá řešení energetické a bezpečnostní krize.",
-    "notes": null
+    "outcome": "Formální výsledek jednání nebyl stanoven, neboť šlo o tiskovou konferenci opozice. Dominujícím postojem opozičních stran je odhodlání pokračovat v tlaku na vládu, využívat všechny dostupné parlamentní nástroje (včetně obstrukcí u citlivých témat, jako jsou média) a nadále předkládat vlastní legislativní návrhy pro řešení energetické a bezpečnostní krize. Opozice konstatuje, že vládní koalice není schopna konstruktivního dialogu.",
+    "notes": "Přepis obsahuje pasáže, kde řečníci reagují na aktuální dění ve sněmovně (např. „orloj vládních poslanců“), což naznačuje, že tisková konference proběhla v průběhu probíhající mimořádné schůze."
   },
   "entities": {
     "speakers": [
@@ -70,46 +70,55 @@
       "NATO",
       "EU",
       "Agrofert",
-      "SynBiol"
+      "SynBiol",
+      "EGAP"
     ]
   },
   "highlights": [
     {
-      "text": "My přece nemůžeme tohle nechat bez povšimnutí, jaká jiná metoda a cesta nám jako celé opozici zbývá, než se pokusit svolat mimořádnou schůzi.",
-      "type": "citation",
-      "speaker": "Vít Rakušan",
-      "affiliation": "STAN",
-      "timestamp": "1/02:13",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_highlight_00.jpg",
-      "context": "Svolání mimořádné schůze Poslanecké sněmovny je standardní parlamentní nástroj opozice podle § 54 odst. 2 zákona č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny. K jejímu svolání je nutný podpis nejméně 40 poslanců."
-    },
-    {
-      "text": "My za Piráty jsme chtěli, aby v těch radách usedly skutečně renomované osobnosti, bohužel tedy do druhého kola prošli spíše lidé, kteří chtějí Českou televizi ničit.",
+      "text": "My za Piráty jsme chtěli, aby v těch radách usedly skutečně renomované osobnosti, vyzvali jsme spolky, které mohou nominovat, spolky nominovaly kvalitní osobnosti, bohužel tedy do druhého kola prošli spíše lidé, kteří chtějí Českou televizi ničit.",
       "type": "citation",
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
       "timestamp": "1/05:37",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_highlight_01.jpg",
-      "context": "Volba členů Rady České televize probíhá podle zákona č. 483/1991 Sb. Výrok o „ničení televize“ je subjektivním politickým hodnocením kandidátů a jejich motivací, které nelze objektivně fakticky ověřit."
+      "screenshot_path": "summaries/screenshots/event_2834_highlight_00.jpg",
+      "context": "Volba členů Rady ČT probíhá dle zákona č. 483/1991 Sb. Nominace spolků jsou pouze doporučující a konečný výběr provádí Poslanecká sněmovna tajnou volbou. Tvrzení o úmyslu „ničit Českou televizi“ je subjektivní politické hodnocení, které nelze objektivně ověřit."
     },
     {
-      "text": "V situaci, kdy dáváme na obranu 1,7 % HDP, je to věc, která je zralá na Darwinovu cenu.",
+      "text": "My navrhujeme pochopitelně dodržet ty alianční závazky a dávat až 5 % HDP na obranu.",
       "type": "citation",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
-      "timestamp": "1/08:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_highlight_02.jpg",
-      "context": "Podle dat Ministerstva obrany ČR a závazků vůči NATO se ČR zavázala k výdajům na obranu ve výši 2 % HDP (zákon č. 214/2023 Sb.). Údaj 1,7 % HDP odpovídal reálnému plnění v předchozích letech, nikoliv aktuálnímu zákonnému cíli."
+      "timestamp": "1/08:50",
+      "screenshot_path": "summaries/screenshots/event_2834_highlight_01.jpg",
+      "context": "Závazek vůči NATO je stanoven na 2 % HDP (zákon č. 214/2023 Sb.). Návrh na 5 % HDP je politickým požadavkem, nikoliv platným aliančním závazkem ČR."
+    },
+    {
+      "text": "Odsunutí a posun, pouze časový posun, bez dopadu do státního rozpočtu, plateb DPH, tím výrazně posílíte likviditu firem, které teď skutečně čelí výraznému tlaku.",
+      "type": "citation",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/14:54",
+      "screenshot_path": "summaries/screenshots/event_2834_highlight_02.jpg",
+      "context": "Odklad plateb DPH sice krátkodobě zvýší likviditu firem, ale z pohledu státního rozpočtu jde o posun v čase, který může ovlivnit cash-flow státní pokladny v daném účetním období. Dopad na rozpočet je tedy nulový pouze v dlouhodobém horizontu, nikoliv v rámci jednoho fiskálního roku."
     }
   ],
   "controversial": [
     {
-      "statement": "Vít Rakušan (STAN) prohlásil, že opozice předvede takový obstrukční mechanismus u veřejnoprávních médií, že i „11 hodin nečůrající Tomio Okamura z toho bude překvapen“.",
+      "statement": "**Kdo:** Vít Rakušan (STAN)\n* **Co:** Slib, že opozice předvede takový obstrukční mechanismus u veřejnoprávních médií, že „i 11 hodin nečůrající Tomio Okamura z toho bude překvapen“.\n* **Proč:** Je to politicky citlivé, protože veřejnoprávní média jsou vnímána jako pilíř demokracie a jakýkoliv pokus o jejich „ochočení“ vyvolává masové protesty.\n* **Čas:** 1/02:03",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/02:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2834_controversy_00.jpg",
-      "context": "Jde o nadsázku a politickou rétoriku odkazující na minulé obstrukční projevy Tomia Okamury. Faktická délka řečnických vystoupení v PS není zákonem omezena, pokud poslanec mluví k věci, což je častý předmět politických sporů o efektivitu jednání."
+      "screenshot_path": "summaries/screenshots/event_2834_controversy_00.jpg",
+      "context": "Jde o politickou rétoriku a předpověď parlamentní strategie. Obstrukce jsou legitimním nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.), jejich intenzita je však věcí politického rozhodnutí."
+    },
+    {
+      "statement": "**Kdo:** Matěj Ondřej Havel (TOP 09)\n* **Co:** Označení výdajů na obranu ve výši 1,7 % HDP za „zralé na Darwinovu cenu“.\n* **Proč:** Jde o velmi ostrou kritiku vládní bezpečnostní politiky v kontextu ruských hrozeb, která zpochybňuje kompetenci vlády zajistit bezpečnost občanů.\n* **Čas:** 1/08:03",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/08:03",
+      "screenshot_path": "summaries/screenshots/event_2834_controversy_01.jpg",
+      "context": "Výdaje na obranu ve výši 1,7 % HDP byly historickou realitou ČR před rokem 2022. Hodnocení „Darwinova cena“ je expresivní politická metafora, nikoliv faktický údaj; bezpečnostní politika je předmětem legitimní politické debaty o dostatečnosti investic do armády."
     }
   ],
   "quality": {

@@ -1,6 +1,6 @@
 {
-  "schema_version": "1",
-  "created_at": "2026-05-23T01:32:30",
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:02:17",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2924",
@@ -19,24 +19,22 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání kulatého stolu se zaměřilo na kritický nedostatek kapacit pro spalování nebezpečných odpadů v České republice. Cílem bylo identifikovat příčiny dlouhodobé stagnace v povolování nových zařízení (tzv. „15 let v bodě 0“) a navrhnout legislativní a procesní řešení, která by umožnila naplnit závazky státu, zejména v souvislosti s plánovaným zákazem skládkování nebezpečných odpadů (aktuálně posunutým na konec roku 2027).\n\nDiskuse se soustředila na systémové bariéry, jako jsou extrémně zdlouhavé povolovací procesy, NIMBY efekt („ne na mém dvorku“) na úrovni samospráv a nedostatečná koordinace mezi státní správou a investory. Účastníci se shodli, že bez navýšení kapacit o cca 100 000 tun ročně hrozí ČR ekologická rizika, neschopnost řešit staré ekologické zátěže a možné sankce ze strany EU.",
+    "topic": "Jednání kulatého stolu se zaměřilo na kritický nedostatek kapacit pro spalování nebezpečných odpadů v České republice. Cílem bylo identifikovat příčiny dlouhodobé stagnace výstavby nových zařízení a navrhnout konkrétní kroky k odblokování výstavby strategické infrastruktury.\n\nČeská republika ročně vyprodukuje přibližně 200 000 tun spalitelných nebezpečných odpadů, přičemž stávající kapacity umožňují odstranit pouze 105 000 tun. Deficit činí minimálně 45 000 až 100 000 tun ročně. Kvůli nedostatku kapacit stát opakovaně odkládá zákaz skládkování nebezpečných odpadů, což vytváří rizika pro životní prostředí a hrozbu unijních sankcí.",
     "main_points": [
-      "**Neidentifikovaný řečník (poslanec)**: Upozornil na deficit 45 000 tun kapacity a absurdní realitu, kdy příprava technologií trvá přes 15 let.",
-      "**Jan Mraček (Hospodářská komora ČR)**: Deklaroval připravenost podnikatelů investovat, ale poukázal na blokování záměrů referendy a odporem obcí.",
-      "**Petr Havelka (Česká asociace odpadového hospodářství)**: Navrhl zařadit spalovny nebezpečných odpadů mezi stavby ve veřejném zájmu.",
-      "**Ondřej Palán (AVE CZ)**: Prezentoval případ Rybitví jako příklad 20letého selhání státu v povolovací agendě.",
-      "**Radim Holibka (Marius Pedersen)**: Kritizoval nedodržování správních lhůt a nekompetenci úředníků.",
-      "**Hlaváček (FCC)**: Poukázal na problém opakování připomínek oponentů v každém stupni řízení.",
-      "**Josef Kallen (PDI)**: Navrhl využití mobilních spaloven pro krizové situace, naráží však na legislativní vakuum.",
-      "**Jiří Unčovský (Asociace sanačních společností)**: Varoval, že nedostatek kapacit znemožňuje sanace starých ekologických zátěží.",
-      "**Petr Špičák (Rekovera)**: Popsal příběh spalovny v Ostravě, kde byla pod tlakem politiků změněna územní dokumentace.",
-      "**Jaromír Wasserbauer (MŽP)**: Oznámil přípravu pozměňovacího návrhu pro zařazení spaloven mezi strategické stavby.",
-      "**Maršák (MŽP)**: Potvrdil, že Plán odpadového hospodářství jasně definuje potřebu nových kapacit jako prioritu.",
-      "**Kulhánková (MPO)**: Zdůraznila potřebu propojení odpadové politiky s energetickým využitím.",
-      "**Dan Jiránek (Svaz měst a obcí)**: Doporučil řešit strategické stavby na celostátní úrovni (ÚRP) a oddělit různé typy nebezpečných odpadů."
+      "**Poslanec (organizátor)** — Upozornil na absurdní realitu, kdy stát zakazuje skládkování, ale není schopen povolit jediné nové zařízení. Navrhl zařazení spaloven mezi stavby ve veřejném zájmu.",
+      "**Jan Mraček (Hospodářská komora ČR)** — Zdůraznil princip „NIMBY“ a nutnost politické odvahy státu prosadit strategické stavby navzdory lokálnímu odporu.",
+      "**Petr Havelka (ČAOH)** — Uvedl, že pro dostavbu potřebných 45 000 tun kapacity je nutná investice 9 miliard Kč. Varoval před rizikem dalšího posunu zákazu skládkování.",
+      "**Ondřej Palán (AVE CZ)** — Prezentoval případ spalovny Rybitví jako „case study“ selhání povolovacího procesu (20 let v bodě nula).",
+      "**Radim Holibka (Marius Pedersen)** — Poukázal na nekompetenci místních úřadů a nedodržování správních lhůt.",
+      "**Hlaváček (FCC)** — Upozornil na zneužívání práva oponentů opakovaně podávat námitky, které již byly vypořádány.",
+      "**Josef Kallen (PDI)** — Navrhl využití mobilních technologií pro odstraňování odpadů.",
+      "**Jiří Unčovský (Asociace sanačních společností)** — Varoval před neschopností státu řešit staré ekologické zátěže kvůli absenci koncových zařízení.",
+      "**Petr Špičák (Rekovera)** — Popsal příběh projektu CENZA v Ostravě, kde po 11 letech úsilí došlo ke změně územního plánu pod politickým tlakem.",
+      "**Jaromír Wasserbauer (MŽP)** — Oznámil přípravu pozměňovacího návrhu, který zařadí spalovny nebezpečných odpadů mezi stavby strategického významu.",
+      "**Dan Jiránek (Svaz měst a obcí)** — Doporučil rozdělit nebezpečné odpady na ty, které vyžadují spalovnu, a ty, které lze využít v běžných zařízeních (ZEVO)."
     ],
-    "outcome": "Jednání skončilo konsenzem, že současný stav je neudržitelný. Dominujícím postojem je podpora legislativních změn, které by spalovny nebezpečných odpadů definovaly jako strategickou infrastrukturu. Ministerstvo životního prostředí přislíbilo načtení pozměňovacího návrhu, který má zrychlit povolovací procesy a omezit obstrukce.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, chyby v diakritice), které však nebránily pochopení hlavních argumentů."
+    "outcome": "Jednání potvrdilo konsenzus, že současný stav je neudržitelný. Hlavním výstupem je příslib MŽP předložit legislativní návrh na zařazení spaloven nebezpečných odpadů mezi strategické stavby. Účastníci se shodli na potřebě:\n* Zkrácení a zjednodušení povolovacího procesu (integrované stavební úřady).\n* Zavedení finanční odpovědnosti za obstrukční jednání v rámci řízení.\n* Jednotného výkladu zákonů napříč krajskými úřady.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem, avšak hlavní argumentační linie řečníků jsou z kontextu jasně patrné."
   },
   "entities": {
     "speakers": [
@@ -57,17 +55,17 @@
       },
       {
         "name": "Radim Holibka",
-        "person_id": null,
+        "person_id": "psp:person:6760",
         "affiliation": "Marius Pedersen"
       },
       {
         "name": "Hlaváček",
-        "person_id": null,
+        "person_id": "psp:person:1511",
         "affiliation": "FCC"
       },
       {
         "name": "Josef Kallen",
-        "person_id": null,
+        "person_id": "psp:person:4947",
         "affiliation": "PDI"
       },
       {
@@ -86,16 +84,6 @@
         "affiliation": "Ministerstvo životního prostředí"
       },
       {
-        "name": "Maršák",
-        "person_id": null,
-        "affiliation": "Ministerstvo životního prostředí"
-      },
-      {
-        "name": "Kulhánková",
-        "person_id": null,
-        "affiliation": "Ministerstvo průmyslu a obchodu"
-      },
-      {
         "name": "Dan Jiránek",
         "person_id": null,
         "affiliation": "Svaz měst a obcí"
@@ -103,6 +91,7 @@
     ],
     "parties": [
       "Hospodářská komora ČR",
+      "ČAOH",
       "Svaz měst a obcí"
     ],
     "institutions": [
@@ -111,16 +100,43 @@
       "Poslanecká sněmovna"
     ]
   },
-  "controversial": [
+  "highlights": [
     {
-      "statement": "**Kontroverzní návrh:** Zavedení finanční kauce pro žalobce (spolky) v případě podání žaloby s odkladným účinkem.\n- **Kdo:** Jaromír Wasserbauer (MŽP).\n- **Proč:** Má sloužit jako obrana proti šikanózním žalobám, které záměrně zdržují strategické projekty. Politicky je to citlivé, protože se dotýká práva na soudní ochranu a účasti veřejnosti v řízeních.",
-      "speaker": "Jaromír Wasserbauer",
-      "affiliation": "Ministerstvo životního prostředí"
+      "text": "Deficit kapacit pro spalování nebezpečných odpadů činí minimálně 45 000 tun ročně a pro racionální rozvoj odvětví je zapotřebí až 100 000 tun nových kapacit.",
+      "type": "paraphrase",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "1/02:39",
+      "screenshot_path": "summaries/screenshots/event_2924_highlight_00.jpg",
+      "context": "Odhad kapacity vychází z analýz odpadového hospodářství ČR, které dlouhodobě identifikují nedostatek zařízení pro energetické využití nebezpečného odpadu (ZEVO). Konkrétní čísla se mohou lišit dle metodiky výpočtu produkce odpadů dle katalogu odpadů a započtení exportu do zahraničí."
     },
     {
-      "statement": "**Kontroverzní návrh:** Přenesení rozhodovací pravomoci z obcí na stát (ÚRP).\n- **Kdo:** Dan Jiránek (Svaz měst a obcí).\n- **Proč:** Jde o střet mezi zájmem státu a samosprávou. Obce se obávají ztráty vlivu na územní plánování, zatímco investoři a stát argumentují, že lokální politika (NIMBY efekt) znemožňuje řešení celostátních problémů.",
+      "text": "Po 20 letech úsilovného boje za novou kapacitu pro nebezpečné odpady je výsledek takový, že v našem případě je to dokonce 20 let v bodě nula.",
+      "type": "citation",
+      "speaker": "Ondřej Palán",
+      "affiliation": "AVE CZ",
+      "timestamp": "3/02:25",
+      "screenshot_path": "summaries/screenshots/event_2924_highlight_01.jpg",
+      "context": "Tvrzení o „bodu nula“ je subjektivním hodnocením dlouhodobé neúspěšnosti investičních záměrů v oblasti spaloven nebezpečných odpadů. Fakticky v ČR v posledních dvou dekádách skutečně nedošlo k výstavbě významných nových kapacit pro tento typ odpadu, a to především kvůli silnému odporu místních samospráv a zdlouhavým povolovací procesům (EIA)."
+    },
+    {
+      "text": "Stát musí mít testosteron a říct, co jsou jeho priority a strategické zájmy; není zájmem obce Rybitví vyřešit problémy státu se spalováním odpadu.",
+      "type": "citation",
       "speaker": "Dan Jiránek",
-      "affiliation": "Svaz měst a obcí"
+      "affiliation": "Svaz měst a obcí",
+      "timestamp": "12/03:42",
+      "screenshot_path": "summaries/screenshots/event_2924_highlight_02.jpg",
+      "context": "Jde o politický názor reflektující napětí mezi státní strategickou potřebou (nakládání s odpady) a principem samosprávy. Podle zákona č. 128/2000 Sb., o obcích, mají obce právo hájit zájmy svých občanů, což často vede ke střetu s celostátními infrastrukturními projekty."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zavedení vratných kaucí pro žalobce (spolky) při podání žaloby s odkladným účinkem.\n- **Kdo:** Jaromír Wasserbauer (MŽP)\n- **Proč:** Je to politicky citlivé, neboť to může být vnímáno jako omezování práva veřejnosti na účast v řízení a přístup ke spravedlnosti.\n- **Čas:** 10/03:07",
+      "speaker": "Jaromír Wasserbauer",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "10/03:07",
+      "screenshot_path": "summaries/screenshots/event_2924_controversy_00.jpg",
+      "context": "Návrh na zavedení kaucí pro spolky je předmětem odborné debaty o zneužívání procesních práv (tzv. šikanózní žaloby). Zavedení takového opatření by vyžadovalo změnu soudního řádu správního a muselo by být v souladu s Aarhuskou úmluvou, která garantuje veřejnosti přístup k informacím a spravedlnosti v environmentálních věcech."
     }
   ],
   "quality": {

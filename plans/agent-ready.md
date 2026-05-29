@@ -3,10 +3,10 @@
 Reference: https://www.pinmeto.com/glossary/agent-ready-website/  
 Check: https://isitagentready.com/
 
-**Canonical URL:** `https://snemovna.datatimes.cz/videoarchiv`  
+**Canonical URL:** `https://snemovna.datatimes.cz/digest`  
 (GitHub Pages during testing — see `plans/deployment.md`. Agent-facing files always use the production URL as canonical.)
 
-Goal: make the PSP Video Archive fully discoverable and usable by AI agents — from auto-discovery through structured data to (eventually) a live MCP server.
+Goal: make the Sněmovna Digest fully discoverable and usable by AI agents — from auto-discovery through structured data to (eventually) a live MCP server.
 
 ---
 
@@ -47,9 +47,9 @@ Add `<script type="application/ld+json">` blocks to every page. This is how AI s
 {
   "@context": "https://schema.org",
   "@type": ["WebSite", "Dataset"],
-  "name": "PSP Video Archive",
+  "name": "Sněmovna Digest",
   "description": "AI-structured summaries of Czech Parliament events — seminars, conferences, committee meetings.",
-  "url": "https://snemovna.datatimes.cz/videoarchiv",
+  "url": "https://snemovna.datatimes.cz/digest",
   "inLanguage": "cs",
   "creator": { "@type": "Organization", "name": "DataTimes / Mahdalová & Škop" },
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -100,7 +100,7 @@ Add `<script type="application/ld+json">` blocks to every page. This is how AI s
   "@type": "CollectionPage",
   "name": "Archiv akcí PSP",
   "description": "Přehled všech zaznamenaných a shrnutých akcí Poslanecké sněmovny",
-  "url": "https://snemovna.datatimes.cz/videoarchiv/events"
+  "url": "https://snemovna.datatimes.cz/digest/events"
 }
 ```
 

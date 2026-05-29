@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:04:48",
+  "created_at": "2026-05-29T15:55:42",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
-    "id": "2851",
-    "name": "Moudrost, mravnost a racionalita ve vzdělávání",
+    "id": "22040",
+    "name": "Seminář „Moudrost, mravnost a racionalita ve vzdělávání“",
     "classification": "Seminář",
-    "start_date": "2026-04-27T09:21",
-    "end_date": "2026-04-27T14:48",
+    "start_date": "2026-04-27",
+    "end_date": "2026-04-27",
     "sources": [
       "final/event_2851_2026-04-27_moudrost-mravnost-a-racionalita-ve-vzdelavani.md"
     ]
@@ -19,28 +19,26 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na kritickou analýzu současného stavu českého vzdělávacího systému, který řečníci vnímali jako dlouhodobě degradující pod vlivem progresivistických ideologií, digitalizace a kompetenčního modelu výuky. Cílem akce bylo pojmenovat příčiny úpadku a navrhnout návrat ke klasickým hodnotám, znalostnímu vzdělávání a tradičním osnovám.\n\nJednání sloužilo jako platforma pro odbornou diskuzi o roli moudrosti, mravnosti a racionality ve výchově budoucích generací. Organizátoři zdůraznili potřebu odpolitizování školství a zastavení vlivu nadnárodních struktur a neziskových organizací na obsah výuky.",
+    "topic": "Seminář se zaměřil na kritickou analýzu současného stavu českého vzdělávacího systému, který řečníci označili za dlouhodobě degradující pod vlivem progresivistických ideologií, inkluze a digitalizace. Cílem akce bylo pojmenovat příčiny úpadku kvality vzdělávání a navrhnout návrat ke klasickým hodnotám, znalostnímu modelu výuky a posílení role učitele jako autority.\n\nJednání se neslo v duchu kritiky „kompetenčního“ modelu vzdělávání, který podle řečníků nahrazuje hluboké znalosti povrchními dovednostmi, a varování před nekritickým zaváděním umělé inteligence a digitálních technologií do škol, což má vést ke kognitivnímu oslabení dětí a ztrátě jejich schopnosti kritického myšlení.",
     "main_points": [
-      "**Miroslav Ševčík (poslanec):** Kritizoval zrušení osnov a inkluzi, navrhuje návrat ke speciálnímu školství.",
-      "**Tomio Okamura (SPD):** Varoval před generací bez morálních hodnot a vlivem ideologií typu Green Deal.",
-      "**Ivo Strejček (bývalý europoslanec):** Kritizoval kompetenční model výuky na úkor znalostí.",
-      "**Anna Hogenová (profesorka):** Zdůraznila nutnost probouzení „hladu po podstatném“ a péče o duši.",
-      "**Michal Semín (publicista):** Volal po návratu k systému sedmi svobodných umění a klasickému vzdělávání.",
-      "**Milena Míčová (učitelka):** Varovala před vlivem nadnárodních elit a digitalizací škol.",
-      "**Martin Jan Stránský (neurolog):** Upozornil na „stupidifikaci“ mozku vlivem technologií a volal po zákazu mobilů.",
-      "**Petr Hampl (sociolog):** Doporučil rozumný přístup k technologiím a kritické myšlení.",
-      "**Anna Urbanová (pediatrička):** Kritizovala vliv životního prostředí, stravy a očkování na zdraví dětí.",
-      "**Milan Studnička (psycholog):** Vyzdvihl výhody individuálního vzdělávání a svobody rodičů."
+      "**Miroslav Ševčík (poslanec)**: Kritizoval zrušení osnov a inkluzi. Navrhl návrat ke speciálnímu školství.",
+      "**Tomio Okamura (SPD)**: Zdůraznil potřebu výchovy k národním hodnotám a státní kontrolu vzdělávání.",
+      "**Ivo Strejček (IVK)**: Varoval před vlivem AI a kompetenčním modelem výuky.",
+      "**Anna Hogenová (filozofka)**: Zdůraznila mravnost jako schopnost jednat podle svědomí a hlad po podstatném.",
+      "**Michal Semín (publicista)**: Volal po návratu k systému sedmi svobodných umění a znalostní škole.",
+      "**Milena Míčová (učitelka)**: Varovala před vlivem nadnárodních struktur a digitální kontrolou žáků.",
+      "**Martin Jan Stránský (neurolog)**: Varoval před „stupidifikací“ mozku vlivem technologií a navrhl zákaz mobilů ve školách.",
+      "**Jitka Kolářová (Tradiční rodina)**: Kritizovala předčasnou sexualizaci dětí a vliv neziskových organizací."
     ],
-    "outcome": "Jednání vyústilo v konsenzus o nutnosti zastavit současné reformní trendy, zrušit plošnou inkluzi, vrátit se k závazným osnovám a omezit vliv digitálních technologií a politických neziskovek ve školách. Miroslav Ševčík oznámil záměr vytvořit pracovní skupinu pro systémové změny.",
-    "notes": "Přepis obsahuje opakující se technické artefakty (useknutá slova, halucinace modelu). Obsah byl rekonstruován z logických celků projevů řečníků."
+    "outcome": "Seminář skončil konsenzem o nutnosti vytvořit pracovní skupinu, která se bude zabývat přípravou návrhů na „odpolitizování“ školství, návratem k závazným osnovám a omezením vlivu ideologických neziskových organizací. Dominujícím postojem byla potřeba zastavit současné reformní trendy a vrátit se k tradičnímu, znalostně orientovanému vzdělávání.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky textu. Části záznamu (zejména v částech 18–21) byly nesrozumitelné nebo obsahovaly pouze technické šumy."
   },
   "entities": {
     "speakers": [
       {
         "name": "Miroslav Ševčík",
         "person_id": "psp:person:6064",
-        "affiliation": "Poslanec"
+        "affiliation": "Poslanecká sněmovna"
       },
       {
         "name": "Tomio Okamura",
@@ -60,7 +58,7 @@
       {
         "name": "Michal Semín",
         "person_id": "psp:person:6383",
-        "affiliation": "spolek Svatopluk"
+        "affiliation": "Spolek Svatopluk"
       },
       {
         "name": "Milena Míčová",
@@ -69,31 +67,6 @@
       },
       {
         "name": "Martin Jan Stránský",
-        "person_id": null,
-        "affiliation": null
-      },
-      {
-        "name": "Petr Hampl",
-        "person_id": null,
-        "affiliation": null
-      },
-      {
-        "name": "Oľga Nachtmannová",
-        "person_id": null,
-        "affiliation": null
-      },
-      {
-        "name": "Petr Vrána",
-        "person_id": "psp:person:6490",
-        "affiliation": null
-      },
-      {
-        "name": "Anna Urbanová",
-        "person_id": null,
-        "affiliation": null
-      },
-      {
-        "name": "Milan Studnička",
         "person_id": null,
         "affiliation": null
       },
@@ -109,54 +82,53 @@
     "institutions": [
       "Poslanecká sněmovna",
       "WHO",
-      "UNESCO",
-      "Světová obchodní organizace"
+      "UNESCO"
     ]
   },
   "highlights": [
     {
       "text": "Vzdělání bez řádu je nemyslitelné.",
-      "type": "citation",
+      "type": "parafrase",
       "speaker": "Ivo Strejček",
       "affiliation": "IVK",
       "timestamp": "4/10:12",
-      "context": "Jde o subjektivní hodnotový soud o povaze pedagogiky, který nelze fakticky ověřit jako pravdivý či nepravdivý."
+      "context": "Jde o subjektivní hodnotový soud a filozofický postoj k pedagogice, nikoliv o faktické tvrzení, které by bylo možné objektivně ověřit či vyvrátit."
     },
     {
-      "text": "Digitální výuka ve školství pro výuku lidského mozku nepřináší nic.",
+      "text": "Doba, po kterou jsou lidé schopni se soustředit na jeden vjem, byla v roce 2006 průměrně 2 minuty, dnes je to 40 sekund.",
       "type": "citation",
       "speaker": "Martin Jan Stránský",
       "affiliation": null,
-      "timestamp": "16/01:14",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2851_highlight_01.jpg",
-      "context": "Tvrzení je vědecky sporné. Existují studie (např. OECD PISA), které ukazují, že digitální technologie mohou při správném využití podpořit kognitivní rozvoj, ačkoliv jejich nadměrné či nevhodné užívání může mít negativní dopady na pozornost."
+      "timestamp": "14/07:25",
+      "screenshot_path": "summaries/screenshots/event_2851_highlight_01.jpg",
+      "context": "Tvrzení o poklesu pozornosti na 40 sekund je často citovaný, ale vědecky nejednoznačný údaj. Studie (např. od Microsoftu z roku 2015) bývají kritizovány pro metodologické nedostatky a neexistuje žádný konsenzuální vědecký důkaz o takto dramatickém plošném poklesu lidské pozornosti."
     },
     {
-      "text": "Dítě se neučí proto, aby vykázalo kompetenci, ale aby vstoupilo do určitého řádu myšlení.",
+      "text": "Dítě do 6 let nemá vůbec technologii vlastnit.",
       "type": "citation",
-      "speaker": "Michal Semín",
-      "affiliation": "spolek Svatopluk",
-      "timestamp": "8/07:29",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2851_highlight_02.jpg",
-      "context": "Jedná se o filozofický názor na účel vzdělávání. Pedagogické teorie se v otázce, zda je cílem vzdělávání osvojení kompetencí nebo rozvoj myšlenkových struktur, dlouhodobě liší."
+      "speaker": "Milan Studnička",
+      "affiliation": null,
+      "timestamp": "15/07:06",
+      "screenshot_path": "summaries/screenshots/event_2851_highlight_02.jpg",
+      "context": "Jedná se o doporučení či názor na výchovu a digitální hygienu. Neexistuje žádný zákonný předpis v ČR, který by vlastnictví technologie dětmi do 6 let zakazoval; jde o rozhodnutí zákonných zástupců."
     }
   ],
   "controversial": [
     {
-      "statement": "Zákaz mobilních telefonů a sociálních sítí pro děti do 16 let.",
+      "statement": "Zákaz sociálních sítí pro osoby mladší 16 let a plošný zákaz mobilů ve školách.",
       "speaker": "Martin Jan Stránský",
       "affiliation": null,
-      "timestamp": "15/04:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2851_controversy_00.jpg",
-      "context": "V ČR v současnosti neexistuje zákon, který by plošně zakazoval mobilní telefony a sociální sítě do 16 let. Návrhy na regulaci digitálních technologií ve školách jsou předmětem odborné diskuse, např. v rámci doporučení MŠMT."
+      "timestamp": "14/06:01",
+      "screenshot_path": "summaries/screenshots/event_2851_controversy_00.jpg",
+      "context": "V ČR v současnosti neexistuje zákonný zákaz sociálních sítí pro osoby mladší 16 let ani plošný zákaz mobilů ve školách. O regulaci mobilů rozhodují ředitelé škol v rámci školního řádu (podle zákona č. 561/2004 Sb., školský zákon)."
     },
     {
-      "statement": "Kritika očkování dětí a zpochybnění bezpečnosti vakcín.",
+      "statement": "Kritika očkování na COVID-19 u dětí a těhotných žen.",
       "speaker": "Anna Urbanová",
       "affiliation": null,
-      "timestamp": "27/06:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2851_controversy_01.jpg",
-      "context": "Bezpečnost vakcín v ČR je garantována Státním ústavem pro kontrolu léčiv (SÚKL) a vychází z klinických studií. Zpochybňování bezpečnosti schválených vakcín je v rozporu s konsenzem většinové lékařské vědy a daty o jejich účinnosti a bezpečnosti."
+      "timestamp": "27/06:03",
+      "screenshot_path": "summaries/screenshots/event_2851_controversy_01.jpg",
+      "context": "Očkování proti COVID-19 u dětí a těhotných žen je v ČR oficiálně doporučováno Ministerstvem zdravotnictví ČR a Českou vakcinologickou společností ČLS JEP na základě klinických studií a hodnocení bezpečnosti. Kritika tohoto postupu je legitimním politickým názorem, který však odporuje aktuálním odborným doporučením státních zdravotnických autorit."
     }
   ],
   "quality": {

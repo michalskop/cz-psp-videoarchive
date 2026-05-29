@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T12:55:45",
-  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "created_at": "2026-05-29T14:03:33",
+  "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2801",
     "name": "Tisková konference poslanců Petra Hladíka a Jany Filipovičové k “zákonu o odpadech”",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-02",
-    "end_date": "2026-04-02",
+    "start_date": "2026-04-02T09:32",
+    "end_date": "2026-04-02T09:43",
     "sources": [
       "final/event_2801_2026-04-02_tiskova-konference-poslancu-petra-hladika-a-jany-f.md"
     ]
@@ -19,11 +19,13 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference se zaměřila na novelu zákona o odpadech, která má za cíl umožnit obcím, jež úspěšně kompostují a snižují množství směsného odpadu, snížit povinný cíl třídění odpadu až o 10 procentních bodů.\n\nByla také diskutována otázka regulace cen pohonných hmot, přičemž řečníci zdůraznili potřebu dlouhodobého a komplexního řešení.",
+    "topic": "Tisková konference byla svolána za účelem představení legislativního návrhu novely zákona o odpadech. Cílem poslanců je odstranit paradoxní situaci, kdy jsou obce, které aktivně podporují domácí kompostování a předcházení vzniku odpadů, penalizovány v rámci statistik vytříděnosti.\n\nSoučasná legislativa totiž nezapočítává bioodpad zpracovaný v domácích kompostérech do míry vytříděnosti, což obcím komplikuje plnění zákonných cílů (v roce 2025 stanovených na 60 %). Poslanci navrhují úpravu, která by obcím s nízkou produkcí směsného komunálního odpadu snížila povinný cíl třídění o 10 procentních bodů.",
     "main_points": [
-      "- **Petr Hladík (KDU-ČSL)** — Představil novelu zákona o odpadech, která má za cíl umožnit obcím, jež úspěšně kompostují a snižují množství směsného odpadu, snížit povinný cíl třídění odpadu až o 10 procentních bodů. Důvodem je, že současný systém penalizuje obce, které kompostují a předcházejí vzniku odpadu.\n- **Jana Filipovičová (KDU-ČSL)** — Vysvětlila praktické důvody pro novelu zákona. Uvedla, že od roku 2021 obce intenzivně pracují na snižování odpadu a zvyšování recyklace. Nicméně, obce jsou penalizovány, pokud nesplňují recyklační cíle kvůli tomu, že kompostovaný odpad není započítán do statistik. Navrhované řešení má za cíl motivovat obce k dalšímu snižování odpadu a zvýšení kompostování.\n- **Petr Hladík (KDU-ČSL)** — Odpověděl na otázku týkající se regulace cen pohonných hmot. Uvedl, že řešení by mělo být dlouhodobé a založené na tržních mechanismech. Vyzdvihl potřebu evropské koordinace a kritizoval populistická řešení."
+      "**Petr Hladík (KDU-ČSL)** — Představil návrh novely zákona o odpadech, který reaguje na penalizaci obcí za úspěšné kompostování. Navrhuje snížení parametru vytříděnosti o 10 procentních bodů pro obce, které sníží produkci směsného odpadu pod 110 kg na obyvatele.",
+      "**Jana Filipovičová (poslankyně)** — Potvrdila problém z praktické zkušenosti starostky: bioodpad zpracovaný na zahradách nevstupuje do obecního systému, tudíž se neeviduje a statisticky zhoršuje výsledky obce. Zdůraznila, že cílem je posun od sledování pouhých procent k reálnému dopadu na životní prostředí.",
+      "**Tematické body** — Petr Hladík kritizoval vládní přístup k regulaci cen pohonných hmot, zpochybnil chaotickou komunikaci hnutí ANO a varoval před rizikem vysokých cen zemního plynu."
     ],
-    "outcome": "Tisková konference představila novelu zákona o odpadech, která má za cíl podpořit obce v kompostování a snižování odpadu. Byla také diskutována otázka regulace cen pohonných hmot, přičemž řečníci zdůraznili potřebu dlouhodobého a komplexního řešení.",
+    "outcome": "Návrh novely zákona byl podán skupinou opozičních poslanců. Autoři věří v rychlé projednání, neboť jde o technickou změnu jednoho parametru, která přímo reaguje na podněty starostů a starostek.",
     "notes": null
   },
   "entities": {
@@ -36,51 +38,60 @@
       {
         "name": "Jana Filipovičová",
         "person_id": "psp:person:7004",
-        "affiliation": "KDU-ČSL"
+        "affiliation": null
+      },
+      {
+        "name": "Ondřej Pražák",
+        "person_id": null,
+        "affiliation": "Česká televize"
       }
     ],
     "parties": [
-      "KDU-ČSL"
+      "KDU-ČSL",
+      "ANO"
     ],
-    "institutions": []
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize"
+    ]
   },
   "highlights": [
     {
-      "text": "My tím budeme motivovat všechny, aby rozdali kompostéry, aby doma kompostovali, aby ten odpad vůbec nevznikal, aby byl vlastně v tom domácím prostředí také spotřebováván.",
-      "type": "citation",
+      "text": "Obce, které dobře kompostují a předchází vzniku odpadu, jsou paradoxně penalizovány za to, že to dělají.",
+      "type": "paraphrase",
       "speaker": "Petr Hladík",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/01:26",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_highlight_00.jpg",
-      "context": "Tvrzení o motivaci k domácímu kompostování a snižování odpadu. Nelze nezávisle ověřit, zda toto opatření bude účinné."
+      "timestamp": "1/00:35",
+      "screenshot_path": "summaries/screenshots/event_2801_highlight_00.jpg",
+      "context": "Tvrzení odkazuje na systém poplatků za ukládání odpadu na skládky dle zákona č. 541/2020 Sb., o odpadech. Obce, které dosahují vysoké míry třídění, sice platí nižší skládkovací poplatky, ale v systému chybí dostatečná motivace pro obce, které efektivně předcházejí vzniku odpadu (tzv. prevence), což je dlouhodobě diskutovaný problém v odpadové legislativě."
     },
     {
-      "text": "Tímto krokem se posouváme od sledování pouhých procent k tomu, co je skutečně důležité, tedy k reálnému dopadu na životní prostředí.",
+      "text": "Navrhujeme, aby obce, které produkují nízké množství směsného komunálního odpadu, měly snížený povinný cíl třídit až o 10 %.",
       "type": "citation",
       "speaker": "Jana Filipovičová",
-      "affiliation": "KDU-ČSL",
-      "timestamp": "1/04:42",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_highlight_01.jpg",
-      "context": "Tvrzení o posunu od procent k reálnému dopadu na životní prostředí. Bez konkrétních statistik nebo dat nelze ověřit."
+      "affiliation": null,
+      "timestamp": "1/04:25",
+      "screenshot_path": "summaries/screenshots/event_2801_highlight_01.jpg",
+      "context": "Návrh reflektuje snahu o úpravu metodiky výpočtu cílů třídění pro obce, které již dosahují vysoké efektivity v nakládání s odpady. Aktuálně je legislativní rámec stanoven zákonem č. 541/2020 Sb. a prováděcími předpisy MŽP, které stanovují závazné cíle pro podíl vytříděného odpadu."
     },
     {
-      "text": "Za mě dává smysl určit nějakou cenovou hranici, za kterou vláda využije nějaký nástroj. Chci jenom zdůraznit, že u té spotřební daně by se muselo jednat o změnu legislativy, tedy relativně pomalou věc.",
+      "text": "Těch 10 % není náhodné číslo, je to maximální možná úprava, kterou nám současná evropská pravidla dovolují.",
       "type": "citation",
-      "speaker": "Petr Hladík",
-      "affiliation": "KDU-ČSL",
-      "timestamp": "1/09:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_highlight_02.jpg",
-      "context": "Zmínka o cenové hranici a potřebě změny legislativy pro spotřební daň. Změna legislativy je skutečně potřebná pro úpravy daní."
+      "speaker": "Jana Filipovičová",
+      "affiliation": null,
+      "timestamp": "1/04:34",
+      "screenshot_path": "summaries/screenshots/event_2801_highlight_02.jpg",
+      "context": "Tvrzení se vztahuje k implementaci evropské směrnice o odpadech (2018/851). Možnost úpravy cílů je omezena pravidly EU pro oběhové hospodářství; zda je 10 % skutečně maximální přípustná hranice dle aktuální interpretace Evropské komise, vyžaduje právní posouzení konkrétní notifikace."
     }
   ],
   "controversial": [
     {
-      "statement": "- **Kdo:** Petr Hladík (KDU-ČSL)\n- **Co:** Kritika populistických řešení pro regulaci cen pohonných hmot a preference dlouhodobého řešení založeného na tržních mechanismech.\n- **Proč je to kontroverzní:** Tento výrok může být vnímán jako kontroverzní, protože někteří lidé mohou považovat populistická řešení za účinnější nebo potřebnější v krátkodobém horizontu.\n- **Čas:** `6/06:02`",
+      "statement": "**Kdo:** Petr Hladík (KDU-ČSL)\n**Co:** Označil vládní debatu o regulaci cen pohonných hmot za „Kocourkov“ a kritizoval protichůdná vyjádření představitelů hnutí ANO (Schillerová vs. Babiš).\n**Proč:** Jde o ostrou politickou kritiku opozičního hnutí v rámci tiskové konference, která primárně neměla být o cenách pohonných hmot.\n**Čas:** 1/05:30",
       "speaker": "Petr Hladík",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/06:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2801_controversy_00.jpg",
-      "context": "Nelze nezávisle ověřit. Tento výrok popisuje postoj Petra Hladíka k řešení cen pohonných hmot."
+      "timestamp": "1/05:30",
+      "screenshot_path": "summaries/screenshots/event_2801_controversy_00.jpg",
+      "context": "Jde o politické hodnocení (tzv. politický názor) postojů opozičních politiků. Rozdílné výroky Aleny Schillerové a Andreje Babiše k regulaci cen jsou veřejně dohledatelné v mediálních archivech, jejich interpretace jako „Kocourkov“ je subjektivním politickým komentářem, který nelze fakticky verifikovat."
     }
   ],
   "quality": {

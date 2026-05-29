@@ -1,0 +1,123 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:59:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2885",
+    "name": "Novinky v pomoci dětským obětem násilí",
+    "classification": "Konference",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-11",
+    "sources": [
+      "final/event_2885_2026-05-11_novinky-v-pomoci-detskym-obetem-nasili.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 37,
+    "parts_total": 37,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "XI. odborná konference Centra Locika se zaměřila na aktuální výzvy v oblasti ochrany dětí před násilím, se zvláštním důrazem na systémové nedostatky, legislativní novinky a mezioborovou spolupráci. Cílem akce bylo reflektovat tragické případy z poslední doby, které rezonovaly společností, a hledat cesty k efektivnějšímu propojení justice, sociálních služeb, zdravotnictví a školství.\n\nKonference zdůraznila potřebu přechodu od reaktivního řešení k preventivně orientovanému systému, kde je nejlepší zájem dítěte prioritou. Diskutovány byly konkrétní nástroje, jako je role dětského ombudsmana, vznik Úřadu pro rodinu a ochranu dětí či implementace traumainformovaného přístupu v praxi.",
+    "main_points": [
+      "**Taťána Malá (vládní zmocněnkyně pro lidská práva)** — Zdůraznila význam novely občanského zákoníku zakazující tělesné tresty. Prioritou je propojení institucí a zamezení „tunelovému vidění“ jednotlivých orgánů.",
+      "**Petra Wünschová (ředitelka Centra Locika)** — Upozornila na systémové selhání (60+ úmrtí dětí v evidenci OSPOD). Navrhla institut forenzního pediatra a zákon o ochraně dětských obětí násilí.",
+      "**Martin Beneš (dětský ombudsman)** — Představil roli ombudsmana jako „mostu“ mezi neziskovým sektorem a státem. Varoval před rychlými politickými zkratkami.",
+      "**Edita Stejskalová (náměstkyně MPSV)** — Oznámila navýšení financí pro OSPOD o 100 milionů Kč a vznik Úřadu pro rodinu a ochranu dětí.",
+      "**Kateřina Bělohlávková (MV ČR)** — Představila vládní program „Bezpečné dětství“. Upozornila na 22 % dětí v ČR, které jsou svědky domácího násilí.",
+      "**Panel justice** — Diskutovali o nutnosti „emancipace“ opatrovnické justice a zavedení „risk map“ pro soudce."
+    ],
+    "outcome": "Konference potvrdila konsenzus na nutnosti systémové reformy. Dominujícím postojem je, že stávající roztříštěnost (rezortismus) a nedostatečná komunikace mezi institucemi přímo ohrožují životy dětí. Účastníci se shodli na potřebě standardizace postupů a posílení preventivních programů.",
+    "notes": "Přepis obsahuje místy opakující se nesmyslné fráze (např. „Představující se na návštěvní úrovni“), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Taťána Malá",
+        "person_id": "psp:person:6468",
+        "affiliation": "Vládní zmocněnkyně pro lidská práva"
+      },
+      {
+        "name": "Petra Wünschová",
+        "person_id": null,
+        "affiliation": "Centrum Locika"
+      },
+      {
+        "name": "Martin Beneš",
+        "person_id": "psp:person:6747",
+        "affiliation": "Dětský ombudsman"
+      },
+      {
+        "name": "Edita Stejskalová",
+        "person_id": null,
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "Kateřina Bělohlávková",
+        "person_id": null,
+        "affiliation": "Ministerstvo vnitra"
+      },
+      {
+        "name": "Vladimír Polák",
+        "person_id": "psp:person:3318",
+        "affiliation": "Krajský soud v Ústí nad Labem"
+      },
+      {
+        "name": "Eva Petrová",
+        "person_id": "psp:person:3214",
+        "affiliation": "Ministerstvo spravedlnosti"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "ANO 2011",
+      "STAN"
+    ],
+    "institutions": [
+      "Centrum Locika",
+      "Poslanecká sněmovna",
+      "MPSV",
+      "Ministerstvo vnitra"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V české republice zemře každý rok 8 dětí na násilí v rodině a 150 dalších si odnese trvalé zdravotní následky.",
+      "type": "paraphrase",
+      "speaker": "Taťána Malá",
+      "affiliation": "Vládní zmocněnkyně pro lidská práva",
+      "timestamp": "2/00:00",
+      "screenshot_path": "summaries/screenshots/event_2885_highlight_00.jpg",
+      "context": "Statistiky týkající se úmrtí dětí v důsledku domácího násilí se v ČR liší podle metodiky. Data Policie ČR a Ústavu zdravotnických informací a statistiky (ÚZIS) často uvádějí nižší počty přímých vražd dětí v rodině, avšak odhady neziskových organizací pracují s širším pojetím násilí, které zahrnuje i zanedbávání péče."
+    },
+    {
+      "text": "Za dobu fungování Centra Locika zemřelo více jak 60 dětí, které byly v evidenci orgánů sociálně právní ochrany dětí.",
+      "type": "citation",
+      "speaker": "Petra Wünschová",
+      "affiliation": "Centrum Locika",
+      "timestamp": "3/01:23",
+      "screenshot_path": "summaries/screenshots/event_2885_highlight_01.jpg",
+      "context": "Tento údaj nelze nezávisle ověřit z veřejně dostupných statistik MPSV či OSPOD. Data o úmrtích dětí v systému náhradní péče nebo v evidenci OSPOD nejsou centrálně zveřejňována v takto agregované podobě, která by umožňovala přímou verifikaci tohoto tvrzení."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Eva Petrová (Ministerstvo spravedlnosti) a Magdalena Černá (Centrum Locika)\n**Co:** Kritika medializace případů dětí na sociálních sítích.\n**Proč:** Jde o digitální násilí, které dítěti trvale poškozuje soukromí a bezpečnost.\n**Čas:** 3/08:11",
+      "speaker": "Eva Petrová",
+      "affiliation": "Ministerstvo spravedlnosti",
+      "timestamp": "3/08:11",
+      "screenshot_path": "summaries/screenshots/event_2885_controversy_00.jpg",
+      "context": "Tvrzení vychází z etických a právních norem na ochranu osobnosti (občanský zákoník č. 89/2012 Sb.). Problematika tzv. 'sharentingu' (sdílení obsahu o dětech rodiči) a digitálního násilí je aktuálním tématem v oblasti kybernetické bezpečnosti a ochrany práv dětí, které řeší mj. Úřad pro ochranu osobních údajů (ÚOOÚ)."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

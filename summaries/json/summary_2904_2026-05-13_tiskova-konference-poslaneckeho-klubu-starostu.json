@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:10:04",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2904",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-13T08:42",
+    "end_date": "2026-05-13T09:04",
+    "sources": [
+      "final/event_2904_2026-05-13_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením mimořádné schůze Poslanecké sněmovny. Hlavním cílem bylo vyjádřit nesouhlas s vládními návrhy v oblasti rozpočtové politiky, konkrétně s novelou zákona o pravidlech rozpočtové odpovědnosti, kterou Starostové označují za „rozpočtový podfuk“.\n\nKromě rozpočtových témat se řečníci věnovali kritice vládního postupu v oblasti digitalizace sociálních agend, podpoře bydlení a obavám o nezávislost veřejnoprávních médií v souvislosti s projednávanou ústavní novelou.",
+    "main_points": [
+      "**Jan Papajanovský (STAN)** — Kritizoval „únikové doložky“ v rozpočtových pravidlech, které podle něj umožní vládě skrýt deficit v řádu stovek miliard korun. Varoval před oslabením parlamentní kontroly a nezávislých institucí (Senát, NKÚ, Ústavní soud).",
+      "**Lucie Sedmihradská (STAN)** — Kritizovala legislativní proces (chybějící připomínkové řízení) a navrhla zavedení systematických revizí výdajů („spending review“), které by mohly ušetřit až 100 miliard korun ročně.",
+      "**Pavla Pivoňka Vaňková (STAN)** — Kritizovala vládní odklady digitalizace a upozornila na nedostatky v zákoně o podpoře bydlení, který podle ní vylučuje nejzranitelnější skupiny.",
+      "**Barbora Urbanová (STAN)** — Vyjádřila obavy z vládního návrhu na přesun veřejnoprávních médií pod státní rozpočet a oznámila podání opozičního pozměňovacího návrhu k ústavě pro lepší ochranu demokratických institucí."
+    ],
+    "outcome": "Nebyl učiněn žádný formální závěr, neboť šlo o tiskovou konferenci. Starostové deklarovali, že budou na mimořádné schůzi aktivně vystupovat, klást vládě dotazy ohledně budoucího deficitu a prosazovat své pozměňovací návrhy.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Nejvyšší kontrolní úřad",
+      "Ústavní soud",
+      "Evropská komise",
+      "OECD"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Úniková doložka, jejíž objem může být klidně mezi 100-200 miliardami korun, je snaha vyvést dluh ze státního rozpočtu.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/02:28",
+      "screenshot_path": "summaries/screenshots/event_2904_highlight_00.jpg",
+      "context": "Jedná se o politickou interpretaci rozpočtových pravidel. Únikové doložky v rámci rozpočtové odpovědnosti (dle zákona č. 23/2017 Sb.) umožňují dočasné překročení limitů při mimořádných událostech, přičemž jejich vliv na deficit je předmětem odborné debaty o transparentnosti veřejných financí."
+    },
+    {
+      "text": "Zavedením systematického „spending review“ bychom mohli dosáhnout ročních úspor výdajů ve výši až 3 %, to je 100 miliard korun ročně.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/09:12",
+      "screenshot_path": "summaries/screenshots/event_2904_highlight_01.jpg",
+      "context": "Spending reviews (přezkumy výdajů) jsou standardním nástrojem pro zvyšování efektivity státního rozpočtu, který využívá i Ministerstvo financí ČR. Odhad úspor ve výši 3 % výdajů je teoretický model; reálný objem úspor závisí na politické vůli k implementaci konkrétních opatření identifikovaných v těchto přezkumech."
+    },
+    {
+      "text": "Zákon o podpoře bydlení je jako děravé síto, ze kterého samoživitelky a senioři vypadávají.",
+      "type": "paraphrase",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "1/12:23",
+      "screenshot_path": "summaries/screenshots/event_2904_highlight_02.jpg",
+      "context": "Jde o hodnotící výrok (metaforu) k návrhu zákona o podpoře bydlení. Faktická účinnost zákona v oblasti pomoci samoživitelkám a seniorům je předmětem legislativního procesu a bude záviset na finálním znění prováděcích předpisů a nastavení parametrů sociální podpory."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Barbora Urbanová (STAN).\n**Co:** Doplnění článku 40 Ústavy tak, aby k zákonům o médiích, Ústavním soudu či NKÚ byl nutný souhlas obou komor Parlamentu (bez možnosti přehlasování).\n**Proč:** Politicky citlivé, protože to přímo omezuje vládní koalici v možnosti měnit fungování těchto institucí prostou většinou.\n**Čas:** 1/14:01",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "STAN",
+      "timestamp": "1/14:01",
+      "screenshot_path": "summaries/screenshots/event_2904_controversy_00.jpg",
+      "context": "Návrh na změnu Ústavy ČR vyžaduje ústavní většinu (3/5 všech poslanců a 3/5 přítomných senátorů). Změna článku 40 by fakticky zavedla pojistku proti změnám institucionálního rámce státu prováděným pouze vládní většinou v Poslanecké sněmovně, což by posílilo roli Senátu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

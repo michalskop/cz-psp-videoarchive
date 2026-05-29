@@ -532,6 +532,7 @@ def llm_chat(system: str, user: str, model: str, max_tokens: int = LLM_MAX_TOKEN
         },
     )
 
+    server_errors = 0
     while True:
         try:
             with urllib.request.urlopen(req, timeout=120) as resp:
@@ -543,6 +544,14 @@ def llm_chat(system: str, user: str, model: str, max_tokens: int = LLM_MAX_TOKEN
                 wait = _parse_retry_after(err_body, e.headers)
                 log.warning(f"  Rate limit — waiting {wait:.0f}s before retry")
                 time.sleep(wait)
+            elif e.code in (500, 503, 529):
+                server_errors += 1
+                if server_errors <= 5:
+                    wait = 10 * (2 ** (server_errors - 1))  # 10, 20, 40, 80, 160 s
+                    log.warning(f"  Server error {e.code} (attempt {server_errors}/5) — retrying in {wait}s")
+                    time.sleep(wait)
+                else:
+                    raise RuntimeError(f"API error {e.code} after 5 retries: {err_body[:300]}")
             else:
                 raise RuntimeError(f"API error {e.code}: {err_body[:300]}")
 
@@ -714,10 +723,11 @@ def factcheck_items(summary_json: dict, model: str) -> None:
 
 # ── Per-event summarization ───────────────────────────────────────────────────
 
-def summarize_event(event: dict, prompt: str, model: str, force: bool) -> bool:
+def summarize_event(event: dict, prompt: str, model: str, force: bool, feedback: str = "") -> bool:
     """
     Summarize one event. Writes JSON and MD to summaries/.
     Updates event dict in place. Returns True when JSON was saved successfully.
+    Pass feedback to inject human corrections into the system prompt.
     """
     event_id = event["id"]
     final_path = find_final_file(event_id)
@@ -742,16 +752,27 @@ def summarize_event(event: dict, prompt: str, model: str, force: bool) -> bool:
         )
         log.info("  Prepended invitation/agenda text")
 
+    # Append human corrections to the system prompt so they apply to every LLM call
+    effective_prompt = prompt
+    if feedback:
+        log.info(f"  Feedback injected: {feedback[:80]}{'…' if len(feedback) > 80 else ''}")
+        effective_prompt = (
+            prompt
+            + "\n\n## OPRAVY A UPŘESNĚNÍ (poskytnuté uživatelem — mají přednost před přepisem)\n\n"
+            + feedback.strip()
+            + "\n"
+        )
+
     single_pass_budget = _max_input_chars(PROMPT_RESERVE_TOKENS, LLM_MAX_TOKENS, model)
     log.info(f"  Summarizing: {final_path.name} ({len(transcript):,} chars)")
 
     t0 = time.time()
     try:
         if len(transcript) > single_pass_budget:
-            response = multipass_summarize(transcript, prompt, model, event)
+            response = multipass_summarize(transcript, effective_prompt, model, event)
         else:
             out_tokens = _output_tokens(len(transcript), model)
-            response = llm_chat(system=prompt, user=transcript, model=model, max_tokens=out_tokens)
+            response = llm_chat(system=effective_prompt, user=transcript, model=model, max_tokens=out_tokens)
     except RuntimeError as e:
         log.error(f"  LLM call failed: {e}")
         return False
@@ -826,7 +847,7 @@ def print_status(meta: dict) -> None:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def run(event_filter: str | None, model: str, force: bool) -> None:
+def run(event_filter: str | None, model: str, force: bool, feedback: str = "") -> None:
     meta = load_metadata()
     prompt = load_prompt()
 
@@ -839,13 +860,13 @@ def run(event_filter: str | None, model: str, force: bool) -> None:
     for event in targets:
         if not find_final_file(event["id"]):
             continue
-        if (not force
+        if (not force and not feedback
                 and event.get("summary_done_at")
                 and Path(event.get("summary_local", "")).exists()):
             continue
 
         log.info(f"Event [{event['id']}] {event.get('name', '')[:60]}")
-        ok = summarize_event(event, prompt, model, force)
+        ok = summarize_event(event, prompt, model, force or bool(feedback), feedback=feedback)
         if ok:
             save_metadata(meta)
 
@@ -867,12 +888,17 @@ def main() -> None:
         print_status(load_metadata())
         return
 
-    model = _arg(args, "--model") or DEFAULT_MODEL
+    model    = _arg(args, "--model") or DEFAULT_MODEL
     event_id = _arg(args, "--event")
-    force = "--force" in args
+    feedback = _arg(args, "--feedback") or ""
+    force    = "--force" in args
+
+    if feedback and not event_id:
+        print("--feedback requires --event <id>", file=sys.stderr)
+        sys.exit(1)
 
     log.info(f"Model: {model}  force: {force}")
-    run(event_filter=event_id, model=model, force=force)
+    run(event_filter=event_id, model=model, force=force, feedback=feedback)
 
 
 if __name__ == "__main__":

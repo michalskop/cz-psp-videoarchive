@@ -1,0 +1,128 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:23:57",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2948",
+    "name": "Společná tisková konference ministra obrany a kandidáta na náčelníka generálního štábu po jednání výboru pro obranu",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-27T08:58",
+    "end_date": "2026-05-27T09:26",
+    "sources": [
+      "final/event_2948_2026-05-27_spolecna-tiskova-konference-ministra-obrany-a-kand.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Jednání bylo tiskovým brífinkem po zasedání Výboru pro obranu Poslanecké sněmovny. Hlavním účelem bylo představení kandidáta na nového náčelníka Generálního štábu Armády ČR, generála Hlaváče, a diskuse o prioritách modernizace armády, strategických projektech vyzbrojování a koncepci výstavby Armády ČR do roku 2040.",
+    "main_points": [
+      "**Jaromír Zůna (ministr obrany)** — Potvrdil, že jednání výboru bylo konstruktivní a generál Hlaváč získal podporu. Zdůraznil, že spolupráce s generálem Hlaváčem je věcná a dlouhodobá. Informoval o aktualizaci seznamu strategických projektů vyzbrojování a cíli naplnit ambice do roku 2030 a 2040. Potvrdil cíl 32 000 vojáků z povolání do roku 2030.",
+      "**Generál Hlaváč (kandidát na náčelníka GŠ)** — Mezi priority zařadil modernizaci 4. brigády rychlého nasazení, letouny F-35 a posílení protivzdušné a protidronové obrany. Zdůraznil potřebu legislativních změn pro reakci na hrozby v době míru. U zakázky CAESAR trvá na třech nepřekročitelných technických požadavcích.",
+      "**Bezpečnostní situace** — Ministr obrany varoval před hybridními hrozbami a potvrdil posilování východního křídla NATO.",
+      "**Povinná vojna** — Ministr i kandidát potvrdili, že návrat povinné základní vojenské služby není aktuálně předmětem politické diskuse."
+    ],
+    "outcome": "Výbor pro obranu vyjádřil usnesením podporu nominaci generála Hlaváče na post náčelníka Generálního štábu. Nyní zbývá poslední krok – jmenování prezidentem republiky. Ministerstvo obrany pokračuje v finalizaci koncepce výstavby armády a aktualizaci seznamu strategických akvizic.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jaromír Zůna",
+        "person_id": "psp:person:7070",
+        "affiliation": "Ministerstvo obrany"
+      },
+      {
+        "name": "Generál Hlaváč",
+        "person_id": null,
+        "affiliation": "Armáda České republiky"
+      },
+      {
+        "name": "Petr Vašek",
+        "person_id": "psp:person:4469",
+        "affiliation": "Česká televize"
+      },
+      {
+        "name": "Andrea Teissigová",
+        "person_id": null,
+        "affiliation": "CNN Prima News"
+      },
+      {
+        "name": "Puzarová Aleksandra",
+        "person_id": null,
+        "affiliation": "ČTK"
+      },
+      {
+        "name": "Jakub Kopřiva",
+        "person_id": null,
+        "affiliation": "PrahaIN"
+      },
+      {
+        "name": "Zilvar",
+        "person_id": null,
+        "affiliation": "CZ Defence"
+      },
+      {
+        "name": "Ondřej Stratilík",
+        "person_id": null,
+        "affiliation": "Aktuálně.cz"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Výbor pro obranu",
+      "Armáda České republiky",
+      "Ministerstvo obrany",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Moje priorita je jednak naplnění těch základních závazků, které máme vyčleňovat ve prospěch aliance, což je těžká brigáda.",
+      "type": "paraphrase",
+      "speaker": "Generál Hlaváč",
+      "affiliation": "Armáda České republiky",
+      "timestamp": "1/06:40",
+      "screenshot_path": "summaries/screenshots/event_2948_highlight_00.jpg",
+      "context": "Závazek vybudovat těžkou brigádu (brigádní úkolové uskupení těžkého typu) je klíčovým cílem ČR v rámci NATO. Tento závazek je součástí Koncepce výstavby Armády ČR 2030 a je pravidelně potvrzován v dokumentech Ministerstva obrany ČR."
+    },
+    {
+      "text": "My teď jsme si v rámci koncepce výstavby Armády České republiky stanovili výhled 32 000 do roku 2030.",
+      "type": "citation",
+      "speaker": "Generál Hlaváč",
+      "affiliation": "Armáda České republiky",
+      "timestamp": "1/17:28",
+      "screenshot_path": "summaries/screenshots/event_2948_highlight_01.jpg",
+      "context": "Cíl dosáhnout počtu 30 000 až 32 000 vojáků z povolání do roku 2030 je oficiálně zakotven v Koncepci výstavby Armády České republiky (KVAČR 2030). Aktuální počty vojáků se však dlouhodobě pohybují pod touto hranicí a nábor je jednou z hlavních priorit resortu."
+    },
+    {
+      "text": "Povinná vojna zatím není na stole a my to vůbec nediskutujeme.",
+      "type": "citation",
+      "speaker": "Generál Hlaváč",
+      "affiliation": "Armáda České republiky",
+      "timestamp": "1/18:13",
+      "screenshot_path": "summaries/screenshots/event_2948_highlight_02.jpg",
+      "context": "Zavedení povinné základní vojenské služby není součástí vládního programu ani aktuálních legislativních plánů Ministerstva obrany. Armáda ČR se v současnosti plně orientuje na profesionální model a systém aktivních záloh."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverze: Zpoždění zakázky CAESAR a hrozba zdražení**\n- **Kdo:** Ondřej Stratilík (Aktuálně.cz) a generál Hlaváč.\n- **Co:** Diskuse o zpoždění dodávek houfnic CAESAR a hrozbě zdražení ze strany dodavatele kvůli dalším požadavkům armády.\n- **Proč:** Jde o klíčový akviziční projekt, který má zpoždění a čelí napětí mezi smluvními závazky a technickými požadavky armády.\n- **Čas:** 1/22:04",
+      "speaker": "Generál Hlaváč",
+      "affiliation": "Armáda České republiky",
+      "timestamp": "1/22:04",
+      "screenshot_path": "summaries/screenshots/event_2948_controversy_00.jpg",
+      "context": "Projekt pořízení samohybných děl CAESAR je součástí modernizace dělostřelectva. Zpoždění v akvizičních procesech a riziko navýšení ceny v důsledku inflace či dodatečných technických požadavků jsou u velkých zbrojních zakázek běžným předmětem auditů Nejvyššího kontrolního úřadu (NKÚ) a parlamentní kontroly."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

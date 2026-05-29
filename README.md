@@ -357,6 +357,63 @@ time markers are injected.
 Not yet implemented — left for a future step.  The segment JSON is the right
 place to add a `speaker` field once diarisation is added.
 
+## Summarization (`summarize.py`)
+
+Reads `final/` Markdown transcripts and produces structured JSON summaries using an LLM.
+
+```bash
+# Summarize all unsummarized events (default model: gemini-3.1-flash-lite)
+python3 summarize.py --model gemini-3.1-flash-lite
+
+# Summarize a single event
+python3 summarize.py --event 2798 --model gemini-3.1-flash-lite
+
+# Force re-summarize (overwrite existing summary)
+python3 summarize.py --event 2798 --force --model gemini-3.1-flash-lite
+
+# Re-summarize with human feedback / corrections (implies --force)
+python3 summarize.py --event 2850 --model gemini-3.1-flash-lite \
+  --feedback "Ondřej Matěj Havel není ministr. Marek Benda není předseda vlády."
+
+# Show summarization status for all events
+python3 summarize.py --status
+```
+
+### `--feedback` option
+
+Injects a human correction block into the LLM system prompt so the model
+treats it as authoritative over the transcript. Use to fix hallucinated roles,
+wrong affiliations, or misidentified speakers.
+
+- Requires `--event <id>` — applying feedback across all events makes no sense.
+- Automatically forces re-summarization (no need to add `--force` separately).
+- Works for both short (single-pass) and long (multipass) events.
+- The correction appears in the log: `Feedback injected: …`
+
+Example:
+```bash
+python3 summarize.py --event 2850 --model gemini-3.1-flash-lite \
+  --feedback "Ondřej Matěj Havel není ministr, stejně jako Marek Výborný, \
+Robert Králíček, Jan Berky nebo Miroslav Krejčí. Marek Benda není předseda vlády."
+```
+
+### Models
+
+| Flag | Backend | Notes |
+|------|---------|-------|
+| `gemini-3.1-flash-lite` | Google Gemini | Default in pipeline; free tier; 500k TPM |
+| `gemini-3.5-flash` | Google Gemini | Higher quality; free tier |
+| `meta-llama/llama-4-scout-17b-16e-instruct` | Groq | Default fallback; 30k TPM |
+| `llama-3.3-70b-versatile` | Groq | Higher quality Groq; 12k TPM |
+
+Required env vars: `GEMINI_API_KEY` (for Gemini) or `GROQ_API_KEY` (for Groq/Llama).
+
+### Retry behaviour
+
+On server errors (503, 500, 529) the script retries up to 5 times with
+exponential back-off: 10 s → 20 s → 40 s → 80 s → 160 s.  Rate-limit (429)
+responses use the `Retry-After` header value.
+
 ## API notes
 
 The archive API lives at `https://videoarchiv.psp.cz/`.  Relevant endpoints:

@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:02:29",
+  "created_at": "2026-05-29T14:47:46",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2846",
@@ -19,20 +19,20 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference se konala 22. dubna 2026 po jednání představitelů ODS se zástupci podnikatelských a zaměstnavatelských svazů. Cílem bylo představit opoziční „krizový nárazník“ – soubor opatření, kterými chce ODS reagovat na negativní ekonomické dopady krize na Blízkém východě, a kritizovat současnou vládní politiku (vláda Andreje Babiše) v oblasti ekonomiky, správy státního rozpočtu a přístupu k veřejnoprávním médiím.",
+    "topic": "Tisková konference se konala 22. dubna 2026 po jednání představitelů ODS se zástupci podnikatelských a zaměstnavatelských svazů. Cílem bylo představit tzv. „krizový nárazník“ – soubor opatření, kterými chce ODS reagovat na negativní ekonomické dopady krize na Blízkém východě, a kriticky zhodnotit kroky vlády Andreje Babiše, zejména v oblasti energetiky, státního rozpočtu a nezávislosti veřejnoprávních médií.",
     "main_points": [
-      "**Martin Kuba (předseda ODS)** — Kritizoval vládu za nečinnost při řešení dopadů krize na Blízkém východě. Odmítl zastropování cen pohonných hmot, prosazuje snížení spotřební daně. Upozornil na vysoké zdražení nafty v ČR. Vyjádřil podporu nezávislosti České televize a kritizoval uvolnění dotací pro Agrofert bez stanoviska EK.",
-      "**Jan Skopeček (místopředseda PS)** — Představil 7 bodů „krizového nárazníku“, včetně zrychlených daňových odpisů, zvýšení limitu technického zhodnocení, obnovení programu „Záruka energie“ a vytvoření programu krizové podpory pro energeticky náročné podniky s alokací 2 miliardy Kč.",
-      "**Petr Bendl (místopředseda Zemědělského výboru)** — Odsoudil postup SZIF při proplácení dotací Agrofertu na základě neveřejných posudků a varoval před rizikem vracení dotací EU a sankcemi pro státní rozpočet.",
-      "**Tematické body** — ODS kritizuje plánovaný deficit rozpočtu přes 310 miliard Kč jako populistický a staví se proti zrušení nominačního zákona, které vnímá jako snahu vlády o netransparentní dosazování lidí do státních firem."
+      "**Martin Kubka (ODS)** — Kritizoval vládu za nečinnost, odmítl zastropování cen pohonných hmot, upozornil na vysoké ceny nafty v ČR a vyjádřil podporu nezávislosti České televize.",
+      "**Jan Skopeček (ODS)** — Představil 7 bodů „krizového nárazníku“, včetně snížení spotřební daně, zrychlených odpisů a kompenzací pro energeticky náročný průmysl.",
+      "**Petr Bendl (ODS)** — Kritizoval SZIF za netransparentní proplácení dotací Agrofertu bez stanoviska Evropské komise.",
+      "**Tematické body** — ODS odmítá zrušení nominačního zákona a kritizuje plánovaný rozpočtový deficit jako populistický."
     ],
-    "outcome": "ODS potvrdila, že bude pokračovat v tlaku na vládu skrze interpelace a parlamentní obstrukce v případech, kdy vládní koalice prosazuje kroky ohrožující nezávislost institucí nebo netransparentní nakládání s veřejnými prostředky. Strana hodlá nadále prosazovat svůj „krizový nárazník“ jako alternativu k vládní politice.",
-    "notes": "Přepis obsahuje četné chyby v diakritice a fragmenty vět, které byly pro účely shrnutí rekonstruovány na základě kontextu. Jména jako „Astínový premiér“ či „Jans Kopeček“ byla opravena na správné formy (Martin Kuba, Jan Skopeček)."
+    "outcome": "ODS deklarovala, že bude pokračovat v tlaku na vládu skrze interpelace a v Senátu. Konsenzem mezi řečníky je odmítnutí vládní politiky jako „levicové a populistické“ a trvání na zachování nezávislosti veřejnoprávních médií a odbornosti ve státní správě.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
       {
-        "name": "Martin Kuba",
+        "name": "Martin Kubka",
         "person_id": "psp:person:6053",
         "affiliation": "ODS"
       },
@@ -56,55 +56,52 @@
       "ODS",
       "ANO 2011",
       "KDU-ČSL",
-      "SPD",
-      "Motoristé sobě"
+      "SPD"
     ],
     "institutions": [
       "Poslanecká sněmovna",
       "Česká televize",
       "SZIF",
-      "Evropská komise",
-      "Národní rozvojová banka",
-      "EGAP"
+      "Eurostat"
     ]
   },
   "highlights": [
     {
       "text": "Česká republika patřila mezi dva státy, kde meziročně za březen nejvíc vstoupla cena nafty.",
-      "type": "paraphrase",
-      "speaker": "Martin Kuba",
+      "type": "citation",
+      "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "1/04:16",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_highlight_00.jpg",
-      "context": "Data Evropské komise (Oil Bulletin) za březen 2022 skutečně ukazovala, že ČR patřila k zemím s nejvyšším meziročním nárůstem cen pohonných hmot v EU. Tvrzení je fakticky podložené tehdejším vývojem trhu po vypuknutí války na Ukrajině."
+      "screenshot_path": "summaries/screenshots/event_2846_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. Data Eurostatu a Evropské komise (Oil Bulletin) ukazují, že ceny pohonných hmot v ČR v březnu kolísaly, ale ČR se v meziročním srovnání růstu cen nafty pravidelně neumisťovala na prvních dvou místech v rámci EU. Pozice se mění v závislosti na konkrétním týdnu a daňových úpravách v okolních státech."
     },
     {
       "text": "V letošním roce je dluhová služba 110 miliard korun a s tímhle přístupem to na konci vládnutí bude víc než 200 miliard korun.",
-      "type": "citation",
-      "speaker": "Martin Kuba",
+      "type": "paraphrase",
+      "speaker": "Martin Kubka",
       "affiliation": "ODS",
       "timestamp": "3/03:31",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_highlight_01.jpg",
-      "context": "Výdaje na obsluhu státního dluhu v roce 2024 dle schváleného rozpočtu MF ČR činí cca 95–100 miliard Kč. Odhad růstu na 200 miliard Kč je politickou predikcí založenou na vývoji úrokových sazeb a objemu dluhu, nikoliv fixním číslem."
+      "screenshot_path": "summaries/screenshots/event_2846_highlight_01.jpg",
+      "context": "Výdaje na obsluhu státního dluhu (úroky) skutečně rostou v důsledku vyššího zadlužení a úrokových sazeb. Podle údajů Ministerstva financí ČR dosáhly výdaje na obsluhu dluhu v roce 2024 přibližně 95–100 mld. Kč; predikce růstu k hranici 200 mld. Kč v budoucích letech je reálným odhadem založeným na střednědobém výhledu státního rozpočtu."
     },
     {
-      "text": "Státní zemědělský intervenční fond dnes otevřel dveře dotačním podporám Agrofertu na základě neveřejných posudků, které odmítá zveřejnit.",
+      "text": "Státní zemědělský a intervenční fond dnes otevřel dveře dotačním podporám Agrofertu na základě neveřejných posudků, které odmítá zveřejnit.",
       "type": "citation",
       "speaker": "Petr Bendl",
       "affiliation": "ODS",
-      "timestamp": "2/04:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_highlight_02.jpg",
-      "context": "Státní zemědělský intervenční fond (SZIF) podléhá zákonu č. 106/1999 Sb., o svobodném přístupu k informacím. Zda fond odmítá zveřejnit konkrétní posudky, je předmětem sporů, nicméně dotace pro holding Agrofert jsou dlouhodobě auditovány i Evropskou komisí."
+      "timestamp": "2/02:57",
+      "screenshot_path": "summaries/screenshots/event_2846_highlight_02.jpg",
+      "context": "Státní zemědělský intervenční fond (SZIF) je vázán zákonem č. 106/1999 Sb., o svobodném přístupu k informacím. Zveřejňování posudků podléhá ochraně obchodního tajemství, nicméně v minulosti byla legitimita dotací pro Agrofert předmětem sporů s Evropskou komisí (audity ke střetu zájmů), které jsou veřejně dostupné."
     }
   ],
   "controversial": [
     {
-      "statement": "Výrok vládního zmocněnce Filipa Turka o „deratizaci parazitů“ na úřadech. Turek označil úředníky za „parazity“, které je třeba „postupně deratizovat“. Výrok vyvolal pobouření kvůli přirovnání k nacistické rétorice 30. let, což kritizoval i ex-ministr Hladík (KDU-ČSL) a představitelé ODS.",
+      "statement": "**Kdo:** Filip Turek (vládní zmocněnec).\n**Co:** Prohlásil, že na rezortech jsou „parazité“, které je třeba „postupně deratizovat“.\n**Proč:** Výrok vyvolal pobouření, protože připomíná nacistickou rétoriku z 30. let 20. století.\n**Čas:** 3/00:45",
       "speaker": "Filip Turek",
       "affiliation": "Vládní zmocněnec",
-      "timestamp": "2/08:06",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2846_controversy_00.jpg",
-      "context": "Výrok je doložitelný z veřejných záznamů a sociálních sítí. Použití termínu „deratizace“ ve vztahu k lidem je historicky spojeno s dehumanizující rétorikou totalitních režimů; jde o hodnotící výrok, který vyvolal širokou politickou kritiku napříč spektrem."
+      "timestamp": "3/00:45",
+      "screenshot_path": "summaries/screenshots/event_2846_controversy_00.jpg",
+      "context": "Výrok je fakticky doložitelný jako citace, nicméně interpretace „nacistické rétoriky“ je subjektivním politickým a historickým hodnocením. Použití termínu „deratizace“ ve vztahu k lidem je v demokratické politické kultuře považováno za dehumanizující a vysoce kontroverzní."
     }
   ],
   "quality": {

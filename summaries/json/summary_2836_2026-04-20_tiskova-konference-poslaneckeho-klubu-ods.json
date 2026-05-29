@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:07:50",
+  "created_at": "2026-05-29T14:52:13",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2836",
@@ -19,15 +19,15 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem vyjádření postoje ODS k aktuálním krokům vlády Andreje Babiše. Hlavními tématy byla kritika vládní regulace cen pohonných hmot, zahraničněpolitická orientace vlády (zejména ve vztahu k Tchaj-wanu a Číně), legislativní kroky v oblasti veřejnoprávních médií a obranného průmyslu, a rovněž nekoncepční změny ve financování školství.\n\nCílem vystoupení bylo poukázat na údajnou nekompetentnost, dezorientaci a chaotické vládnutí současné koalice, které podle řečníků poškozuje českou ekonomiku, bezpečnostní zájmy státu i stabilitu veřejných institucí.",
+    "topic": "Tisková konference byla svolána za účelem vyjádření postoje ODS k aktuálním vládním krokům, výsledkům jednání vlády a kritice vládní politiky v oblastech energetiky, zahraničních vztahů, mediální legislativy, obrany a školství.\n\nCílem bylo prezentovat alternativní pohled opozice, upozornit na údajnou nekompetenci vlády Andreje Babiše a zdůraznit rizika spojená s vládními zásahy do trhu a státní správy.",
     "main_points": [
-      "**Martin Kupka (ODS)** — Kritizoval vládní zastropování cen pohonných hmot jako „atomovou bombu“, která likviduje tržní prostředí. Odsoudil zákaz vládního letadla pro cestu Miloše Vystrčila na Tchaj-wan. Odmítl vládní návrh mediálního zákona a požaduje vyšetření korupčního podezření u kandidátů do Rady ČT.",
-      "**Jan Lipavský (ODS)** — Zdůraznil, že Tchaj-wan je pro ČR klíčovým partnerem ve vědě a technologiích. Kritizoval Andreje Babiše za „ohýbání hřbetu“ před čínským komunistickým režimem.",
-      "**Jana Černochová (ODS)** — Varovala před zrušením sekce průmyslové spolupráce na Ministerstvu obrany a jejím přesunem pod MPO, což podle ní zničí vazbu na armádu a povede k odchodu odborníků.",
-      "**Renata Zajíčková (ODS)** — Kritizovala náhlé rozhodnutí MŠMT přestat financovat plavecký výcvik ze státního rozpočtu, čímž přenáší náklady na zřizovatele škol."
+      "**Martin Kupka (ODS)** — Kritizoval vládní zásahy do cen pohonných hmot, odsoudil zákaz letadla pro cestu na Tchaj-wan, odmítl nový mediální zákon a vyzval k zastavení volby členů Rady ČT kvůli korupčnímu podezření.",
+      "**Jan Lipavský (ODS)** — Kritizoval „ohýbání hřbetu“ vlády před čínským režimem a zdůraznil ekonomickou důležitost Tchaj-wanu jako partnera pro ČR.",
+      "**Jana Černochová (ODS)** — Kritizovala zrušení sekce průmyslové spolupráce na MO a její přesun pod MPO, což označila za krok poškozující obranný průmysl.",
+      "**Renata Zajíčková (ODS)** — Kritizovala náhlé rozhodnutí MŠMT přestat financovat výuku plavání ze státního rozpočtu, což přenáší náklady na obce."
     ],
-    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opoziční strategie. ODS deklarovala, že bude nadále hájit nezávislost veřejnoprávních médií, podporovat tchajwanskou misi předsedy Senátu a vyžadovat vysvětlení vládních kroků v oblasti obrany a školství. V otázce novely stavebního zákona ODS odmítla dát vládě „bianco šek“ pro zrychlené projednávání.",
-    "notes": "Přepis je místy ovlivněn automatickým zpracováním (např. opakující se fráze, drobné gramatické chyby), avšak obsahová sdělení jsou srozumitelná a identifikovatelná."
+    "outcome": "Jednání nebylo legislativním aktem, ale politickým prohlášením. ODS deklarovala, že bude nadále kriticky sledovat vládní kroky, podporovat nezávislost veřejnoprávních médií a požadovat vysvětlení v kauzách týkajících se Rady ČT a obranného průmyslu. V otázce stavebního zákona ODS odmítla dát vládě „bianco šek“ pro zrychlené projednávání odkladu geoportálu.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -59,64 +59,55 @@
       "Poslanecká sněmovna",
       "Ministerstvo obrany",
       "Ministerstvo průmyslu a obchodu",
-      "MŠMT",
+      "Ministerstvo školství, mládeže a tělovýchovy",
       "Česká televize"
     ]
   },
   "highlights": [
     {
       "text": "Zatímco čínské investice se odhadují v rozsahu zhruba 12 až 13 miliard korun, tchajwanské investice převyšují 20 miliard korun.",
-      "type": "paraphrase",
+      "type": "citation",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/03:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_00.jpg",
-      "context": "Data ČNB o přímých zahraničních investicích (PZI) potvrzují, že tchajwanské investice v ČR dlouhodobě převyšují ty čínské. Odhady se však mohou lišit podle metodiky (započítání investic přes holdingy v jiných zemích), nicméně trend vyššího objemu tchajwanského kapitálu je dlouhodobě uznávaným faktem."
+      "screenshot_path": "summaries/screenshots/event_2836_highlight_00.jpg",
+      "context": "Data ČNB a agentury CzechInvest dlouhodobě potvrzují, že objem tchajwanských investic v ČR (např. Foxconn, Wistron) výrazně převyšuje přímé investice z pevninské Číny. Přesná čísla se mohou lišit podle metodiky započítávání (např. přes holdingové společnosti v jiných zemích), ale trend je statisticky podložený."
     },
     {
-      "text": "Tchaj-wan je pro nás dominantní partner ve vědě, výzkumu, byznysu, turismu.",
-      "type": "citation",
-      "speaker": "Jan Lipavský",
-      "affiliation": "ODS",
-      "timestamp": "1/08:57",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_01.jpg",
-      "context": "Tvrzení o „dominantním partnerovi“ je subjektivní politické hodnocení. Ačkoliv je Tchaj-wan významným investorem v technologickém sektoru, z hlediska celkového objemu zahraničního obchodu ČR zůstávají dominantními partnery země EU a sousední státy."
-    },
-    {
-      "text": "Tímto převodem se vůbec, ale vůbec nic neušetří, je to zbytečné cvičení, které rozbije funkční model.",
+      "text": "Tímto převodem se vůbec, ale vůbec nic neušetří, je to úplně zbytečné cvičení, které rozbije funkční model.",
       "type": "citation",
       "speaker": "Jana Černochová",
       "affiliation": "ODS",
       "timestamp": "1/14:12",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_02.jpg",
-      "context": "Jde o politický názor na efektivitu administrativního přesunu agendy. Úspory či ztráty z takových reorganizací jsou předmětem politického sporu a nelze je objektivně vyčíslit bez konkrétní analýzy dopadů (RIA), která v době výroku nebyla veřejně dostupná."
+      "screenshot_path": "summaries/screenshots/event_2836_highlight_01.jpg",
+      "context": "Toto tvrzení je politickým názorem na vládní reorganizaci. Zda dojde k úsporám, či nikoliv, nelze objektivně ověřit bez konkrétní analýzy dopadů (RIA), která by vyčíslila náklady na přesun agendy a efektivitu nového modelu."
     },
     {
       "text": "Rozhodnutí ministra školství, které proběhlo bez jakékoliv konzultace se starosty, považuji za podpásovku.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Renata Zajíčková",
       "affiliation": "ODS",
       "timestamp": "1/20:23",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_03.jpg",
-      "context": "Nelze nezávisle ověřit. Míra a intenzita konzultací mezi ministerstvem a samosprávami je v politickém procesu často předmětem sporu o interpretaci, zda proběhlá jednání byla dostatečná."
+      "screenshot_path": "summaries/screenshots/event_2836_highlight_02.jpg",
+      "context": "Tvrzení o absenci konzultací je subjektivním hodnocením procesu komunikace mezi ministerstvem a samosprávami. Faktickou stránku nelze nezávisle ověřit bez doložení záznamů o proběhlých či neproběhlých jednáních mezi MŠMT a dotčenými starosty."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh: Zákaz vládního letadla pro cestu na Tchaj-wan**\n* **Kdo:** Andrej Babiš (vláda)\n* **Co:** Zákaz využití vládního letounu pro cestu předsedy Senátu Miloše Vystrčila na Tchaj-wan.\n* **Proč:** ODS to vnímá jako politicky motivovaný ústupek Číně, který poškozuje ekonomické zájmy ČR a narušuje nezávislost zahraniční politiky.\n* **Čas:** 1/02:00",
-      "speaker": "Andrej Babiš",
-      "affiliation": "vláda",
-      "timestamp": "1/02:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_controversy_00.jpg",
-      "context": "V roce 2020 tehdejší vláda Andreje Babiše skutečně odmítla poskytnout vládní speciál pro cestu předsedy Senátu Miloše Vystrčila na Tchaj-wan. Oficiálním důvodem byly tehdejší diplomatické vztahy s Čínou a vládní politika jedné Číny."
+      "statement": "Zrušení sekce průmyslové spolupráce na MO a její přesun pod MPO. Podle Jany Černochové jde o „zbytečné cvičení“, které rozbije funkční model, ztratí know-how odborníků a poškodí obranný průmysl.",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/12:26",
+      "screenshot_path": "summaries/screenshots/event_2836_controversy_00.jpg",
+      "context": "Jde o kritiku organizační změny v rámci státní správy. Argumenty o ztrátě know-how a poškození průmyslu jsou předmětem odborné debaty mezi resorty MO a MPO; dopady na funkčnost systému jsou v tuto chvíli hypotetické a nelze je nezávisle ověřit."
     },
     {
-      "statement": "**Kontroverzní návrh: Přesun sekce průmyslové spolupráce na MPO**\n* **Kdo:** Karel Havlíček (MPO)\n* **Co:** Přesun agendy průmyslové spolupráce z Ministerstva obrany pod Ministerstvo průmyslu a obchodu.\n* **Proč:** Podle Jany Černochové jde o nekompetentní krok, který oslabí vazbu na armádu a zničí funkční model podpory obranného průmyslu.\n* **Čas:** 1/10:02",
-      "speaker": "Karel Havlíček",
-      "affiliation": "MPO",
-      "timestamp": "1/10:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_controversy_01.jpg",
-      "context": "Přesun sekce průmyslové spolupráce z MO pod MPO byl vnímán jako snaha o centralizaci podpory exportu obranného průmyslu. Odborná debata se vedla o tom, zda MPO disponuje dostatečnou expertízou v oblasti akvizic a bezpečnosti, kterou disponuje Ministerstvo obrany."
+      "statement": "Obvinění vlády z korupčního jednání při volbě členů Rady ČT. Martin Kupka tvrdí, že nad dvěma favority vládní koalice visí podezření z korupce.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/06:00",
+      "screenshot_path": "summaries/screenshots/event_2836_controversy_01.jpg",
+      "context": "Nelze nezávisle ověřit. Pokud nebylo zahájeno trestní stíhání nebo vydáno pravomocné rozhodnutí orgánů činných v trestním řízení, jde o politické obvinění, které není podloženo veřejně dostupnými důkazy."
     }
   ],
   "quality": {

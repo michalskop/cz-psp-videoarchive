@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:01:11",
+  "created_at": "2026-05-29T14:42:10",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2807",
@@ -19,17 +19,20 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Odborný seminář (kulatý stůl) se zaměřil na systémové změny v diagnostice, školství a podpoře osob s poruchami autistického spektra (PAS) v České republice. Cílem bylo propojit zástupce tří klíčových resortů (zdravotnictví, školství, práce a sociálních věcí) a odbornou veřejnost, aby identifikovali kritické bariéry v péči o osoby s PAS napříč celým životním cyklem.\n\nHlavním motivem byla potřeba mezioborové spolupráce, včasného záchytu, koordinace péče a vytvoření podmínek pro důstojný život osob s PAS, včetně jejich uplatnění na trhu práce.",
+    "topic": "Odborný seminář (kulatý stůl) se zaměřil na systémové změny v diagnostice, školství a podpoře osob s poruchami autistického spektra (PAS) v České republice. Cílem bylo propojit zástupce tří klíčových resortů (zdravotnictví, školství, práce a sociálních věcí) a odbornou veřejnost, aby identifikovali kritické bariéry v péči o osoby s PAS napříč celým životním cyklem.\n\nJednání zdůraznilo potřebu meziresortní spolupráce, sjednocení dat a vytvoření systému koordinované podpory, která by rodinám a osobám s PAS umožnila důstojný život bez nutnosti neustálého obcházení izolovaných institucí.",
     "main_points": [
-      "**Ivana Mádlová (poslankyně)** — Zdůraznila potřebu komplexní a provázané péče v celém životním cyklu.",
-      "**Ministr (MPSV)** — Oznámil směřování evropských fondů (2028–2034) do komunitních pobytových zařízení a nutnost legislativních změn pro nezdravotníky.",
-      "**Šárka Bínová (dětská psychiatrička)** — Upozornila na kritický nedostatek psychiatrů (cca 100 ambulantních) a obtížnost hospitalizace dětí s PAS.",
-      "**Filip Pluhař (Děti úplňku)** — Navrhl zavedení pozice koordinátora podpory na obcích a kritizoval psychiatrizaci osob s PAS kvůli nedostatku sociálních služeb.",
-      "**Ivana Blašková (MŠMT)** — Apelovala na sjednocení dat mezi resorty a posílení školních specialistů ze státního rozpočtu.",
-      "**Zástupci firem (LEGO, IKEA, SAP)** — Prezentovali příklady dobré praxe v zaměstnávání, zdůraznili význam integračních pracovníků (buddy) a úpravy pracovního prostředí."
+      "**Ivana Mádlová (poslankyně)** — zdůraznila potřebu komplexní péče reflektující celý životní cyklus osob s PAS.",
+      "**Ministr (MPSV)** — avizoval směřování evropských fondů (2028–2034) do výstavby komunitních pobytových zařízení.",
+      "**Alena Šepková (dětská lékařka)** — apelovala na meziresortní spolupráci a roli praktických dětských lékařů.",
+      "**Šárka Bínová (dětská psychiatrička)** — popsala diagnostiku MKN-11 a kritický nedostatek pedopsychiatrů (cca 100 ambulantních v ČR).",
+      "**Romana Štrauzová (terapeutka)** — varovala před neefektivními metodami (ABA bez evaluace) a podpořila včasnou intervenci u batolat.",
+      "**Filip Pluhař (Děti úplňku)** — navrhl zavedení koordinátorů podpory na obcích a kritizoval psychiatrizaci osob s PAS kvůli absenci sociálních služeb.",
+      "**Ivana Blašková (MŠMT)** — upozornila na nesoulad dat mezi školstvím a ÚZISem a podpořila posílení školních psychologů.",
+      "**Senátorka Horská** — navrhla budování „oáz“ v nemocnicích namísto drahých ústavů.",
+      "**Zástupci firem (LEGO, IKEA, SAP)** — sdíleli příklady dobré praxe v zaměstnávání (mentoring, úprava prostředí)."
     ],
-    "outcome": "Jednání potvrdilo konsenzus o nutnosti vytvořit mezirezortní pracovní skupinu. Dominujícím postojem je, že současný systém je roztříštěný a rodiny jsou přetíženy administrativou. Klíčové kroky: zavedení koordinátorů péče, standardizace posuzování náročnosti péče a podpora komunitních sociálních služeb.",
-    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova, což místy ztěžuje interpretaci konkrétních číselných údajů."
+    "outcome": "Byl dosažen konsenzus o nutnosti:\n* Vzniku **meziresortní pracovní skupiny**.\n* Zavedení pozice **koordinátora/case managera**.\n* Standardizace **posudkové služby** (zohlednění náročnosti chování).\n* Podpory **odlehčovacích služeb** a komunitního bydlení.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
@@ -44,62 +47,84 @@
         "affiliation": "Děti úplňku"
       },
       {
-        "name": "Šárka Bínová",
-        "person_id": null,
-        "affiliation": "dětská psychiatrie"
+        "name": "Alena Šepková",
+        "person_id": "psp:person:3682",
+        "affiliation": "dětská lékařka"
       },
       {
-        "name": "Magdalena Šubrt-Tórová",
+        "name": "Šárka Bínová",
         "person_id": null,
-        "affiliation": "Nautis"
+        "affiliation": "dětská psychiatrička"
+      },
+      {
+        "name": "Romana Štrauzová",
+        "person_id": null,
+        "affiliation": "terapeutka"
+      },
+      {
+        "name": "Filip Pluhař",
+        "person_id": null,
+        "affiliation": "Děti úplňku"
+      },
+      {
+        "name": "Ivana Blašková",
+        "person_id": "psp:person:656",
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Petr Horský",
+        "person_id": null,
+        "affiliation": "LEGO Group"
       }
     ],
     "parties": [
-      "null"
+      "N/A"
     ],
     "institutions": [
-      "Ministerstvo práce a sociálních věcí",
-      "Ministerstvo školství, mládeže a tělovýchovy",
-      "Ministerstvo zdravotnictví"
+      "MPSV",
+      "MŠMT",
+      "Ministerstvo zdravotnictví",
+      "Nautis",
+      "Děti úplňku"
     ]
   },
   "highlights": [
     {
       "text": "Existuje evidence, že chování osob s PAS se zhoršuje o 20 až 40 %, pokud jsou nuceny žít ve službě ústavního typu.",
-      "type": "paraphrase",
+      "type": "citation",
       "speaker": "Petr Třešňák",
       "affiliation": "Děti úplňku",
-      "timestamp": "14/01:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_highlight_00.jpg",
-      "context": "Tvrzení o 20–40% zhoršení chování vychází z odborných studií zaměřených na kvalitu života v institucionální péči (např. studie publikované v Journal of Autism and Developmental Disorders). Konkrétní procentuální vyjádření se však může lišit v závislosti na metodice a typu ústavního zařízení."
+      "timestamp": "14/00:45",
+      "screenshot_path": "summaries/screenshots/event_2807_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Studie zabývající se kvalitou života osob s PAS v ústavní péči často uvádějí negativní dopady na psychický stav, avšak konkrétní kvantifikace „20 až 40 %“ není podložena všeobecně uznávanou vědeckou metaanalýzou."
     },
     {
       "text": "Nezaměstnanost osob s PAS je v Evropě odhadována až na 70–90 %.",
       "type": "citation",
-      "speaker": "Kateřina Vencova",
+      "speaker": "Kateřina Vencová",
       "affiliation": "ČZU",
-      "timestamp": "25/06:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_highlight_01.jpg",
-      "context": "Tento odhad odpovídá údajům organizace Autism-Europe a zprávám Evropského parlamentu, které dlouhodobě uvádějí nezaměstnanost osob s PAS v rozmezí 75–90 %. V českém kontextu jsou data o zaměstnanosti této skupiny méně přesná, ale trend vysoké nezaměstnanosti potvrzují i analýzy Národního ústavu pro autismus (NAUTIS)."
+      "timestamp": "26/04:00",
+      "screenshot_path": "summaries/screenshots/event_2807_highlight_01.jpg",
+      "context": "Tento údaj odpovídá datům publikovaným organizacemi jako Autism-Europe či European Disability Forum. Míra nezaměstnanosti osob s PAS se v evropském kontextu skutečně dlouhodobě pohybuje v rozmezí 70–90 % v závislosti na míře podpory a typu postižení."
     },
     {
-      "text": "Máme v ČR jen asi 100 ambulantních dětských psychiatrů na celou republiku.",
+      "text": "Pokud jako rodič budu chtít dát dítě do speciální školy, předpokládám, že mi bude pomáhat, a ne že budu každý den poslouchat, že někoho poštípalo.",
       "type": "citation",
-      "speaker": "Šárka Bínová",
-      "affiliation": "dětská psychiatrie",
-      "timestamp": "3/05:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_highlight_02.jpg",
-      "context": "Podle dat Ústavu zdravotnických informací a statistiky (ÚZIS) se počet aktivních dětských psychiatrů v ČR dlouhodobě pohybuje kolem 150–160 úvazků, přičemž reálný počet fyzických osob je ještě nižší. Tvrzení o zhruba 100 ambulantních lékařích odpovídá kritickému nedostatku odborníků v terénu, na který upozorňuje i Česká psychiatrická společnost ČLS JEP."
+      "speaker": "Paní Vingraupová",
+      "affiliation": "rodič",
+      "timestamp": "11/08:04",
+      "screenshot_path": "summaries/screenshots/event_2807_highlight_02.jpg",
+      "context": "Jde o subjektivní vyjádření osobní zkušenosti rodiče, které nelze fakticky ověřit. V kontextu školství se jedná o kritiku komunikace mezi školským zařízením a zákonnými zástupci ohledně incidentů v rámci inkluzivního či speciálního vzdělávání."
     }
   ],
   "controversial": [
     {
-      "statement": "Návrh na zrušení povinného přehodnocování příspěvku na péči u stabilizovaných diagnóz PAS.\n\n* **Kdo:** Rodiče a někteří odborníci.\n* **Proč:** Je to politicky citlivé, protože stát se obává zneužívání dávek, zatímco rodiče to vnímají jako traumatizující a zbytečnou administrativní zátěž.\n* **Čas:** 18/06:06",
-      "speaker": "neidentifikovaný řečník",
-      "affiliation": null,
-      "timestamp": "18/06:06",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2807_controversy_00.jpg",
-      "context": "Současná legislativa (zákon č. 108/2006 Sb., o sociálních službách) vyžaduje pravidelné přezkoumávání zdravotního stavu pro účely příspěvku na péči. Návrh na zjednodušení u stabilizovaných diagnóz je předmětem odborné debaty, přičemž MPSV ČR argumentuje nutností kontroly účelného vynakládání prostředků ze státního rozpočtu."
+      "statement": "Označení zákonného odvodu za nezaměstnávání osob se zdravotním postižením (náhradní plnění přes chráněné dílny) za „výpalné“.",
+      "speaker": "Petr Horský",
+      "affiliation": "LEGO Group",
+      "timestamp": "27/04:00",
+      "screenshot_path": "summaries/screenshots/event_2807_controversy_00.jpg",
+      "context": "Označení „výpalné“ je hodnotící politický a rétorický obrat. Z právního hlediska jde o povinný odvod do státního rozpočtu dle zákona č. 435/2004 Sb., o zaměstnanosti, pokud zaměstnavatel nezaměstnává zákonem stanovený podíl osob se zdravotním postižením."
     }
   ],
   "quality": {

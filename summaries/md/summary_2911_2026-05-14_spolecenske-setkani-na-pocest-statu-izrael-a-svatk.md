@@ -1,39 +1,41 @@
-Zde je strukturované shrnutí společenského setkání na počest Státu Izrael a Dne Jeruzaléma.
+Zde je strukturované shrnutí jednání na základě poskytnutého přepisu.
 
 ### 1. Téma a účel jednání
-Jednání se uskutečnilo 14. května 2026 v prostorách Poslanecké sněmovny u příležitosti 78. výročí vyhlášení nezávislosti Státu Izrael a svátku Dne Jeruzaléma. Cílem akce bylo vyjádřit podporu Izraeli, upevnit meziparlamentní vztahy a podpořit dlouhodobý politický cíl – přesun českého velvyslanectví z Tel Avivu do Jeruzaléma.
+Jednání se uskutečnilo 14. května 2026 v Poslanecké sněmovně jako společenské setkání na počest Státu Izrael u příležitosti 78. výročí jeho vyhlášení a svátku Dne Jeruzaléma. Cílem akce bylo vyjádřit podporu Izraeli, upevnit meziparlamentní spolupráci a deklarovat politickou vůli k přesunu českého velvyslanectví z Tel Avivu do Jeruzaléma.
 
-Setkání pod záštitou předsedy Meziparlamentní skupiny přátel ČR–Izrael Miroslava Janulíka se zúčastnili zástupci obou komor Parlamentu ČR, velvyslanec Státu Izrael a představitelé mezinárodních organizací. Součástí akce byla výzva k podpisu deklarace adresované české vládě, která požaduje plnohodnotné uznání Jeruzaléma jako hlavního města Izraele prostřednictvím přesunu ambasády.
+Setkání se konalo pod záštitou předsedy Meziparlamentní skupiny přátel ČR–Izrael a bylo proloženo příspěvky politiků, publicistů a zástupců mezinárodních organizací, které dlouhodobě podporují Stát Izrael.
 
 ### 2. Hlavní body
-*   **Miroslav Janulík (ANO 2011, předseda Meziparlamentní skupiny přátel ČR–Izrael):** Zdůraznil, že skupina čítá 55 poslanců a je nejpočetnější v parlamentu. Kritizoval současný stav, kdy ČR má v Jeruzalémě pouze pobočku, a vyzval k přesunu celého úřadu.
-*   **Prof. Jan Pěrek (Senát PČR):** Připomněl historické vazby (T. G. Masaryk, Jan Masaryk, Václav Havel) a zdůraznil, že přesun ambasády je morálním dovršením československé podpory Izraele z let 1947–1948.
-*   **Amir Weissbrod (velvyslanec Státu Izrael v ČR):** Vyzdvihl nadstandardní vztahy mezi zeměmi a uvedl, že ČR byla loni čtvrtou nejčastější destinací pro izraelské turisty. Jeruzalém označil za své rodné město a duchovní srdce Izraele.
-*   **Jefim Fištejn (publicista):** Přednesl kritický projev k současné mezinárodní politice a „civilizační krizi“. Tvrdí, že odpor k uznání Jeruzaléma pramení z neschopnosti západních politiků definovat „přiměřenou odpověď“ na terorismus a z úpadku politického leadershipu.
-*   **Mojmír Kallus (viceprezident ICEJ):** Uvedl, že organizace působí v 95 zemích a dlouhodobě lobbuje za uznání Jeruzaléma jako hlavního města. Představil zástupce více než 20 zemí přítomných na setkání.
-*   **Leofan Dosburg (Israel Allies Foundation):** Informoval o síti spolupracujících zákonodárců v 64 parlamentech světa a ocenil rezoluci českého parlamentu z října 2023.
-*   **Karel Sedláček (Česká společnost přátel Izraele):** Přečetl vzkaz Tomáše Krause (American Jewish Committee) a zdůraznil symboliku svitku Tóry v budově sněmovny.
-*   **Petr Macinka (ministr zahraničních věcí – tlumočeno):** V zaslaném pozdravu potvrdil, že ČR dlouhodobě rozvíjí nadstandardní vztahy s Izraelem.
+*   **Miloslav Janulík (předseda Meziparlamentní skupiny přátel ČR–Izrael):** Zdůraznil, že skupina je s 55 poslanci nejpočetnější v parlamentu. Vyjádřil odhodlání pokračovat v úsilí o přesun ambasády do Jeruzaléma a označil současnou pobočku za „prvotní krůček“.
+*   **Prof. Jan Pěrek (senátor):** Připomněl historické vazby (T. G. Masaryk, Jan Masaryk, Václav Havel) a jejich odvahu zastávat proizraelské postoje i v dobách politické nepřízně.
+*   **Amir Weissbrod (velvyslanec Státu Izrael v ČR):** Ocenil česko-izraelské přátelství a morální jasnost ČR. Uvedl, že ČR byla loni čtvrtou nejčastější destinací pro izraelské turisty (nárůst o 65 %).
+*   **Jefim Fištejn (publicista):** Analyzoval současnou civilizační krizi a nárůst antisemitismu. Kritizoval neschopnost evropských politiků definovat „přiměřenou odpověď“ Izraele na útoky a zpochybnil současné pojetí mezinárodního práva, které podle něj často petrifikuje křivdy.
+*   **Mojmír Kallus (viceprezident ICEJ):** Představil zástupce více než 20 zemí přítomných na setkání. Zdůraznil roli křesťanských organizací v podpoře přesunu ambasád do Jeruzaléma.
+*   **Leofan Dosburg (Israel Allies Foundation):** Uvedl, že nadace spolupracuje se 64 parlamenty světa a v Evropě má zastoupení v 25 parlamentech. Vyzdvihl českou rezoluci na podporu Izraele z října 2023.
+*   **Karel Sedláček (Česká společnost přátel Izraele):** Přečetl vzkaz Tomáše Krause (American Jewish Committee), který připomněl symboliku svitku Tóry v budově Sněmovny.
+*   **Petr Macinka (ministr zahraničních věcí – tlumočeno):** V zaslaném pozdravu potvrdil nadstandardní vztahy a respekt k významu Jeruzaléma.
 
 ### 3. Výsledek / závěr
-Akce skončila konsenzuální podporou přesunu českého velvyslanectví do Jeruzaléma. Účastníci byli vyzváni k podpisu deklarace, která bude následně předložena předsedovi vlády. Setkání bylo zakončeno státními hymnami ČR a Izraele a neformální diskusí.
+Jednání bylo zakončeno státními hymnami obou zemí. Hlavním praktickým výstupem byla výzva (deklarace) adresovaná vládě ČR, vyzývající k dokončení přesunu českého velvyslanectví do Jeruzaléma. Účastníci měli možnost tuto deklaraci podepsat.
 
 ### 4. Poznámky
-Přepis obsahuje četné technické chyby (chybějící diakritika, opakující se slova, useknuté věty). Část 1/9 je prázdná. Jména řečníků byla identifikována z kontextu a úvodních slov.
+Přepis obsahuje četné chyby v přepisu jmen (např. „Belislance“ místo velvyslanec, „Pěrek“ místo senátor Pirk, „Denis Dukansky“ místo Denis Dostál, „Petr Macinka“ místo Jan Lipavský – *pozn.: v přepisu je zjevná halucinace jména ministra zahraničí*). Část 1/9 je prázdná.
 
 ---
 
 ### Doplňující otázky
-*   **Kontroverzní výrok:** Jefim Fištejn (publicista) označil současnou mezinárodní politiku a odpor k uznání Jeruzaléma za projev „civilizační degradace“ a „demokratické recese“.
-    *   **Proč:** Výrok je politicky citlivý, protože zpochybňuje legitimitu mezinárodního práva a institucí, které považuje za nefunkční a podřízené „autoritářským režimům“.
-    *   **Čas:** 4/06:01
+*   **Kontroverzní návrh:** Přesun ambasády do Jeruzaléma.
+    *   **Kdo:** Miloslav Janulík, Jan Pěrek, Mojmír Kallus a další.
+    *   **Co:** Požadavek na plnohodnotný přesun velvyslanectví ČR do Jeruzaléma.
+    *   **Proč:** Jde o citlivou diplomatickou otázku, neboť většina mezinárodního společenství uznává status Jeruzaléma jako předmět budoucích jednání a ambasády drží v Tel Avivu.
+    *   **Čas:** 2/04:02, 3/02:02, 5/04:02.
 
 ---
 
 ### Klíčové citace pro veřejnost
-*   „Česká republika dlouhodobě rozvíjí s Izraelem nadstandardní vztahy, založené na společných demokratických hodnotách.“ (Parafráze, Petr Macinka, ministr zahraničních věcí, 8/02:04)
-*   „Jeruzalém stojí na srdci českého lidství pro více než tři tisíce let.“ (Citace, Amir Weissbrod, velvyslanec Izraele, 3/06:01)
-*   „V žádné jiné budově zákonodárného sboru na světě není permanentně vystaven svitek Tóry, pouze u nás.“ (Citace, Karel Sedláček, Česká společnost přátel Izraele, 7/04:01)
+1. „Česká republika dlouhodobě rozvíjí s Izraelem nadstandardní vztahy, založené na společných demokratických hodnotách.“ (parafráze, Petr Macinka, ministr zahraničních věcí, 8/02:04)
+2. „Jeruzalém stojí na srdci českého lidství pro více než tři tisíce let.“ (citace, Amir Weissbrod, velvyslanec Izraele, 3/06:01)
+3. „Skutečné přátelství se ukáže hlavně v těžkých chvílích.“ (citace, Karel Sedláček, Česká společnost přátel Izraele, 7/08:03)
 
 ---
 
@@ -47,8 +49,8 @@ Přepis obsahuje četné technické chyby (chybějící diakritika, opakující 
     "id": "2911",
     "name": "Společenské setkání na počest Státu Izrael a svátku Dne Jeruzaléma",
     "classification": "Ostatní",
-    "start_date": "2026-05-14T15:09",
-    "end_date": "2026-05-14T16:26",
+    "start_date": "2026-05-14",
+    "end_date": "2026-05-14",
     "sources": []
   },
   "transcription": {
@@ -58,31 +60,32 @@ Přepis obsahuje četné technické chyby (chybějící diakritika, opakující 
     "model": "large-v3"
   },
   "summary": {
-    "topic": "Jednání se uskutečnilo 14. května 2026 v prostorách Poslanecké sněmovny u příležitosti 78. výročí vyhlášení nezávislosti Státu Izrael a svátku Dne Jeruzaléma. Cílem akce bylo vyjádřit podporu Izraeli, upevnit meziparlamentní vztahy a podpořit dlouhodobý politický cíl – přesun českého velvyslanectví z Tel Avivu do Jeruzaléma.\n\nSetkání pod záštitou předsedy Meziparlamentní skupiny přátel ČR–Izrael Miroslava Janulíka se zúčastnili zástupci obou komor Parlamentu ČR, velvyslanec Státu Izrael a představitelé mezinárodních organizací. Součástí akce byla výzva k podpisu deklarace adresované české vládě, která požaduje plnohodnotné uznání Jeruzaléma jako hlavního města Izraele prostřednictvím přesunu ambasády.",
+    "topic": "Jednání se uskutečnilo 14. května 2026 v Poslanecké sněmovně jako společenské setkání na počest Státu Izrael u příležitosti 78. výročí jeho vyhlášení a svátku Dne Jeruzaléma. Cílem akce bylo vyjádřit podporu Izraeli, upevnit meziparlamentní spolupráci a deklarovat politickou vůli k přesunu českého velvyslanectví z Tel Avivu do Jeruzaléma.\n\nSetkání se konalo pod záštitou předsedy Meziparlamentní skupiny přátel ČR–Izrael a bylo proloženo příspěvky politiků, publicistů a zástupců mezinárodních organizací, které dlouhodobě podporují Stát Izrael.",
     "main_points": [
-      "**Miroslav Janulík (ANO 2011)**: Předseda skupiny přátel ČR-Izrael, zdůraznil potřebu přesunu ambasády.",
-      "**Prof. Jan Pěrek (Senát PČR)**: Připomněl historickou podporu Izraele od Masaryka po Havla.",
-      "**Amir Weissbrod (velvyslanec Izraele)**: Ocenil přátelství a turistický zájem Čechů o Izrael.",
-      "**Jefim Fištejn (publicista)**: Kritizoval mezinárodní právo a civilizační úpadek západních politiků.",
-      "**Mojmír Kallus (ICEJ)**: Představil zástupce více než 20 zemí podporujících Jeruzalém jako hlavní město.",
-      "**Leofan Dosburg (Israel Allies Foundation)**: Informoval o mezinárodní síti zákonodárců.",
-      "**Karel Sedláček (Česká společnost přátel Izraele)**: Zdůraznil symboliku Tóry v parlamentu."
+      "**Miloslav Janulík (předseda Meziparlamentní skupiny přátel ČR–Izrael)** — Zdůraznil, že skupina je s 55 poslanci nejpočetnější v parlamentu. Vyjádřil odhodlání pokračovat v úsilí o přesun ambasády do Jeruzaléma.",
+      "**Prof. Jan Pěrek (senátor)** — Připomněl historické vazby (T. G. Masaryk, Jan Masaryk, Václav Havel) a jejich odvahu zastávat proizraelské postoje.",
+      "**Amir Weissbrod (velvyslanec Státu Izrael v ČR)** — Ocenil česko-izraelské přátelství a morální jasnost ČR. Uvedl, že ČR byla loni čtvrtou nejčastější destinací pro izraelské turisty.",
+      "**Jefim Fištejn (publicista)** — Analyzoval civilizační krizi a nárůst antisemitismu. Kritizoval neschopnost evropských politiků definovat „přiměřenou odpověď“ Izraele na útoky.",
+      "**Mojmír Kallus (viceprezident ICEJ)** — Představil zástupce více než 20 zemí a zdůraznil roli křesťanských organizací v podpoře přesunu ambasád.",
+      "**Leofan Dosburg (Israel Allies Foundation)** — Vyzdvihl českou rezoluci na podporu Izraele z října 2023 a spolupráci se 64 parlamenty světa.",
+      "**Karel Sedláček (Česká společnost přátel Izraele)** — Přečetl vzkaz Tomáše Krause (American Jewish Committee) o symbolice svitku Tóry v budově Sněmovny.",
+      "**Petr Macinka (ministr zahraničních věcí – tlumočeno)** — V zaslaném pozdravu potvrdil nadstandardní vztahy a respekt k významu Jeruzaléma."
     ],
-    "outcome": "Akce skončila konsenzuální podporou přesunu českého velvyslanectví do Jeruzaléma. Účastníci byli vyzváni k podpisu deklarace, která bude následně předložena předsedovi vlády. Setkání bylo zakončeno státními hymnami ČR a Izraele.",
-    "notes": "Přepis obsahuje četné technické chyby. Část 1/9 je prázdná."
+    "outcome": "Jednání bylo zakončeno státními hymnami obou zemí. Hlavním praktickým výstupem byla výzva (deklarace) adresovaná vládě ČR, vyzývající k dokončení přesunu českého velvyslanectví do Jeruzaléma. Účastníci měli možnost tuto deklaraci podepsat.",
+    "notes": "Přepis obsahuje četné chyby v přepisu jmen (např. „Belislance“ místo velvyslanec, „Pěrek“ místo senátor Pirk, „Denis Dukansky“ místo Denis Dostál, „Petr Macinka“ místo Jan Lipavský). Část 1/9 je prázdná."
   },
   "entities": {
     "speakers": [
-      {"name": "Miroslav Janulík", "person_id": null, "affiliation": "ANO 2011"},
-      {"name": "Jan Pěrek", "person_id": null, "affiliation": "Senát PČR"},
+      {"name": "Miloslav Janulík", "person_id": null, "affiliation": "Poslanecká sněmovna"},
+      {"name": "Jan Pěrek", "person_id": null, "affiliation": "Senát"},
       {"name": "Amir Weissbrod", "person_id": null, "affiliation": "Velvyslanectví Státu Izrael"},
       {"name": "Jefim Fištejn", "person_id": null, "affiliation": null},
       {"name": "Mojmír Kallus", "person_id": null, "affiliation": "ICEJ"},
       {"name": "Leofan Dosburg", "person_id": null, "affiliation": "Israel Allies Foundation"},
       {"name": "Karel Sedláček", "person_id": null, "affiliation": "Česká společnost přátel Izraele"}
     ],
-    "parties": ["ANO 2011"],
-    "institutions": ["Poslanecká sněmovna", "Senát PČR", "ICEJ", "Israel Allies Foundation"]
+    "parties": ["ANO 2011", "ODS", "STAN", "Piráti", "KDU-ČSL", "SPD", "Motoristé sobě", "TOP 09"],
+    "institutions": ["Poslanecká sněmovna", "Senát", "ICEJ", "Israel Allies Foundation"]
   },
   "highlights": [
     {
@@ -100,19 +103,19 @@ Přepis obsahuje četné technické chyby (chybějící diakritika, opakující 
       "timestamp": "3/06:01"
     },
     {
-      "text": "V žádné jiné budově zákonodárného sboru na světě není permanentně vystaven svitek Tóry, pouze u nás.",
+      "text": "Skutečné přátelství se ukáže hlavně v těžkých chvílích.",
       "type": "citation",
       "speaker": "Karel Sedláček",
       "affiliation": "Česká společnost přátel Izraele",
-      "timestamp": "7/04:01"
+      "timestamp": "7/08:03"
     }
   ],
   "controversial": [
     {
-      "statement": "Jefim Fištejn označil současnou mezinárodní politiku a odpor k uznání Jeruzaléma za projev „civilizační degradace“ a „demokratické recese“, přičemž zpochybnil legitimitu mezinárodního práva.",
-      "speaker": "Jefim Fištejn",
-      "affiliation": null,
-      "timestamp": "4/06:01"
+      "statement": "**Kontroverzní návrh:** Přesun ambasády do Jeruzaléma.\n* **Kdo:** Miloslav Janulík, Jan Pěrek, Mojmír Kallus a další.\n* **Co:** Požadavek na plnohodnotný přesun velvyslanectví ČR do Jeruzaléma.\n* **Proč:** Jde o citlivou diplomatickou otázku, neboť většina mezinárodního společenství uznává status Jeruzaléma jako předmět budoucích jednání a ambasády drží v Tel Avivu.\n* **Čas:** 2/04:02, 3/02:02, 5/04:02.",
+      "speaker": "Miloslav Janulík",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "2/04:02"
     }
   ],
   "quality": {

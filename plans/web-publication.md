@@ -1,11 +1,11 @@
-# Web Publication Plan — PSP Video Archive
+# Web Publication Plan — Sněmovna Digest
 
 **Goal:** Public-facing site for browsing structured summaries of Czech Parliament (PSP) events — seminars, conferences, committee meetings, round tables. Audience: journalists, researchers, general public.
 
 **Stack:** Next.js (static export) — this repo (`web/`), separate from the datatimes turborepo.  
 **Design:** DataTimes / Mahdalová & Škop — `DESIGN.md` in this repo.  
 **Data source:** `summaries/json/*.json` (schema v2) committed to git; screenshots served from Backblaze B2 bucket `cz-psp-videoarchive`.  
-**Production URL:** `snemovna.datatimes.cz/videoarchiv` (via Vercel rewrite on the snemovna project).  
+**Production URL:** `snemovna.datatimes.cz/digest` (via Vercel rewrite on the snemovna project).  
 **Testing URL:** GitHub Pages — `https://michalskop.github.io/cz-psp-videoarchive/` ✅ live
 
 ---
@@ -55,7 +55,7 @@ Sections in order:
 ### Design & components
 - [x] DataTimes palette as Tailwind v4 `@theme` tokens (`globals.css`)
 - [x] Fonts: Roboto Slab + Work Sans via Google Fonts
-- [x] `PspLogotype` universal component (`Sněmovna.DataTimes.cz/videoarchiv`)
+- [x] `PspLogotype` universal component (`Sněmovna.DataTimes.cz/digest`)
 - [x] `SiteHeader` sticky, `SiteFooter` 4-column
 - [x] `CategoryBadge`, `QualityBadge`
 - [x] `HighlightCard` — social card with crimson strip, screenshot, quote, logotype

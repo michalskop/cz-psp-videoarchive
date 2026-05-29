@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:50:05",
+  "created_at": "2026-05-29T14:30:04",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2837",
     "name": "Tisková konference poslaneckého klubu TOP 09",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-21",
-    "end_date": "2026-04-21",
+    "start_date": "2026-04-21T11:20",
+    "end_date": "2026-04-21T11:40",
     "sources": [
       "final/event_2837_2026-04-21_tiskova-konference-poslaneckeho-klubu-top-09.md"
     ]
@@ -19,15 +19,15 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala před zahájením jednání Poslanecké sněmovny dne 21. dubna 2026. Cílem konference bylo informovat veřejnost o aktuálních politických prioritách strany, vyjádřit nesouhlas s vládními kroky v oblasti zahraniční politiky a médií a oznámit strategii opozice pro nadcházející parlamentní týden.\n\nHlavními tématy byla kritika vládního zákazu cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan, varování před snahou vládní koalice ovládnout média veřejné služby a kritika bezpečnostní politiky vlády, zejména v souvislosti s výdaji na obranu a personálními změnami na Ministerstvu obrany.",
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala dne 21. dubna 2026 před zahájením schůze Poslanecké sněmovny. Cílem brífinku bylo informovat veřejnost o prioritách opozice pro nadcházející týden, konkrétně o plánované blokádě jednání Sněmovny jako reakci na vládní kroky v oblasti médií veřejné služby a zahraniční politiky.\n\nPředstavitelé TOP 09 ostře kritizovali vládní koalici za údajnou snahu o ovládnutí České televize a Českého rozhlasu, za zákaz cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan a za nedostatečné plnění aliančních závazků v oblasti obrany. Strana deklarovala jednotný postup celé opozice v otázce zablokování volby členů Rady ČT.",
     "main_points": [
-      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval vládní zákaz cesty předsedy Senátu na Tchaj-wan jako „poklonkování Číně“. Oznámil, že TOP 09 zablokuje jednání Poslanecké sněmovny, aby zabránila volbě členů Rady České televize a Rady Českého rozhlasu.",
-      "**Jan Jakob (TOP 09)** — Odsoudil útoky politiků hnutí ANO na novináře a podpořil protesty odborné veřejnosti. Potvrdil, že opozice je jednotná v rozhodnutí blokovat sněmovnu.",
-      "**Michal Zuna (TOP 09)** — Zpochybnil prohlášení premiéra Babiše o prioritě obranyschopnosti a kritizoval ministra obrany za rušení Sekce průmyslové spolupráce.",
-      "**Tematické body** — Opozice se shodla na koordinovaném postupu blokace sněmovny. Zákon o regulaci cen pohonných hmot byl označen za „socialistický experiment“."
+      "**Matěj Ondřej Havel (předseda TOP 09)** — Kritizoval vládní zákaz cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan jako „poklonkování Číně“, které ohrožuje bezpečnostní a ekonomické zájmy ČR. Oznámil, že TOP 09 zablokuje jednání Sněmovny, aby zabránila volbě členů Rady České televize a Rady Českého rozhlasu.",
+      "**Jan Jakob (předseda poslaneckého klubu TOP 09)** — Odsoudil chování vládních politiků vůči novinářům a označil jej za snahu o umlčení nezávislé publicistiky. Potvrdil shodu napříč opozičními kluby v otázce blokace volby radních.",
+      "**Michal Zuna (místopředseda poslaneckého klubu TOP 09)** — Kritizoval premiéra Andreje Babiše za neplnění aliančních závazků v obraně a za škrty v rozpočtu na obranu. Napadl ministra obrany za rušení Sekce průmyslové spolupráce.",
+      "**Tematické body** — Opozice je jednotná v postupu blokace Sněmovny. Zákon o regulaci cen pohonných hmot byl označen za „socialistický experiment“ a nadbytečný nástroj."
     ],
-    "outcome": "Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Dominujícím postojem opozice je však odhodlání zablokovat jednání Poslanecké sněmovny pro tento týden, pokud vládní koalice neustoupí od záměru volit členy Rady České televize a Rady Českého rozhlasu.",
-    "notes": "Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstatě stejný obsah, přičemž druhá část je useknutá). Informace byly syntetizovány z dostupného textu."
+    "outcome": "Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Dominujícím postojem opozice je však **odhodlání zablokovat jednání Poslanecké sněmovny** pro tento týden, pokud vládní koalice neustoupí od záměru volit členy Rady České televize a Rady Českého rozhlasu.",
+    "notes": "Přepis obsahuje duplicitní záznamy (část 1 a 2 jsou obsahově totožné). Text je srozumitelný, přestože obsahuje drobné gramatické chyby a překlepy vzniklé automatickým přepisem."
   },
   "entities": {
     "speakers": [
@@ -53,49 +53,47 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Senát",
       "Česká televize",
       "Český rozhlas",
-      "Ministerstvo obrany",
+      "Senát",
       "NATO"
     ]
   },
   "highlights": [
     {
-      "text": "Proto nejezdit na Tchaj-wan je poklonkování Číně, nejezdit dělat takovou tu politiku všech azimutů zahraniční, tak se nám může šeredně vymstít.",
+      "text": "Tchaj-wan je vyspělá demokratická země, je to čipová velmoc, je to pro nás strategické.",
       "type": "paraphrase",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
-      "timestamp": "1/01:10",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2837_highlight_00.jpg",
-      "context": "Jde o politický názor na zahraniční politiku ČR. Oficiální postoj ČR uznává politiku 'jedné Číny', ale zároveň rozvíjí obchodní a kulturní vztahy s Tchaj-wanem, což je v souladu s vládním programovým prohlášením."
+      "timestamp": "1/03:10",
+      "screenshot_path": "summaries/screenshots/event_2837_highlight_00.jpg",
+      "context": "Tchaj-wan je dle indexů (např. Economist Intelligence Unit) považován za plnou demokracii. Zároveň je domovem společnosti TSMC, která vyrábí přes 90 % nejmodernějších světových polovodičů, což potvrzuje jeho status klíčového hráče v globálním dodavatelském řetězci čipů."
     },
     {
-      "text": "My zablokujeme Poslaneckou sněmovnu pro tento týden, aby nedošlo k volbě radních v České televizi, protože v této atmosféře to prostě není možné.",
+      "text": "My zablokujeme Poslaneckou sněmovnu pro tento týden, aby nedošlo k volbě radních v České televizi.",
       "type": "citation",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/06:22",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2837_highlight_01.jpg",
-      "context": "Blokování jednání sněmovny je legitimní, byť krajní parlamentní nástroj (např. prostřednictvím obstrukcí). Zda je volba radních ČT v dané atmosféře 'nemožná', je subjektivní politické hodnocení, nikoliv faktický stav."
+      "screenshot_path": "summaries/screenshots/event_2837_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Výrok je v přímém rozporu s politickou příslušností řečníka (TOP 09 je součástí vládní koalice, která volbu radních prosazuje), pravděpodobně se jedná o chybnou citaci nebo záměnu subjektu v přepisu."
     },
     {
-      "text": "Po škrtech Andreje Babiše se nejsme schopni dosáhnout ani těch základních 2 % (HDP na obranu), čímž dosáhneme akorát tak toho, že nebudeme plnit naše alianční závazky.",
+      "text": "Po škrtech Andreje Babiše nejsme schopni dosáhnout ani těch základních 2 % HDP na obranu.",
       "type": "citation",
       "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
       "timestamp": "1/11:14",
-      "context": "Zákon č. 214/2022 Sb. stanovil povinnost vydávat na obranu 2 % HDP od roku 2024. ČR tento závazek v roce 2024 dle údajů Ministerstva obrany ČR a NATO plní; tvrzení o neschopnosti dosáhnout 2 % je tedy v rozporu s aktuálními rozpočtovými daty."
+      "context": "Česká republika dosáhla hranice 2 % HDP na obranu až v roce 2024, tedy za současné vlády. V období vlád Andreje Babiše (2017–2021) se výdaje na obranu pohybovaly v rozmezí 1,0–1,3 % HDP, což je doložitelné daty Ministerstva financí ČR a statistikami NATO."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh:** Blokace Poslanecké sněmovny jako nástroj politického boje.\n- **Kdo:** Matěj Ondřej Havel, Jan Jakob (TOP 09).\n- **Co:** Oznámení, že opozice nedovolí projednávání mediálních novel ani volbu radních a zablokuje sněmovnu.\n- **Proč:** Je to politicky citlivé, protože jde o paralýzu zákonodárného sboru, což je krajní parlamentní prostředek.\n- **Čas:** 1/06:03",
-      "speaker": "Matěj Ondřej Havel, Jan Jakob",
+      "statement": "**Kdo:** Michal Zuna (TOP 09)\n**Co přesně:** „...tato slova [premiéra Babiše o obraně] jsou lež.“\n**Proč:** Přímé nařčení premiéra ze lži v otázce národní bezpečnosti a plnění závazků vůči NATO je vysoce konfrontační a politicky citlivé.\n**Čas:** 1/10:01",
+      "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
-      "timestamp": "1/06:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2837_controversy_00.jpg",
-      "context": "Blokace jednání sněmovny je běžnou součástí parlamentního boje (obstrukce). Zda je takový postup v souladu s jednacím řádem, závisí na konkrétní formě (např. řečnické lhůty, námitky), přičemž jde o politické rozhodnutí opozice, nikoliv o porušení zákona."
+      "timestamp": "1/10:01",
+      "context": "Tvrzení o „lži“ je subjektivní politické hodnocení. Fakticky lze ověřit pouze to, že vládní závazek 2 % HDP na obranu nebyl v době premiérství Andreje Babiše naplněn, což potvrzují výroční zprávy Ministerstva obrany ČR."
     }
   ],
   "quality": {

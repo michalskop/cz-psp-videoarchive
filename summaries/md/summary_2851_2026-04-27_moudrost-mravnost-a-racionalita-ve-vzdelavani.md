@@ -1,65 +1,66 @@
-Zde je strukturované shrnutí semináře „Moudrost, mravnost a racionalita ve vzdělávání“, který se konal 27. dubna 2026 v Poslanecké sněmovně.
+Toto je strukturované shrnutí semináře „Moudrost, mravnost a racionalita ve vzdělávání“, který se konal 27. dubna 2026 v Poslanecké sněmovně.
 
 ### 1. Téma a účel jednání
-Seminář se zaměřil na kritickou analýzu současného stavu českého vzdělávacího systému, který řečníci vnímali jako dlouhodobě degradující pod vlivem progresivistických ideologií, digitalizace a kompetenčního modelu výuky. Cílem akce bylo pojmenovat příčiny úpadku a navrhnout návrat ke klasickým hodnotám, znalostnímu vzdělávání a tradičním osnovám.
+Seminář se zaměřil na kritickou analýzu současného stavu českého vzdělávacího systému, který řečníci označili za dlouhodobě degradující pod vlivem progresivistických ideologií, inkluze a digitalizace. Cílem akce bylo pojmenovat příčiny úpadku kvality vzdělávání a navrhnout návrat ke klasickým hodnotám, znalostnímu modelu výuky a posílení role učitele jako autority.
 
-Jednání sloužilo jako platforma pro odbornou diskuzi o roli moudrosti, mravnosti a racionality ve výchově budoucích generací. Organizátoři zdůraznili potřebu odpolitizování školství a zastavení vlivu nadnárodních struktur a neziskových organizací na obsah výuky.
+Jednání se neslo v duchu kritiky „kompetenčního“ modelu vzdělávání, který podle řečníků nahrazuje hluboké znalosti povrchními dovednostmi, a varování před nekritickým zaváděním umělé inteligence a digitálních technologií do škol, což má vést ke kognitivnímu oslabení dětí a ztrátě jejich schopnosti kritického myšlení.
 
 ### 2. Hlavní body
-*   **Miroslav Ševčík (poslanec, organizátor):** Kritizoval zrušení závazných osnov a zavedení inkluze, kterou označil za „černou můru“ systému. Navrhuje návrat ke speciálnímu školství a změnu financování vysokých škol, které je podle něj deformováno „impaktovanou mafií“.
-*   **Tomio Okamura (SPD):** Zdůraznil, že vzdělávání je klíčové pro přežití národa a obranu proti ideologiím, jako je Green Deal. Varoval před generací bez morálních hodnot a neschopnou kritického diskurzu.
-*   **Ivo Strejček (bývalý europoslanec):** Kritizoval kompetenční model vzdělávání, který upřednostňuje „trh práce“ před formováním osobnosti. Varoval před riziky umělé inteligence, pokud žáci nebudou mít pevný znalostní základ.
-*   **Anna Hogenová (profesorka):** Zdůraznila význam „péče o duši“ a mravnosti. Varovala před technologickým myšlením, které redukuje člověka na stroj, a vyzvala k probouzení „hladu po podstatném“ u dětí.
-*   **Michal Semín (publicista):** Představil ideál vzdělání jako „scholé“ (volný čas pro kontemplaci). Kritizoval fragmentaci výuky a volal po návratu k systému sedmi svobodných umění.
-*   **Milena Míčová (učitelka):** Varovala před vlivem nadnárodních elit (WHO, WEF) na české školství. Kritizovala digitalizaci výuky a zavedení „jednotného identifikátoru žáka“ jako nástroje totální kontroly.
-*   **Tomáš Doležal (poslanec):** Poukázal na chaos v organizaci školství a regionální nerovnosti způsobené nevhodným financováním ze strany krajů a obcí.
-*   **Radim Valenčík (pedagog):** Navrhl model univerzit jako sítí tvůrčích týmů. Kritizoval grantové systémy, které podle něj likvidují špičkové vědce.
-*   **Martin Jan Stránský (neurolog):** Představil neurologické dopady digitálních technologií. Upozornil na fenomén „stupidifikace“ v důsledku nadměrného používání sociálních sítí a volal po zákazu mobilů ve školách.
-*   **Petr Hampl (sociolog):** Doporučil rozumný přístup k technologiím – omezit je u dětí, ale nepropadat fobii. Zdůraznil nutnost učit se rozumět algoritmům a kritickému myšlení.
-*   **Oľga Nachtmannová (pedagožka):** Popsala negativní zkušenosti s kurikulární reformou na Slovensku, kde došlo k utajené přípravě změn a oslabení znalostního základu.
-*   **Petr Vrána (ředitel ZŠ):** Kritizoval administrativní zátěž ředitelů a nesmyslnost revizí RVP, které mají přes 1500 stran.
-*   **Jitka Kolářová (Tradiční rodina):** Varovala před předčasnou sexualizací dětí a indoktrinací prostřednictvím neziskových organizací ve školách.
+*   **Miroslav Ševčík (poslanec, organizátor):** Kritizoval zrušení závazných osnov a zavedení inkluze, kterou označil za „černou můru“ školství. Navrhl návrat ke speciálnímu školství a kritizoval financování vysokých škol založené na „impaktovaných článcích“.
+*   **Tomio Okamura (předseda SPD):** Zdůraznil potřebu výchovy k národním hodnotám a pokoře. Varoval před ideologickým vymýváním mozků a zdůraznil, že vzdělání musí být veřejným statkem pod kontrolou státu.
+*   **Ivo Strejček (bývalý europoslanec):** Varoval před tlakem umělé inteligence. Zdůraznil, že vzdělání je práce, která má bolet, a kritizoval kompetenční model výuky na úkor znalostí.
+*   **Anna Hogenová (profesorka):** Hovořila o mravnosti jako schopnosti jednat podle svědomí. Varovala před „technologickým myšlením“, které z lidí dělá stroje, a zdůraznila nutnost probouzet v dětech „hlad po podstatném“.
+*   **Michal Semín (publicista):** Představil ideál školy jako „scholé“ (volného času pro poznání). Kritizoval fragmentaci výuky a volal po návratu k systému sedmi svobodných umění.
+*   **Milena Míčová (učitelka):** Varovala před vlivem nadnárodních struktur (WHO, neziskové organizace) na české školství a před „totální kontrolou“ žáků skrze digitální identifikátory.
+*   **Tomáš Doležal (poslanec):** Poukázal na chaos v reformách a regionální nerovnosti ve financování školství. Kritizoval neustálé změny v přijímacím řízení.
+*   **Radim Valenčík (pedagog):** Navrhl model univerzit jako sítí tvůrčích týmů. Kritizoval likvidaci špičkových vědců v ČR (případ Tomáše Mikolova).
+*   **Martin Jan Stránský (neurolog):** Varoval před „stupidifikací“ mozku vlivem digitálních technologií. Doporučil plošný zákaz mobilů ve školách a sociálních sítí do 16 let.
+*   **Olga Nachtmannová (pedagožka):** Popsala negativní zkušenosti s reformami na Slovensku, zejména s „hejno-matematikou“ a netransparentním zaváděním změn.
+*   **Petr Vrána (ředitel ZŠ):** Kritizoval administrativní zátěž škol a neefektivitu revizí RVP. Volal po návratu ke kvalitním učebnicím a jasným osnovám.
+*   **Anna Urbanová (pediatrička):** Upozornila na zhoršující se zdravotní stav dětí (obezita, psychické poruchy, alergie) v souvislosti s životním stylem a prostředím.
+*   **Milan Studnička (psycholog):** Vyzdvihl výhody individuálního vzdělávání (domškoláctví) jako cesty k rozvoji vnitřní motivace a vizí dětí.
+*   **Jitka Kolářová (Tradiční rodina):** Varovala před předčasnou sexualizací dětí a vlivem aktivistických neziskových organizací ve školách.
 
 ### 3. Výsledek / závěr
-Jednání vyústilo v konsenzus o nutnosti zastavit současné reformní trendy, zrušit plošnou inkluzi, vrátit se k závazným osnovám a omezit vliv digitálních technologií a politických neziskovek ve školách. Miroslav Ševčík oznámil záměr vytvořit pracovní skupinu, která bude usilovat o systémové změny v českém školství.
+Seminář skončil konsenzem o nutnosti vytvořit pracovní skupinu, která se bude zabývat přípravou návrhů na „odpolitizování“ školství, návratem k závazným osnovám a omezením vlivu ideologických neziskových organizací. Dominujícím postojem byla potřeba zastavit současné reformní trendy a vrátit se k tradičnímu, znalostně orientovanému vzdělávání.
 
 ### 4. Poznámky
-Přepis obsahuje opakující se technické artefakty (useknutá slova, halucinace modelu). Obsah byl rekonstruován z logických celků projevů řečníků.
+Přepis obsahuje četné technické chyby, opakující se fráze a výpadky textu. Části záznamu (zejména v částech 18–21) byly nesrozumitelné nebo obsahovaly pouze technické šumy.
 
 ---
 
-## Doplňující otázky
-*   **Kontroverzní návrh:** Zákaz mobilních telefonů a sociálních sítí pro děti do 16 let.
+### Doplňující otázky
+*   **Kontroverzní návrh:** Zákaz sociálních sítí pro osoby mladší 16 let a plošný zákaz mobilů ve školách.
     *   **Kdo:** Martin Jan Stránský (neurolog).
-    *   **Proč:** Politicky citlivé kvůli zásahu do osobní svobody a digitálních práv, přestože řečník argumentuje ochranou zdraví mozku.
-    *   **Čas:** 15/04:03.
-*   **Kontroverzní výrok:** Kritika očkování dětí a zpochybnění bezpečnosti vakcín.
+    *   **Proč:** Politicky citlivé kvůli zásahu do svobody jednotlivce a digitálních práv, ačkoliv řečník argumentuje ochranou zdraví mozku.
+    *   **Čas:** 14/06:01.
+*   **Kontroverzní výrok:** Kritika očkování na COVID-19 u dětí a těhotných žen.
     *   **Kdo:** Anna Urbanová (pediatrička).
-    *   **Proč:** V rozporu s oficiálními doporučeními zdravotnických autorit a očkovací strategií státu.
-    *   **Čas:** 27/06:04.
+    *   **Proč:** V rozporu s oficiálními doporučeními zdravotnických autorit a vědeckým konsenzem.
+    *   **Čas:** 27/06:03.
 
 ---
 
-## Klíčové citace pro veřejnost
-*   „Vzdělání bez řádu je nemyslitelné.“ — **Ivo Strejček** (bývalý europoslanec), 4/08:06.
-*   „Digitální výuka ve školství pro výuku lidského mozku nepřináší nic.“ — **Martin Jan Stránský** (neurolog), 16/02:01.
-*   „Dítě se neučí proto, aby vykázalo kompetenci, ale aby vstoupilo do určitého řádu myšlení.“ — **Michal Semín** (publicista), 8/06:00.
-*   „Škola nesmí být místem, kde se s dětmi za zavřenými dveřmi experimentuje.“ — **Jitka Kolářová** (Tradiční rodina), 32/04:06.
+### Klíčové citace pro veřejnost
+1. „Vzdělání bez řádu je nemyslitelné.“ — **Ivo Strejček** (IVK), 4/08:06 (parafráze).
+2. „Doba, po kterou jsou lidé schopni se soustředit na jeden vjem, byla v roce 2006 průměrně 2 minuty, dnes je to 40 sekund.“ — **Martin Jan Stránský** (neurolog), 14/06:12 (citace).
+3. „Dítě do 6 let nemá vůbec technologii vlastnit.“ — **Milan Studnička** (psycholog), 15/06:14 (citace).
+4. „Škola nesmí být místem, kde se s dětmi za zavřenými dveřmi experimentuje.“ — **Jitka Kolářová** (Tradiční rodina), 32/06:00 (citace).
 
 ---
 
-## JSON výstup
+### JSON výstup
 ```json
 {
   "schema_version": "2",
   "created_at": null,
   "model_hint": null,
   "event": {
-    "id": "2851",
-    "name": "Moudrost, mravnost a racionalita ve vzdělávání",
+    "id": "22040",
+    "name": "Seminář „Moudrost, mravnost a racionalita ve vzdělávání“",
     "classification": "Seminář",
-    "start_date": "2026-04-27T09:21",
-    "end_date": "2026-04-27T14:48",
+    "start_date": "2026-04-27",
+    "end_date": "2026-04-27",
     "sources": []
   },
   "transcription": {
@@ -69,76 +70,69 @@ Přepis obsahuje opakující se technické artefakty (useknutá slova, halucinac
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na kritickou analýzu současného stavu českého vzdělávacího systému, který řečníci vnímali jako dlouhodobě degradující pod vlivem progresivistických ideologií, digitalizace a kompetenčního modelu výuky. Cílem akce bylo pojmenovat příčiny úpadku a navrhnout návrat ke klasickým hodnotám, znalostnímu vzdělávání a tradičním osnovám.\n\nJednání sloužilo jako platforma pro odbornou diskuzi o roli moudrosti, mravnosti a racionality ve výchově budoucích generací. Organizátoři zdůraznili potřebu odpolitizování školství a zastavení vlivu nadnárodních struktur a neziskových organizací na obsah výuky.",
+    "topic": "Seminář se zaměřil na kritickou analýzu současného stavu českého vzdělávacího systému, který řečníci označili za dlouhodobě degradující pod vlivem progresivistických ideologií, inkluze a digitalizace. Cílem akce bylo pojmenovat příčiny úpadku kvality vzdělávání a navrhnout návrat ke klasickým hodnotám, znalostnímu modelu výuky a posílení role učitele jako autority.\n\nJednání se neslo v duchu kritiky „kompetenčního“ modelu vzdělávání, který podle řečníků nahrazuje hluboké znalosti povrchními dovednostmi, a varování před nekritickým zaváděním umělé inteligence a digitálních technologií do škol, což má vést ke kognitivnímu oslabení dětí a ztrátě jejich schopnosti kritického myšlení.",
     "main_points": [
-      "**Miroslav Ševčík (poslanec):** Kritizoval zrušení osnov a inkluzi, navrhuje návrat ke speciálnímu školství.",
-      "**Tomio Okamura (SPD):** Varoval před generací bez morálních hodnot a vlivem ideologií typu Green Deal.",
-      "**Ivo Strejček (bývalý europoslanec):** Kritizoval kompetenční model výuky na úkor znalostí.",
-      "**Anna Hogenová (profesorka):** Zdůraznila nutnost probouzení „hladu po podstatném“ a péče o duši.",
-      "**Michal Semín (publicista):** Volal po návratu k systému sedmi svobodných umění a klasickému vzdělávání.",
-      "**Milena Míčová (učitelka):** Varovala před vlivem nadnárodních elit a digitalizací škol.",
-      "**Martin Jan Stránský (neurolog):** Upozornil na „stupidifikaci“ mozku vlivem technologií a volal po zákazu mobilů.",
-      "**Petr Hampl (sociolog):** Doporučil rozumný přístup k technologiím a kritické myšlení.",
-      "**Anna Urbanová (pediatrička):** Kritizovala vliv životního prostředí, stravy a očkování na zdraví dětí.",
-      "**Milan Studnička (psycholog):** Vyzdvihl výhody individuálního vzdělávání a svobody rodičů."
+      "**Miroslav Ševčík (poslanec)**: Kritizoval zrušení osnov a inkluzi. Navrhl návrat ke speciálnímu školství.",
+      "**Tomio Okamura (SPD)**: Zdůraznil potřebu výchovy k národním hodnotám a státní kontrolu vzdělávání.",
+      "**Ivo Strejček (IVK)**: Varoval před vlivem AI a kompetenčním modelem výuky.",
+      "**Anna Hogenová (filozofka)**: Zdůraznila mravnost jako schopnost jednat podle svědomí a hlad po podstatném.",
+      "**Michal Semín (publicista)**: Volal po návratu k systému sedmi svobodných umění a znalostní škole.",
+      "**Milena Míčová (učitelka)**: Varovala před vlivem nadnárodních struktur a digitální kontrolou žáků.",
+      "**Martin Jan Stránský (neurolog)**: Varoval před „stupidifikací“ mozku vlivem technologií a navrhl zákaz mobilů ve školách.",
+      "**Jitka Kolářová (Tradiční rodina)**: Kritizovala předčasnou sexualizaci dětí a vliv neziskových organizací."
     ],
-    "outcome": "Jednání vyústilo v konsenzus o nutnosti zastavit současné reformní trendy, zrušit plošnou inkluzi, vrátit se k závazným osnovám a omezit vliv digitálních technologií a politických neziskovek ve školách. Miroslav Ševčík oznámil záměr vytvořit pracovní skupinu pro systémové změny.",
-    "notes": "Přepis obsahuje opakující se technické artefakty (useknutá slova, halucinace modelu). Obsah byl rekonstruován z logických celků projevů řečníků."
+    "outcome": "Seminář skončil konsenzem o nutnosti vytvořit pracovní skupinu, která se bude zabývat přípravou návrhů na „odpolitizování“ školství, návratem k závazným osnovám a omezením vlivu ideologických neziskových organizací. Dominujícím postojem byla potřeba zastavit současné reformní trendy a vrátit se k tradičnímu, znalostně orientovanému vzdělávání.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky textu. Části záznamu (zejména v částech 18–21) byly nesrozumitelné nebo obsahovaly pouze technické šumy."
   },
   "entities": {
     "speakers": [
-      {"name": "Miroslav Ševčík", "person_id": null, "affiliation": "Poslanec"},
+      {"name": "Miroslav Ševčík", "person_id": null, "affiliation": "Poslanecká sněmovna"},
       {"name": "Tomio Okamura", "person_id": null, "affiliation": "SPD"},
       {"name": "Ivo Strejček", "person_id": null, "affiliation": "IVK"},
       {"name": "Anna Hogenová", "person_id": null, "affiliation": null},
-      {"name": "Michal Semín", "person_id": null, "affiliation": "spolek Svatopluk"},
+      {"name": "Michal Semín", "person_id": null, "affiliation": "Spolek Svatopluk"},
       {"name": "Milena Míčová", "person_id": null, "affiliation": null},
       {"name": "Martin Jan Stránský", "person_id": null, "affiliation": null},
-      {"name": "Petr Hampl", "person_id": null, "affiliation": null},
-      {"name": "Oľga Nachtmannová", "person_id": null, "affiliation": null},
-      {"name": "Petr Vrána", "person_id": null, "affiliation": null},
-      {"name": "Anna Urbanová", "person_id": null, "affiliation": null},
-      {"name": "Milan Studnička", "person_id": null, "affiliation": null},
       {"name": "Jitka Kolářová", "person_id": null, "affiliation": "Tradiční rodina"}
     ],
     "parties": ["SPD"],
-    "institutions": ["Poslanecká sněmovna", "WHO", "UNESCO", "Světová obchodní organizace"]
+    "institutions": ["Poslanecká sněmovna", "WHO", "UNESCO"]
   },
   "highlights": [
     {
       "text": "Vzdělání bez řádu je nemyslitelné.",
-      "type": "citation",
+      "type": "parafrase",
       "speaker": "Ivo Strejček",
       "affiliation": "IVK",
       "timestamp": "4/08:06"
     },
     {
-      "text": "Digitální výuka ve školství pro výuku lidského mozku nepřináší nic.",
+      "text": "Doba, po kterou jsou lidé schopni se soustředit na jeden vjem, byla v roce 2006 průměrně 2 minuty, dnes je to 40 sekund.",
       "type": "citation",
       "speaker": "Martin Jan Stránský",
       "affiliation": null,
-      "timestamp": "16/02:01"
+      "timestamp": "14/06:12"
     },
     {
-      "text": "Dítě se neučí proto, aby vykázalo kompetenci, ale aby vstoupilo do určitého řádu myšlení.",
+      "text": "Dítě do 6 let nemá vůbec technologii vlastnit.",
       "type": "citation",
-      "speaker": "Michal Semín",
-      "affiliation": "spolek Svatopluk",
-      "timestamp": "8/06:00"
+      "speaker": "Milan Studnička",
+      "affiliation": null,
+      "timestamp": "15/06:14"
     }
   ],
   "controversial": [
     {
-      "statement": "Zákaz mobilních telefonů a sociálních sítí pro děti do 16 let.",
+      "statement": "Zákaz sociálních sítí pro osoby mladší 16 let a plošný zákaz mobilů ve školách.",
       "speaker": "Martin Jan Stránský",
       "affiliation": null,
-      "timestamp": "15/04:03"
+      "timestamp": "14/06:01"
     },
     {
-      "statement": "Kritika očkování dětí a zpochybnění bezpečnosti vakcín.",
+      "statement": "Kritika očkování na COVID-19 u dětí a těhotných žen.",
       "speaker": "Anna Urbanová",
       "affiliation": null,
-      "timestamp": "27/06:04"
+      "timestamp": "27/06:03"
     }
   ],
   "quality": {

@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:25:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2753",
+    "name": "Tisková konference na téma Jídlo je věc veřejná: jak využít potenciál potravin ve veřejném zájmu",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-16T11:16",
+    "end_date": "2026-03-16T11:24",
+    "sources": [
+      "final/event_2753_2026-03-16_tiskova-konference-na-tema-jidlo-je-vec-verejna-ja.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Jednání proběhlo formou pracovní snídaně a následné tiskové konference pod názvem „Jídlo je věc veřejná: jak využít potenciál potravin ve veřejném zájmu“. Cílem akce bylo představit otevřenou výzvu vládě ČR, která volá po moderní potravinové politice. Tato politika by měla klást větší důraz na veřejné zdraví, udržitelnost zemědělství, dostupnost rostlinné stravy a podporu inovací v potravinářství.\n\nHlavním motivem je celostní přístup k potravinovému systému, který propojuje zemědělskou produkci, veřejné stravování (školy, nemocnice) a ochranu životního prostředí. Iniciativa reaguje na rostoucí zájem veřejnosti o zdravější stravování a potřebu strategického řízení státu v této oblasti.",
+    "main_points": [
+      "**Gabriela Svárovská (poslankyně)** — Zdůraznila, že potravinová politika není jen „zelené téma“, ale celospolečenská otázka ovlivňující zdraví obyvatel a stav krajiny. Podpořila výzvu vládě k vytvoření moderní potravinové strategie.",
+      "**Linda Maruščáková (ProVeg Česko)** — Představila otevřenou výzvu jako strategický nástroj pro vládu. Zdůraznila potřebu edukace personálu ve veřejném stravování a nutnost, aby stát převzal aktivnější roli v regulaci a podpoře kvalitní rostlinné stravy.",
+      "**Miroslav Krotký (FN Motol a Homolka)** — Upozornil na obrovskou poptávku po rostlinných alternativách v institucionálním stravování. Argumentoval, že „bezmasé jídlo“ nesmí být pouze smažený sýr, ale nutričně vyvážená alternativa. Uvedl, že zavedení rostlinných jídel v Motole vedlo k nárůstu počtu strávníků.",
+      "**Tomáš Uhnák (Asociace místních potravinových iniciativ)** — Kritizoval současný model zemědělství, kde je většina plodin určena pro výkrm skotu, nikoliv pro přímou lidskou spotřebu. Navrhl do roku 2030 zvýšit podíl produkce rostlinné stravy o 15 % a podpořit krátké distribuční řetězce."
+    ],
+    "outcome": "Nebyla přijata žádná legislativní změna, akce sloužila jako platforma pro představení expertní výzvy vládě. Konsenzem řečníků je potřeba vytvořit multidisciplinární a mezirezortní potravinovou strategii, která nebude řešit pouze dílčí detaily, ale nastaví nový směr pro české zemědělství a veřejné stravování s důrazem na veřejné zdraví a ekonomickou udržitelnost zemědělců.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Gabriela Svárovská",
+        "person_id": "psp:person:7049",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Linda Maruščáková",
+        "person_id": null,
+        "affiliation": "ProVeg Česko"
+      },
+      {
+        "name": "Miroslav Krotký",
+        "person_id": "psp:person:6955",
+        "affiliation": "FN Motol a Homolka"
+      },
+      {
+        "name": "Tomáš Uhnák",
+        "person_id": null,
+        "affiliation": "Asociace místních potravinových iniciativ"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "FN Motol a Homolka",
+      "ProVeg Česko",
+      "Asociace místních potravinových iniciativ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ve chvíli, kdy si volíme, co si na ten náš talíř dáme, je to vždycky souhrn nějakých osobních voleb, ale zároveň se tato rozhodnutí dějí v určitém nastavení, které reguluje stát.",
+      "type": "paraphrase",
+      "speaker": "Linda Maruščáková",
+      "affiliation": "ProVeg Česko",
+      "timestamp": "1/02:56",
+      "screenshot_path": "summaries/screenshots/event_2753_highlight_00.jpg",
+      "context": "Stát skutečně reguluje stravování prostřednictvím legislativy, jako je zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích, či vyhlášek stanovujících výživové normy pro školní stravování (např. vyhláška č. 107/2005 Sb.). Jde o faktické konstatování rámce, v němž se odehrává trh s potravinami."
+    },
+    {
+      "text": "Více než polovina populace se v institucích stravuje, je potřeba populaci edukovat a nabídnout jim možnost volby alternativních bílkovin s ohledem na jejich zdraví.",
+      "type": "paraphrase",
+      "speaker": "Miroslav Krotký",
+      "affiliation": "FN Motol a Homolka",
+      "timestamp": "1/06:39",
+      "screenshot_path": "summaries/screenshots/event_2753_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Ačkoliv je podíl stravování v institucích (školy, nemocnice, závody) významný, přesná statistika o tom, že se v nich stravuje více než polovina české populace, není v oficiálních datech ČSÚ jednoznačně potvrzena."
+    },
+    {
+      "text": "Výzva doporučuje do roku 2030 zvýšit podíl produkce rostlinné stravy o patnáct procent.",
+      "type": "citation",
+      "speaker": "Tomáš Uhnák",
+      "affiliation": "Asociace místních potravinových iniciativ",
+      "timestamp": "1/09:16",
+      "screenshot_path": "summaries/screenshots/event_2753_highlight_02.jpg",
+      "context": "Jde o konkrétní cíl iniciativy, nikoliv o platnou legislativu ČR či EU. Tento údaj vychází z doporučení neziskových organizací a odborných platforem prosazujících udržitelnější zemědělství."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Tomáš Uhnák (Asociace místních potravinových iniciativ) navrhl zvýšení podílu produkce rostlinné stravy o 15 % do roku 2030 a kritizoval fakt, že polovina plodin jde na výkrm skotu. Toto téma je politicky citlivé kvůli silné lobby v živočišné výrobě a obavám zemědělců z vynucené změny hospodaření.",
+      "speaker": "Tomáš Uhnák",
+      "affiliation": "Asociace místních potravinových iniciativ",
+      "timestamp": "1/08:00",
+      "screenshot_path": "summaries/screenshots/event_2753_controversy_00.jpg",
+      "context": "Podíl plodin využívaných pro krmné účely je v ČR vysoký, dle dat ČSÚ a MZe ČR tvoří krmiva významnou část spotřeby obilovin. Politická citlivost tématu vyplývá z konfliktu mezi cíli Zelené dohody pro Evropu (Green Deal) a ekonomickými zájmy Agrární komory ČR, která dlouhodobě hájí zájmy živočišné výroby."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

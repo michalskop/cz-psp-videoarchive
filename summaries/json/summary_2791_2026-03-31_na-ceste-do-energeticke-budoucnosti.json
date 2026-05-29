@@ -1,46 +1,49 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T13:04:16",
-  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "created_at": "2026-05-29T14:06:28",
+  "model_hint": "gemini-3.1-flash-lite",
   "event": {
-    "id": "2791",
+    "id": "21943",
     "name": "Na cestě do energetické budoucnosti",
     "classification": "Seminář",
-    "start_date": "2026-03-31T09:55",
-    "end_date": "2026-03-31T15:02",
+    "start_date": "2026-03-31",
+    "end_date": "2026-03-31",
     "sources": [
       "final/event_2791_2026-03-31_na-ceste-do-energeticke-budoucnosti.md"
     ]
   },
   "transcription": {
-    "parts_transcribed": 4,
-    "parts_total": 4,
+    "parts_transcribed": 32,
+    "parts_total": 32,
     "source": "whisper",
-    "model": "basic"
+    "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář 'Na cestě do energetické budoucnosti' se konal 31. března 2026 v Poslanecké sněmovně. Cílem bylo diskutovat o možnostech a výzvách české energetiky.",
+    "topic": "Seminář se konal 31. března 2026 v Poslanecké sněmovně pod záštitou poslanců Marie Pošarové a Tomáše Doležala. Cílem akce bylo otevřít odbornou diskuzi o budoucím energetickém mixu České republiky v horizontu let 2026–2050.\n\nJednání se zaměřilo na střet dvou hlavních názorových proudů: zastánců masivního rozvoje obnovitelných zdrojů (Svaz moderní energetiky) a zastánců „realistické energetiky“ (Realistická energetika a ekologie), kteří kladou důraz na stabilitu, jadernou energetiku a zachování řiditelných zdrojů. Seminář měl za cíl identifikovat cesty k zajištění energetické bezpečnosti a konkurenceschopnosti českého průmyslu v kontextu evropské dekarbonizace.",
     "main_points": [
-      "- Marie Pošarová (poslankyně): úvodní slovo a informace o semináři, návrh na zřízení vyšetřovací komise.",
-      "- Tomio Okamura (předseda Poslanecké sněmovny): zmínka o zahájení semináře.",
-      "- Martin Sedlák (Svaz moderní energetiky): informace o možnostech české energetiky.",
-      "- Milan Smutný (Realistická energetika a ekologie): kritika aktuální energetické koncepce.",
-      "- Tomáš Doležal (Poslanec): scénář dekarbonizace a odhad nákladů."
+      "**Marie Pošarová (SPD)** — Zdůraznila potřebu diskuze napříč různými energetickými mixy.",
+      "**Martin Sedlák (Svaz moderní energetiky)** — Argumentoval, že OZE jsou cestou k levnější energii a že trh věří v pokles cen plynu.",
+      "**Marek Lang (Svaz moderní energetiky)** — Akcentoval megatrendy: elektroenergetiku, decentralizaci a digitalizaci.",
+      "**Jan Brázda (Svaz moderní energetiky)** — Prezentoval OZE jako prorůstový faktor pro HDP a zaměstnanost.",
+      "**František Hrdlička (ČVUT)** — Kritizoval označování baterií za „zdroj“ energie a zdůraznil nezastupitelnost uhlí a jádra.",
+      "**Lubomír Lízal (ČVUT)** — Upozornil na rozdíl mezi investorským a národohospodářským pohledem na náklady.",
+      "**Petr Krtil (AV ČR)** — Varoval před fyzikálními limity OZE a extrémními nároky na akumulaci.",
+      "**Karel Noháč (Západočeská univerzita)** — Vysvětlil technické limity přenosové soustavy a nutnost budování stejnosměrných „energetických dálnic“.",
+      "**Jan Horáček (Realistická energetika a ekologie)** — Představil model soběstačnosti, který ukazuje, že bez uhlí bude ČR v zimě čelit kritickému nedostatku elektřiny.",
+      "**Jan Vondráš (Invicta BOHEMICA)** — Upozornil na drastický nárůst nákladů do přenosových soustav v Německu.",
+      "**René Neděla (MPO)** — Informoval o legislativních krocích (Lex OZE, akcelerační zóny).",
+      "**Jan Šefránek (ERÚ)** — Upozornil na nutnost změny tarifní struktury a odhadl investice do elektroenergetiky do roku 2030 na 200 mld. Kč.",
+      "**Josef Kotrba (Svaz energetiky ČR)** — Uvedl, že vypínání uhelných zdrojů se v krátkodobém horizontu vyřešilo tržně."
     ],
-    "outcome": "Seminář neskončil formálním rozhodnutím, ale účastníci diskutovali o různých aspektech české energetiky.",
-    "notes": "Části přepisu mohou být nesrozumitelné nebo chybět."
+    "outcome": "Jednání nepřineslo formální usnesení, ale potvrdilo hlubokou názorovou polarizaci mezi zástupci moderní energetiky a zastánci tradičních řiditelných zdrojů. Dominujícím postojem je shoda na nutnosti posílení jaderné energetiky, avšak panuje zásadní neshoda na roli OZE, nákladech na transformaci a schopnosti soustavy zajistit bezpečnost dodávek v zimních měsících.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a useknutá slova. Části záznamu (zejména v částech 18–20) jsou nesrozumitelné nebo obsahují halucinace modelu. Diskuze byla místy velmi emotivní a konfrontační."
   },
   "entities": {
     "speakers": [
       {
         "name": "Marie Pošarová",
         "person_id": "psp:person:6745",
-        "affiliation": "poslankyně"
-      },
-      {
-        "name": "Tomio Okamura",
-        "person_id": "psp:person:6105",
-        "affiliation": "předseda Poslanecké sněmovny"
+        "affiliation": "SPD"
       },
       {
         "name": "Martin Sedlák",
@@ -58,14 +61,24 @@
         "affiliation": "Svaz moderní energetiky"
       },
       {
-        "name": "Ondřej Invicta",
-        "person_id": null,
-        "affiliation": "Invicta"
+        "name": "František Hrdlička",
+        "person_id": "psp:person:1637",
+        "affiliation": "ČVUT"
       },
       {
-        "name": "Milan Smutný",
+        "name": "Lubomír Lízal",
+        "person_id": "psp:person:6078",
+        "affiliation": "ČVUT"
+      },
+      {
+        "name": "Petr Krtil",
+        "person_id": "psp:person:5306",
+        "affiliation": "AV ČR"
+      },
+      {
+        "name": "Karel Noháč",
         "person_id": null,
-        "affiliation": "Realistická energetika a ekologie"
+        "affiliation": "Západočeská univerzita"
       },
       {
         "name": "Jan Horáček",
@@ -73,77 +86,89 @@
         "affiliation": "Realistická energetika a ekologie"
       },
       {
-        "name": "Tomáš Doležal",
-        "person_id": "psp:person:7001",
-        "affiliation": "Poslanec"
+        "name": "Jan Vondráš",
+        "person_id": null,
+        "affiliation": "Invicta BOHEMICA"
       },
       {
         "name": "René Neděla",
         "person_id": null,
-        "affiliation": "Vrchní ředitel sekce energetiky, Ministerstvo průmyslu a obchodu"
+        "affiliation": "MPO"
       },
       {
         "name": "Jan Šefránek",
         "person_id": null,
-        "affiliation": "Předseda Energetického regulačního úřadu"
+        "affiliation": "ERÚ"
       },
       {
         "name": "Josef Kotrba",
         "person_id": null,
-        "affiliation": "Výkonný ředitel Svazu energetiky ČR"
+        "affiliation": "Svaz energetiky ČR"
+      },
+      {
+        "name": "Milan Smutný",
+        "person_id": null,
+        "affiliation": "Realistická energetika a ekologie"
       }
     ],
-    "parties": [],
+    "parties": [
+      "SPD",
+      "ANO 2011"
+    ],
     "institutions": [
       "Poslanecká sněmovna",
       "Svaz moderní energetiky",
-      "Realistická energetika a ekologie",
-      "Invicta",
-      "Ministerstvo průmyslu a obchodu",
-      "Energetický regulační úřad",
-      "Svaz energetiky ČR"
+      "ČVUT",
+      "AV ČR",
+      "MPO",
+      "ERÚ"
     ]
   },
   "highlights": [
     {
-      "text": "Cíle stanovené pro rok 2030 (10 GW ve fotovoltaice) nebudou splněny.",
-      "type": "citation",
-      "speaker": "Milan Smutný",
+      "text": "V roce 2030, když už nebude uhlí, tak ani náhodou nebudeme soběstační, bude nám chybět až 4 gigawatty importu, což je 30 % naší spotřeby.",
+      "type": "paraphrase",
+      "speaker": "Jan Horáček",
       "affiliation": "Realistická energetika a ekologie",
-      "timestamp": null,
-      "context": "Cíl 10 GW ve fotovoltaice k roku 2030 je součástí české energetické strategie. Podle údajů Ministerstva průmyslu a obchodu (MPO) je však třeba pravidelné aktualizace cílů a plánů. Nelze nezávisle ověřit, zda bude cíl splněn."
+      "timestamp": "15/06:03",
+      "screenshot_path": "summaries/screenshots/event_2791_highlight_00.jpg",
+      "context": "Tvrzení o deficitu 4 GW je jednou z predikcí v rámci scénářů odchodu od uhlí, např. dle analýz ČEPS. Skutečná bilance však závisí na rychlosti výstavby nových zdrojů, rozvoji akumulace a energetických úspor, proto nelze výsledek pro rok 2030 považovat za definitivní fakt."
     },
     {
-      "text": "70 % naší energie bude pocházet z jádra a OZE.",
+      "text": "V tuhle chvíli očekáváme do roku 2030 pouze v elektroenergetice investice ve výši 200 miliard korun.",
       "type": "citation",
-      "speaker": "Profesor František Hrdlička",
-      "affiliation": null,
-      "timestamp": null,
-      "context": "Podíl jádra a obnovitelných zdrojů energie (OZE) na energetickém mixu ČR se postupně mění. Podle MPO se v roce 2020 podíl OZE na hrubé výrobě elektřiny pohyboval kolem 20 %. Cíl 70 % energie z jádra a OZE není kvantifikován v dostupných zdrojích."
+      "speaker": "Jan Šefránek",
+      "affiliation": "ERÚ",
+      "timestamp": "24/00:45",
+      "screenshot_path": "summaries/screenshots/event_2791_highlight_01.jpg",
+      "context": "Investiční potřeby v elektroenergetice do roku 2030 jsou předmětem vládních strategií (např. aktualizace Vnitrostátního plánu v oblasti energetiky a klimatu). Částka 200 miliard korun odpovídá řádově odhadům investic do přenosové a distribuční soustavy, nikoliv celkovým nákladům na transformaci energetiky."
     },
     {
-      "text": "Německo plánuje zvýšit svůj import elektřiny.",
-      "type": "citation",
-      "speaker": "Ing. Vráša",
-      "affiliation": null,
-      "timestamp": null,
-      "context": "Německo plánuje uzavřít všechny své jaderné elektrárny do konce roku 2022. Německá vláda se zaměřuje na zvýšení podílu OZE. Nelze ověřit, zda Německo plánuje zvýšit import elektřiny."
+      "text": "Z hlediska odběratelů není tato cesta levná a z hlediska ČR je špatná zpráva, že jsme v tom vysoko nad křivkou nákladů.",
+      "type": "paraphrase",
+      "speaker": "Lubomír Lízal",
+      "affiliation": "ČVUT",
+      "timestamp": "11/09:15",
+      "screenshot_path": "summaries/screenshots/event_2791_highlight_02.jpg",
+      "context": "Srovnání nákladů na energetickou transformaci je komplexní a závisí na zvolené metodice. ČR se dlouhodobě potýká s vysokou energetickou náročností průmyslu, což činí ekonomické dopady transformace citelnějšími, nicméně tvrzení o „vysoké křivce nákladů“ je subjektivním ekonomickým hodnocením, nikoliv oficiálním statistickým ukazatelem."
     }
   ],
   "controversial": [
     {
-      "statement": "Kritika aktuální energetické koncepce a plánů na zvýšení podílu obnovitelných zdrojů energie.",
+      "statement": "Návrh na zavedení „českého systému“ pro emisní povolenky, kde by podnikatelé platili fixní cenu (např. 40 EUR) a zbytek by doplatil stát.",
       "speaker": "Milan Smutný",
       "affiliation": "Realistická energetika a ekologie",
-      "timestamp": null,
-      "context": "Aktuální energetická koncepce ČR zahrnuje zvyšování podílu OZE. Kritika této koncepce může vycházet z různých pohledů, například z hlediska nákladů nebo technické proveditelnosti."
+      "timestamp": "28/02:00",
+      "screenshot_path": "summaries/screenshots/event_2791_controversy_00.jpg",
+      "context": "Systém emisních povolenek (EU ETS) je regulován legislativou EU (směrnice 2003/87/ES). Zavedení fixní ceny s doplatkem státu by bylo v přímém rozporu s pravidly vnitřního trhu EU a pravidly pro veřejnou podporu, což by vyžadovalo rozsáhlé vyjednávání s Evropskou komisí."
     },
     {
-      "statement": "Scénář dekarbonizace podle MAFu 22 ČEPS s odhadem vysokých nákladů na transformaci energetiky.",
-      "speaker": "Tomáš Doležal",
-      "affiliation": "Poslanec",
-      "timestamp": null,
-      "context": "Scénář dekarbonizace podle MAFu 22 ČEPS zahrnuje odhad nákladů na transformaci energetiky. Tento scénář je součástí širší diskuse o budoucnosti energetiky v ČR."
+      "statement": "Označení zelené energetiky za „zelenou mafii“, která chce ukrást stát a zabít průmysl.",
+      "speaker": "Marie Pošarová",
+      "affiliation": "SPD",
+      "timestamp": "31/08:20",
+      "screenshot_path": "summaries/screenshots/event_2791_controversy_01.jpg",
+      "context": "Jde o politickou rétoriku a hodnotový soud. Pojem „zelená mafie“ není právně ani fakticky definovaný termín; dopady zelené politiky na průmysl jsou předmětem legitimní odborné diskuse, nikoliv prokázaným kriminálním či destruktivním záměrem."
     }
   ],
   "quality": {

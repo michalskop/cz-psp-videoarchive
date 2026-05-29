@@ -1,54 +1,53 @@
-Toto je strukturované shrnutí tiskové konference poslaneckého klubu hnutí Starostové a nezávislí (STAN) ze dne 24. března 2026.
+Tato tisková konference poslaneckého klubu hnutí Starostové a nezávislí (STAN) se konala 24. března 2026 před zahájením schůze Poslanecké sněmovny. Cílem vystoupení bylo představit priority opozičního klubu, kritizovat kroky vlády Andreje Babiše a informovat o konkrétních legislativních návrzích, které hodlají Starostové v rámci jednání prosazovat či blokovat.
 
 ### 1. Téma a účel jednání
-Tisková konference se konala před zahájením schůze Poslanecké sněmovny. Cílem bylo představit priority opozičního klubu STAN, kritizovat kroky vlády Andreje Babiše a ohlásit konkrétní legislativní návrhy a postoje k projednávaným bodům.
-
-Hlavními tématy byla ochrana nezávislosti veřejnoprávních médií, kritika rušení nominačního zákona, chaos kolem nového stavebního zákona, energetická bezpečnost, zdravotnická politika a rozpočtová odpovědnost.
+Hlavním tématem byla kritika vládní politiky, kterou řečníci označili za snahu o „privatizaci státu“ a omezování nezávislosti klíčových institucí. Starostové se vymezili zejména proti změnám ve financování veřejnoprávních médií, rušení nominačního zákona a chaotické přípravě nového stavebního zákona. Účelem konference bylo deklarovat jednotný postup opozice a představit konstruktivní alternativy k vládním návrhům v oblastech zdravotnictví, energetiky a sociální politiky.
 
 ### 2. Hlavní body
 *   **Vít Rakušan (STAN):**
-    *   **Veřejnoprávní média:** Oznámil iniciativu opozice zařadit bod o „zestátnění“ médií veřejné služby. Kritizoval plánované krácení rozpočtů, které podle něj povede k jejich paralýze a závislosti na vládní moci. Pohrozil obstrukcemi v případě projednávání vládního zákona o financování médií.
-    *   **Nominační zákon:** Kritizoval záměr vlády zrušit nominační zákon. Navrhl, aby negativní stanovisko nominačního výboru bylo pro nominace do státních firem závazné, čímž by se zabránilo obsazování funkcí nekvalifikovanými osobami.
+    *   Kritika „zestátnění“ veřejnoprávních médií skrze krácení rozpočtů, což podle něj povede k jejich závislosti na vládě. Avizoval, že pokud vláda prosadí tento zákon, opozice využije všech prostředků včetně obstrukcí.
+    *   Odmítl rušení nominačního zákona. Navrhl, aby negativní stanovisko nominačního výboru bylo pro vládu závazné, čímž by se zabránilo obsazování funkcí nekvalifikovanými osobami.
 *   **Lukáš Vlček (STAN):**
-    *   **Stavební zákon:** Označil vládní novelu za chaotickou (42 zákonů, 850 stran textu, obcházení připomínkových řízení). Varoval před paralýzou stavebního řízení.
-    *   **Energetická krize:** Opakovaně navrhuje debatu o dopadech konfliktu na Blízkém východě na energetickou bezpečnost (Hormuzský průliv). Vyzdvihl význam předchozích investic do zásobníků plynu a ropovodu TAL-PLUS.
+    *   Kritizoval nový stavební zákon jako „chaotický“ (42 novelizovaných zákonů, 850 stran textu) a varoval před paralýzou stavebního řízení.
+    *   Navrhl debatu o řešení energetické krize v souvislosti s konfliktem na Blízkém východě a situací v Hormuzském průlivu.
 *   **Michaela Šebelová (STAN):**
-    *   **Zdravotnictví:** Odmítla návrh na přerozdělení 8 miliard Kč z fondu VZP ostatním pojišťovnám jako nesystémový „trest“ za dobré hospodaření VZP.
-    *   **Očkovací strategie:** Varovala před ústupky vlády vůči SPD v oblasti národní očkovací strategie (HPV virus). Apelovala na zachování osvěty a prevence rakoviny.
+    *   Odmítla návrh na přerozdělení 8 miliard korun z fondu VZP mezi ostatní pojišťovny jako nesystémový krok, který trestá dobré hospodaření VZP.
+    *   Varovala před ústupky vlády vůči SPD v oblasti národní očkovací strategie (HPV vakcinace), což ohrožuje prevenci rakoviny.
 *   **Jan Papajanovský (STAN):**
-    *   **Rozpočet:** Kritizoval schodek 310 miliard Kč a varoval před dalším prohlubováním deficitu.
-    *   **Živnostníci:** Předložil pozměňovací návrh k zákonu o sociálním pojištění OSVČ. Navrhuje cílenou pomoc řemeslníkům (pekaři, truhláři, zedníci) místo plošných úlev, které podle něj zvýhodňují vysokopříjmové skupiny.
+    *   Kritizoval rozpočtovou politiku vlády a rekordní deficit 310 miliard korun.
+    *   Představil pozměňovací návrh k zákonu o sociálním pojištění OSVČ: odmítá plošné úlevy a navrhuje cílenou pomoc pouze pro nejzranitelnější živnostníky (řemeslníky).
 *   **Barbora Urbanová (STAN):**
-    *   **Trestní právo:** Oznámila blokování zkráceného projednávání trestního zákoníku (§ 90). Představila balíček „Lex Mareček“ zaměřený na ochranu obětí domácího násilí a znásilnění (prodloužení promlčecích lhůt, přitěžující okolnosti).
-    *   **Neziskové organizace:** Ohradila se proti rétorice premiéra Babiše vůči neziskovému sektoru a zdůraznila jejich roli při tvorbě legislativy.
+    *   Avizovala blokování zkráceného projednávání trestního zákoníku (neplacení výživného).
+    *   Představila balíček „Lex Mareček“, který se zaměřuje na prodloužení promlčecích lhůt u znásilnění dětí a zohlednění psychických dopadů u obětí domácího násilí.
+    *   Ohradila se proti premiérovým výrokům o neziskových organizacích a označila je za zavádějící.
 
 ### 3. Výsledek / závěr
-Jednání bylo informativní tiskovou konferencí. Nebylo přijato žádné formální rozhodnutí, ale byl deklarován postoj klubu STAN k nadcházející schůzi sněmovny: opozice bude blokovat vládní návrhy týkající se médií a trestního zákoníku a bude prosazovat vlastní pozměňovací návrhy v oblasti daní a nominací do státních orgánů.
+Jednání nebylo zakončeno formálním hlasováním, ale deklarací postojů klubu. Starostové se shodli na aktivním odporu proti vládním návrhům, které považují za ohrožení demokracie a ekonomické stability, a zároveň přislíbili konstruktivní přístup u témat, kde předkládají vlastní pozměňovací návrhy (např. sociální pojištění, trestní zákoník).
 
 ### 4. Poznámky
-Přepis obsahuje drobné chyby v diakritice a občasné opakování frází, které však nebránily pochopení obsahu.
+Přepis je v pořádku, nebyly identifikovány žádné zásadní nesrozumitelné pasáže, které by bránily pochopení obsahu.
 
 ---
 
 ## Doplňující otázky
-*   **Kontroverzní návrh:** Vít Rakušan (STAN) navrhl, aby negativní stanovisko nominačního výboru bylo závazné pro jmenování do funkcí.
-    *   **Proč:** Je to politicky citlivé, protože to výrazně omezuje pravomoc vlády jmenovat své kandidáty do dozorčích rad a státních podniků.
-    *   **Čas:** 1/06:03
+*   **Kontroverzní návrh/výrok:** Vít Rakušan označil vládní záměr financování médií za „zestátnění“ a „slovenskou či maďarskou cestu“.
+    *   **Proč:** Jde o přímé obvinění vlády z autoritářských praktik a snahy o ovládnutí médií, což je v politickém boji vysoce citlivé téma.
+    *   **Čas:** 1/02:01
+*   **Kontroverzní návrh/výrok:** Michaela Šebelová kritizovala Andreje Babiše za to, že „ustupuje tlaku SPD“ v otázce očkování.
+    *   **Proč:** Naznačuje ideologické ovlivňování odborné zdravotní politiky politickým extremismem, což je téma s vysokým společenským dopadem.
+    *   **Čas:** 1/10:03
 
 ---
 
 ## Klíčové citace pro veřejnost
-*   **Text:** „Já to nazvu jedním slovem, je to zestátnění. Ještě jednou, je to zestátnění veřejnoprávních médií.“ (Citace)
-    *   **Řečník:** Vít Rakušan (STAN), **Čas:** 1/01:30
-*   **Text:** „V České republice ročně onemocní touto nemocí 750 žen, z čehož 300 žen zemře.“ (Citace)
-    *   **Řečník:** Michaela Šebelová (STAN), **Čas:** 1/12:03
-*   **Text:** „Pětina živnostníků s nejnižšími příjmy odvede průměrně 33 % svého zisku, zatímco ti nejbohatší živnostníci odvedou pouhých 20 %.“ (Citace)
-    *   **Řečník:** Jan Papajanovský (STAN), **Čas:** 1/14:02
+1. „Já to nazvu jedním slovem, je to zestátnění. Ještě jednou, je to zestátnění veřejnoprávních médií.“ (Citace, Vít Rakušan, STAN, 1/01:20)
+2. „V České republice ročně onemocní touto nemocí 750 žen, z čehož 300 žen zemře.“ (Citace, Michaela Šebelová, STAN, 1/12:03)
+3. „Pětina živnostníků s nejnižšími příjmy odvede průměrně 33 % svého zisku, zatímco ti nejbohatší živnostníci odvedou pouhých 20 %.“ (Citace, Jan Papajanovský, STAN, 1/14:02)
+4. „Vládě bude v rozpočtu příští rok chybět 200 miliard korun.“ (Parafráze, Jan Papajanovský, STAN, 1/13:02)
 
 ---
 
 ## JSON výstup
-
 ```json
 {
   "schema_version": "2",
@@ -69,16 +68,16 @@ Přepis obsahuje drobné chyby v diakritice a občasné opakování frází, kte
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference se konala před zahájením schůze Poslanecké sněmovny. Cílem bylo představit priority opozičního klubu STAN, kritizovat kroky vlády Andreje Babiše a ohlásit konkrétní legislativní návrhy a postoje k projednávaným bodům.\n\nHlavními tématy byla ochrana nezávislosti veřejnoprávních médií, kritika rušení nominačního zákona, chaos kolem nového stavebního zákona, energetická bezpečnost, zdravotnická politika a rozpočtová odpovědnost.",
+    "topic": "Hlavním tématem byla kritika vládní politiky, kterou řečníci označili za snahu o „privatizaci státu“ a omezování nezávislosti klíčových institucí. Starostové se vymezili zejména proti změnám ve financování veřejnoprávních médií, rušení nominačního zákona a chaotické přípravě nového stavebního zákona. Účelem konference bylo deklarovat jednotný postup opozice a představit konstruktivní alternativy k vládním návrhům v oblastech zdravotnictví, energetiky a sociální politiky.",
     "main_points": [
-      "**Vít Rakušan (STAN)** — Kritizoval plánované „zestátnění“ veřejnoprávních médií skrze krácení rozpočtů. Navrhl, aby negativní stanovisko nominačního výboru bylo závazné pro nominace do státních firem.",
-      "**Lukáš Vlček (STAN)** — Označil vládní novelu stavebního zákona za chaotickou a nebezpečnou. Opakovaně vyzval k debatě o energetické bezpečnosti v souvislosti s konfliktem na Blízkém východě.",
-      "**Michaela Šebelová (STAN)** — Odmítla přerozdělení 8 miliard Kč z fondu VZP jako nesystémové. Varovala před ústupky vlády vůči SPD v národní očkovací strategii (HPV).",
-      "**Jan Papajanovský (STAN)** — Kritizoval rozpočtovou nezodpovědnost vlády. Předložil pozměňovací návrh k sociálnímu pojištění OSVČ, který cílí pomoc na řemeslníky místo plošných úlev.",
-      "**Barbora Urbanová (STAN)** — Oznámila blokování zkráceného projednávání trestního zákoníku. Představila balíček „Lex Mareček“ pro ochranu obětí domácího násilí."
+      "**Vít Rakušan (STAN)** — Kritika „zestátnění“ veřejnoprávních médií skrze krácení rozpočtů. Navrhl, aby negativní stanovisko nominačního výboru bylo pro vládu závazné.",
+      "**Lukáš Vlček (STAN)** — Kritizoval nový stavební zákon jako chaotický a varoval před paralýzou stavebního řízení. Navrhl debatu o řešení energetické krize.",
+      "**Michaela Šebelová (STAN)** — Odmítla návrh na přerozdělení 8 miliard korun z fondu VZP. Varovala před ústupky vlády vůči SPD v oblasti národní očkovací strategie.",
+      "**Jan Papajanovský (STAN)** — Kritizoval rozpočtovou politiku vlády a rekordní deficit. Představil pozměňovací návrh k zákonu o sociálním pojištění OSVČ s cílem pomoci pouze nejzranitelnějším.",
+      "**Barbora Urbanová (STAN)** — Avizovala blokování zkráceného projednávání trestního zákoníku a představila balíček „Lex Mareček“ zaměřený na ochranu obětí násilí."
     ],
-    "outcome": "Jednání bylo informativní tiskovou konferencí. Nebylo přijato žádné formální rozhodnutí, ale byl deklarován postoj klubu STAN k nadcházející schůzi sněmovny: opozice bude blokovat vládní návrhy týkající se médií a trestního zákoníku a bude prosazovat vlastní pozměňovací návrhy v oblasti daní a nominací do státních orgánů.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování frází, které však nebránily pochopení obsahu."
+    "outcome": "Jednání nebylo zakončeno formálním hlasováním, ale deklarací postojů klubu. Starostové se shodli na aktivním odporu proti vládním návrhům, které považují za ohrožení demokracie a ekonomické stability, a zároveň přislíbili konstruktivní přístup u témat, kde předkládají vlastní pozměňovací návrhy.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -89,41 +88,43 @@ Přepis obsahuje drobné chyby v diakritice a občasné opakování frází, kte
       {"name": "Barbora Urbanová", "person_id": null, "affiliation": "STAN"}
     ],
     "parties": ["STAN", "ANO", "SPD"],
-    "institutions": ["Poslanecká sněmovna", "VZP", "Národní rozpočtová rada", "PAQ Research"]
+    "institutions": ["Poslanecká sněmovna", "VZP", "Národní rozpočtová rada"]
   },
   "highlights": [
     {
-      "text": "Já to nazvu jedním slovem, je to zestátnění. Ještě jednou, je to zestátnění veřejnoprávních médií.",
+      "text": "Já to nazvu jedním slovem, je to zestátnění veřejnoprávních médií.",
       "type": "citation",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "1/01:30",
-      "screenshot_path": null
+      "timestamp": "1/01:20"
     },
     {
       "text": "V České republice ročně onemocní touto nemocí 750 žen, z čehož 300 žen zemře.",
       "type": "citation",
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
-      "timestamp": "1/12:03",
-      "screenshot_path": null
+      "timestamp": "1/12:03"
     },
     {
       "text": "Pětina živnostníků s nejnižšími příjmy odvede průměrně 33 % svého zisku, zatímco ti nejbohatší živnostníci odvedou pouhých 20 %.",
       "type": "citation",
       "speaker": "Jan Papajanovský",
       "affiliation": "STAN",
-      "timestamp": "1/14:02",
-      "screenshot_path": null
+      "timestamp": "1/14:02"
     }
   ],
   "controversial": [
     {
-      "statement": "Vít Rakušan (STAN) navrhl, aby negativní stanovisko nominačního výboru bylo závazné pro jmenování do funkcí. Je to politicky citlivé, protože to výrazně omezuje pravomoc vlády jmenovat své kandidáty do dozorčích rad a státních podniků.",
+      "statement": "Vít Rakušan označil vládní záměr financování médií za „zestátnění“ a „slovenskou či maďarskou cestu“, což je přímé obvinění vlády z autoritářských praktik.",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "1/06:03",
-      "screenshot_path": null
+      "timestamp": "1/02:01"
+    },
+    {
+      "statement": "Michaela Šebelová kritizovala Andreje Babiše za to, že „ustupuje tlaku SPD“ v otázce očkování, čímž naznačila ideologické ovlivňování zdravotní politiky extremismem.",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/10:03"
     }
   ],
   "quality": {

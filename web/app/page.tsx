@@ -11,7 +11,7 @@ export default function HomePage() {
     <div className="max-w-5xl mx-auto px-4 py-10">
       <header className="mb-10">
         <h1 className="font-slab font-bold text-3xl text-navy-9 mb-3">
-          PSP Video Archive
+          Sněmovna Digest
         </h1>
         <p className="font-slab text-lg text-muted-foreground max-w-2xl leading-relaxed">
           Strukturované souhrny akcí Poslanecké sněmovny ČR — semináře,

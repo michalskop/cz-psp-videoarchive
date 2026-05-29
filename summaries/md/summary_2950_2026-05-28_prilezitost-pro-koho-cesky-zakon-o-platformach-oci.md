@@ -1,59 +1,55 @@
-Toto je strukturované shrnutí semináře „Příležitost pro koho? Český zákon o platformách očima kurýrů“, který se konal 28. května 2026 v Poslanecké sněmovně.
+Zde je strukturované shrnutí semináře „Příležitost pro koho? Český zákon o platformách očima kurýrů“.
 
 ### 1. Téma a účel jednání
-Seminář se zabýval problematikou transpozice evropské směrnice o platformové práci do českého právního řádu. Cílem bylo otevřít debatu o pracovních podmínkách až půl milionu lidí pracujících v platformové ekonomice (kurýři, řidiči taxi) a kriticky zhodnotit vládní návrh zákona z pohledu samotných pracovníků.
+Seminář se zabýval problematikou transpozice evropské směrnice o platformové práci do českého právního řádu. Cílem bylo otevřít debatu o sociálně-ekonomických dopadech platformové ekonomiky, která v ČR ovlivňuje až 546 000 lidí, a upozornit na rizika spojená s tzv. „švarcsystémem“ v digitální podobě.
 
-Hlavním tématem byla otázka, zda zákon skutečně ochrání pracovníky, nebo zda pouze legalizuje „digitální švarcsystém“ a umožní platformám vyhnout se odpovědnosti za sociální a zdravotní odvody. Diskuse se zaměřila na fenomén algoritmického řízení, prekarizaci práce a neudržitelnost současného obchodního modelu platforem.
+Hlavním motivem byla kritika současného návrhu zákona, který je podle řečníků minimalistický a nedostatečně chrání pracovníky. Seminář se zaměřil na otázky algoritmického řízení, nejistoty práce na IČO, vymahatelnosti práv a nutnosti definovat moderní společenskou smlouvu, která by zabránila vzniku digitálního nevolnictví.
 
 ### 2. Hlavní body
-*   **Irena Ferčíková (poslankyně):** Upozornila na riziko, že implementace směrnice bude v ČR příliš „měkká“ a povede k nižší ochraně zaměstnanců. Zdůraznila potřebu slyšet hlas kurýrů, kteří v předchozích debatách chyběli.
-*   **Zdeněk Neubauer (Asociace platformových pracovníků):** Uvedl, že platformy jednají s kurýry jako s „čísly v tabulce“. Kritizoval asymetrii moci, kdy algoritmus může pracovníka okamžitě „vypnout“ bez možnosti odvolání.
-*   **Josef Středula (ČMKOS):** Označil návrh zákona za „digitální podobu švarcsystému z 90. let“. Varoval před fatálními dopady na veřejné rozpočty (odhadovaný výpadek až 120 mld. Kč) a před vznikem „no-go zón“ pro lidi, kteří si kvůli neplacení odvodů nebudou moci nárokovat důchod.
-*   **Tereza Gajdová (Parlamentní institut):** Představila srovnávací analýzu EU. Upozornila, že směrnice definuje vyvratitelnou domněnku pracovněprávního vztahu, ale její konkrétní podobu nechává na členských státech.
-*   **Alžběta (socioložka, AV ČR):** Dekonstruovala mýtus „flexibility“. Uvedla, že platformy nabízejí flexibilitu zákazníkům, nikoliv pracovníkům, kteří se musí přizpůsobit algoritmu, aby se uživili.
-*   **Marek Vrbík (ČTU):** Vysvětlil roli AI Actu. Upozornil, že algoritmické řízení je vysoce rizikový systém, který vyžaduje lidský dohled a transparentnost, což v současném návrhu zákona chybí.
-*   **Jana Pašková a Jeroným Dekan (MPSV):** Obhajovali návrh zákona jako transpozici směrnice. Uvedli, že zákon zavádí evidenci platforem a povinnost kontaktní osoby v ČR, což má usnadnit kontrolu ze strany státu.
+*   **Irena Ferčíková Konečná (poslankyně):** Organizátorka semináře, zdůraznila, že jde o druhý seminář na toto téma, přičemž první byl ovlivněn platformami bez účasti kurýrů. Varovala před „digitálním nevolnictvím“ a zdůraznila nutnost zapojení zaměstnanců jako partnerů do legislativního procesu.
+*   **Hana Ančincová (poslankyně):** Upozornila na tendenci „implementovat evropské právo nůž jako máslem“ a zdůraznila, že současný návrh zákona vykazuje nižší ochranu zaměstnanců, než je žádoucí.
+*   **Zdeněk K. Neubauer (Asociace platformových pracovníků):** Uvedl, že kurýři jsou vnímáni jako „čísla v tabulce“. Kritizoval, že zákon o platformách je příležitostí pro platformy zachovat si flexibilní sílu bez závazků, nikoliv pro pracovníky.
+*   **Josef Středula (ČMKOS):** Označil návrh zákona za „digitální podobu švarcsystému z 90. let“. Varoval před rozpočtovými dopady (propad příjmů státu až o 120 mld. Kč) a zdůraznil, že platformoví pracovníci jsou v praxi zaměstnanci, nikoliv podnikatelé.
+*   **Tereza Gajdová (Parlamentní institut):** Představila srovnávací analýzu EU. Uvedla, že směrnice zavádí vyvratitelnou domněnku pracovněprávního vztahu, ale členské státy mají volnost v nastavení kritérií.
+*   **Alžběta Mangarella (Akademie věd):** Dekonstruovala mýtus „flexibility“. Upozornila, že algoritmy nutí pracovníky pracovat v časech poptávky (večery, víkendy), což znemožňuje péči o rodinu, a že platformy přenášejí veškerá rizika (nemoc, úraz) na pracovníka.
+*   **Marek Vrbík (ČTÚ):** Vysvětlil roli ČTÚ jako dozorového orgánu nad AI. Zdůraznil, že AI Act zavádí povinnost lidského dohledu u vysoce rizikových systémů, ale varoval před nedostatkem technických kapacit státní správy pro kontrolu algoritmů.
+*   **Jan Čermák (ČMKOS):** Poukázal na právní překážky v organizování odborů u OSVČ a zdůraznil, že bez masové mobilizace kurýrů jsou právní kroky proti platformám velmi obtížné.
+*   **Jana Pašková a Jeroným Dekan (MPSV):** Obhajovali návrh zákona jako transpozici směrnice. Uvedli, že zákon zavádí evidenci platforem a posiluje pravomoci inspekce práce, přičemž odmítli, že by ministerstvo záměrně konzervovalo špatný stav.
 
 ### 3. Výsledek / závěr
-Formální závěr nebyl přijat, ale mezi účastníky (odboráři, kurýři, akademici) panoval silný konsenzus, že současný návrh zákona je nedostatečný. Dominoval požadavek na přísnější regulaci „flotil“ (zprostředkovatelů), zákaz prorogačních doložek (které nutí pracovníky soudit se v zahraničí) a jasnější definici závislé práce, která by znemožnila obcházení zákoníku práce.
+Formální rozhodnutí nebylo přijato, seminář sloužil jako platforma pro kritiku vládního návrhu. Dominujícím postojem zúčastněných (odborů, kurýrů, právních expertů) byla nutnost zásadního přepracování návrhu zákona tak, aby skutečně chránil pracovníky a zamezil obcházení zákoníku práce. Organizátorky přislíbily pokračování v tlaku na MPSV a využití interpelací k otevření tématu na plénu Sněmovny.
 
 ### 4. Poznámky
-Přepis obsahuje v částech 14–16 opakující se halucinace („Příležitost pro koho? Český zákon o platformách očima kurýrů“), které byly ignorovány. Části 15 a 16 jsou technicky poškozené a neobsahují věcný obsah.
+Přepis obsahuje četné technické artefakty (opakující se názvy semináře, useknutá slova), které byly při shrnutí ignorovány. Části záznamu (zejména v časech 14–16) byly nesrozumitelné a obsahovaly halucinace modelu, proto byly pro účely shrnutí vynechány.
 
 ---
 
 ## Doplňující otázky
-
-*   **Kontroverzní návrh:** Josef Středula (ČMKOS) navrhl, aby stát přistupoval k praktikám platforem jako ke „kriminálním činům“ a „loupežnictví“.
-    *   **Proč:** Politicky citlivé kvůli přímému obvinění platforem z mafiánských praktik a kritice vlády za „zakonzervování“ švarcsystému.
-    *   **Čas:** 2/02:04 a 12/08:01.
+*   **Kontroverzní výrok:** Josef Středula (ČMKOS) označil návrh zákona za „digitální podobu švarcsystému z 90. let“ a „loupežnictví“.
+    *   **Proč:** Jde o přímý útok na vládní legislativní proces a zpochybnění legitimity návrhu, který má být transpozicí evropského práva.
+    *   **Čas:** 2/04:06
 
 ---
 
 ## Klíčové citace pro veřejnost
-
-*   **Text:** „Tento zákon nemá co společného s funkční transpozicí směrnice, je to digitální podoba švarcsystému z 90. let.“ (citace)
-    *   **Řečník:** Josef Středula (ČMKOS), **Čas:** 2/02:04
-*   **Text:** „Platformy nabízejí službu, která je flexibilní pro zákazníky, ale ne až tak flexibilní pro pracující, pokud se chtějí uživit.“ (parafraze)
-    *   **Řečník:** Alžběta (socioložka, AV ČR), **Čas:** 5/06:05
-*   **Text:** „Pokud se tohle nenarovná, zaděláváme si na vznik no-go zón, protože lidé pracující pro platformy si nebudou moci nárokovat žádný důchod.“ (citace)
-    *   **Řečník:** Štěpán Hradečný (provozovatel taxislužby), **Čas:** 10/08:00
+*   „Tento zákon nemá co společného s funkční transpozicí směrnice, nemá co společného s tím, abychom legalizovali švarcsystém v ČR.“ (Citace, Josef Středula, ČMKOS, 2/02:04)
+*   „Platformy nabízejí službu, která je flexibilní pro zákazníky, ale ne až tak flexibilní pro pracující, pokud se chtějí uživit.“ (Parafráze, Alžběta Mangarella, Akademie věd, 5/06:05)
+*   „Za ty 4 roky na Boltu považuji za nejztracenější roky svého života, je to novodobé otroctví.“ (Citace, pan Svoboda, kurýr, 13/02:05)
 
 ---
 
 ## JSON výstup
-
 ```json
 {
   "schema_version": "2",
   "created_at": null,
   "model_hint": null,
   "event": {
-    "id": "2950",
+    "id": "22309",
     "name": "Příležitost pro koho? Český zákon o platformách očima kurýrů",
     "classification": "Seminář",
-    "start_date": "2026-05-28T09:10",
-    "end_date": "2026-05-28T12:52",
+    "start_date": "2026-05-28",
+    "end_date": "2026-05-28",
     "sources": []
   },
   "transcription": {
@@ -63,62 +59,40 @@ Přepis obsahuje v částech 14–16 opakující se halucinace („Příležitos
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zabýval problematikou transpozice evropské směrnice o platformové práci do českého právního řádu. Cílem bylo otevřít debatu o pracovních podmínkách až půl milionu lidí pracujících v platformové ekonomice a kriticky zhodnotit vládní návrh zákona z pohledu samotných pracovníků.\n\nHlavním tématem byla otázka, zda zákon skutečně ochrání pracovníky, nebo zda pouze legalizuje „digitální švarcsystém“ a umožní platformám vyhnout se odpovědnosti za sociální a zdravotní odvody. Diskuse se zaměřila na fenomén algoritmického řízení, prekarizaci práce a neudržitelnost současného obchodního modelu platforem.",
+    "topic": "Seminář se zabýval problematikou transpozice evropské směrnice o platformové práci do českého právního řádu. Cílem bylo otevřít debatu o sociálně-ekonomických dopadech platformové ekonomiky, která v ČR ovlivňuje až 546 000 lidí, a upozornit na rizika spojená s tzv. „švarcsystémem“ v digitální podobě.\n\nHlavním motivem byla kritika současného návrhu zákona, který je podle řečníků minimalistický a nedostatečně chrání pracovníky. Seminář se zaměřil na otázky algoritmického řízení, nejistoty práce na IČO, vymahatelnosti práv a nutnosti definovat moderní společenskou smlouvu, která by zabránila vzniku digitálního nevolnictví.",
     "main_points": [
-      "**Irena Ferčíková (poslankyně)** — Varovala před „měkkou“ implementací směrnice a zdůraznila potřebu slyšet hlas kurýrů v legislativním procesu.",
-      "**Zdeněk Neubauer (Asociace platformových pracovníků)** — Popsal asymetrii moci mezi platformou a kurýrem, kde algoritmus rozhoduje o osudu pracovníka bez možnosti odvolání.",
-      "**Josef Středula (ČMKOS)** — Označil návrh zákona za „digitální švarcsystém“, varoval před výpadkem 120 mld. Kč ve veřejných rozpočtech a vznikem budoucích „no-go zón“ kvůli absenci důchodového pojištění.",
-      "**Tereza Gajdová (Parlamentní institut)** — Analyzovala směrnici EU a její důraz na vyvratitelnou domněnku pracovněprávního vztahu.",
-      "**Alžběta (socioložka, AV ČR)** — Dekonstruovala mýtus „flexibility“, která je výhodná pro zákazníky, ale pro pracovníky znamená nutnost sebeoptimalizace podle algoritmu.",
-      "**Marek Vrbík (ČTU)** — Upozornil na nutnost lidského dohledu nad AI systémy v rámci AI Actu.",
-      "**Jana Pašková a Jeroným Dekan (MPSV)** — Obhajovali návrh zákona, zdůraznili zavedení evidence platforem a povinnost kontaktní osoby v ČR."
+      "**Irena Ferčíková Konečná (poslankyně)**: Organizátorka semináře, zdůraznila nutnost zapojení zaměstnanců do legislativního procesu.",
+      "**Josef Středula (ČMKOS)**: Označil návrh zákona za „digitální podobu švarcsystému“ a varoval před fatálními dopady na veřejné rozpočty.",
+      "**Alžběta Mangarella (Akademie věd)**: Dekonstruovala mýtus flexibility; platformy přenášejí veškerá rizika na pracovníka.",
+      "**Jana Pašková a Jeroným Dekan (MPSV)**: Obhajovali návrh zákona jako transpozici směrnice, zdůraznili zavedení evidence platforem."
     ],
-    "outcome": "Formální závěr nebyl přijat, ale mezi účastníky panoval konsenzus, že současný návrh zákona je nedostatečný. Dominoval požadavek na přísnější regulaci „flotil“, zákaz prorogačních doložek a jasnější definici závislé práce.",
-    "notes": "Přepis obsahuje v částech 14–16 opakující se halucinace, které byly ignorovány. Části 15 a 16 jsou technicky poškozené."
+    "outcome": "Formální rozhodnutí nebylo přijato, seminář sloužil jako platforma pro kritiku vládního návrhu. Dominujícím postojem byla nutnost zásadního přepracování návrhu zákona tak, aby skutečně chránil pracovníky.",
+    "notes": "Přepis obsahuje četné technické artefakty, které byly ignorovány. Části záznamu (zejména v časech 14–16) byly nesrozumitelné a obsahovaly halucinace modelu."
   },
   "entities": {
     "speakers": [
-      {"name": "Irena Ferčíková", "person_id": null, "affiliation": "Poslanecká sněmovna"},
-      {"name": "Zdeněk Neubauer", "person_id": null, "affiliation": "Asociace platformových pracovníků"},
+      {"name": "Irena Ferčíková Konečná", "person_id": null, "affiliation": "Poslankyně"},
       {"name": "Josef Středula", "person_id": null, "affiliation": "ČMKOS"},
-      {"name": "Tereza Gajdová", "person_id": null, "affiliation": "Parlamentní institut"},
-      {"name": "Alžběta", "person_id": null, "affiliation": "AV ČR"},
-      {"name": "Marek Vrbík", "person_id": null, "affiliation": "ČTU"},
-      {"name": "Jana Pašková", "person_id": null, "affiliation": "MPSV"},
-      {"name": "Jeroným Dekan", "person_id": null, "affiliation": "MPSV"}
+      {"name": "Zdeněk K. Neubauer", "person_id": null, "affiliation": "Asociace platformových pracovníků"}
     ],
-    "parties": ["ČMKOS"],
-    "institutions": ["Poslanecká sněmovna", "MPSV", "ČTU", "Parlamentní institut"]
+    "parties": ["Piráti", "Zelení"],
+    "institutions": ["Poslanecká sněmovna", "ČMKOS", "MPSV", "ČTU"]
   },
   "highlights": [
     {
-      "text": "Tento zákon nemá co společného s funkční transpozicí směrnice, je to digitální podoba švarcsystému z 90. let.",
+      "text": "Tento zákon nemá co společného s funkční transpozicí směrnice, nemá co společného s tím, abychom legalizovali švarcsystém v ČR.",
       "type": "citation",
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
       "timestamp": "2/02:04"
-    },
-    {
-      "text": "Platformy nabízejí službu, která je flexibilní pro zákazníky, ale ne až tak flexibilní pro pracující, pokud se chtějí uživit.",
-      "type": "paraphrase",
-      "speaker": "Alžběta",
-      "affiliation": "AV ČR",
-      "timestamp": "5/06:05"
-    },
-    {
-      "text": "Pokud se tohle nenarovná, zaděláváme si na vznik no-go zón, protože lidé pracující pro platformy si nebudou moci nárokovat žádný důchod.",
-      "type": "citation",
-      "speaker": "Štěpán Hradečný",
-      "affiliation": "provozovatel taxislužby",
-      "timestamp": "10/08:00"
     }
   ],
   "controversial": [
     {
-      "statement": "Josef Středula (ČMKOS) navrhl, aby stát přistupoval k praktikám platforem jako ke „kriminálním činům“ a „loupežnictví“.",
+      "statement": "Josef Středula (ČMKOS) označil návrh zákona za „digitální podobu švarcsystému z 90. let“ a „loupežnictví“.",
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
-      "timestamp": "2/02:04"
+      "timestamp": "2/04:06"
     }
   ],
   "quality": {

@@ -1,57 +1,55 @@
 Zde je strukturované shrnutí tiskové konference poslaneckého klubu hnutí ANO ze dne 14. dubna 2026.
 
 ### 1. Téma a účel jednání
-Tisková konference byla svolána za účelem představení priorit poslaneckého klubu hnutí ANO pro nadcházející dvoutýdenní schůzi Poslanecké sněmovny. Hlavním cílem bylo informovat veřejnost o klíčových legislativních návrzích, včetně vládních opatření k regulaci cen pohonných hmot, novely trestního zákoníku v oblasti neplacení výživného, úprav v sociální oblasti a senátní vratky zákona o státních svátcích.
+Tisková konference byla svolána po jednání poslaneckého klubu hnutí ANO za účelem představení priorit pro nadcházející dvoutýdenní schůzi Poslanecké sněmovny. Hlavními tématy byla vládní opatření v oblasti regulace cen pohonných hmot, novela trestního zákoníku zaměřená na kriminalizaci neplacení výživného, úpravy v oblasti sociální podpory a státních svátků.
 
-Zástupci hnutí ANO zdůraznili nutnost projednání těchto bodů v režimu legislativní nouze či zkráceného řízení, a to i přes avizované obstrukce opozice.
+Cílem vystoupení bylo obhájit postup vlády, zdůvodnit využití legislativní nouze u vybraných tisků a apelovat na opozici, aby podpořila návrhy, které hnutí ANO považuje za klíčové pro stabilitu ekonomiky a ochranu občanů.
 
 ### 2. Hlavní body
-*   **Táňa Malá (ANO):** Uvedla přehled agendy, včetně novely zákona o cenách (sněmovní tisk 163), zákona o vstupu a pobytu cizinců (tisk 144) a tisků o státní sociální podpoře (124, 125). Zdůraznila připravenost klubu jednat i v nočních hodinách.
-*   **Alena Schillerová (ANO):** Představila zákon o regulaci cen pohonných hmot. Argumentovala, že jde o „legislativně robustní“ nástroj umožňující vládě zastropovat ceny nařízením. Odmítla kritiku legislativní nouze s odkazem na mezinárodní situaci na Blízkém východě a riziko inflačních tlaků. Prezentovala grafy dokazující efektivitu dosavadních vládních kroků (snížení daní a marží).
-*   **Jana Pastuchová (ANO):** Představila sněmovní tisky 124 a 125 týkající se odkladu digitalizace sociálních dávek o jeden rok (z důvodu nepřipravenosti systému) a novely o sociálních službách. Upozornila na úpravu posuzování příspěvku na péči, která má zjednodušit administrativu pro občany.
-*   **Jeroným Tejc (ministr spravedlnosti):** Obhajoval novelu trestního zákoníku, která vrací trestnost neplacení výživného. Cílem není plošné věznění, ale motivace dlužníků k placení. Apeloval na soudy, aby častěji využívaly alternativní tresty, zejména domácí vězení namísto neúčinných podmínek.
-*   **Radek Vondráček (ANO):** Kritizoval Senát za zamítnutí (resp. pozměnění) návrhu na zavedení Dne státní vlajky. Označil debatu v Senátu za „nedůstojnou“ a vedenou negativním vztahem k Andreji Babišovi, nikoliv věcnou diskusí o národní hrdosti.
+*   **Táňa Malá (ANO):**
+    *   Oznámila program schůze: novela zákona o cenách (sněmovní tisk 163), senátní vratka k novele o státních svátcích, novela trestního zákoníku (neplacení výživného), zákon o vstupu a pobytu cizinců (tisk 144) a novely o státní sociální podpoře (tisky 124 a 125).
+    *   Avizovala připravenost klubu jednat dlouho do noci kvůli obstrukcím opozice.
+*   **Alena Schillerová (ANO):**
+    *   Představila zákon o regulaci cen pohonných hmot. Argumentuje, že jde o „legislativně robustní“ nástroj, který umožní vládě zastropovat ceny nařízením.
+    *   Uvedla, že opatření (snížení daní a stropování marží) již vedla ke stabilizaci cen.
+    *   Obhajovala využití stavu legislativní nouze hrozbou „nákladového šoku“ a napjatou situací na Blízkém východě.
+*   **Jeroným Tejc (ministr spravedlnosti):**
+    *   Podpořil znovuzavedení trestnosti neplacení výživného. Cílem není plošné věznění, ale motivace dlužníků k placení.
+    *   Apeloval na soudy, aby namísto neúčinných podmínek častěji ukládaly tresty domácího vězení.
+*   **Jana Pastuchová (ANO):**
+    *   Představila odklad digitalizace sociálních dávek o jeden rok (do 2027) a posun změn v sociálních službách na rok 2028 kvůli nepřipravenosti systému.
+    *   Navrhla zjednodušení procesu posuzování příspěvku na péči a průkazů pro postižené (zrušení nutnosti vracení dokumentace k lékaři).
+*   **Radek Vondráček (ANO):**
+    *   Kritizoval Senát za to, že „zabil“ návrh na zavedení Dne státní vlajky (30. března). Označil senátní debatu za nedůstojnou a plnou negativismu vůči Andreji Babišovi.
 
 ### 3. Výsledek / závěr
-Hnutí ANO deklarovalo odhodlání prosadit své legislativní priority navzdory odporu opozice. Nebylo přijato žádné formální rozhodnutí, neboť se jednalo o tiskovou konferenci, nicméně byl jasně definován postoj klubu: podpora vládních návrhů, prosazování zkrácených legislativních procesů a snaha o přehlasování Senátu v otázce státních svátků.
+Formální rozhodnutí nebyla přijata, neboť šlo o tiskovou konferenci. Dominujícím postojem hnutí ANO je snaha o prosazení vládních tisků ve zkráceném řízení a očekávání, že opozice podpoří návrhy, které jsou podle nich v zájmu občanů. Jednání bylo ukončeno z důvodu začínající schůze Sněmovny.
 
 ### 4. Poznámky
-Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem, avšak obsah byl srozumitelný.
+Přepis je místy nesrozumitelný kvůli chybějící diakritice a drobným gramatickým chybám, které však nebrání pochopení obsahu.
 
 ---
 
-## Doplňující otázky
-
-*   **Kontroverzní návrh: Využití stavu legislativní nouze pro regulaci cen pohonných hmot**
-    *   **Kdo:** Alena Schillerová (ANO)
-    *   **Co:** Obhajoba využití stavu legislativní nouze pro zákon o regulaci cen pohonných hmot.
-    *   **Proč:** Opozice dlouhodobě kritizuje zneužívání legislativní nouze pro běžnou agendu, což omezuje prostor pro parlamentní debatu.
+### Doplňující otázky
+*   **Kontroverzní návrh:** Využití stavu legislativní nouze pro zákon o regulaci cen pohonných hmot.
+    *   **Kdo:** Alena Schillerová (ANO).
+    *   **Co:** Předložení zákona ve stavu legislativní nouze.
+    *   **Proč:** Opozice dlouhodobě kritizuje zneužívání stavu legislativní nouze pro běžnou legislativu, což omezuje prostor pro řádnou parlamentní debatu.
     *   **Čas:** 1/06:04
 
-*   **Kontroverzní výrok: Kritika Senátu ohledně zákona o státních svátcích**
-    *   **Kdo:** Radek Vondráček (ANO)
-    *   **Co:** Označil debatu v Senátu za „nedůstojnou“ a „negativistickou“ vůči Andreji Babišovi.
-    *   **Proč:** Politicky citlivé napadání horní komory Parlamentu v otázce symboliky státních svátků.
-    *   **Čas:** 1/16:00
+---
+
+### Klíčové citace pro veřejnost
+*   **Text:** „My s tím zákonem přicházíme včas, tedy nikoliv až po půl roce ničivých dopadů na ekonomiku a inflaci, jako se to stalo v roce 2022.“ (parafráze)
+    *   **Řečník:** Alena Schillerová (ANO), **Čas:** 1/02:02
+*   **Text:** „My míříme skutečně na ty, kteří úmyslně se vyhýbají placení výživného, kteří mohou platit, například neplatí z nějakých v uvozovkách pro ně principiálních důvodů.“ (citace)
+    *   **Řečník:** Jeroným Tejc (ministr spravedlnosti), **Čas:** 1/12:02
+*   **Text:** „Z trestu domácího vězení v roce 2024 byly uloženy čtyři tresty, v drtivé většině jsou ukládány podmínky, o kterých víme, že nejsou funkční.“ (parafráze)
+    *   **Řečník:** Táňa Malá (ANO), **Čas:** 1/08:03
 
 ---
 
-## Klíčové citace pro veřejnost
-
-*   **Text:** „My dnes přicházíme do sněmovny s dalším z mozaiky vládních opatření, které děláme proto, abychom zmírnili dopady globálního nárůstu cen paliv na peněženky českých občanů a firem.“ (citace)
-    *   **Řečník:** Alena Schillerová (ANO)
-    *   **Čas:** 1/02:02
-*   **Text:** „Za první čtvrtletí tohoto roku Asociace neúplných rodin zaznamenala dvacetiprocentní nárůst požadavků na pomoc s vymáháním výživného.“ (citace)
-    *   **Řečník:** Táňa Malá (ANO)
-    *   **Čas:** 1/10:02
-*   **Text:** „Jestliže běžně každý rok bylo uloženo 2000 prostých podmínek a pouze 5-7 trestů domácího vězení, tak to svědčí o tom, že ten systém není efektivní.“ (citace)
-    *   **Řečník:** Jeroným Tejc (ministr spravedlnosti)
-    *   **Čas:** 1/12:02
-
----
-
-## JSON výstup
-
+### JSON výstup
 ```json
 {
   "schema_version": "2",
@@ -72,23 +70,23 @@ Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalost
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem představení priorit poslaneckého klubu hnutí ANO pro nadcházející dvoutýdenní schůzi Poslanecké sněmovny. Hlavním cílem bylo informovat veřejnost o klíčových legislativních návrzích, včetně vládních opatření k regulaci cen pohonných hmot, novely trestního zákoníku v oblasti neplacení výživného, úprav v sociální oblasti a senátní vratky zákona o státních svátcích.\n\nZástupci hnutí ANO zdůraznili nutnost projednání těchto bodů v režimu legislativní nouze či zkráceného řízení, a to i přes avizované obstrukce opozice.",
+    "topic": "Tisková konference byla svolána po jednání poslaneckého klubu hnutí ANO za účelem představení priorit pro nadcházející dvoutýdenní schůzi Poslanecké sněmovny. Hlavními tématy byla vládní opatření v oblasti regulace cen pohonných hmot, novela trestního zákoníku zaměřená na kriminalizaci neplacení výživného, úpravy v oblasti sociální podpory a státních svátků.\n\nCílem vystoupení bylo obhájit postup vlády, zdůvodnit využití legislativní nouze u vybraných tisků a apelovat na opozici, aby podpořila návrhy, které hnutí ANO považuje za klíčové pro stabilitu ekonomiky a ochranu občanů.",
     "main_points": [
-      "**Táňa Malá (ANO)** — Uvedla přehled agendy, včetně novely zákona o cenách, zákona o vstupu a pobytu cizinců a tisků o státní sociální podpoře. Zdůraznila připravenost klubu jednat i v nočních hodinách.",
-      "**Alena Schillerová (ANO)** — Představila zákon o regulaci cen pohonných hmot. Argumentovala, že jde o „legislativně robustní“ nástroj umožňující vládě zastropovat ceny nařízením. Odmítla kritiku legislativní nouze s odkazem na mezinárodní situaci.",
-      "**Jana Pastuchová (ANO)** — Představila sněmovní tisky 124 a 125 týkající se odkladu digitalizace sociálních dávek o jeden rok a novely o sociálních službách.",
-      "**Jeroným Tejc (ministr spravedlnosti)** — Obhajoval novelu trestního zákoníku, která vrací trestnost neplacení výživného. Apeloval na soudy, aby častěji využívaly alternativní tresty, zejména domácí vězení.",
-      "**Radek Vondráček (ANO)** — Kritizoval Senát za zamítnutí návrhu na zavedení Dne státní vlajky a označil debatu v Senátu za nedůstojnou."
+      "**Táňa Malá (ANO)** — Oznámila program schůze: novela zákona o cenách, senátní vratka k novele o státních svátcích, novela trestního zákoníku, zákon o vstupu a pobytu cizinců a novely o státní sociální podpoře. Avizovala připravenost klubu jednat dlouho do noci kvůli obstrukcím opozice.",
+      "**Alena Schillerová (ANO)** — Představila zákon o regulaci cen pohonných hmot. Argumentuje, že jde o „legislativně robustní“ nástroj. Uvedla, že opatření již vedla ke stabilizaci cen. Obhajovala využití stavu legislativní nouze hrozbou „nákladového šoku“.",
+      "**Jeroným Tejc (ministr spravedlnosti)** — Podpořil znovuzavedení trestnosti neplacení výživného. Apeloval na soudy, aby namísto neúčinných podmínek častěji ukládaly tresty domácího vězení.",
+      "**Jana Pastuchová (ANO)** — Představila odklad digitalizace sociálních dávek o jeden rok a posun změn v sociálních službách na rok 2028. Navrhla zjednodušení procesu posuzování příspěvku na péči.",
+      "**Radek Vondráček (ANO)** — Kritizoval Senát za to, že „zabil“ návrh na zavedení Dne státní vlajky. Označil senátní debatu za nedůstojnou a plnou negativismu vůči Andreji Babišovi."
     ],
-    "outcome": "Hnutí ANO deklarovalo odhodlání prosadit své legislativní priority navzdory odporu opozice. Nebylo přijato žádné formální rozhodnutí, nicméně byl jasně definován postoj klubu: podpora vládních návrhů, prosazování zkrácených legislativních procesů a snaha o přehlasování Senátu v otázce státních svátků.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem, avšak obsah byl srozumitelný."
+    "outcome": "Formální rozhodnutí nebyla přijata, neboť šlo o tiskovou konferenci. Dominujícím postojem hnutí ANO je snaha o prosazení vládních tisků ve zkráceném řízení a očekávání, že opozice podpoří návrhy, které jsou podle nich v zájmu občanů. Jednání bylo ukončeno z důvodu začínající schůze Sněmovny.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a drobným gramatickým chybám, které však nebrání pochopení obsahu."
   },
   "entities": {
     "speakers": [
       {"name": "Táňa Malá", "person_id": null, "affiliation": "ANO"},
       {"name": "Alena Schillerová", "person_id": null, "affiliation": "ANO"},
+      {"name": "Jeroným Tejc", "person_id": null, "affiliation": "ANO"},
       {"name": "Jana Pastuchová", "person_id": null, "affiliation": "ANO"},
-      {"name": "Jeroným Tejc", "person_id": null, "affiliation": "Ministr spravedlnosti"},
       {"name": "Radek Vondráček", "person_id": null, "affiliation": "ANO"}
     ],
     "parties": ["ANO"],
@@ -96,39 +94,37 @@ Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalost
   },
   "highlights": [
     {
-      "text": "My dnes přicházíme do sněmovny s dalším z mozaiky vládních opatření, které děláme proto, abychom zmírnili dopady globálního nárůstu cen paliv na peněženky českých občanů a firem.",
-      "type": "citation",
+      "text": "My s tím zákonem přicházíme včas, tedy nikoliv až po půl roce ničivých dopadů na ekonomiku a inflaci, jako se to stalo v roce 2022.",
+      "type": "paraphrase",
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
-      "timestamp": "1/02:02"
+      "timestamp": "1/02:02",
+      "screenshot_path": null
     },
     {
-      "text": "Za první čtvrtletí tohoto roku Asociace neúplných rodin zaznamenala dvacetiprocentní nárůst požadavků na pomoc s vymáháním výživného.",
-      "type": "citation",
-      "speaker": "Táňa Malá",
-      "affiliation": "ANO",
-      "timestamp": "1/10:02"
-    },
-    {
-      "text": "Jestliže běžně každý rok bylo uloženo 2000 prostých podmínek a pouze 5-7 trestů domácího vězení, tak to svědčí o tom, že ten systém není efektivní.",
+      "text": "My míříme skutečně na ty, kteří úmyslně se vyhýbají placení výživného, kteří mohou platit, například neplatí z nějakých v uvozovkách pro ně principiálních důvodů.",
       "type": "citation",
       "speaker": "Jeroným Tejc",
-      "affiliation": "Ministr spravedlnosti",
-      "timestamp": "1/12:02"
+      "affiliation": "ANO",
+      "timestamp": "1/12:02",
+      "screenshot_path": null
+    },
+    {
+      "text": "Z trestu domácího vězení v roce 2024 byly uloženy čtyři tresty, v drtivé většině jsou ukládány podmínky, o kterých víme, že nejsou funkční.",
+      "type": "paraphrase",
+      "speaker": "Táňa Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/08:03",
+      "screenshot_path": null
     }
   ],
   "controversial": [
     {
-      "statement": "**Využití stavu legislativní nouze pro regulaci cen pohonných hmot**\n* **Kdo:** Alena Schillerová (ANO)\n* **Co:** Obhajoba využití stavu legislativní nouze pro zákon o regulaci cen pohonných hmot.\n* **Proč:** Opozice dlouhodobě kritizuje zneužívání legislativní nouze pro běžnou agendu, což omezuje prostor pro parlamentní debatu.\n* **Čas:** 1/06:04",
+      "statement": "Využití stavu legislativní nouze pro zákon o regulaci cen pohonných hmot.\n* **Kdo:** Alena Schillerová (ANO).\n* **Co:** Předložení zákona ve stavu legislativní nouze.\n* **Proč:** Opozice dlouhodobě kritizuje zneužívání stavu legislativní nouze pro běžnou legislativu, což omezuje prostor pro řádnou parlamentní debatu.",
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
-      "timestamp": "1/06:04"
-    },
-    {
-      "statement": "**Kritika Senátu ohledně zákona o státních svátcích**\n* **Kdo:** Radek Vondráček (ANO)\n* **Co:** Označil debatu v Senátu za „nedůstojnou“ a „negativistickou“ vůči Andreji Babišovi.\n* **Proč:** Politicky citlivé napadání horní komory Parlamentu v otázce symboliky státních svátků.\n* **Čas:** 1/16:00",
-      "speaker": "Radek Vondráček",
-      "affiliation": "ANO",
-      "timestamp": "1/16:00"
+      "timestamp": "1/06:04",
+      "screenshot_path": null
     }
   ],
   "quality": {

@@ -1,55 +1,60 @@
 ## 1. Téma a účel jednání
 
-Tisková konference poslaneckého klubu TOP 09 se konala před zahájením jednání Poslanecké sněmovny dne 21. dubna 2026. Cílem konference bylo informovat veřejnost o aktuálních politických prioritách strany, vyjádřit nesouhlas s vládními kroky v oblasti zahraniční politiky a médií a oznámit strategii opozice pro nadcházející parlamentní týden.
+Tisková konference poslaneckého klubu TOP 09 se konala dne 21. dubna 2026 před zahájením schůze Poslanecké sněmovny. Cílem brífinku bylo informovat veřejnost o prioritách opozice pro nadcházející týden, konkrétně o plánované blokádě jednání Sněmovny jako reakci na vládní kroky v oblasti médií veřejné služby a zahraniční politiky.
 
-Hlavními tématy byla kritika vládního zákazu cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan, varování před snahou vládní koalice ovládnout média veřejné služby a kritika bezpečnostní politiky vlády, zejména v souvislosti s výdaji na obranu a personálními změnami na Ministerstvu obrany.
+Představitelé TOP 09 ostře kritizovali vládní koalici za údajnou snahu o ovládnutí České televize a Českého rozhlasu, za zákaz cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan a za nedostatečné plnění aliančních závazků v oblasti obrany. Strana deklarovala jednotný postup celé opozice v otázce zablokování volby členů Rady ČT.
+
+---
 
 ## 2. Hlavní body
 
 *   **Matěj Ondřej Havel (předseda TOP 09)**
-    *   Kritizoval vládní zákaz cesty předsedy Senátu na Tchaj-wan jako „poklonkování Číně“, které ohrožuje bezpečnostní a ekonomické zájmy ČR (zejména v oblasti čipů).
-    *   Zdůraznil, že Tchaj-wan je strategickým demokratickým partnerem, zatímco Čína je totalitní stát.
-    *   Oznámil, že TOP 09 zablokuje jednání Poslanecké sněmovny, aby zabránila volbě členů Rady České televize a Rady Českého rozhlasu, které považuje za pokus o ovládnutí veřejnoprávních médií.
+    *   Kritizoval vládní zákaz cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan jako „poklonkování Číně“, které ohrožuje bezpečnostní a ekonomické zájmy ČR (zejména v oblasti čipů).
+    *   Upozornil na strategickou závislost na Číně a vyzdvihl Tchaj-wan jako demokratického partnera.
+    *   Oznámil, že TOP 09 zablokuje jednání Sněmovny, aby zabránila volbě členů Rady České televize a Rady Českého rozhlasu, které vnímá jako pokus o „ujařmení“ veřejnoprávních médií.
 *   **Jan Jakob (předseda poslaneckého klubu TOP 09)**
-    *   Odsoudil útoky politiků hnutí ANO na novináře (konkrétně zmínil Radka Vondráčka).
-    *   Podpořil protesty odborné veřejnosti a studentů proti vládnímu postupu vůči médiím.
-    *   Potvrdil, že opozice je jednotná v rozhodnutí blokovat sněmovnu, dokud koalice neustoupí od záměru volit radní v současné atmosféře.
+    *   Odsoudil chování vládních politiků (konkrétně zmínil Radka Vondráčka) vůči novinářům a označil jej za snahu o umlčení nezávislé publicistiky.
+    *   Podpořil stávku studentů a umělecké obce proti vládním zásahům do médií.
+    *   Potvrdil shodu napříč opozičními kluby v otázce blokace volby radních.
 *   **Michal Zuna (místopředseda poslaneckého klubu TOP 09)**
-    *   Zpochybnil prohlášení premiéra Andreje Babiše o prioritě obranyschopnosti, přičemž uvedl, že vláda není schopna plnit ani základní 2% závazek vůči NATO.
-    *   Kritizoval ministra obrany za rušení Sekce průmyslové spolupráce, což označil za poškozování českých firem v obranném průmyslu.
-*   **Tematické body (obecné):**
-    *   Opozice se shodla na koordinovaném postupu blokace sněmovny.
+    *   Kritizoval premiéra Andreje Babiše za neplnění aliančních závazků v obraně a za škrty v rozpočtu na obranu (pokles pod 2 % HDP).
+    *   Napadl ministra obrany za rušení Sekce průmyslové spolupráce, což označil za poškozování českých firem v obranném průmyslu.
+*   **Tematické body (obecné)**
+    *   Opozice je jednotná v postupu blokace Sněmovny, dokud koalice neustoupí od volby radních a mediálních novel.
     *   Zákon o regulaci cen pohonných hmot byl označen za „socialistický experiment“ a nadbytečný nástroj, který má pouze zabránit soudnímu přezkumu vládních rozhodnutí.
+
+---
 
 ## 3. Výsledek / závěr
 
-Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Dominujícím postojem opozice je však odhodlání zablokovat jednání Poslanecké sněmovny pro tento týden, pokud vládní koalice neustoupí od záměru volit členy Rady České televize a Rady Českého rozhlasu. Opozice vnímá současnou situaci jako ohrožení demokracie a nezávislosti médií.
+Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Dominujícím postojem opozice je však **odhodlání zablokovat jednání Poslanecké sněmovny** pro tento týden, pokud vládní koalice neustoupí od záměru volit členy Rady České televize a Rady Českého rozhlasu. Opozice vnímá současnou atmosféru jako nebezpečnou pro nezávislost médií a demokracii v zemi.
+
+---
 
 ## 4. Poznámky
 
-Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstatě stejný obsah, přičemž druhá část je useknutá). Informace byly syntetizovány z dostupného textu.
+Přepis obsahuje duplicitní záznamy (část 1 a 2 jsou obsahově totožné). Text je srozumitelný, přestože obsahuje drobné gramatické chyby a překlepy vzniklé automatickým přepisem.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh:** Blokace Poslanecké sněmovny jako nástroj politického boje.
-    *   **Kdo:** Matěj Ondřej Havel, Jan Jakob (TOP 09).
-    *   **Co:** Oznámení, že opozice nedovolí projednávání mediálních novel ani volbu radních a zablokuje sněmovnu.
-    *   **Proč:** Je to politicky citlivé, protože jde o paralýzu zákonodárného sboru, což je krajní parlamentní prostředek.
-    *   **Čas:** 1/06:03.
+*   **Kontroverzní výrok:** „...tato slova [premiéra Babiše o obraně] jsou lež.“
+    *   **Kdo:** Michal Zuna (TOP 09)
+    *   **Proč:** Přímé nařčení premiéra ze lži v otázce národní bezpečnosti a plnění závazků vůči NATO je vysoce konfrontační a politicky citlivé.
+    *   **Čas:** 1/10:01
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Proto nejezdit na Tchaj-wan je poklonkování Číně, nejezdit dělat takovou tu politiku všech azimutů zahraniční, tak se nám může šeredně vymstít.“ (parafráze)
+*   **Text:** „Tchaj-wan je vyspělá demokratická země, je to čipová velmoc, je to pro nás strategické.“ (parafráze)
     *   **Řečník:** Matěj Ondřej Havel (TOP 09)
-    *   **Čas:** 1/00:04
-*   **Text:** „My zablokujeme Poslaneckou sněmovnu pro tento týden, aby nedošlo k volbě radních v České televizi, protože v této atmosféře to prostě není možné.“ (citace)
+    *   **Čas:** 1/02:03
+*   **Text:** „My zablokujeme Poslaneckou sněmovnu pro tento týden, aby nedošlo k volbě radních v České televizi.“ (citace)
     *   **Řečník:** Matěj Ondřej Havel (TOP 09)
     *   **Čas:** 1/06:03
-*   **Text:** „Po škrtech Andreje Babiše se nejsme schopni dosáhnout ani těch základních 2 % (HDP na obranu), čímž dosáhneme akorát tak toho, že nebudeme plnit naše alianční závazky.“ (citace)
+*   **Text:** „Po škrtech Andreje Babiše nejsme schopni dosáhnout ani těch základních 2 % [HDP na obranu].“ (citace)
     *   **Řečník:** Michal Zuna (TOP 09)
     *   **Čas:** 1/10:01
 
@@ -66,8 +71,8 @@ Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstat
     "id": "2837",
     "name": "Tisková konference poslaneckého klubu TOP 09",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-21",
-    "end_date": "2026-04-21",
+    "start_date": "2026-04-21T11:20",
+    "end_date": "2026-04-21T11:40",
     "sources": []
   },
   "transcription": {
@@ -77,15 +82,15 @@ Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstat
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala před zahájením jednání Poslanecké sněmovny dne 21. dubna 2026. Cílem konference bylo informovat veřejnost o aktuálních politických prioritách strany, vyjádřit nesouhlas s vládními kroky v oblasti zahraniční politiky a médií a oznámit strategii opozice pro nadcházející parlamentní týden.\n\nHlavními tématy byla kritika vládního zákazu cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan, varování před snahou vládní koalice ovládnout média veřejné služby a kritika bezpečnostní politiky vlády, zejména v souvislosti s výdaji na obranu a personálními změnami na Ministerstvu obrany.",
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala dne 21. dubna 2026 před zahájením schůze Poslanecké sněmovny. Cílem brífinku bylo informovat veřejnost o prioritách opozice pro nadcházející týden, konkrétně o plánované blokádě jednání Sněmovny jako reakci na vládní kroky v oblasti médií veřejné služby a zahraniční politiky.\n\nPředstavitelé TOP 09 ostře kritizovali vládní koalici za údajnou snahu o ovládnutí České televize a Českého rozhlasu, za zákaz cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan a za nedostatečné plnění aliančních závazků v oblasti obrany. Strana deklarovala jednotný postup celé opozice v otázce zablokování volby členů Rady ČT.",
     "main_points": [
-      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval vládní zákaz cesty předsedy Senátu na Tchaj-wan jako „poklonkování Číně“. Oznámil, že TOP 09 zablokuje jednání Poslanecké sněmovny, aby zabránila volbě členů Rady České televize a Rady Českého rozhlasu.",
-      "**Jan Jakob (TOP 09)** — Odsoudil útoky politiků hnutí ANO na novináře a podpořil protesty odborné veřejnosti. Potvrdil, že opozice je jednotná v rozhodnutí blokovat sněmovnu.",
-      "**Michal Zuna (TOP 09)** — Zpochybnil prohlášení premiéra Babiše o prioritě obranyschopnosti a kritizoval ministra obrany za rušení Sekce průmyslové spolupráce.",
-      "**Tematické body** — Opozice se shodla na koordinovaném postupu blokace sněmovny. Zákon o regulaci cen pohonných hmot byl označen za „socialistický experiment“."
+      "**Matěj Ondřej Havel (předseda TOP 09)** — Kritizoval vládní zákaz cesty předsedy Senátu Miloše Vystrčila na Tchaj-wan jako „poklonkování Číně“, které ohrožuje bezpečnostní a ekonomické zájmy ČR. Oznámil, že TOP 09 zablokuje jednání Sněmovny, aby zabránila volbě členů Rady České televize a Rady Českého rozhlasu.",
+      "**Jan Jakob (předseda poslaneckého klubu TOP 09)** — Odsoudil chování vládních politiků vůči novinářům a označil jej za snahu o umlčení nezávislé publicistiky. Potvrdil shodu napříč opozičními kluby v otázce blokace volby radních.",
+      "**Michal Zuna (místopředseda poslaneckého klubu TOP 09)** — Kritizoval premiéra Andreje Babiše za neplnění aliančních závazků v obraně a za škrty v rozpočtu na obranu. Napadl ministra obrany za rušení Sekce průmyslové spolupráce.",
+      "**Tematické body** — Opozice je jednotná v postupu blokace Sněmovny. Zákon o regulaci cen pohonných hmot byl označen za „socialistický experiment“ a nadbytečný nástroj."
     ],
-    "outcome": "Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Dominujícím postojem opozice je však odhodlání zablokovat jednání Poslanecké sněmovny pro tento týden, pokud vládní koalice neustoupí od záměru volit členy Rady České televize a Rady Českého rozhlasu.",
-    "notes": "Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstatě stejný obsah, přičemž druhá část je useknutá). Informace byly syntetizovány z dostupného textu."
+    "outcome": "Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Dominujícím postojem opozice je však **odhodlání zablokovat jednání Poslanecké sněmovny** pro tento týden, pokud vládní koalice neustoupí od záměru volit členy Rady České televize a Rady Českého rozhlasu.",
+    "notes": "Přepis obsahuje duplicitní záznamy (část 1 a 2 jsou obsahově totožné). Text je srozumitelný, přestože obsahuje drobné gramatické chyby a překlepy vzniklé automatickým přepisem."
   },
   "entities": {
     "speakers": [
@@ -94,25 +99,25 @@ Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstat
       {"name": "Michal Zuna", "person_id": null, "affiliation": "TOP 09"}
     ],
     "parties": ["TOP 09", "ANO"],
-    "institutions": ["Poslanecká sněmovna", "Senát", "Česká televize", "Český rozhlas", "Ministerstvo obrany", "NATO"]
+    "institutions": ["Poslanecká sněmovna", "Česká televize", "Český rozhlas", "Senát", "NATO"]
   },
   "highlights": [
     {
-      "text": "Proto nejezdit na Tchaj-wan je poklonkování Číně, nejezdit dělat takovou tu politiku všech azimutů zahraniční, tak se nám může šeredně vymstít.",
+      "text": "Tchaj-wan je vyspělá demokratická země, je to čipová velmoc, je to pro nás strategické.",
       "type": "paraphrase",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
-      "timestamp": "1/00:04"
+      "timestamp": "1/02:03"
     },
     {
-      "text": "My zablokujeme Poslaneckou sněmovnu pro tento týden, aby nedošlo k volbě radních v České televizi, protože v této atmosféře to prostě není možné.",
+      "text": "My zablokujeme Poslaneckou sněmovnu pro tento týden, aby nedošlo k volbě radních v České televizi.",
       "type": "citation",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/06:03"
     },
     {
-      "text": "Po škrtech Andreje Babiše se nejsme schopni dosáhnout ani těch základních 2 % (HDP na obranu), čímž dosáhneme akorát tak toho, že nebudeme plnit naše alianční závazky.",
+      "text": "Po škrtech Andreje Babiše nejsme schopni dosáhnout ani těch základních 2 % HDP na obranu.",
       "type": "citation",
       "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
@@ -121,10 +126,10 @@ Přepis obsahuje duplicitní záznam (obě části 1/2 a 2/2 obsahují v podstat
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh:** Blokace Poslanecké sněmovny jako nástroj politického boje.\n- **Kdo:** Matěj Ondřej Havel, Jan Jakob (TOP 09).\n- **Co:** Oznámení, že opozice nedovolí projednávání mediálních novel ani volbu radních a zablokuje sněmovnu.\n- **Proč:** Je to politicky citlivé, protože jde o paralýzu zákonodárného sboru, což je krajní parlamentní prostředek.\n- **Čas:** 1/06:03",
-      "speaker": "Matěj Ondřej Havel, Jan Jakob",
+      "statement": "**Kdo:** Michal Zuna (TOP 09)\n**Co přesně:** „...tato slova [premiéra Babiše o obraně] jsou lež.“\n**Proč:** Přímé nařčení premiéra ze lži v otázce národní bezpečnosti a plnění závazků vůči NATO je vysoce konfrontační a politicky citlivé.\n**Čas:** 1/10:01",
+      "speaker": "Michal Zuna",
       "affiliation": "TOP 09",
-      "timestamp": "1/06:03"
+      "timestamp": "1/10:01"
     }
   ],
   "quality": {

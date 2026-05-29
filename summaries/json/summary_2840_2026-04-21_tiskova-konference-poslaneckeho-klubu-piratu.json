@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:48:39",
+  "created_at": "2026-05-29T14:29:06",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2840",
@@ -19,15 +19,14 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla zaměřena na kritiku vládních kroků v oblasti státní správy, rozpočtové politiky a nakládání s dotacemi. Piráti se vymezili proti plánovanému zrušení nominačního zákona, který považují za klíčovou protikorupční pojistku, a kritizovali vládní návrh zákona o rozpočtové odpovědnosti, který podle nich umožňuje netransparentní zadlužování státu.\n\nSoučástí vystoupení byla rovněž aktualizace kauzy nevymáhání dotací od holdingu Agrofert a vyjádření k návrhu na rozšíření pravomocí Nejvyššího kontrolního úřadu (NKÚ) nad veřejnoprávní média.",
+    "topic": "Tisková konference poslaneckého klubu Pirátů se zaměřila na kritiku vládních kroků v oblasti státní správy, rozpočtové politiky a nezávislosti médií. Hlavním cílem bylo informovat veřejnost o nesouhlasu Pirátů s plánovaným zrušením nominačního zákona, upozornit na údajné korupční praktiky spojené s dotacemi pro holding Agrofert a kritizovat vládní návrh zákona o rozpočtové odpovědnosti, který podle řečníků umožňuje netransparentní zadlužování státu.",
     "main_points": [
-      "**Neidentifikovaný řečník (Piráti)** — Kritika nevymáhání dotací od holdingu Agrofert (celkem 7,5 miliardy Kč). Potvrzení, že Piráti rozšiřují trestní oznámení u Evropského žalobce a Vrchního státního zastupitelství v Praze. Ostrá kritika záměru vlády zrušit nominační zákon.",
-      "**Vendula Svobodová (Piráti)** — Kritika vládního návrhu zákona o rozpočtové odpovědnosti. Varování před „ohýbáním“ pravidel (odečítání investic a obsluhy dluhu z dluhové brzdy). Předložení pozměňovacího návrhu omezujícího navyšování výdajů pouze na obranu.",
-      "**Samuel Volpe (Piráti)** — Vyjádření k senátnímu návrhu na rozšíření působnosti NKÚ nad Českou televizi a Český rozhlas s výhradou, že návrh nejde dostatečně daleko.",
-      "**Tematické body** — Důraz na nezávislost veřejnoprávních médií jako prevenci před politickým vlivem."
+      "**Neidentifikovaný řečník (Piráti)** — Kritika nevymáhání dotací od holdingu Agrofert (celkem 7,5 miliardy Kč). Potvrzení, že Piráti rozšiřují trestní oznámení podaná k Evropskému žalobci a Vrchnímu státnímu zastupitelství v Praze. Ostrá kritika záměru vlády zrušit nominační zákon.",
+      "**Vendula Svobodová (Piráti)** — Kritika vládního návrhu zákona o rozpočtové odpovědnosti. Varování před „ohýbáním“ pravidel (odečítání investic a obsluhy dluhu z dluhové brzdy). Kritika posílení pravomocí vlády (navýšení výdajů o 10 % bez standardního procesu). Návrh pozměňovacího návrhu omezujícího navyšování výdajů pouze na obranu.",
+      "**Samuel Volpe (Piráti)** — Vyjádření k senátnímu návrhu na rozšíření působnosti NKÚ na ČT a ČRo. Podpora myšlenky, ale s důrazem na nutnost tvrdého boje za nezávislost veřejnoprávních médií."
     ],
-    "outcome": "Jednání bylo tiskovým prohlášením, nikoliv hlasováním. Piráti deklarovali svůj záměr aktivně blokovat vládní návrhy, které považují za korupční nebo rozpočtově nezodpovědné, a pokračovat v právních krocích vůči státním institucím v kauze dotací.",
-    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a fragmenty vět. Části textu jsou nesrozumitelné kvůli automatickému přepisu."
+    "outcome": "Jednání nebylo hlasovacím aktem, ale tiskovou konferencí. Dominujícím postojem Pirátů je aktivní odpor proti vládním návrhům (zrušení nominačního zákona, změna rozpočtových pravidel) a pokračování v právních krocích proti nevymáhání dotací. Piráti deklarovali, že budou v parlamentu prosazovat pozměňovací návrhy a bránit nezávislost veřejnoprávních médií.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, které byly interpretovány v kontextu smyslu sdělení. Části textu jsou useknuté nebo obsahují chyby v diakritice, které byly pro účely shrnutí opraveny."
   },
   "entities": {
     "speakers": [
@@ -49,63 +48,63 @@
     ],
     "parties": [
       "Piráti",
-      "ANO",
-      "KDU-ČSL"
+      "KDU-ČSL",
+      "ANO"
     ],
     "institutions": [
+      "Poslanecká sněmovna",
       "Nejvyšší kontrolní úřad",
       "Evropský žalobce",
       "Vrchní státní zastupitelství v Praze",
       "Česká televize",
-      "Český rozhlas",
-      "Agrofert"
+      "Český rozhlas"
     ]
   },
   "highlights": [
     {
-      "text": "Tohle je učebnicový příklad toho, jak korupce vysává miliardy, které následně chybí lidem, ať už rodinám nebo mladým.",
+      "text": "Tam se celkově jedná o tu částku 7,5 miliardy korun.",
       "type": "paraphrase",
       "speaker": "Neidentifikovaný řečník",
       "affiliation": "Piráti",
-      "timestamp": "2/00:25",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_highlight_00.jpg",
-      "context": "Jde o politické hodnocení, které nelze fakticky ověřit jako konkrétní údaj. Korupce má na veřejné finance prokazatelně negativní dopad, avšak tvrzení o konkrétních miliardách chybějících rodinám je rétorickou figurou bez přímého důkazu kauzality v daném kontextu."
+      "timestamp": "2/01:01",
+      "screenshot_path": "summaries/screenshots/event_2840_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Bez znalosti konkrétního rozpočtového dokumentu nebo kapitoly, ke které se řečník vztahuje, nelze určit, zda částka 7,5 miliardy odpovídá realitě."
     },
     {
-      "text": "Ministrině Šilerová naprosto nepokrytě navrhuje způsob, jak obejít zákon a zlegitimizovat si svou neschopnost vést vyrovnaný rozpočet.",
+      "text": "Nově si kabinet může zvýšit výdaje až o 10 % bez standardního legislativního procesu, a to pouze s odkazem na zhoršenou bezpečnostní situaci.",
       "type": "citation",
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
-      "timestamp": "2/04:35",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_highlight_01.jpg",
-      "context": "Tvrzení o 'obcházení zákona' je politickou interpretací legislativních návrhů. Hodnocení schopnosti vést rozpočet je subjektivní politický názor, nikoliv ověřitelný fakt."
+      "timestamp": "2/04:00",
+      "screenshot_path": "summaries/screenshots/event_2840_highlight_01.jpg",
+      "context": "Tvrzení je zavádějící. Zákon o rozpočtové odpovědnosti (č. 23/2017 Sb.) stanovuje přísná pravidla pro výdajové rámce; navýšení výdajů nad rámec zákona vyžaduje schválení Parlamentem, nikoliv pouze rozhodnutí kabinetu bez legislativního procesu."
     },
     {
-      "text": "Tam se celkově jedná o tu částku 7,5 miliardy korun, které stát nevymáhá od Agrofertu.",
+      "text": "Když se všechny tyhle výjimky sečtou, vzniká prostor pro velmi vysoké deficity, klidně až 500 miliard korun ročně.",
       "type": "citation",
-      "speaker": "Neidentifikovaný řečník",
+      "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
-      "timestamp": "2/01:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_highlight_02.jpg",
-      "context": "Tato částka se často objevuje v politické debatě v souvislosti s dotacemi pro holding Agrofert. Právní spory o vratky dotací jsou komplexní a probíhají na úrovni národních i evropských orgánů; nelze tedy paušálně potvrdit, že stát 'nevymáhá' částku, která by byla právně nezpochybnitelná."
+      "timestamp": "2/04:12",
+      "screenshot_path": "summaries/screenshots/event_2840_highlight_02.jpg",
+      "context": "Jde o spekulativní odhad. Výše deficitu státního rozpočtu je limitována zákonem o státním rozpočtu na daný rok, který schvaluje Poslanecká sněmovna, nikoliv pouze součtem výjimek v rozpočtových pravidlech."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Neidentifikovaný řečník (Piráti)\n**Co:** Vláda plánuje zrušit nominační zákon, který má zajistit odbornost v orgánech státních podniků.\n**Proč:** Piráti to považují za útok na protikorupční pojistky a snahu o návrat k politickému obsazování funkcí.\n**Čas:** 2/01:30",
+      "statement": "**Kontroverzní návrh: Zrušení nominačního zákona**\n* **Kdo:** Neidentifikovaný řečník (Piráti)\n* **Co:** Vláda Andreje Babiše chce zrušit nominační zákon, což Piráti označují za „návrat ke krmelci“ a otevření prostoru pro korupci a trafiky.\n* **Proč:** Jde o střet mezi vládní snahou o flexibilitu při obsazování státních firem a opoziční snahou o zachování odbornosti a transparentnosti.\n* **Čas:** 2/00:45",
       "speaker": "Neidentifikovaný řečník",
       "affiliation": "Piráti",
-      "timestamp": "2/01:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_controversy_00.jpg",
-      "context": "Zákon o státním podniku (č. 77/1997 Sb.) a zákon o řízení a kontrole veřejných financí definují pravidla pro obsazování orgánů. Debaty o změnách v nominačním zákoně jsou součástí legislativního procesu, přičemž tvrzení o 'útoku na pojistky' je politickou interpretací záměru vlády."
+      "timestamp": "2/00:45",
+      "screenshot_path": "summaries/screenshots/event_2840_controversy_00.jpg",
+      "context": "Nominační zákon (zákon č. 159/2017 Sb.) byl zaveden za účelem transparentního výběru členů orgánů státních firem. Debata o jeho zrušení či úpravě je dlouhodobým politickým sporem mezi vládní koalicí a opozicí ohledně míry politických nominací."
     },
     {
-      "statement": "**Kdo:** Vendula Svobodová (Piráti)\n**Co:** Vláda chce změnit způsob výpočtu dluhu tak, aby se do něj nezapočítávaly investice a obsluha dluhu.\n**Proč:** Podle Pirátů jde o účelové obcházení zákona, které umožní deficit až 500 miliard Kč ročně.\n**Čas:** 2/04:10",
+      "statement": "**Kontroverzní návrh: Změna pravidel rozpočtové odpovědnosti**\n* **Kdo:** Vendula Svobodová (Piráti)\n* **Co:** Vláda chce změnit způsob výpočtu dluhu tak, aby se do dluhové brzdy nepromítaly investice a náklady na obsluhu dluhu.\n* **Proč:** Politicky citlivé téma, protože umožňuje vládě legálně vykazovat nižší zadlužení, zatímco reálný dluh roste, což opozice vnímá jako obcházení zákona.\n* **Čas:** 2/02:40",
       "speaker": "Vendula Svobodová",
       "affiliation": "Piráti",
-      "timestamp": "2/04:10",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2840_controversy_01.jpg",
-      "context": "Diskuse o metodice výpočtu dluhu a tzv. 'investiční výjimce' (zlaté pravidlo rozpočtu) probíhá v rámci úvah o rozpočtové odpovědnosti. Tvrzení o deficitu 500 miliard je spekulativní odhad možného dopadu navrhovaných změn, nikoliv stávající zákonná realita."
+      "timestamp": "2/02:40",
+      "screenshot_path": "summaries/screenshots/event_2840_controversy_01.jpg",
+      "context": "Změna pravidel rozpočtové odpovědnosti je předmětem odborné diskuse o tzv. 'zlatém fiskálním pravidle' (vyjmutí investic z dluhové brzdy). Podle zákona č. 23/2017 Sb. je dluhová brzda nastavena na 55 % HDP; úprava výpočtu by fakticky změnila metodiku sledování zadlužení státu."
     }
   ],
   "quality": {

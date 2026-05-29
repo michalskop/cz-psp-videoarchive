@@ -1,0 +1,133 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:07:35",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2907",
+    "name": "Tisková konference k závěrům jednání mediálního výboru",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-14T13:01",
+    "end_date": "2026-05-14T13:18",
+    "sources": [
+      "final/event_2907_2026-05-14_tiskova-konference-k-zaverum-jednani-medialniho-vy.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference se konala 14. května 2026 v reakci na jednání mediálního výboru Poslanecké sněmovny. Cílem opozičních poslanců bylo informovat veřejnost o zrušení jejich dřívějších usnesení vládní koalicí. Opozice kritizuje postup koalice, která se podle nich zaštiťuje procesními pochybeními, aby se vyhnula věcné diskuzi o kontroverzním návrhu zákona o médiích veřejné služby ministra Oty Klempíře.\n\nHlavním tématem byla obhajoba nezávislosti veřejnoprávních médií, kritika způsobu financování těchto médií (převod pod státní rozpočet) a snaha o zachování expertní pracovní skupiny, která byla vládní koalicí zrušena.",
+    "main_points": [
+      "**Andrea Hoffmannová (opozice)** — Upozornila na zrušení expertní pracovní skupiny, která bude pokračovat neformálně. Informovala, že ČT vymáhá škodu po radních.",
+      "**Jakob (opozice)** — Označil návrh zákona o médiích veřejné služby za „legislativní zmetek“ a zdůraznil nutnost vymáhání škod.",
+      "**František Talíř (opozice)** — Kritizoval převod financování médií pod státní rozpočet a amatérskou přípravu zákona bez diskuze s řediteli médií.",
+      "**Ester Weinerová (opozice)** — Kritizovala zrušení usnesení o analýze nahrávky k možnému úplatku a odmítnutí odděleného hlasování koalicí.",
+      "**Martin Baxa (opozice)** — Označil návrh za paskvil, který nevznikl na ministerstvu kultury, a poukázal na zdrcující připomínky odboru kompatibility.",
+      "**Lucie Bartošová (opozice)** — Upozornila na vyřazení bodu „Různé“ z programu jako projev strachu koalice z diskuze.",
+      "**Tematické body** — Opozice trvá na expertní diskuzi, upozorňuje na absenci RIA a chybějící zákonnou oporu pro regionální vysílání (1,2 milionu posluchačů týdně)."
+    ],
+    "outcome": "Jednání mediálního výboru skončilo zrušením všech usnesení, která opozice prosadila na předchozím zasedání. Opozice se shodla na tom, že vládní návrh zákona je neopravitelný a měl by být stažen. Konsenzem opozičních řečníků je požadavek na zahájení debaty „od nuly“ a odmítnutí financování médií ze státního rozpočtu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Andrea Hoffmannová",
+        "person_id": "psp:person:6905",
+        "affiliation": "opozice"
+      },
+      {
+        "name": "Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "opozice"
+      },
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "opozice"
+      },
+      {
+        "name": "Ester Weinerová",
+        "person_id": "psp:person:7061",
+        "affiliation": "opozice"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "opozice"
+      },
+      {
+        "name": "Lucie Bartošová",
+        "person_id": "psp:person:6989",
+        "affiliation": "opozice"
+      }
+    ],
+    "parties": [
+      "ANO 2011",
+      "SPD",
+      "KDU-ČSL",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Mediální výbor",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Návrh zákona o médiích veřejné služby je legislativní zmetek.",
+      "type": "paraphrase",
+      "speaker": "Jakob",
+      "affiliation": "opozice",
+      "timestamp": "1/01:55",
+      "screenshot_path": "summaries/screenshots/event_2907_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení kvality legislativního textu, nikoliv o faktické tvrzení. Kvalita návrhu je předmětem politické debaty a legislativního procesu v rámci výborů Poslanecké sněmovny."
+    },
+    {
+      "text": "Jediné, co se s tím dá udělat smysluplného, je ten návrh vzít, zmačkat a hodit do koše.",
+      "type": "citation",
+      "speaker": "František Talíř",
+      "affiliation": "opozice",
+      "timestamp": "1/15:29",
+      "screenshot_path": "summaries/screenshots/event_2907_highlight_01.jpg",
+      "context": "Jedná se o řečnickou figuru vyjadřující politický nesouhlas s návrhem zákona. Nejedná se o faktické tvrzení, které by bylo možné ověřit."
+    },
+    {
+      "text": "1 200 000 lidí týdně poslouchá regionální vysílání a v návrhu zákona pro ně chybí zákonná opora.",
+      "type": "citation",
+      "speaker": "František Talíř",
+      "affiliation": "opozice",
+      "timestamp": "1/15:46",
+      "screenshot_path": "summaries/screenshots/event_2907_highlight_02.jpg",
+      "context": "Číslo 1,2 milionu posluchačů regionálního vysílání odpovídá datům z výzkumů poslechovosti (např. Radioprojekt). Zda návrh zákona obsahuje dostatečnou zákonnou oporu pro regionální vysílání, je předmětem právní interpretace a diskuse v rámci legislativního procesu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Baxa (opozice)\n**Co:** Uvedl, že návrh zákona „nemohl vzniknout z pera legislativců ministerstva kultury“.\n**Proč:** Naznačuje netransparentní proces tvorby zákona a podezření, že byl vytvořen mimo oficiální struktury ministerstva.\n**Čas:** 1/12:03",
+      "speaker": "Martin Baxa",
+      "affiliation": "opozice",
+      "timestamp": "1/12:03",
+      "screenshot_path": "summaries/screenshots/event_2907_controversy_00.jpg",
+      "context": "Tvrzení o autorství návrhu je spekulativní. Oficiálním předkladatelem zákona je vládní instituce, která nese za text plnou odpovědnost bez ohledu na to, kdo se podílel na jeho technické přípravě."
+    },
+    {
+      "statement": "**Kdo:** Jakob (opozice)\n**Co:** Označil vládní návrh zákona o médiích veřejné služby za „legislativní zmetek“.\n**Proč:** Velmi ostrá kritika vládní legislativní práce, která zpochybňuje odbornou kompetenci předkladatele (ministra Klempíře).\n**Čas:** 1/02:02",
+      "speaker": "Jakob",
+      "affiliation": "opozice",
+      "timestamp": "1/02:02",
+      "screenshot_path": "summaries/screenshots/event_2907_controversy_01.jpg",
+      "context": "Označení „legislativní zmetek“ je hodnotící soud opozičního poslance. Odborná kvalita návrhu zákona je standardně posuzována Legislativní radou vlády a následně v rámci připomínkového řízení a výborů Poslanecké sněmovny."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

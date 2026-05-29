@@ -1,0 +1,96 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:12:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2891",
+    "name": "Reforma fiskálního rámce EU a dopad na odvozování výdajových rámců státního rozpočtu a státních fondů v ČR.",
+    "classification": "Seminář",
+    "start_date": "2026-05-12",
+    "end_date": "2026-05-12",
+    "sources": [
+      "final/event_2891_2026-05-12_reforma-fiskalniho-ramce-eu-a-dopad-na-odvozovani-.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 12,
+    "parts_total": 12,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zabýval implementací nové reformy fiskálního rámce EU do českého právního řádu (sněmovní tisk 90) a jejími dopady na odvozování výdajových rámců státního rozpočtu a státních fondů v ČR. Cílem bylo vysvětlit technické principy nových pravidel, jako jsou čisté výdaje a primární strukturální saldo, a objasnit, jakým způsobem se ČR v rámci fiskálně-strukturálního plánu vyrovnává s požadavky Evropské komise na udržitelnost veřejných financí.\n\nHlavním účelem bylo poskytnout odborný vhled do složité problematiky, která kombinuje evropskou legislativu s národními rozpočtovými pravidly, a vysvětlit, proč se ČR rozhodla pro cestu primárního strukturálního salda namísto přímého sledování čistých výdajů.",
+    "main_points": [
+      "**Doufala (Ministerstvo financí):** Fiskální pravidla jsou nutné zlo ukotvující očekávání trhů. ČR přechází na sledování **primárního strukturálního salda**, které je lépe navázáno na dluhovou udržitelnost.",
+      "**Změna harmonogramu:** Odvozování výdajových rámců se přesouvá na srpen, aby se předešlo nepřesnostem v odhadech (např. u armádních zakázek).",
+      "**Únikové doložky a korekce:** Zákon obsahuje obecnou i národní únikovou doložku a využívá tzv. korekční účet pro vyrovnávání odchylek v jednotlivých letech.",
+      "**Role institucí:** Evropská komise stanovuje cílové hodnoty, které musí členský stát v rámci fiskálně-strukturálního plánu akceptovat nebo vyjednat."
+    ],
+    "outcome": "Jednání proběhlo formou odborného semináře bez formálního hlasování. Konsenzem je, že nová pravidla jsou technicky velmi složitá. Ministerstvo financí potvrdilo, že ČR již požádala o nový fiskálně-strukturální plán a technickou informaci, přičemž cílový horizont se posouvá k roku 2030. Dominujícím postojem je snaha o maximální shodu s Evropskou komisí.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem, které však nebrání pochopení hlavního technického sdělení."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Doufala",
+        "person_id": "psp:person:1090",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Ministerstvo financí",
+      "Evropská komise",
+      "Národní rozpočtová rada",
+      "Rada ECOFIN"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Fiskální pravidla jsou legislativně ukotvená omezení pro rozpočtovou a fiskální politiku, kde vždy musí být nějaká číselná hodnota.",
+      "type": "paraphrase",
+      "speaker": "Doufala",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "1/09:50",
+      "context": "Tvrzení je fakticky správné. V českém právním řádu jsou tato pravidla ukotvena zejména zákonem č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, který stanovuje konkrétní limity pro strukturální saldo a výši veřejného dluhu."
+    },
+    {
+      "text": "Rozdíl mezi dubnem a srpnem v přípravě rámců činil 40 miliard korun, což má zásadní vliv na povolené saldo.",
+      "type": "paraphrase",
+      "speaker": "Doufala",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "9/04:47",
+      "screenshot_path": "summaries/screenshots/event_2891_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit bez přístupu k interním pracovním verzím rozpočtových rámců Ministerstva financí. Rozdíl 40 miliard korun v predikcích mezi dubnem a srpnem odpovídá běžné volatilitě při aktualizaci makroekonomické predikce a přípravě návrhu státního rozpočtu."
+    },
+    {
+      "text": "Čisté výdaje jsou v podstatě jenom nosič, je to nástroj, kterým se dostáváme k cíli, kterým je střednědobá dluhová udržitelnost.",
+      "type": "citation",
+      "speaker": "Doufala",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "4/00:40",
+      "screenshot_path": "summaries/screenshots/event_2891_highlight_02.jpg",
+      "context": "Tvrzení odpovídá principům tzv. výdajových rámců, které jsou součástí evropských fiskálních pravidel (Pakt o stabilitě a růstu). Cílem je omezit růst výdajů tak, aby veřejné finance zůstaly dlouhodobě udržitelné v souladu s metodikou EU."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o tom, zda vláda využívá důchodovou reformu a nový plán k tomu, aby si změkčila cíle stanovené Evropskou komisí. Je to politicky citlivé, protože to naznačuje, že fiskální pravidla jsou ohýbána podle politických priorit vlády.",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "7/04:10",
+      "screenshot_path": "summaries/screenshots/event_2891_controversy_00.jpg",
+      "context": "Jde o legitimní politickou interpretaci. Evropská komise v rámci procesu tzv. evropského semestru skutečně posuzuje národní plány a reformy; zda jsou fiskální cíle 'ohýbány', je předmětem odborné debaty mezi vládou a Národní rozpočtovou radou, která pravidelně hodnotí plnění pravidel rozpočtové odpovědnosti."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

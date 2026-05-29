@@ -1,0 +1,104 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:29:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2839",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-21T12:23",
+    "end_date": "2026-04-21T12:41",
+    "sources": [
+      "final/event_2839_2026-04-21_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 3,
+    "parts_total": 3,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem vyjádření postoje poslaneckého klubu KDU-ČSL k aktuálnímu programu schůze Poslanecké sněmovny a k politické situaci. Hlavními tématy byla kritika vládního návrhu na zrušení tzv. nominačního zákona, problematika volby členů Rady České televize v kontextu nedávno zveřejněných nahrávek a legislativní návrhy týkající se trestního zákoníku a neplacení výživného.\n\nCílem konference bylo prezentovat opoziční pohled na vládní kroky, které KDU-ČSL vnímá jako destruktivní vůči státní správě a veřejnoprávním médiím, a zároveň informovat o nadcházejícím sjezdu strany v Ostravě.",
+    "main_points": [
+      "**Václav Pláteník (KDU-ČSL)**\n* **Trestní zákoník:** Podpořil záměr řešit neplacení výživného, ale kritizoval trestní postih jako neefektivní a drahý nástroj. Navrhuje využít osvědčené zahraniční modely (např. Estonsko, Velká Británie), jako je pozastavení řidičského průkazu, zákaz hazardu či odebrání cestovního pasu.\n* **Nominační zákon:** Odmítl vládní návrh na jeho zrušení. Považuje jej za destrukci státní správy a krok zpět. Připustil, že zákon má nedostatky, ale namísto jeho rušení volá po kultivaci a zlepšení mechanismů pro výběr kvalitních odborníků do státních podniků.",
+      "**Tom Filip (KDU-ČSL)**\n* **Rada České televize:** Vyzval k odložení volby členů Rady ČT kvůli kauze nahrávek pánů Matochy a Bradáče. Požaduje, aby tito kandidáti z volby odstoupili, dokud nebude kauza prošetřena.\n* **Strategie v Poslanecké sněmovně:** Uvedl, že pokud vláda volbu z programu nestáhne, opozice bude klást otázky na odpovědnost vládní koalice a proces může být velmi dlouhý.",
+      "**Neidentifikovaný řečník (závěr konference)**\n* Připomněl, že nominační zákon v minulosti prosazovalo hnutí ANO (Andrej Babiš, Radek Vondráček), což dokládá nekonzistentnost současných vládních kroků."
+    ],
+    "outcome": "Formální rozhodnutí o programu schůze nebylo na tiskové konferenci přijato, neboť závisí na rozhodnutí vládní koalice, zda stáhne sporný bod volby do Rady ČT. KDU-ČSL deklarovala, že v případě nestáhnutí bodu bude trvat na vysvětlení kauzy, což může vést k prodloužení jednání sněmovny. Strana se rovněž připravuje na nadcházející sjezd v Ostravě, od kterého očekává „nový, svěžejší vítr“.",
+    "notes": "Přepis obsahuje fragmenty textu z tiskové konference hnutí SPD (část 1/3), které nesouvisí s hlavní náplní tiskové konference KDU-ČSL. Tyto části byly při shrnutí ignorovány. V textu se vyskytují chyby v přepisu jmen (např. „bradač Matocha“ místo Bradáč a Matocha)."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Václav Pláteník",
+        "person_id": "psp:person:7036",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Tom Filip",
+        "person_id": null,
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Trestní odpovědnost je ten nejdražší a zároveň nejméně efektivní nástroj, který v důsledku velmi málo pomáhá těm dětem, kterým ty peníze nedostávají.",
+      "type": "paraphrase",
+      "speaker": "Václav Pláteník",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "2/02:03",
+      "screenshot_path": "summaries/screenshots/event_2839_highlight_00.jpg",
+      "context": "Efektivita trestního práva v oblasti vymáhání výživného je předmětem odborných debat. Statistiky Ministerstva spravedlnosti ČR dlouhodobě ukazují, že vysoký podíl odsouzených za trestný čin zanedbání povinné výživy (dle § 196 trestního zákoníku) vede k jejich nezaměstnanosti a následné neschopnosti dluhy splácet, což potvrzuje tezi o nízké efektivitě pro věřitele."
+    },
+    {
+      "text": "My budeme dneska jednat mimo jiné o novele trestního zákonníku, který pojednává o obnovení trestného činu za nedbávání vyživovací povinnosti.",
+      "type": "citation",
+      "speaker": "Václav Pláteník",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "2/00:53",
+      "screenshot_path": "summaries/screenshots/event_2839_highlight_01.jpg",
+      "context": "Trestný čin zanedbání povinné výživy je v českém právním řádu (§ 196 trestního zákoníku) trvale obsažen. Výrok je věcně nepřesný, neboť se v legislativním procesu nejedná o „obnovení“ (zrušen nebyl), ale o úpravu podmínek trestní odpovědnosti či zpřísnění postihu."
+    },
+    {
+      "text": "Tento návrh na zrušení nominačního zákona nepodpoříme, v tuhle chvíli se jedná pouze o destrukci a s hlasy KDU-ČSL vláda nemůže počítat.",
+      "type": "citation",
+      "speaker": "Václav Pláteník",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "2/02:53",
+      "screenshot_path": "summaries/screenshots/event_2839_highlight_02.jpg",
+      "context": "Nominační zákon (zákon č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů) upravuje pravidla pro obsazování pozic v orgánech firem se státní účastí. Postoj KDU-ČSL k jeho případné úpravě či zrušení je politickým rozhodnutím, které nelze fakticky ověřit jako pravdivé či nepravdivé, jde o deklaraci politické vůle."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Tom Filip (KDU-ČSL).\n* **Co:** Požadavek na odložení volby a výzva kandidátům Matochovi a Bradáčovi k odstoupení kvůli podezřelým nahrávkám.\n* **Proč:** Jde o politicky citlivou záležitost ovlivňující nezávislost veřejnoprávních médií a integritu volebního procesu.\n* **Čas:** 2/04:04",
+      "speaker": "Tom Filip",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "2/04:04",
+      "screenshot_path": "summaries/screenshots/event_2839_controversy_00.jpg",
+      "context": "Požadavek na odložení volby a výzva k odstoupení kandidátů jsou politické kroky založené na interpretaci nahrávek. Autentičnost nahrávek a jejich právní či etické dopady na integritu volby členů Rady ČT jsou předmětem politického sporu a nelze je nezávisle ověřit bez výsledků šetření orgánů činných v trestním řízení či příslušných kontrolních orgánů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

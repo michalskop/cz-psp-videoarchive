@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-28T16:42:08",
+  "created_at": "2026-05-29T15:22:25",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
-    "id": "2950",
+    "id": "22309",
     "name": "Příležitost pro koho? Český zákon o platformách očima kurýrů",
     "classification": "Seminář",
-    "start_date": "2026-05-28T09:10",
-    "end_date": "2026-05-28T12:52",
+    "start_date": "2026-05-28",
+    "end_date": "2026-05-28",
     "sources": [
       "final/event_2950_2026-05-28_prilezitost-pro-koho-cesky-zakon-o-platformach-oci.md"
     ]
@@ -19,30 +19,22 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zabýval problematikou transpozice evropské směrnice o platformové práci do českého právního řádu. Cílem bylo otevřít debatu o pracovních podmínkách až půl milionu lidí pracujících v platformové ekonomice a kriticky zhodnotit vládní návrh zákona z pohledu samotných pracovníků.\n\nHlavním tématem byla otázka, zda zákon skutečně ochrání pracovníky, nebo zda pouze legalizuje „digitální švarcsystém“ a umožní platformám vyhnout se odpovědnosti za sociální a zdravotní odvody. Diskuse se zaměřila na fenomén algoritmického řízení, prekarizaci práce a neudržitelnost současného obchodního modelu platforem.",
+    "topic": "Seminář se zabýval problematikou transpozice evropské směrnice o platformové práci do českého právního řádu. Cílem bylo otevřít debatu o sociálně-ekonomických dopadech platformové ekonomiky, která v ČR ovlivňuje až 546 000 lidí, a upozornit na rizika spojená s tzv. „švarcsystémem“ v digitální podobě.\n\nHlavním motivem byla kritika současného návrhu zákona, který je podle řečníků minimalistický a nedostatečně chrání pracovníky. Seminář se zaměřil na otázky algoritmického řízení, nejistoty práce na IČO, vymahatelnosti práv a nutnosti definovat moderní společenskou smlouvu, která by zabránila vzniku digitálního nevolnictví.",
     "main_points": [
-      "**Irena Ferčíková (poslankyně)** — Varovala před „měkkou“ implementací směrnice a zdůraznila potřebu slyšet hlas kurýrů v legislativním procesu.",
-      "**Zdeněk Neubauer (Asociace platformových pracovníků)** — Popsal asymetrii moci mezi platformou a kurýrem, kde algoritmus rozhoduje o osudu pracovníka bez možnosti odvolání.",
-      "**Josef Středula (ČMKOS)** — Označil návrh zákona za „digitální švarcsystém“, varoval před výpadkem 120 mld. Kč ve veřejných rozpočtech a vznikem budoucích „no-go zón“ kvůli absenci důchodového pojištění.",
-      "**Tereza Gajdová (Parlamentní institut)** — Analyzovala směrnici EU a její důraz na vyvratitelnou domněnku pracovněprávního vztahu.",
-      "**Alžběta (socioložka, AV ČR)** — Dekonstruovala mýtus „flexibility“, která je výhodná pro zákazníky, ale pro pracovníky znamená nutnost sebeoptimalizace podle algoritmu.",
-      "**Marek Vrbík (ČTU)** — Upozornil na nutnost lidského dohledu nad AI systémy v rámci AI Actu.",
-      "**Jana Pašková a Jeroným Dekan (MPSV)** — Obhajovali návrh zákona, zdůraznili zavedení evidence platforem a povinnost kontaktní osoby v ČR."
+      "**Irena Ferčíková Konečná (poslankyně)**: Organizátorka semináře, zdůraznila nutnost zapojení zaměstnanců do legislativního procesu.",
+      "**Josef Středula (ČMKOS)**: Označil návrh zákona za „digitální podobu švarcsystému“ a varoval před fatálními dopady na veřejné rozpočty.",
+      "**Alžběta Mangarella (Akademie věd)**: Dekonstruovala mýtus flexibility; platformy přenášejí veškerá rizika na pracovníka.",
+      "**Jana Pašková a Jeroným Dekan (MPSV)**: Obhajovali návrh zákona jako transpozici směrnice, zdůraznili zavedení evidence platforem."
     ],
-    "outcome": "Formální závěr nebyl přijat, ale mezi účastníky panoval konsenzus, že současný návrh zákona je nedostatečný. Dominoval požadavek na přísnější regulaci „flotil“, zákaz prorogačních doložek a jasnější definici závislé práce.",
-    "notes": "Přepis obsahuje v částech 14–16 opakující se halucinace, které byly ignorovány. Části 15 a 16 jsou technicky poškozené."
+    "outcome": "Formální rozhodnutí nebylo přijato, seminář sloužil jako platforma pro kritiku vládního návrhu. Dominujícím postojem byla nutnost zásadního přepracování návrhu zákona tak, aby skutečně chránil pracovníky.",
+    "notes": "Přepis obsahuje četné technické artefakty, které byly ignorovány. Části záznamu (zejména v časech 14–16) byly nesrozumitelné a obsahovaly halucinace modelu."
   },
   "entities": {
     "speakers": [
       {
-        "name": "Irena Ferčíková",
-        "person_id": null,
-        "affiliation": "Poslanecká sněmovna"
-      },
-      {
-        "name": "Zdeněk Neubauer",
-        "person_id": null,
-        "affiliation": "Asociace platformových pracovníků"
+        "name": "Irena Ferčíková Konečná",
+        "person_id": "psp:person:7003",
+        "affiliation": "Poslankyně"
       },
       {
         "name": "Josef Středula",
@@ -50,78 +42,41 @@
         "affiliation": "ČMKOS"
       },
       {
-        "name": "Tereza Gajdová",
+        "name": "Zdeněk K. Neubauer",
         "person_id": null,
-        "affiliation": "Parlamentní institut"
-      },
-      {
-        "name": "Alžběta",
-        "person_id": null,
-        "affiliation": "AV ČR"
-      },
-      {
-        "name": "Marek Vrbík",
-        "person_id": null,
-        "affiliation": "ČTU"
-      },
-      {
-        "name": "Jana Pašková",
-        "person_id": "psp:person:324",
-        "affiliation": "MPSV"
-      },
-      {
-        "name": "Jeroným Dekan",
-        "person_id": null,
-        "affiliation": "MPSV"
+        "affiliation": "Asociace platformových pracovníků"
       }
     ],
     "parties": [
-      "ČMKOS"
+      "Piráti",
+      "Zelení"
     ],
     "institutions": [
       "Poslanecká sněmovna",
+      "ČMKOS",
       "MPSV",
-      "ČTU",
-      "Parlamentní institut"
+      "ČTU"
     ]
   },
   "highlights": [
     {
-      "text": "Tento zákon nemá co společného s funkční transpozicí směrnice, je to digitální podoba švarcsystému z 90. let.",
+      "text": "Tento zákon nemá co společného s funkční transpozicí směrnice, nemá co společného s tím, abychom legalizovali švarcsystém v ČR.",
       "type": "citation",
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
       "timestamp": "2/02:35",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2950_highlight_00.jpg",
-      "context": "Označení za 'švarcsystém' je interpretací právního vztahu mezi platformou a pracovníkem. Zda jde o zastřený pracovněprávní vztah, či o samostatnou výdělečnou činnost, je předmětem probíhajících soudních sporů a legislativních debat o transpozici směrnice EU o platformové práci (2024/1944)."
-    },
-    {
-      "text": "Platformy nabízejí službu, která je flexibilní pro zákazníky, ale ne až tak flexibilní pro pracující, pokud se chtějí uživit.",
-      "type": "paraphrase",
-      "speaker": "Alžběta",
-      "affiliation": "AV ČR",
-      "timestamp": "5/05:40",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2950_highlight_01.jpg",
-      "context": "Flexibilita platforem je často diskutovaným tématem. Data z výzkumů (např. IDEA při CERGE-EI) potvrzují, že ačkoliv platformy nabízejí nízkou bariéru vstupu na trh práce, pracovníci často čelí nejistotě příjmů a absenci sociálních benefitů typických pro zaměstnanecký poměr."
-    },
-    {
-      "text": "Pokud se tohle nenarovná, zaděláváme si na vznik no-go zón, protože lidé pracující pro platformy si nebudou moci nárokovat žádný důchod.",
-      "type": "citation",
-      "speaker": "Štěpán Hradečný",
-      "affiliation": "provozovatel taxislužby",
-      "timestamp": "10/08:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2950_highlight_02.jpg",
-      "context": "Tvrzení o přímé souvislosti mezi prací pro platformy a vznikem 'no-go zón' je spekulativní a není podloženo sociologickými daty. Je však pravdou, že osoby pracující výhradně na bázi platforem (OSVČ) si často neplatí dobrovolné důchodové pojištění, což může vést k nízkým důchodům v budoucnu."
+      "screenshot_path": "summaries/screenshots/event_2950_highlight_00.jpg",
+      "context": "Tvrzení o absenci souvislosti s transpozicí směrnice je subjektivním politickým hodnocením legislativního procesu. Zda návrh fakticky legalizuje švarcsystém, závisí na právní interpretaci definice závislé práce podle zákoníku práce (zákon č. 262/2006 Sb.) a konkrétních ustanoveních projednávaného návrhu."
     }
   ],
   "controversial": [
     {
-      "statement": "Josef Středula (ČMKOS) navrhl, aby stát přistupoval k praktikám platforem jako ke „kriminálním činům“ a „loupežnictví“.",
+      "statement": "Josef Středula (ČMKOS) označil návrh zákona za „digitální podobu švarcsystému z 90. let“ a „loupežnictví“.",
       "speaker": "Josef Středula",
       "affiliation": "ČMKOS",
-      "timestamp": "2/02:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2950_controversy_00.jpg",
-      "context": "Jedná se o hodnotící soud a rétorickou nadsázku řečníka. V českém právním řádu (trestní zákoník č. 40/2009 Sb.) nejsou běžné obchodní praktiky platforem klasifikovány jako 'kriminální činy' či 'loupežnictví', pokud nedojde k naplnění skutkové podstaty konkrétního trestného činu."
+      "timestamp": "2/04:06",
+      "screenshot_path": "summaries/screenshots/event_2950_controversy_00.jpg",
+      "context": "Označení za „digitální podobu švarcsystému“ a „loupežnictví“ jsou hodnotícími soudy a rétorickými obraty, nikoliv ověřitelnými fakty. Srovnání s praxí 90. let je politickou interpretací dopadů návrhu na trh práce, kterou nelze objektivně potvrdit ani vyvrátit bez analýzy konkrétních paragrafů zákona."
     }
   ],
   "quality": {

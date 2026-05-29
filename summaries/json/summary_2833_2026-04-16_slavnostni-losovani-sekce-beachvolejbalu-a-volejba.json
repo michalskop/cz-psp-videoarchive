@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:51:31",
+  "created_at": "2026-05-29T14:31:22",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2833",
     "name": "Slavnostní losování sekce beachvolejbalu a volejbalu na olympiádu dětí a mládeže 2026",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-16",
-    "end_date": "2026-04-16",
+    "start_date": "2026-04-16T14:05",
+    "end_date": "2026-04-16T14:27",
     "sources": [
       "final/event_2833_2026-04-16_slavnostni-losovani-sekce-beachvolejbalu-a-volejba.md"
     ]
@@ -19,17 +19,17 @@
     "model": null
   },
   "summary": {
-    "topic": "Jednání se uskutečnilo formou tiskové konference a slavnostního losování základních skupin beachvolejbalového turnaje v rámci Olympiády dětí a mládeže (ODM) 2026. Cílem akce bylo představit nadcházející sportovní událost, která se bude konat v Praze ve dnech 21. až 26. června 2026, a oficiálně rozdělit 14 krajských týmů do tří základních skupin (A, B, C).\n\nOlympiáda dětí a mládeže je prezentována jako klíčový projekt Českého olympijského výboru pro podporu sportování a pohybu dětí ve věku 12 až 16 let. Praha bude hostit tuto akci poprvé v historii, přičemž beachvolejbalový turnaj se uskuteční v Beachklubu Ládví na Praze 8. Akce má za cíl nejen sportovní soutěžení, ale i popularizaci olympijských myšlenek a hodnot fair play mezi mladou generací.",
+    "topic": "Jednání se uskutečnilo formou tiskové konference a slavnostního losování základních skupin beachvolejbalového turnaje v rámci Olympiády dětí a mládeže (ODM) 2026. Cílem akce bylo představit nadcházející sportovní událost, která se bude konat v Praze ve dnech 21. až 26. června 2026, a oficiálně rozdělit 14 krajských týmů do tří základních skupin.\n\nOlympiáda dětí a mládeže je prezentována jako klíčový projekt Českého olympijského výboru, jehož cílem je motivovat mládež k pravidelnému pohybu a sportování. Praha bude hostit tuto akci poprvé v historii, přičemž beachvolejbalový turnaj proběhne v areálu Beachklub Ládví na Praze 8.",
     "main_points": [
-      "**Patrik Nacher (místopředseda Poslanecké sněmovny)** — Zdůraznil historický význam konání letní olympiády dětí a mládeže v Praze. Nabídl prostory Poslanecké sněmovny pro losování jako symbol podpory sportu a pohybu. Upozornil na zahájení akce 21. června ve Fortuna aréně na Slavii.",
-      "**Boris Šťastný (ministr sportu, prevence a zdraví)** — Vyjádřil podporu rozvoji sportovní infrastruktury v Praze. Zdůraznil potřebu budování nových sportovišť pro děti a mládež a podpořil myšlenku budoucí kandidatury ČR na pořádání velkých olympijských her.",
-      "**Marek Pakosta (Český olympijský výbor / Český volejbalový svaz)** — Uvedl, že projekt ODM funguje přes 20 let a jeho cílem je motivovat děti k pravidelnému pohybu. Vyzdvihl Prahu jako beachvolejbalově nejsilnější region v ČR.",
-      "**Ondřej Gros (starosta Prahy 8)** — Potvrdil, že Praha 8 bude hostit beachvolejbal a házenou. Vyzdvihl program „Trenéři ve škole“ a důraz městské části na pohybovou aktivitu dětí jako prvek odolnosti a zdraví.",
-      "**Ondřej Perušič (ambasador turnaje, olympionik)** — Vyzdvihl význam setkávání mladých sportovců s elitními vzory a formativní zážitek z účasti na velké multisportovní akci. Zdůraznil hodnoty fair play a propojování krajů skrze sport.",
-      "**Tematické body:**\n    * **Výsledek losování:** Skupina A (Středočeský, Liberecký, Ústecký, Moravskoslezský, Olomoucký), Skupina B (Plzeňský, Praha, Jihomoravský, Jihočeský, Karlovarský), Skupina C (Královéhradecký, Zlínský, Vysočina, Pardubický).\n    * **Organizační detaily:** Turnaj se koná 21.–25. června 2026. Celkem bude v rámci ODM probíhat 33 sportovních disciplín."
+      "**Patrik Nacher (místopředseda Poslanecké sněmovny)** — Zdůraznil, že Praha se stává poprvé hlavním městem sportu dětí a mládeže. Uvedl, že olympiáda proběhne 21.–26. června 2026 a zahájení se uskuteční ve Fortuna aréně na Slavii.",
+      "**Boris Šťastný (ministr sportu, prevence a zdraví)** — Vyjádřil podporu rozvoji sportovní infrastruktury v Praze a podpořil myšlenku budoucí kandidatury ČR na pořádání velkých olympijských her.",
+      "**Marek Pakosta (Český olympijský výbor / Český volejbalový svaz)** — Uvedl, že ODM funguje přes 20 let a beachvolejbal je v Praze velmi silný sport.",
+      "**Ondřej Gros (starosta Prahy 8)** — Potvrdil, že Praha 8 bude hostit beachvolejbal a házenou. Vyzdvihl program „Trenéři ve škole“.",
+      "**Ondřej Perušič (ambasador turnaje, olympionik)** — Vyzdvihl význam setkávání mladých sportovců s elitními vzory a hodnoty fair play.",
+      "**Výsledek losování:**\n    * **Skupina A:** Středočeský, Liberecký, Ústecký, Moravskoslezský a Olomoucký kraj.\n    * **Skupina B:** Plzeňský, Hlavní město Praha, Jihomoravský, Jihočeský a Karlovarský kraj.\n    * **Skupina C:** Královéhradecký, Zlínský, Vysočina a Pardubický kraj."
     ],
-    "outcome": "Oficiální část losování byla úspěšně dokončena rozdělením všech 14 krajských týmů do tří skupin. Akce byla uzavřena projevem ambasadora Ondřeje Perušiče. Nebyly přijímány žádné legislativní závěry, šlo o ceremoniální a organizační akt. Účastníci vyjádřili připravenost na hladký průběh olympiády v červnu 2026.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování frází, které však nebrání pochopení obsahu. Části záznamu jsou srozumitelné a chronologicky navazují."
+    "outcome": "Oficiální část losování byla úspěšně dokončena. Všechny krajské týmy byly rozděleny do tří skupin (A, B, C). Turnaj v beachvolejbalu se uskuteční v Beachklubu Ládví. Bylo potvrzeno, že turnaj šestkového volejbalu již má složení skupin určeno na základě předchozích kvalifikačních turnajů.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -59,9 +59,24 @@
         "affiliation": null
       },
       {
-        "name": "neidentifikovaný řečník",
+        "name": "Jan Štorek",
         "person_id": null,
-        "affiliation": null
+        "affiliation": "Praha 8"
+      },
+      {
+        "name": "Jakub Lébl",
+        "person_id": null,
+        "affiliation": "Pražský volejbalový svaz"
+      },
+      {
+        "name": "Jan Herget",
+        "person_id": null,
+        "affiliation": "Asociace beachvolejbalu"
+      },
+      {
+        "name": "Jan Smíšek",
+        "person_id": null,
+        "affiliation": "Sporty TV"
       }
     ],
     "parties": [],
@@ -69,47 +84,47 @@
       "Poslanecká sněmovna",
       "Český olympijský výbor",
       "Český volejbalový svaz",
-      "Beachklub Ládví",
+      "Praha 8",
       "Sporty TV"
     ]
   },
   "highlights": [
     {
-      "text": "Praha je v této chvíli poprvé, historicky se stává hlavním městem sportu dětí a mládeže, protože se tady uskuteční poprvé v historii letní olympiáda právě dětí a mládeže.",
-      "type": "citation",
+      "text": "Praha se poprvé v historii stává hlavním městem sportu dětí a mládeže.",
+      "type": "paraphrase",
       "speaker": "Patrik Nacher",
       "affiliation": "Poslanecká sněmovna",
-      "timestamp": "1/01:38",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_highlight_00.jpg",
-      "context": "Tvrzení je zavádějící. Letní Olympiáda dětí a mládeže (ODM) se v Praze konala již v roce 2011, tudíž nejde o historicky první konání této akce v hlavním městě."
+      "timestamp": "1/02:02",
+      "screenshot_path": "summaries/screenshots/event_2833_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. Praha hostila Olympiádu dětí a mládeže (ODM) již v roce 2005 (letní verze). Aktuální ročník 2025 je tedy návratem po 20 letech, nikoliv historickou premiérou."
     },
     {
-      "text": "Olympiáda dětí a mládeže je projekt, který funguje více než 20 roků a na tom začátku si dal za ambici motivovat děti a mládež a přivést je k pravidelnému sportování a pohybu.",
+      "text": "Olympiáda dětí a mládeže je projekt, který funguje více než 20 let a jeho ambicí je motivovat děti k pravidelnému sportování.",
       "type": "citation",
       "speaker": "Marek Pakosta",
       "affiliation": "Český olympijský výbor",
       "timestamp": "1/19:33",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_highlight_01.jpg",
-      "context": "Ověřitelné. Projekt Olympiáda dětí a mládeže (ODM) byl založen Českým olympijským výborem v roce 2003, což odpovídá více než 20leté historii. Cílem projektu je skutečně podpora sportování mládeže a popularizace olympijských hodnot."
+      "screenshot_path": "summaries/screenshots/event_2833_highlight_01.jpg",
+      "context": "Ověřitelné. Projekt Olympiáda dětí a mládeže (ODM) pořádá Český olympijský výbor od roku 2003. Cílem projektu je dle stanov ČOV podpora sportovní aktivity dětí a mládeže a simulace atmosféry skutečných olympijských her."
     },
     {
-      "text": "Olympiáda dětí a mládeže je opravdu unikátní v mnoha ohledech, umožňuje setkání mladých sportovců s jejich vzory a elitními sportovci.",
+      "text": "Praha 8 bude hostit beachvolejbal a házenou v rámci olympiády dětí a mládeže.",
       "type": "paraphrase",
-      "speaker": "Ondřej Perušič",
-      "affiliation": null,
-      "timestamp": "1/19:33",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_highlight_02.jpg",
-      "context": "Subjektivní hodnocení, které odpovídá koncepci akce. ODM pravidelně využívá přítomnost ambasadorů z řad úspěšných českých olympioniků, což je doložitelné z oficiálních programů jednotlivých ročníků akce."
+      "speaker": "Ondřej Gros",
+      "affiliation": "Praha 8",
+      "timestamp": "1/10:15",
+      "screenshot_path": "summaries/screenshots/event_2833_highlight_02.jpg",
+      "context": "Ověřitelné. Dle oficiálního harmonogramu ODM 2025 jsou sportoviště na Praze 8 (např. Beachklub Ládví pro beachvolejbal) skutečně zahrnuta do plánu konání her."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Boris Šťastný (ministr sportu, prevence a zdraví).\n**Co:** Podpora kandidatury České republiky na pořádání velkých olympijských her (zimních či letních).\n**Proč:** Politicky citlivé téma vzhledem k obrovským finančním nákladům, nárokům na infrastrukturu a historicky kontroverzním diskusím o ekonomické návratnosti olympijských her pro hostitelské země.\n**Čas:** 1/06:02",
+      "statement": "**Kdo:** Boris Šťastný (ministr sportu, prevence a zdraví)\n**Co:** Podpora kandidatury České republiky na pořádání velkých olympijských her (zimních či letních).\n**Proč:** Politicky citlivé téma vzhledem k extrémním finančním nákladům a nárokům na infrastrukturu.\n**Čas:** 1/06:02",
       "speaker": "Boris Šťastný",
       "affiliation": "Ministerstvo sportu, prevence a zdraví",
       "timestamp": "1/06:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2833_controversy_00.jpg",
-      "context": "Nelze nezávisle ověřit jako hotový vládní záměr. Debata o kandidatuře ČR na velké olympijské hry je dlouhodobě diskutovaným politickým tématem, avšak oficiální kandidatura zatím nebyla vládou ČR podána. Ekonomická náročnost a dopady na infrastrukturu jsou předmětem odborných studií, které se v mezinárodním srovnání často rozcházejí."
+      "screenshot_path": "summaries/screenshots/event_2833_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit jako oficiální vládní politiku. V současné době neexistuje žádné oficiální vládní usnesení o kandidatuře ČR na pořádání olympijských her; jde o politickou vizi či úvahu, která naráží na vysoké ekonomické nároky potvrzené zkušenostmi z jiných zemí (např. analýzy nákladů MOV)."
     }
   ],
   "quality": {

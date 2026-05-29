@@ -1,43 +1,58 @@
-Zde je strukturované shrnutí tiskové konference opozičních stran konané dne 16. dubna 2026.
+## 1. Téma a účel jednání
 
-### 1. Téma a účel jednání
-Tisková konference opozičních stran (STAN, Piráti, TOP 09, KDU-ČSL, ODS) reagovala na průběh mimořádné schůze Poslanecké sněmovny. Hlavním účelem bylo kritizovat vládní koalici za destrukci demokratických procesů, netransparentní legislativní postupy a nedostatečnou komunikaci s opozicí.
+Tisková konference opozičních stran (STAN, Piráti, TOP 09, KDU-ČSL, ODS) se konala v reakci na průběh mimořádné schůze Poslanecké sněmovny. Hlavním účelem konference bylo kritizovat vládní koalici za způsob vedení legislativního procesu, nedostatečnou komunikaci s opozicí a ignorování klíčových témat, jako jsou energetická krize, bezpečnostní situace a nezávislost veřejnoprávních médií.
 
-Opoziční představitelé vyjádřili zásadní nesouhlas s vládními návrhy týkajícími se veřejnoprávních médií, které považují za pokus o jejich ovládnutí a „tunelování“ veřejnoprávnosti. Dále byla diskutována bezpečnostní situace, nedostatečné výdaje na obranu (1,7 % HDP) a ekonomické dopady energetické krize, přičemž opozice zdůraznila, že vláda na tyto problémy nereaguje konstruktivně a namísto řešení předvádí „orloj“ útoků na opozici.
+Opoziční lídři vyjádřili silnou nespokojenost s tím, že vládní většina odmítá zařazovat opoziční body na program schůzí a místo konstruktivní debaty volí obstrukce nebo ignoraci. Konference sloužila jako platforma pro prezentaci alternativních návrhů opozice a jako varování, že opozice hodlá proti krokům vlády, které považuje za ohrožení demokratických principů, důsledně vystupovat.
 
-### 2. Hlavní body
-*   **Vít Rakušan (STAN):** Kritizoval legislativní proces, konkrétně předložení 1073stránkového pozměňovacího návrhu bez připomínkového řízení. Varoval před likvidací veřejnoprávních médií a slíbil obstrukce v případě jejich ohrožení. Poukázal na bezpečnostní chaos a nekonzistentní přístup vlády k migračnímu paktu.
-*   **Zdeněk Hřib (Piráti):** Upozornil na ohrožení čerpání evropských fondů kvůli vládním kauzám a střetu zájmů Andreje Babiše. Navrhl veřejnou volbu rad veřejnoprávních médií a představil manifest energetické bezpečnosti (např. zkrácení DPH na základní potraviny).
-*   **Matěj Ondřej Havel (TOP 09):** Kritizoval nízké výdaje na obranu v kontextu hrozeb ze strany Ruska. Navrhl zvýšení výdajů na obranu až na 5 % HDP a ukotvení členství v EU a NATO do ústavy. Označil premiéra Babiše za „zlobivého žáka“ v rámci NATO.
-*   **Marek Výborný (KDU-ČSL):** Zdůraznil, že vláda rezignovala na konstruktivní debatu o zahraničněpolitických tématech. Varoval před ztrátou evropských fondů kvůli nevyřešenému střetu zájmů premiéra Babiše (společnosti Agrofert, SynBiol).
-*   **Karel Haas (ODS):** Představil sedmibodový „krizový nárazník“ pro firmy v reakci na energetickou krizi (např. odsun plateb DPH, zrychlení odpisů). Kritizoval vládní regulaci cen pohonných hmot jako neúčinnou a chybnou.
+## 2. Hlavní body
 
-### 3. Výsledek / závěr
-Opozice se shodla na tom, že mimořádná schůze byla nezbytná pro upozornění veřejnosti na kritické problémy země, i když očekává, že vládní koalice program schůze neschválí. Opoziční strany deklarovaly připravenost k dalšímu obstrukčnímu boji v případě ohrožení demokratických institucí a médií a hodlají nadále prosazovat svá řešení energetické a bezpečnostní krize.
+*   **Vít Rakušan (STAN):** Kritizoval „destrukci demokratických procesů“ a legislativní nouzi vlády. Upozornil na komplexní pozměňovací návrh k vládnímu zákonu o rozsahu 1073 stran. Oznámil, že opozice bude u tématu veřejnoprávních médií využívat obstrukční mechanismy, aby zabránila jejich ovládnutí vládní koalicí.
+*   **Zdeněk Hřib (Piráti):** Zdůraznil nutnost řešení ekonomické situace a bezpečnosti. Představil manifest energetické bezpečnosti (návrhy na vrácení nadvýběru DPH, snížení DPH na potraviny a hygienické potřeby). Kritizoval vládní koalici za ohrožování nezávislosti médií a za „osobní vendety“ vůči prezidentovi.
+*   **Matěj Ondřej Havel (TOP 09):** Zaměřil se na obranyschopnost ČR. Kritizoval nízké výdaje na obranu (1,7 % HDP) a navrhl jejich zvýšení až na 5 % HDP. Navrhl ukotvení členství v EU a NATO do ústavy. Upozornil na diplomatickou izolaci premiéra Babiše v rámci NATO.
+*   **Marek Výborný (KDU-ČSL):** Vyjádřil zklamání nad stylem komunikace premiéra Babiše a vládní koalice. Zdůraznil rizika spojená se střetem zájmů premiéra, která mohou ohrozit čerpání evropských fondů (modernizace nemocnic, silnic, škol).
+*   **Karel Haas (ODS):** Kritizoval absenci vládního řešení dopadů krize v Hormuzském průlivu na ekonomiku a průmysl. Představil sedm bodů „krizového nárazníku“ pro firmy (např. posun plateb DPH, zrychlení odpisů, využití EGAP a Národní rozvojové banky).
 
-### 4. Poznámky
-Přepis obsahuje občasné chyby v diakritice a drobné výpadky textu, které však nebrání pochopení hlavních argumentů řečníků.
+**Tematické body:**
+*   **Veřejnoprávní média:** Opozice se shodla na jejich obraně proti snahám vlády o jejich finanční a obsahové ovládnutí.
+*   **Bezpečnost:** Diskutovány výhrůžky ruského představitele Medveděva vůči českým firmám a nutnost aktivního přístupu vlády namísto doporučování „lepších plotů“.
+*   **Mimořádná schůze:** Opozice ji považuje za smysluplnou, i když vládní koalice program pravděpodobně nepodpoří, protože umožňuje otevřít důležitá témata před veřejností.
+
+## 3. Výsledek / závěr
+
+Formální výsledek jednání nebyl stanoven, neboť šlo o tiskovou konferenci opozice. Dominujícím postojem opozičních stran je odhodlání pokračovat v tlaku na vládu, využívat všechny dostupné parlamentní nástroje (včetně obstrukcí u citlivých témat, jako jsou média) a nadále předkládat vlastní legislativní návrhy pro řešení energetické a bezpečnostní krize. Opozice konstatuje, že vládní koalice není schopna konstruktivního dialogu.
+
+## 4. Poznámky
+Přepis obsahuje pasáže, kde řečníci reagují na aktuální dění ve sněmovně (např. „orloj vládních poslanců“), což naznačuje, že tisková konference proběhla v průběhu probíhající mimořádné schůze.
 
 ---
 
-### Doplňující otázky
-*   **Kontroverzní výrok:** Vít Rakušan (STAN) prohlásil, že opozice předvede takový obstrukční mechanismus u veřejnoprávních médií, že i „11 hodin nečůrající Tomio Okamura z toho bude překvapen“.
-    *   **Proč:** Jde o politicky citlivou narážku na fyzické limity a obstrukční taktiku, která zlehčuje parlamentní procedury a vyhrožuje paralýzou sněmovny.
+## Doplňující otázky
+
+*   **Kdo:** Vít Rakušan (STAN)
+    *   **Co:** Slib, že opozice předvede takový obstrukční mechanismus u veřejnoprávních médií, že „i 11 hodin nečůrající Tomio Okamura z toho bude překvapen“.
+    *   **Proč:** Je to politicky citlivé, protože veřejnoprávní média jsou vnímána jako pilíř demokracie a jakýkoliv pokus o jejich „ochočení“ vyvolává masové protesty.
     *   **Čas:** 1/02:03
 
+*   **Kdo:** Matěj Ondřej Havel (TOP 09)
+    *   **Co:** Označení výdajů na obranu ve výši 1,7 % HDP za „zralé na Darwinovu cenu“.
+    *   **Proč:** Jde o velmi ostrou kritiku vládní bezpečnostní politiky v kontextu ruských hrozeb, která zpochybňuje kompetenci vlády zajistit bezpečnost občanů.
+    *   **Čas:** 1/08:03
+
 ---
 
-### Klíčové citace pro veřejnost
-*   **Text:** „My přece nemůžeme tohle nechat bez povšimnutí, jaká jiná metoda a cesta nám jako celé opozici zbývá, než se pokusit svolat mimořádnou schůzi.“ (citace)
-    *   **Řečník:** Vít Rakušan (STAN), **Čas:** 1/02:03
-*   **Text:** „My za Piráty jsme chtěli, aby v těch radách usedly skutečně renomované osobnosti, bohužel tedy do druhého kola prošli spíše lidé, kteří chtějí Českou televizi ničit.“ (citace)
+## Klíčové citace pro veřejnost
+
+*   **Text:** „My za Piráty jsme chtěli, aby v těch radách usedly skutečně renomované osobnosti, vyzvali jsme spolky, které mohou nominovat, spolky nominovaly kvalitní osobnosti, bohužel tedy do druhého kola prošli spíše lidé, kteří chtějí Českou televizi ničit.“ (citace)
     *   **Řečník:** Zdeněk Hřib (Piráti), **Čas:** 1/04:04
-*   **Text:** „V situaci, kdy dáváme na obranu 1,7 % HDP, je to věc, která je zralá na Darwinovu cenu.“ (citace)
+*   **Text:** „My navrhujeme pochopitelně dodržet ty alianční závazky a dávat až 5 % HDP na obranu.“ (citace)
     *   **Řečník:** Matěj Ondřej Havel (TOP 09), **Čas:** 1/08:03
+*   **Text:** „Odsunutí a posun, pouze časový posun, bez dopadu do státního rozpočtu, plateb DPH, tím výrazně posílíte likviditu firem, které teď skutečně čelí výraznému tlaku.“ (citace)
+    *   **Řečník:** Karel Haas (ODS), **Čas:** 1/14:02
 
 ---
 
-### JSON výstup
+## JSON výstup
+
 ```json
 {
   "schema_version": "2",
@@ -58,16 +73,16 @@ Přepis obsahuje občasné chyby v diakritice a drobné výpadky textu, které v
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference opozičních stran (STAN, Piráti, TOP 09, KDU-ČSL, ODS) reagovala na průběh mimořádné schůze Poslanecké sněmovny. Hlavním účelem bylo kritizovat vládní koalici za destrukci demokratických procesů, netransparentní legislativní postupy a nedostatečnou komunikaci s opozicí.\n\nOpoziční představitelé vyjádřili zásadní nesouhlas s vládními návrhy týkajícími se veřejnoprávních médií, které považují za pokus o jejich ovládnutí a „tunelování“ veřejnoprávnosti. Dále byla diskutována bezpečnostní situace, nedostatečné výdaje na obranu (1,7 % HDP) a ekonomické dopady energetické krize, přičemž opozice zdůraznila, že vláda na tyto problémy nereaguje konstruktivně a namísto řešení předvádí „orloj“ útoků na opozici.",
+    "topic": "Tisková konference opozičních stran (STAN, Piráti, TOP 09, KDU-ČSL, ODS) se konala v reakci na průběh mimořádné schůze Poslanecké sněmovny. Hlavním účelem konference bylo kritizovat vládní koalici za způsob vedení legislativního procesu, nedostatečnou komunikaci s opozicí a ignorování klíčových témat, jako jsou energetická krize, bezpečnostní situace a nezávislost veřejnoprávních médií.\n\nOpoziční lídři vyjádřili silnou nespokojenost s tím, že vládní většina odmítá zařazovat opoziční body na program schůzí a místo konstruktivní debaty volí obstrukce nebo ignoraci. Konference sloužila jako platforma pro prezentaci alternativních návrhů opozice a jako varování, že opozice hodlá proti krokům vlády, které považuje za ohrožení demokratických principů, důsledně vystupovat.",
     "main_points": [
-      "**Vít Rakušan (STAN)** — Kritizoval legislativní proces, konkrétně předložení 1073stránkového pozměňovacího návrhu bez připomínkového řízení. Varoval před likvidací veřejnoprávních médií a slíbil obstrukce v případě jejich ohrožení.",
-      "**Zdeněk Hřib (Piráti)** — Upozornil na ohrožení čerpání evropských fondů kvůli vládním kauzám a střetu zájmů Andreje Babiše. Navrhl veřejnou volbu rad veřejnoprávních médií a představil manifest energetické bezpečnosti.",
-      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval nízké výdaje na obranu v kontextu hrozeb ze strany Ruska. Navrhl zvýšení výdajů na obranu až na 5 % HDP a ukotvení členství v EU a NATO do ústavy.",
-      "**Marek Výborný (KDU-ČSL)** — Zdůraznil, že vláda rezignovala na konstruktivní debatu o zahraničněpolitických tématech. Varoval před ztrátou evropských fondů kvůli nevyřešenému střetu zájmů premiéra Babiše.",
-      "**Karel Haas (ODS)** — Představil sedmibodový „krizový nárazník“ pro firmy v reakci na energetickou krizi (např. odsun plateb DPH, zrychlení odpisů). Kritizoval vládní regulaci cen pohonných hmot jako neúčinnou."
+      "**Vít Rakušan (STAN)** — Kritizoval „destrukci demokratických procesů“ a legislativní nouzi vlády. Upozornil na komplexní pozměňovací návrh k vládnímu zákonu o rozsahu 1073 stran. Oznámil, že opozice bude u tématu veřejnoprávních médií využívat obstrukční mechanismy.",
+      "**Zdeněk Hřib (Piráti)** — Zdůraznil nutnost řešení ekonomické situace a bezpečnosti. Představil manifest energetické bezpečnosti (návrhy na vrácení nadvýběru DPH, snížení DPH na potraviny a hygienické potřeby). Kritizoval vládní koalici za ohrožování nezávislosti médií.",
+      "**Matěj Ondřej Havel (TOP 09)** — Zaměřil se na obranyschopnost ČR. Kritizoval nízké výdaje na obranu (1,7 % HDP) a navrhl jejich zvýšení až na 5 % HDP. Navrhl ukotvení členství v EU a NATO do ústavy.",
+      "**Marek Výborný (KDU-ČSL)** — Vyjádřil zklamání nad stylem komunikace premiéra Babiše a vládní koalice. Zdůraznil rizika spojená se střetem zájmů premiéra, která mohou ohrozit čerpání evropských fondů.",
+      "**Karel Haas (ODS)** — Kritizoval absenci vládního řešení dopadů krize v Hormuzském průlivu na ekonomiku a průmysl. Představil sedm bodů „krizového nárazníku“ pro firmy (např. posun plateb DPH, zrychlení odpisů)."
     ],
-    "outcome": "Opozice se shodla na tom, že mimořádná schůze byla nezbytná pro upozornění veřejnosti na kritické problémy země, i když očekává, že vládní koalice program schůze neschválí. Opoziční strany deklarovaly připravenost k dalšímu obstrukčnímu boji v případě ohrožení demokratických institucí a médií a hodlají nadále prosazovat svá řešení energetické a bezpečnostní krize.",
-    "notes": null
+    "outcome": "Formální výsledek jednání nebyl stanoven, neboť šlo o tiskovou konferenci opozice. Dominujícím postojem opozičních stran je odhodlání pokračovat v tlaku na vládu, využívat všechny dostupné parlamentní nástroje (včetně obstrukcí u citlivých témat, jako jsou média) a nadále předkládat vlastní legislativní návrhy pro řešení energetické a bezpečnostní krize. Opozice konstatuje, že vládní koalice není schopna konstruktivního dialogu.",
+    "notes": "Přepis obsahuje pasáže, kde řečníci reagují na aktuální dění ve sněmovně (např. „orloj vládních poslanců“), což naznačuje, že tisková konference proběhla v průběhu probíhající mimořádné schůze."
   },
   "entities": {
     "speakers": [
@@ -78,19 +93,11 @@ Přepis obsahuje občasné chyby v diakritice a drobné výpadky textu, které v
       {"name": "Karel Haas", "person_id": null, "affiliation": "ODS"}
     ],
     "parties": ["STAN", "Piráti", "TOP 09", "KDU-ČSL", "ODS"],
-    "institutions": ["Poslanecká sněmovna", "NATO", "EU", "Agrofert", "SynBiol"]
+    "institutions": ["Poslanecká sněmovna", "NATO", "EU", "Agrofert", "SynBiol", "EGAP"]
   },
   "highlights": [
     {
-      "text": "My přece nemůžeme tohle nechat bez povšimnutí, jaká jiná metoda a cesta nám jako celé opozici zbývá, než se pokusit svolat mimořádnou schůzi.",
-      "type": "citation",
-      "speaker": "Vít Rakušan",
-      "affiliation": "STAN",
-      "timestamp": "1/02:03",
-      "screenshot_path": null
-    },
-    {
-      "text": "My za Piráty jsme chtěli, aby v těch radách usedly skutečně renomované osobnosti, bohužel tedy do druhého kola prošli spíše lidé, kteří chtějí Českou televizi ničit.",
+      "text": "My za Piráty jsme chtěli, aby v těch radách usedly skutečně renomované osobnosti, vyzvali jsme spolky, které mohou nominovat, spolky nominovaly kvalitní osobnosti, bohužel tedy do druhého kola prošli spíše lidé, kteří chtějí Českou televizi ničit.",
       "type": "citation",
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
@@ -98,20 +105,35 @@ Přepis obsahuje občasné chyby v diakritice a drobné výpadky textu, které v
       "screenshot_path": null
     },
     {
-      "text": "V situaci, kdy dáváme na obranu 1,7 % HDP, je to věc, která je zralá na Darwinovu cenu.",
+      "text": "My navrhujeme pochopitelně dodržet ty alianční závazky a dávat až 5 % HDP na obranu.",
       "type": "citation",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/08:03",
       "screenshot_path": null
+    },
+    {
+      "text": "Odsunutí a posun, pouze časový posun, bez dopadu do státního rozpočtu, plateb DPH, tím výrazně posílíte likviditu firem, které teď skutečně čelí výraznému tlaku.",
+      "type": "citation",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/14:02",
+      "screenshot_path": null
     }
   ],
   "controversial": [
     {
-      "statement": "Vít Rakušan (STAN) prohlásil, že opozice předvede takový obstrukční mechanismus u veřejnoprávních médií, že i „11 hodin nečůrající Tomio Okamura z toho bude překvapen“.",
+      "statement": "**Kdo:** Vít Rakušan (STAN)\n* **Co:** Slib, že opozice předvede takový obstrukční mechanismus u veřejnoprávních médií, že „i 11 hodin nečůrající Tomio Okamura z toho bude překvapen“.\n* **Proč:** Je to politicky citlivé, protože veřejnoprávní média jsou vnímána jako pilíř demokracie a jakýkoliv pokus o jejich „ochočení“ vyvolává masové protesty.\n* **Čas:** 1/02:03",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/02:03",
+      "screenshot_path": null
+    },
+    {
+      "statement": "**Kdo:** Matěj Ondřej Havel (TOP 09)\n* **Co:** Označení výdajů na obranu ve výši 1,7 % HDP za „zralé na Darwinovu cenu“.\n* **Proč:** Jde o velmi ostrou kritiku vládní bezpečnostní politiky v kontextu ruských hrozeb, která zpochybňuje kompetenci vlády zajistit bezpečnost občanů.\n* **Čas:** 1/08:03",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/08:03",
       "screenshot_path": null
     }
   ],

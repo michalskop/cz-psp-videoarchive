@@ -1,6 +1,6 @@
 # Deployment Plan
 
-**Production target:** `snemovna.datatimes.cz/videoarchiv`  
+**Production target:** `snemovna.datatimes.cz/digest`  
 **Architecture:** Option B — standalone Next.js app in this repo (`web/`), separate from the datatimes turborepo. Shares design system via DESIGN.md; no shared npm packages initially.
 
 ---
@@ -33,11 +33,11 @@ Live at `https://michalskop.github.io/cz-psp-videoarchive/`
 
 ## Stage 2 — Vercel production ⬜ TODO
 
-Move to `snemovna.datatimes.cz/videoarchiv` once Stage 1 is validated.
+Move to `snemovna.datatimes.cz/digest` once Stage 1 is validated.
 
 ### This repo on Vercel
 1. Create a new Vercel project pointing at this repo, root directory `web/`.
-2. Set environment variable: `NEXT_PUBLIC_BASE_PATH=/videoarchiv`
+2. Set environment variable: `NEXT_PUBLIC_BASE_PATH=/digest`
 3. Vercel project domain: assign a temporary Vercel URL (e.g. `psp-videoarchiv.vercel.app`) for initial smoke test.
 
 ### Rewrite on the snemovna project
@@ -48,8 +48,8 @@ In the datatimes turborepo, add a rewrite to the `snemovna` Vercel project confi
 {
   "rewrites": [
     {
-      "source": "/videoarchiv/:path*",
-      "destination": "https://psp-videoarchiv.vercel.app/videoarchiv/:path*"
+      "source": "/digest/:path*",
+      "destination": "https://psp-videoarchiv.vercel.app/digest/:path*"
     }
   ]
 }
@@ -60,7 +60,7 @@ No new DNS record needed — `snemovna.datatimes.cz` already resolves. The rewri
 
 ### Switch canonical URLs
 Once the rewrite is live and tested, update GitHub Actions workflow:
-- `NEXT_PUBLIC_BASE_PATH=/videoarchiv` (instead of repo-name value)
+- `NEXT_PUBLIC_BASE_PATH=/digest` (instead of repo-name value)
 - `SKILL.md`, `llms.txt`, `.well-known/mcp-server-card.json`, `web/public/robots.txt` — already use production URL ✓
 
 ### Bot/AI tracking benefit

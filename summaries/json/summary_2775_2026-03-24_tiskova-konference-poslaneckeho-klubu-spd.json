@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:35:44",
+  "created_at": "2026-05-29T14:16:08",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2775",
@@ -19,19 +19,19 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních politických priorit, legislativních návrhů a personálních změn v poslaneckém klubu. Hlavními tématy byla transparentnost financování neziskových organizací, plánované zrušení koncesionářských poplatků České televize, podpora živnostníků a revize zdravotnické legislativy.\n\nKromě legislativních bodů se zástupci hnutí věnovali i kauzám týkajícím se korupce (Dozimetr), bezpečnosti politiků a zahraničněpolitickým postojům, včetně kritiky agrese NATO vůči Jugoslávii. Cílem konference bylo informovat veřejnost o postojích SPD k aktuálním vládním návrhům a zdůraznit roli hnutí jako opoziční síly hájící zájmy občanů a národní suverenitu.",
+    "topic": "Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních politických priorit, legislativních návrhů a personálních změn v poslaneckém klubu. Hlavními tématy byly transparentnost financování neziskových organizací, plánované zrušení koncesionářských poplatků České televize, podpora živnostníků, revize národní očkovací strategie a zřízení vyšetřovací komise ke kauze Dozimetr.\n\nCílem konference bylo informovat veřejnost o postojích hnutí k vládním krokům, zdůraznit důraz na národní suverenitu a fiskální odpovědnost a představit nového člena klubu. Zároveň byla vyjádřena kritika vůči současnému vládnímu kabinetu v oblastech zdravotnictví, zemědělské politiky a přístupu k inkluzi ve školství.",
     "main_points": [
-      "**Tomio Okamura (SPD)** — Prosazuje zprůhlednění financování neziskových organizací (veřejný registr dotací, povinnost zveřejňovat výdaje). Plánuje zrušení koncesionářských poplatků České televize od roku 2027 (dvoufázově).",
-      "**Radim Fiala (SPD)** — Představil nového člena klubu, Mgr. Josefa Nerušila, který nahradil Markétu Šichtařovou.",
-      "**Lucie Šafránková (SPD)** — Navrhuje zastropování minimálního vyměřovacího základu pro živnostníky na 35 % průměrné mzdy.",
-      "**Jan Síla (SPD)** — SPD nepodpoří novelu zákona o pojistném (přesun 7,8 mld. Kč). Kritizuje ministra Válka a prosazuje dobrovolnost u doporučeného očkování.",
-      "**Jindřich Rajchl (SPD)** — Ocenil zřízení vyšetřovací komise ke kauze Dozimetr. Oznámil podání trestního oznámení na Vojtěcha Pšenáka za výhrůžky žhářským útokem.",
-      "**Zuzana Majerová (SPD)** — Navrhuje zakotvení zemských znaků a vlajek. Požaduje revizi plošné inkluze ve školství. Připomněla výročí bombardování Jugoslávie.",
-      "**Marie Pošarová (SPD)** — Varovala před nedostatkem a růstem cen hnojiv kvůli konfliktu v Íránu.",
-      "**Irena Němcová (SPD)** — Prosazuje zrychlené schválení zmrazení platů politiků do roku 2029."
+      "**Tomio Okamura (SPD)** — Prosazuje zprůhlednění financování neziskových organizací (veřejný registr dotací) a povinnost označovat politicky aktivní organizace financované ze zahraničí. Plánuje dvoufázové zrušení koncesionářských poplatků ČT, s úplným zrušením od roku 2027.",
+      "**Radim Fiala (SPD)** — Představil nového člena klubu, Mgr. Josefa Nerušila, který nahradil Markétu Šichtařovou a bude působit ve Výboru pro evropské záležitosti.",
+      "**Lucie Šafránková (SPD)** — Navrhuje zastropování minimálního vyměřovacího základu pro živnostníky na 35 % průměrné mzdy od roku 2026 jako ochranu před vysokými náklady.",
+      "**Jan Síla (SPD)** — Kritizuje ministra Válka za hospodaření ve zdravotnictví a přesun 7,8 mld. Kč mezi pojišťovnami. Požaduje zachování dobrovolnosti očkování a revizi národní očkovací strategie.",
+      "**Jindřich Rajchl (SPD)** — Vyzdvihl zřízení vyšetřovací komise ke kauze Dozimetr a oznámil trestní oznámení na osobu, která zveřejnila jeho adresu a podněcovala ke žhářskému útoku na jeho dům.",
+      "**Zuzana Majerová (SPD)** — Podporuje zákon o zemských znacích a revizi inkluze ve školství. Kritizovala bombardování Jugoslávie jako historické zvěrstvo.",
+      "**Marie Pošarová (SPD)** — Varovala před nedostatkem hnojiv kvůli konfliktu v Íránu a dopady na potravinovou bezpečnost.",
+      "**Irena Němcová (SPD)** — Požaduje zrychlené schválení zmrazení platů politiků do roku 2029."
     ],
-    "outcome": "Jednání nemělo charakter hlasování, šlo o tiskovou konferenci. Dominujícím postojem SPD je odmítání vládních kroků v oblasti zvyšování odvodů, kritika zdravotnické politiky ministra Válka a prosazování legislativy zaměřené na „národní suverenitu“ a úspory v politickém sektoru.",
-    "notes": null
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nikoliv hlasovacím orgánem. Dominujícím postojem SPD je opozice vůči vládní politice v otázkách financování neziskových organizací, zdravotnictví a inkluze. Hnutí deklarovalo své legislativní priority pro nadcházející schůze Sněmovny, zejména v oblasti ekonomické podpory živnostníků a zmrazení platů politiků.",
+    "notes": "Přepis obsahuje občasné opakující se fráze (např. „všichni zrušení poplatků“), které byly pro účely shrnutí ignorovány. Části týkající se technických detailů legislativního procesu byly interpretovány v kontextu politických cílů řečníků."
   },
   "entities": {
     "speakers": [
@@ -95,8 +95,8 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/00:48",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2775_highlight_00.jpg",
-      "context": "Neziskové organizace (spolky, ústavy, obecně prospěšné společnosti) již nyní podléhají zákonu č. 563/1991 Sb., o účetnictví, a mají povinnost zveřejňovat účetní závěrky ve veřejném rejstříku. Požadavek na detailní zveřejňování všech konkrétních výdajů nad rámec stávajících zákonných povinností je politickým návrhem, nikoliv platnou legislativou."
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_00.jpg",
+      "context": "Neziskové organizace (spolky, ústavy, obecně prospěšné společnosti) již nyní podléhají zákonu č. 563/1991 Sb., o účetnictví, a mají povinnost zveřejňovat účetní závěrky ve veřejném rejstříku. Požadavek na detailní zveřejňování každého výdaje nad rámec stávající legislativy je politickým návrhem, nikoliv stávající právní povinností."
     },
     {
       "text": "Plánujeme a připravujeme zákon, abychom od roku 2027 zrušili poplatky všem.",
@@ -104,17 +104,17 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/01:45",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2775_highlight_01.jpg",
-      "context": "Nelze nezávisle ověřit. Neexistuje žádný oficiální vládní ani legislativní návrh, který by plošně rušil veškeré poplatky (např. správní, soudní či regulační) od roku 2027; jde o politický příslib opozičního subjektu."
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Neexistuje žádný oficiální vládní ani legislativní návrh, který by plošně rušil veškeré poplatky v ČR od roku 2027; jde o politický příslib SPD."
     },
     {
-      "text": "Navrhuje, aby se od roku 2026 minimální vyměřovací základ zastavil na 35 % průměrné mzdy a dál už nerostl.",
+      "text": "My jako SPD navrhujeme, aby se od roku 2026 minimální vyměřovací základ zastavil na 35 % průměrné mzdy a dál už nerostl.",
       "type": "citation",
       "speaker": "Lucie Šafránková",
       "affiliation": "SPD",
-      "timestamp": "1/05:09",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2775_highlight_02.jpg",
-      "context": "Jedná se o politický návrh SPD. Aktuální legislativa (zákon č. 589/1992 Sb.) upravuje minimální vyměřovací základ pro OSVČ postupně směrem nahoru; zastavení na 35 % průměrné mzdy by vyžadovalo novelizaci tohoto zákona."
+      "timestamp": "1/09:28",
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_02.jpg",
+      "context": "Minimální vyměřovací základ pro osoby samostatně výdělečně činné (OSVČ) je v současnosti navázán na průměrnou mzdu a zákonem č. 349/2023 Sb. bylo rozhodnuto o jeho postupném zvyšování. Návrh na zastavení růstu na 35 % je legitimním politickým návrhem SPD, který by vyžadoval novelizaci zákona č. 589/1992 Sb., o pojistném na sociální zabezpečení."
     },
     {
       "text": "Prosazujeme zrychlené schválení zamrazení platů politiků až do roku 2029.",
@@ -122,26 +122,18 @@
       "speaker": "Irena Němcová",
       "affiliation": "SPD",
       "timestamp": "1/20:40",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2775_highlight_03.jpg",
-      "context": "Vláda ČR v roce 2024 schválila návrh na úpravu platů ústavních činitelů, který počítá s jejich zmrazením či omezením růstu. Návrh na zmrazení až do roku 2029 je politickým požadavkem SPD, který přesahuje aktuální vládní legislativní záměr."
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_03.jpg",
+      "context": "Vláda ČR v roce 2024 schválila návrh na úpravu platů ústavních činitelů, který počítá s jejich zmrazením či omezením růstu. Konkrétní parametry a délka trvání zmrazení jsou předmětem probíhajícího legislativního procesu v Poslanecké sněmovně."
     }
   ],
   "controversial": [
     {
-      "statement": "**Jindřich Rajchl (SPD)**\n* **Co:** Podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy bydliště a podněcování ke žhářskému útoku.\n* **Proč:** Jde o přímou výhružku rodině politika, což je vnímáno jako překročení hranic politické debaty.\n* **Čas:** 1/14:03",
+      "statement": "**Kdo:** Jindřich Rajchl (SPD)\n**Co:** Podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy bydliště a podněcování ke žhářskému útoku.\n**Proč:** Jde o přímé ohrožení rodiny politika, což je vnímáno jako bezprecedentní překročení hranic politické kultury.\n**Čas:** 1/14:03",
       "speaker": "Jindřich Rajchl",
       "affiliation": "SPD",
       "timestamp": "1/14:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2775_controversy_00.jpg",
-      "context": "Trestní oznámení je právní úkon, jehož podání je ověřitelným faktem, nicméně pravdivost tvrzení o podněcování ke žhářství a výhružkách musí posoudit orgány činné v trestním řízení. Nelze nezávisle ověřit bez přístupu k policejnímu spisu."
-    },
-    {
-      "statement": "**Zuzana Majerová (SPD)**\n* **Co:** Označení agrese NATO vůči Jugoslávii za „zvěrstvo“ a „humanitární bombardování“.\n* **Proč:** Jde o kontroverzní interpretaci historické události, která je v přímém rozporu s oficiálním postojem české zahraniční politiky a spojenců v NATO.\n* **Čas:** 1/16:07",
-      "speaker": "Zuzana Majerová",
-      "affiliation": "SPD",
-      "timestamp": "1/16:07",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2775_controversy_01.jpg",
-      "context": "Termín „humanitární bombardování“ je široce používaný publicistický obrat pro intervenci NATO v Jugoslávii v roce 1999. Hodnocení události jako „zvěrstva“ je subjektivní politický názor, který se rozchází s oficiální interpretací tehdejší české vlády a spojenců v NATO, kteří akci zdůvodňovali jako reakci na etnické čistky."
+      "screenshot_path": "summaries/screenshots/event_2775_controversy_00.jpg",
+      "context": "Podání trestního oznámení je právem každého občana dle trestního řádu. Zda došlo k naplnění skutkové podstaty trestného činu (např. podněcování k trestnému činu dle § 364 trestního zákoníku), musí posoudit orgány činné v trestním řízení, nikoliv politická deklarace."
     }
   ],
   "quality": {

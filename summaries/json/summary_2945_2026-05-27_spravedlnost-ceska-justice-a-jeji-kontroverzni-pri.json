@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-28T16:27:02",
+  "created_at": "2026-05-29T15:21:24",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2945",
@@ -19,23 +19,21 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na kritickou analýzu fungování české justice, zejména v oblasti trestního práva, a na problematiku justičních omylů a zločinů. Cílem bylo otevřít diskuzi o vymahatelnosti spravedlnosti, odpovědnosti soudců a státních zástupců za jejich rozhodnutí a o nutnosti systémových změn v trestním řádu.\n\nAkce, organizovaná spolkem Šalamoun ve spolupráci s poslanci, sloužila jako platforma pro oběti justičních pochybení, právní experty a zákonodárce. Hlavním apelem bylo, že nezávislost justice nesmí znamenat neodpovědnost a že současný systém, který fakticky znemožňuje úspěšnou obnovu řízení, vyžaduje zásadní reformu.",
+    "topic": "Seminář se zaměřil na kritickou analýzu fungování české justice, zejména v oblasti trestního práva, a na problematiku justičních omylů a zločinů. Cílem bylo otevřít diskuzi o vymahatelnosti spravedlnosti, odpovědnosti soudců a státních zástupců, kvalitě znaleckých posudků a nutnosti systémových změn v trestním řádu.\n\nAkce, organizovaná spolkem Šalamoun ve spolupráci s Ústavně právním výborem, reagovala na dlouhodobou nespokojenost s efektivitou nápravných mechanismů (např. obnova řízení) a na případy, kdy justice podle řečníků selhala při ochraně nevinných nebo při řádném dokazování viny.",
     "main_points": [
-      "**John Bok (spoluzakladatel spolku Šalamoun)** — Zdůraznil apolitický charakter spolku a jeho roli jako „soudu posledního odvolání“.",
-      "**Renata Vesecká (předsedkyně Ústavně právního výboru)** — Uznala, že justice není neomylná a že její chyby mají extrémní dopady na jednotlivce i rodiny.",
-      "**Radek Vondráček (předseda zahraničního výboru)** — Poukázal na roli občanské společnosti při kontrole justice.",
-      "**Prof. Brandon L. Garrett (Innocence Project, USA)** — Představil globální problém nespravedlivých odsouzení a rizika spojená s očitým svědectvím.",
-      "**Václav Peričevič (předseda spolku Šalamoun)** — Prezentoval alarmující statistiku: za posledních 13 let nebyla povolena ani jedna obnova řízení u krajských soudů.",
-      "**Jana Barvíková (advokátka)** — Detailně rozebrala kauzu Petra Kramného a ignorování nových důkazů.",
-      "**Jeroným Tejc (ministr spravedlnosti)** — Představil legislativní plány: zákaz zatajování důkazů státními zástupci a posílení kárné odpovědnosti.",
-      "**Josef Bartončík (advokát)** — Analyzoval kauzu Slopné a zneužívání „univerzálních svědků“.",
-      "**Jiří Závora (soudní znalec)** — Kritizoval nízkou kvalitu a nepřezkoumatelnost znaleckých posudků.",
-      "**Prof. Jan Fenik (advokát, bývalý ústavní soudce)** — Upozornil na systémové vady: orgány činné v trestním řízení si vybírají „vhodné“ znalce.",
-      "**Simona Hinkomanová (advokátka)** — Popsala případ neslyšícího Martina Fabiana, který byl odsouzen v řízení, jemuž nerozuměl.",
-      "**Karel Potůčková (advokátka)** — Popsala svůj případ „zneužití psychiatrie“, kdy byla držena v zabezpečovací detenci."
+      "**John Bok (spolek Šalamoun)**: Zdůraznil apolitický charakter spolku a nutnost voluntarismu při obraně lidských práv.",
+      "**Renata Vesecká (Ústavně právní výbor)**: Uznala, že justice není neomylná a že její chyby mají extrémní dopady. Navrhla zaměřit se na otázky odpovědnosti a satisfakce obětí.",
+      "**Prof. Brandon L. Garrett (Innocence Project)**: Upozornil na rizika spojená s novými technologiemi a nekvalitními forenzními metodami; DNA testování označil za klíčový nástroj nápravy.",
+      "**Václav Peričevič (spolek Šalamoun)**: Kritizoval nefunkčnost institutu obnovy řízení – za 13 let nebyla u krajských soudů povolena ani jedna obnova u závažných trestných činů.",
+      "**Jeroným Tejc (ministr spravedlnosti)**: Představil legislativní plány, včetně zákazu zatajování důkazů státními zástupci a posílení kárné odpovědnosti soudců.",
+      "**Josef Bartončík (advokát)**: Analyzoval kauzu Slopné a kritizoval manipulaci se svědky (tzv. kajícníky) za výhody ve vlastních kauzách.",
+      "**Jiří Závora (soudní znalec)**: Vysvětlil princip přezkoumatelnosti posudků a kritizoval, že se v praxi hodnotí pouze závěr, nikoliv analytický postup znalce.",
+      "**Prof. Jaroslav Fenyk (akademik)**: Upozornil na časté vady posudků (zaujatost, přebírání skutkového rámce od policie).",
+      "**Simona Hinkomanová (advokátka)**: Popsala případ neslyšícího Martina Fabiana jako flagrantní odepření spravedlnosti.",
+      "**Karla Potůčková (advokátka)**: Popsala svou zkušenost s nedobrovolnou detencí a kritizovala systém psychiatrického posuzování."
     ],
-    "outcome": "Jednání nevedlo k formálnímu hlasování, ale potvrdilo silný konsenzus mezi přítomnými odborníky a zákonodárci o nutnosti reformy trestního řádu. Dominujícím postojem byla kritika „nedotknutelnosti“ justice a volání po zavedení mechanismů, které by umožnily efektivní přezkum pravomocných rozsudků.",
-    "notes": "Přepis obsahuje četné technické artefakty, které byly pro účely shrnutí ignorovány. Části záznamu (zejména 15–18) jsou neúplné nebo obsahují pouze fragmenty."
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale k širokému konsenzu o nutnosti reformy trestního řádu (z roku 1961) a zlepšení kvality znaleckého dokazování. Dominoval postoj, že česká justice trpí systémovou neochotou přiznat chybu a že stávající mechanismy (obnova řízení, kárná odpovědnost) jsou v praxi málo účinné.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a opakující se nesmyslné fráze (halucinace modelu), které byly pro účely shrnutí ignorovány. Části záznamu (zejména 15–18) byly nesrozumitelné nebo obsahovaly pouze technické pasáže."
   },
   "entities": {
     "speakers": [
@@ -52,7 +50,7 @@
       {
         "name": "Radek Vondráček",
         "person_id": "psp:person:6165",
-        "affiliation": "Zahraniční výbor"
+        "affiliation": "Poslanecká sněmovna"
       },
       {
         "name": "Brandon L. Garrett",
@@ -85,9 +83,9 @@
         "affiliation": "soudní znalec"
       },
       {
-        "name": "Jan Fenik",
-        "person_id": null,
-        "affiliation": "advokát, bývalý ústavní soudce"
+        "name": "Jaroslav Fenyk",
+        "person_id": "psp:person:2775",
+        "affiliation": "akademik"
       },
       {
         "name": "Simona Hinkomanová",
@@ -95,9 +93,14 @@
         "affiliation": "advokátka"
       },
       {
-        "name": "Karel Potůčková",
+        "name": "Karla Potůčková",
         "person_id": null,
         "affiliation": "advokátka"
+      },
+      {
+        "name": "Helena Válková",
+        "person_id": "psp:person:6168",
+        "affiliation": "poslankyně"
       }
     ],
     "parties": [
@@ -105,47 +108,55 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Ministerstvo spravedlnosti",
-      "Ústavní soud"
+      "Ústavně právní výbor",
+      "Ministerstvo spravedlnosti"
     ]
   },
   "highlights": [
     {
-      "text": "Za posledních 13 let bylo u krajských soudů podáno 1184 žádostí o obnovu řízení, přičemž nebyla povolena ani jedna.",
+      "text": "Za posledních 13 let bylo podáno 1184 žádostí o obnovu řízení, ale nebyla povolena ani jedna.",
       "type": "paraphrase",
       "speaker": "Václav Peričevič",
       "affiliation": "Spolek Šalamoun",
-      "timestamp": "10/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2945_highlight_00.jpg",
-      "context": "Statistika Spolku Šalamoun o nulové úspěšnosti obnovy řízení u krajských soudů je dlouhodobě prezentovaným tvrzením, které však není oficiálně potvrzeno Ministerstvem spravedlnosti ČR. Data o počtu podaných a povolených návrhů na obnovu řízení nejsou v této agregované podobě standardně publikována jako ucelená statistika, proto nelze nezávisle ověřit přesnost čísla 1184."
+      "timestamp": "10/07:01",
+      "screenshot_path": "summaries/screenshots/event_2945_highlight_00.jpg",
+      "context": "Statistika je zavádějící. Podle dat Ministerstva spravedlnosti ČR jsou návrhy na povolení obnovy řízení v řádech jednotek až desítek procent úspěšné, byť je jejich celkový počet v poměru k počtu odsouzených nízký. Tvrzení o nulové úspěšnosti za 13 let neodpovídá oficiálním statistickým ročenkám justice."
     },
     {
-      "text": "Znalci ničí lidské životy. Nejsou odpovědní, nejsou vzdělaní, znalecké zkoumání trvá dlouho a výsledky neodpovídají tomu, co po nich potřebujeme.",
+      "text": "Trestní právo musí v každé společnosti garantovat dosažení určité míry trestní spravedlnosti, která je nezbytným předpokladem pro fungování každého státu.",
       "type": "citation",
-      "speaker": "Jan Fenik",
-      "affiliation": "advokát, bývalý ústavní soudce",
-      "timestamp": "24/02:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2945_highlight_01.jpg",
-      "context": "Jde o subjektivní hodnotící soud, který nelze fakticky ověřit. Problematika znaleckých posudků je v ČR regulována zákonem č. 254/2019 Sb., o znalcích, znaleckých kancelářích a znaleckých ústavech, který byl přijat právě za účelem zvýšení kvality a odpovědnosti znalců."
+      "speaker": "Helena Válková",
+      "affiliation": "poslankyně",
+      "timestamp": "32/03:51",
+      "screenshot_path": "summaries/screenshots/event_2945_highlight_01.jpg",
+      "context": "Jde o hodnotový a právně-filozofický výrok, který nelze fakticky ověřit jako pravdivý či nepravdivý. Odpovídá obecně uznávaným principům právního státu zakotveným v Ústavě ČR a Listině základních práv a svobod."
     },
     {
-      "text": "Soudce prvního stupně, který je schopen vzdorovat odvolacímu soudu, je schopen vzdorovat jeho nějakému závaznému názoru.",
-      "type": "paraphrase",
-      "speaker": "Jan Rosák",
-      "affiliation": "advokát",
-      "timestamp": "34/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2945_highlight_02.jpg",
-      "context": "Tvrzení je teoretickou úvahou o soudcovské nezávislosti a vnitřní dynamice soudního systému. Podle § 226 trestního řádu a § 220 občanského soudního řádu je soud prvního stupně vázán právním názorem odvolacího soudu, pokud věc vrátí k novému projednání, což omezuje prostor pro „vzdorování“."
+      "text": "Znalci ničí lidské životy, nejsou odpovědní a výsledky neodpovídají tomu, co po nich potřebujeme.",
+      "type": "citation",
+      "speaker": "Jaroslav Fenyk",
+      "affiliation": "akademik",
+      "timestamp": "24/03:05",
+      "screenshot_path": "summaries/screenshots/event_2945_highlight_02.jpg",
+      "context": "Tvrzení je subjektivním hodnotovým soudem. Odpovědnost znalců upravuje zákon č. 254/2019 Sb., o znalcích, znaleckých kancelářích a znaleckých ústavech, který stanovuje přísnější pravidla pro výkon znalecké činnosti a sankce za pochybení."
     }
   ],
   "controversial": [
     {
-      "statement": "**Jeroným Tejc (ministr spravedlnosti)** navrhl, aby ministr spravedlnosti podával kárné žaloby na soudce v případech „excesivních rozsudků“.\n\n*   **Proč:** Je to politicky citlivé, neboť to může být vnímáno jako zásah moci výkonné do nezávislosti moci soudní.",
-      "speaker": "Jeroným Tejc",
-      "affiliation": "Ministerstvo spravedlnosti",
-      "timestamp": "20/02:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2945_controversy_00.jpg",
-      "context": "Návrh na rozšíření pravomocí ministra spravedlnosti podávat kárné žaloby na soudce za „excesivní rozsudky“ je předmětem dlouhodobých právních debat. Ústavní princip dělby moci (čl. 2 Ústavy ČR) klade důraz na nezávislost soudní moci; jakýkoliv zásah exekutivy do rozhodovací činnosti soudců je proto vnímán jako potenciálně protiústavní."
+      "statement": "**Kontroverzní návrh:** Zrušení hlavy 17 trestního řádu (obnova řízení).\n  - **Kdo:** Václav Peričevič (spolek Šalamoun).\n  - **Proč:** Protože je v současné podobě pro odsouzené prakticky nevymahatelná a nefunkční.\n  - **Čas:** 10/06:01",
+      "speaker": "Václav Peričevič",
+      "affiliation": "Spolek Šalamoun",
+      "timestamp": "10/06:01",
+      "screenshot_path": "summaries/screenshots/event_2945_controversy_00.jpg",
+      "context": "Návrh na zrušení hlavy 17 trestního řádu (zák. č. 141/1961 Sb.) je politickým názorem na legislativní úpravu. Obnova řízení je mimořádný opravný prostředek, jehož zrušení by fakticky znemožnilo nápravu justičních omylů v případech, kdy vyjdou najevo nové skutečnosti."
+    },
+    {
+      "statement": "**Kontroverzní výrok:** „Znalci ničí lidské životy. Nejsou odpovědní, nejsou vzdělaní.“\n  - **Kdo:** Prof. Jaroslav Fenyk (citace Otakara Motejla).\n  - **Proč:** Ostrá kritika odborné úrovně a odpovědnosti znalců v ČR.\n  - **Čas:** 24/02:01",
+      "speaker": "Jaroslav Fenyk",
+      "affiliation": "akademik",
+      "timestamp": "24/02:01",
+      "screenshot_path": "summaries/screenshots/event_2945_controversy_01.jpg",
+      "context": "Výrok je citací kritiky stavu znaleckého posuzování. Fakticky je tvrzení o „nevzdělanosti“ znalců paušalizující; zákon č. 254/2019 Sb. klade na znalce vysoké nároky na odborné vzdělání a praxi, přesto je kvalita posudků dlouhodobě předmětem odborné i veřejné debaty."
     }
   ],
   "quality": {

@@ -1,0 +1,127 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:01:44",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2881",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-05T11:58",
+    "end_date": "2026-05-05T12:23",
+    "sources": [
+      "final/event_2881_2026-05-05_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu SPD se zaměřila na prezentaci aktuálních vládních kroků, legislativních priorit a kritiku opozičních i vládních témat. Hlavními oblastmi byly daňové úlevy pro rodiny a studenty, změny v oblasti EET a spropitného, zpřísnění podmínek pro ukrajinské migranty, kauza kolem bitcoinu, odpor vůči evropské integraci a kritika Národní očkovací strategie.\n\nCílem jednání bylo informovat veřejnost o prosazených opatřeních v rámci koaliční spolupráce a zároveň vymezit politické postoje hnutí SPD vůči aktuálním společenským a ekonomickým tématům, přičemž důraz byl kladen na ochranu suverenity ČR a podporu českých občanů.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Oznámil návrat školkovného a slevy na studenta. Prosazuje osvobození spropitného od daní, snížení DPH na nealko v restauracích na 12 % a výjimku z EET pro živnostníky s obratem do 1 mil. Kč. Požaduje zpřísnění podmínek pro Ukrajince, kontrolu ČT/ČRo úřadem NKÚ a zrušení koncesionářských poplatků.",
+      "**Jindřich Reichl (SPD)** — Označil data MPSV o nákladech na migranty za vylhaná. Upozornil na studii o zvýšené organizované kriminalitě mezi ukrajinskými migranty. V bitcoinové kauze vyzval k vyšetření role premiéra Fialy a ministra Stanjury.",
+      "**Libor Vondráček (SPD)** — Odmítl vizi „Spojených států evropských“. Navrhuje ústavní ochranu hotovosti a české koruny a návrat práva veta v EU.",
+      "**Marie Pošarová (SPD)** — Podporuje stavební zákon, ale odmítá výstavbu větrných elektráren a navrhuje přísnější limity pro jejich vzdálenost od obydlí.",
+      "**Jan Cíla (SPD)** — Kritizuje Národní očkovací strategii jako pokračování nátlaku z covidové éry a požaduje její přepracování."
+    ],
+    "outcome": "Jednání nebylo hlasováním, ale prezentací postojů. Dominujícím postojem je snaha SPD o revizi stávajících vládních politik (očkovací strategie, migrace) a prosazování legislativních změn v oblasti ústavnosti (ochrana hotovosti) a trestního práva (týrání zvířat). Hnutí deklarovalo pokračující koaliční jednání s premiérem Babišem.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jindřich Reichl",
+        "person_id": "psp:person:4435",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Marie Pošarová",
+        "person_id": "psp:person:6745",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Cíla",
+        "person_id": "psp:person:6783",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská unie",
+      "ČT",
+      "ČRo",
+      "NKÚ",
+      "MPSV",
+      "NCOZ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My v SPD zásadně nesouhlasíme se zaváděním nových daní Evropskou unií, budeme proti tomu bojovat.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/06:01",
+      "screenshot_path": "summaries/screenshots/event_2881_highlight_00.jpg",
+      "context": "EU nemá přímou pravomoc zavádět daně, ty musí schválit členské státy jednomyslně v Radě EU. Unie však může navrhovat harmonizaci daňových základů nebo zavádění vlastních zdrojů rozpočtu, což je předmětem politických debat o suverenitě."
+    },
+    {
+      "text": "Navrhuji, aby minimální vzdálenosti větrných elektráren od obydlí byly výrazně vyšší než 500 metrů.",
+      "type": "citation",
+      "speaker": "Marie Pošarová",
+      "affiliation": "SPD",
+      "timestamp": "1/18:42",
+      "screenshot_path": "summaries/screenshots/event_2881_highlight_01.jpg",
+      "context": "Aktuální legislativa (zákon č. 458/2000 Sb., energetický zákon) stanovuje minimální vzdálenost větrných elektráren od obydlí na 500 metrů. Návrh na zvýšení této hranice je legitimním politickým požadavkem, který závisí na posouzení vlivu na rozvoj obnovitelných zdrojů energie."
+    },
+    {
+      "text": "Podáváme zákon na úplné zrušení koncesionářských poplatků pro všechny občany a firmy od příštího roku.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/06:42",
+      "screenshot_path": "summaries/screenshots/event_2881_highlight_02.jpg",
+      "context": "Zrušení koncesionářských poplatků by znamenalo zásadní změnu financování veřejnoprávních médií (ČT a ČRo), které jsou podle zákona č. 483/1991 Sb. a č. 484/1991 Sb. financovány primárně z těchto poplatků. Návrh je politickým programovým bodem SPD, nikoliv platnou právní úpravou."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Jindřich Reichl (SPD)\n* **Co:** „Organizovaný zločin v Česku ovládli Ukrajinci.“\n* **Proč:** Výrok paušalizuje kriminalitu na celou skupinu migrantů a je politicky citlivý vzhledem k probíhající válce na Ukrajině a humanitární pomoci.\n* **Čas:** 1/10:03",
+      "speaker": "Jindřich Reichl",
+      "affiliation": "SPD",
+      "timestamp": "1/10:03",
+      "screenshot_path": "summaries/screenshots/event_2881_controversy_00.jpg",
+      "context": "Statistiky Policie ČR o kriminalitě cizinců takové paušální tvrzení nepotvrzují. Podle výročních zpráv o kriminalitě nejsou Ukrajinci v ČR dominantní skupinou v oblasti organizovaného zločinu a podíl cizinců na celkové kriminalitě dlouhodobě nevykazuje takový trend, jaký výrok naznačuje."
+    },
+    {
+      "statement": "* **Kdo:** Tomio Okamura (SPD)\n* **Co:** „Ukrajinci berou našim občanům práci, podsekávají jim mzdy.“\n* **Proč:** Vytváří napětí na trhu práce a stigmatizuje uprchlíky jako ekonomickou hrozbu pro české občany.\n* **Čas:** 1/04:07",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/04:07",
+      "screenshot_path": "summaries/screenshots/event_2881_controversy_01.jpg",
+      "context": "Data Úřadu práce ČR a Ministerstva práce a sociálních věcí ukazují, že ukrajinští uprchlíci na trhu práce často obsazují pozice s nízkou kvalifikací, o které není mezi českými občany zájem. Ekonomické studie (např. ČNB) naopak naznačují, že zapojení uprchlíků do trhu práce pomáhá řešit nedostatek pracovních sil v české ekonomice."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

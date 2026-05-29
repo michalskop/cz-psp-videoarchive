@@ -1,52 +1,54 @@
 ## 1. Téma a účel jednání
 
-Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních politických priorit, legislativních návrhů a personálních změn v poslaneckém klubu. Hlavními tématy byla transparentnost financování neziskových organizací, plánované zrušení koncesionářských poplatků České televize, podpora živnostníků a revize zdravotnické legislativy.
+Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních politických priorit, legislativních návrhů a personálních změn v poslaneckém klubu. Hlavními tématy byly transparentnost financování neziskových organizací, plánované zrušení koncesionářských poplatků České televize, podpora živnostníků, revize národní očkovací strategie a zřízení vyšetřovací komise ke kauze Dozimetr.
 
-Kromě legislativních bodů se zástupci hnutí věnovali i kauzám týkajícím se korupce (Dozimetr), bezpečnosti politiků a zahraničněpolitickým postojům, včetně kritiky agrese NATO vůči Jugoslávii. Cílem konference bylo informovat veřejnost o postojích SPD k aktuálním vládním návrhům a zdůraznit roli hnutí jako opoziční síly hájící zájmy občanů a národní suverenitu.
+Cílem konference bylo informovat veřejnost o postojích hnutí k vládním krokům, zdůraznit důraz na národní suverenitu a fiskální odpovědnost a představit nového člena klubu. Zároveň byla vyjádřena kritika vůči současnému vládnímu kabinetu v oblastech zdravotnictví, zemědělské politiky a přístupu k inkluzi ve školství.
+
+---
 
 ## 2. Hlavní body
 
 *   **Tomio Okamura (SPD)**
-    *   **Neziskové organizace:** Prosazuje zprůhlednění financování neziskových organizací (veřejný registr dotací, povinnost zveřejňovat výdaje). Organizace s politickou činností financované ze zahraničí budou muset být označeny.
-    *   **Česká televize:** Plánuje zrušení koncesionářských poplatků od roku 2027. Proces bude dvoufázový: v první fázi zrušení pro seniory 75+, nezaopatřené děti do 26 let, firmy a zdravotně postižené.
+    *   **Neziskové organizace:** Prosazuje zprůhlednění financování (veřejný registr dotací) a povinnost označovat politicky aktivní neziskové organizace financované ze zahraničí. Cílem je zamezit využívání veřejných peněz pro politický aktivismus.
+    *   **Česká televize:** Plánuje zrušení koncesionářských poplatků od roku 2027. Proces bude dvoufázový: v první fázi zrušení pro seniory 75+, nezaopatřené děti do 26 let, firmy a zdravotně postižené, následně plošné zrušení.
 *   **Radim Fiala (SPD)**
-    *   **Personální změna:** Představil nového člena klubu, Mgr. Josefa Nerušila, který nahradil Markétu Šichtařovou. Nerušil bude působit ve Výboru pro evropské záležitosti.
+    *   **Personální změna:** Představil nového člena poslaneckého klubu SPD, Mgr. Josefa Nerušila, který nahradil Markétu Šichtařovou. Nerušil se bude věnovat Výboru pro evropské záležitosti.
 *   **Lucie Šafránková (SPD)**
-    *   **Živnostníci:** SPD navrhuje zastropování minimálního vyměřovacího základu pro živnostníky na 35 % průměrné mzdy (vláda plánuje 40 % do roku 2026). Argumentuje ochranou podnikatelů před inflací a vysokými náklady.
+    *   **Živnostníci:** SPD prosazuje zastropování minimálního vyměřovacího základu na 35 % průměrné mzdy od roku 2026 (vládní návrh počítá se 40 %). Argumentuje ochranou živnostníků před inflací a vysokými náklady.
 *   **Jan Síla (SPD)**
-    *   **Zdravotnictví:** SPD nepodpoří novelu zákona o pojistném, která přesouvá 7,8 mld. Kč z VZP na oborové pojišťovny. Kritizuje ministra Válka za deficitní úhradové vyhlášky a nezvládnutí situace s uprchlíky.
-    *   **Očkování:** SPD souhlasí s povinným očkováním, ale odmítá nátlak (včetně finančního) u doporučených očkování (např. chřipka).
+    *   **Zdravotnictví:** SPD nepodpoří novelu zákona o pojistném na veřejné zdravotní pojištění, která přesouvá 7,8 miliardy Kč oborovým pojišťovnám na úkor VZP. Kritizuje ministra Válka za deficitní úhradové vyhlášky a nezvládnutí situace s uprchlíky.
+    *   **Očkování:** SPD odmítá nátlak na očkování (včetně finančního) a požaduje revizi národní očkovací strategie, aby zůstala zachována dobrovolnost.
 *   **Jindřich Rajchl (SPD)**
-    *   **Kauza Dozimetr:** Ocenil zřízení vyšetřovací komise k této kauze, kterou považuje za ohrožení demokracie.
-    *   **Bezpečnost:** Podal trestní oznámení na Vojtěcha Pšenáka za zveřejnění adresy svého bydliště a podněcování ke žhářskému útoku.
+    *   **Kauza Dozimetr:** Vyzdvihl zřízení vyšetřovací komise k této kauze, kterou považuje za ohrožení demokracie.
+    *   **Bezpečnost:** Oznámil podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy jeho bydliště a podněcování ke žhářskému útoku.
 *   **Zuzana Majerová (SPD)**
-    *   **Symbolika a školství:** Navrhuje zákonné zakotvení zemských znaků a vlajek. V oblasti školství požaduje razantní revizi plošné inkluze.
-    *   **Výročí:** Připomněla 27. výročí bombardování Jugoslávie, které označila za „zvěrstvo“.
+    *   **Symbolika a školství:** Podporuje zákon o zemských znacích a vlajkách. V oblasti školství prosazuje revizi plošné inkluze.
+    *   **Zahraniční politika:** Připomněla 27. výročí bombardování Jugoslávie, které označila za „zvěrstvo“ a počátek narušení evropského paradigmatu.
 *   **Marie Pošarová (SPD)**
-    *   **Zemědělství:** Upozornila na nedostatek a růst cen hnojiv kvůli konfliktu v Íránu, což ohrožuje potravinovou bezpečnost.
+    *   **Zemědělství:** Varovala před nedostatkem hnojiv v důsledku konfliktu v Íránu a růstem cen potravin. Požaduje vládní opatření pro stabilizaci trhu.
 *   **Irena Němcová (SPD)**
-    *   **Platy politiků:** Prosazuje zrychlené schválení zmrazení platů politiků až do roku 2029.
+    *   **Platy politiků:** Požaduje zrychlené schválení zmrazení platů politiků až do roku 2029 jako projev solidarity s občany.
+
+---
 
 ## 3. Výsledek / závěr
 
-Jednání nemělo charakter hlasování, šlo o tiskovou konferenci. Dominujícím postojem SPD je odmítání vládních kroků v oblasti zvyšování odvodů, kritika zdravotnické politiky ministra Válka a prosazování legislativy zaměřené na „národní suverenitu“ a úspory v politickém sektoru.
+Jednání bylo informativní tiskovou konferencí, nikoliv hlasovacím orgánem. Dominujícím postojem SPD je opozice vůči vládní politice v otázkách financování neziskových organizací, zdravotnictví a inkluze. Hnutí deklarovalo své legislativní priority pro nadcházející schůze Sněmovny, zejména v oblasti ekonomické podpory živnostníků a zmrazení platů politiků.
+
+---
 
 ## 4. Poznámky
 
-Přepis obsahuje občasné chyby v diakritice a drobné gramatické nesrovnalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu.
+Přepis obsahuje občasné opakující se fráze (např. „všichni zrušení poplatků“), které byly pro účely shrnutí ignorovány. Části týkající se technických detailů legislativního procesu byly interpretovány v kontextu politických cílů řečníků.
 
 ---
 
 ## Doplňující otázky
 
-*   **Jindřich Rajchl (SPD)**
-    *   **Co:** Podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy bydliště a podněcování ke žhářskému útoku.
-    *   **Proč:** Jde o přímou výhružku rodině politika, což je vnímáno jako překročení hranic politické debaty.
-    *   **Čas:** 1/14:03
-*   **Zuzana Majerová (SPD)**
-    *   **Co:** Označení agrese NATO vůči Jugoslávii za „zvěrstvo“ a „humanitární bombardování“.
-    *   **Proč:** Jde o kontroverzní interpretaci historické události, která je v přímém rozporu s oficiálním postojem české zahraniční politiky a spojenců v NATO.
-    *   **Čas:** 1/16:07
+*   **Kdo:** Jindřich Rajchl (SPD)
+*   **Co:** Podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy bydliště a podněcování ke žhářskému útoku.
+*   **Proč:** Jde o přímé ohrožení rodiny politika, což je vnímáno jako bezprecedentní překročení hranic politické kultury.
+*   **Čas:** 1/14:03
 
 ---
 
@@ -54,16 +56,16 @@ Přepis obsahuje občasné chyby v diakritice a drobné gramatické nesrovnalost
 
 *   **Text:** „Chceme, aby neziskové organizace pobírající veřejné peníze měly povinnost transparentně zveřejňovat své konkrétní výdaje.“ (parafráze)
     *   **Řečník:** Tomio Okamura (SPD)
-    *   **Čas:** 1/00:00
+    *   **Čas:** 1/00:30
 *   **Text:** „Plánujeme a připravujeme zákon, abychom od roku 2027 zrušili poplatky všem.“ (citace)
     *   **Řečník:** Tomio Okamura (SPD)
-    *   **Čas:** 1/02:00
-*   **Text:** „Navrhuje, aby se od roku 2026 minimální vyměřovací základ zastavil na 35 % průměrné mzdy a dál už nerostl.“ (citace)
+    *   **Čas:** 1/01:45
+*   **Text:** „My jako SPD navrhujeme, aby se od roku 2026 minimální vyměřovací základ zastavil na 35 % průměrné mzdy a dál už nerostl.“ (citace)
     *   **Řečník:** Lucie Šafránková (SPD)
-    *   **Čas:** 1/04:02
+    *   **Čas:** 1/04:45
 *   **Text:** „Prosazujeme zrychlené schválení zamrazení platů politiků až do roku 2029.“ (citace)
     *   **Řečník:** Irena Němcová (SPD)
-    *   **Čas:** 1/20:00
+    *   **Čas:** 1/20:15
 
 ---
 
@@ -89,19 +91,19 @@ Přepis obsahuje občasné chyby v diakritice a drobné gramatické nesrovnalost
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních politických priorit, legislativních návrhů a personálních změn v poslaneckém klubu. Hlavními tématy byla transparentnost financování neziskových organizací, plánované zrušení koncesionářských poplatků České televize, podpora živnostníků a revize zdravotnické legislativy.\n\nKromě legislativních bodů se zástupci hnutí věnovali i kauzám týkajícím se korupce (Dozimetr), bezpečnosti politiků a zahraničněpolitickým postojům, včetně kritiky agrese NATO vůči Jugoslávii. Cílem konference bylo informovat veřejnost o postojích SPD k aktuálním vládním návrhům a zdůraznit roli hnutí jako opoziční síly hájící zájmy občanů a národní suverenitu.",
+    "topic": "Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních politických priorit, legislativních návrhů a personálních změn v poslaneckém klubu. Hlavními tématy byly transparentnost financování neziskových organizací, plánované zrušení koncesionářských poplatků České televize, podpora živnostníků, revize národní očkovací strategie a zřízení vyšetřovací komise ke kauze Dozimetr.\n\nCílem konference bylo informovat veřejnost o postojích hnutí k vládním krokům, zdůraznit důraz na národní suverenitu a fiskální odpovědnost a představit nového člena klubu. Zároveň byla vyjádřena kritika vůči současnému vládnímu kabinetu v oblastech zdravotnictví, zemědělské politiky a přístupu k inkluzi ve školství.",
     "main_points": [
-      "**Tomio Okamura (SPD)** — Prosazuje zprůhlednění financování neziskových organizací (veřejný registr dotací, povinnost zveřejňovat výdaje). Plánuje zrušení koncesionářských poplatků České televize od roku 2027 (dvoufázově).",
-      "**Radim Fiala (SPD)** — Představil nového člena klubu, Mgr. Josefa Nerušila, který nahradil Markétu Šichtařovou.",
-      "**Lucie Šafránková (SPD)** — Navrhuje zastropování minimálního vyměřovacího základu pro živnostníky na 35 % průměrné mzdy.",
-      "**Jan Síla (SPD)** — SPD nepodpoří novelu zákona o pojistném (přesun 7,8 mld. Kč). Kritizuje ministra Válka a prosazuje dobrovolnost u doporučeného očkování.",
-      "**Jindřich Rajchl (SPD)** — Ocenil zřízení vyšetřovací komise ke kauze Dozimetr. Oznámil podání trestního oznámení na Vojtěcha Pšenáka za výhrůžky žhářským útokem.",
-      "**Zuzana Majerová (SPD)** — Navrhuje zakotvení zemských znaků a vlajek. Požaduje revizi plošné inkluze ve školství. Připomněla výročí bombardování Jugoslávie.",
-      "**Marie Pošarová (SPD)** — Varovala před nedostatkem a růstem cen hnojiv kvůli konfliktu v Íránu.",
-      "**Irena Němcová (SPD)** — Prosazuje zrychlené schválení zmrazení platů politiků do roku 2029."
+      "**Tomio Okamura (SPD)** — Prosazuje zprůhlednění financování neziskových organizací (veřejný registr dotací) a povinnost označovat politicky aktivní organizace financované ze zahraničí. Plánuje dvoufázové zrušení koncesionářských poplatků ČT, s úplným zrušením od roku 2027.",
+      "**Radim Fiala (SPD)** — Představil nového člena klubu, Mgr. Josefa Nerušila, který nahradil Markétu Šichtařovou a bude působit ve Výboru pro evropské záležitosti.",
+      "**Lucie Šafránková (SPD)** — Navrhuje zastropování minimálního vyměřovacího základu pro živnostníky na 35 % průměrné mzdy od roku 2026 jako ochranu před vysokými náklady.",
+      "**Jan Síla (SPD)** — Kritizuje ministra Válka za hospodaření ve zdravotnictví a přesun 7,8 mld. Kč mezi pojišťovnami. Požaduje zachování dobrovolnosti očkování a revizi národní očkovací strategie.",
+      "**Jindřich Rajchl (SPD)** — Vyzdvihl zřízení vyšetřovací komise ke kauze Dozimetr a oznámil trestní oznámení na osobu, která zveřejnila jeho adresu a podněcovala ke žhářskému útoku na jeho dům.",
+      "**Zuzana Majerová (SPD)** — Podporuje zákon o zemských znacích a revizi inkluze ve školství. Kritizovala bombardování Jugoslávie jako historické zvěrstvo.",
+      "**Marie Pošarová (SPD)** — Varovala před nedostatkem hnojiv kvůli konfliktu v Íránu a dopady na potravinovou bezpečnost.",
+      "**Irena Němcová (SPD)** — Požaduje zrychlené schválení zmrazení platů politiků do roku 2029."
     ],
-    "outcome": "Jednání nemělo charakter hlasování, šlo o tiskovou konferenci. Dominujícím postojem SPD je odmítání vládních kroků v oblasti zvyšování odvodů, kritika zdravotnické politiky ministra Válka a prosazování legislativy zaměřené na „národní suverenitu“ a úspory v politickém sektoru.",
-    "notes": null
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nikoliv hlasovacím orgánem. Dominujícím postojem SPD je opozice vůči vládní politice v otázkách financování neziskových organizací, zdravotnictví a inkluze. Hnutí deklarovalo své legislativní priority pro nadcházející schůze Sněmovny, zejména v oblasti ekonomické podpory živnostníků a zmrazení platů politiků.",
+    "notes": "Přepis obsahuje občasné opakující se fráze (např. „všichni zrušení poplatků“), které byly pro účely shrnutí ignorovány. Části týkající se technických detailů legislativního procesu byly interpretovány v kontextu politických cílů řečníků."
   },
   "entities": {
     "speakers": [
@@ -123,42 +125,36 @@ Přepis obsahuje občasné chyby v diakritice a drobné gramatické nesrovnalost
       "type": "paraphrase",
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
-      "timestamp": "1/00:00"
+      "timestamp": "1/00:30"
     },
     {
       "text": "Plánujeme a připravujeme zákon, abychom od roku 2027 zrušili poplatky všem.",
       "type": "citation",
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
-      "timestamp": "1/02:00"
+      "timestamp": "1/01:45"
     },
     {
-      "text": "Navrhuje, aby se od roku 2026 minimální vyměřovací základ zastavil na 35 % průměrné mzdy a dál už nerostl.",
+      "text": "My jako SPD navrhujeme, aby se od roku 2026 minimální vyměřovací základ zastavil na 35 % průměrné mzdy a dál už nerostl.",
       "type": "citation",
       "speaker": "Lucie Šafránková",
       "affiliation": "SPD",
-      "timestamp": "1/04:02"
+      "timestamp": "1/04:45"
     },
     {
       "text": "Prosazujeme zrychlené schválení zamrazení platů politiků až do roku 2029.",
       "type": "citation",
       "speaker": "Irena Němcová",
       "affiliation": "SPD",
-      "timestamp": "1/20:00"
+      "timestamp": "1/20:15"
     }
   ],
   "controversial": [
     {
-      "statement": "**Jindřich Rajchl (SPD)**\n* **Co:** Podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy bydliště a podněcování ke žhářskému útoku.\n* **Proč:** Jde o přímou výhružku rodině politika, což je vnímáno jako překročení hranic politické debaty.\n* **Čas:** 1/14:03",
+      "statement": "**Kdo:** Jindřich Rajchl (SPD)\n**Co:** Podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy bydliště a podněcování ke žhářskému útoku.\n**Proč:** Jde o přímé ohrožení rodiny politika, což je vnímáno jako bezprecedentní překročení hranic politické kultury.\n**Čas:** 1/14:03",
       "speaker": "Jindřich Rajchl",
       "affiliation": "SPD",
       "timestamp": "1/14:03"
-    },
-    {
-      "statement": "**Zuzana Majerová (SPD)**\n* **Co:** Označení agrese NATO vůči Jugoslávii za „zvěrstvo“ a „humanitární bombardování“.\n* **Proč:** Jde o kontroverzní interpretaci historické události, která je v přímém rozporu s oficiálním postojem české zahraniční politiky a spojenců v NATO.\n* **Čas:** 1/16:07",
-      "speaker": "Zuzana Majerová",
-      "affiliation": "SPD",
-      "timestamp": "1/16:07"
     }
   ],
   "quality": {

@@ -1,63 +1,62 @@
-## 1. Téma a účel jednání
-Tisková konference hnutí Starostové a nezávislí (STAN) se konala 14. dubna 2026 před jednáním Poslanecké sněmovny. Cílem bylo představit kritický postoj hnutí k aktuálním vládním návrhům, které podle řečníků ohrožují tržní prostředí, právní stát a nezávislost státní správy.
+Tento dokument je strukturovaným shrnutím tiskové konference poslaneckého klubu hnutí Starostové a nezávislí (STAN), která se konala 14. dubna 2026.
 
-Hlavními tématy byla kritika vládního záměru regulovat ceny a marže v legislativní nouzi, odmítnutí politizace státní správy, kritika rušení Agentury pro sociální začleňování a nesouhlas s oslabováním kontrolní role Poslanecké sněmovny nad rozpočtem. Řečníci rovněž zdůraznili potřebu zachování strategické nezávislosti na ruských surovinách a představili vlastní legislativní iniciativy v oblasti ochrany obětí násilí.
+### 1. Téma a účel jednání
+Tisková konference byla svolána za účelem prezentace postojů hnutí STAN k aktuálním legislativním návrhům projednávaným v Poslanecké sněmovně. Hlavním cílem bylo kriticky zhodnotit kroky vlády Andreje Babiše, které podle řečníků ohrožují tržní prostředí, právní stát a nezávislost státní správy.
 
-## 2. Hlavní body
+Zástupci hnutí se vymezili proti využívání legislativní nouze, politizaci státní správy, omezování transparentnosti rozpočtového procesu a rušení klíčových sociálních programů. Zároveň představili vlastní legislativní priority, včetně ochrany dětí před násilím a zachování nezávislosti veřejnoprávních médií.
 
+### 2. Hlavní body
 *   **Vít Rakušan (předseda hnutí):**
-    *   Kritizoval vládní snahu o regulaci cen a marží v legislativní nouzi, což označil za útok na právní stát a podnikatele.
-    *   Odsoudil výroky politiků (Okamura, Rajchl) volajících po návratu k ruským surovinám jako hazard s bezpečností země.
-    *   Upozornil na rušení Agentury pro sociální začleňování, což označil za „házení chudých regionů přes palubu“.
-    *   Navrhuje zachování nominačního zákona, aby se zabránilo privatizaci státních funkcí.
+    *   Kritizoval vládní snahu o regulaci cen a marží v legislativní nouzi, což označil za útok na právní stát a tržní prostředí.
+    *   Odsoudil výroky politiků (Okamura, Rajchl) volajících po návratu k ruským surovinám; zdůraznil strategickou nezávislost ČR na Rusku.
+    *   Kritizoval zrušení Agentury pro sociální začleňování a označil to za „házení nejchudších regionů přes palubu“.
+    *   Navrhuje zachování nominačního zákona, aby se zabránilo politizaci státních funkcí.
 *   **Karel Dvořák (místopředseda hnutí):**
-    *   Kritizoval vládní návrh změn služebního zákona jako nástroj k politizaci státní správy.
-    *   Představil pozměňovací návrhy zaměřené na posílení ochranných mechanismů úředníků a podporu nemanažerské kariérní linky na základě analýzy „Státní služba 2.0“.
+    *   Kritizoval vládní návrh změn služebního zákona, který podle něj vede k politizaci státní správy.
+    *   Představil pozměňovací návrhy zaměřené na posílení odbornosti a ochranu úředníků před neodůvodněným propouštěním.
 *   **Eliška Olšáková (poslankyně):**
     *   Kritizovala novelu zákona o podpoře v bydlení, zejména přesun agendy na přetížené úřady práce bez dostatečného vybavení a personálu.
-    *   Varovala před vznikem „úřednického ping-pongu“ a omezením poradenství pouze pro osoby v akutní bytové nouzi.
+    *   Upozornila na vznik „úřednického ping-pongu“ a omezení dostupnosti poradenství pro potřebné.
 *   **Lucie Sedmihradská (poslankyně):**
-    *   Kritizovala novelu rozpočtových pravidel, která podle ní oslabuje kontrolní roli Sněmovny (např. zrušení čtvrtletních zpráv o hospodaření).
-    *   Předložila čtyři pozměňovací návrhy, včetně povinnosti zveřejňovat rozpočtová opatření a projednávat fiskálně strukturální plán v rozpočtovém výboru.
+    *   Kritizovala novelu rozpočtových pravidel, která oslabuje kontrolní roli Sněmovny (např. zrušení čtvrtletních zpráv o hospodaření).
+    *   Navrhla čtyři pozměňovací návrhy pro zvýšení transparentnosti, včetně zveřejňování rozpočtových opatření.
 *   **Barbora Urbanová (místopředsedkyně klubu):**
-    *   Podpořila diskuzi o kriminalizaci neplacení výživného a oznámila přípravu tzv. „Lex Mareček“ – balíčku návrhů na ochranu dětí, včetně prodloužení promlčecí lhůty u znásilnění dětí.
+    *   Podpořila návrh na kriminalizaci neplacení výživného, ale zdůraznila nutnost debaty.
+    *   Představila „Lex Mareček“ – balíček návrhů na ochranu dětí, včetně prodloužení promlčecí lhůty u znásilnění dětí.
 
-## 3. Výsledek / závěr
-Jednání nebylo hlasováním, ale prezentací opoziční strategie. STAN hodlá proti vládním návrhům (regulace cen, změny služebního zákona, rozpočtová pravidla) vystupovat prostřednictvím obstrukcí a předkládáním pozměňovacích návrhů. Hnutí se vymezuje proti „orbánovskému“ stylu vládnutí a zdůrazňuje nutnost zachování nezávislosti veřejnoprávních médií a státní správy.
+### 3. Výsledek / závěr
+Hnutí STAN se hodlá aktivně bránit vládním návrhům prostřednictvím obstrukcí a předkládáním pozměňovacích návrhů. Dominujícím postojem je odmítnutí centralizace moci a snaha o zachování demokratických kontrolních mechanismů. Vláda byla vyzvána k jasnému postoji vůči proruským narativům a k přehodnocení kroků, které oslabují nezávislost institucí.
 
-## 4. Poznámky
-Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu.
+### 4. Poznámky
+Přepis obsahuje drobné gramatické chyby a neúplné věty způsobené automatickým přepisem. Části týkající se technických detailů legislativních procesů jsou srozumitelné.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh: Regulace cen a marží v legislativní nouzi**
+*   **Kontroverzní návrh: Vládní regulace cen a marží v legislativní nouzi**
     *   **Kdo:** Vít Rakušan (STAN)
-    *   **Co:** Vláda se snaží protlačit regulaci cen a marží bez možnosti soudního přezkumu a kompenzací.
-    *   **Proč:** Podle řečníka jde o „vypnutí právního státu“ a návrat k praktikám 80. let.
+    *   **Co:** Označil vládní postup za „absolutně nesmyslný a ohrožující“, kritizoval vyloučení soudního přezkumu.
+    *   **Proč:** Jde o zásah do tržního hospodářství a právního státu, který zbavuje podnikatele možnosti bránit se u soudu.
     *   **Čas:** 1/01:10
-*   **Kontroverzní výrok: Ruské suroviny jako politická zbraň**
-    *   **Kdo:** Vít Rakušan (STAN)
-    *   **Co:** Označil snahy o návrat k ruské ropě a plynu za „absolutní hazard s bezpečností“ a „výroky, které vypadly z ruské brožurky pro trolly“.
-    *   **Proč:** Politicky citlivé téma energetické bezpečnosti a vztahu k agresivnímu režimu.
-    *   **Čas:** 1/02:05
-*   **Kontroverzní výrok: Obcházení pravidel vládou**
+*   **Kontroverzní návrh: Obcházení Sněmovny při snižování spotřební daně**
     *   **Kdo:** Karel Dvořák (STAN)
-    *   **Co:** Vláda obchází pravidla nebo je „tlačí na dřeň“ (např. snížení spotřební daně nařízením místo zákona).
-    *   **Proč:** Zpochybňuje legitimitu a standardy vládnutí současného kabinetu.
+    *   **Co:** Kritizoval vládu za to, že daň snížila vlastním nařízením mimo standardní legislativní proces.
+    *   **Proč:** Považuje to za symptom vládnutí, které obchází pravidla a tlačí je „na dřeň“.
     *   **Čas:** 1/22:01
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Tohle je útok na české podnikatele, tohle je útok na české firmy, stát jim chce diktovat ceny a způsobí jim ztráty a zároveň jim bere právo se proti tomuto instrumentu bránit soudně.“ (parafráze)
-    *   **Řečník:** Vít Rakušan (STAN), **Čas:** 1/01:10
-*   **Text:** „My jsme v současné době na ruských komoditách nezávislí, dosáhli jsme strategické nezávislosti na diktátorském režimu, který vede nejagresivnější válku od druhé světové války.“ (citace)
-    *   **Řečník:** Vít Rakušan (STAN), **Čas:** 1/03:15
-*   **Text:** „Zveřejnění zpráv na internetu není skládání účtů, to je skutečně zlomek té odpovědnosti, kterou vláda vůči Poslanecké sněmovně má.“ (citace)
+*   **Text:** „Stát chce podnikatelům diktovat ceny a zároveň jim bere právo se proti tomuto instrumentu bránit soudně.“ (parafráze)
+    *   **Řečník:** Vít Rakušan (STAN), **Čas:** 1/01:50
+*   **Text:** „Netahejte nás na východ, pane Okamuro a pane Rajchle, nikdo o to nestojí a nestojí o to ani občané v téhle zemi.“ (citace)
+    *   **Řečník:** Vít Rakušan (STAN), **Čas:** 1/04:02
+*   **Text:** „My navrhujeme hned čtyři pozměňovací návrhy, které se snaží napravit ty největší problémy této novely rozpočtových pravidel.“ (citace)
     *   **Řečník:** Lucie Sedmihradská (STAN), **Čas:** 1/14:05
+*   **Text:** „My tomu říkáme Lex Mareček, jeden z těch návrhů je zásadní prodloužení promlčecí lhůty u znásilnění dětí.“ (citace)
+    *   **Řečník:** Barbora Urbanová (STAN), **Čas:** 1/18:00
 
 ---
 
@@ -83,16 +82,16 @@ Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalost
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference hnutí Starostové a nezávislí (STAN) se konala 14. dubna 2026 před jednáním Poslanecké sněmovny. Cílem bylo představit kritický postoj hnutí k aktuálním vládním návrhům, které podle řečníků ohrožují tržní prostředí, právní stát a nezávislost státní správy.\n\nHlavními tématy byla kritika vládního záměru regulovat ceny a marže v legislativní nouzi, odmítnutí politizace státní správy, kritika rušení Agentury pro sociální začleňování a nesouhlas s oslabováním kontrolní role Poslanecké sněmovny nad rozpočtem. Řečníci rovněž zdůraznili potřebu zachování strategické nezávislosti na ruských surovinách a představili vlastní legislativní iniciativy v oblasti ochrany obětí násilí.",
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů hnutí STAN k aktuálním legislativním návrhům projednávaným v Poslanecké sněmovně. Hlavním cílem bylo kriticky zhodnotit kroky vlády Andreje Babiše, které podle řečníků ohrožují tržní prostředí, právní stát a nezávislost státní správy.\n\nZástupci hnutí se vymezili proti využívání legislativní nouze, politizaci státní správy, omezování transparentnosti rozpočtového procesu a rušení klíčových sociálních programů. Zároveň představili vlastní legislativní priority, včetně ochrany dětí před násilím a zachování nezávislosti veřejnoprávních médií.",
     "main_points": [
-      "**Vít Rakušan (STAN)** — Kritizoval vládní snahu o regulaci cen a marží v legislativní nouzi, odsoudil výroky o návratu k ruským surovinám, kritizoval rušení Agentury pro sociální začleňování a navrhl zachování nominačního zákona.",
-      "**Karel Dvořák (STAN)** — Kritizoval vládní návrh změn služebního zákona jako nástroj k politizaci státní správy a představil pozměňovací návrhy na posílení ochranných mechanismů úředníků.",
-      "**Eliška Olšáková (STAN)** — Kritizovala novelu zákona o podpoře v bydlení, zejména přesun agendy na přetížené úřady práce bez dostatečného vybavení.",
-      "**Lucie Sedmihradská (STAN)** — Kritizovala novelu rozpočtových pravidel, která oslabuje kontrolní roli Sněmovny, a předložila čtyři pozměňovací návrhy pro zvýšení transparentnosti.",
-      "**Barbora Urbanová (STAN)** — Podpořila diskuzi o kriminalizaci neplacení výživného a oznámila přípravu tzv. „Lex Mareček“ na ochranu dětí."
+      "**Vít Rakušan (STAN)** — Kritizoval vládní regulaci cen v legislativní nouzi, odsoudil proruské narativy (Okamura, Rajchl), kritizoval zrušení Agentury pro sociální začleňování a navrhuje zachování nominačního zákona.",
+      "**Karel Dvořák (STAN)** — Kritizoval politizaci státní správy v novele služebního zákona a předložil návrhy na posílení odbornosti úředníků.",
+      "**Eliška Olšáková (STAN)** — Upozornila na rizika novely zákona o podpoře v bydlení, zejména na přetížení úřadů práce a neefektivitu systému.",
+      "**Lucie Sedmihradská (STAN)** — Kritizovala oslabení kontrolní role Sněmovny v rozpočtových pravidlech a navrhla 4 pozměňovací návrhy pro zvýšení transparentnosti.",
+      "**Barbora Urbanová (STAN)** — Představila balíček „Lex Mareček“ zaměřený na ochranu dětí před násilím, včetně prodloužení promlčecích lhůt."
     ],
-    "outcome": "Jednání nebylo hlasováním, ale prezentací opoziční strategie. STAN hodlá proti vládním návrhům (regulace cen, změny služebního zákona, rozpočtová pravidla) vystupovat prostřednictvím obstrukcí a předkládáním pozměňovacích návrhů. Hnutí se vymezuje proti „orbánovskému“ stylu vládnutí a zdůrazňuje nutnost zachování nezávislosti veřejnoprávních médií a státní správy.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+    "outcome": "Hnutí STAN se hodlá aktivně bránit vládním návrhům prostřednictvím obstrukcí a předkládáním pozměňovacích návrhů. Dominujícím postojem je odmítnutí centralizace moci a snaha o zachování demokratických kontrolních mechanismů. Vláda byla vyzvána k jasnému postoji vůči proruským narativům a k přehodnocení kroků, které oslabují nezávislost institucí.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a neúplné věty způsobené automatickým přepisem. Části týkající se technických detailů legislativních procesů jsou srozumitelné."
   },
   "entities": {
     "speakers": [
@@ -103,46 +102,47 @@ Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalost
       {"name": "Barbora Urbanová", "person_id": null, "affiliation": "STAN"}
     ],
     "parties": ["STAN", "ANO"],
-    "institutions": ["Poslanecká sněmovna", "Agentura pro sociální začleňování", "Úřad práce"]
+    "institutions": ["Poslanecká sněmovna", "Úřad práce", "Agentura pro sociální začleňování"]
   },
   "highlights": [
     {
-      "text": "Tohle je útok na české podnikatele, tohle je útok na české firmy, stát jim chce diktovat ceny a způsobí jim ztráty a zároveň jim bere právo se proti tomuto instrumentu bránit soudně.",
+      "text": "Stát chce podnikatelům diktovat ceny a zároveň jim bere právo se proti tomuto instrumentu bránit soudně.",
       "type": "paraphrase",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "1/01:10"
+      "timestamp": "1/01:50"
     },
     {
-      "text": "My jsme v současné době na ruských komoditách nezávislí, dosáhli jsme strategické nezávislosti na diktátorském režimu, který vede nejagresivnější válku od druhé světové války.",
+      "text": "Netahejte nás na východ, pane Okamuro a pane Rajchle, nikdo o to nestojí a nestojí o to ani občané v téhle zemi.",
       "type": "citation",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "1/03:15"
+      "timestamp": "1/04:02"
     },
     {
-      "text": "Zveřejnění zpráv na internetu není skládání účtů, to je skutečně zlomek té odpovědnosti, kterou vláda vůči Poslanecké sněmovně má.",
+      "text": "My navrhujeme hned čtyři pozměňovací návrhy, které se snaží napravit ty největší problémy této novely rozpočtových pravidel.",
       "type": "citation",
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/14:05"
+    },
+    {
+      "text": "My tomu říkáme Lex Mareček, jeden z těch návrhů je zásadní prodloužení promlčecí lhůty u znásilnění dětí.",
+      "type": "citation",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "STAN",
+      "timestamp": "1/18:00"
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh: Regulace cen a marží v legislativní nouzi**\n- **Kdo:** Vít Rakušan (STAN)\n- **Co:** Vláda se snaží protlačit regulaci cen a marží bez možnosti soudního přezkumu a kompenzací.\n- **Proč:** Podle řečníka jde o „vypnutí právního státu“ a návrat k praktikám 80. let.\n- **Čas:** 1/01:10",
+      "statement": "**Kontroverzní návrh: Vládní regulace cen a marží v legislativní nouzi**\n- **Kdo:** Vít Rakušan (STAN)\n- **Co:** Označil vládní postup za „absolutně nesmyslný a ohrožující“, kritizoval vyloučení soudního přezkumu.\n- **Proč:** Jde o zásah do tržního hospodářství a právního státu, který zbavuje podnikatele možnosti bránit se u soudu.\n- **Čas:** 1/01:10",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/01:10"
     },
     {
-      "statement": "**Kontroverzní výrok: Ruské suroviny jako politická zbraň**\n- **Kdo:** Vít Rakušan (STAN)\n- **Co:** Označil snahy o návrat k ruské ropě a plynu za „absolutní hazard s bezpečností“ a „výroky, které vypadly z ruské brožurky pro trolly“.\n- **Proč:** Politicky citlivé téma energetické bezpečnosti a vztahu k agresivnímu režimu.\n- **Čas:** 1/02:05",
-      "speaker": "Vít Rakušan",
-      "affiliation": "STAN",
-      "timestamp": "1/02:05"
-    },
-    {
-      "statement": "**Kontroverzní výrok: Obcházení pravidel vládou**\n- **Kdo:** Karel Dvořák (STAN)\n- **Co:** Vláda obchází pravidla nebo je „tlačí na dřeň“ (např. snížení spotřební daně nařízením místo zákona).\n- **Proč:** Zpochybňuje legitimitu a standardy vládnutí současného kabinetu.\n- **Čas:** 1/22:01",
+      "statement": "**Kontroverzní návrh: Obcházení Sněmovny při snižování spotřební daně**\n- **Kdo:** Karel Dvořák (STAN)\n- **Co:** Kritizoval vládu za to, že daň snížila vlastním nařízením mimo standardní legislativní proces.\n- **Proč:** Považuje to za symptom vládnutí, které obchází pravidla a tlačí je „na dřeň“.\n- **Čas:** 1/22:01",
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/22:01"

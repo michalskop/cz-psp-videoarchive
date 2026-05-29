@@ -1,0 +1,105 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:03:44",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2921",
+    "name": "Tisková konference ODS k výsledkům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-18T15:29",
+    "end_date": "2026-05-18T15:48",
+    "sources": [
+      "final/event_2921_2026-05-18_tiskova-konference-ods-k-vysledkum-jednani-vlady.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po jednání vlády a jejím cílem bylo vyjádřit postoj opoziční strany k aktuálním vládním krokům, personálním otázkám v armádě a legislativním změnám. Řečníci se zaměřili na kritiku vládní komunikace, hodnocení nového náčelníka generálního štábu a ohlášení ústavní stížnosti proti zákonu o rozpočtové odpovědnosti.",
+    "main_points": [
+      "**Jana Černochová (ODS)** — Ocenila Andreje Babiše za prosazení gen. Hlaváče na post náčelníka generálního štábu. Kritizovala vládního zmocněnce Jakuba Landovského za rozporuplné postoje k výpočtům obranných výdajů. Uvedla, že v roce 2026 vláda zahrnula do obranných výdajů mimo resort 29,9 mld. Kč, což vedlo k odmítavé reakci NATO.",
+      "**Jiří Havránek (ODS)** — Kritizoval premiéra Babiše za dezorientovanost. Kvitoval navýšení rodičovského příspěvku pro děti narozené po 1. 1. 2027. Kritizoval odklad atestací spisových služeb (sněmovní tisk 187) a způsob elektronizace voleb (sněmovní tisk 190).",
+      "**Karel Haas (ODS)** — Oznámil ústavní stížnost proti zákonu o rozpočtové odpovědnosti. Argumentoval, že zákon umožňuje vládě disponovat 10 % výdajů státního rozpočtu bez schválení parlamentem a omezuje rozpočtovou nezávislost ústavních institucí."
+    ],
+    "outcome": "Jednání se neslo v duchu ostré opoziční kritiky. ODS potvrdila, že bude pokračovat v legislativním boji proti zákonu o rozpočtové odpovědnosti prostřednictvím Ústavního soudu. Strana rovněž vyjádřila připravenost k odborným debatám o volební legislativě, ale odmítla akceptovat způsob, jakým vláda využívá vládní zmocněnce jako náhradu za politické partnery v debatách.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a opakujícím se frázím, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jana Černochová",
+        "person_id": "psp:person:5903",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NATO",
+      "Ústavní soud",
+      "Ministerstvo obrany"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika v roce 2025 do obranných výdajů mimo resort dávala 7,6 miliard, ovšem v roce 2026 vláda zahrnula 29,9 miliard, což je 82 % výdajů, a to byl moment, kdy se aliance naštvala.",
+      "type": "paraphrase",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/06:56",
+      "screenshot_path": "summaries/screenshots/event_2921_highlight_00.jpg",
+      "context": "Výdaje na obranu jsou definovány zákonem č. 214/2022 Sb., který stanovuje povinnost vynaložit 2 % HDP. Zahrnování výdajů mimo resort obrany (např. výzkum či infrastruktura) do celkových obranných výdajů je předmětem debat s NATO; metodika výpočtu podléhá standardům aliance, které vyžadují transparentnost a přímou souvislost s obranyschopností."
+    },
+    {
+      "text": "Tento zákon poprvé otáčí paradigma, které v právních státech platí několik set let, že parlament schvaluje výdaje a vláda je utrácí.",
+      "type": "citation",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/14:04",
+      "screenshot_path": "summaries/screenshots/event_2921_highlight_01.jpg",
+      "context": "Princip, že parlament schvaluje rozpočet a vláda jej realizuje, vychází z Ústavy ČR (čl. 42). Tvrzení o „otočení paradigmatu“ je politickou interpretací legislativního návrhu, který mění pravidla pro rozpočtové přesuny; fakticky jde o debatu o míře exekutivní flexibility oproti parlamentní kontrole."
+    },
+    {
+      "text": "Pokud někdo mluví o tom, že nechce rozhazovat peníze a zároveň protlačil zákon o rozpočtové neodpovědnosti, tak prostě lže.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/08:55",
+      "screenshot_path": "summaries/screenshots/event_2921_highlight_02.jpg",
+      "context": "Zákon o pravidlech rozpočtové odpovědnosti (č. 23/2017 Sb.) existuje a stanovuje dluhovou brzdu. Hodnocení, zda je konkrétní návrh v souladu s principy rozpočtové odpovědnosti, je subjektivní politický názor, nikoliv objektivně ověřitelný fakt."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Zákon o rozpočtové odpovědnosti (tzv. „brutální rozvolnění“).\n- **Kdo:** Karel Haas (ODS).\n- **Co:** Návrh umožňuje vládě disponovat 10 % výdajů rozpočtu bez souhlasu parlamentu a omezuje rozpočtovou nezávislost ústavních institucí.\n- **Proč:** Jde o zásadní narušení ústavního principu dělby moci, kde parlament ztrácí kontrolu nad výdaji.\n- **Čas:** 1/14:04",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/14:04",
+      "screenshot_path": "summaries/screenshots/event_2921_controversy_00.jpg",
+      "context": "Návrh na zvýšení limitů pro rozpočtová opatření vlády (tzv. přesuny mezi kapitolami bez souhlasu Sněmovny) je předmětem legislativního procesu. Zda jde o „brutální rozvolnění“ a narušení ústavní dělby moci, je předmětem právní a politické polemiky, nikoliv ustálený právní fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

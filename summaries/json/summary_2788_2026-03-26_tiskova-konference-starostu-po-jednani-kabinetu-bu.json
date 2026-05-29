@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T13:09:26",
-  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "created_at": "2026-05-29T14:08:42",
+  "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2788",
     "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
     "classification": "Tiskové konference",
-    "start_date": "2026-03-26",
-    "end_date": null,
+    "start_date": "2026-03-26T11:07",
+    "end_date": "2026-03-26T11:49",
     "sources": [
       "final/event_2788_2026-03-26_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
     ]
@@ -19,75 +19,105 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference Starostů po jednání stínové vlády kabinetu budoucnosti se zaměřila na aktuální politické dění v České republice, zejména na kroky vlády Andreje Babiše.",
+    "topic": "Tisková konference hnutí Starostové a nezávislí (STAN) se konala po výročním zasedání jejich „Kabinetu budoucnosti“. Cílem bylo zhodnotit prvních 100 dní vlády Andreje Babiše, kterou řečníci ostře kritizovali za rozvrat státní správy, útoky na veřejnoprávní média, oslabování zahraničněpolitických vazeb a nezodpovědný přístup k bezpečnosti a zdravotnictví.\n\nHnutí se vymezilo vůči vládní politice jako opoziční síla, která hodlá aktivně bránit demokratické instituce a předkládat konkrétní alternativní návrhy. Jednání se rovněž dotklo aktuálních kauz, personálních otázek ve vedení Poslanecké sněmovny a plánované spolupráce se slovenskou vládou.",
     "main_points": [
-      "**Vít Rakušan (Starostové)**: Kritizoval vládu Andreje Babiše za její kroky, které považuje za ohrožení demokracie, justice a svobodných médií.",
-      "**Petr Kulhánek (Starostové)**: Hovořil o situaci na ministerstvu pro místní rozvoj, kde probíhá destrukce celého systému.",
-      "**Lukáš Vlček (Starostové)**: Seznámil s výsledky svého jednání ve Spojených státech na Parlamentním shromáždění NATO.",
-      "**Janá Krutáková (Starostové)**: Hovořila o programu Nová zelená úsporám a kritizovala vládu za změny v dotačním titulu.",
-      "**Michaela Šebelová (Starostové)**: Seznámila s aktuální situací v oblasti zdravotnictví, zejména s otázkou Národní očkovací strategie."
+      "**Vít Rakušan (předseda STAN, stínový premiér)** — Kritizoval vládu za útoky na veřejnoprávní média, zpochybňování vědeckého poznání (očkování) a oslabování prozápadní orientace ČR. Upozornil na neplnění závazků výdajů na obranu (2 % HDP) a odsoudil rozvrat státní správy.",
+      "**Petr Kulhánek (stínový ministr)** — Kritizoval destrukci Ministerstva pro místní rozvoj (MMR), odvolávání odborníků a zastavení digitalizace stavebního řízení. Varoval před sloučením agendy bydlení s Agenturou pro sociální začleňování.",
+      "**Lukáš Vlček (stínový ministr)** — Zdůraznil negativní dopad neplnění obranných závazků na český obranný průmysl a kritizoval vládu za absenci plánu pro řešení energetické a hrozící globální potravinové krize.",
+      "**Jana Krutáková (stínová ministryně)** — Kritizovala změny v programu „Nová zelená úsporám“, kde vláda omezila alokaci a zavedla podmínky nevýhodné pro nízkopříjmové domácnosti.",
+      "**Michaela Šebelová (stínová ministryně)** — Varovala před ohrožením Národní očkovací strategie a omezením financování prevence, a upozornila na rizika spojená s projektem výstavby nové supernemocnice v Praze."
     ],
-    "outcome": "Tisková konference Starostů byla zaměřena na kritiku vlády Andreje Babiše a představení návrhů a argumentů opozice.",
-    "notes": "Část přepisu nebyla poskytnuta. Některé části přepisu byly nesrozumitelné."
+    "outcome": "Nebyl učiněn žádný formální vládní závěr, neboť jde o opoziční tiskovou konferenci. Konsenzem hnutí STAN je:\n* Prioritní snaha o svolání mimořádné schůze Sněmovny k tématu veřejnoprávních médií.\n* Příprava na pondělní jednání poslaneckého klubu, kde se rozhodne o další strategii ohledně nominace na místopředsedu Sněmovny.\n* Pokračování v tlaku na vládu skrze Senát a veřejnou kritiku konkrétních legislativních kroků.",
+    "notes": "Přepis obsahuje občasné chyby v diakritice a useknutá slova, která však nebrání pochopení obsahu."
   },
   "entities": {
     "speakers": [
       {
         "name": "Vít Rakušan",
         "person_id": "psp:person:6524",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       },
       {
         "name": "Petr Kulhánek",
         "person_id": "psp:person:6949",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       },
       {
         "name": "Lukáš Vlček",
         "person_id": "psp:person:6789",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       },
       {
-        "name": "Janá Krutáková",
+        "name": "Jana Krutáková",
         "person_id": "psp:person:6466",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       },
       {
         "name": "Michaela Šebelová",
         "person_id": "psp:person:6763",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       }
     ],
     "parties": [
-      "Starostové"
+      "STAN",
+      "SPD",
+      "TOP 09",
+      "ODS"
     ],
     "institutions": [
       "Poslanecká sněmovna",
+      "NATO",
       "Ministerstvo pro místní rozvoj",
-      "Parlamentní shromáždění NATO"
+      "Státní fond životního prostředí"
     ]
   },
   "highlights": [
     {
-      "text": "Vít Rakušan: 'Vláda Andreje Babiše ohrožuje demokracii, justici a svobodná média.'",
-      "type": "citation",
+      "text": "Výdaje na naši obranu nejsou zajištěny na úrovni 2 % HDP, jak se země zavázala.",
+      "type": "paraphrase",
       "speaker": "Vít Rakušan",
-      "affiliation": "Starostové",
-      "timestamp": "1/02:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2788_highlight_00.jpg",
-      "context": "Tvrzení není doloženo konkrétními fakty nebo statistikami. Jedná se o subjektivní hodnocení vlády Andreje Babiše z politického hlediska."
+      "affiliation": "STAN",
+      "timestamp": "1/04:39",
+      "screenshot_path": "summaries/screenshots/event_2788_highlight_00.jpg",
+      "context": "Zákon č. 214/2023 Sb. ukotvil povinnost vydávat na obranu minimálně 2 % HDP ročně. Podle údajů Ministerstva obrany ČR a NATO byla tato hranice v roce 2024 splněna, tvrzení je tedy v rozporu s aktuálními rozpočtovými daty."
     },
     {
-      "text": "Petr Kulhánek: 'Destrukce celého systému na ministerstvu pro místní rozvoj.'",
+      "text": "Sloučení agendy bydlení s Agenturou pro sociální začleňování povede k de facto zániku této agentury.",
       "type": "citation",
       "speaker": "Petr Kulhánek",
-      "affiliation": "Starostové",
-      "timestamp": "1/10:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2788_highlight_01.jpg",
-      "context": "Nelze nezávisle ověřit. Tvrzení zní velmi obecně a nekonkrétně, tudíž není jasné, o jakou destrukci a na jakém ministerstvu přesně jde."
+      "affiliation": "STAN",
+      "timestamp": "1/08:00",
+      "screenshot_path": "summaries/screenshots/event_2788_highlight_01.jpg",
+      "context": "Jedná se o politický odhad a interpretaci organizačních změn. Dopad na fungování Agentury pro sociální začleňování nelze objektivně ověřit, dokud nebudou známy konkrétní parametry sloučení agend a vnitřní struktura nového celku."
+    },
+    {
+      "text": "Máme čísla, že v některých regionech je proočkovanost dětí pouze 30 %, přičemž Národní očkovací strategie cílí na 90 %.",
+      "type": "paraphrase",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/23:12",
+      "screenshot_path": "summaries/screenshots/event_2788_highlight_02.jpg",
+      "context": "Data o proočkovanosti v ČR pravidelně publikuje Státní zdravotní ústav (SZÚ). Ačkoliv v některých lokalitách či u specifických vakcín může být proočkovanost nízká, celostátní průměry u povinného očkování se obvykle pohybují nad 90 %; tvrzení o 30 % v celých regionech je nutné ověřit u konkrétních dat SZÚ."
     }
   ],
-  "controversial": [],
+  "controversial": [
+    {
+      "statement": "Zpochybnění financování očkování a Národní očkovací strategie: Vláda Andreje Babiše zrušila 100 milionů Kč na propagaci očkování, což je podle řečníků ohrožení veřejného zdraví a ústupek antivaxerským hnutím.",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/22:03",
+      "screenshot_path": "summaries/screenshots/event_2788_controversy_00.jpg",
+      "context": "Rozhodnutí o krácení rozpočtu na propagaci očkování v minulých obdobích je doložitelný fakt z rozpočtových kapitol Ministerstva zdravotnictví. Interpretace, že jde o ústupek hnutím či přímé ohrožení zdraví, je politickým hodnocením a věcí názoru."
+    },
+    {
+      "statement": "Srovnání vývoje v ČR se Slovenskem: Vít Rakušan prohlásil, že současných 100 dní vlády v ČR je úplně totéž, co se dělo na Slovensku, což naznačuje obavy z eroze demokratických standardů.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/30:02",
+      "screenshot_path": "summaries/screenshots/event_2788_controversy_01.jpg",
+      "context": "Srovnání politického vývoje v ČR a na Slovensku je subjektivní politickou rétorikou. Nelze nezávisle ověřit, zda jsou procesy v obou zemích „úplně totéž“, neboť politické systémy, vládní koalice i legislativní kroky se v obou státech zásadně liší."
+    }
+  ],
   "quality": {
     "transcript_quality": "good",
     "unintelligible_parts": false

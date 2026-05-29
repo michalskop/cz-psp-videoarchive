@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:33:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2830",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-16T10:43",
+    "end_date": "2026-04-16T11:05",
+    "sources": [
+      "final/event_2830_2026-04-16_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu Pirátů se konala dne 16. dubna 2026 v reakci na svolání mimořádné schůze Poslanecké sněmovny. Hlavním cílem bylo kritizovat současnou vládní koalici (ANO, Motoristé) za nečinnost v oblasti ekonomické krize, zdražování potravin a energií, a za ohrožování bezpečnosti státu.\n\nPiráti vyjádřili nesouhlas s vládními kroky v oblasti financování veřejnoprávních médií, modernizace armády a zahraniční politiky. Zároveň představili vlastní návrhy na zmírnění dopadů inflace a kritizovali vládní postup při přípravě delegací na mezinárodní summity a nakládání s evropskými dotacemi.",
+    "main_points": [
+      "**Zdeněk Hřib (předseda Pirátů)** — Kritika vlády za neřešení vysokých cen energií, pohonných hmot a potravin. Obvinění premiéra Babiše z upřednostňování vlastního byznysu. **Návrhy:** Vrácení nadvýběru DPH lidem, snížení DPH na základní potraviny z 12 % na 6 %, obnova projektu Nová zelená úsporám.",
+      "**Andrea Hoffmannová (poslankyně)** — Kritika vládního návrhu na změnu financování veřejnoprávních médií. Varování před ekonomickou likvidací ČT a ČRo (ztráta miliard korun, propouštění). Obvinění vlády ze snahy o politické ovládnutí médií.",
+      "**Ivan Bartoš (místopředseda klubu)** — Kritika zpomalování modernizace armády a škrtů v obranném rozpočtu (deficit až 21 miliard Kč). Varování před ztrátou důvěry spojenců v NATO kvůli neplnění závazků.",
+      "**Gabriela Svárovská (poslankyně)** — Kritika bezpečnostních rizik spojených s působením Filipa Turka a Petra Macinky. Upozornění na pochybné vazby poradkyně premiéra Natálie Vachatové.",
+      "**Olga Richterová (předsedkyně klubu)** — Varování před ztrátou evropských dotací kvůli účelovým změnám zákonů. Kritika střetu zájmů premiéra Babiše a odmítání spolupráce s Evropskou komisí ohledně dotací pro Agrofert."
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. Piráti potvrdili svolání mimořádné schůze Sněmovny, na které chtějí prosadit svá ekonomická a bezpečnostní opatření. Očekávají, že vládní koalice program schůze pravděpodobně neschválí, přesto chtějí využít prostor k prezentaci svých řešení a tlaku na vládu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Andrea Hoffmannová",
+        "person_id": "psp:person:6905",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Gabriela Svárovská",
+        "person_id": "psp:person:7049",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "NATO",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Navrhujeme, aby stát vrátil peníze z nadvýběru DPH lidem, navrhujeme, aby se zkrátila DPH na základní potraviny na polovinu, ze 12 % na 6 %.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/02:51",
+      "screenshot_path": "summaries/screenshots/event_2830_highlight_00.jpg",
+      "context": "Sazby DPH jsou v ČR stanoveny zákonem č. 235/2004 Sb. Návrh na snížení sazby na 6 % je politickým požadavkem, nikoliv stávající legislativní realitou. Pojem „nadvýběr DPH“ je interpretací daňových příjmů, které jsou ovlivněny inflací a spotřebním chováním, nikoliv automaticky oddělenou částkou určenou k přímému vracení."
+    },
+    {
+      "text": "Česká televize by od ledna příštího roku přišla zhruba o miliardu korun a Český rozhlas téměř o půl miliardy.",
+      "type": "citation",
+      "speaker": "Andrea Hoffmannová",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:08",
+      "screenshot_path": "summaries/screenshots/event_2830_highlight_01.jpg",
+      "context": "Tyto částky odpovídají odhadům dopadů v případě zrušení koncesionářských poplatků nebo jejich zmrazení v kontextu inflace a nákladů na provoz veřejnoprávních médií. Údaje vycházejí z finančních plánů ČT a ČRo, které jsou veřejně dostupné ve výročních zprávách těchto institucí."
+    },
+    {
+      "text": "V rozpočtu na obranu podle plánu chybí až 21 miliard korun.",
+      "type": "citation",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:57",
+      "screenshot_path": "summaries/screenshots/event_2830_highlight_02.jpg",
+      "context": "Výdaje na obranu jsou vázány zákonem č. 21/2023 Sb., který stanovuje povinnost vydávat 2 % HDP na obranu. Zda v rozpočtu „chybí“ 21 miliard, závisí na aktuální predikci vývoje HDP a započtení všech výdajů resortu obrany, což je předmětem politických sporů mezi opozicí a Ministerstvem financí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Gabriela Svárovská (Piráti) obvinila poradkyni premiéra Natálii Vachatovou z bezpečnostního rizika kvůli vazbám jejího bratra na ruské kriminální struktury a vymáhání dluhů pro ruskou armádu.",
+      "speaker": "Gabriela Svárovská",
+      "affiliation": "Piráti",
+      "timestamp": "1/12:00",
+      "screenshot_path": "summaries/screenshots/event_2830_controversy_00.jpg",
+      "context": "Tvrzení o vazbách rodinných příslušníků na ruské struktury je závažným politickým obviněním. Nelze nezávisle ověřit bez přístupu k utajovaným informacím bezpečnostních složek (BIS, NÚKIB), které prověřují bezpečnostní prověrky osob v blízkosti premiéra."
+    },
+    {
+      "statement": "Ivan Bartoš (Piráti) označil ministra Petra Macinku za „rukojmího“ a kritizoval vládní zahraniční politiku jako „černého pasažéra“ v NATO.",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:01",
+      "screenshot_path": "summaries/screenshots/event_2830_controversy_01.jpg",
+      "context": "Označení ministra za „rukojmího“ je politická metafora, nikoliv faktické konstatování. Hodnocení zahraniční politiky jako „černého pasažéra“ v NATO je subjektivní politický názor na efektivitu a aktivitu české diplomacie v rámci aliančních struktur."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

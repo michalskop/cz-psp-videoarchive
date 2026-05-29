@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:57:06",
+  "created_at": "2026-05-29T14:38:48",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2820",
@@ -19,16 +19,16 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference hnutí Starostové a nezávislí (STAN) se konala 14. dubna 2026 před jednáním Poslanecké sněmovny. Cílem bylo představit kritický postoj hnutí k aktuálním vládním návrhům, které podle řečníků ohrožují tržní prostředí, právní stát a nezávislost státní správy.\n\nHlavními tématy byla kritika vládního záměru regulovat ceny a marže v legislativní nouzi, odmítnutí politizace státní správy, kritika rušení Agentury pro sociální začleňování a nesouhlas s oslabováním kontrolní role Poslanecké sněmovny nad rozpočtem. Řečníci rovněž zdůraznili potřebu zachování strategické nezávislosti na ruských surovinách a představili vlastní legislativní iniciativy v oblasti ochrany obětí násilí.",
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů hnutí STAN k aktuálním legislativním návrhům projednávaným v Poslanecké sněmovně. Hlavním cílem bylo kriticky zhodnotit kroky vlády Andreje Babiše, které podle řečníků ohrožují tržní prostředí, právní stát a nezávislost státní správy.\n\nZástupci hnutí se vymezili proti využívání legislativní nouze, politizaci státní správy, omezování transparentnosti rozpočtového procesu a rušení klíčových sociálních programů. Zároveň představili vlastní legislativní priority, včetně ochrany dětí před násilím a zachování nezávislosti veřejnoprávních médií.",
     "main_points": [
-      "**Vít Rakušan (STAN)** — Kritizoval vládní snahu o regulaci cen a marží v legislativní nouzi, odsoudil výroky o návratu k ruským surovinám, kritizoval rušení Agentury pro sociální začleňování a navrhl zachování nominačního zákona.",
-      "**Karel Dvořák (STAN)** — Kritizoval vládní návrh změn služebního zákona jako nástroj k politizaci státní správy a představil pozměňovací návrhy na posílení ochranných mechanismů úředníků.",
-      "**Eliška Olšáková (STAN)** — Kritizovala novelu zákona o podpoře v bydlení, zejména přesun agendy na přetížené úřady práce bez dostatečného vybavení.",
-      "**Lucie Sedmihradská (STAN)** — Kritizovala novelu rozpočtových pravidel, která oslabuje kontrolní roli Sněmovny, a předložila čtyři pozměňovací návrhy pro zvýšení transparentnosti.",
-      "**Barbora Urbanová (STAN)** — Podpořila diskuzi o kriminalizaci neplacení výživného a oznámila přípravu tzv. „Lex Mareček“ na ochranu dětí."
+      "**Vít Rakušan (STAN)** — Kritizoval vládní regulaci cen v legislativní nouzi, odsoudil proruské narativy (Okamura, Rajchl), kritizoval zrušení Agentury pro sociální začleňování a navrhuje zachování nominačního zákona.",
+      "**Karel Dvořák (STAN)** — Kritizoval politizaci státní správy v novele služebního zákona a předložil návrhy na posílení odbornosti úředníků.",
+      "**Eliška Olšáková (STAN)** — Upozornila na rizika novely zákona o podpoře v bydlení, zejména na přetížení úřadů práce a neefektivitu systému.",
+      "**Lucie Sedmihradská (STAN)** — Kritizovala oslabení kontrolní role Sněmovny v rozpočtových pravidlech a navrhla 4 pozměňovací návrhy pro zvýšení transparentnosti.",
+      "**Barbora Urbanová (STAN)** — Představila balíček „Lex Mareček“ zaměřený na ochranu dětí před násilím, včetně prodloužení promlčecích lhůt."
     ],
-    "outcome": "Jednání nebylo hlasováním, ale prezentací opoziční strategie. STAN hodlá proti vládním návrhům (regulace cen, změny služebního zákona, rozpočtová pravidla) vystupovat prostřednictvím obstrukcí a předkládáním pozměňovacích návrhů. Hnutí se vymezuje proti „orbánovskému“ stylu vládnutí a zdůrazňuje nutnost zachování nezávislosti veřejnoprávních médií a státní správy.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+    "outcome": "Hnutí STAN se hodlá aktivně bránit vládním návrhům prostřednictvím obstrukcí a předkládáním pozměňovacích návrhů. Dominujícím postojem je odmítnutí centralizace moci a snaha o zachování demokratických kontrolních mechanismů. Vláda byla vyzvána k jasnému postoji vůči proruským narativům a k přehodnocení kroků, které oslabují nezávislost institucí.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a neúplné věty způsobené automatickým přepisem. Části týkající se technických detailů legislativních procesů jsou srozumitelné."
   },
   "entities": {
     "speakers": [
@@ -64,63 +64,64 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Agentura pro sociální začleňování",
-      "Úřad práce"
+      "Úřad práce",
+      "Agentura pro sociální začleňování"
     ]
   },
   "highlights": [
     {
-      "text": "Tohle je útok na české podnikatele, tohle je útok na české firmy, stát jim chce diktovat ceny a způsobí jim ztráty a zároveň jim bere právo se proti tomuto instrumentu bránit soudně.",
+      "text": "Stát chce podnikatelům diktovat ceny a zároveň jim bere právo se proti tomuto instrumentu bránit soudně.",
       "type": "paraphrase",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "1/01:53",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_highlight_00.jpg",
-      "context": "Tvrzení o zákazu soudní obrany je interpretací konkrétního legislativního návrhu. Možnost soudního přezkumu správních rozhodnutí je zaručena Listinou základních práv a svobod (čl. 36), pokud zákon výslovně nestanoví jinak, což je v legislativním procesu předmětem právních sporů."
+      "timestamp": "1/01:50",
+      "screenshot_path": "summaries/screenshots/event_2820_highlight_00.jpg",
+      "context": "Tvrzení se týká legislativních návrhů umožňujících cenovou regulaci v krizových stavech. Možnost soudního přezkumu správních rozhodnutí je obecně zaručena Listinou základních práv a svobod (čl. 36), nicméně konkrétní znění návrhů a míra jejich omezitelnosti v legislativní nouzi jsou předmětem právních sporů."
     },
     {
-      "text": "My jsme v současné době na ruských komoditách nezávislí, dosáhli jsme strategické nezávislosti na diktátorském režimu, který vede nejagresivnější válku od druhé světové války.",
+      "text": "Netahejte nás na východ, pane Okamuro a pane Rajchle, nikdo o to nestojí a nestojí o to ani občané v téhle zemi.",
       "type": "citation",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "1/03:43",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_highlight_01.jpg",
-      "context": "Podle dat MPO ČR a provozovatelů přepravních soustav (NET4GAS, MERO) ČR skutečně výrazně snížila závislost na ruském plynu a ropě. Nicméně v případě ropy je ČR stále částečně závislá na ropovodu Družba, přičemž plná nezávislost je plánována po dokončení rozšíření kapacity ropovodu TAL."
+      "timestamp": "1/04:35",
+      "screenshot_path": "summaries/screenshots/event_2820_highlight_01.jpg",
+      "context": "Jde o politické vyjádření hodnotového postoje. Průzkumy veřejného mínění (např. CVVM či STEM) dlouhodobě ukazují, že většina české populace preferuje ukotvení v EU a NATO, což potvrzuje tvrzení o postoji občanů."
     },
     {
-      "text": "Zveřejnění zpráv na internetu není skládání účtů, to je skutečně zlomek té odpovědnosti, kterou vláda vůči Poslanecké sněmovně má.",
+      "text": "My navrhujeme hned čtyři pozměňovací návrhy, které se snaží napravit ty největší problémy této novely rozpočtových pravidel.",
       "type": "citation",
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
-      "timestamp": "1/14:22",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_highlight_02.jpg",
-      "context": "Jde o politický názor na ústavní odpovědnost vlády vůči Parlamentu. Ústavní odpovědnost vlády je definována v Ústavě ČR (čl. 68), přičemž forma a rozsah „skládání účtů“ jsou předmětem politické debaty, nikoliv striktně definovaným technickým procesem."
+      "timestamp": "1/14:33",
+      "screenshot_path": "summaries/screenshots/event_2820_highlight_02.jpg",
+      "context": "Počet pozměňovacích návrhů je ověřitelný v systému parlamentní evidence (sněmovní tisk). Zda tyto návrhy skutečně „napravují největší problémy“, je subjektivní politické hodnocení."
+    },
+    {
+      "text": "My tomu říkáme Lex Mareček, jeden z těch návrhů je zásadní prodloužení promlčecí lhůty u znásilnění dětí.",
+      "type": "citation",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "STAN",
+      "timestamp": "1/18:08",
+      "screenshot_path": "summaries/screenshots/event_2820_highlight_03.jpg",
+      "context": "Návrh na prodloužení promlčecí lhůty u trestných činů proti dětem (včetně znásilnění) je součástí legislativního procesu (tzv. Lex Mareček). Cílem je, aby se promlčecí doba začala počítat až od dosažení zletilosti oběti."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh: Regulace cen a marží v legislativní nouzi**\n- **Kdo:** Vít Rakušan (STAN)\n- **Co:** Vláda se snaží protlačit regulaci cen a marží bez možnosti soudního přezkumu a kompenzací.\n- **Proč:** Podle řečníka jde o „vypnutí právního státu“ a návrat k praktikám 80. let.\n- **Čas:** 1/01:10",
+      "statement": "**Kontroverzní návrh: Vládní regulace cen a marží v legislativní nouzi**\n- **Kdo:** Vít Rakušan (STAN)\n- **Co:** Označil vládní postup za „absolutně nesmyslný a ohrožující“, kritizoval vyloučení soudního přezkumu.\n- **Proč:** Jde o zásah do tržního hospodářství a právního státu, který zbavuje podnikatele možnosti bránit se u soudu.\n- **Čas:** 1/01:10",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "1/01:10",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_controversy_00.jpg",
-      "context": "Regulace cen je možná podle zákona č. 526/1990 Sb., o cenách. Otázka vyloučení soudního přezkumu u krizových opatření je právně sporná a často naráží na judikaturu Ústavního soudu, který opakovaně zdůrazňuje nezbytnost zachování přístupu k soudní ochraně."
+      "screenshot_path": "summaries/screenshots/event_2820_controversy_00.jpg",
+      "context": "Kritika vládního postupu v legislativní nouzi je legitimní politickou opozicí. Otázka, zda je postup „nesmyslný“, je věcí politického názoru, zatímco otázka vyloučení soudního přezkumu je právní otázkou, která podléhá ústavnímu přezkumu."
     },
     {
-      "statement": "**Kontroverzní výrok: Ruské suroviny jako politická zbraň**\n- **Kdo:** Vít Rakušan (STAN)\n- **Co:** Označil snahy o návrat k ruské ropě a plynu za „absolutní hazard s bezpečností“ a „výroky, které vypadly z ruské brožurky pro trolly“.\n- **Proč:** Politicky citlivé téma energetické bezpečnosti a vztahu k agresivnímu režimu.\n- **Čas:** 1/02:05",
-      "speaker": "Vít Rakušan",
-      "affiliation": "STAN",
-      "timestamp": "1/02:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_controversy_01.jpg",
-      "context": "Energetická bezpečnost je strategickou prioritou státu. Debata o návratu k ruským surovinám je v kontextu platných sankcí EU (např. nařízení Rady 833/2014) a bezpečnostní strategie ČR vnímána jako rozporná s oficiální zahraniční politikou státu."
-    },
-    {
-      "statement": "**Kontroverzní výrok: Obcházení pravidel vládou**\n- **Kdo:** Karel Dvořák (STAN)\n- **Co:** Vláda obchází pravidla nebo je „tlačí na dřeň“ (např. snížení spotřební daně nařízením místo zákona).\n- **Proč:** Zpochybňuje legitimitu a standardy vládnutí současného kabinetu.\n- **Čas:** 1/22:01",
+      "statement": "**Kontroverzní návrh: Obcházení Sněmovny při snižování spotřební daně**\n- **Kdo:** Karel Dvořák (STAN)\n- **Co:** Kritizoval vládu za to, že daň snížila vlastním nařízením mimo standardní legislativní proces.\n- **Proč:** Považuje to za symptom vládnutí, které obchází pravidla a tlačí je „na dřeň“.\n- **Čas:** 1/22:01",
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
       "timestamp": "1/22:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2820_controversy_02.jpg",
-      "context": "Využívání nařízení vlády namísto zákonů je v českém právním řádu možné pouze v mezích zmocnění daného zákonem (čl. 78 Ústavy). Zda vláda využívá tyto nástroje „na dřeň“ nebo v rozporu s ústavními zvyklostmi, je předmětem politického a právního hodnocení opozice."
+      "screenshot_path": "summaries/screenshots/event_2820_controversy_01.jpg",
+      "context": "Vláda má zákonné zmocnění (např. v rámci zákona o cenách či krizového zákona) činit operativní kroky. Zda je využití nařízení vlády namísto zákona obcházením Sněmovny, je předmětem dlouhodobé debaty o dělbě moci mezi exekutivou a legislativou."
     }
   ],
   "quality": {

@@ -1,0 +1,130 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:50:37",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2856",
+    "name": "4. schůze Výboru pro vědu, vzdělávání, mládež a sport",
+    "classification": "Jednání výborů",
+    "start_date": "2026-04-29T09:32",
+    "end_date": "2026-04-29T12:18",
+    "sources": [
+      "final/event_2856_2026-04-29_4-schuze-vyboru-pro-vedu-vzdelavani-mladez-a-sport.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 17,
+    "parts_total": 17,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru se zaměřilo na personální doplnění podvýborů, projednání výroční zprávy České školní inspekce (ČŠI) za školní rok 2024/2025 a diskuzi o aktuálním stavu přijímacího řízení na střední školy (JPZ) a maturitních zkoušek. Cílem bylo zhodnotit efektivitu stávajících vzdělávacích opatření, identifikovat strukturální problémy v českém školství (např. pedagogická diagnostika, individualizace výuky) a projednat budoucí změny v systému přijímacích zkoušek.",
+    "main_points": [
+      "**Neidentifikovaný řečník (předsedající)** — Vedla schůzi, řídila dovolbu členů a místopředsedů podvýborů a moderovala diskuzi.",
+      "**Tomáš Zatloukal (ČŠI)** — Prezentoval výroční zprávu. Upozornil na 20% míru odkladů školní docházky, nedostatečnou diagnostiku a potřebu indexového financování pro znevýhodněné školy.",
+      "**Robert Plaga (MŠMT)** — Obhajoval digitalizaci (DIPSY) a plánované změny v přijímacím řízení (testování změn pro rok 2028/2029). Odmítl zrušení JPZ.",
+      "**Jana Berkovcová (poslankyně)** — Kritizovala nestabilitu školského systému a „smršť změn“.",
+      "**Jan Berky (poslanec)** — Inicioval diskuzi o technických detailech přijímacího řízení a digitalizaci.",
+      "**Renata Zajíčková (poslankyně)** — Kritizovala neefektivitu systému PHmax a nedostatečnou individualizaci výuky.",
+      "**Petr Fiala (poslanec)** — Poukázal na stagnaci výsledků v mezinárodních srovnáních.",
+      "**Matěj Gregor (poslanec)** — Kritizoval „stupidifikaci“ mladé generace a dotazoval se na kvalitu maturit z angličtiny."
+    ],
+    "outcome": "Proběhla dovolba členů a místopředsedů podvýborů. Výbor vzal na vědomí výroční zprávu ČŠI. Výbor přijal usnesení, kterým bere na vědomí informace o digitalizaci agendy přijímacího řízení a podporuje pokračování přípravy změn přijímacího řízení.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a useknutá slova. Části 9 a 10 obsahují halucinace (opakující se fráze o „představování se na výboru“), které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomáš Zatloukal",
+        "person_id": null,
+        "affiliation": "Česká školní inspekce"
+      },
+      {
+        "name": "Robert Plaga",
+        "person_id": "psp:person:6549",
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Jana Berkovcová",
+        "person_id": "psp:person:6723",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Petr Fiala",
+        "person_id": "psp:person:5536",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Matěj Gregor",
+        "person_id": "psp:person:7006",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Výbor pro vědu, vzdělávání, mládež a sport",
+      "ČŠI",
+      "MŠMT",
+      "CERMAT"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V případě ČR jsme měli průměrnou míru odkladů ve výši 20 % a navíc jsme měli výrazné i regionální rozdíly.",
+      "type": "citation",
+      "speaker": "Tomáš Zatloukal",
+      "affiliation": "Česká školní inspekce",
+      "timestamp": "3/05:16",
+      "screenshot_path": "summaries/screenshots/event_2856_highlight_00.jpg",
+      "context": "Údaj o 20% míře odkladů školní docházky odpovídá dlouhodobým datům České školní inspekce a Ministerstva školství, mládeže a tělovýchovy (MŠMT). Regionální rozdíly jsou rovněž doložitelné, přičemž v některých krajích míra odkladů výrazně převyšuje celostátní průměr."
+    },
+    {
+      "text": "Pokud máme ve školách 94 % kvalifikovaných učitelů, tak bychom měli očekávat, že budou měnit způsoby své práce, přesto se to neděje.",
+      "type": "citation",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "7/00:29",
+      "screenshot_path": "summaries/screenshots/event_2856_highlight_01.jpg",
+      "context": "Statistika o 94 % kvalifikovaných učitelů vychází z výročních zpráv MŠMT, nicméně kvalifikovanost je definována zákonem č. 563/2004 Sb. o pedagogických pracovnících a nezohledňuje pedagogické dovednosti či využívání moderních metod výuky. Tvrzení o absenci změny způsobu práce je subjektivním hodnocením kvality výuky, nikoliv statisticky měřitelným údajem."
+    },
+    {
+      "text": "Pokud se nám podaří kalibrovat očekávání žáků, co to číslo v přijímačkách na nečisto znamená, tak to smysl má.",
+      "type": "citation",
+      "speaker": "Robert Plaga",
+      "affiliation": "MŠMT",
+      "timestamp": "14/03:20",
+      "screenshot_path": "summaries/screenshots/event_2856_highlight_02.jpg",
+      "context": "Jde o názor na metodiku přípravy žáků na přijímací zkoušky (CERMAT). Nelze nezávisle ověřit, zda kalibrace očekávání povede k zamýšlenému efektu, neboť jde o pedagogicko-psychologické doporučení, nikoliv o faktické tvrzení."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Spor mezi ministrem Plagou a členy výboru ohledně formy komunikace a „grilování“ ministra. Ministr označil část jednání za zbytečnou a dehonestující, výbor si nárokoval právo zvát přímořízené organizace (CERMAT) bez nutnosti přítomnosti ministra.",
+      "speaker": "Robert Plaga",
+      "affiliation": "MŠMT",
+      "timestamp": "15/06:00",
+      "screenshot_path": "summaries/screenshots/event_2856_controversy_00.jpg",
+      "context": "Právo výborů Poslanecké sněmovny zvát zástupce podřízených organizací ministerstev vyplývá z Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Spor o formu komunikace je politickou interpretací průběhu jednání a nelze jej fakticky verifikovat jako pravdivý či nepravdivý."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

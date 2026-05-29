@@ -1,50 +1,45 @@
 Zde je strukturované shrnutí 15. schůze Rozpočtového výboru konané dne 29. dubna 2026.
 
 ### 1. Téma a účel jednání
-Jednání Rozpočtového výboru se zaměřilo na projednávání vládních návrhů zákonů v rámci přípravy na druhé čtení v Poslanecké sněmovně, kontrolu plnění státního rozpočtu a projednání výroční zprávy Evropského účetního dvora. Cílem bylo posoudit legislativní návrhy týkající se finančních služeb, investičních fondů, penzijního spoření a účetnictví, a zároveň zajistit transparentní dohled nad hospodařením státu a evropských fondů.
+Jednání Rozpočtového výboru bylo zaměřeno na projednávání vládních návrhů zákonů v rámci přípravy na druhé čtení v Poslanecké sněmovně, kontrolu plnění státního rozpočtu a projednání výroční zprávy Evropského účetního dvora. Cílem bylo posoudit legislativní návrhy, stanovit pozměňovací návrhy a zaujmout k nim stanoviska.
+
+Výbor se zabýval transpozicemi evropských směrnic (spotřebitelské úvěry, finanční služby na dálku), novelou zákona o účetnictví a informací o pokladním plnění státního rozpočtu za první tři čtvrtletí roku 2025.
 
 ### 2. Hlavní body
-*   **Jiří Palán (Ministerstvo financí):** Prezentoval vládní návrhy zákonů (transpozice směrnic EU o finančních službách na dálku, spotřebitelský úvěr, zákon o účetnictví). Argumentoval nutností transpozice směrnic a snahou o minimalizaci „gold platingu“. Upozornil na rostoucí státní dluh (3 678 mld. Kč v roce 2025), přesto zdůraznil vysoké ratingové hodnocení ČR.
-*   **Vojtěch Munzar (poslanec):** Kritizoval striktní nesouhlasné stanovisko MF k pozměňovacímu návrhu ohledně „tlačítka pro odstoupení od smlouvy“ (preferoval technologickou neutralitu). Vyjádřil obavy z dopadů cenových stropů u spotřebitelských úvěrů na dostupnost legálních úvěrů pro rizikové klienty.
-*   **Jan Gregor (člen Evropského účetního dvora):** Představil výroční zprávu auditorů EU za rok 2024. Upozornil na vysokou chybovost výdajů (cca 3–5 %) a rizika spojená s novými mechanismy financování EU (tzv. *financing not linked to costs*). Varoval před budoucím zatížením rozpočtu EU splácením dluhu z nástroje pro oživení (cca 149 mld. EUR).
-*   **Miroslav Ševčík (poslanec):** Kriticky se vyjádřil k hospodaření EU, označil ji za „plánovací komisi“ a varoval před skrytým deficitem rozpočtu EU.
-*   **Věra Kovářová (poslankyně):** Reagovala na debatu o zadlužení státu, bránila konsolidační úsilí minulé vlády a zdůraznila význam poměru deficitu k HDP.
-*   **Patrik Nacher (poslanec):** Podpořil kompromisní nastavení cenových stropů u spotřebitelských úvěrů (48 % RPSN) a upozornil na rizika spojená s regulací úvěrů s nulovým navýšením (např. mobilní telefony na splátky).
-*   **Bohumil Brásdil (poslanec):** Otevřel téma „práva být zapomenut“ u onkologických pacientů při pojištění úvěrů, navrhl zkrácení lhůty z 15 let na 5–7 let.
+*   **Jiří Palán (Ministerstvo financí):** Prezentoval vládní návrhy zákonů (finanční služby na dálku, spotřebitelské úvěry, účetnictví). Argumentoval nutností transpozice evropských směrnic a snahou o minimalizaci „gold platingu“. U spotřebitelských úvěrů obhajoval zastropování RPSN na 48 % jako kompromis mezi ochranou spotřebitele a dostupností úvěrů.
+*   **Vojtěch Munzar (ODS):** Kritizoval návrh zákona o spotřebitelském úvěru v oblasti posuzování úvěruschopnosti u úvěrů s nulovým navýšením (např. splátky u operátorů). Vyjádřil obavy, že cenové stropy mohou vytlačit rizikové klienty k lichvářům. Navrhl prodloužení lhůty pro pozměňovací návrhy.
+*   **Patrik Nacher (ANO):** Podpořil kompromisní nastavení cenového stropu u spotřebitelských úvěrů. Upozornil na rizika spojená s regulací úvěrů s nulovým navýšením a vyzval k hlubší diskuzi v rámci podvýboru pro ochranu spotřebitele.
+*   **Jan Gregor (Evropský účetní dvůr):** Představil výroční zprávu auditorů EU za rok 2024. Upozornil na vysokou chybovost výdajů (cca 3–5 %) a rizika spojená s novými nástroji financování (Nástroj pro oživení a odolnost). Varoval před rostoucím zadlužením EU a dopady inflace.
+*   **Jana Sedmihradská (TOP 09):** Kritizovala zprávu o pokladním plnění státního rozpočtu za to, že neobsahuje včasná varování před rizikem překročení schváleného schodku.
+*   **Miroslav Ševčík (SPD):** Kritizoval hospodaření EU, označil ji za „plánovací komisi“ a varoval před skrytým deficitem rozpočtu EU.
+*   **Věra Kovářová (STAN):** Reagovala na debatu o zadlužení státu, zdůraznila konsolidační úsilí vlády a odmítla kritiku minulé vlády.
+*   **Další body:** Výbor projednal a vzal na vědomí zprávu o plnění rozpočtu za 1.–3. čtvrtletí 2025 a schválil usnesení k výroční zprávě Evropského účetního dvora.
 
 ### 3. Výsledek / závěr
-Výbor přijal usnesení k projednávaným tiskům, doporučil je k dalšímu čtení a stanovil lhůty pro podávání pozměňovacích návrhů. U zákona o spotřebitelském úvěru bylo projednávání přerušeno do 13. května 2026. U zákonů o účetnictví bylo projednávání přerušeno do září 2026.
+Výbor přijal usnesení k projednávaným tiskům, doporučil je k dalšímu čtení a stanovil lhůty pro podávání pozměňovacích návrhů. U tisku 145 (spotřebitelské úvěry) bylo projednávání přerušeno do 13. května 2026. U tisků 63 a 64 (účetnictví) bylo projednávání přerušeno do září 2026, aby byl prostor pro práci pracovních skupin.
 
 ### 4. Poznámky
-Přepis obsahuje četné technické chyby, opakující se fráze („Představující se výboru“, „Výbor výboru je výborný“) a místy nesrozumitelné pasáže způsobené automatickým přepisem.
+Přepis obsahuje četné technické chyby, opakující se fráze („Představující se výboru“, „Výbor výboru je výborný“) a místy nesrozumitelné pasáže způsobené automatickým přepisem. Časové značky a jména řečníků byly identifikovány na základě kontextu.
 
 ---
 
 ## Doplňující otázky
-
-*   **Kontroverze: Cenové stropy u spotřebitelských úvěrů**
-    *   **Kdo:** Vojtěch Munzar (ODS) vs. Ministerstvo financí a Patrik Nacher (ANO).
-    *   **Co:** Spor o výši stropu (48 % RPSN) a jeho dopad na vytlačení klientů k lichvářům.
-    *   **Proč:** Politicky citlivé téma ochrany spotřebitele vs. riziko vzniku šedé zóny.
-    *   **Čas:** 12/02:05, 14/02:06.
-*   **Kontroverze: Zadlužení státu a „eurohujerství“**
-    *   **Kdo:** Miroslav Ševčík (nestr.) vs. Jan Jakob (TOP 09) a Věra Kovářová (STAN).
-    *   **Co:** Slovní přestřelka o odpovědnosti za zadlužení státu a smyslu členství v EU.
-    *   **Proč:** Ideologický střet o ekonomickou politiku a roli ČR v EU.
-    *   **Čas:** 9/02:08, 10/06:17.
+*   **Kontroverze:** Spor mezi poslanci Ševčíkem a Jakobem/Kovářovou ohledně odpovědnosti za zadlužení státu a fungování EU.
+    *   **Kdo:** Miroslav Ševčík (SPD) vs. Jan Jakob (TOP 09) a Věra Kovářová (STAN).
+    *   **Co:** Vzájemné obviňování z „eurohujerství“ a nezodpovědného zadlužování země.
+    *   **Proč:** Politicky citlivé téma rozpočtové odpovědnosti a vztahu k EU.
+    *   **Čas:** 9/02:08 a 10/06:17.
 
 ---
 
 ## Klíčové citace pro veřejnost
-
-1.  „Hospodaření státního rozpočtu skončilo ke dni 30. 9. schodkem ve výši 153,9 miliard korun, což představuje zhruba 63,8 % plánovaného ročního deficitu.“ (Parafráze, **Jana Mračková Vildumetzová**, ANO, 6/00:50)
-2.  „Evropský účetní dvůr v podstatě plní roli jakéhosi evropského NKÚ, s tím, že máme silnější roli v tom ročním rozpočtovém procesu.“ (Citace, **Jan Gregor**, Evropský účetní dvůr, 7/01:20)
-3.  „V roce 2025 deficit státního rozpočtu činil 291 miliard korun, což představovalo meziroční prohloubení schodku o 19 miliard korun.“ (Parafráze, **Jiří Palán**, Ministerstvo financí, 6/03:40)
+*   „Evropský účetní dvůr prezentuje standardně každý rok výroční zprávu o věrohodnosti výdajů rozpočtu EU a příjmů.“ — **Jan Gregor (Evropský účetní dvůr)**, 7/02:04.
+*   „Hospodaření státního rozpočtu skončilo ke dni 30. 9. schodkem ve výši 153,9 miliard korun, což představuje zhruba 63,8 % plánovaného ročního deficitu.“ — **neidentifikovaný řečník (zpravodaj)**, 6/00:00.
+*   „Navržený cenový strop ve výši 48 % RPSN je tak nízký, že to není to, co je dnes dle soudů přípustné.“ — **Vojtěch Munzar (ODS)**, 12/02:05.
 
 ---
 
 ## JSON výstup
-
 ```json
 {
   "schema_version": "2",
@@ -61,70 +56,64 @@ Přepis obsahuje četné technické chyby, opakující se fráze („Představuj
   "transcription": {
     "parts_transcribed": 19,
     "parts_total": 19,
-    "source": "whisper",
-    "model": "whisper-large-v3"
+    "source": "whisper-large-v3",
+    "model": null
   },
   "summary": {
-    "topic": "Jednání Rozpočtového výboru se zaměřilo na projednávání vládních návrhů zákonů v rámci přípravy na druhé čtení v Poslanecké sněmovně, kontrolu plnění státního rozpočtu a projednání výroční zprávy Evropského účetního dvora. Cílem bylo posoudit legislativní návrhy týkající se finančních služeb, investičních fondů, penzijního spoření a účetnictví, a zároveň zajistit transparentní dohled nad hospodařením státu a evropských fondů.",
+    "topic": "Jednání Rozpočtového výboru bylo zaměřeno na projednávání vládních návrhů zákonů v rámci přípravy na druhé čtení v Poslanecké sněmovně, kontrolu plnění státního rozpočtu a projednání výroční zprávy Evropského účetního dvora. Cílem bylo posoudit legislativní návrhy, stanovit pozměňovací návrhy a zaujmout k nim stanoviska.\n\nVýbor se zabýval transpozicemi evropských směrnic (spotřebitelské úvěry, finanční služby na dálku), novelou zákona o účetnictví a informací o pokladním plnění státního rozpočtu za první tři čtvrtletí roku 2025.",
     "main_points": [
-      "**Jiří Palán (Ministerstvo financí)** — Prezentoval vládní návrhy zákonů (transpozice směrnic EU o finančních službách na dálku, spotřebitelský úvěr, zákon o účetnictví). Argumentoval nutností transpozice směrnic a snahou o minimalizaci „gold platingu“. Upozornil na rostoucí státní dluh (3 678 mld. Kč v roce 2025), přesto zdůraznil vysoké ratingové hodnocení ČR.",
-      "**Vojtěch Munzar (poslanec)** — Kritizoval striktní nesouhlasné stanovisko MF k pozměňovacímu návrhu ohledně „tlačítka pro odstoupení od smlouvy“. Vyjádřil obavy z dopadů cenových stropů u spotřebitelských úvěrů na dostupnost legálních úvěrů pro rizikové klienty.",
-      "**Jan Gregor (člen Evropského účetního dvora)** — Představil výroční zprávu auditorů EU za rok 2024. Upozornil na vysokou chybovost výdajů a rizika spojená s novými mechanismy financování EU. Varoval před budoucím zatížením rozpočtu EU splácením dluhu z nástroje pro oživení (cca 149 mld. EUR).",
-      "**Miroslav Ševčík (poslanec)** — Kriticky se vyjádřil k hospodaření EU, označil ji za „plánovací komisi“ a varoval před skrytým deficitem rozpočtu EU.",
-      "**Věra Kovářová (poslankyně)** — Reagovala na debatu o zadlužení státu, bránila konsolidační úsilí minulé vlády a zdůraznila význam poměru deficitu k HDP.",
-      "**Patrik Nacher (poslanec)** — Podpořil kompromisní nastavení cenových stropů u spotřebitelských úvěrů (48 % RPSN) a upozornil na rizika spojená s regulací úvěrů s nulovým navýšením.",
-      "**Bohumil Brásdil (poslanec)** — Otevřel téma „práva být zapomenut“ u onkologických pacientů při pojištění úvěrů, navrhl zkrácení lhůty z 15 let na 5–7 let."
+      "**Jiří Palán (Ministerstvo financí)** — Prezentoval vládní návrhy zákonů (finanční služby na dálku, spotřebitelské úvěry, účetnictví). Argumentoval nutností transpozice evropských směrnic a snahou o minimalizaci „gold platingu“.",
+      "**Vojtěch Munzar (ODS)** — Kritizoval návrh zákona o spotřebitelském úvěru v oblasti posuzování úvěruschopnosti u úvěrů s nulovým navýšením. Vyjádřil obavy, že cenové stropy mohou vytlačit rizikové klienty k lichvářům.",
+      "**Patrik Nacher (ANO)** — Podpořil kompromisní nastavení cenového stropu u spotřebitelských úvěrů. Upozornil na rizika spojená s regulací úvěrů s nulovým navýšením.",
+      "**Jan Gregor (Evropský účetní dvůr)** — Představil výroční zprávu auditorů EU za rok 2024. Upozornil na vysokou chybovost výdajů a rizika spojená s novými nástroji financování.",
+      "**Jana Sedmihradská (TOP 09)** — Kritizovala zprávu o pokladním plnění státního rozpočtu za to, že neobsahuje včasná varování před rizikem překročení schváleného schodku.",
+      "**Miroslav Ševčík (SPD)** — Kritizoval hospodaření EU, označil ji za „plánovací komisi“ a varoval před skrytým deficitem rozpočtu EU.",
+      "**Věra Kovářová (STAN)** — Reagovala na debatu o zadlužení státu, zdůraznila konsolidační úsilí vlády a odmítla kritiku minulé vlády."
     ],
-    "outcome": "Výbor přijal usnesení k projednávaným tiskům, doporučil je k dalšímu čtení a stanovil lhůty pro podávání pozměňovacích návrhů. U zákona o spotřebitelském úvěru bylo projednávání přerušeno do 13. května 2026. U zákonů o účetnictví bylo projednávání přerušeno do září 2026.",
-    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze („Představující se výboru“, „Výbor výboru je výborný“) a místy nesrozumitelné pasáže způsobené automatickým přepisem."
+    "outcome": "Výbor přijal usnesení k projednávaným tiskům, doporučil je k dalšímu čtení a stanovil lhůty pro podávání pozměňovacích návrhů. U tisku 145 (spotřebitelské úvěry) bylo projednávání přerušeno do 13. května 2026. U tisků 63 a 64 (účetnictví) bylo projednávání přerušeno do září 2026.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a místy nesrozumitelné pasáže způsobené automatickým přepisem."
   },
   "entities": {
     "speakers": [
       {"name": "Jiří Palán", "person_id": null, "affiliation": "Ministerstvo financí"},
-      {"name": "Vojtěch Munzar", "person_id": null, "affiliation": "Poslanec"},
+      {"name": "Vojtěch Munzar", "person_id": null, "affiliation": "ODS"},
+      {"name": "Patrik Nacher", "person_id": null, "affiliation": "ANO"},
       {"name": "Jan Gregor", "person_id": null, "affiliation": "Evropský účetní dvůr"},
-      {"name": "Miroslav Ševčík", "person_id": null, "affiliation": "Poslanec"},
-      {"name": "Věra Kovářová", "person_id": null, "affiliation": "Poslankyně"},
-      {"name": "Patrik Nacher", "person_id": null, "affiliation": "Poslanec"},
-      {"name": "Bohumil Brásdil", "person_id": null, "affiliation": "Poslanec"}
+      {"name": "Jana Sedmihradská", "person_id": null, "affiliation": "TOP 09"},
+      {"name": "Miroslav Ševčík", "person_id": null, "affiliation": "SPD"},
+      {"name": "Věra Kovářová", "person_id": null, "affiliation": "STAN"}
     ],
-    "parties": ["ANO", "ODS", "STAN", "TOP 09"],
-    "institutions": ["Rozpočtový výbor", "Ministerstvo financí", "Evropský účetní dvůr"]
+    "parties": ["ODS", "ANO", "TOP 09", "SPD", "STAN"],
+    "institutions": ["Ministerstvo financí", "Evropský účetní dvůr", "Poslanecká sněmovna"]
   },
   "highlights": [
     {
-      "text": "Hospodaření státního rozpočtu skončilo ke dni 30. 9. schodkem ve výši 153,9 miliard korun, což představuje zhruba 63,8 % plánovaného ročního deficitu.",
-      "type": "paraphrase",
-      "speaker": "Jana Mračková Vildumetzová",
-      "affiliation": "ANO",
-      "timestamp": "6/00:50"
-    },
-    {
-      "text": "Evropský účetní dvůr v podstatě plní roli jakéhosi evropského NKÚ, s tím, že máme silnější roli v tom ročním rozpočtovém procesu.",
+      "text": "Evropský účetní dvůr prezentuje standardně každý rok výroční zprávu o věrohodnosti výdajů rozpočtu EU a příjmů.",
       "type": "citation",
       "speaker": "Jan Gregor",
       "affiliation": "Evropský účetní dvůr",
-      "timestamp": "7/01:20"
+      "timestamp": "7/02:04"
     },
     {
-      "text": "V roce 2025 deficit státního rozpočtu činil 291 miliard korun, což představovalo meziroční prohloubení schodku o 19 miliard korun.",
+      "text": "Hospodaření státního rozpočtu skončilo ke dni 30. 9. schodkem ve výši 153,9 miliard korun, což představuje zhruba 63,8 % plánovaného ročního deficitu.",
+      "type": "citation",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "6/00:00"
+    },
+    {
+      "text": "Navržený cenový strop ve výši 48 % RPSN je tak nízký, že to není to, co je dnes dle soudů přípustné.",
       "type": "paraphrase",
-      "speaker": "Jiří Palán",
-      "affiliation": "Ministerstvo financí",
-      "timestamp": "6/03:40"
+      "speaker": "Vojtěch Munzar",
+      "affiliation": "ODS",
+      "timestamp": "12/02:05"
     }
   ],
   "controversial": [
     {
-      "statement": "Spor o výši stropu u spotřebitelských úvěrů (48 % RPSN) a jeho dopad na vytlačení klientů k lichvářům.",
-      "speaker": "Vojtěch Munzar vs. Ministerstvo financí a Patrik Nacher",
-      "affiliation": null,
-      "timestamp": "12/02:05"
-    },
-    {
-      "statement": "Slovní přestřelka o odpovědnosti za zadlužení státu a smyslu členství v EU.",
-      "speaker": "Miroslav Ševčík vs. Jan Jakob a Věra Kovářová",
-      "affiliation": null,
+      "statement": "Spor mezi poslanci Ševčíkem a Jakobem/Kovářovou ohledně odpovědnosti za zadlužení státu a fungování EU.\n- **Kdo:** Miroslav Ševčík (SPD) vs. Jan Jakob (TOP 09) a Věra Kovářová (STAN).\n- **Co:** Vzájemné obviňování z „eurohujerství“ a nezodpovědného zadlužování země.\n- **Proč:** Politicky citlivé téma rozpočtové odpovědnosti a vztahu k EU.\n- **Čas:** 9/02:08 a 10/06:17.",
+      "speaker": "Miroslav Ševčík, Jan Jakob, Věra Kovářová",
+      "affiliation": "SPD, TOP 09, STAN",
       "timestamp": "9/02:08"
     }
   ],

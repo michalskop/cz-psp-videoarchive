@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:50:38",
+  "created_at": "2026-05-29T14:30:18",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2835",
@@ -19,18 +19,19 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Konference se zaměřila na roli, výzvy a transformaci národních paměťových institucí v zemích Visegrádské čtyřky (V4) po roce 1989. Cílem bylo zhodnotit dosavadní práci archivů a ústavů při vyrovnávání se s totalitní minulostí (nacismus a komunismus), sdílet zkušenosti s digitalizací a edukací a diskutovat o aktuální hrozbě hybridních aktivit a propagandy, které zneužívají historii.\n\nJednání zdůraznilo, že paměťová agenda není pouze historickou záležitostí, ale klíčovým prvkem národní bezpečnosti a rezilience demokratických států. Účastníci se shodli na nutnosti mezinárodní spolupráce a sdílení dat, aby bylo možné čelit manipulacím s dějinami, které jsou v současnosti využívány imperiálními mocnostmi.",
+    "topic": "Konference se zaměřila na roli a fungování národních paměťových institucí v zemích Visegrádské čtyřky (V4) při vyrovnávání se s totalitní minulostí (nacistickou a komunistickou). Cílem bylo sdílet zkušenosti s transformací bezpečnostních složek, zpřístupňováním archivů, vyšetřováním zločinů a vzděláváním mladé generace.\n\nJednání zdůraznilo, že paměťová agenda není pouze historickou záležitostí, ale klíčovým prvkem demokratické odolnosti (rezilience) států v kontextu současných hybridních hrozeb a ruského imperialismu. Účastníci diskutovali o rozdílných modelech institucí, problémech s personální kontinuitou bývalých struktur a nutnosti mezinárodní spolupráce při uchovávání historické pravdy.",
     "main_points": [
-      "**Pavel Žáček (Poslanec, ČR)** — zdůraznil význam paměťových institucí pro transformaci státu a kritizoval ztracený čas v 90. letech při otevírání archivů.",
-      "**Marek Mutor (Platforma evropské paměti a svědomí)** — varoval před zneužíváním historie v propagandě a volal po pan-evropské paměťové instituci v Bruselu.",
-      "**Karol Polejowski (IPN, Polsko)** — prezentoval rozsáhlé kapacity IPN a varoval před procesem „zrekomunizace“ společnosti v Polsku.",
-      "**Michal Miklovič (ÚPN, Slovensko)** — popsal mapování mocenského aparátu a odstraňování totalitních symbolů na Slovensku.",
-      "**Mikuláš Kroupa (Post Bellum, ČR)** — zdůraznil nezávislost občanského sektoru a kritizoval politický tlak na paměťové instituce.",
-      "**Jan Mrzena (Rada ÚSTR, ČR)** — varoval před riziky spojenými s legislativním sloučením Archivu bezpečnostních složek s Národním archivem v roce 2030.",
-      "**Dalibor Sypták (UDV, ČR)** — vysvětlil roli Úřadu dokumentace a vyšetřování jako orgánu činného v trestním řízení, který převádí historickou paměť do právní odpovědnosti."
+      "**Pavel Žáček (Poslanec, ČR):** Organizátor konference. Zdůraznil ztrátu času v 90. letech kvůli sporům o otevírání archivů. Upozornil na riziko „zacyklení“ diskuse a nutnost bránit se bagatelizaci zločinů.",
+      "**Marek Mutor (Platforma evropské paměti a svědomí):** Zdůraznil, že paměťová agenda je dnes defenzivním prvkem národní bezpečnosti. Prosazuje vytvoření pan-evropského paměťového centra v Bruselu.",
+      "**Karol Polejowski (IPN, Polsko):** Prezentoval rozsáhlé aktivity polského IPN (94 km archiválií, 2500 zaměstnanců, rozpočet cca 120 mil. EUR).",
+      "**Michal Miklovič (ÚPN, Slovensko):** Popsal fungování ÚPN, který vznikl v roce 2002. Upozornil na úspěšnou personální rekonstrukci mocenského aparátu.",
+      "**Čeh Mendegiš (Historický archiv státních bezpečnostních služeb, Maďarsko):** Představil maďarský model archivu, který je podřízen parlamentu. Upozornil na využívání AI při analýze digitalizovaných textů.",
+      "**Mikuláš Kroupa (Post Bellum, ČR):** Prezentoval projekt „Paměť národa“. Zdůraznil nezávislost občanského sektoru, který dokáže efektivně sbírat orální historii (20 000 výpovědí).",
+      "**Jan Mrzena (Rada ÚSTR, ČR):** Upozornil na legislativní riziko (paragraf 17 zákona o ÚSTR), který v roce 2030 hrozí zánikem samostatnosti Archivu bezpečnostních složek.",
+      "**Dalibor Sypták (ÚDV, ČR):** Popsal roli Úřadu dokumentace a vyšetřování zločinů komunismu jako orgánu činného v trestním řízení. Uvedl, že za 30 let bylo obviněno 318 osob."
     ],
-    "outcome": "Jednání potvrdilo, že modely paměťových institucí v zemích V4 se liší, ale sdílejí společný cíl: ochranu pravdy o totalitních režimech. Dominujícím postojem je obava z politizace paměťové agendy a z rizik spojených s legislativními změnami (např. v ČR sloučení archivů v roce 2030). Účastníci se shodli na nutnosti prohloubit spolupráci v oblasti digitalizace a využívání umělé inteligence pro analýzu archivních dat.",
-    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze („Národní paměťové instituce v zemích V4“) a nesrozumitelné pasáže způsobené automatickým přepisem. Obsah byl rekonstruován na základě srozumitelných částí záznamu."
+    "outcome": "Konference potvrdila konsenzus o nezbytnosti existence paměťových institucí jako garantů historické pravdy. Dominujícím postojem je obava z politických tlaků, které se snaží omezit přístup k archivům nebo zpochybnit význam vyrovnávání se s minulostí. Účastníci se shodli na potřebě hlubší spolupráce v rámci V4 a na nutnosti modernizace metod (AI, digitální přístup) při zachování nezávislosti institucí.",
+    "notes": "Přepis obsahuje četné technické chyby a opakující se nesmyslné fráze (např. „Národní paměťové instituce v zemích V4...“), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
@@ -62,7 +63,7 @@
       {
         "name": "Dalibor Sypták",
         "person_id": null,
-        "affiliation": "UDV"
+        "affiliation": "ÚDV"
       }
     ],
     "parties": [
@@ -70,45 +71,52 @@
     ],
     "institutions": [
       "ÚSTR",
-      "ABS",
       "IPN",
       "ÚPN",
       "Post Bellum",
-      "UDV"
+      "ÚDV"
     ]
   },
   "highlights": [
     {
       "text": "Paměť bez pravidelnosti je jen vzpomínka, spravedlnost bez paměti není možná.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Dalibor Sypták",
-      "affiliation": "UDV",
+      "affiliation": "ÚDV",
       "timestamp": "34/04:16",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2835_highlight_00.jpg",
-      "context": "Jde o filozofický a rétorický výrok, který nelze fakticky ověřit, neboť se nejedná o tvrzení o objektivní realitě, ale o hodnotový soud."
+      "screenshot_path": "summaries/screenshots/event_2835_highlight_00.jpg",
+      "context": "Jde o filozofický a rétorický výrok, který nelze faktograficky ověřit, neboť se nejedná o tvrzení o objektivní realitě, ale o hodnotový soud."
     },
     {
-      "text": "Bez archivů, které máme otevřené, bychom se v dokumentování příběhů neobešli.",
+      "text": "Pokud archiv zůstane anebo nezůstane po roce 2030 nezávislou institucí, přesto tuto oblast čeká na vyhnutný generační skok.",
       "type": "citation",
-      "speaker": "Mikuláš Kroupa",
-      "affiliation": "Post Bellum",
-      "timestamp": "23/07:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2835_highlight_01.jpg",
-      "context": "Přístup k archivům v ČR upravuje zákon č. 499/2004 Sb., o archivnictví a spisové službě. Organizace Post Bellum dlouhodobě využívá materiály z Archivu bezpečnostních složek (ABS) a dalších institucí pro projekt Paměť národa."
+      "speaker": "Petr Vrndek",
+      "affiliation": "Archiv bezpečnostních složek",
+      "timestamp": "32/04:11",
+      "screenshot_path": "summaries/screenshots/event_2835_highlight_01.jpg",
+      "context": "Tvrzení o 'generačním skoku' je predikcí vývoje v oblasti archivnictví. Status nezávislosti Archivu bezpečnostních složek (ABS) je upraven zákonem č. 181/2007 Sb., o Ústavu pro studium totalitních režimů a Archivu bezpečnostních složek."
     }
   ],
   "controversial": [
     {
-      "statement": "Mikuláš Kroupa kritizoval současnou politickou situaci na Slovensku a v ČR. Uvedl, že na Slovensku čelí paralyzující kontrole ze strany státu a v ČR kritizoval vládu za zrušení Rady pro paměťovou agendu a nízký zájem o toto téma.",
+      "statement": "Kritizoval zrušení Rady vlády pro paměťovou agendu a nejasný osud finančních prostředků (20–30 mil. Kč), které měly být na tuto agendu vyčleněny.",
+      "speaker": "Pavel Žáček",
+      "affiliation": "Poslanecká sněmovna ČR",
+      "timestamp": "22/08:00",
+      "screenshot_path": "summaries/screenshots/event_2835_controversy_00.jpg",
+      "context": "Rada vlády pro paměťovou agendu byla skutečně zrušena v roce 2022 v rámci úsporných opatření vlády. Otázka rozpočtových prostředků v řádech desítek milionů korun byla předmětem politické debaty, konkrétní alokace však podléhá schválenému státnímu rozpočtu a rozhodnutí Úřadu vlády."
+    },
+    {
+      "statement": "Uvedl, že organizace čelí na Slovensku paralyzující půlroční kontinuální kontrole všech dokumentů ze strany státu.",
       "speaker": "Mikuláš Kroupa",
       "affiliation": "Post Bellum",
       "timestamp": "24/06:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2835_controversy_00.jpg",
-      "context": "Situace na Slovensku (např. změny v RTVS či Ústavu paměti národa) je předmětem mezinárodní kritiky kvůli obavám z politizace. Co se týče ČR, vláda v rámci úsporných opatření skutečně zrušila Radu vlády pro paměťovou agendu (zřízenou v roce 2022), což vyvolalo kritiku části odborné veřejnosti, která to vnímá jako oslabení institucionální podpory paměťových témat."
+      "screenshot_path": "summaries/screenshots/event_2835_controversy_01.jpg",
+      "context": "Tvrzení se týká situace organizace Post Bellum na Slovensku. V roce 2024 čelila slovenská pobočka Post Bellum zvýšenému tlaku a kontrolám ze strany slovenských úřadů, což bylo médii i organizací interpretováno jako politicky motivovaný krok vůči neziskovému sektoru."
     }
   ],
   "quality": {
-    "transcript_quality": "poor",
+    "transcript_quality": "partial",
     "unintelligible_parts": true
   },
   "extras": null

@@ -1,0 +1,114 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:20:06",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2938",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-26T12:00",
+    "end_date": "2026-05-26T12:20",
+    "sources": [
+      "final/event_2938_2026-05-26_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace legislativních priorit poslaneckého klubu SPD na aktuální schůzi Poslanecké sněmovny. Hlavními tématy byla ekonomická pomoc živnostníkům, změny ve stavebním zákoně, úpravy v doplňkovém penzijním spoření, kritika testování žáků a zpřísnění podmínek pro pobyt cizinců (zejména uprchlíků z Ukrajiny).\n\nCílem konference bylo zdůraznit roli SPD jako aktivní vládní síly, která prosazuje opatření pro „zlevňování životů“ občanů a nápravu kroků předchozí vlády Petra Fialy.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — prosazuje snížení odvodů živnostníkům (úspora 715 Kč/měsíc), zrychlení stavebního řízení a umožnění seniorům vystoupit z penzijního připojištění bez sankcí.",
+      "**Libor Vondráček (SPD)** — kritizuje výstavbu větrných elektráren bez souhlasu obcí a odmítá diktát EU v této oblasti.",
+      "**Zuzana Majerová (SPD)** — kritizuje Českou školní inspekci za dotazníky v testech žáků; testování bylo po tlaku SPD zastaveno.",
+      "**Radek Koten (SPD)** — navrhuje zpřísnění pravidel pro cizince, zejména zkrácení doby pobytu mimo Schengen pro udržení dočasné ochrany na 30 dní."
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací postojů. Dominujícím postojem SPD je snaha o revizi legislativy přijaté za minulé vlády, důraz na národní suverenitu vůči rozhodnutím EU a snaha o přímou finanční pomoc vybraným skupinám obyvatel.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, opakující se nesmyslné fráze a místy useknuté věty."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Zuzana Majerová",
+        "person_id": "psp:person:6467",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radek Koten",
+        "person_id": "psp:person:6508",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "ODS",
+      "KDU-ČSL",
+      "STAN",
+      "TOP 09",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Evropská unie",
+      "Česká školní inspekce"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ušetříme všem živnostníkům minimálně v průměru 715 korun měsíčně, to znamená přes 8 tisíc ročně v průměru.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:00",
+      "screenshot_path": "summaries/screenshots/event_2938_highlight_00.jpg",
+      "context": "Tvrzení nelze nezávisle ověřit bez specifikace konkrétního legislativního návrhu či daňového opatření, na které řečník odkazuje. Úspora závisí na konkrétní skupině živnostníků, výši jejich příjmů a typu výdajových paušálů, nikoliv na plošném průměru pro všechny OSVČ."
+    },
+    {
+      "text": "Za SPD říkám jasně, že já tady nechci, aby tady stály nějaký 200 metrový větrníky vedle obcí anebo na horizontu krajiny.",
+      "type": "citation",
+      "speaker": "Libor Vondráček",
+      "affiliation": "SPD",
+      "timestamp": "1/07:01",
+      "screenshot_path": "summaries/screenshots/event_2938_highlight_01.jpg",
+      "context": "Jde o politický názor a vyjádření postoje k územnímu plánování a ochraně krajinného rázu. Výška větrných elektráren je regulována stavebním zákonem a procesy posuzování vlivů na životní prostředí (EIA), nikoliv plošným zákazem."
+    },
+    {
+      "text": "Dočasná ochrana pro migranty z Ukrajiny v ČR zanikne lidem, kteří se budou zdržovat mimo státy tzv. Schengenského prostoru EU déle než 30 dní.",
+      "type": "citation",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/13:31",
+      "screenshot_path": "summaries/screenshots/event_2938_highlight_02.jpg",
+      "context": "Tvrzení je zavádějící. Podle zákona č. 65/2022 Sb. (tzv. Lex Ukrajina) a souvisejících předpisů zaniká dočasná ochrana při dlouhodobém pobytu mimo území ČR, nikoliv pouze mimo Schengenský prostor. Pravidla pro zánik ochrany se řídí konkrétními lhůtami stanovenými v aktuálním znění zákona."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Radek Koten (SPD)\n**Co:** Navrhuje zrušení dočasné ochrany a všech dávek pro ukrajinské uprchlíky.\n**Proč:** Politicky citlivé téma vzhledem k mezinárodním závazkům ČR a směrnicím EU, které SPD otevřeně kritizuje jako „diktát“.\n**Čas:** 1/14:05",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/14:05",
+      "screenshot_path": "summaries/screenshots/event_2938_controversy_00.jpg",
+      "context": "Návrh na zrušení dočasné ochrany a dávek je politickým programovým bodem SPD. Zrušení dočasné ochrany by bylo v rozporu s aktuálním nastavením implementace směrnice EU o dočasné ochraně (2001/55/ES), ke které je ČR vázána."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

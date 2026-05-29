@@ -1,54 +1,59 @@
 Toto je strukturované shrnutí jednání kulatého stolu na téma odolnosti kritické infrastruktury a kybernetické bezpečnosti ve školství.
 
 ### 1. Téma a účel jednání
-Jednání kulatého stolu se zaměřilo na komplexní problematiku bezpečnosti ve školském prostředí, a to v kontextu nových legislativních požadavků (zákon o kybernetické bezpečnosti, zákon o odolnosti subjektů kritické infrastruktury) a aktuálních bezpečnostních hrozeb. Cílem bylo otevřít dialog mezi odborníky z praxe, zástupci škol, akademickou sférou a zákonodárci.
+Jednání kulatého stolu se zaměřilo na komplexní problematiku bezpečnosti ve vzdělávacím systému ČR, konkrétně na propojení legislativních požadavků (zákon o kybernetické bezpečnosti, zákon o odolnosti subjektů kritické infrastruktury) s reálnou praxí ve školách. Cílem bylo otevřít dialog o implementaci těchto předpisů, roli vzdělávání při přípravě budoucích pracovníků kritické infrastruktury a nutnosti systémových změn v přístupu k bezpečnosti (fyzické, kybernetické i psychologické).
 
-Hlavním záměrem bylo propojit legislativní rámec s reálnou praxí ve školách, identifikovat slabá místa v ochraně měkkých cílů a kybernetické bezpečnosti a definovat systémová doporučení pro Ministerstvo školství, mládeže a tělovýchovy (MŠMT) a další relevantní orgány. Diskuse se soustředila na potřebu multidisciplinárního přístupu k bezpečnosti, kde se fyzická, objektová a kybernetická bezpečnost prolínají.
+Výstupem jednání má být soubor doporučení pro Ministerstvo školství, mládeže a tělovýchovy a další relevantní orgány, který podpoří systémovou odolnost škol jakožto součástí kritické infrastruktury státu.
 
 ### 2. Hlavní body
-*   **Dušan Kalášek (Asociace škol kritické infrastruktury - ASKy):** Moderátor a organizátor. Zdůraznil nutnost systémové změny, přechod od jednorázových školení k cyklickému vzdělávání a potřebu vytvořit závěry pro MŠMT.
-*   **Renáta Zajíčková (poslankyně, zaštiťující):** Uvedla nutnost reagovat na nové právní předpisy a zdůraznila, že školy jsou součástí kritické infrastruktury státu.
-*   **Jaroslav Vítek (Asociace pověřenců ČR):** Argumentoval, že „bezpečnost je jedna“ a nelze oddělovat fyzickou a kybernetickou složku. Varoval před podceňováním lidského faktoru a zdůraznil nutnost adaptace na hybridní hrozby.
-*   **Jaroslav Hora (Český statistický úřad):** Upozornil na paralelu mezi analogovým a digitálním světem; školy mají špičkové zabezpečení budov, ale v kybernetickém prostoru často „pouštějí cizí lidi dovnitř“.
-*   **Radek Doubrava (specialista kybernetické bezpečnosti):** Uvedl, že otázkou není, zda útok přijde, ale kdy. Vyzdvihl posun v gramotnosti žáků, kteří jsou dnes v kybernetické bezpečnosti často napřed oproti předchozím generacím.
-*   **Jaroslav Kocijan (bezpečnostní manažer):** Zaměřil se na fyzickou bezpečnost a měkké cíle. Varoval, že největším rizikem je „insider“ (vnitřní hrozba) a že rodiče často nevědomky narušují bezpečnostní režimy škol.
-*   **Libor Sladký (Asociace Bezpečná škola):** Upozornil na kritické časy (přestávky, příchody/odchody), kdy jsou školy nejzranitelnější. Zdůraznil, že školy jsou objekty s vysokou koncentrací zranitelných osob.
-*   **Olga Helclová (ředitelka SŠ informatiky, poštovnictví a finančnictví):** Popsala praktické problémy: nedostatek financí na nepedagogické pracovníky (vrátné) a náročnost správy rozsáhlých objektů (41 únikových východů).
-*   **Ilona Vaculová (MŠMT):** Potvrdila, že legislativa nyní vyžaduje pravidelné vzdělávání v oblasti fyzické bezpečnosti každé tři roky. Připustila, že ředitelé mají velkou autonomii, což může vést k rozdílné kvalitě zabezpečení.
-*   **Richard Veleta (Národní pedagogický institut):** Představil návrh na novou profesní kvalifikaci v rámci Národní soustavy kvalifikací (NSK), která by standardizovala znalosti pracovníků v oblasti kritické infrastruktury.
-*   **Monika Bendová (právnička):** Kritizovala podfinancování veřejného sektoru a roztříštěnost informací směrem ke školám. Upozornila na nadužívání souhlasů se zpracováním osobních údajů tam, kde je jiný právní základ.
-*   **Dominik Pyták (Publi.cz):** Představil platformu pro interaktivní distribuci bezpečnostních metodik, která umožňuje efektivnější předávání informací žákům i zaměstnancům.
+*   **Dušan Kalášek (Asociace škol kritické infrastruktury - ASKy):** Moderátor a organizátor. Zdůraznil potřebu multidisciplinárního přístupu k bezpečnosti („bezpečnost je jedna“). Navrhuje vytvořit systémové závěry pro MŠMT a poslance.
+*   **Renáta Zajíčková (poslankyně, zaštiťující akci):** Potvrdila nutnost reagovat na nové legislativní nároky a propojit je s provozem škol.
+*   **Jaroslav Vítek (Asociace pověřenců ČR):** Upozornil na prohlubující se nestabilitu bezpečnostního prostředí. Zdůraznil, že každý jednotlivec je prvkem obranného řetězce a je nutná osobní připravenost.
+*   **Jaroslav Hora (Český statistický úřad):** Poukázal na obtížnost přenosu analogových bezpečnostních návyků do kybernetického světa. Varoval před podceňováním „insider“ hrozeb.
+*   **Radek Doubrava (specialista kybernetické bezpečnosti):** Uvedl, že otázkou není, zda útok přijde, ale kdy. Ocenil rostoucí kybernetickou gramotnost žáků.
+*   **Jaroslav Kocijan (bezpečnostní manažer):** Zaměřil se na fyzickou bezpečnost a měkké cíle. Kritizoval nedostatečnou přípravu pedagogů na krizové situace (evakuace, lockdowny) a navrhl cyklické vzdělávání namísto jednorázových školení.
+*   **Olga Helclová (ředitelka SŠ informatiky, poštovnictví a finančnictví):** Popsala praktické problémy: nedostatek financí na nepedagogické pracovníky (vrátné), vysoké náklady na bezpečnostní opatření a personální náročnost.
+*   **Monika Bendová (právnička):** Upozornila na podfinancování veřejného sektoru a roztříštěnost informací směrem ke školám. Kritizovala nadužívání souhlasů se zpracováním osobních údajů tam, kde není potřeba.
+*   **Jiří Sedláček (autor koncepce Junior centra excellence):** Představil licenční model pro školy v oblasti kybernetické bezpečnosti a zdůraznil nutnost souladu s minimálním bezpečnostním standardem NÚKIB.
+*   **Ilona Vaculová (MŠMT):** Uvedla, že bezpečnost je v RVP již obsažena jako průřezové téma, ale přiznala, že implementace závisí na vůli ředitelů.
+*   **Bohumír Štědroň (ČVUT):** Představil publikace o umělé inteligenci a šachu pro mládež.
+*   **Dominik Pyták (Publi.cz):** Prezentoval interaktivní platformu pro distribuci bezpečnostních metodik a výukových materiálů.
 
 ### 3. Výsledek / závěr
-Jednání nevedlo k okamžitému legislativnímu aktu, ale k vytvoření konsenzu o nutnosti:
-*   **Systematizace:** Přechod od nárazových školení k dlouhodobému cyklickému vzdělávání pedagogů i žáků.
-*   **Integrace:** Bezpečnost musí být vnímána jako multidisciplinární celek (fyzická + kybernetická + právní).
-*   **Standardizace:** Podpora vzniku profesních kvalifikací v rámci NSK pro manažery kritické infrastruktury.
-*   **Komunikace:** Potřeba srozumitelnější a méně roztříštěné komunikace ze strany státu směrem ke školám.
-*   **Výstup:** Organizátoři připraví souhrn podnětů pro ministra školství a příslušné výbory Poslanecké sněmovny.
+Jednání nevedlo k formálnímu hlasování, ale k širokému konsenzu v následujících bodech:
+*   **Systémová změna:** Bezpečnost nelze řešit jednorázově; je nutný cyklický vzdělávací program pro pedagogy i žáky.
+*   **Integrace:** Bezpečnost (fyzická, kybernetická, právní) musí být vnímána jako jeden celek, nikoliv jako oddělené administrativní úkoly.
+*   **Vzdělávání:** Je nutné posílit branou výchovu (či její moderní ekvivalent) a kritické myšlení v RVP.
+*   **Financování:** Současný stav je podfinancovaný, což ohrožuje schopnost škol udržet odborníky v oblasti kybernetické bezpečnosti.
 
 ### 4. Poznámky
-Technické problémy s technikou (mikrofony, prezentace) v průběhu jednání způsobily drobné výpadky v plynulosti, které však neovlivnily srozumitelnost hlavních argumentů.
+Přepis obsahuje technické chyby (useknutá slova, chybějící diakritika) a halucinace modelu (opakující se fráze o „konírnách“). Obsah byl rekonstruován na základě srozumitelných částí záznamu.
 
 ---
 
 ## Doplňující otázky
-*   **Kontroverze:** Návrh na zavedení „branné výchovy“ jako samostatného předmětu.
-    *   **Kdo:** Olga Helclová (ředitelka školy) a další diskutující.
-    *   **Co:** Zavedení povinného předmětu zaměřeného na krizové scénáře, první pomoc a obranu.
-    *   **Proč:** Politicky citlivé téma evokující minulý režim, zároveň naráží na přetíženost učebních osnov.
-    *   **Čas:** 14/04:02.
+
+*   **Kontroverzní téma:** Zavedení „branné výchovy“ jako samostatného předmětu.
+    *   **Kdo:** Josef Myslín (CEVRO Institut) a Olga Helclová (ředitelka SŠ).
+    *   **Co:** Návrh na zavedení samostatného předmětu zaměřeného na bezpečnost a krizové situace.
+    *   **Proč:** Politicky citlivé téma evokující minulý režim, zároveň naráží na přetíženost školních osnov.
+    *   **Čas:** 14/04:00.
 
 ---
 
 ## Klíčové citace pro veřejnost
-1.  „Bezpečnost je jedna a nelze ji oddělovat na fyzickou a kybernetickou, protože v praxi se tyto světy neustále prolínají.“ (Parafráze, Jaroslav Vítek, Asociace pověřenců ČR, 4/02:02)
-2.  „Školy jsou objekty s vysokou koncentrací zranitelných osob, které v dopoledních hodinách nemají v ČR obdoby.“ (Parafráze, Libor Sladký, Asociace Bezpečná škola, 8/08:05)
-3.  „Veřejný sektor je podfinancovaný a lidé v něm pracující jsou vytížení na 190 %, přesto se na ně nabalují další a další administrativní povinnosti.“ (Parafráze, Monika Bendová, právnička, 17/02:05)
+
+*   **Text:** „Bezpečnost je jedna a je třeba ji vnímat v souvislostech, nikoliv odděleně jako fyzickou, kybernetickou či požární.“ (Parafráze)
+    *   **Řečník:** Jaroslav Vítek (Asociace pověřenců ČR), 4/02:02.
+*   **Text:** „Školy jsou součástí kritické infrastruktury a naším úkolem je reagovat na potřebu propojení legislativních požadavků s reálným provozem.“ (Citace)
+    *   **Řečník:** Renáta Berkovcová (poslankyně), 1/08:02.
+*   **Text:** „Veřejný sektor je podfinancovaný a nedokáže konkurovat soukromému sektoru v odměňování odborníků na kybernetickou bezpečnost.“ (Parafráze)
+    *   **Řečník:** Monika Bendová (právnička), 17/00:00.
 
 ---
 
 ## JSON výstup
+
 ```json
 {
   "schema_version": "2",
@@ -65,51 +70,66 @@ Technické problémy s technikou (mikrofony, prezentace) v průběhu jednání z
   "transcription": {
     "parts_transcribed": 23,
     "parts_total": 23,
-    "source": "mixed",
+    "source": "whisper",
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání kulatého stolu se zaměřilo na komplexní problematiku bezpečnosti ve školském prostředí, a to v kontextu nových legislativních požadavků (zákon o kybernetické bezpečnosti, zákon o odolnosti subjektů kritické infrastruktury) a aktuálních bezpečnostních hrozeb. Cílem bylo otevřít dialog mezi odborníky z praxe, zástupci škol, akademickou sférou a zákonodárci.\n\nHlavním záměrem bylo propojit legislativní rámec s reálnou praxí ve školách, identifikovat slabá místa v ochraně měkkých cílů a kybernetické bezpečnosti a definovat systémová doporučení pro Ministerstvo školství, mládeže a tělovýchovy (MŠMT) a další relevantní orgány.",
+    "topic": "Jednání kulatého stolu se zaměřilo na komplexní problematiku bezpečnosti ve vzdělávacím systému ČR, konkrétně na propojení legislativních požadavků (zákon o kybernetické bezpečnosti, zákon o odolnosti subjektů kritické infrastruktury) s reálnou praxí ve školách. Cílem bylo otevřít dialog o implementaci těchto předpisů, roli vzdělávání při přípravě budoucích pracovníků kritické infrastruktury a nutnosti systémových změn v přístupu k bezpečnosti (fyzické, kybernetické i psychologické).\n\nVýstupem jednání má být soubor doporučení pro Ministerstvo školství, mládeže a tělovýchovy a další relevantní orgány, který podpoří systémovou odolnost škol jakožto součástí kritické infrastruktury státu.",
     "main_points": [
-      "**Dušan Kalášek (ASKy)** — Moderátor, zdůraznil nutnost systémové změny a přechodu od jednorázových školení k cyklickému vzdělávání.",
-      "**Jaroslav Vítek (Asociace pověřenců ČR)** — Argumentoval, že bezpečnost je jedna a nelze oddělovat fyzickou a kybernetickou složku.",
-      "**Jaroslav Kocijan (bezpečnostní manažer)** — Upozornil na riziko vnitřních hrozeb (insider) a nevhodné chování rodičů narušující bezpečnostní režimy.",
-      "**Olga Helclová (ředitelka SŠ)** — Popsala praktické problémy s financováním nepedagogických pracovníků a správou rozsáhlých objektů.",
-      "**Ilona Vaculová (MŠMT)** — Potvrdila legislativní tlak na pravidelné vzdělávání v oblasti fyzické bezpečnosti.",
-      "**Richard Veleta (NPI ČR)** — Představil návrh na novou profesní kvalifikaci v rámci Národní soustavy kvalifikací (NSK)."
+      "**Dušan Kalášek (ASKy)** — Moderátor, zdůraznil multidisciplinární přístup k bezpečnosti a potřebu vytvořit závěry pro MŠMT.",
+      "**Jaroslav Vítek (Asociace pověřenců ČR)** — Varoval před nestabilitou prostředí a nutností osobní připravenosti každého jednotlivce.",
+      "**Jaroslav Kocijan (bezpečnostní manažer)** — Kritizoval nedostatečnou přípravu pedagogů na krizové situace a navrhl cyklické vzdělávání.",
+      "**Olga Helclová (ředitelka SŠ)** — Popsala finanční a personální limity škol při zajišťování bezpečnosti.",
+      "**Monika Bendová (právnička)** — Upozornila na podfinancování veřejného sektoru a roztříštěnost informací směrem ke školám.",
+      "**Ilona Vaculová (MŠMT)** — Potvrdila, že bezpečnost je v RVP obsažena, ale její implementace závisí na vedení škol."
     ],
-    "outcome": "Jednání vedlo ke konsenzu o nutnosti systematizace vzdělávání, integrace bezpečnostních složek, standardizace profesních kvalifikací a zlepšení komunikace mezi státem a školami. Výstupem bude souhrn podnětů pro ministra školství.",
-    "notes": "Technické problémy s technikou v průběhu jednání způsobily drobné výpadky v plynulosti."
+    "outcome": "Jednání vedlo ke shodě na nutnosti systémových změn: bezpečnost musí být vnímána komplexně, vzdělávání v této oblasti musí být cyklické a dlouhodobé, nikoliv jednorázové. Byla zdůrazněna potřeba lepší metodické podpory ze strany státu a potřeba řešit podfinancování odborných pozic ve školství.",
+    "notes": "Přepis obsahuje technické chyby a halucinace modelu (opakující se nesmyslné fráze). Obsah byl rekonstruován na základě srozumitelných částí záznamu."
   },
   "entities": {
     "speakers": [
       {"name": "Dušan Kalášek", "person_id": null, "affiliation": "Asociace škol kritické infrastruktury"},
-      {"name": "Renáta Zajíčková", "person_id": null, "affiliation": "Poslanecká sněmovna"},
+      {"name": "Renáta Berkovcová", "person_id": null, "affiliation": "Poslanecká sněmovna"},
       {"name": "Jaroslav Vítek", "person_id": null, "affiliation": "Asociace pověřenců ČR"},
-      {"name": "Olga Helclová", "person_id": null, "affiliation": "SŠ informatiky, poštovnictví a finančnictví"}
+      {"name": "Olga Helclová", "person_id": null, "affiliation": "SŠ informatiky, poštovnictví a finančnictví"},
+      {"name": "Monika Bendová", "person_id": null, "affiliation": null}
     ],
-    "parties": ["ANO", "ODS"],
-    "institutions": ["MŠMT", "NÚKIB", "NPI ČR"]
+    "parties": [],
+    "institutions": ["MŠMT", "NÚKIB", "ASKy"]
   },
   "highlights": [
     {
-      "text": "Bezpečnost je jedna a nelze ji oddělovat na fyzickou a kybernetickou, protože v praxi se tyto světy neustále prolínají.",
+      "text": "Bezpečnost je jedna a je třeba ji vnímat v souvislostech, nikoliv odděleně jako fyzickou, kybernetickou či požární.",
       "type": "paraphrase",
       "speaker": "Jaroslav Vítek",
       "affiliation": "Asociace pověřenců ČR",
       "timestamp": "4/02:02"
+    },
+    {
+      "text": "Školy jsou součástí kritické infrastruktury a naším úkolem je reagovat na potřebu propojení legislativních požadavků s reálným provozem.",
+      "type": "citation",
+      "speaker": "Renáta Berkovcová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/08:02"
+    },
+    {
+      "text": "Veřejný sektor je podfinancovaný a nedokáže konkurovat soukromému sektoru v odměňování odborníků na kybernetickou bezpečnost.",
+      "type": "paraphrase",
+      "speaker": "Monika Bendová",
+      "affiliation": null,
+      "timestamp": "17/00:00"
     }
   ],
   "controversial": [
     {
-      "statement": "Návrh na zavedení branné výchovy jako samostatného předmětu, který by řešil krizové scénáře a první pomoc.",
-      "speaker": "Olga Helclová",
-      "affiliation": "SŠ informatiky, poštovnictví a finančnictví",
-      "timestamp": "14/04:02"
+      "statement": "**Kdo:** Josef Myslín (CEVRO Institut) a Olga Helclová (ředitelka SŠ).\n**Co:** Návrh na zavedení samostatného předmětu zaměřeného na bezpečnost a krizové situace.\n**Proč:** Politicky citlivé téma evokující minulý režim, zároveň naráží na přetíženost školních osnov.\n**Čas:** 14/04:00",
+      "speaker": "Josef Myslín, Olga Helclová",
+      "affiliation": null,
+      "timestamp": "14/04:00"
     }
   ],
   "quality": {
-    "transcript_quality": "good",
+    "transcript_quality": "partial",
     "unintelligible_parts": true
   },
   "extras": null

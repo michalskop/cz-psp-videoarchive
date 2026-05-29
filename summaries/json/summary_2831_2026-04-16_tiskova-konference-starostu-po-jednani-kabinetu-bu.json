@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:52:50",
+  "created_at": "2026-05-29T14:32:49",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2831",
@@ -19,16 +19,16 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla svolána jako reakce na vládní legislativní návrh týkající se změny financování veřejnoprávních médií (Česká televize a Český rozhlas). Představitelé Starostů ostře kritizovali záměr vlády přesunout financování médií přímo pod státní rozpočet, což interpretují jako snahu o politické ovládnutí médií a ohrožení jejich nezávislosti.\n\nDruhým pilířem konference byla kritika vládní zahraniční politiky a komunikace s prezidentem republiky, konkrétně v otázce složení delegace na summit v Ankaře, a zhodnocení úspěchů v evropských vyjednáváních o normě ETS2.",
+    "topic": "Tisková konference byla svolána jako reakce na vládní návrh zákona o financování médií veřejné služby, který opozice vnímá jako pokus o politické ovládnutí České televize a Českého rozhlasu. Cílem vystoupení bylo deklarovat odpor proti záměru nahradit koncesionářské poplatky přímým financováním ze státního rozpočtu, což řečníci označili za ohrožení nezávislosti médií a demokracie.\n\nKromě mediální legislativy se řečníci vyjádřili k aktuální politické situaci, včetně sporů mezi vládou a prezidentem republiky ohledně zahraniční reprezentace země a úspěchů v evropských vyjednáváních o klimatické legislativě (ETS2).",
     "main_points": [
-      "**Vít Rakušan (Stínový premiér)** — Kritizuje vládní návrh jako „paskvil“ a pokus o politickou kontrolu médií. Deklaruje, že opozice využije všechny prostředky k jeho zablokování.",
-      "**Jan Lacina (Stínový ministr)** — Argumentuje, že současný systém koncesionářských poplatků je trvale udržitelný a jeho zrušení je nevratným krokem k destrukci mediálního ekosystému.",
-      "**David Smoljak (Senátor)** — Varuje před omezováním obsahu (zábava, dramatika) a rušením regionálních studií v důsledku vládního návrhu.",
-      "**Martin Dvořák (Stínový ministr)** — Vyzdvihl úspěch Danuše Nerudové při vyjednávání normy ETS2 a kritizoval vládní zmocněnce za nečinnost.",
-      "**Tematické body** — Opozice plánuje využít přednostních práv na mimořádné schůzi k otevření témat, která vláda ignoruje (média, energetika, zahraniční politika)."
+      "**Vít Rakušan (Stínový premiér)** — Kritizoval vládní návrh na změnu financování médií jako „paskvil“ a pokus o demontáž demokracie. Varoval před přímým politickým tlakem a oznámil, že opozice využije všechny nástroje jednacího řádu a spolupráci se Senátem k zablokování návrhu.",
+      "**Jan Lacina (Stínový ministr)** — Zdůraznil, že současný systém financování je udržitelný. Varoval, že zrušení koncesionářských poplatků je nevratný krok, který by vedl k destrukci mediálního ekosystému.",
+      "**David Smoljak (Senátor)** — Analyzoval praktické dopady vládního návrhu: ohrožení regionálních studií, nutnost omezit výrobu a nebezpečné „škálování“ obsahu na úkor zábavy a dramatiky.",
+      "**Martin Dvořák (Stínový ministr)** — Vyzdvihl vyjednávací úspěch Danuše Nerudové v evropských strukturách ohledně ETS2 a kritizoval vládního zmocněnce za neschopnost vyjednávat v EU.",
+      "**Tematické body** — Opozice plánuje využít přednostní práva k otevření témat na mimořádné schůzi a ostře odsoudila postup vlády v zahraniční politice bez konzultace s prezidentem."
     ],
-    "outcome": "Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci opozice. Dominujícím postojem je odhodlání blokovat vládní návrh zákona o médiích všemi dostupnými parlamentními prostředky.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a useknutá slova. Obsah je však srozumitelný."
+    "outcome": "Nebyl přijat žádný formální závěr, neboť šlo o tiskovou konferenci opozice. Dominujícím postojem je odhodlání blokovat vládní návrh zákona o médiích všemi dostupnými parlamentními prostředky a vyvíjet tlak na vládu skrze Senát a veřejnou debatu.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova), které však nemění celkový smysl sdělení."
   },
   "entities": {
     "speakers": [
@@ -51,6 +51,11 @@
         "name": "Martin Dvořák",
         "person_id": "psp:person:5664",
         "affiliation": "Starostové"
+      },
+      {
+        "name": "Aleš Kazalská",
+        "person_id": null,
+        "affiliation": "Česká televize"
       }
     ],
     "parties": [
@@ -65,55 +70,63 @@
   },
   "highlights": [
     {
-      "text": "Není jiná možná interpretace, než že chtějí vzít médiím významný objem peněz a dávat jim je ze státního rozpočtu pod přímou politickou kontrolou.",
-      "type": "citation",
+      "text": "Není jiná možná interpretace, než že vláda chce vzít médiím významný objem peněz a dávat jim je ze státního rozpočtu pod přímou politickou kontrolou.",
+      "type": "paraphrase",
       "speaker": "Vít Rakušan",
       "affiliation": "Starostové",
       "timestamp": "1/01:45",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_00.jpg",
-      "context": "Jde o politickou interpretaci vládního návrhu zákona o České televizi a Českém rozhlasu. Zda navrhované změny financování vedou k přímé politické kontrole, je předmětem odborné a politické debaty, nikoliv objektivně ověřitelný fakt."
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_00.jpg",
+      "context": "Tvrzení je interpretací politického záměru. Financování médií veřejné služby je upraveno zákonem a přímá politická kontrola nad rozpočtem by vyžadovala legislativní změnu, kterou vládní návrhy v současné podobě explicitně neobsahují."
     },
     {
-      "text": "Česká televize a český rozhlas v té podobě, jak je známe dnes, by čtyři roky vlády Andreje Babiše přežít nemusely.",
-      "type": "paraphrase",
+      "text": "Když se jednou poplatky zruší, tak už to prostě nikdo nenahodí; je to nevratný systém, který by extrémně poškodil mediální ekosystém.",
+      "type": "citation",
       "speaker": "Jan Lacina",
       "affiliation": "Starostové",
-      "timestamp": "1/11:29",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_01.jpg",
-      "context": "Toto tvrzení je spekulativní a nelze jej nezávisle ověřit. Během vlád Andreje Babiše (2017–2021) nedošlo k legislativnímu zrušení či přímému ovládnutí těchto institucí, ačkoliv ze strany některých politiků ANO zaznívala kritika jejich hospodaření a obsahu."
+      "timestamp": "1/06:51",
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_01.jpg",
+      "context": "Jde o politický názor na dopady legislativní změny. Zrušení koncesionářských poplatků a přechod na přímé financování ze státního rozpočtu by skutečně znamenalo strukturální změnu, jejíž vratnost závisí na budoucí politické vůli a legislativním procesu."
     },
     {
-      "text": "Vláda chce poprvé v historii škálovat, co má veřejnoprávní médium vysílat, čímž otevírá dveře pro rušení zábavy a dramatiky.",
+      "text": "Vláda chce poprvé v historii škálovat, co má veřejnoprávní médium vysílat, čímž otevírá dveře pro likvidaci zábavy, dramatiky i seriálů.",
       "type": "paraphrase",
       "speaker": "David Smoljak",
       "affiliation": "Starostové",
       "timestamp": "1/08:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_02.jpg",
-      "context": "Návrh novely zákona o ČT a ČRo skutečně obsahuje úpravy definice veřejné služby. Zda tyto úpravy fakticky povedou k rušení zábavy a dramatiky, je předmětem právního výkladu a budoucí praxe, nikoliv potvrzený důsledek zákona."
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_02.jpg",
+      "context": "Návrhy na úpravu definice veřejné služby v zákoně o ČT a ČRo jsou předmětem politické debaty. Zda tyto změny povedou k faktické likvidaci konkrétních žánrů, je spekulativní tvrzení o budoucím dopadu legislativy."
     },
     {
-      "text": "Tahle vláda je schopna dodržet jedinou dohodu – o nevydání svých předsedů k trestnímu stíhání.",
+      "text": "Tahle vláda je schopna dodržet jednu jedinou dohodu: o nevydání svých předsedů k trestnímu stíhání.",
       "type": "citation",
       "speaker": "Vít Rakušan",
       "affiliation": "Starostové",
       "timestamp": "1/14:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_highlight_03.jpg",
-      "context": "Tvrzení je politickou rétorikou. Vydání poslance k trestnímu stíhání je rozhodnutím Poslanecké sněmovny na základě žádosti orgánů činných v trestním řízení; v minulosti byly žádosti o vydání předsedů vládních stran v různých volebních obdobích řešeny rozdílně."
+      "screenshot_path": "summaries/screenshots/event_2831_highlight_03.jpg",
+      "context": "Jde o politickou rétoriku. Vydání poslance k trestnímu stíhání je procesní rozhodnutí Poslanecké sněmovny podle Ústavy ČR a jednacího řádu, nikoliv otázka „dohody“ vlády."
     }
   ],
   "controversial": [
     {
-      "statement": "Jan Lacina (Starostové) prohlásil, že „pokud se jednou poplatky zruší, tak už to prostě nikdo nenahodí“ a že vláda se snaží „hacknout stát“.",
-      "speaker": "Jan Lacina",
+      "statement": "Vít Rakušan navrhuje zablokovat projednávání vládního zákona o médiích pomocí obstrukcí a součinnosti se Senátem, protože jde o vyhrocený politický střet, kde opozice odmítá legitimitu vládního návrhu.",
+      "speaker": "Vít Rakušan",
       "affiliation": "Starostové",
-      "timestamp": "1/06:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2831_controversy_00.jpg",
-      "context": "Výrok o „nenahození“ poplatků je názorem na politickou stabilitu legislativních změn. Termín „hacknout stát“ je metafora pro netransparentní či nestandardní legislativní postup, nikoliv právní nebo technický fakt."
+      "timestamp": "1/02:05",
+      "screenshot_path": "summaries/screenshots/event_2831_controversy_00.jpg",
+      "context": "Obstrukce jsou legitimním nástrojem parlamentní opozice. Zda Vít Rakušan skutečně koordinuje postup se Senátem, nelze nezávisle ověřit, neboť jde o interní politické vyjednávání."
+    },
+    {
+      "statement": "Martin Dvořák označil vládního zmocněnce za „hranatého, prázdného a páchnoucího benzínem“, což je silný osobní útok snižující úroveň politické debaty.",
+      "speaker": "Martin Dvořák",
+      "affiliation": "Starostové",
+      "timestamp": "1/10:07",
+      "screenshot_path": "summaries/screenshots/event_2831_controversy_01.jpg",
+      "context": "Výrok je subjektivním hodnotícím soudem. Zda byl výrok pronesen v této konkrétní podobě, lze ověřit ze stenografických záznamů jednání Poslanecké sněmovny."
     }
   ],
   "quality": {
     "transcript_quality": "good",
-    "unintelligible_parts": false
+    "unintelligible_parts": true
   },
   "extras": null
 }

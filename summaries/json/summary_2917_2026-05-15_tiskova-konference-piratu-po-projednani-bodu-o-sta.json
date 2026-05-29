@@ -1,0 +1,103 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:06:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2917",
+    "name": "Tisková konference Pirátů - po projednání bodu o státní sociální podpoře ST 124",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-15T10:01",
+    "end_date": "2026-05-15T10:13",
+    "sources": [
+      "final/event_2917_2026-05-15_tiskova-konference-piratu-po-projednani-bodu-o-sta.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference Pirátů se konala po projednání bodu o státní sociální podpoře (ST 124) v Poslanecké sněmovně. Cílem vystoupení bylo kritizovat vládní přístup k podpoře rodin s dětmi, konkrétně zamítnutí návrhu na pravidelnou valorizaci rodičovského příspěvku, a upozornit na nedostatky v připravované „superdávce“.\n\nPiráti vyjádřili nesouhlas s vládními prioritami, které podle nich upřednostňují dotace pro velké zemědělské holdingy („agromamuty“) na úkor mladých rodin. Zároveň představitelé strany varovali před vládním návrhem na rozvolnění rozpočtových pravidel, který označili za ohrožení finanční stability státu a nezávislosti institucí.",
+    "main_points": [
+      "**Olga Richterová (Piráti)** – Kritizovala vládu za odmítnutí valorizace rodičovského příspěvku. Upozornila, že od roku 2020 vzrostly ceny o 40 %, zatímco příspěvek stagnuje. Navrhovala navázání příspěvku na minimální mzdu nebo valorizační mechanismus podobný důchodům. Vládu obvinila z upřednostňování „agromamutů“ (8 miliard Kč v dotacích) před potřebami rodin.",
+      "**Lenka Martínková Španihelová (Piráti)** – Zdůraznila potřebu systémové jistoty a předvídatelnosti pro rodiče. Kritizovala nahodilost vládních navýšení, která vytvářejí nespravedlnost mezi rodiči dětí narozených v různých letech (např. 2023 vs. 2024).",
+      "**Hana Ančincová (Piráti)** – Zaměřila se na „superdávku“ a podporu bydlení. Uvedla, že současné normativy na bydlení neodpovídají realitě v regionech, což vede k chudobě. Piráti prosazují výpočet podpory podle skutečných regionálních nákladů a rozšíření ochrany pro samoživitele.",
+      "**Rozpočtová pravidla (téma)** – Olga Richterová ostře kritizovala vládní návrh na vypnutí dluhové brzdy. Varovala před možností deficitu 440 miliard Kč ročně a rizikem, že vláda bude moci svévolně zasahovat do rozpočtů nezávislých institucí (NKÚ, ombudsman, Kancelář prezidenta) jejich krácením či navyšováním o 10 %."
+    ],
+    "outcome": "Piráti podpořili dílčí technické změny v sociálních službách a státní sociální podpoře, protože „jdou správným směrem“, přestože jejich vlastní návrhy na plošnou valorizaci rodičovského příspěvku nebyly přijaty. Strana deklarovala, že bude v budoucnu předkládat vlastní pozměňovací návrhy k „superdávce“ a nadále bojovat proti rozpočtové neodpovědnosti vlády.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Lenka Martínková Španihelová",
+        "person_id": "psp:person:7023",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Hana Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo práce a sociálních věcí",
+      "Nejvyšší kontrolní úřad"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Osm miliard korun, to je přece částka, která by každoročně v pohodě pokryla to námi navrhované navýšení rodičovského příspěvku.",
+      "type": "paraphrase",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:04",
+      "screenshot_path": "summaries/screenshots/event_2917_highlight_00.jpg",
+      "context": "Náklady na navýšení rodičovského příspěvku závisí na konkrétním návrhu (výše navýšení a okruh příjemců). Částka 8 miliard korun odpovídá odhadům MPSV pro některé varianty plošného navýšení, nicméně přesná fiskální dopadová analýza se liší podle parametrů konkrétního pozměňovacího návrhu."
+    },
+    {
+      "text": "Od roku 2020 přitom ceny vzrostly zhruba o 40 %. Rodičovský příspěvek tomu nárůstu inflace prostě neodpovídá.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:18",
+      "screenshot_path": "summaries/screenshots/event_2917_highlight_01.jpg",
+      "context": "Podle dat ČSÚ činila kumulovaná míra inflace mezi lednem 2020 a koncem roku 2023 přibližně 35–38 %. Tvrzení o 40% nárůstu cen je tedy fakticky blízké realitě, přičemž rodičovský příspěvek byl naposledy plošně valorizován v roce 2024 (z 300 na 350 tisíc Kč)."
+    },
+    {
+      "text": "Je to zákon, který umožní vypnout dluhovou brzdu, je to zákon, který umožní zadlužit naše děti, protože půjde tato vláda do deficitu klidně o 440 miliard korun ročně.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:42",
+      "screenshot_path": "summaries/screenshots/event_2917_highlight_02.jpg",
+      "context": "Dluhová brzda je definována zákonem č. 23/2017 Sb. (o pravidlech rozpočtové odpovědnosti). Vláda v minulosti navrhovala úpravy fiskálních pravidel, ale tvrzení o „vypnutí“ brzdy a deficitu 440 miliard je politickou interpretací rozpočtových výhledů a legislativních změn, které mají za cíl zvýšit flexibilitu státního rozpočtu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Olga Richterová (Piráti)\n**Co:** Kritika vládního návrhu zákona, který umožňuje vypnout dluhovou brzdu a dává vládě pravomoc měnit rozpočty nezávislých institucí (NKÚ, ombudsman, Kancelář prezidenta) o 10 % v průběhu roku.\n**Proč:** Je to kontroverzní, protože to narušuje princip dělby moci, ohrožuje nezávislost kontrolních orgánů a umožňuje nekontrolované zadlužování státu.\n**Čas:** 1/08:00",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:00",
+      "screenshot_path": "summaries/screenshots/event_2917_controversy_00.jpg",
+      "context": "Návrh na úpravu pravomocí vlády při rozpočtových přesunech u nezávislých institucí vyvolal kritiku z hlediska ústavního principu dělby moci. Zda tyto změny skutečně ohrožují nezávislost institucí jako NKÚ, je předmětem právního a politického sporu, nikoliv objektivně ověřitelný fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,70 +1,58 @@
 ## 1. Téma a účel jednání
-Tisková konference „Kabinetu budoucnosti“ (stínové vlády hnutí Starostové a nezávislí) se konala 21. května 2026. Cílem bylo představit kritický postoj opozice k aktuálním krokům vlády Andreje Babiše, zejména v oblastech rozpočtové politiky, důchodového systému, bydlení, státní správy a zemědělských dotací.
+Tisková konference „Kabinetu budoucnosti“ (stínové vlády hnutí Starostové a nezávislí) se konala 21. května 2026. Cílem bylo představit kritický postoj opozice k aktuálním krokům vlády Andreje Babiše, zejména v oblastech rozpočtové politiky, důchodového systému, bydlení, státní správy a distribuce evropských dotací.
 
-Zástupci hnutí deklarovali záměr podat ústavní stížnost proti rozvolňování rozpočtových pravidel, kritizovali změny v důchodovém systému a přesun kompetencí v oblasti bydlení na Úřady práce. Dále představili legislativní iniciativu na ochranu koordinace lidských práv a protidrogové politiky a vyjádřili nesouhlas s nastavením dotační politiky v zemědělství.
+Stínová vláda ostře odsoudila rozvolňování rozpočtových pravidel, změny v důchodovém systému a personální či kompetenční zásahy do ústředních orgánů státní správy. Zástupci hnutí deklarovali přípravu ústavní stížnosti a legislativních návrhů, kterými chtějí omezit vládní kroky, jež považují za netransparentní a ohrožující budoucí stabilitu země.
 
 ## 2. Hlavní body
-*   **Lucie Sedmihradská (STAN):**
-    *   Kritika vlády za „rozpočtový podfuk“ a obcházení pravidel rozpočtové odpovědnosti (schodek nad zákonný limit, zrušení vyhodnocování maastrichtských kritérií).
-    *   Odmítnutí „únikové doložky“ pro strategickou infrastrukturu jako bianco šeku bez limitů.
-    *   Oznámení podání ústavní stížnosti proti novele zákonů o rozpočtových pravidlech.
-    *   Návrh na zakotvení rozpočtové odpovědnosti přímo do ústavního pořádku.
-*   **Pavla Pivoňka Vaňková (STAN):**
-    *   Odmítnutí vládních změn v důchodech, které zatěžují budoucí generace.
-    *   Požadavek na přesměrování přebytků důchodového systému do sociálních služeb v regionech.
-    *   Kritika necíleného rozhazování prostředků („z vrtulníku“).
-*   **Barbora Stašková (STAN):**
-    *   Kritika přesunu kompetencí v oblasti bydlení z obcí na přetížené Úřady práce.
-    *   Varování před vznikem duplicit a byrokratickou zátěží pro občany („tenisový míček mezi úřady“).
-    *   Podpora zachování kontaktních míst pro bydlení na obcích.
-*   **Barbora Urbanová (STAN):**
-    *   Kritika rušení odborů na Úřadu vlády, které koordinují protidrogovou politiku, lidská práva a rovné příležitosti.
-    *   Představení novely kompetenčního zákona, která má tyto agendy zákonně ukotvit pod Úřad vlády.
-*   **Petr Kulhánek (STAN):**
-    *   Kritika dotační politiky, která omezuje finance na vědu, výzkum a energetické úspory ve prospěch velkých zemědělských korporací (Agrofert).
-    *   Upozornění na střet zájmů a snahu vlády rozvolňovat podmínky pro čerpání dotací.
-*   **Tomáš Dubský (STAN):**
-    *   Upozornění na pokles objemu dotací o 18 miliard korun pro domácnosti a vědce.
-    *   Výzva ministrovi zemědělství, aby přestal jednat jako zástupce lobbistické skupiny a začal hájit zájmy všech zemědělců a venkova.
-    *   Požadavek na zastropování dotací.
+*   **Lucie Sedmihradská (stínová ministryně financí):**
+    *   Kritika „rozpočtového podfuku“: vláda překročila zákonný limit schodku o 64 miliard Kč, zrušila vyhodnocování maastrichtských kritérií a zavedla „únikovou doložku“ pro infrastrukturu bez finančních limitů.
+    *   Odsouzení omezení parlamentní kontroly (zrušení projednávání plnění rozpočtu na plénu).
+    *   **Návrh:** Podání ústavní stížnosti proti novele zákonů o rozpočtových pravidlech a snaha o zakotvení rozpočtové odpovědnosti přímo do ústavního pořádku.
+*   **Pavla Pivoňka Vaňková:**
+    *   Kritika změn v důchodovém systému, které zatěžují budoucí generace.
+    *   **Návrh:** Přesměrování přebytků důchodového systému na dofinancování sociálních služeb v regionech místo necíleného „rozhazování peněz z vrtulníku“.
+*   **Barbora Stašková:**
+    *   Kritika přesunu kompetencí z kontaktních míst pro bydlení na přetížené úřady práce.
+    *   Upozornění na vznik duplicit a byrokratickou zátěž pro občany („tenisový míček“ mezi úřady).
+*   **Barbora Urbanová:**
+    *   Kritika rušení odborů na Úřadu vlády (protidrogová politika, lidská práva, rovné příležitosti).
+    *   **Návrh:** Předložení novely kompetenčního zákona, která by zajistila povinnou koordinaci těchto agend přímo Úřadem vlády.
+*   **Petr Kulhánek:**
+    *   Kritika přerozdělování evropských dotací ve prospěch velkých zemědělských korporací (Agrofert) na úkor vědy, výzkumu a energetických úspor.
+    *   Upozornění na rozpor mezi postojem Evropské komise a snahou české vlády o maximalizaci dotací pro velké podniky.
+*   **Tomáš Dubský:**
+    *   Uvedl, že objem dotací klesne o 18 miliard Kč, zatímco zemědělský sektor vykázal zisk 26,5 miliardy Kč.
+    *   **Návrh:** Zastropování výše dotací a výzva ministrovi zemědělství, aby přestal jednat jako zástupce lobbistické skupiny a začal hájit zájmy celého venkova.
 
 ## 3. Výsledek / závěr
-Opozice (STAN) se shodla na aktivním blokování volebních bodů týkajících se radních České televize v rámci příštího jednání Sněmovny. V oblasti rozpočtové odpovědnosti bude opozice spolupracovat se senátory na hledání možností, jak omezit vládní „únikovou doložku“.
+Jednání potvrdilo jednotný postoj opozičního klubu Starostů k blokování volby radních České televize, pokud bude součástí širšího balíčku volebních bodů. V oblasti rozpočtové odpovědnosti opozice připravuje ústavní stížnost a spolupracuje se senátory na možných pozměňovacích návrzích, byť přiznává jejich legislativní náročnost.
 
 ## 4. Poznámky
-Přepis je místy mírně nesouvislý v důsledku automatického generování, ale hlavní argumentační linie jsou srozumitelné.
+Přepis je srozumitelný, obsahuje drobné gramatické chyby a chybějící diakritiku, které však nebrání pochopení obsahu.
 
 ---
 
 ## Doplňující otázky
-
-*   **Kontroverzní návrh: Podání ústavní stížnosti na vládu**
-    *   **Kdo:** Lucie Sedmihradská (STAN)
-    *   **Co:** Podání ústavní stížnosti proti novele zákonů o rozpočtových pravidlech a pravidlech rozpočtové odpovědnosti.
-    *   **Proč:** Jde o přímý střet s exekutivou, kdy opozice napadá zákonnost vládního rozpočtu a procesních změn v parlamentu.
-    *   **Čas:** 1/01:45
-
-*   **Kontroverzní výrok: Ministr zemědělství jako lobbista**
-    *   **Kdo:** Tomáš Dubský (STAN)
-    *   **Co:** Výzva ministrovi zemědělství, aby si uvědomil, že již není šéfem lobbistické skupiny.
-    *   **Proč:** Přímé zpochybnění integrity člena vlády a jeho napojení na zájmy konkrétních firem (Agrofert).
-    *   **Čas:** 1/14:02
-
----
+*   **Kdo:** Lucie Sedmihradská (STAN)
+    *   **Co:** Označila vládní rozpočtovou politiku za „rozpočtový podfuk na naše občany“.
+    *   **Proč:** Jde o přímé zpochybnění legitimity vládního hospodaření a obvinění z obcházení zákonů o rozpočtové odpovědnosti.
+    *   **Čas:** 1/01:40
+*   **Kdo:** Petr Kulhánek (STAN)
+    *   **Co:** Obvinil vládu z prosazování zájmů skupiny Agrofert v rámci evropských dotací.
+    *   **Proč:** Politicky vysoce citlivé téma střetu zájmů premiéra a zneužívání státní moci pro soukromý prospěch.
+    *   **Čas:** 1/10:45
 
 ## Klíčové citace pro veřejnost
-
-*   **Text:** „Babišova vláda od svého nástupu předvedla sérii kroků, které mají všechny společného jmenovatele: oslabit kontrolu, obejít pravidla a otevřít cestu ke skrytému zadlužování České republiky.“ (parafráze)
+*   **Text:** „Vláda připravila státní rozpočet, jehož schodek překročil o 64 miliard korun limit povolený zákonem o pravidlech rozpočtové odpovědnosti.“ (citace)
     *   **Řečník:** Lucie Sedmihradská (STAN), **Čas:** 1/00:45
-*   **Text:** „Celkový objem dotací přitom klesne o více než 18 miliard korun, přičemž se přesouvají od domácností, vědců a humanitárních organizací směrem k velkým zemědělským podnikům.“ (citace)
-    *   **Řečník:** Tomáš Dubský (STAN), **Čas:** 1/12:01
-*   **Text:** „My zítra předložíme krátkou novelu kompetenčního zákona, kde říkáme, že Úřad vlády musí zajišťovat koordinaci protidrogové politiky, ochrany lidských práv a rovných příležitostí.“ (parafráze)
-    *   **Řečník:** Barbora Urbanová (STAN), **Čas:** 1/09:00
+*   **Text:** „Celkový objem dotací přitom klesne o více než 18 miliard korun, zatímco zemědělství za loňský rok vykázalo zisk 26,5 miliardy.“ (parafráze)
+    *   **Řečník:** Tomáš Dubský (STAN), **Čas:** 1/12:15
+*   **Text:** „My zítra předložíme novelu kompetenčního zákona, aby Úřad vlády musel zajišťovat koordinaci protidrogové politiky a ochrany lidských práv.“ (citace)
+    *   **Řečník:** Barbora Urbanová (STAN), **Čas:** 1/09:05
 
 ---
 
 ## JSON výstup
-
 ```json
 {
   "schema_version": "2",
@@ -85,17 +73,17 @@ Přepis je místy mírně nesouvislý v důsledku automatického generování, a
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference „Kabinetu budoucnosti“ (stínové vlády hnutí Starostové a nezávislí) se konala 21. května 2026. Cílem bylo představit kritický postoj opozice k aktuálním krokům vlády Andreje Babiše, zejména v oblastech rozpočtové politiky, důchodového systému, bydlení, státní správy a zemědělských dotací.\n\nZástupci hnutí deklarovali záměr podat ústavní stížnost proti rozvolňování rozpočtových pravidel, kritizovali změny v důchodovém systému a přesun kompetencí v oblasti bydlení na Úřady práce. Dále představili legislativní iniciativu na ochranu koordinace lidských práv a protidrogové politiky a vyjádřili nesouhlas s nastavením dotační politiky v zemědělství.",
+    "topic": "Tisková konference „Kabinetu budoucnosti“ (stínové vlády hnutí Starostové a nezávislí) se konala 21. května 2026. Cílem bylo představit kritický postoj opozice k aktuálním krokům vlády Andreje Babiše, zejména v oblastech rozpočtové politiky, důchodového systému, bydlení, státní správy a distribuce evropských dotací.\n\nStínová vláda ostře odsoudila rozvolňování rozpočtových pravidel, změny v důchodovém systému a personální či kompetenční zásahy do ústředních orgánů státní správy. Zástupci hnutí deklarovali přípravu ústavní stížnosti a legislativních návrhů, kterými chtějí omezit vládní kroky, jež považují za netransparentní a ohrožující budoucí stabilitu země.",
     "main_points": [
-      "**Lucie Sedmihradská (STAN)** — Kritika vlády za „rozpočtový podfuk“ a obcházení pravidel rozpočtové odpovědnosti. Oznámení podání ústavní stížnosti proti novele zákonů o rozpočtových pravidlech a návrh na zakotvení rozpočtové odpovědnosti do ústavy.",
-      "**Pavla Pivoňka Vaňková (STAN)** — Odmítnutí vládních změn v důchodech. Požadavek na přesměrování přebytků důchodového systému do sociálních služeb v regionech místo necíleného rozhazování peněz.",
-      "**Barbora Stašková (STAN)** — Kritika přesunu kompetencí v oblasti bydlení z obcí na přetížené Úřady práce, což vytváří duplicity a byrokracii.",
-      "**Barbora Urbanová (STAN)** — Kritika rušení odborů na Úřadu vlády koordinujících lidská práva a protidrogovou politiku. Představení novely kompetenčního zákona pro zákonné ukotvení těchto agend.",
-      "**Petr Kulhánek (STAN)** — Kritika dotační politiky, která omezuje finance na vědu a inovace ve prospěch velkých zemědělských korporací (Agrofert).",
-      "**Tomáš Dubský (STAN)** — Upozornění na pokles dotací pro domácnosti a vědce o 18 miliard korun. Výzva ministrovi zemědělství k objektivitě a zastropování dotací."
+      "**Lucie Sedmihradská (stínová ministryně financí)** — Kritika „rozpočtového podfuku“: vláda překročila zákonný limit schodku o 64 miliard Kč, zrušila vyhodnocování maastrichtských kritérií a zavedla „únikovou doložku“ pro infrastrukturu bez finančních limitů. Odsouzení omezení parlamentní kontroly. **Návrh:** Podání ústavní stížnosti a snaha o zakotvení rozpočtové odpovědnosti do ústavy.",
+      "**Pavla Pivoňka Vaňková** — Kritika změn v důchodovém systému. **Návrh:** Přesměrování přebytků důchodového systému na dofinancování sociálních služeb v regionech místo necíleného rozhazování peněz.",
+      "**Barbora Stašková** — Kritika přesunu kompetencí z kontaktních míst pro bydlení na přetížené úřady práce, což vytváří duplicity a byrokratickou zátěž.",
+      "**Barbora Urbanová** — Kritika rušení odborů na Úřadu vlády (protidrogová politika, lidská práva). **Návrh:** Předložení novely kompetenčního zákona, která by zajistila povinnou koordinaci těchto agend Úřadem vlády.",
+      "**Petr Kulhánek** — Kritika přerozdělování evropských dotací ve prospěch velkých zemědělských korporací (Agrofert) na úkor vědy, výzkumu a energetických úspor.",
+      "**Tomáš Dubský** — Upozornění na pokles objemu dotací o 18 miliard Kč při zisku zemědělského sektoru 26,5 miliardy Kč. **Návrh:** Zastropování dotací a výzva ministrovi zemědělství k objektivnímu přístupu k venkovu."
     ],
-    "outcome": "Opozice (STAN) se shodla na aktivním blokování volebních bodů týkajících se radních České televize v rámci příštího jednání Sněmovny. V oblasti rozpočtové odpovědnosti bude opozice spolupracovat se senátory na hledání možností, jak omezit vládní „únikovou doložku“.",
-    "notes": "Přepis je místy mírně nesouvislý v důsledku automatického generování, ale hlavní argumentační linie jsou srozumitelné."
+    "outcome": "Jednání potvrdilo jednotný postoj opozičního klubu Starostů k blokování volby radních České televize, pokud bude součástí širšího balíčku volebních bodů. V oblasti rozpočtové odpovědnosti opozice připravuje ústavní stížnost a spolupracuje se senátory na možných pozměňovacích návrzích.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -106,44 +94,44 @@ Přepis je místy mírně nesouvislý v důsledku automatického generování, a
       {"name": "Petr Kulhánek", "person_id": null, "affiliation": "STAN"},
       {"name": "Tomáš Dubský", "person_id": null, "affiliation": "STAN"}
     ],
-    "parties": ["STAN"],
-    "institutions": ["Poslanecká sněmovna", "Úřad vlády", "Agrofert", "Česká televize"]
+    "parties": ["STAN", "hnutí ANO"],
+    "institutions": ["Poslanecká sněmovna", "Kabinet budoucnosti", "Úřad vlády", "Úřad práce", "Evropská komise"]
   },
   "highlights": [
     {
-      "text": "Babišova vláda od svého nástupu předvedla sérii kroků, které mají všechny společného jmenovatele: oslabit kontrolu, obejít pravidla a otevřít cestu ke skrytému zadlužování České republiky.",
-      "type": "paraphrase",
+      "text": "Vláda připravila státní rozpočet, jehož schodek překročil o 64 miliard korun limit povolený zákonem o pravidlech rozpočtové odpovědnosti.",
+      "type": "citation",
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/00:45"
     },
     {
-      "text": "Celkový objem dotací přitom klesne o více než 18 miliard korun, přičemž se přesouvají od domácností, vědců a humanitárních organizací směrem k velkým zemědělským podnikům.",
-      "type": "citation",
+      "text": "Celkový objem dotací klesne o více než 18 miliard korun, zatímco zemědělství za loňský rok vykázalo zisk 26,5 miliardy.",
+      "type": "paraphrase",
       "speaker": "Tomáš Dubský",
       "affiliation": "STAN",
-      "timestamp": "1/12:01"
+      "timestamp": "1/12:15"
     },
     {
-      "text": "My zítra předložíme krátkou novelu kompetenčního zákona, kde říkáme, že Úřad vlády musí zajišťovat koordinaci protidrogové politiky, ochrany lidských práv a rovných příležitostí.",
-      "type": "paraphrase",
+      "text": "My zítra předložíme novelu kompetenčního zákona, aby Úřad vlády musel zajišťovat koordinaci protidrogové politiky a ochrany lidských práv.",
+      "type": "citation",
       "speaker": "Barbora Urbanová",
       "affiliation": "STAN",
-      "timestamp": "1/09:00"
+      "timestamp": "1/09:05"
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh: Podání ústavní stížnosti na vládu**\n* **Kdo:** Lucie Sedmihradská (STAN)\n* **Co:** Podání ústavní stížnosti proti novele zákonů o rozpočtových pravidlech a pravidlech rozpočtové odpovědnosti.\n* **Proč:** Jde o přímý střet s exekutivou, kdy opozice napadá zákonnost vládního rozpočtu a procesních změn v parlamentu.\n* **Čas:** 1/01:45",
+      "statement": "**Lucie Sedmihradská (STAN)** označila vládní rozpočtovou politiku za „rozpočtový podfuk na naše občany“. Je to kontroverzní, protože jde o přímé zpochybnění legitimity vládního hospodaření a obvinění z obcházení zákonů.",
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
-      "timestamp": "1/01:45"
+      "timestamp": "1/01:40"
     },
     {
-      "statement": "**Kontroverzní výrok: Ministr zemědělství jako lobbista**\n* **Kdo:** Tomáš Dubský (STAN)\n* **Co:** Výzva ministrovi zemědělství, aby si uvědomil, že již není šéfem lobbistické skupiny.\n* **Proč:** Přímé zpochybnění integrity člena vlády a jeho napojení na zájmy konkrétních firem (Agrofert).\n* **Čas:** 1/14:02",
-      "speaker": "Tomáš Dubský",
+      "statement": "**Petr Kulhánek (STAN)** obvinil vládu z prosazování zájmů skupiny Agrofert v rámci evropských dotací. Politicky vysoce citlivé téma střetu zájmů premiéra a zneužívání státní moci.",
+      "speaker": "Petr Kulhánek",
       "affiliation": "STAN",
-      "timestamp": "1/14:02"
+      "timestamp": "1/10:45"
     }
   ],
   "quality": {

@@ -9,7 +9,7 @@ interface Props {
   size?: "xs" | "sm" | "md" | "lg";
 }
 
-/** Universal logotype: Snemovna.DataTimes.cz/videoarchiv */
+/** Universal logotype: Sněmovna.DataTimes.cz/digest */
 export function PspLogotype({ size = "md" }: Props) {
   return (
     <span className={`font-bold tracking-tight leading-none ${SIZE[size]}`}>
@@ -18,7 +18,7 @@ export function PspLogotype({ size = "md" }: Props) {
       <span className="text-navy-9">DataTimes</span>
       <span className="text-yellow-7">.</span>
       <span className="text-navy-9">cz</span>
-      <span className="text-navy-6">/videoarchiv</span>
+      <span className="text-navy-6">/digest</span>
     </span>
   );
 }

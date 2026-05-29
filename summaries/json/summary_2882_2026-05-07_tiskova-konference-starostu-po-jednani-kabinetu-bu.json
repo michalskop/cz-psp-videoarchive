@@ -1,0 +1,130 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:00:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2882",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-07T11:05",
+    "end_date": "2026-05-07T11:26",
+    "sources": [
+      "final/event_2882_2026-05-07_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí STAN po jednání „Kabinetu budoucnosti“ (stínové vlády) se zaměřila na kritiku aktuálních kroků vládní koalice, zejména v oblasti státního rozpočtu, bezpečnosti a legislativních změn. Hlavním cílem bylo informovat veřejnost o postoji opozice k připravovaným rozpočtovým změnám, které řečníci označili za „rozpočtový podfuk“ na budoucí generace, a o záměru napadnout tento postup ústavní stížností.\n\nKromě ekonomických témat se řečníci věnovali kritice vládní strategie v oblasti vnitřní a vnější bezpečnosti, včetně nedostatečné komunikace krizových situací, zrušení strategických struktur (KRIT) a údajné proruské orientace vlády. Konference rovněž sloužila k vyjádření nesouhlasu s personálními kroky vlády (jmenování Jakuba Landovského zmocněncem) a s legislativními změnami v trestním řádu, které opozice vnímá jako účelové v souvislosti s kauzou Čapí hnízdo.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Označil vládní rozpočtové plány za „rozpočtový podfuk“, který skrytě zadlužuje budoucí generace. Kritizoval absenci odborné debaty a obcházení připomínkových řízení. Oznámil přípravu ústavní stížnosti na postup vlády při projednávání zákona a jeho obsah. Kritizoval zrušení struktury KRIT a nedostatečnou mediální gramotnost. Odsoudil škrtnutí 21 miliard Kč v rozpočtu na obranu. Zpochybnil smysl pozice zmocněnce pro NATO jako zbytečnou „trafiku“.",
+      "**Martin Dvořák (STAN)** — Upozornil na nečinnost vlády v otázce omezení pohybu ruských diplomatů s diplomatickým krytím. Připomněl slib premiéra Babiše z 2. února, který nebyl naplněn.",
+      "**Lukáš Vlček (STAN)** — Zdůraznil potřebu energetické soběstačnosti a investic do infrastruktury. Kritizoval vládní „kulturní války“ proti obnovitelným zdrojům. Varoval před rizikem blackoutu a vyzval k veřejné debatě o výstavbě nových jaderných bloků.",
+      "**Karel Dvořák (STAN)** — Kritizoval návrh změn trestního řádu předložený ministerstvem spravedlnosti. Označil návrh za „Lex Čapí hnízdo“, neboť by znemožnil odvolacímu soudu zavazovat soud prvního stupně v rozhodování, což by ovlivnilo probíhající kauzu premiéra Babiše."
+    ],
+    "outcome": "Jednání nevedlo k žádnému formálnímu vládnímu rozhodnutí, neboť šlo o tiskovou konferenci opozice. Dominujícím postojem hnutí STAN je odmítnutí vládního postupu při projednávání rozpočtových zákonů a příprava právních kroků (ústavní stížnost) v koordinaci s dalšími opozičními stranami. Opozice se shoduje na nedůvěryhodnosti vlády a jejím alibistickém přístupu k bezpečnostním a ekonomickým výzvám země.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování slov způsobené automatickým přepisem, které však nemají vliv na srozumitelnost obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Martin Dvořák",
+        "person_id": "psp:person:5664",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Eliška Záleská",
+        "person_id": null,
+        "affiliation": "Česká televize"
+      },
+      {
+        "name": "Kopecký",
+        "person_id": "psp:person:220",
+        "affiliation": "iDnes.cz"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Kabinet budoucnosti",
+      "NATO",
+      "Ministerstvo vnitra",
+      "Ministerstvo spravedlnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Současná vláda prostě chystá rozpočtový podfuk, chystá se zadlužit další generace.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/00:51",
+      "screenshot_path": "summaries/screenshots/event_2882_highlight_00.jpg",
+      "context": "Jde o politické hodnocení rozpočtové politiky, nikoliv o ověřitelný fakt. Zadlužení státu je dáno schváleným zákonem o státním rozpočtu a výší deficitu, přičemž dlouhodobá udržitelnost veřejných financí je předmětem odborných debat (např. Národní rozpočtová rada)."
+    },
+    {
+      "text": "Po třech měsících je potřeba říci, že se nestalo vůbec nic v otázce omezení ruských diplomatů.",
+      "type": "paraphrase",
+      "speaker": "Martin Dvořák",
+      "affiliation": "STAN",
+      "timestamp": "1/08:47",
+      "screenshot_path": "summaries/screenshots/event_2882_highlight_01.jpg",
+      "context": "Počet ruských diplomatů v ČR je veřejně sledovanou záležitostí v gesci Ministerstva zahraničních věcí ČR. Nelze nezávisle ověřit bez přístupu k utajovaným informacím o aktuálních diplomatických krocích a personálních stavech ambasády."
+    },
+    {
+      "text": "Nezbývá nám tedy než tento návrh pojmenovat tak, jak si zaslouží, tedy Lex Čapí hnízdo.",
+      "type": "citation",
+      "speaker": "Karel Dvořák",
+      "affiliation": "STAN",
+      "timestamp": "1/14:30",
+      "screenshot_path": "summaries/screenshots/event_2882_highlight_02.jpg",
+      "context": "Označení „Lex Čapí hnízdo“ je politická metafora používaná opozicí pro legislativní návrhy, které mají podle nich ovlivnit probíhající trestní řízení. Nejedná se o oficiální název zákona."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Oznámení, že opozice připravuje ústavní stížnost na zrušení zákona o rozpočtové odpovědnosti a na postup vlády při jeho projednávání (pevné hlasování bez diskuze). Je to politicky citlivé, protože jde o zásah do legislativního procesu vlády a zpochybnění ústavnosti vládního postupu v době, kdy se řeší klíčové ekonomické otázky státu.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/06:00",
+      "screenshot_path": "summaries/screenshots/event_2882_controversy_00.jpg",
+      "context": "Podání ústavní stížnosti je legitimní parlamentní nástroj opozice. Zda byl postup vlády (využití pevného hlasování) v souladu s Ústavou ČR a Jednacím řádem Poslanecké sněmovny, může závazně posoudit pouze Ústavní soud ČR."
+    },
+    {
+      "statement": "Označení vládního návrhu změny trestního řádu za „Lex Čapí hnízdo“, protože by zpětně ovlivnil rozhodování soudů v kauze premiéra Babiše. Přímé obvinění vlády z účelové změny zákonů pro osobní prospěch premiéra v trestní kauze.",
+      "speaker": "Karel Dvořák",
+      "affiliation": "STAN",
+      "timestamp": "1/14:05",
+      "screenshot_path": "summaries/screenshots/event_2882_controversy_01.jpg",
+      "context": "Tvrzení o „Lex Čapí hnízdo“ je interpretací záměru zákonodárců. Zda má konkrétní legislativní úprava trestního řádu zpětný dopad na probíhající kauzy, je právní otázka, kterou v případě sporu posuzují nezávislé soudy v rámci konkrétních trestních řízení."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

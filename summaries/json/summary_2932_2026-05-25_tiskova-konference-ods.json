@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:18:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2932",
+    "name": "Tisková konference ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-25T15:31",
+    "end_date": "2026-05-25T15:54",
+    "sources": [
+      "final/event_2932_2026-05-25_tiskova-konference-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se zaměřila na kritiku aktuální vládní politiky premiéra Andreje Babiše, kterou představitelé strany označili za „vládu chaosu a cirkusu“. Hlavními tématy byla privatizace společnosti Explosia, kritika vládního přístupu k médiím veřejné služby a rozpuštění koordinačních orgánů pro lidská práva a protidrogovou politiku.\n\nCílem konference bylo prezentovat postoje ODS k těmto krokům, představit novou stínovou zmocněnkyni pro lidská práva a zdůraznit potřebu zachování odborného řízení klíčových agend státu. ODS rovněž vyjádřila solidaritu s Ukrajinou a kritizovala pasivitu vlády v zahraniční politice.",
+    "main_points": [
+      "**Martin Kubka (ODS)** — Kritizoval Babišův střet zájmů v kauze Explosia, varoval před ohrožením médií veřejné služby a oznámil jmenování Evy de Croix stínovou zmocněnkyní pro lidská práva.",
+      "**Eva de Croix (ODS)** — Kritizovala nedostatek politické odvahy vládní zmocněnkyně, odmítla zveřejňování národnosti pachatelů a navrhla vznik parlamentní komise pro lidská práva.",
+      "**Jan Lipavský (ODS)** — Vyjádřil solidaritu s Ukrajinou, kritizoval premiéra za ignorování ruské agrese a nejasnou zahraniční politiku.",
+      "**Ostatní** — ODS vyzvala SPD k zastavení vulgarizace politiky a vyjádřila ochotu jednat o úpravě podmínek pro ukrajinské uprchlíky při zachování rovného přístupu."
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí. ODS se dohodla se stranou STAN na společném jednání se zástupci lidskoprávních organizací, kde představí návrh na zřízení parlamentní komise pro lidská práva. Strana deklarovala, že bude nadále prosazovat návrat kompetencí pro protidrogovou politiku a lidská práva pod Úřad vlády.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné nesrozumitelné fráze, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kubka",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Eva de Croix",
+        "person_id": "psp:person:6727",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Česká televize",
+      "Český rozhlas",
+      "Explosia"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Představa, že se zavřeme zde do Česka, že strčíme jako pštros hlavu do písku a problémy okolo nás nebudou existovat, je cesta do pekel.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/14:42",
+      "screenshot_path": "summaries/screenshots/event_2932_highlight_00.jpg",
+      "context": "Jde o politickou metaforu vyjadřující postoj k zahraniční politice a globalizaci. Výrok nelze fakticky ověřit, neboť se jedná o subjektivní zhodnocení politické strategie izolacionismu."
+    },
+    {
+      "text": "Role zmocněnky pro lidská práva vyžaduje jednu elementární vlastnost, a to je politickou odvahu, kterou aktuální zmocněnkyně neprojevila.",
+      "type": "citation",
+      "speaker": "Eva de Croix",
+      "affiliation": "ODS",
+      "timestamp": "1/06:27",
+      "screenshot_path": "summaries/screenshots/event_2932_highlight_01.jpg",
+      "context": "Hodnocení „politické odvahy“ je subjektivním politickým názorem. Kompetence a činnost vládní zmocněnkyně pro lidská práva se řídí Statutem zmocněnce vlády pro lidská práva, nikoliv zákonem definovanou povinností projevovat „politickou odvahu“."
+    },
+    {
+      "text": "Je potřeba, aby Česká republika si zachovala kontrolu nad společností Explosia, protože toho Andrej Babiš není schopen a místo toho rozehrává hry, které Českou republiku ohrožují.",
+      "type": "paraphrase",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:58",
+      "screenshot_path": "summaries/screenshots/event_2932_highlight_02.jpg",
+      "context": "Společnost Explosia a.s. je stoprocentně vlastněna státem prostřednictvím Ministerstva průmyslu a obchodu ČR. Tvrzení o neschopnosti Andreje Babiše kontrolovat tuto společnost je politickým názorem, neboť Andrej Babiš v současnosti nedisponuje exekutivní pravomocí nad státními podniky."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Martin Kubka (ODS)** obvinil Andreje Babiše ze střetu zájmů v kauze Explosia s odkazem na to, že francouzské úřady řeší jeho „praní špinavých peněz“. Toto tvrzení je politicky citlivé, neboť přímo spojuje premiéra s probíhajícím mezinárodním vyšetřováním.",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:45",
+      "screenshot_path": "summaries/screenshots/event_2932_controversy_00.jpg",
+      "context": "Ve Francii probíhalo předběžné vyšetřování týkající se finančních transakcí Andreje Babiše v souvislosti s nákupem nemovitostí (kauza Pandora Papers). V roce 2023 však francouzská prokuratura vyšetřování zastavila s tím, že nebyly zjištěny důkazy o praní špinavých peněz."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

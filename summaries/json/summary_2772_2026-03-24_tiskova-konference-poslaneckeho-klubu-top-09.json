@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:16:56",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2772",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-24T11:19",
+    "end_date": "2026-03-24T11:43",
+    "sources": [
+      "final/event_2772_2026-03-24_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny s cílem prezentovat postoje klubu TOP 09 k aktuálním politickým tématům. Hlavním tématem byla kritika vládních kroků v oblasti financování médií veřejné služby, které opozice považuje za netransparentní a směřující k jejich zestátnění.\n\nDalšími body byla kritika vládní nečinnosti v otázce cen pohonných hmot, bezpečnostní situace v zemi v souvislosti s nedávnými útoky na strategické objekty a zdravotnická legislativa, včetně národní očkovací strategie.",
+    "main_points": [
+      "**Jan Jakob (TOP 09)** — Kritizoval vládní plán na zrušení televizních a rozhlasových poplatků, který označil za „krok k likvidaci“ médií veřejné služby. Varoval, že bez jasného plánu financování povede tento krok k finančnímu oslabení České televize a Českého rozhlasu, jejich závislosti na státu a následné politické kontrole.",
+      "**Michal Kučera (TOP 09)** — Kritizoval vládu za pasivitu v řešení vysokých cen pohonných hmot. Představil usnesení žádající vládu o informování veřejnosti o stavu zásob ropy a připravenosti na ropnou nouzi.",
+      "**Michal Zuna (TOP 09)** — Varoval před snižováním rozpočtů na obranu a zpravodajské služby v době rostoucích hybridních hrozeb. Kritizoval rušení strategických struktur (Stratkom, KRIT).",
+      "**Vlastimil Válek (TOP 09)** — Vyjádřil nesouhlas s novelou přerozdělující 8 miliard Kč z VZP mezi ostatní pojišťovny. Podpořil vládní novelu o zdravotnických prostředcích a národní očkovací strategii."
+    ],
+    "outcome": "Opoziční kluby se shodly na předložení společného bodu na jednání Poslanecké sněmovny, který se bude týkat koaličního plánu na „likvidaci“ médií veřejné služby. TOP 09 hodlá v této věci i v otázce neziskového sektoru vyvíjet maximální politický tlak.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Michal Kučera",
+        "person_id": "psp:person:6216",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Michal Zuna",
+        "person_id": "psp:person:6796",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Vlastimil Válek",
+        "person_id": "psp:person:6482",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "VZP"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Poplatky nejsou přežitek, jsou pojistkou nezávislosti médií veřejné služby.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:11",
+      "screenshot_path": "summaries/screenshots/event_2772_highlight_00.jpg",
+      "context": "Koncept koncesionářských poplatků jako nástroje nezávislosti je zakotven v zákoně č. 483/1991 Sb. (o ČT) a č. 484/1991 Sb. (o ČRo). Argumentace vychází z teorie, že přímé financování občany snižuje závislost médií na státním rozpočtu a politické reprezentaci."
+    },
+    {
+      "text": "Vláda začíná rozebírat systém financování médií, aniž by řekla, co ho nahradí.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/01:40",
+      "screenshot_path": "summaries/screenshots/event_2772_highlight_01.jpg",
+      "context": "Vládní koalice v současnosti debatuje o novele mediálních zákonů, která rozšiřuje okruh poplatníků. Tvrzení o „rozebírání systému bez náhrady“ je politickou interpretací probíhajícího legislativního procesu, nikoliv popisem schváleného stavu."
+    },
+    {
+      "text": "Sebrat VZP 8 miliard korun je nesystémový krok, o který přijdou pojištěnci ve fondu prevence.",
+      "type": "citation",
+      "speaker": "Vlastimil Válek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/10:36",
+      "screenshot_path": "summaries/screenshots/event_2772_highlight_02.jpg",
+      "context": "Přesun prostředků z fondů zdravotních pojišťoven do státního rozpočtu je předmětem politických sporů o hospodaření ve zdravotnictví. Dopad na fondy prevence je reálným rizikem, neboť tyto fondy jsou financovány ze zůstatků na účtech pojišťoven, které jsou zákonem limitovány."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Záměr vlády zrušit koncesionářské poplatky a financovat média ze státního rozpočtu. Jan Jakob (TOP 09) označil tento krok za „hazard se svobodou médií“ a „cestu k zestátnění“, což je politicky citlivé téma týkající se nezávislosti médií veřejné služby.",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:05",
+      "screenshot_path": "summaries/screenshots/event_2772_controversy_00.jpg",
+      "context": "Vláda v rámci tzv. „velké mediální novely“ (sněmovní tisk č. 734) nezrušila poplatky, ale naopak je navýšila a rozšířila okruh plátců. Označení za „cestu k zestátnění“ je politickým názorem na riziko přímého financování ze státního rozpočtu, které by mohlo oslabit nezávislost médií."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

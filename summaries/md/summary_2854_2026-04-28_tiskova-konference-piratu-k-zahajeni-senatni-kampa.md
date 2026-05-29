@@ -1,45 +1,47 @@
 ### 1. Téma a účel jednání
-Tisková konference byla svolána za účelem oficiálního zahájení senátní kampaně Adély Šípové, která obhajuje svůj mandát v obvodu Kladno a Praha-západ. Cílem akce bylo představit širokou koaliční podporu kandidátky napříč demokratickým politickým spektrem (Piráti, STAN, TOP 09, Zelení) a zdůraznit její dosavadní práci v Senátu.
+Tisková konference byla svolána za účelem oficiálního zahájení senátní kampaně Adély Šípové, která obhajuje svůj mandát v obvodu Kladno a Praha-západ. Cílem akce bylo představit širokou koaliční podporu kandidátky napříč demokratickými stranami (Piráti, STAN, TOP 09, Zelení) a zdůraznit význam Senátu jako pojistky demokracie.
 
-Hlavními tématy konference byla kontinuita v prosazování právního státu, boj proti dluhovým pastem, dostupnost bydlení a ochrana demokratických hodnot v regionu i na celostátní úrovni.
+Kandidátka a zástupci stran prezentovali dosavadní výsledky práce v Senátu, zejména v oblastech právního státu, boje proti násilí a sociální problematiky, a definovali priority pro další volební období, mezi které patří reforma exekučního systému, dostupnost bydlení a rozvoj regionální infrastruktury.
+
+---
 
 ### 2. Hlavní body
-*   **Neidentifikovaný řečník (Piráti):** Představil Adélu Šípovou jako kandidátku koalice, která rozumí problémům běžných lidí a zároveň hájí právní stát. Zdůraznil její šestiletou zkušenost v Senátu a ukotvenost v regionu.
+*   **Neidentifikovaný řečník (Piráti):** Představil Adélu Šípovou jako společnou kandidátku koalice. Vyzdvihl její šestiletou zkušenost v Senátu, orientaci v regionálních problémech a důraz na právní stát.
 *   **Barbora Urbanová (STAN):** Poděkovala za dosavadní spolupráci, zejména v oblasti boje proti domácímu a sexualizovanému násilí. Vyjádřila podporu za středočeské starosty.
-*   **Kateřina Pastorková (TOP 09):** Vyjádřila plnou podporu kandidátce s důrazem na její kompetentnost a odbornost. Zdůraznila potřebu posílení ženského hlasu v české politice.
-*   **Gabriela Svárovská (Strana zelených):** Uvedla, že podpora Šípové je pro Zelené radostí, nikoliv kompromisem. Vyzdvihla její aktivní zapojení do řešení místních problémů v Kladně a práci na klíčových agendách (např. ratifikace Istanbulské úmluvy).
-*   **Neidentifikovaný řečník (Senátor):** Vyzdvihl osobní spolupráci se Šípovou v Senátu, kde sdílejí identické hodnoty a hlasovací postoje.
-*   **Adéla Šípová (kandidátka do Senátu):**
-    *   **Priority:** 1. Spravedlnost (princip jednoho exekutora, řešení dluhových pastí), 2. Dostupné bydlení (urychlení výstavby), 3. Kvalita života v regionu (infrastruktura, rozvoj obcí).
-    *   **Argumentace:** Senát označila za pojistku demokracie v době chaosu. Varovala před odtržeností politiky od reality a zdůraznila potřebu věcné práce místo pomluv.
-*   **Tematické body:** Zástupci stran potvrdili, že jednání o podpoře kandidátů v dalších 26 senátních obvodech stále probíhají s cílem dosáhnout co nejširší shody demokratických sil.
+*   **Kateřina Pastorková (TOP 09):** Zdůraznila potřebu kompetentních odborníků v politice a podpořila kandidaturu s důrazem na posílení ženského hlasu v české politice.
+*   **Gabriela Svárovská (Zelení):** Ocenila dlouhodobou spolupráci s Adélou Šípovou, a to nejen v Senátu, ale i při řešení lokálních problémů na Kladensku (např. ústavní stížnost na vatikánskou smlouvu, ratifikace Istanbulské úmluvy).
+*   **Neidentifikovaný řečník (Senátor):** Vyzdvihl osobní zkušenost ze společného působení v Senátu, kde s Adélou Šípovou hlasovali shodně a sdílejí identické hodnoty.
+*   **Adéla Šípová (kandidátka):**
+    *   **Priority:** 1. Spravedlnost (princip jednoho exekutora, řešení dluhových pastí), 2. Dostupné bydlení (urychlení výstavby), 3. Kvalita života v regionu (doprava, infrastruktura).
+    *   **Argumenty:** Senát vnímá jako klíčovou pojistku demokracie v době chaosu (odkaz na vývoj v Maďarsku a na Slovensku).
+*   **Tematické body:** Zástupci stran potvrdili snahu o co nejširší koaliční podporu kandidátů v rámci senátních voleb napříč demokratickým blokem.
+
+---
 
 ### 3. Výsledek / závěr
-Jednání potvrdilo širokou koaliční shodu na podpoře Adély Šípové pro nadcházející senátní volby. Nebyla přijata žádná formální usnesení, šlo o deklaraci politické vůle a představení priorit kampaně. Konsenzus mezi zúčastněnými stranami je postaven na podpoře stávající senátorky jakožto záruky stability a odbornosti.
+Jednání bylo tiskovou konferencí, nikoliv hlasovacím orgánem. Výsledkem je deklarace jednotné podpory Adély Šípové ze strany koalice Pirátů, STAN, TOP 09 a Zelených pro nadcházející senátní volby.
+
+---
 
 ### 4. Poznámky
-Přepis obsahuje drobné chyby v diakritice a useknutá slova (např. „sen konkr v“), které však nebrání pochopení obsahu. Části textu jsou lehce repetitivní v důsledku automatického přepisu.
+Přepis obsahuje drobné chyby v diakritice a useknutá slova (zejména v části 1/2), nicméně obsah sdělení je srozumitelný. Identita jednoho z řečníků (senátora) nebyla v přepisu explicitně uvedena jménem.
 
 ---
 
 ### Doplňující otázky
-*   **Kontroverzní téma:** Zmínka o „ústavní stížnosti na vatikánskou smlouvu“ a „ratifikaci Istanbulské úmluvy“.
-    *   **Kdo:** Gabriela Svárovská (Strana zelených).
-    *   **Proč:** Tato témata jsou v české společnosti dlouhodobě polarizující a vyvolávají silné reakce konzervativních voličů i části politického spektra.
-    *   **Čas:** 1/04:02.
+*   **Kontroverzní téma:** Srovnání situace v ČR s Maďarskem a Slovenskem.
+    *   **Kdo:** Adéla Šípová (kandidátka).
+    *   **Co:** Uvedla, že v době chaosu je klidná a odpovědná instituce (Senát) důležitější než kdy dřív, a jako varovné příklady uvedla Maďarsko a Slovensko.
+    *   **Proč:** Jde o politicky citlivé srovnání s aktuálním politickým vývojem v sousedních zemích, které je vnímáno jako kritika tamních vládních směrů.
+    *   **Čas:** 1/07:30.
 
 ---
 
 ### Klíčové citace pro veřejnost
-*   **Text:** „V době chaosu je klidná a odpovědná instituce důležitější než kdy dřív.“ (parafráze)
-    *   **Řečník:** Adéla Šípová, senátorka
-    *   **Čas:** 1/07:20
-*   **Text:** „Budu dál prosazovat princip jednoho exekutora, aby se lidé měli šanci dostat ze dna a dluhových pastí.“ (citace)
-    *   **Řečník:** Adéla Šípová, senátorka
-    *   **Čas:** 1/08:05
-*   **Text:** „My konkrétně za Piráty, pokud vím, budeme mít dohody se všemi parlamentními stranami ze sněmovny, tedy z toho demokratického bloku.“ (citace)
-    *   **Řečník:** Neidentifikovaný řečník (Piráti)
-    *   **Čas:** 2/00:30
+*   „V době chaosu je klidná a odpovědná instituce důležitější než kdy dřív, můžeme to vidět i na příkladu Maďarska a Slovenska.“ (citace, Adéla Šípová, 1/07:30)
+*   „Budu dál prosazovat princip jednoho exekutora, aby se lidé měli šanci dostat ze dna a dluhových pastí.“ (citace, Adéla Šípová, 1/08:05)
+*   „Nejen mladé rodiny nesmí mít pocit, že pro ně v našem regionu není místo.“ (citace, Adéla Šípová, 1/08:20)
+*   „Pro Piráty je důležité, aby politika měla rozměr a pozitivní vliv pro lidi.“ (parafráze, neidentifikovaný řečník, Piráti, 1/02:06)
 
 ---
 
@@ -64,63 +66,63 @@ Přepis obsahuje drobné chyby v diakritice a useknutá slova (např. „sen kon
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem oficiálního zahájení senátní kampaně Adély Šípové, která obhajuje svůj mandát v obvodu Kladno a Praha-západ. Cílem akce bylo představit širokou koaliční podporu kandidátky napříč demokratickým politickým spektrem (Piráti, STAN, TOP 09, Zelení) a zdůraznit její dosavadní práci v Senátu.\n\nHlavními tématy konference byla kontinuita v prosazování právního státu, boj proti dluhovým pastem, dostupnost bydlení a ochrana demokratických hodnot v regionu i na celostátní úrovni.",
+    "topic": "Tisková konference byla svolána za účelem oficiálního zahájení senátní kampaně Adély Šípové, která obhajuje svůj mandát v obvodu Kladno a Praha-západ. Cílem akce bylo představit širokou koaliční podporu kandidátky napříč demokratickými stranami (Piráti, STAN, TOP 09, Zelení) a zdůraznit význam Senátu jako pojistky demokracie.\n\nKandidátka a zástupci stran prezentovali dosavadní výsledky práce v Senátu, zejména v oblastech právního státu, boje proti násilí a sociální problematiky, a definovali priority pro další volební období, mezi které patří reforma exekučního systému, dostupnost bydlení a rozvoj regionální infrastruktury.",
     "main_points": [
-      "**Neidentifikovaný řečník (Piráti)** — Představil Adélu Šípovou jako kandidátku koalice, která rozumí problémům běžných lidí a zároveň hájí právní stát. Zdůraznil její šestiletou zkušenost v Senátu a ukotvenost v regionu.",
+      "**Neidentifikovaný řečník (Piráti)** — Představil Adélu Šípovou jako společnou kandidátku koalice. Vyzdvihl její šestiletou zkušenost v Senátu, orientaci v regionálních problémech a důraz na právní stát.",
       "**Barbora Urbanová (STAN)** — Poděkovala za dosavadní spolupráci, zejména v oblasti boje proti domácímu a sexualizovanému násilí. Vyjádřila podporu za středočeské starosty.",
-      "**Kateřina Pastorková (TOP 09)** — Vyjádřila plnou podporu kandidátce s důrazem na její kompetentnost a odbornost. Zdůraznila potřebu posílení ženského hlasu v české politice.",
-      "**Gabriela Svárovská (Strana zelených)** — Uvedla, že podpora Šípové je pro Zelené radostí, nikoliv kompromisem. Vyzdvihla její aktivní zapojení do řešení místních problémů v Kladně a práci na klíčových agendách.",
-      "**Neidentifikovaný řečník (Senátor)** — Vyzdvihl osobní spolupráci se Šípovou v Senátu, kde sdílejí identické hodnoty a hlasovací postoje.",
-      "**Adéla Šípová (kandidátka do Senátu)** — Představila tři priority: 1. Spravedlnost (princip jednoho exekutora), 2. Dostupné bydlení, 3. Kvalita života v regionu. Senát označila za pojistku demokracie.",
-      "Zástupci stran potvrdili, že jednání o podpoře kandidátů v dalších 26 senátních obvodech stále probíhají."
+      "**Kateřina Pastorková (TOP 09)** — Zdůraznila potřebu kompetentních odborníků v politice a podpořila kandidaturu s důrazem na posílení ženského hlasu v české politice.",
+      "**Gabriela Svárovská (Zelení)** — Ocenila dlouhodobou spolupráci s Adélou Šípovou, a to nejen v Senátu, ale i při řešení lokálních problémů na Kladensku (např. ústavní stížnost na vatikánskou smlouvu, ratifikace Istanbulské úmluvy).",
+      "**Neidentifikovaný řečník (Senátor)** — Vyzdvihl osobní zkušenost ze společného působení v Senátu, kde s Adélou Šípovou hlasovali shodně a sdílejí identické hodnoty.",
+      "**Adéla Šípová (kandidátka)** — \n    *   **Priority:** 1. Spravedlnost (princip jednoho exekutora, řešení dluhových pastí), 2. Dostupné bydlení (urychlení výstavby), 3. Kvalita života v regionu (doprava, infrastruktura).\n    *   **Argumenty:** Senát vnímá jako klíčovou pojistku demokracie v době chaosu (odkaz na vývoj v Maďarsku a na Slovensku).",
+      "**Tematické body** — Zástupci stran potvrdili snahu o co nejširší koaliční podporu kandidátů v rámci senátních voleb napříč demokratickým blokem."
     ],
-    "outcome": "Jednání potvrdilo širokou koaliční shodu na podpoře Adély Šípové pro nadcházející senátní volby. Nebyla přijata žádná formální usnesení, šlo o deklaraci politické vůle a představení priorit kampaně. Konsenzus mezi zúčastněnými stranami je postaven na podpoře stávající senátorky jakožto záruky stability a odbornosti.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a useknutá slova, které však nebrání pochopení obsahu. Části textu jsou lehce repetitivní v důsledku automatického přepisu."
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasovacím orgánem. Výsledkem je deklarace jednotné podpory Adély Šípové ze strany koalice Pirátů, STAN, TOP 09 a Zelených pro nadcházející senátní volby.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a useknutá slova (zejména v části 1/2), nicméně obsah sdělení je srozumitelný. Identita jednoho z řečníků (senátora) nebyla v přepisu explicitně uvedena jménem."
   },
   "entities": {
     "speakers": [
-      {"name": "Adéla Šípová", "person_id": null, "affiliation": "Senát ČR"},
+      {"name": "Adéla Šípová", "person_id": null, "affiliation": "Senátorka"},
       {"name": "Barbora Urbanová", "person_id": null, "affiliation": "STAN"},
       {"name": "Kateřina Pastorková", "person_id": null, "affiliation": "TOP 09"},
-      {"name": "Gabriela Svárovská", "person_id": null, "affiliation": "Strana zelených"}
+      {"name": "Gabriela Svárovská", "person_id": null, "affiliation": "Zelení"}
     ],
-    "parties": ["Piráti", "STAN", "TOP 09", "Strana zelených"],
-    "institutions": ["Senát ČR"]
+    "parties": ["Piráti", "STAN", "TOP 09", "Zelení"],
+    "institutions": ["Senát PČR"]
   },
   "highlights": [
     {
-      "text": "V době chaosu je klidná a odpovědná instituce důležitější než kdy dřív.",
-      "type": "paraphrase",
+      "text": "V době chaosu je klidná a odpovědná instituce důležitější než kdy dřív, můžeme to vidět i na příkladu Maďarska a Slovenska.",
+      "type": "citation",
       "speaker": "Adéla Šípová",
-      "affiliation": "Senát ČR",
-      "timestamp": "1/07:20"
+      "affiliation": "Senátorka",
+      "timestamp": "1/07:30"
     },
     {
       "text": "Budu dál prosazovat princip jednoho exekutora, aby se lidé měli šanci dostat ze dna a dluhových pastí.",
       "type": "citation",
       "speaker": "Adéla Šípová",
-      "affiliation": "Senát ČR",
+      "affiliation": "Senátorka",
       "timestamp": "1/08:05"
     },
     {
-      "text": "My konkrétně za Piráty, pokud vím, budeme mít dohody se všemi parlamentními stranami ze sněmovny, tedy z toho demokratického bloku.",
+      "text": "Nejen mladé rodiny nesmí mít pocit, že pro ně v našem regionu není místo.",
       "type": "citation",
-      "speaker": "neidentifikovaný řečník",
-      "affiliation": "Piráti",
-      "timestamp": "2/00:30"
+      "speaker": "Adéla Šípová",
+      "affiliation": "Senátorka",
+      "timestamp": "1/08:20"
     }
   ],
   "controversial": [
     {
-      "statement": "Zmínka o „ústavní stížnosti na vatikánskou smlouvu“ a „ratifikaci Istanbulské úmluvy“.\n\n* **Kdo:** Gabriela Svárovská (Strana zelených)\n* **Proč:** Tato témata jsou v české společnosti dlouhodobě polarizující a vyvolávají silné reakce konzervativních voličů i části politického spektra.\n* **Čas:** 1/04:02",
-      "speaker": "Gabriela Svárovská",
-      "affiliation": "Strana zelených",
-      "timestamp": "1/04:02"
+      "statement": "**Kdo:** Adéla Šípová (kandidátka).\n**Co:** Uvedla, že v době chaosu je klidná a odpovědná instituce (Senát) důležitější než kdy dřív, a jako varovné příklady uvedla Maďarsko a Slovensko.\n**Proč:** Jde o politicky citlivé srovnání s aktuálním politickým vývojem v sousedních zemích, které je vnímáno jako kritika tamních vládních směrů.\n**Čas:** 1/07:30",
+      "speaker": "Adéla Šípová",
+      "affiliation": "Senátorka",
+      "timestamp": "1/07:30"
     }
   ],
   "quality": {
-    "transcript_quality": "good",
-    "unintelligible_parts": false
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
   },
   "extras": null
 }

@@ -1,49 +1,46 @@
-Zde je strukturované shrnutí tiskové konference zástupců rozpočtového výboru za hnutí STAN ze dne 2. dubna 2026.
+Zde je strukturované shrnutí tiskové konference zástupců rozpočtového výboru za hnutí STAN.
 
 ### 1. Téma a účel jednání
-Tisková konference byla svolána zástupci hnutí STAN v rozpočtovém výboru Poslanecké sněmovny za účelem představení legislativních priorit a reakce na aktuální vládní kroky v oblasti fiskální politiky. Hlavními tématy byly návrh na zavedení daňového bonusu pro nízkopříjmové pracující, náprava chyb v důchodovém spoření a kritika vládních snah o oslabení parlamentní kontroly nad státním rozpočtem.
+Tisková konference zástupců rozpočtového výboru za hnutí STAN (Věra Kovářová, Jan Papajanovský, Lucie Sedmihradská) se zaměřila na tři hlavní okruhy: představení návrhu novely zákona o daních z příjmů na podporu nízkopříjmových pracujících, nápravu chyb v důchodovém spoření a kritiku vládních kroků v oblasti rozpočtové transparentnosti.
 
-Cílem vystoupení bylo prezentovat konstruktivní opoziční přístup, který klade důraz na cílenou podporu občanů, transparentnost hospodaření státu a odpovědnost za rozpočtové dopady.
+Cílem vystoupení bylo informovat veřejnost o legislativních iniciativách hnutí, které mají za úkol narovnat daňovou nespravedlnost, napravit pochybení státu vůči seniorům a posílit kontrolní roli Poslanecké sněmovny nad hospodařením vlády.
 
 ### 2. Hlavní body
 *   **Jan Papajanovský (STAN):**
-    *   Představil návrh novely zákona o daních z příjmů zavádějící daňový bonus pro nízkopříjmové pracující (částečné úvazky, matky na rodičovské, regiony s nižšími mzdami).
-    *   Návrh má být téměř daňově neutrální (náklady max. 500 mil. Kč ročně) a má přinést cca 100 000 lidem průměrně 5 000 Kč ročně.
-    *   Kritizoval negativní stanovisko vlády k tomuto návrhu.
+    *   Představil návrh novely zákona o daních z příjmů zavádějící daňový bonus pro nízkopříjmové pracující (např. částečné úvazky, matky na rodičovské).
+    *   Argumentuje, že tito lidé dnes paradoxně platí vyšší daně než lidé s vyššími příjmy.
+    *   Návrh má být téměř daňově neutrální (náklady max. 500 mil. Kč ročně) a má pomoci cca 100 000 lidem (průměrně 5 000 Kč/rok).
+    *   Vláda k návrhu vydala negativní stanovisko, přestože některá ministerstva byla pro. STAN hodlá návrh prosazovat na půdě Sněmovny.
 *   **Věra Kovářová (STAN):**
-    *   Přiznala chybu hnutí při schvalování důchodové reformy, která poškodila tisíce seniorů (ztráta státních příspěvků ke spoření po 1. červenci 2024).
-    *   Podpořila vládní novelu, která umožňuje ukončení spoření bez sankcí pro smlouvy uzavřené do konce roku 2023 a vracení státních příspěvků pro ty, kteří již spoření ukončili (cca 16 000 osob).
+    *   Přiznala chybu hnutí při schvalování důchodové reformy, která negativně zasáhla tisíce seniorů (zrušení státních příspěvků ke spoření od 1. 7. 2024).
+    *   Podporuje vládní novelu, která umožňuje ukončení spoření bez sankcí (pro smlouvy do konce roku 2023) nebo vrácení státních příspěvků těm, kteří již spoření ukončili (cca 16 000 osob).
 *   **Lucie Sedmihradská (STAN):**
-    *   Kritizovala vládní snahu o oslabení role Poslanecké sněmovny při kontrole hospodaření (zrušení povinnosti předkládat zprávy o plnění rozpočtu za 1. a 3. čtvrtletí).
-    *   Představila sadu pozměňovacích návrhů: zachování čtvrtletních zpráv, zveřejňování rozpočtových opatření do 30 dnů, zapojení výboru do fiskálně strukturálního plánu a povinnost schvalovat rozpočty kapitol v červnu.
-*   **Tematické body (reakce na ceny pohonných hmot):**
-    *   Zástupci STAN vyjádřili pochybnosti o plošném zastropování marží čerpacích stanic; obávají se, že opatření dopadne pouze na stanice u dálnic s vysokým nájemným.
-    *   Zdůraznili nutnost cílené, nikoliv plošné pomoci.
-    *   Varovali před trvalým snížením spotřební daně, které by dále zatížilo deficitní rozpočet.
+    *   Kritizuje vládní snahu oslabit roli Sněmovny při kontrole státního rozpočtu (rušení povinnosti předkládat zprávy za 1. a 3. čtvrtletí).
+    *   Představila sadu pozměňovacích návrhů: zachování čtvrtletních zpráv, zveřejňování rozpočtových opatření do 30 dnů, zapojení Sněmovny do fiskálně strukturálního plánu a povinnost schvalovat rozpočty kapitol v červnu.
+*   **Téma cen pohonných hmot:**
+    *   Zástupci STAN vyjádřili pochybnosti o plošném zastropování marží a snížení spotřební daně.
+    *   Varují před tím, aby se dočasná opatření nestala trvalými (jako v minulosti).
+    *   Preferují cílenou podporu před plošnou, která je drahá a neefektivní.
 
 ### 3. Výsledek / závěr
-Hnutí STAN bude v Poslanecké sněmovně prosazovat svůj návrh na daňový bonus pro nízkopříjmové a hodlá předložit pozměňovací návrhy k vládní novele rozpočtových pravidel, aby zachovalo transparentnost a kontrolní roli Sněmovny. V otázce cen pohonných hmot hnutí preferuje vyčkávací taktiku a cílenou podporu, přičemž o konkrétním postoji k vládním opatřením bude ještě jednat na poslaneckém klubu.
+Hnutí STAN bude v Poslanecké sněmovně aktivně prosazovat své pozměňovací návrhy k rozpočtové transparentnosti a novelu zákona o daních z příjmů. V otázce cen pohonných hmot se hnutí staví skepticky k plošným vládním zásahům a bude o dalším postupu jednat na poslaneckém klubu, přičemž zdůrazňuje nutnost cílené pomoci.
 
 ### 4. Poznámky
-Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech týkajících se technických detailů rozpočtových pravidel a v závěru projevu Věry Kovářové), které byly pro potřeby shrnutí interpretovány na základě kontextu.
+Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech 02:18–04:01 a 06:01–08:10), kde dochází k výpadkům textu a opakování frází, nicméně hlavní argumenty řečníků jsou z kontextu patrné.
 
 ---
 
 ### Doplňující otázky
-*   **Kdo:** Lucie Sedmihradská (STAN)
-*   **Co:** Obvinila vládu z pokusu oslabit roli Poslanecké sněmovny při kontrole hospodaření státu skrze zrušení povinnosti předkládat zprávy za 1. a 3. čtvrtletí.
-*   **Proč:** Je to politicky citlivé, protože vláda deklaruje transparentnost, ale fakticky omezuje parlamentní dohled nad rozpočtovými toky.
-*   **Čas:** 1/06:01
-
----
+*   **Kontroverze: Oslabení kontroly rozpočtu**
+    *   **Kdo:** Lucie Sedmihradská (STAN)
+    *   **Co:** Vláda se snaží zrušit povinnost předkládat zprávy o plnění rozpočtu za 1. a 3. čtvrtletí, čímž se vyhýbá skládání účtů poslancům.
+    *   **Proč:** Jde o střet mezi vládní snahou o administrativní zjednodušení a opozičním požadavkem na transparentnost a parlamentní dohled.
+    *   **Čas:** 1/06:01
 
 ### Klíčové citace pro veřejnost
-*   **Text:** „Náš návrh na zavedení daňového bonusu zatíží státní rozpočet maximálně 500 miliony korun ročně.“ (parafráze)
-    *   **Řečník:** Jan Papajanovský (STAN), **Čas:** 1/02:18
-*   **Text:** „Zhruba 100 000 pracujícím lidem v České republice s nejnižšími příjmy by tento náš návrh přinesl ročně v průměru do jejich peněženek zhruba 5 000 Kč navíc.“ (citace)
-    *   **Řečník:** Jan Papajanovský (STAN), **Čas:** 1/02:18
-*   **Text:** „Vláda navrhuje zrušit zprávu za první a třetí čtvrtletí a vlastně tím odstranit tu povinnost skládat účty v té frekvenci, na kterou jsme byli zvyklí.“ (citace)
-    *   **Řečník:** Lucie Sedmihradská (STAN), **Čas:** 1/06:01
+*   "Náš návrh na zavedení daňového bonusu zatíží státní rozpočet maximálně 500 miliony korun ročně." (Citace, Jan Papajanovský, STAN, 1/02:18)
+*   "Zhruba 100 000 pracujícím lidem v České republice s nejnižšími příjmy by tento náš návrh přinesl ročně v průměru do jejich peněženek zhruba 5 000 Kč navíc." (Citace, Jan Papajanovský, STAN, 1/02:18)
+*   "Každé opatření, které je plošné, je drahé." (Citace, Věra Kovářová, STAN, 1/10:11)
 
 ---
 
@@ -68,15 +65,15 @@ Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech týk
     "model": "whisper-large-v3-turbo"
   },
   "summary": {
-    "topic": "Tisková konference byla svolána zástupci hnutí STAN v rozpočtovém výboru Poslanecké sněmovny za účelem představení legislativních priorit a reakce na aktuální vládní kroky v oblasti fiskální politiky. Hlavními tématy byly návrh na zavedení daňového bonusu pro nízkopříjmové pracující, náprava chyb v důchodovém spoření a kritika vládních snah o oslabení parlamentní kontroly nad státním rozpočtem.\n\nCílem vystoupení bylo prezentovat konstruktivní opoziční přístup, který klade důraz na cílenou podporu občanů, transparentnost hospodaření státu a odpovědnost za rozpočtové dopady.",
+    "topic": "Tisková konference zástupců rozpočtového výboru za hnutí STAN (Věra Kovářová, Jan Papajanovský, Lucie Sedmihradská) se zaměřila na tři hlavní okruhy: představení návrhu novely zákona o daních z příjmů na podporu nízkopříjmových pracujících, nápravu chyb v důchodovém spoření a kritiku vládních kroků v oblasti rozpočtové transparentnosti.\n\nCílem vystoupení bylo informovat veřejnost o legislativních iniciativách hnutí, které mají za úkol narovnat daňovou nespravedlnost, napravit pochybení státu vůči seniorům a posílit kontrolní roli Poslanecké sněmovny nad hospodařením vlády.",
     "main_points": [
-      "**Jan Papajanovský (STAN)** — Představil návrh novely zákona o daních z příjmů zavádějící daňový bonus pro nízkopříjmové pracující. Návrh má být téměř daňově neutrální (náklady max. 500 mil. Kč ročně) a má přinést cca 100 000 lidem průměrně 5 000 Kč ročně.",
-      "**Věra Kovářová (STAN)** — Přiznala chybu hnutí při schvalování důchodové reformy. Podpořila vládní novelu, která umožňuje ukončení spoření bez sankcí pro smlouvy uzavřené do konce roku 2023 a vracení státních příspěvků pro ty, kteří již spoření ukončili.",
-      "**Lucie Sedmihradská (STAN)** — Kritizovala vládní snahu o oslabení role Poslanecké sněmovny při kontrole hospodaření. Představila sadu pozměňovacích návrhů, které mají zajistit transparentnost a legislativní dohled.",
-      "**Tematické body** — Zástupci STAN vyjádřili pochybnosti o plošném zastropování marží čerpacích stanic a varovali před trvalým snížením spotřební daně, přičemž zdůraznili nutnost cílené pomoci."
+      "**Jan Papajanovský (STAN)** — Představil návrh novely zákona o daních z příjmů zavádějící daňový bonus pro nízkopříjmové pracující. Návrh je téměř daňově neutrální (náklady max. 500 mil. Kč ročně) a má pomoci cca 100 000 lidem (průměrně 5 000 Kč/rok).",
+      "**Věra Kovářová (STAN)** — Přiznala chybu hnutí při schvalování důchodové reformy. Podporuje vládní novelu, která umožňuje ukončení spoření bez sankcí nebo vrácení státních příspěvků těm, kteří již spoření ukončili.",
+      "**Lucie Sedmihradská (STAN)** — Kritizuje vládní snahu oslabit roli Sněmovny při kontrole státního rozpočtu (rušení čtvrtletních zpráv). Představila sadu pozměňovacích návrhů pro posílení transparentnosti a legislativního dohledu.",
+      "**Téma cen pohonných hmot** — Zástupci STAN vyjádřili pochybnosti o plošném zastropování marží a snížení spotřební daně. Preferují cílenou podporu před plošnou, která je drahá a neefektivní."
     ],
-    "outcome": "Hnutí STAN bude v Poslanecké sněmovně prosazovat svůj návrh na daňový bonus pro nízkopříjmové a hodlá předložit pozměňovací návrhy k vládní novele rozpočtových pravidel, aby zachovalo transparentnost a kontrolní roli Sněmovny. V otázce cen pohonných hmot hnutí preferuje vyčkávací taktiku a cílenou podporu, přičemž o konkrétním postoji k vládním opatřením bude ještě jednat na poslaneckém klubu.",
-    "notes": "Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech týkajících se technických detailů rozpočtových pravidel a v závěru projevu Věry Kovářové), které byly pro potřeby shrnutí interpretovány na základě kontextu."
+    "outcome": "Hnutí STAN bude v Poslanecké sněmovně aktivně prosazovat své pozměňovací návrhy k rozpočtové transparentnosti a novelu zákona o daních z příjmů. V otázce cen pohonných hmot se hnutí staví skepticky k plošným vládním zásahům a bude o dalším postupu jednat na poslaneckém klubu.",
+    "notes": "Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech 02:18–04:01 a 06:01–08:10), kde dochází k výpadkům textu a opakování frází, nicméně hlavní argumenty řečníků jsou z kontextu patrné."
   },
   "entities": {
     "speakers": [
@@ -85,12 +82,12 @@ Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech týk
       {"name": "Lucie Sedmihradská", "person_id": null, "affiliation": "STAN"}
     ],
     "parties": ["STAN"],
-    "institutions": ["Poslanecká sněmovna", "Rozpočtový výbor", "Ministerstvo financí"]
+    "institutions": ["Poslanecká sněmovna", "Rozpočtový výbor"]
   },
   "highlights": [
     {
       "text": "Náš návrh na zavedení daňového bonusu zatíží státní rozpočet maximálně 500 miliony korun ročně.",
-      "type": "paraphrase",
+      "type": "citation",
       "speaker": "Jan Papajanovský",
       "affiliation": "STAN",
       "timestamp": "1/02:18"
@@ -103,16 +100,16 @@ Přepis obsahuje několik nesrozumitelných pasáží (zejména v částech týk
       "timestamp": "1/02:18"
     },
     {
-      "text": "Vláda navrhuje zrušit zprávu za první a třetí čtvrtletí a vlastně tím odstranit tu povinnost skládat účty v té frekvenci, na kterou jsme byli zvyklí.",
+      "text": "Každé opatření, které je plošné, je drahé.",
       "type": "citation",
-      "speaker": "Lucie Sedmihradská",
+      "speaker": "Věra Kovářová",
       "affiliation": "STAN",
-      "timestamp": "1/06:01"
+      "timestamp": "1/10:11"
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Lucie Sedmihradská (STAN)\n**Co:** Obvinila vládu z pokusu oslabit roli Poslanecké sněmovny při kontrole hospodaření státu skrze zrušení povinnosti předkládat zprávy za 1. a 3. čtvrtletí.\n**Proč:** Je to politicky citlivé, protože vláda deklaruje transparentnost, ale fakticky omezuje parlamentní dohled nad rozpočtovými toky.\n**Čas:** 1/06:01",
+      "statement": "**Kdo:** Lucie Sedmihradská (STAN)\n**Co:** Vláda se snaží zrušit povinnost předkládat zprávy o plnění rozpočtu za 1. a 3. čtvrtletí, čímž se vyhýbá skládání účtů poslancům.\n**Proč:** Jde o střet mezi vládní snahou o administrativní zjednodušení a opozičním požadavkem na transparentnost a parlamentní dohled.\n**Čas:** 1/06:01",
       "speaker": "Lucie Sedmihradská",
       "affiliation": "STAN",
       "timestamp": "1/06:01"

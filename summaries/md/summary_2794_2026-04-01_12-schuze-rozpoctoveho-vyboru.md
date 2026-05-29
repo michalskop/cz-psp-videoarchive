@@ -1,59 +1,41 @@
-## 1. **Téma a účel jednání** 
-Jednání se konalo v rámci 12. schůze Rozpočtového výboru, která proběhla na 1. dubna 2026 od 9:05 do 12:03. Hlavním tématem byly vládní návrhy zákonů týkajících se investičních společností a investičních fondů, veřejných rozpočtů a doplňkového penzijního spoření.
+Zde je strukturované shrnutí 12. schůze Rozpočtového výboru, která se konala 1. dubna 2026.
 
-## 2. **Hlavní body**
-- **Milan Brázdil (neznámá strana)**: Omlouvá se na dnešní den.
-- **Jan Papajanovský (neznámá strana)**: Omlouvá se na odpolední část.
-- **Jan Jakob (neznámá strana)**: Omlouvá se na odpolední část a žádá vysvětlení k pozměňovacímu návrhu.
-- **Vendula Svobodová (neznámá strana)**: Navržena jako ověřovatelka dnešní schůze a předkládá pozměňovací návrhy k novele.
-- **Libor Turk (neznámá strana)**: Navržen jako ověřovatel dnešní schůze.
-- **Jiří Palán (Ministerstvo financí)**: Předkládá vládní návrh zákona o investičních společnostech a investičních fondech a vysvětluje důvody pro omezení poskytování spotřebitelských úvěrů fondy.
-- **Jan Hrnčíř (Rozpočtový výbor)**: Spravodaj výboru, vyjadřuje obavy ohledně dopadů novely na trh a ochranu investorů.
-- **Patrik (neznámý řečník)**: Předkládá pozměňovací návrh k novele.
-- **Jiří Turek (neznámá strana)**: Nesouhlasí s panem Spravodajem a považuje novelu za potřebnou transpozici evropských směrnic.
-- **Karel Tyl (Ministerstvo financí)**: Předkládá vládní návrh zákona o veřejných rozpočtích.
-- **Mojmír Hampl (Národní rozpočtová rada)**, **Petr Musil (Národní rozpočtová rada)**, **Luboš Komárek (Národní rozpočtová rada)**: Vyjadřují obavy ohledně dopadů novely na rozpočtovou odpovědnost.
-- **Jana Murová (Rozpočtový výbor)**: Spravodajka výboru, předkládá usnesení výboru.
-- **Daniel Ševčík (Nejvyšší kontrolní úřad)**: Vyjadřuje stanovisko úřadu k novele.
-- **Patrik Nacher (ANO)**: Předkládá návrh zákona, kterým se mění zákon o doplňkovém penzijním spoření a zákon o daních z příjmů.
-- **Miroslav Pikora (ODS)**: Zpravodajská zpráva, doporučení schválit návrh zákona.
-- **Jan Jakob (ODS)**: Pozměňovací návrh, nesouhlas se zpětnou kompenzací pro účastníky, kteří opustili penzijní systém.
-- **Vendula Svobodová (Piráti)**: Dva pozměňovací návrhy, zastropování poplatků u penzijních fondů a rozvolnění struktury fondů pro investice do akcií.
+### 1. Téma a účel jednání
+Jednání 12. schůze Rozpočtového výboru bylo zaměřeno na projednání vládních návrhů zákonů v oblasti finančního trhu a veřejných rozpočtů, včetně transpozice evropských směrnic. Cílem bylo připravit podklady pro druhé čtení v Poslanecké sněmovně, projednat pozměňovací návrhy a posoudit dopady navrhovaných legislativních změn na rozpočtovou odpovědnost a stabilitu finančního sektoru.
 
-## 3. **Výsledek / závěr**
-Jednání bylo zaměřeno na projednávání a hlasování o několika návrzích zákonů a pozměňovacích návrzích týkajících se investičních fondů, veřejných rozpočtů a penzijního spoření. Přerušení jednání bylo navrženo a schváleno. Návrhy zákonů a pozměňovací návrhy byly předloženy, diskutovány a někteří členové vyjádřili své stanovisko a obavy.
+### 2. Hlavní body
+*   **Jiří Palán (Ministerstvo financí):** Prezentoval novelu zákona o investičních společnostech a fondech (tisk 13). Cílem je transpozice směrnic EU (AIFMD, UCITS), zavedení nástrojů pro řízení likvidity a úprava pravidel pro delegování činností. Uvedl, že zákon odstraňuje „gold plating“ (nadbytečné požadavky) a zavádí ex-post kontrolu depozitářů.
+*   **Jan Hrnčíř (zpravodaj):** Vyjádřil skepsi k další regulaci z Bruselu, varoval před zvýšenými náklady na dohled ČNB a riziky spojenými s outsourcingem a správou nevýkonných úvěrů.
+*   **Karel Tyl (Ministerstvo financí):** Představil novelu zákona o pravidlech rozpočtové odpovědnosti (tisk 90). Zdůraznil posun k čistým výdajům a čtyřleté trajektorii plánování. Obhajoval zrušení rezervy důchodového pojištění jako technickou úpravu, která zamezuje zbytečnému zadlužování státu.
+*   **Daniel Ševčík (NKU):** Upozornil na nesoulad v účinnosti novely zákona o NKU a rozpočtových pravidel, doporučil sjednocení termínů.
+*   **Mojmír Hampl (Národní rozpočtová rada):** Kritizoval vágnost pojmu „výrazně zhoršená bezpečnostní situace“ a 10% bianco šek pro vládu při navyšování výdajů. Varoval před oslabením fiskálních pravidel.
+*   **Patrik Nacher (předkladatel):** Představil návrh zákona (tisk 119) řešící situaci účastníků penzijního spoření, kteří přišli o státní příspěvky kvůli změně pravidel. Návrh má kompenzovat cca 16 000 osob s náklady 60 milionů Kč.
 
-## 4. **Poznámky**
-Přepis obsahuje několik částí, které mohou být nejasné nebo chybějící kvůli automatickému zpracování. Někteří řečníci nebyli identifikováni.
+### 3. Výsledek / závěr
+*   **Tisk 13 (Investiční fondy):** Výbor doporučil ke schválení v podobě přijatých pozměňovacích návrhů.
+*   **Tisk 90 (Rozpočtová pravidla):** Výbor doporučil ke schválení. Návrh na přerušení jednání do září 2026 byl zamítnut (10 pro, 14 proti). Pozměňovací návrhy poslankyně Sedmihradské byly zamítnuty.
+*   **Tisk 119 (Penzijní spoření):** Výbor doporučil ke schválení. Pozměňovací návrhy poslankyně Svobodové (zastropování poplatků) a poslance Jakoba (zrušení zpětných kompenzací) byly zamítnuty.
 
-## Doplňující otázky
+### 4. Poznámky
+Přepis obsahuje četné technické chyby, opakující se fráze („Představující se na výboru“) a výpadky v textu. Části 11 a 12 jsou z velké části nečitelné nebo obsahují pouze automaticky generovaný text bez věcného obsahu.
 
-- **Kdo**: Patrik (neznámý řečník)
-  - **Co přesně**: Předložil pozměňovací návrh k novele
-  - **Proč je to kontroverzní**: Může ovlivnit dopady novely na trh a ochranu investorů
-  - **Čas**: 1/ nezjištěno
+---
 
-- **Kdo**: Neidentifikovaný řečník [5]
-  - **Co přesně**: Vyjadřuje obavy ohledně oslabení role Národní rozpočtové rady
-  - **Proč je to kontroverzní**: Může mít dopad na rozpočtovou odpovědnost
-  - **Čas**: 1/ nezjištěno
+### Doplňující otázky
+*   **Kontroverze: Rozvolnění rozpočtových pravidel (tisk 90)**
+    *   **Kdo:** Jan Munzar (ODS), Jana Murová (zpravodajka), Karel Tyl (MF).
+    *   **Co:** Návrh dává vládě pravomoc navyšovat výdaje o 10 % v případě „výrazně zhoršené bezpečnostní situace“.
+    *   **Proč:** Opozice to vnímá jako „bianco šek“ a oslabení kontrolní funkce Sněmovny.
+    *   **Čas:** 6/02:08.
 
-## Klíčové citace pro veřejnost
+### Klíčové citace pro veřejnost
+*   „Tento návrh se stal nositelem rozmělnění rozpočtové odpovědnosti a cesty k udržitelným veřejným financím.“ – **Jan Munzar (ODS)**, 6/01:30.
+*   „Celkové náklady na kompenzace účastníkům penzijního spoření budou činit 60 milionů korun, což je částka, která nestojí za ztrátu důvěry střadatelů.“ – **Patrik Nacher (ANO)**, 17/05:15.
+*   „Vládě dáváme neuvěřitelně velkou diskreci použít ustanovení o navyšování výdajů i v okamžicích, které nemusí být vázány na bezpečnostní situaci.“ – **Mojmír Hampl (NRR)**, 5/04:15.
 
-1. **Text**: "Návrh zákona, kterým se mění zákon o doplňkovém penzijním spoření a zákon o daních z příjmů."
-   - **Řečník**: Patrik Nacher (ANO)
-   - **Čas**: 2/ nezjištěno
+---
 
-2. **Text**: "Umožnění exitů z penzijního systému bez sankcí pro 150 000 účastníků."
-   - **Řečník**: Patrik Nacher (ANO)
-   - **Čas**: 2/ nezjištěno
-
-3. **Text**: "Vyjadřuje obavy ohledně dopadů novely na trh a ochranu investorů."
-   - **Řečník**: Jan Hrnčíř (Rozpočtový výbor)
-   - **Čas**: 1/ nezjištěno
-
-## JSON výstup
-
+### JSON výstup
 ```json
 {
   "schema_version": "2",
@@ -74,91 +56,51 @@ Přepis obsahuje několik částí, které mohou být nejasné nebo chybějící
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání se konalo v rámci 12. schůze Rozpočtového výboru, která proběhla na 1. dubna 2026 od 9:05 do 12:03. Hlavním tématem byly vládní návrhy zákonů týkajících se investičních společností a investičních fondů, veřejných rozpočtů a doplňkového penzijního spoření.",
+    "topic": "Jednání 12. schůze Rozpočtového výboru bylo zaměřeno na projednání vládních návrhů zákonů v oblasti finančního trhu a veřejných rozpočtů, včetně transpozice evropských směrnic. Cílem bylo připravit podklady pro druhé čtení v Poslanecké sněmovně, projednat pozměňovací návrhy a posoudit dopady navrhovaných legislativních změn na rozpočtovou odpovědnost a stabilitu finančního sektoru.",
     "main_points": [
-      "- Milan Brázdil (neznámá strana): Omlouvá se na dnešní den.",
-      "- Jan Papajanovský (neznámá strana): Omlouvá se na odpolední část.",
-      "- Jan Jakob (neznámá strana): Omlouvá se na odpolední část a žádá vysvětlení k pozměňovacímu návrhu.",
-      "- Vendula Svobodová (neznámá strana): Navržena jako ověřovatelka dnešní schůze a předkládá pozměňovací návrhy k novele.",
-      "- Libor Turk (neznámá strana): Navržen jako ověřovatel dnešní schůze.",
-      "- Jiří Palán (Ministerstvo financí): Předkládá vládní návrh zákona o investičních společnostech a investičních fondech a vysvětluje důvody pro omezení poskytování spotřebitelských úvěrů fondy.",
-      "- Jan Hrnčíř (Rozpočtový výbor): Spravodaj výboru, vyjadřuje obavy ohledně dopadů novely na trh a ochranu investorů.",
-      "- Patrik (neznámý řečník): Předkládá pozměňovací návrh k novele.",
-      "- Jiří Turek (neznámá strana): Nesouhlasí s panem Spravodajem a považuje novelu za potřebnou transpozici evropských směrnic.",
-      "- Karel Tyl (Ministerstvo financí): Předkládá vládní návrh zákona o veřejných rozpočtích.",
-      "- Mojmír Hampl (Národní rozpočtová rada), Petr Musil (Národní rozpočtová rada), Luboš Komárek (Národní rozpočtová rada): Vyjadřují obavy ohledně dopadů novely na rozpočtovou odpovědnost.",
-      "- Jana Murová (Rozpočtový výbor): Spravodajka výboru, předkládá usnesení výboru.",
-      "- Daniel Ševčík (Nejvyšší kontrolní úřad): Vyjadřuje stanovisko úřadu k novele.",
-      "- Patrik Nacher (ANO): Předkládá návrh zákona, kterým se mění zákon o doplňkovém penzijním spoření a zákon o daních z příjmů.",
-      "- Miroslav Pikora (ODS): Zpravodajská zpráva, doporučení schválit návrh zákona.",
-      "- Jan Jakob (ODS): Pozměňovací návrh, nesouhlas se zpětnou kompenzací pro účastníky, kteří opustili penzijní systém.",
-      "- Vendula Svobodová (Piráti): Dva pozměňovací návrhy, zastropování poplatků u penzijních fondů a rozvolnění struktury fondů pro investice do akcií."
+      "**Jiří Palán (Ministerstvo financí)** – Prezentoval novelu zákona o investičních společnostech a fondech (tisk 13). Cílem je transpozice směrnic EU (AIFMD, UCITS), zavedení nástrojů pro řízení likvidity a úprava pravidel pro delegování činností.",
+      "**Jan Hrnčíř (zpravodaj)** – Vyjádřil skepsi k další regulaci z Bruselu, varoval před zvýšenými náklady na dohled ČNB a riziky spojenými s outsourcingem a správou nevýkonných úvěrů.",
+      "**Karel Tyl (Ministerstvo financí)** – Představil novelu zákona o pravidlech rozpočtové odpovědnosti (tisk 90). Zdůraznil posun k čistým výdajům a čtyřleté trajektorii plánování.",
+      "**Mojmír Hampl (Národní rozpočtová rada)** – Kritizoval vágnost pojmu „výrazně zhoršená bezpečnostní situace“ a 10% bianco šek pro vládu při navyšování výdajů.",
+      "**Patrik Nacher (předkladatel)** – Představil návrh zákona (tisk 119) řešící situaci účastníků penzijního spoření, kteří přišli o státní příspěvky kvůli změně pravidel."
     ],
-    "outcome": "Jednání bylo zaměřeno na projednávání a hlasování o několika návrzích zákonů a pozměňovacích návrzích týkajících se investičních fondů, veřejných rozpočtů a penzijního spoření. Přerušení jednání bylo navrženo a schváleno. Návrhy zákonů a pozměňovací návrhy byly předloženy, diskutovány a někteří členové vyjádřili své stanovisko a obavy.",
-    "notes": "Přepis obsahuje několik částí, které mohou být nejasné nebo chybějící kvůli automatickému zpracování. Někteří řečníci nebyli identifikováni."
+    "outcome": "Výbor doporučil ke schválení tisk 13 (investiční fondy), tisk 90 (rozpočtová pravidla) a tisk 119 (penzijní spoření). Všechny zásadní opoziční pozměňovací návrhy byly zamítnuty.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky v textu. Části 11 a 12 jsou z velké části nečitelné."
   },
   "entities": {
     "speakers": [
-      {"name": "Milan Brázdil", "person_id": null, "affiliation": "neznámá strana"},
-      {"name": "Jan Papajanovský", "person_id": null, "affiliation": "neznámá strana"},
-      {"name": "Jan Jakob", "person_id": null, "affiliation": "neznámá strana"},
-      {"name": "Vendula Svobodová", "person_id": null, "affiliation": "neznámá strana"},
-      {"name": "Libor Turk", "person_id": null, "affiliation": "neznámá strana"},
       {"name": "Jiří Palán", "person_id": null, "affiliation": "Ministerstvo financí"},
       {"name": "Jan Hrnčíř", "person_id": null, "affiliation": "Rozpočtový výbor"},
-      {"name": "Patrik", "person_id": null, "affiliation": "neznámý řečník"},
-      {"name": "Jiří Turek", "person_id": null, "affiliation": "neznámá strana"},
       {"name": "Karel Tyl", "person_id": null, "affiliation": "Ministerstvo financí"},
       {"name": "Mojmír Hampl", "person_id": null, "affiliation": "Národní rozpočtová rada"},
-      {"name": "Petr Musil", "person_id": null, "affiliation": "Národní rozpočtová rada"},
-      {"name": "Luboš Komárek", "person_id": null, "affiliation": "Národní rozpočtová rada"},
-      {"name": "Jana Murová", "person_id": null, "affiliation": "Rozpočtový výbor"},
-      {"name": "Daniel Ševčík", "person_id": null, "affiliation": "Nejvyšší kontrolní úřad"},
-      {"name": "Patrik Nacher", "person_id": null, "affiliation": "ANO"},
-      {"name": "Miroslav Pikora", "person_id": null, "affiliation": "ODS"},
-      {"name": "Jan Jakob", "person_id": null, "affiliation": "ODS"},
-      {"name": "Vendula Svobodová", "person_id": null, "affiliation": "Piráti"}
+      {"name": "Patrik Nacher", "person_id": null, "affiliation": "Poslanec"},
+      {"name": "Jan Munzar", "person_id": null, "affiliation": "Poslanec"}
     ],
-    "parties": ["ANO", "ODS", "Piráti"],
-    "institutions": ["Ministerstvo financí", "Rozpočtový výbor", "Národní rozpočtová rada", "Nejvyšší kontrolní úřad"]
+    "parties": ["ANO", "ODS"],
+    "institutions": ["Rozpočtový výbor", "Ministerstvo financí", "Národní rozpočtová rada", "NKU"]
   },
   "highlights": [
     {
-      "text": "Návrh zákona, kterým se mění zákon o doplňkovém penzijním spoření a zákon o daních z příjmů.",
+      "text": "Tento návrh se stal nositelem rozmělnění rozpočtové odpovědnosti a cesty k udržitelným veřejným financím.",
       "type": "citation",
-      "speaker": "Patrik Nacher",
-      "affiliation": "ANO",
-      "timestamp": "2/null"
+      "speaker": "Jan Munzar",
+      "affiliation": "ODS",
+      "timestamp": "6/01:30"
     },
     {
-      "text": "Umožnění exitů z penzijního systému bez sankcí pro 150 000 účastníků.",
-      "type": "citation",
+      "text": "Celkové náklady na kompenzace účastníkům penzijního spoření budou činit 60 milionů korun, což je částka, která nestojí za ztrátu důvěry střadatelů.",
+      "type": "paraphrase",
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
-      "timestamp": "2/null"
-    },
-    {
-      "text": "Vyjadřuje obavy ohledně dopadů novely na trh a ochranu investorů.",
-      "type": "citation",
-      "speaker": "Jan Hrnčíř",
-      "affiliation": "Rozpočtový výbor",
-      "timestamp": "1/null"
+      "timestamp": "17/05:15"
     }
   ],
   "controversial": [
     {
-      "statement": "Kdo: Patrik (neznámý řečník), Co přesně: Předložil pozměňovací návrh k novele, Proč je to kontroverzní: Může ovlivnit dopady novely na trh a ochranu investorů, Čas: 1/ nezjištěno",
-      "speaker": "Patrik",
-      "affiliation": "neznámý řečník",
-      "timestamp": "1/null",
-      "screenshot_path": null
-    },
-    {
-      "statement": "Kdo: Neidentifikovaný řečník [5], Co přesně: Vyjadřuje obavy ohledně oslabení role Národní rozpočtové rady, Proč je to kontroverzní: Může mít dopad na rozpočtovou odpovědnost, Čas: 1/ nezjištěno",
-      "speaker": "Neidentifikovaný řečník [5]",
-      "affiliation": "neznámá strana",
-      "timestamp": "1/null",
-      "screenshot_path": null
+      "statement": "Návrh dává vládě pravomoc navyšovat výdaje o 10 % v případě „výrazně zhoršené bezpečnostní situace“, což opozice vnímá jako bianco šek.",
+      "speaker": "Jan Munzar",
+      "affiliation": "ODS",
+      "timestamp": "6/02:08"
     }
   ],
   "quality": {

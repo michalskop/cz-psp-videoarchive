@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:42:23",
+  "created_at": "2026-05-29T14:23:21",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2758",
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference se věnovala výsledkům kulatého stolu, který se zabýval rozšířením kompetencí všeobecných sester a dalších nelékařských pracovníků v oboru kardiologie. Cílem iniciativy, za níž stojí poslankyně Ivana Mádlová a předseda zdravotního výboru Jiří Mašek, je zefektivnění péče o pacienty, zkrácení cesty pacienta mezi specialisty a naplnění Národního kardiovaskulárního plánu.\n\nHlavním motivem je reakce na rostoucí počet pacientů se srdečním selháním (cca 400 000 osob) a potřeba vytvořit národní rámec, který by umožnil sestrám převzít větší odpovědnost v oblastech, jako je edukace, koordinace péče a sledování chronických stavů, aniž by došlo k přetížení stávajícího personálu.",
+    "topic": "Tisková konference se věnovala výsledkům kulatého stolu, který se zabýval rozšířením kompetencí všeobecných sester v oboru kardiologie. Cílem iniciativy, za níž stojí poslankyně Ivana Mádlová a předseda zdravotního výboru Jiří Mašek, je zefektivnění zdravotní péče, zkrácení cesty pacienta mezi specialisty a lepší zvládání epidemie srdečního selhání.\n\nDiskuse se zaměřila na vytvoření národního rámce pro kompetence sester, který by zahrnoval nejen technické výkony, ale i rozhodovací procesy a řízení multidisciplinárních týmů. Iniciativa je v souladu s Národním kardiovaskulárním plánem a vládním programem, přičemž důraz je kladen na harmonizaci vzdělávání a adekvátní personální zajištění.",
     "main_points": [
-      "**Ivana Mádlová (poslankyně)** — Zdůraznila nutnost vytvoření národního rámce pro rozšiřování kompetencí sester, který zahrne nejen technické výkony, ale i rozhodovací procesy a řízení multidisciplinárních týmů. Potvrdila, že téma je v souladu s vládním programem.",
-      "**Prof. Linhart (Česká kardiologická společnost)** — Upozornil na epidemický nárůst srdečního selhání. Navrhuje zapojení specializovaných sester, biomedicínských inženýrů a koordinátorů péče. Zdůraznil potřebu harmonizovaného vzdělávacího systému.",
-      "**Markéta Křečková (staniční sestra, VFN Praha)** — Varovala, že rozšíření kompetencí nesmí znamenat pouze „přidání úkolů“ bez vytvoření personálního prostoru. Definovala konkrétní oblasti pro sestry: strukturovaná edukace, monitoring chronických pacientů a koordinace péče.",
-      "**Kristina Čelíková (Česká aliance pro kardiovaskulární onemocnění)** — Tlumočila pohled pacientů: sestra je vnímána jako garant kvality a bezpečnosti. Požaduje jasné vymezení role koordinátora péče a adekvátní ohodnocení sester."
+      "**Ivana Mádlová (poslankyně)** — Iniciátorka kulatého stolu; zdůraznila potřebu národního rámce pro rozšiřování kompetencí sester. Cílem je posílení role sester v rozhodování a řízení péče. Potvrdila shodu s ministrem zdravotnictví Adamem Vojtěchem.",
+      "**Prof. Linhart (Česká kardiologická společnost)** — Upozornil na epidemii srdečního selhání (cca 400 000 pacientů). Navrhuje zapojení specializovaných sester, biomedicínských inženýrů a koordinátorů péče. Zdůraznil nutnost legislativního a vzdělávacího rámce.",
+      "**Markéta Křečková (staniční sestra, VFN Praha)** — Varovala, že rozšíření kompetencí nesmí znamenat pouze „přidání úkolů“ bez navýšení personálních kapacit. Definovala konkrétní oblasti pro sestry: edukace, sledování chronických stavů a koordinace péče.",
+      "**Kristina Čelíková (Česká aliance pro kardiovaskulární onemocnění)** — Reprezentovala pohled pacientů; požaduje jasné vymezení role koordinátora péče a adekvátní společenské i finanční ohodnocení sester."
     ],
-    "outcome": "Jednání kulatého stolu bylo zahajovacím krokem k aktivnímu řešení problematiky. Nebylo přijato žádné finální legislativní rozhodnutí, ale došlo ke shodě na nutnosti vytvořit národní rámec kompetencí a definovat roli „koordinátora péče“. Účastníci se dohodli na pokračování diskuzí.",
+    "outcome": "Jednání kulatého stolu bylo zahajovacím krokem k aktivnímu řešení problematiky. Účastníci se shodli na nutnosti vytvořit národní rámec kompetencí a harmonizovat vzdělávací systém. Nebylo přijato žádné finální legislativní rozhodnutí, ale byla potvrzena shoda na prioritách mezi politickou reprezentací, odbornou lékařskou společností, sestrami a zástupci pacientů.",
     "notes": null
   },
   "entities": {
@@ -52,10 +52,9 @@
         "affiliation": "Česká aliance pro kardiovaskulární onemocnění"
       }
     ],
-    "parties": [
-      "Poslanecká sněmovna"
-    ],
+    "parties": [],
     "institutions": [
+      "Poslanecká sněmovna",
       "Česká kardiologická společnost",
       "Všeobecná fakultní nemocnice v Praze",
       "Česká aliance pro kardiovaskulární onemocnění"
@@ -64,12 +63,12 @@
   "highlights": [
     {
       "text": "V současné době máme pravděpodobně kolem 400 000 pacientů, kteří se léčí nebo léčili se srdečním selháním a epidemie tohoto onemocnění nám hrozí dalším nárůstem.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Prof. Linhart",
       "affiliation": "Česká kardiologická společnost",
       "timestamp": "1/02:46",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_highlight_00.jpg",
-      "context": "Odhad 400 000 pacientů odpovídá datům České kardiologické společnosti a ÚZIS. Srdeční selhání je v ČR skutečně považováno za narůstající zdravotní problém v důsledku stárnutí populace a zlepšené diagnostiky."
+      "screenshot_path": "summaries/screenshots/event_2758_highlight_00.jpg",
+      "context": "Odhad 400 000 pacientů odpovídá datům České kardiologické společnosti a ÚZIS, které dlouhodobě upozorňují na vysokou prevalenci srdečního selhání v ČR. Vzhledem ke stárnutí populace a výskytu rizikových faktorů (hypertenze, diabetes) je predikce dalšího nárůstu odborníky považována za vědecky podloženou."
     },
     {
       "text": "Rozšíření kompetencí sester nesmí znamenat jen přidání dalších úkolů stávajícímu personálu.",
@@ -77,27 +76,27 @@
       "speaker": "Markéta Křečková",
       "affiliation": "Všeobecná fakultní nemocnice v Praze",
       "timestamp": "1/04:51",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_highlight_01.jpg",
-      "context": "Jde o profesní postoj k legislativním změnám v kompetencích nelékařských pracovníků. Obava z přetížení personálu při nedostatku kapacit je dlouhodobě reflektována odborovými organizacemi i profesními komorami (např. ČAS)."
+      "screenshot_path": "summaries/screenshots/event_2758_highlight_01.jpg",
+      "context": "Jde o odborný názor reflektující dlouhodobý problém personální kapacity českého zdravotnictví. Legislativní úpravy kompetencí sester (např. vyhláška č. 55/2011 Sb.) jsou často kritizovány zástupci profesních organizací právě pro nedostatečné provázání s reálnou pracovní zátěží a nedostatkem personálu."
     },
     {
-      "text": "Pro pacienty je sestra profesionál, který má na starosti kvalitu a bezpečnost péče, proto je v zájmu pacientů, aby sestry byly vzdělanými profesionály a byly za tuto práci adekvátně ohodnoceny.",
-      "type": "paraphrase",
+      "text": "Pro pacienty je sestra profesionál, který má na starosti kvalitu a bezpečnost péče, proto je v zájmu pacientů, aby sestry byly vzdělanými profesionály.",
+      "type": "citation",
       "speaker": "Kristina Čelíková",
       "affiliation": "Česká aliance pro kardiovaskulární onemocnění",
       "timestamp": "1/06:33",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_highlight_02.jpg",
-      "context": "Tvrzení reflektuje debatu o vzdělávacím systému sester (např. zákon č. 96/2004 Sb.) a jejich finančním ohodnocení. Požadavek na odpovídající odměnu za vyšší odbornost je dlouhodobým tématem vyjednávání mezi zdravotnickými organizacemi a MZ ČR."
+      "screenshot_path": "summaries/screenshots/event_2758_highlight_02.jpg",
+      "context": "Tvrzení vychází ze standardů ošetřovatelské péče a zákona č. 96/2004 Sb., který definuje požadavky na odbornou způsobilost nelékařských zdravotnických pracovníků. Role sestry jako garanta kvality a bezpečnosti je v souladu s moderními trendy v medicíně (tzv. nursing-sensitive outcomes)."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Markéta Křečková (staniční sestra, VFN Praha).\n**Co:** Varování, že rozšíření kompetencí nesmí znamenat pouze přidání dalších úkolů stávajícímu personálu bez personálního zajištění základní péče.\n**Proč:** Toto je politicky citlivé, protože v českém zdravotnictví dlouhodobě chybí personál a jakékoli „rozšiřování kompetencí“ je vnímáno jako riziko dalšího vyhoření sester, pokud nebude doprovázeno systémovými změnami v počtech pracovníků.\n**Čas:** 1/04:03",
+      "statement": "**Kdo:** Markéta Křečková (staniční sestra, VFN Praha)\n**Co:** Uvedla, že rozšíření kompetencí nesmí znamenat pouze přidání dalších úkolů stávajícímu personálu bez vytvoření prostoru pro jejich výkon a bez dostatečného personálního zajištění základní ošetřovatelské péče.\n**Proč:** Je to politicky citlivé, protože v českém zdravotnictví dlouhodobě chybí personál a sestry jsou již nyní přetížené; jakákoliv reforma, která by zvýšila administrativní či odbornou zátěž bez adekvátních zdrojů, by mohla vést k odchodu sester z oboru.\n**Čas:** 1/04:03",
       "speaker": "Markéta Křečková",
       "affiliation": "Všeobecná fakultní nemocnice v Praze",
       "timestamp": "1/04:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2758_controversy_00.jpg",
-      "context": "Potvrzeno jako relevantní politický a provozní argument. Nedostatek personálu ve zdravotnictví je doložen daty ÚZIS a zprávami o stavu zdravotnictví; obava z vyhoření při navyšování agendy bez navýšení počtu úvazků je častým bodem diskusí o reformě kompetencí."
+      "screenshot_path": "summaries/screenshots/event_2758_controversy_00.jpg",
+      "context": "Tvrzení o přetížení personálu je podloženo daty ÚZIS o fluktuaci a věkové struktuře sester v ČR. Politický kontext spočívá v debatě o reformě primární péče a kompetenčním posunu, kde odborové organizace (např. ČAS) opakovaně varují před 'skrytým' navyšováním úvazků bez odpovídajícího finančního a personálního krytí."
     }
   ],
   "quality": {

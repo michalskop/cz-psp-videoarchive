@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:00:33",
+  "created_at": "2026-05-29T14:41:50",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2810",
     "name": "Kulatý stůl „Penzijní fondy a reforma jejich fungování v ČR“",
     "classification": "Kulatý stůl",
-    "start_date": "2026-04-13",
-    "end_date": "2026-04-13",
+    "start_date": "2026-04-13T10:30",
+    "end_date": "2026-04-13T12:44",
     "sources": [
       "final/event_2810_2026-04-13_penzijni-fondy-a-reforma-jejich-fungovani-v-cr.md"
     ]
@@ -19,31 +19,31 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Kulatý stůl „Penzijní fondy a reforma jejich fungování v ČR“ se konal 13. dubna 2026 v Poslanecké sněmovně. Cílem bylo zahájit nadstranickou odbornou debatu o parametrických změnách třetího pilíře penzijního spoření. Účastníci se shodli, že stávající systém je po 13 letech fungování potřeba modernizovat, aby lépe čelil demografickým výzvám a zajistil občanům vyšší náhradový poměr v důchodu.\n\nHlavním tématem byla transformace systému směrem k nízkonákladovým strategiím životního cyklu, snížení poplatkové zátěže a zvýšení penetrace systému mezi mladou populací.",
+    "topic": "Kulatý stůl, konaný 13. dubna 2026 v Poslanecké sněmovně, se zaměřil na reformu třetího pilíře penzijního systému v ČR. Cílem bylo najít nadstranickou shodu na parametrických změnách, které by zvýšily atraktivitu a efektivitu penzijního spoření pro občany. Diskuse reagovala na demografické výzvy a potřebu zajistit občanům důstojný příjem ve stáří prostřednictvím kapitálového pilíře, který by doplňoval průběžný systém.\n\nHlavním iniciátorem odborného podkladu byl institut IDEA při CERGE-EI, jehož experti představili návrh reformy založený na zvýšení výnosů a prodloužení doby spoření, nikoliv na zvyšování úložek.",
     "main_points": [
-      "**Filip Pertold & Lukáš Nádvorník (IDEA při CERGE-EI)** — Prezentovali studii, podle které lze náhradový poměr zvýšit z 8 % na 29 % bez nutnosti zvyšovat úložky. Klíčem je dlouhodobý horizont, vysoký výnos a nízké poplatky.",
-      "**Vladimír Bezděk (ekonom)** — Navrhl odstranění každoroční garance nezáporného výnosu u transformovaných fondů, což by umožnilo odvážnější investiční strategii.",
-      "**Jiří Rusnok (bývalý guvernér ČNB)** — Zdůraznil, že penzijní systém musí doplňovat první pilíř, nikoliv jej nahrazovat, a varoval před přehnaným optimismem ohledně výnosů.",
-      "**Miroslav Zámečník (ČBA)** — Kritizoval absenci systémového řešení (auto-enrollment) a varoval, že bez masivního zapojení mladých jde pouze o dílčí úpravy.",
-      "**Radek Moc (Asociace penzijních společností)** — Potvrdil připravenost sektoru na strategii životního cyklu a zdůraznil potřebu komplexního přístupu.",
-      "**Michal Hlaváček (Národní rozpočtová rada)** — Upozornil, že penzijní spoření nevyřeší blížící se deficit prvního pilíře v horizontu 10 let.",
-      "**Tomáš Salomon (Česká spořitelna)** — Apeloval na jednotnou komunikaci napříč politickým spektrem.",
-      "**Libor Vošický (Česká spořitelna – penzijní společnost)** — Zdůraznil, že reforma musí být implementována jako celek, nikoliv jako výběr jednotlivých částí."
+      "**Filip Pertold a Lukáš Nádvorník (IDEA - CERGE-EI)** — Představili model pro zvýšení náhradového poměru z 8 % na 29 %. Navrhují nízkonákladovou „strategii životního cyklu“ a snížení poplatků z cca 2 % na 0,5–0,7 %.",
+      "**Vladimír Bezděk (ekonom)** — Navrhuje zrušení každoroční garance nezáporného výnosu u transformovaných fondů pro umožnění odvážnějšího investování.",
+      "**Miroslav Zámečník (ekonom)** — Kritizuje absenci automatického zápisu (auto-enrollment) a navrhuje využít penzijní kapitál jako zajištění pro hypotéky.",
+      "**Jiří Rusnok (ekonom)** — Zdůrazňuje, že třetí pilíř má být pouze doplňkem a varuje před přehnaným optimismem ohledně výnosů kapitálových trhů.",
+      "**Radek Moc (Asociace penzijních společností ČR)** — Potvrdil připravenost sektoru na strategii životního cyklu a zdůraznil potřebu komplexního řešení.",
+      "**Michal Hlaváček (Národní rozpočtová rada)** — Upozornil, že reforma třetího pilíře nevyřeší fiskální problémy prvního pilíře v příští dekádě.",
+      "**Tomáš Salomon (Česká spořitelna)** — Apeloval na jednotnou politickou komunikaci k občanům.",
+      "**Politici (H. Ančincová, B. Činčila, P. Nacher, J. Papajanovský)** — Shodli se na nutnosti nadstranického přístupu a komplexnosti reformy."
     ],
-    "outcome": "Mezi účastníky panoval konsenzus v následujících bodech:\n* Nutnost zatraktivnit třetí pilíř pro mladé střadatele.\n* Zavedení strategie životního cyklu jako výchozího nastavení.\n* Potřeba snížit poplatkovou zátěž.\n* Shoda na tom, že reforma musí být komplexní a dlouhodobá.",
-    "notes": "Přepis obsahuje chyby v diakritice a občasné výpadky textu. Části diskuse byly vedeny v rychlém tempu, což vedlo k občasné nesrozumitelnosti některých technických detailů."
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale potvrdilo široký konsenzus na potřebě reformy třetího pilíře. Účastníci se shodli na klíčových principech: zavedení strategie životního cyklu, nutnost snížení poplatků, zatraktivnění systému pro mladé a potřeba širší politické shody. Diskuse nyní přechází do fáze očekávání konkrétního návrhu z Ministerstva financí.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (chybějící diakritika, useknutá slova). Obsah byl rekonstruován na základě logické návaznosti diskuse."
   },
   "entities": {
     "speakers": [
       {
         "name": "Filip Pertold",
         "person_id": null,
-        "affiliation": "IDEA při CERGE-EI"
+        "affiliation": "IDEA - CERGE-EI"
       },
       {
         "name": "Lukáš Nádvorník",
         "person_id": null,
-        "affiliation": "IDEA při CERGE-EI"
+        "affiliation": "IDEA - CERGE-EI"
       },
       {
         "name": "Vladimír Bezděk",
@@ -51,19 +51,19 @@
         "affiliation": "ekonom"
       },
       {
-        "name": "Jiří Rusnok",
-        "person_id": "psp:person:4737",
-        "affiliation": "bývalý guvernér ČNB"
-      },
-      {
         "name": "Miroslav Zámečník",
         "person_id": "psp:person:5766",
-        "affiliation": "ČBA"
+        "affiliation": "ekonom, ČBA"
+      },
+      {
+        "name": "Jiří Rusnok",
+        "person_id": "psp:person:4737",
+        "affiliation": "ekonom, bývalý guvernér ČNB"
       },
       {
         "name": "Radek Moc",
         "person_id": null,
-        "affiliation": "Asociace penzijních společností"
+        "affiliation": "Asociace penzijních společností ČR"
       },
       {
         "name": "Michal Hlaváček",
@@ -76,73 +76,86 @@
         "affiliation": "Česká spořitelna"
       },
       {
-        "name": "Libor Vošický",
-        "person_id": null,
-        "affiliation": "Česká spořitelna – penzijní společnost"
+        "name": "Hana Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Benjamin Činčila",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO 2011"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "poslanec"
       }
     ],
     "parties": [
       "ANO 2011",
-      "ODS",
-      "STAN",
       "Piráti",
       "KDU-ČSL",
-      "SPD",
-      "TOP 09"
+      "ODS",
+      "STAN"
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "IDEA při CERGE-EI",
-      "ČNB",
-      "ČBA",
-      "Národní rozpočtová rada"
+      "IDEA - CERGE-EI",
+      "Národní rozpočtová rada",
+      "Asociace penzijních společností ČR",
+      "Česká spořitelna"
     ]
   },
   "highlights": [
     {
-      "text": "Výnos je nejistý, ale poplatky jsou jisté, pojďme se zaměřit na ty poplatky.",
+      "text": "Výnos a poplatky jsou spojené nádoby; čím větší je poplatek, tím menší bude dlouhodobě dosažený výnos.",
       "type": "citation",
-      "speaker": "Jan Tomáš",
-      "affiliation": "analytik",
-      "timestamp": "12/08:53",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2810_highlight_00.jpg",
-      "context": "Jde o obecný ekonomický princip, který v kontextu penzijního připojištění poukazuje na to, že poplatky za správu jsou účtovány bez ohledu na výkonnost fondu. Ověřitelnost závisí na konkrétním nastavení poplatkové struktury dle zákona č. 427/2011 Sb."
+      "speaker": "Lukáš Nádvorník",
+      "affiliation": "IDEA - CERGE-EI",
+      "timestamp": "3/06:03",
+      "screenshot_path": "summaries/screenshots/event_2810_highlight_00.jpg",
+      "context": "Tvrzení odpovídá základní ekonomické logice investování. Vyšší poplatky (management fees) přímo snižují čistý výnos investora, což je doložitelné matematickým složeným úročením a daty o výkonnosti fondů (např. analýzy OECD či ČNB)."
     },
     {
-      "text": "Pokud neuděláme nějaké zásadnější řešení, tak řešíte problém, jak zrubat poplatky, ale není to národohospodářské řešení.",
+      "text": "Pokud neuděláme nějaké zásadnější řešení, tak řešíme jen problém, jak snížit poplatky, ale neřešíme systémový úkol.",
       "type": "paraphrase",
       "speaker": "Miroslav Zámečník",
-      "affiliation": "ČBA",
+      "affiliation": "ekonom",
       "timestamp": "7/08:09",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2810_highlight_01.jpg",
-      "context": "Jde o hodnotící úsudek o hospodářské politice. Národohospodářský dopad regulace poplatků je předmětem odborné debaty, nikoliv exaktně měřitelný fakt."
+      "screenshot_path": "summaries/screenshots/event_2810_highlight_01.jpg",
+      "context": "Jde o hodnotící úsudek o systémovém nastavení penzijního připojištění v ČR. Efektivita systému je dlouhodobě kritizována odborníky (např. IDEA CERGE-EI) kvůli nízkým výnosům a vysokým nákladům, což potvrzuje potřebu systémové reformy nad rámec pouhé regulace poplatků."
     },
     {
-      "text": "Reforma, kterou jsme iniciovali, nemíří k tomu, abychom jakkoliv ničili penzijní společnosti, chceme, aby v dlouhodobém horizontu prosperovaly.",
+      "text": "V roce 2024 stál státní příspěvek na penzijní spoření 18,5 miliardy korun, je otázkou, zda stát za tyto peníze dostává to, co chce.",
       "type": "citation",
-      "speaker": "Filip Pertold",
-      "affiliation": "IDEA při CERGE-EI",
-      "timestamp": "12/05:50",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2810_highlight_02.jpg",
-      "context": "Záměr reformy je deklarovaným cílem předkladatelů. Zda reforma skutečně povede k prosperitě penzijních společností, je predikce, kterou nelze nezávisle ověřit."
+      "speaker": "Michal Hlaváček",
+      "affiliation": "Národní rozpočtová rada",
+      "timestamp": "9/07:10",
+      "screenshot_path": "summaries/screenshots/event_2810_highlight_02.jpg",
+      "context": "Údaj o výdajích státního rozpočtu na státní příspěvky k penzijnímu spoření odpovídá rozpočtovému výhledu a datům MF ČR. Otázka efektivity těchto výdajů vzhledem k nízkému zhodnocení prostředků účastníků je předmětem odborné diskuse v rámci Národní rozpočtové rady."
     }
   ],
   "controversial": [
     {
-      "statement": "Návrh na zrušení povinnosti garantovat nezáporný výnos každý rok u transformovaných fondů. Je to citlivé, protože klienti do těchto fondů vstupovali právě kvůli jistotě, že o vklady nepřijdou.",
-      "speaker": "Vladimír Bezděk",
-      "affiliation": "ekonom",
-      "timestamp": "7/00:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2810_controversy_00.jpg",
-      "context": "Transformované fondy (tzv. starý penzijní systém) skutečně ze zákona č. 427/2011 Sb. garantují nezáporný výnos. Zrušení této garance je předmětem legislativních diskusí, přičemž obava z narušení důvěry klientů je legitimním argumentem v rámci veřejné debaty."
+      "statement": "**Kdo:** Karel Svoboda (zástupce sektoru)\n**Co:** Argumentoval, že srovnávat české fondy se švédskými je zavádějící kvůli odlišnému regulačnímu rámci a nákladům na akvizici klientů.\n**Proč:** Politicky citlivé, protože zpochybňuje hlavní argument expertů z IDEA o neefektivitě českých poplatků.\n**Čas:** 11/00:00",
+      "speaker": "Karel Svoboda",
+      "affiliation": "sektor penzijních fondů",
+      "timestamp": "11/00:00",
+      "screenshot_path": "summaries/screenshots/event_2810_controversy_00.jpg",
+      "context": "Srovnání se švédským modelem (AP fondy) je skutečně metodicky náročné. Švédský systém funguje na jiných principech (státní správa, nízké akviziční náklady, jiná regulace), proto přímé srovnání poplatků bez zohlednění těchto rozdílů může být zavádějící."
     },
     {
-      "statement": "Poukaz na to, že penzijní společnosti dosahují vysoké rentability vlastního kapitálu (až 40 %), zatímco reálné výnosy klientů v transformovaných fondech jsou minimální.",
-      "speaker": "Jan Tomáš",
-      "affiliation": "analytik",
-      "timestamp": "12/07:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2810_controversy_01.jpg",
-      "context": "Rentabilita vlastního kapitálu (ROE) penzijních společností je veřejně dostupná ve výročních zprávách jednotlivých společností a ČNB. Reálné výnosy klientů v transformovaných fondech jsou dlouhodobě nízké a často nedosahují ani míry inflace, což potvrzují data ČNB a výroční zprávy asociace penzijních společností."
+      "statement": "**Kdo:** Libor Dušek (UK) a Lukáš Nádvorník (IDEA)\n**Co:** Debata o tom, proč se v ČR nedaří zavést „defaultní“ nastavení (opt-out). Dušek tvrdí, že jde o nedostatek politické odvahy a imaginace.\n**Proč:** Odkazuje na neschopnost politiků přijmout odpovědnost za automatické rozhodování za občany.\n**Čas:** 14/00:00",
+      "speaker": "Libor Dušek",
+      "affiliation": "Univerzita Karlova",
+      "timestamp": "14/00:00",
+      "screenshot_path": "summaries/screenshots/event_2810_controversy_01.jpg",
+      "context": "Zavedení automatického vstupu (opt-out) je politicky citlivé téma. V ČR zatím chybí politická shoda na tomto kroku, přestože behaviorální ekonomie (např. Thaler a Sunstein) potvrzuje, že „defaultní“ nastavení výrazně zvyšuje míru participace občanů na spoření."
     }
   ],
   "quality": {

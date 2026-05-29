@@ -1,0 +1,137 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:01:12",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2878",
+    "name": "Společná tisková konference Pirátů, Starostů, ODS, TOP 09 a KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-06T08:41",
+    "end_date": "2026-05-06T09:00",
+    "sources": [
+      "final/event_2878_2026-05-06_spolecna-tiskova-konference-piratu-starostu-ods-to.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference opozičních stran (Piráti, Starostové, ODS, TOP 09 a KDU-ČSL) byla svolána v reakci na projednávání novely zákona o pravidlech rozpočtové odpovědnosti v Poslanecké sněmovně. Opoziční zástupci se shodli na kritice vládního návrhu, který podle nich zavádí široký systém výjimek, umožňuje obcházet dluhovou brzdu a netransparentně skrývá skutečné zadlužení státu.\n\nCílem opozice je zabránit přijetí novely v předložené podobě, kterou označují za „koncert rozpočtové neodpovědnosti“. Opoziční strany požadují zachování kontrolní role Poslanecké sněmovny, posílení transparentnosti veřejných financí a odmítají oslabování autonomie parlamentních kapitol a kontrolních institucí (NKÚ, Národní rozpočtová rada).",
+    "main_points": [
+      "**Vendula Svobodová (Piráti)** — Kritizuje zavedení výjimek pro investice do infrastruktury, úroky ze státního dluhu a výdaje na obranu, což podle ní umožní nekontrolované zadlužování. Předkládá pozměňovací návrh, aby mimořádné navýšení výdajů o 10 % bylo možné využít výhradně na obranu dle metodiky NATO.",
+      "**Jiří Havránek (ODS)** — Upozornil na oponentní zprávu rozpočtového výboru (dokument č. 90/4), která varuje před kolapsem veřejných financí a narušením institucionální rovnováhy. Navrhuje opakování druhého čtení zákona podle § 95 odst. 2 Jednacího řádu.",
+      "**Lucie Sedmihradská (Starostové)** — Varuje před oslabením kontrolní role Sněmovny (zrušení projednávání zpráv za 1. a 3. čtvrtletí). Zdůrazňuje, že parlamentní kapitoly a kontrolní orgány nesmí být finančně závislé na libovůli vlády, kterou mají kontrolovat.",
+      "**Jan Jakob (TOP 09)** — Kritizuje koaliční pozměňovací návrhy, které dále rozvolňují rozpočtová pravidla. Navrhuje vytvoření rezervy ve výdajovém rámci, kvantitativní omezení odchylek a posílení pravomocí Národní rozpočtové rady.",
+      "**Benjamin Činčila (KDU-ČSL)** — Shrnuje postoj opozice jako jednotný odpor proti vládní rozpočtové neodpovědnosti. Deklaruje, že pokud by opozice vládla, zavedla by a dodržovala striktní rozpočtové mantinely."
+    ],
+    "outcome": "Opoziční strany se shodly na společném postupu proti vládnímu návrhu novely. Hlavním cílem je zamezit schválení zákona v současné podobě, přičemž opozice hodlá využít všech parlamentních nástrojů (včetně podávání pozměňovacích návrhů a oponentní zprávy) k prosazení větší rozpočtové odpovědnosti a zachování kontrolních mechanismů Sněmovny. Opozice vyjádřila obavu z možného „pevného hlasování“ koalice, které by zamezilo věcné diskuzi.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Benjamin Činčila",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "Starostové",
+      "ODS",
+      "TOP 09",
+      "KDU-ČSL",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NKÚ",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zadlužování bez pravidel a bez odpovědnosti není cesta k prosperitě, ale k mnohem větším problémům, které budou muset zaplatit naše děti.",
+      "type": "paraphrase",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/02:00",
+      "screenshot_path": "summaries/screenshots/event_2878_highlight_00.jpg",
+      "context": "Jde o politické hodnocení fiskální politiky, nikoliv o ověřitelný fakt. Udržitelnost veřejných financí je dlouhodobě sledována Národní rozpočtovou radou (NRR), která pravidelně varuje před strukturálním deficitem."
+    },
+    {
+      "text": "Pozměňující návrhy poslankyně Aleny Schillerové zásadně narušují udržitelnost veřejných financí a hrozí kolapsem veřejných rozpočtů.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/04:00",
+      "screenshot_path": "summaries/screenshots/event_2878_highlight_01.jpg",
+      "context": "Tvrzení o „kolapsu“ je politickou interpretací dopadů rozpočtových změn. Dopady konkrétních pozměňovacích návrhů na státní rozpočet lze vyčíslit pomocí analýz Parlamentního institutu nebo Ministerstva financí ČR, ale jejich reálný vliv na stabilitu rozpočtu je předmětem odborného sporu."
+    },
+    {
+      "text": "Transparentnost není tisková zpráva, transparentnost je otevřená debata ve Sněmovně před poslanci a veřejností.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "Starostové",
+      "timestamp": "1/06:48",
+      "screenshot_path": "summaries/screenshots/event_2878_highlight_02.jpg",
+      "context": "Jedná se o subjektivní definici politického pojmu „transparentnost“. Otevřenost debaty ve Sněmovně je upravena zákonem č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny."
+    },
+    {
+      "text": "Vláda si otevírá cestu k tomu, aby mohl schodek státního rozpočtu na příští rok přesáhnout 400 miliard korun.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/10:06",
+      "screenshot_path": "summaries/screenshots/event_2878_highlight_03.jpg",
+      "context": "Nelze nezávisle ověřit. Výše schodku státního rozpočtu závisí na schváleném zákonu o státním rozpočtu pro daný rok a následných rozpočtových opatřeních; tvrzení o konkrétní částce 400 miliard je v tuto chvíli spekulativním odhadem budoucího vývoje."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "- **Kontroverzní návrh na pevné hlasování**\n    - **Kdo:** Koalice (zmíněno Janem Jakobem, TOP 09)\n    - **Co:** Záměr koalice prosadit „pevné hlasování“ o novele zákona.\n    - **Proč:** Opozice to vnímá jako snahu umlčet diskuzi a obejít standardní parlamentní procesy u klíčového zákona.\n    - **Čas:** 1/13:45",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/13:45",
+      "screenshot_path": "summaries/screenshots/event_2878_controversy_00.jpg",
+      "context": "„Pevné hlasování“ (stanovení pevného času hlasování) je standardní nástroj dle § 54 jednacího řádu Poslanecké sněmovny. Jeho využití je legitimním procedurálním krokem, opozice jej však často kritizuje jako omezování prostoru pro rozpravu."
+    },
+    {
+      "statement": "- **Kontroverzní chování v parlamentní debatě**\n    - **Kdo:** Radim Fiala (SPD) a Taťána Malá (ANO)\n    - **Co:** Jan Jakob (TOP 09) kritizoval jejich vystupování v nočních hodinách, kdy Radim Fiala měl použít urážlivé výrazy.\n    - **Proč:** Jde o porušení pravidel slušného jednání v Poslanecké sněmovně.\n    - **Čas:** 1/18:04",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/18:04",
+      "screenshot_path": "summaries/screenshots/event_2878_controversy_01.jpg",
+      "context": "Průběh jednání a případné porušení pravidel slušného chování jsou zaznamenány ve stenografických protokolech a videozáznamech z jednání Sněmovny. Zda došlo k porušení pravidel, posuzuje v případě podnětu Mandátový a imunitní výbor."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

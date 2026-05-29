@@ -1,6 +1,6 @@
 {
-  "schema_version": "1",
-  "created_at": "2026-05-23T02:06:21",
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:02:57",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2926",
@@ -19,36 +19,36 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána zástupci ODS za účelem vyjádření ostrého nesouhlasu s „demontáží“ expertních odborů na Úřadu vlády. Podle ODS dochází k nekoncepčním přesunům agend lidských práv a protidrogové politiky pod jednotlivá ministerstva, což podle řečníků znamená rezignaci státu na nadresortní koordinaci těchto klíčových oblastí.\n\nCílem vystoupení bylo nejen kritizovat vládní postup, který označili za „destrukci státu“ a „vládní cirkus“, ale také představit konkrétní legislativní kroky, kterými chce ODS tyto agendy vrátit pod Úřad vlády a zákonně je ukotvit jako nadresortní priority.",
+    "topic": "Tisková konference ODS byla svolána jako reakce na vládní rozhodnutí o reorganizaci Úřadu vlády, konkrétně na přesun agendy lidských práv a protidrogové politiky pod jednotlivá ministerstva. Představitelé ODS tento krok označili za „destrukce státu“ a „vládní cirkus“ v režii premiéra Andreje Babiše.\n\nCílem konference bylo prezentovat nesouhlas opozice s tímto krokem, který podle nich oslabuje nadresortní koordinaci klíčových agend, a představit konkrétní legislativní kroky, kterými se ODS pokusí tyto agendy vrátit zpět pod Úřad vlády a zákonně je ukotvit.",
     "main_points": [
-      "**Martin Kupka (ODS)** — Kritizoval přesuny agend jako chaotické a neřízené kroky, které nejsou reformou, ale destrukcí. Upozornil, že ochrana lidských práv a protidrogová strategie vyžadují nadresortní přístup. Oznámil přípravu legislativních návrhů a potvrdil, že ODS bude blokovat volbu členů Rady ČT kvůli podezření z korupce u kandidátů Matochy a Bradáče.",
-      "**Eva Decroix (ODS)** — Zaměřila se na agendu lidských práv, kterou vláda podle ní „schovala“ na ministerstva. Zdůraznila, že lidská práva jsou každodenní realitou a vyzvala občany i neziskové organizace k odporu proti těmto krokům.",
-      "**Štěpán Slovák (ODS)** — Označil přesun protidrogové agendy za „flusnutí do obličeje“ odborníkům a varoval před ztrátou schopnosti koordinovat celníky či boj proti závislostem. Obvinil vládu ze snahy „prožrat“ prostředky určené na protidrogovou politiku.",
-      "**Renáta Zajíčková (ODS)** — Představila novelu zákona č. 65/2017 Sb., která má za cíl vrátit závislostní politiku pod Úřad vlády. Navrhuje rozšíření strategie o prevenci a snižování škod a povinné zřízení vládního poradního orgánu."
+      "**Martin Kupka (ODS)** — Kritizoval chaotické řízení státu a odsouvání důležitých témat na vedlejší kolej. Uvedl, že ODS připravuje legislativní změny k navrácení agend pod Úřad vlády.",
+      "**Eva Decroix (ODS)** — Argumentovala, že přesun agendy lidských práv znemožní plnění mezinárodních závazků a poškodí ochranu zranitelných skupin. Apelovala na neziskové organizace a občany, aby se v případě potřeby na ODS obraceli.",
+      "**Štěpán Slovák (ODS)** — Označil přesun protidrogové politiky za „flusnutí do ksichtu“ odborníkům. Upozornil na riziko, že ministerstvo zdravotnictví „spolkne“ finanční prostředky určené na protidrogovou politiku.",
+      "**Renáta Zajíčková (ODS)** — Představila novelu zákona č. 65/2017 Sb., která má za cíl povinně ukotvit závislostní politiku pod Úřadem vlády a rozšířit ji o prevenci a snižování škod."
     ],
-    "outcome": "Jednání vyústilo v jasný politický postoj ODS: strana odmítá vládní reorganizaci a hodlá proti ní bojovat prostřednictvím legislativních návrhů (novela zákona o ochraně zdraví před návykovými látkami) a blokováním volebních bodů v Poslanecké sněmovně. Dominujícím postojem je přesvědčení, že vláda Andreje Babiše selhává v řízení státu a ohrožuje právní stát i odbornou úroveň správy země.",
+    "outcome": "Opoziční ODS se shodla na odmítnutí vládní reorganizace a hodlá proti ní bojovat legislativní cestou (předložením novely zákona). Strana rovněž deklarovala, že bude v Poslanecké sněmovně blokovat volbu členů Rady České televize, dokud nebudou vyjasněna podezření z korupčního jednání u kandidátů vládní koalice.",
     "notes": null
   },
   "entities": {
     "speakers": [
       {
         "name": "Martin Kupka",
-        "person_id": null,
+        "person_id": "psp:person:6538",
         "affiliation": "ODS"
       },
       {
         "name": "Eva Decroix",
-        "person_id": null,
+        "person_id": "psp:person:6727",
         "affiliation": "ODS"
       },
       {
         "name": "Štěpán Slovák",
-        "person_id": null,
+        "person_id": "psp:person:7043",
         "affiliation": "ODS"
       },
       {
         "name": "Renáta Zajíčková",
-        "person_id": null,
+        "person_id": "psp:person:6793",
         "affiliation": "ODS"
       }
     ],
@@ -61,21 +61,43 @@
       "Česká televize"
     ]
   },
+  "highlights": [
+    {
+      "text": "To, co aktuálně zažíváme, není žádná reorganizace státu, to je prostě destrukce státu v režii Andreje Babiše.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:22",
+      "screenshot_path": "summaries/screenshots/event_2926_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, kterou nelze fakticky ověřit jako pravdivou či nepravdivou. Pojem „destrukce státu“ není definovatelný právní ani ekonomický termín."
+    },
+    {
+      "text": "Tenhle přesun se prostě odehrál jedině na Slovensku, nikde jinde v Evropě tohle standardem není.",
+      "type": "citation",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/07:19",
+      "screenshot_path": "summaries/screenshots/event_2926_highlight_01.jpg",
+      "context": "Tvrzení je zavádějící. K přesunům kompetencí mezi ministerstvy či reorganizacím státní správy dochází v různých evropských zemích běžně v závislosti na vládních koalicích a programovém prohlášení, nejde o unikátní slovenský fenomén."
+    },
+    {
+      "text": "Pokud nemají hodnotu pro aktuální zmocněnkyni pro lidská práva, která se ani neozvala proti zrušení svého vlastního rezortu, tak já se ozývat budu, opravdu velmi nahlas.",
+      "type": "citation",
+      "speaker": "Eva Decroix",
+      "affiliation": "ODS",
+      "timestamp": "1/06:29",
+      "screenshot_path": "summaries/screenshots/event_2926_highlight_02.jpg",
+      "context": "Pozice zmocněnkyně pro lidská práva je poradním orgánem vlády, nikoliv samostatným rezortem s vlastní legislativní pravomocí ke zrušení. Zda se zmocněnkyně vyjádřila či nikoliv, je otázkou její mediální prezentace, nikoliv faktického zrušení úřadu."
+    }
+  ],
   "controversial": [
     {
-      "statement": "Martin Kupka (ODS) označil Andreje Babiše za neschopného řídit stát a navrhl, že by potřeboval „zmocněnce pro vládní cirkus“.",
+      "statement": "**Kontroverzní návrh: Blokace volby členů Rady ČT**\n* **Kdo:** Martin Kupka (ODS)\n* **Co:** ODS bude blokovat volbu členů Rady ČT, dokud nebude vyjasněno podezření z korupčního jednání kandidátů Matochy a Bradáče při volbě ředitele ČT.\n* **Proč:** Jde o politicky citlivý střet o nezávislost veřejnoprávního média a integritu vládní koalice.",
       "speaker": "Martin Kupka",
-      "affiliation": "ODS"
-    },
-    {
-      "statement": "Eva Decroix (ODS) přirovnala vládní kroky k „nekonečné lidské hlouposti“ a označila je za „destrukci právního státu“.",
-      "speaker": "Eva Decroix",
-      "affiliation": "ODS"
-    },
-    {
-      "statement": "Štěpán Slovák (ODS) označil vládní krok za „flusnutí do ksichtu“ odborníkům.",
-      "speaker": "Štěpán Slovák",
-      "affiliation": "ODS"
+      "affiliation": "ODS",
+      "timestamp": "1/14:02",
+      "screenshot_path": "summaries/screenshots/event_2926_controversy_00.jpg",
+      "context": "Volba členů Rady ČT probíhá dle zákona č. 483/1991 Sb., o České televizi. Blokace volby je legitimním politickým nástrojem opozice, avšak obvinění z korupčního jednání kandidátů Matochy a Bradáče nebyla v době výroku potvrzena orgány činnými v trestním řízení."
     }
   ],
   "quality": {

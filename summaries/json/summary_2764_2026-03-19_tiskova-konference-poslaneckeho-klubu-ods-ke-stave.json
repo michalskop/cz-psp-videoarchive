@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:38:04",
+  "created_at": "2026-05-29T14:19:53",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2764",
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu ODS se konala po jednání hospodářského výboru Poslanecké sněmovny. Hlavním tématem byla kritika vládního postupu při projednávání novely stavebního zákona, kterou zástupci ODS označili za chaotickou a nedostatečně připravenou.\n\nCílem konference bylo informovat veřejnost o procedurálních problémech v hospodářském výboru, varovat před riziky spojenými s reformou stavebních úřadů a představit konstruktivní přístup ODS, která hodlá skrze pozměňovací návrhy a konzultace s profesními komorami (architekti, projektanti) usilovat o skutečné zrychlení stavebního řízení. V závěru konference se předseda strany vyjádřil k zahraničněpolitickému sporu mezi premiérem a prezidentem ohledně účasti na summitu NATO.",
+    "topic": "Tisková konference se konala po jednání hospodářského výboru Poslanecké sněmovny. Hlavním tématem byla kritika vládního postupu při projednávání novely stavebního zákona, kterou zástupci ODS označili za chaotickou a nedostatečně připravenou.\n\nCílem konference bylo informovat veřejnost o procesních pochybeních vládní koalice, upozornit na rizika spojená s reformou stavebních úřadů a deklarovat konstruktivní přístup ODS, která hodlá prostřednictvím vlastních pozměňovacích návrhů a konzultací s odbornou veřejností (architekti, projektanti) usilovat o zlepšení kvality zákona.",
     "main_points": [
-      "**Martin Kupka (ODS)** — Kritizoval vládní koalici za „totální chaos“ a řešení klíčové normy formou poslaneckého návrhu bez řádného mezirezortního připomínkového řízení. Upozornil na riziko kolapsu stavebního povolování v ČR kvůli nejasným právním formulacím a odporu úředníků přejít pod centrální stavební úřad. Deklaroval připravenost ODS vystupovat jako konstruktivní opozice a předložit vlastní pozměňovací návrhy pro zrychlení územního plánování.",
-      "**Ivan Adamec (ODS)** — Potvrdil, že hospodářský výbor musel souhrnný pozměňovací návrh koalice překlopit na komplexní pozměňovací návrh, aby bylo možné s textem legislativně pracovat. Uvedl, že lhůty pro projednání jsou „šibeniční“. Varoval, že bez kvalitních úředníků, kteří odmítají přejít pod státní superúřad (odhaduje 50–70 % stávajících pracovníků), může dojít paradoxně ke zpomalení stavebního řízení.",
-      "**Jiří Havránek (ODS)** — Zdůraznil, že novela zasahuje do více než 40 dalších předpisů, což zvyšuje riziko chyb a komplikací. Odkázal na negativní stanovisko České komory architektů a projektantů, kteří vyjádřili pochybnosti o přínosu vládního návrhu. Prioritou ODS je zajistit personální stabilitu úřadů a zabránit „exodu“ úředníků."
+      "**Martin Kupka (ODS)** — Kritizoval vládní koalici za „totální chaos“ a řešení klíčové normy formou poslaneckého návrhu bez mezirezortního připomínkového řízení. Upozornil na riziko kolapsu povolování staveb v ČR kvůli nejasným právním formulacím a odporu úředníků přejít pod centrální stavební úřad. Deklaroval, že ODS bude vystupovat jako konstruktivní opozice.",
+      "**Ivan Adamec (ODS)** — Potvrdil, že hospodářský výbor musel souhrnný pozměňovací návrh koalice změnit na komplexní. Uvedl, že lhůty pro projednání jsou „šibeniční“. Varoval, že bez kvalitních úředníků, z nichž 50–70 % podle odhadů nechce přejít pod stát, může dojít ke zpomalení stavebního řízení.",
+      "**Jiří Havránek (ODS)** — Zdůraznil, že novela mění přes 40 dalších předpisů, což zvyšuje riziko chyb. Upozornil na změnu postoje profesních komor, které vyjádřily pochybnosti o přínosech vládního návrhu, a varoval před hrozícím exodem úředníků."
     ],
-    "outcome": "Formálním výsledkem jednání hospodářského výboru bylo rozhodnutí změnit předložený souhrnný pozměňovací návrh na komplexní pozměňovací návrh, což umožní podávání dalších pozměňovacích návrhů. ODS se zavázala k dalšímu jednání s profesními svazy a k předložení vlastních úprav, které mají za cíl zefektivnit stavební proces a opravit chyby vládní předlohy.",
-    "notes": "Přepis obsahuje drobné gramatické chyby a neúplné věty způsobené automatickým přepisem, avšak obsah je srozumitelný a logicky navazuje."
+    "outcome": "Jednání hospodářského výboru bylo posunuto tak, aby bylo možné opravit chyby v návrhu a uplatnit další pozměňovací návrhy. ODS se zavázala k dalším konzultacím s profesními svazy a k předložení vlastních návrhů, které mají za cíl zefektivnit stavební proces.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -50,8 +50,8 @@
       "ODS"
     ],
     "institutions": [
-      "Hospodářský výbor",
       "Poslanecká sněmovna",
+      "Hospodářský výbor",
       "Česká komora architektů"
     ]
   },
@@ -62,8 +62,8 @@
       "speaker": "Ivan Adamec",
       "affiliation": "ODS",
       "timestamp": "1/04:19",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2764_highlight_00.jpg",
-      "context": "Tento odhad vychází z průzkumů Svazu měst a obcí ČR mezi tajemníky obecních úřadů v souvislosti s reformou stavebního řízení. Oficiální data o reálném počtu zaměstnanců, kteří skutečně podají výpověď nebo přejdou pod státní správu, budou známa až po dokončení procesu integrace."
+      "screenshot_path": "summaries/screenshots/event_2764_highlight_00.jpg",
+      "context": "Tento odhad vychází z průzkumů Svazu měst a obcí ČR mezi úředníky v souvislosti s reformou stavebního řízení a vznikem Nejvyššího stavebního úřadu. Přesná čísla se mohou lišit podle regionu a konkrétní obce, jde o kvalifikovaný odhad postojů zaměstnanců k centralizaci agendy."
     },
     {
       "text": "Místo toho, aby reálně přidávala potřebné finanční prostředky, tak jich 21 miliard škrtla.",
@@ -71,27 +71,27 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/09:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2764_highlight_01.jpg",
-      "context": "Tvrzení se vztahuje k debatě o rozpočtových škrtech v kapitole Ministerstva dopravy či státního fondu infrastruktury. Pro ověření je nutné porovnat konkrétní návrh rozpočtu s předchozím střednědobým výhledem výdajů v zákoně o státním rozpočtu pro daný rok."
+      "screenshot_path": "summaries/screenshots/event_2764_highlight_01.jpg",
+      "context": "Tvrzení se pravděpodobně vztahuje k rozpočtovým úpravám v kapitole Ministerstva dopravy nebo obrany. Pro ověření je nutné porovnat schválený rozpočet a následné rozpočtové škrty v rámci státního rozpočtu zveřejněné Ministerstvem financí ČR."
     },
     {
       "text": "Pokud přijdete s takto robustní novelou, která mění více než čtyři desítky dalších předpisů, dalo se očekávat, že přijde celá řada pozměňujících návrhů.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
       "timestamp": "1/04:57",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2764_highlight_02.jpg",
-      "context": "Rozsah novely lze ověřit v systému e-Legislativa (veřejná databáze ASPI nebo Portál veřejné správy). Pokud novela skutečně novelizuje přes 40 zákonů, jde o tzv. „velkou“ novelu, u které je vysoký počet pozměňovacích návrhů z legislativního hlediska běžným jevem."
+      "screenshot_path": "summaries/screenshots/event_2764_highlight_02.jpg",
+      "context": "Rozsah novely je ověřitelný v systému e-Legislativa (veřejná databáze zákonů). Pokud novela skutečně mění přes 40 zákonů, jedná se o tzv. „velkou novelu“, u které je vysoký počet pozměňovacích návrhů z hlediska legislativního procesu standardním jevem."
     }
   ],
   "controversial": [
     {
-      "statement": "Martin Kupka (ODS) označil rozhodnutí premiéra Babiše neumožnit prezidentovi účast na summitu NATO za „klukovský spor“ a „reálný rozvrat mezinárodní politiky ČR“. Jde o politicky citlivý střet mezi ústavními činiteli, kde ODS obviňuje premiéra z podléhání nátlaku na úkor národních zájmů.",
+      "statement": "**Martin Kupka (ODS)** označil neúčast prezidenta na summitu NATO za „klukovský spor“ mezi premiérem Babišem a hnutím Motoristé, který poškozuje národní zájmy ČR. Kritizoval vládu za to, že škrtla 21 miliard z výdajů na obranu, což podle něj podkopává důvěryhodnost ČR u spojenců.",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/06:06",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2764_controversy_00.jpg",
-      "context": "Jde o politické hodnocení události z roku 2021. Účast prezidenta na summitech NATO není zákonem striktně definována jako výhradní právo prezidenta, ale závisí na dohodě mezi ústavními činiteli; interpretace o „rozvratu mezinárodní politiky“ je subjektivním politickým názorem."
+      "timestamp": "1/07:06",
+      "screenshot_path": "summaries/screenshots/event_2764_controversy_00.jpg",
+      "context": "Výrok obsahuje politické hodnocení (označení za „klukovský spor“) a faktické tvrzení o škrtu 21 miliard v rozpočtu na obranu. Údaj o škrtu je nutné konfrontovat s daty Ministerstva financí ČR o plnění rozpočtu kapitoly Ministerstva obrany; interpretace o poškození národních zájmů je subjektivním politickým názorem."
     }
   ],
   "quality": {

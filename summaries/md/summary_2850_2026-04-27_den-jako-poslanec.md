@@ -3,53 +3,52 @@ Toto je strukturované shrnutí jednání Žákovské a studentské poslanecké 
 ### 1. Téma a účel jednání
 Jednání 18. schůze Žákovské a studentské poslanecké sněmovny se konalo 27. dubna 2026 v prostorách Poslanecké sněmovny Parlamentu ČR. Hlavním tématem byla „Příprava na krizové situace“, konkrétně projednávání fiktivního návrhu zákona o obnově povinné vojenské služby a branné přípravě žáků středních škol.
 
-Cílem akce bylo umožnit studentům vyzkoušet si legislativní proces, prezentační dovednosti a kritickou diskuzi o společensky citlivých tématech v autentickém prostředí. Studenti vystupovali v rolích poslanců, zatímco přítomní skuteční politici (Marek Výborný, Ondřej Matěj Havel, Jan Berky, Robert Králíček, Miroslav Krejčí, Olga Richterová) plnili roli mentorů a ministrů.
+Cílem akce bylo umožnit studentům vyzkoušet si legislativní proces, prezentační dovednosti a kritickou diskuzi o společensky citlivém tématu. Studenti vystupovali v rolích poslanců, zatímco skuteční politici (Marek Výborný, Ondřej Matěj Havel, Jan Berky, Robert Králíček, Miroslav Krejčí) zastávali role ministrů a poskytovali odbornou i procedurální zpětnou vazbu.
 
 ### 2. Hlavní body
-*   **Ondřej Matěj Havel (ministr):** Zdůraznil význam bezpečnosti jako základní funkce státu a nutnost připravenosti na krizové situace v kontextu zhoršující se bezpečnostní situace v Evropě.
-*   **Pan Pekař (host, Univerzita obrany):** Vojenský psycholog, který zdůraznil, že armáda je „přívěskem politiky“ a její hlavní funkcí je prevence. Argumentoval, že dobrovolná služba je kvalitnější než povinná, pokud je správně motivována.
-*   **Marek Výborný (ministr):** Přiblížil historické souvislosti sálu a pravidla parlamentního jednání (hlasovací zařízení, role předsedajícího).
-*   **Robert Králíček (ministr):** Upozornil na poddimenzovanost bezpečnostních složek a varoval, že povinná vojenská služba by mohla odčerpat personál z policie a hasičského záchranného sboru.
+*   **Ondřej Matěj Havel (ministr):** Zdůraznil, že bezpečnost je základní funkcí státu. Upozornil na zhoršující se bezpečnostní situaci v Evropě a nutnost připravenosti.
+*   **Pekař (host, Univerzita obrany):** Zdůraznil roli armády jako prevence („chceš-li mír, připravuj válku“). Argumentoval, že vojenská služba by měla být založena na dobrovolnosti a smysluplnosti, nikoliv na nátlaku.
+*   **Marek Výborný (ministr):** Přiblížil historické souvislosti sálu a pravidla jednacího řádu (např. význam „Empire“ – předsednického místa).
+*   **Robert Králíček (ministr):** Varoval před poddimenzovaností bezpečnostních složek a položil otázku, zda by povinná vojenská služba neodlákala personál od policie a hasičů.
 *   **Jan Berky (ministr):** Vysvětlil legislativní proces (tři čtení) a upozornil na nutnost souladu nového zákona se školským zákonem a ústavním pořádkem.
-*   **Miroslav Krejčí (ministr):** Diskutoval o možnostech zapojení armády do výuky na školách a zdůraznil, že vzdělávání v krizových situacích by nemělo být zátěží pro učitele.
-*   **Olga Richterová (poslankyně):** Sdílela zkušenosti s aktivním občanstvím a vysvětlila fungování poslaneckých klubů a kompromisů v politice.
-*   **Studentské kluby (zástupci škol):** Předložily řadu pozměňovacích návrhů, včetně zkrácení výcviku na 3 měsíce, zavedení dobrovolnosti, výjimek pro sportovce a studenty medicíny, a kritiky vázání maturitní zkoušky na absolvování vojenského kurzu.
+*   **Miroslav Krejčí (ministr):** Diskutoval o praktických aspektech výcviku a nutnosti provázanosti s reálnými kapacitami armády.
+*   **Studentské kluby (poslanci):**
+    *   **Gymnázium Roudnice n. L.:** Navrhli zrušení výjimky pro vrcholové sportovce a upozornili na chybějící alternativu civilní služby (výhrada svědomí).
+    *   **Gymnázium Jana Keplera:** Navrhli zkrácení výcviku na 3 měsíce a zrušení letních kurzů z důvodu financí.
+    *   **ZŠ Pohůrecká ČB:** Navrhli zrušení povinnosti pro osoby se zdravotním postižením a zavedení propagace armády.
+    *   **ZŠ Česká Lípa:** Navrhli zkrácení výcviku na 3 měsíce a dobrovolnost letních kurzů.
+    *   **SPŠ Teplice:** Navrhli zkrácení vojenské služby o dobu absolvovaného letního kurzu jako motivační prvek.
+    *   **OA Dušní:** Navrhli zkrácení služby na 2 měsíce a financování z rozpočtu Ministerstva obrany.
 
 ### 3. Výsledek / závěr
-Po rozsáhlé rozpravě a hlasování o pozměňovacích návrzích (včetně schválení návrhu na dobrovolnost služby a úpravy financování) byl zákon jako celek v závěrečném hlasování **neschválen**. Předsedající konstatoval, že se tak stalo teprve podruhé v historii těchto studentských konferencí.
+Po rozsáhlé rozpravě a hlasování o pozměňovacích návrzích (včetně úprav financování, výjimek pro studium a zrušení podmínky absolvování kurzu pro maturitu) byl zákon jako celek **neschválen**. Předsedající konstatoval, že se tak stalo teprve podruhé v historii těchto konferencí.
 
 ### 4. Poznámky
-Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu (zejména v závěru) trpěly sníženou srozumitelností kvůli překrývání hlasů.
+Přepis obsahuje technické artefakty (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu (zejména v částech 22–24) byly nesrozumitelné nebo obsahovaly pouze technický šum.
 
 ---
 
-## Doplňující otázky
-
-*   **Kontroverzní návrh: Zrušení letních prázdnin pro žáky, kteří neabsolvují vojenský kurz.**
-    *   **Kdo:** Miroslav Krejčí (ministr)
-    *   **Co:** Navrhl, že pokud by byl kurz dobrovolný, žáci, kteří se nepřihlásí, by museli chodit do školy i přes letní prázdniny.
-    *   **Proč:** Vyvolalo to okamžitou negativní reakci studentů, kteří to vnímali jako nátlak a porušení práva na odpočinek.
-    *   **Čas:** 18/06:04
-
-*   **Kontroverzní výrok: Zpochybnění smyslu práce poslance.**
-    *   **Kdo:** Miroslav Krejčí (ministr)
-    *   **Co:** Přiznal, že se za 6 měsíců ve sněmovně „nikdy v životě necítil zbytečnější“ kvůli pomalému legislativnímu procesu.
-    *   **Proč:** Politicky citlivé přiznání frustrace z neefektivity parlamentní práce.
-    *   **Čas:** 34/04:06
+### Doplňující otázky
+*   **Kontroverzní návrh:** Zrušení letních prázdnin pro žáky, kteří neabsolvují branný kurz.
+    *   **Kdo:** Miroslav Krejčí (ministr).
+    *   **Proč:** Vyvolalo to bouřlivou reakci studentů ohledně práv učitelů na dovolenou a motivace žáků.
+    *   **Čas:** 18/06:04.
+*   **Kontroverzní výrok:** Srovnání ČR s autoritářskými režimy (Severní Korea, Írán) v kontextu povinné vojny.
+    *   **Kdo:** Jáchym Král (poslanec).
+    *   **Proč:** Politicky citlivé přirovnání, které vyvolalo debatu o smyslu obrany státu.
+    *   **Čas:** 19/06:06.
 
 ---
 
-## Klíčové citace pro veřejnost
-
-*   „Země, která není ochotna se bránit, si nezaslouží svobodu.“ — **Marek Benda (předseda vlády)**, 7/06:04 (parafráze).
-*   „Bezpečnost nelze outsourcovat. Stejně jako žádnou jinou zodpovědnost.“ — **Pan Pekař (Univerzita obrany)**, 3/04:03 (citace).
-*   „Politika je týmový sport, ale pro vrcholové sportovce.“ — **Jan Berky (ministr)**, 31/06:09 (citace).
-*   „Nikdo z nás není chodící encyklopedie, abychom rozuměli všemu od financí až po zemědělství.“ — **Marek Výborný (ministr)**, 31/06:09 (parafráze).
+### Klíčové citace pro veřejnost
+1.  „Země, která není ochotna se bránit, si nezaslouží svobodu.“ (Citace, Marek Benda, 7/06:04)
+2.  „Bezpečnost nelze outsourcovat. Stejně jako žádnou jinou zodpovědnost.“ (Citace, Pekař, 3/04:03)
+3.  „Politika je týmový sport, ale pro vrcholové sportovce.“ (Citace, Jan Berky, 31/06:09)
+4.  „Pokud jsme schopni zajistit stejný výsledek tak, aby ti lidi vstupovali dobrovolně, je to naprosto neporovnatelně kvalitnější řešení, než jim to vnutit.“ (Parafráze, Pekař, 5/02:14)
 
 ---
 
-## JSON výstup
-
+### JSON výstup
 ```json
 {
   "schema_version": "2",
@@ -70,45 +69,42 @@ Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá sl
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání 18. schůze Žákovské a studentské poslanecké sněmovny se konalo 27. dubna 2026 v prostorách Poslanecké sněmovny Parlamentu ČR. Hlavním tématem byla „Příprava na krizové situace“, konkrétně projednávání fiktivního návrhu zákona o obnově povinné vojenské služby a branné přípravě žáků středních škol.\n\nCílem akce bylo umožnit studentům vyzkoušet si legislativní proces, prezentační dovednosti a kritickou diskuzi o společensky citlivých tématech v autentickém prostředí. Studenti vystupovali v rolích poslanců, zatímco přítomní skuteční politici plnili roli mentorů a ministrů.",
+    "topic": "Jednání 18. schůze Žákovské a studentské poslanecké sněmovny se konalo 27. dubna 2026 v prostorách Poslanecké sněmovny Parlamentu ČR. Hlavním tématem byla „Příprava na krizové situace“, konkrétně projednávání fiktivního návrhu zákona o obnově povinné vojenské služby a branné přípravě žáků středních škol.\n\nCílem akce bylo umožnit studentům vyzkoušet si legislativní proces, prezentační dovednosti a kritickou diskuzi o společensky citlivém tématu. Studenti vystupovali v rolích poslanců, zatímco skuteční politici zastávali role ministrů a poskytovali odbornou i procedurální zpětnou vazbu.",
     "main_points": [
-      "**Ondřej Matěj Havel (ministr)** — Zdůraznil význam bezpečnosti jako základní funkce státu a nutnost připravenosti na krizové situace.",
-      "**Pan Pekař (Univerzita obrany)** — Vojenský psycholog, který zdůraznil, že armáda je „přívěskem politiky“ a její hlavní funkcí je prevence. Argumentoval, že dobrovolná služba je kvalitnější než povinná.",
-      "**Marek Výborný (ministr)** — Přiblížil historické souvislosti sálu a pravidla parlamentního jednání.",
-      "**Robert Králíček (ministr)** — Upozornil na poddimenzovanost bezpečnostních složek a varoval před odčerpáním personálu z policie a hasičů.",
-      "**Jan Berky (ministr)** — Vysvětlil legislativní proces a upozornil na nutnost souladu nového zákona se školským zákonem.",
-      "**Miroslav Krejčí (ministr)** — Diskutoval o možnostech zapojení armády do výuky na školách.",
-      "**Olga Richterová (poslankyně)** — Sdílela zkušenosti s aktivním občanstvím a vysvětlila fungování poslaneckých klubů.",
-      "**Studentské kluby** — Předložily řadu pozměňovacích návrhů, včetně zkrácení výcviku, zavedení dobrovolnosti a kritiky vázání maturitní zkoušky na vojenský kurz."
+      "**Ondřej Matěj Havel (ministr)** — Zdůraznil, že bezpečnost je základní funkcí státu a aktuálnost obranné politiky v Evropě.",
+      "**Pekař (host, Univerzita obrany)** — Argumentoval, že armáda má fungovat jako prevence a vojenská služba by měla být založena na dobrovolnosti a kompetencích.",
+      "**Marek Výborný (ministr)** — Přiblížil historické souvislosti sálu a pravidla jednacího řádu.",
+      "**Robert Králíček (ministr)** — Varoval před poddimenzovaností bezpečnostních složek a rizikem odlivu personálu od policie a hasičů.",
+      "**Jan Berky (ministr)** — Vysvětlil legislativní proces a nutnost souladu zákona se školským zákonem a ústavou.",
+      "**Studentské kluby** — Předložily řadu pozměňovacích návrhů, od zkrácení délky služby (na 2–3 měsíce) až po zrušení povinnosti letních kurzů či zavedení výjimek pro sportovce a studenty."
     ],
-    "outcome": "Po rozsáhlé rozpravě a hlasování o pozměňovacích návrzích (včetně schválení návrhu na dobrovolnost služby a úpravy financování) byl zákon jako celek v závěrečném hlasování **neschválen**. Předsedající konstatoval, že se tak stalo teprve podruhé v historii těchto studentských konferencí.",
-    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu (zejména v závěru) trpěly sníženou srozumitelností kvůli překrývání hlasů."
+    "outcome": "Po rozsáhlé rozpravě a hlasování o pozměňovacích návrzích byl zákon jako celek **neschválen**. Předsedající konstatoval, že se tak stalo teprve podruhé v historii těchto konferencí.",
+    "notes": "Přepis obsahuje technické artefakty (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu byly nesrozumitelné."
   },
   "entities": {
     "speakers": [
       {"name": "Ondřej Matěj Havel", "person_id": null, "affiliation": "ministr"},
-      {"name": "Pan Pekař", "person_id": null, "affiliation": "Univerzita obrany"},
+      {"name": "Pekař", "person_id": null, "affiliation": "Univerzita obrany"},
       {"name": "Marek Výborný", "person_id": null, "affiliation": "ministr"},
       {"name": "Robert Králíček", "person_id": null, "affiliation": "ministr"},
       {"name": "Jan Berky", "person_id": null, "affiliation": "ministr"},
-      {"name": "Miroslav Krejčí", "person_id": null, "affiliation": "ministr"},
-      {"name": "Olga Richterová", "person_id": null, "affiliation": "poslankyně"}
+      {"name": "Miroslav Krejčí", "person_id": null, "affiliation": "ministr"}
     ],
-    "parties": ["KDU-ČSL", "Piráti", "ANO", "STAN"],
-    "institutions": ["Poslanecká sněmovna Parlamentu ČR", "Univerzita obrany"]
+    "parties": ["KDU-ČSL", "Piráti", "Motoristé"],
+    "institutions": ["Poslanecká sněmovna", "Univerzita obrany"]
   },
   "highlights": [
     {
       "text": "Země, která není ochotna se bránit, si nezaslouží svobodu.",
       "type": "citation",
       "speaker": "Marek Benda",
-      "affiliation": "předseda vlády",
+      "affiliation": "předseda vlády (fiktivní)",
       "timestamp": "7/06:04"
     },
     {
       "text": "Bezpečnost nelze outsourcovat. Stejně jako žádnou jinou zodpovědnost.",
       "type": "citation",
-      "speaker": "Pan Pekař",
+      "speaker": "Pekař",
       "affiliation": "Univerzita obrany",
       "timestamp": "3/04:03"
     },
@@ -122,16 +118,16 @@ Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá sl
   ],
   "controversial": [
     {
-      "statement": "Miroslav Krejčí (ministr) navrhl, že pokud by byl kurz dobrovolný, žáci, kteří se nepřihlásí, by museli chodit do školy i přes letní prázdniny. Vyvolalo to negativní reakci studentů jako nátlak.",
+      "statement": "Návrh na zrušení letních prázdnin pro žáky, kteří neabsolvují branný kurz.",
       "speaker": "Miroslav Krejčí",
       "affiliation": "ministr",
       "timestamp": "18/06:04"
     },
     {
-      "statement": "Miroslav Krejčí (ministr) přiznal, že se za 6 měsíců ve sněmovně nikdy necítil zbytečnější kvůli pomalému legislativnímu procesu.",
-      "speaker": "Miroslav Krejčí",
-      "affiliation": "ministr",
-      "timestamp": "34/04:06"
+      "statement": "Srovnání ČR s autoritářskými režimy (Severní Korea, Írán) v kontextu povinné vojny.",
+      "speaker": "Jáchym Král",
+      "affiliation": "poslanec",
+      "timestamp": "19/06:06"
     }
   ],
   "quality": {

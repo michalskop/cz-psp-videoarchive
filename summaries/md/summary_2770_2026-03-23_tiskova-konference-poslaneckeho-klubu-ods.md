@@ -1,52 +1,58 @@
-Zde je strukturované shrnutí tiskové konference poslaneckého klubu ODS ze dne 23. března 2026.
+## 1. Téma a účel jednání
 
-### 1. Téma a účel jednání
-Tisková konference byla svolána za účelem vyjádření postoje poslaneckého klubu ODS k aktuálním krokům vlády, konkrétně k návrhu změn ve financování veřejnoprávních médií, k bezpečnostní situaci v souvislosti s útokem v Pardubicích a k legislativním prioritám ODS v Poslanecké sněmovně.
+Tisková konference poslaneckého klubu ODS byla svolána za účelem vyjádření postoje strany k aktuálním vládním krokům a bezpečnostní situaci v zemi. Hlavními tématy byla kritika vládního návrhu financování veřejnoprávních médií, reakce na bezpečnostní incident v Pardubicích a představení legislativního návrhu na zrušení zákazu prodeje ve vybraných státních svátcích.
 
-Cílem vystoupení bylo kritizovat vládní komunikaci a legislativní procesy, které ODS považuje za chaotické, nekoncepční a ohrožující stabilitu klíčových institucí státu.
+Cílem konference bylo upozornit na podle ODS nekoncepční a populistické kroky vlády, kritizovat nedostatečné financování bezpečnostních složek a zdůraznit potřebu návratu ke standardním legislativním procesům.
 
-### 2. Hlavní body
-*   **Lucie Bartošová (ODS):**
-    *   Kritizovala vládní návrh na zavedení výjimek z koncesionářských poplatků jako populistický a nekoncepční zásah.
-    *   Upozornila na obcházení standardního legislativního procesu (chybějící mezipřipomínkové řízení).
-    *   Varovala, že média veřejné služby (ČT a ČRo) mohou přijít až o 2,7 miliardy korun, což představuje čtvrtinu jejich rozpočtu a ohrožuje jejich dlouhodobé plánování.
-*   **Jan Lipavský (ODS):**
-    *   Reagoval na žhářský útok v Pardubicích; zdůraznil potřebu posílit akceschopnost zpravodajských služeb.
-    *   Kritizoval vládní škrty v rozpočtech bezpečnostních institucí: BIS (-300 mil. Kč), NÚKIB (-100 mil. Kč) a NBÚ (-20 mil. Kč).
-    *   Odsoudil premiérovo osočování firem z podcenění bezpečnosti jako nevhodné a neprofesionální.
-    *   Vyzval vládu k zavedení vízové povinnosti pro ruské diplomaty a jejich technické pracovníky, což dle něj vláda za 100 dní svého působení neudělala.
-*   **Jan Bureš (ODS):**
-    *   Oznámil předložení novely zákona, která ruší zákaz prodeje ve velkých obchodech během státních svátků.
-    *   Argumentoval, že stát nemá určovat podnikatelům otevírací dobu a že rozhodnutí by mělo být na nich při dodržení zákonných příplatků pro zaměstnance.
-    *   Uvedl, že současná úprava z roku 2016 vytváří chaos a nepatří do 21. století.
+## 2. Hlavní body
 
-### 3. Výsledek / závěr
-Jednání nebylo formálním rozhodovacím procesem, ale tiskovým prohlášením opozičního klubu. ODS deklarovala, že bude na plénu Sněmovny prosazovat standardní legislativní procesy u mediální novely a bude se snažit o prosazení zrušení zákazu prodeje o svátcích. V otázkách bezpečnosti vyjádřila připravenost ke konstruktivní spolupráci, pokud vláda předloží konkrétní a smysluplné návrhy.
+*   **Lucie Bartošová (ODS)**
+    *   Kritizovala vládní návrh na změnu financování veřejnoprávních médií (ČT a ČRo) jako chaotický a nekoncepční.
+    *   Upozornila, že návrh obchází standardní legislativní proces (chybějící mezipřipomínkové řízení).
+    *   Varovala před finančními dopady: odhaduje ztrátu příjmů pro média ve výši cca 2,7 miliardy korun (cca čtvrtina rozpočtu).
+    *   Zdůraznila potřebu odborné debaty a kritizovala nedostatečnou komunikaci mezi ministrem a vedením médií.
+*   **Jan Lipavský (ODS)**
+    *   Reagoval na žhářský útok v Pardubicích; označil jej za teroristický akt a varoval před podceňováním bezpečnostní situace.
+    *   Kritizoval škrty v rozpočtech bezpečnostních složek: BIS přišla o 300 mil. Kč, NÚKIB o 100 mil. Kč a NBÚ o 20 mil. Kč (celkový pokles rozpočtu zpravodajské komunity o 9 %).
+    *   Odsoudil komunikaci premiéra vůči firmám, které označil za „krizový manuál, jak to nedělat“.
+    *   Vyzval vládu k zavedení vízové povinnosti pro ruské diplomaty a jejich technické pracovníky.
+*   **Jan Bureš (ODS)**
+    *   Oznámil předložení novely zákona, která ruší zákaz otevírání obchodních center ve vybraných státních svátcích.
+    *   Argumentoval, že stát nemá určovat podnikatelům otevírací dobu a že stávající zákon z roku 2016 vytváří chaos.
+    *   Podotkl, že zaměstnanci mají právo na příplatky za práci ve svátek a mnozí z nich si chtějí v tyto dny přivydělat.
 
-### 4. Poznámky
-Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika, drobné gramatické chyby), avšak obsah je srozumitelný a nevykazuje zásadní ztrátu informací.
+## 3. Výsledek / závěr
+
+Jednání bylo tiskovou konferencí, nikoliv hlasováním. ODS deklarovala, že na plénu Sněmovny nebude mlčet k vládním návrhům a bude prosazovat standardní legislativní postupy. Strana je připravena konstruktivně podpořit vládní kroky v oblasti bezpečnosti, pokud s nimi vláda přijde, avšak kritizuje dosavadní nečinnost a škrty v rozpočtech bezpečnostních institucí.
+
+## 4. Poznámky
+
+Přepis obsahuje občasné chyby v diakritice a drobné gramatické nedokonalosti způsobené automatickým přepisem, které však nemají vliv na srozumitelnost obsahu.
 
 ---
 
-### Doplňující otázky
+## Doplňující otázky
+
 *   **Kdo:** Jan Lipavský (ODS)
-*   **Co:** Označil žhářský útok v Pardubicích za „teroristický útok“ a kritizoval vládu za nečinnost ohledně víz pro ruské diplomaty.
-*   **Proč:** Jde o silné politické obvinění vlády z podcenění národní bezpečnosti a přímé spojování útoku s Ruskem, což je v diplomatickém kontextu vysoce citlivé.
-*   **Čas:** 1/05:30
+*   **Co:** Označil žhářský útok v Pardubicích za „teroristický útok“ a kritizoval premiéra za to, že „začal osočovat ty firmy, že něco podcenily“.
+*   **Proč:** Označení útoku za teroristický je politicky citlivé z hlediska mezinárodních vztahů a vyšetřování, kritika premiéra přímo útočí na vládní krizovou komunikaci.
+*   **Čas:** 1/04:45
 
 ---
 
-### Klíčové citace pro veřejnost
+## Klíčové citace pro veřejnost
+
 *   **Text:** „Podle našich odhadů můžou přijít obě média zhruba o 2,7 miliardy korun, což je zhruba čtvrtina celého rozpočtu.“ (Parafráze)
     *   **Řečník:** Lucie Bartošová (ODS), **Čas:** 1/01:45
 *   **Text:** „BIS přišla o 300 milionů korun, přitom je to právě vnitřní kontrarozvědka BIS, která sehrává stěžejní roli ve vyšetřování události v Pardubicích.“ (Citace)
-    *   **Řečník:** Jan Lipavský (ODS), **Čas:** 1/03:55
-*   **Text:** „Zítra to bude sto dnů, co vládne kabinet Andreje Babiše, ale je to také sto dnů, co kabinet Andreje Babiše nezavedl vízovou povinnost pro ruské diplomaty.“ (Citace)
-    *   **Řečník:** Jan Lipavský (ODS), **Čas:** 1/06:30
+    *   **Řečník:** Jan Lipavský (ODS), **Čas:** 1/03:45
+*   **Text:** „Věc, kdy stát určuje obchodníkům, kdy mají mít otevřeno a kdy mají mít zavřeno, prostě nepatří do 21. století.“ (Citace)
+    *   **Řečník:** Jan Bureš (ODS), **Čas:** 1/07:30
 
 ---
 
-### JSON výstup
+## JSON výstup
+
 ```json
 {
   "schema_version": "2",
@@ -67,13 +73,13 @@ Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem vyjádření postoje poslaneckého klubu ODS k aktuálním krokům vlády, konkrétně k návrhu změn ve financování veřejnoprávních médií, k bezpečnostní situaci v souvislosti s útokem v Pardubicích a k legislativním prioritám ODS v Poslanecké sněmovně.\n\nCílem vystoupení bylo kritizovat vládní komunikaci a legislativní procesy, které ODS považuje za chaotické, nekoncepční a ohrožující stabilitu klíčových institucí státu.",
+    "topic": "Tisková konference poslaneckého klubu ODS byla svolána za účelem vyjádření postoje strany k aktuálním vládním krokům a bezpečnostní situaci v zemi. Hlavními tématy byla kritika vládního návrhu financování veřejnoprávních médií, reakce na bezpečnostní incident v Pardubicích a představení legislativního návrhu na zrušení zákazu prodeje ve vybraných státních svátcích.\n\nCílem konference bylo upozornit na podle ODS nekoncepční a populistické kroky vlády, kritizovat nedostatečné financování bezpečnostních složek a zdůraznit potřebu návratu ke standardním legislativním procesům.",
     "main_points": [
-      "**Lucie Bartošová (ODS)** — Kritizovala vládní návrh na zavedení výjimek z koncesionářských poplatků jako populistický a nekoncepční zásah. Upozornila na obcházení standardního legislativního procesu a varovala, že média veřejné služby mohou přijít až o 2,7 miliardy korun.",
-      "**Jan Lipavský (ODS)** — Reagoval na žhářský útok v Pardubicích, kritizoval vládní škrty v rozpočtech bezpečnostních institucí (BIS, NÚKIB, NBÚ) a vyzval vládu k zavedení vízové povinnosti pro ruské diplomaty.",
-      "**Jan Bureš (ODS)** — Oznámil předložení novely zákona, která ruší zákaz prodeje ve velkých obchodech během státních svátků, protože současná úprava vytváří chaos a nepatří do 21. století."
+      "**Lucie Bartošová (ODS)** — Kritizovala vládní návrh na změnu financování veřejnoprávních médií (ČT a ČRo) jako chaotický a nekoncepční. Upozornila, že návrh obchází standardní legislativní proces. Varovala před finančními dopady: odhaduje ztrátu příjmů pro média ve výši cca 2,7 miliardy korun (cca čtvrtina rozpočtu).",
+      "**Jan Lipavský (ODS)** — Reagoval na žhářský útok v Pardubicích; označil jej za teroristický akt a varoval před podceňováním bezpečnosti. Kritizoval škrty v rozpočtech bezpečnostních složek (BIS -300 mil. Kč, NÚKIB -100 mil. Kč, NBÚ -20 mil. Kč). Odsoudil komunikaci premiéra vůči firmám a vyzval vládu k zavedení vízové povinnosti pro ruské diplomaty.",
+      "**Jan Bureš (ODS)** — Oznámil předložení novely zákona, která ruší zákaz otevírání obchodních center ve vybraných státních svátcích. Argumentoval, že stát nemá určovat podnikatelům otevírací dobu a že stávající zákon z roku 2016 vytváří chaos."
     ],
-    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale tiskovým prohlášením opozičního klubu. ODS deklarovala, že bude na plénu Sněmovny prosazovat standardní legislativní procesy u mediální novely a bude se snažit o prosazení zrušení zákazu prodeje o svátcích. V otázkách bezpečnosti vyjádřila připravenost ke konstruktivní spolupráci, pokud vláda předloží konkrétní a smysluplné návrhy.",
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. ODS deklarovala, že na plénu Sněmovny nebude mlčet k vládním návrhům a bude prosazovat standardní legislativní postupy. Strana je připravena konstruktivně podpořit vládní kroky v oblasti bezpečnosti, pokud s nimi vláda přijde, avšak kritizuje dosavadní nečinnost a škrty v rozpočtech bezpečnostních institucí.",
     "notes": null
   },
   "entities": {
@@ -83,7 +89,7 @@ Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika
       {"name": "Jan Bureš", "person_id": null, "affiliation": "ODS"}
     ],
     "parties": ["ODS"],
-    "institutions": ["Poslanecká sněmovna", "Česká televize", "Český rozhlas", "BIS", "NÚKIB", "NBÚ"]
+    "institutions": ["Česká televize", "Český rozhlas", "BIS", "NÚKIB", "Národní bezpečnostní úřad", "Poslanecká sněmovna"]
   },
   "highlights": [
     {
@@ -91,29 +97,33 @@ Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika
       "type": "paraphrase",
       "speaker": "Lucie Bartošová",
       "affiliation": "ODS",
-      "timestamp": "1/01:45"
+      "timestamp": "1/01:45",
+      "screenshot_path": null
     },
     {
       "text": "BIS přišla o 300 milionů korun, přitom je to právě vnitřní kontrarozvědka BIS, která sehrává stěžejní roli ve vyšetřování události v Pardubicích.",
       "type": "citation",
       "speaker": "Jan Lipavský",
       "affiliation": "ODS",
-      "timestamp": "1/03:55"
+      "timestamp": "1/03:45",
+      "screenshot_path": null
     },
     {
-      "text": "Zítra to bude sto dnů, co vládne kabinet Andreje Babiše, ale je to také sto dnů, co kabinet Andreje Babiše nezavedl vízovou povinnost pro ruské diplomaty.",
+      "text": "Věc, kdy stát určuje obchodníkům, kdy mají mít otevřeno a kdy mají mít zavřeno, prostě nepatří do 21. století.",
       "type": "citation",
-      "speaker": "Jan Lipavský",
+      "speaker": "Jan Bureš",
       "affiliation": "ODS",
-      "timestamp": "1/06:30"
+      "timestamp": "1/07:30",
+      "screenshot_path": null
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Jan Lipavský (ODS)\n**Co:** Označil žhářský útok v Pardubicích za „teroristický útok“ a kritizoval vládu za nečinnost ohledně víz pro ruské diplomaty.\n**Proč:** Jde o silné politické obvinění vlády z podcenění národní bezpečnosti a přímé spojování útoku s Ruskem, což je v diplomatickém kontextu vysoce citlivé.\n**Čas:** 1/05:30",
+      "statement": "**Kdo:** Jan Lipavský (ODS)\n**Co:** Označil žhářský útok v Pardubicích za „teroristický útok“ a kritizoval premiéra za to, že „začal osočovat ty firmy, že něco podcenily“.\n**Proč:** Označení útoku za teroristický je politicky citlivé z hlediska mezinárodních vztahů a vyšetřování, kritika premiéra přímo útočí na vládní krizovou komunikaci.\n**Čas:** 1/04:45",
       "speaker": "Jan Lipavský",
       "affiliation": "ODS",
-      "timestamp": "1/05:30"
+      "timestamp": "1/04:45",
+      "screenshot_path": null
     }
   ],
   "quality": {

@@ -1,68 +1,53 @@
-## 1. Téma a účel jednání
+Toto je strukturované shrnutí tiskové konference poslaneckého klubu KDU-ČSL ze dne 14. dubna 2026.
 
-Tisková konference poslaneckého klubu KDU-ČSL se konala před zahájením jednání Poslanecké sněmovny. Hlavním cílem bylo představit postoje strany k aktuálním politickým tématům, konkrétně k výsledkům voleb v Maďarsku, vládnímu návrhu zákona o regulaci cen pohonných hmot v legislativní nouzi a k programu nadcházející sněmovní schůze.
+### 1. Téma a účel jednání
+Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny. Hlavním účelem bylo vyjádření postoje KDU-ČSL k aktuální politické situaci, zejména k výsledkům voleb v Maďarsku, k vládnímu návrhu zákona o regulaci cen pohonných hmot předkládanému v legislativní nouzi a k organizaci nadcházející sněmovní schůze.
 
-KDU-ČSL se vymezila vůči způsobu komunikace vládní koalice, kterou označila za netransparentní, a představila své priority v oblasti rodinné politiky (balíček RODIČE+). Zároveň kritizovala postup koalice při organizaci mimořádné schůze, kde podle lidovců dochází k omezování prostoru pro opozici.
+Zástupci KDU-ČSL kritizovali vládní koalici za netransparentní postup při předkládání zákonů a za omezování prostoru pro opozici při projednávání mimořádných schůzí. Zároveň představili své priority v oblasti rodinné politiky (balíček RODIČE+).
 
----
+### 2. Hlavní body
+*   **Marek Výborný (KDU-ČSL):**
+    *   Pogratuloval hnutí Tisza a Petru Magyarovi k vítězství v maďarských volbách; označil to za pozitivní zprávu pro ČR a EU, neboť Maďarsko přestane být „trojským koněm“ Kremlu.
+    *   Kritizoval vládu za postup při předkládání zákona o regulaci cen pohonných hmot v legislativní nouzi bez předchozí konzultace s opozicí.
+    *   Představil čtyři podmínky KDU-ČSL pro podporu regulace: 1) Časové omezení (3x 90 dnů, poté souhlas Sněmovny), 2) Povinná odborná stanoviska (MF, MPO, ÚOHS, Správa státních hmotných rezerv), 3) Jasná definice krizové situace, 4) Řádné odůvodnění zásahu.
+*   **Monika Brzesková (KDU-ČSL):**
+    *   Upozornila na zamítnutí balíčku RODIČE+ vládní koalicí, přestože některé body (např. navýšení rodičovského příspěvku) jsou v zájmu MPSV.
+    *   KDU-ČSL znovu předloží návrhy na zvýšení daňových slev na děti a flexibilnější čerpání otcovské dovolené.
+*   **Tom Philipp (KDU-ČSL):**
+    *   Informoval o průběhu grémia: schůze bude prodloužena do večerních hodin (úterý–čtvrtek).
+    *   KDU-ČSL podpoří senátní návrh zákona o státních svátcích (přidání dne státních symbolů k 28. září).
+    *   Kritizoval koalici za zneužití přednostních práv (20 řečníků), čímž byla opozice odsunuta na konec diskuse k mimořádné schůzi.
+*   **Tematické body:**
+    *   KDU-ČSL požadovala „zipový systém“ (střídání vládních a opozičních řečníků) při mimořádné schůzi, což koalice odmítla.
 
-## 2. Hlavní body
+### 3. Výsledek / závěr
+Formálního rozhodnutí na tiskové konferenci nebylo dosaženo. KDU-ČSL deklarovala, že je připravena jednat o podpoře vládních návrhů pouze za předpokladu přijetí jejich pozměňovacích návrhů. Vládní koalice odmítla požadavek opozice na férové rozdělení řečnického času (zipový systém) při čtvrteční mimořádné schůzi.
 
-*   **Marek Výborný (KDU-ČSL)**
-    *   **Maďarské volby:** Pogratuloval hnutí Tisza a Petru Magyarovi k vítězství. Označil to za pozitivní zprávu pro ČR, EU i NATO. Kritizoval ministra zahraničí Petra Macinku za tvrzení o ztrátě spojence; naopak věří, že Maďarsko přestane být „trojským koněm“ Kremlu.
-    *   **Regulace cen pohonných hmot:** Kritizoval vládní postup v legislativní nouzi bez předchozí konzultace s opozicí. KDU-ČSL obecně neodmítá regulaci v krizových situacích, ale požaduje čtyři úpravy:
-        1.  **Časové omezení:** Maximálně 3x 90 dnů, přičemž po 180 dnech musí o prodloužení rozhodnout Sněmovna.
-        2.  **Odborné podklady:** Povinná stanoviska MF, MPO, ÚOHS a Správy státních hmotných rezerv.
-        3.  **Definice krize:** Jasné vymezení situací (skokový růst cen, výpadky nabídky, nepřiměřené marže).
-        4.  **Odůvodnění:** Povinnost vlády doložit data a vysvětlit, proč nestačí mírnější opatření.
-*   **Monika Brzesková (KDU-ČSL)**
-    *   **Rodinná politika:** Připomněla balíček RODIČE+, který vláda zamítla, a oznámila jeho opětovné předložení.
-    *   **Rozpor ve vládě:** Upozornila na rozpor mezi MPSV (které chce navýšit rodičovský příspěvek) a MF (které požaduje, aby si MPSV na výdaj našlo prostředky ve vlastní kapitole).
-*   **Tom Philipp (KDU-ČSL)**
-    *   **Organizace schůze:** Upozornil na prodloužené jednání (úterý–čtvrtek do 21:00).
-    *   **Státní svátky:** Lidovci podpoří senátní návrh na rozšíření názvu 28. září o „den státních symbolů“.
-    *   **Mimořádná schůze:** Kritizoval koalici za zneužití přednostních práv (20 poslanců), čímž odsunuli opozici na konec debaty.
-
----
-
-## 3. Výsledek / závěr
-
-Formální rozhodnutí na tiskové konferenci nepadlo, neboť šlo o informativní setkání. KDU-ČSL deklarovala, že podpoří vládní návrh zákona o regulaci cen pohonných hmot pouze v případě, že budou akceptovány jejich čtyři pozměňovací návrhy. Strana rovněž hodlá znovu předložit balíček RODIČE+ a vyjádřila nespokojenost s organizací sněmovní debaty, kde koalice odmítla princip „zipu“ (střídání řečníků vládní koalice a opozice).
-
----
-
-## 4. Poznámky
-
-Přepis je srozumitelný, neobsahuje žádné významné výpadky textu, které by bránily pochopení obsahu.
+### 4. Poznámky
+Přepis je srozumitelný, neobsahuje žádné zásadní výpadky, které by bránily pochopení obsahu.
 
 ---
 
 ## Doplňující otázky
-
-*   **Kontroverzní výrok:**
-    *   **Kdo:** Marek Výborný (KDU-ČSL)
-    *   **Co:** Označil předchozí maďarskou vládu Viktora Orbána za „trojského koně“ a „pátou kolonu“, která „často až na hraně nebo možná za hranou vlastizrádného postupu předávala informace Kremlu“.
-    *   **Proč:** Jde o velmi ostré obvinění spojenecké země a jejího představitele z vlastizrady a špionáže pro cizí mocnost, což je v diplomacii vysoce citlivé.
-    *   **Čas:** 1/01:20
+*   **Kontroverzní výrok:** Marek Výborný (KDU-ČSL) označil předchozí maďarskou vládu Viktora Orbána za „trojského koně“ a „pátou kolonu“, která „často až za hranou vlastizrádného postupu předávala informace Kremlu“.
+    *   **Proč:** Jde o velmi ostré obvinění na adresu představitele členského státu EU a NATO, které přesahuje standardní diplomatickou kritiku.
+    *   **Čas:** 1/01:15
 
 ---
 
 ## Klíčové citace pro veřejnost
-
-*   **Text:** „Maďarsko pod vedením Viktora Orbána bylo fakticky trojským koněm, které často až na hraně nebo možná za hranou vlastizrádného postupu předávalo informace Kremlu.“ (citace)
-    *   **Řečník:** Marek Výborný (KDU-ČSL)
-    *   **Čas:** 1/01:20
-*   **Text:** „Vláda navrhuje fakticky bianco šek na jeden rok, to je pro nás těžko přijatelné.“ (citace)
-    *   **Řečník:** Marek Výborný (KDU-ČSL)
-    *   **Čas:** 1/04:20
-*   **Text:** „Vláda nám tento balíček (RODIČE+) před 14 dny shodila ze stolu, a to i takové návrhy, které by státní rozpočet nestály ani korunu.“ (citace)
-    *   **Řečník:** Monika Brzesková (KDU-ČSL)
-    *   **Čas:** 1/07:15
+*   **Text:** „Maďarsko pod vedením Viktora Orbána bylo fakticky trojským koněm v rámci našich spojenců, které často až za hranou vlastizrádného postupu předávalo informace Kremlu.“ (citace)
+    *   **Řečník:** Marek Výborný (KDU-ČSL), **Čas:** 1/01:15
+*   **Text:** „Vláda teď navrhuje fakticky bianco šek na jeden rok, to je pro nás těžko přijatelné.“ (citace)
+    *   **Řečník:** Marek Výborný (KDU-ČSL), **Čas:** 1/04:20
+*   **Text:** „Vláda nám tento balíček RODIČE+ před 14 dny shodila ze stolu, a to i takové návrhy, které by státní rozpočet nestály ani korunu.“ (citace)
+    *   **Řečník:** Monika Brzesková (KDU-ČSL), **Čas:** 1/07:15
+*   **Text:** „Koalice využila své možnosti a přihlásila prvních 20 svých vlastních přednostních práv, to znamená, že opozice bude odsunuta až úplně na konec.“ (citace)
+    *   **Řečník:** Tom Philipp (KDU-ČSL), **Čas:** 1/10:10
 
 ---
 
 ## JSON výstup
-
 ```json
 {
   "schema_version": "2",
@@ -83,13 +68,14 @@ Přepis je srozumitelný, neobsahuje žádné významné výpadky textu, které 
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se konala před zahájením jednání Poslanecké sněmovny. Hlavním cílem bylo představit postoje strany k aktuálním politickým tématům, konkrétně k výsledkům voleb v Maďarsku, vládnímu návrhu zákona o regulaci cen pohonných hmot v legislativní nouzi a k programu nadcházející sněmovní schůze.\n\nKDU-ČSL se vymezila vůči způsobu komunikace vládní koalice, kterou označila za netransparentní, a představila své priority v oblasti rodinné politiky (balíček RODIČE+). Zároveň kritizovala postup koalice při organizaci mimořádné schůze, kde podle lidovců dochází k omezování prostoru pro opozici.",
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny. Hlavním účelem bylo vyjádření postoje KDU-ČSL k aktuální politické situaci, zejména k výsledkům voleb v Maďarsku, k vládnímu návrhu zákona o regulaci cen pohonných hmot předkládanému v legislativní nouzi a k organizaci nadcházející sněmovní schůze.\n\nZástupci KDU-ČSL kritizovali vládní koalici za netransparentní postup při předkládání zákonů a za omezování prostoru pro opozici při projednávání mimořádných schůzí. Zároveň představili své priority v oblasti rodinné politiky (balíček RODIČE+).",
     "main_points": [
-      "**Marek Výborný (KDU-ČSL)**\n* **Maďarské volby:** Pogratuloval hnutí Tisza a Petru Magyarovi k vítězství. Označil to za pozitivní zprávu pro ČR, EU i NATO. Kritizoval ministra zahraničí Petra Macinku za tvrzení o ztrátě spojence; naopak věří, že Maďarsko přestane být „trojským koněm“ Kremlu.\n* **Regulace cen pohonných hmot:** Kritizoval vládní postup v legislativní nouzi bez předchozí konzultace s opozicí. KDU-ČSL obecně neodmítá regulaci v krizových situacích, ale požaduje čtyři úpravy: časové omezení (3x 90 dnů), odborné podklady (stanoviska MF, MPO, ÚOHS a SSHR), jasnou definici krize a řádné odůvodnění.",
-      "**Monika Brzesková (KDU-ČSL)**\n* **Rodinná politika:** Připomněla balíček RODIČE+, který vláda zamítla, a oznámila jeho opětovné předložení.\n* **Rozpor ve vládě:** Upozornila na rozpor mezi MPSV (které chce navýšit rodičovský příspěvek) a MF (které požaduje, aby si MPSV na výdaj našlo prostředky ve vlastní kapitole).",
-      "**Tom Philipp (KDU-ČSL)**\n* **Organizace schůze:** Upozornil na prodloužené jednání (úterý–čtvrtek do 21:00).\n* **Státní svátky:** Lidovci podpoří senátní návrh na rozšíření názvu 28. září o „den státních symbolů“.\n* **Mimořádná schůze:** Kritizoval koalici za zneužití přednostních práv (20 poslanců), čímž odsunuli opozici na konec debaty."
+      "**Marek Výborný (KDU-ČSL)** — Pogratuloval hnutí Tisza a Petru Magyarovi k vítězství v maďarských volbách; označil to za pozitivní zprávu pro ČR a EU, neboť Maďarsko přestane být „trojským koněm“ Kremlu. Kritizoval vládu za postup při předkládání zákona o regulaci cen pohonných hmot v legislativní nouzi bez předchozí konzultace s opozicí. Představil čtyři podmínky KDU-ČSL pro podporu regulace: 1) Časové omezení (3x 90 dnů, poté souhlas Sněmovny), 2) Povinná odborná stanoviska (MF, MPO, ÚOHS, Správa státních hmotných rezerv), 3) Jasná definice krizové situace, 4) Řádné odůvodnění zásahu.",
+      "**Monika Brzesková (KDU-ČSL)** — Upozornila na zamítnutí balíčku RODIČE+ vládní koalicí, přestože některé body (např. navýšení rodičovského příspěvku) jsou v zájmu MPSV. KDU-ČSL znovu předloží návrhy na zvýšení daňových slev na děti a flexibilnější čerpání otcovské dovolené.",
+      "**Tom Philipp (KDU-ČSL)** — Informoval o průběhu grémia: schůze bude prodloužena do večerních hodin (úterý–čtvrtek). KDU-ČSL podpoří senátní návrh zákona o státních svátcích (přidání dne státních symbolů k 28. září). Kritizoval koalici za zneužití přednostních práv (20 řečníků), čímž byla opozice odsunuta na konec diskuse k mimořádné schůzi.",
+      "**Tematické body** — KDU-ČSL požadovala „zipový systém“ (střídání vládních a opozičních řečníků) při mimořádné schůzi, což koalice odmítla."
     ],
-    "outcome": "Formální rozhodnutí na tiskové konferenci nepadlo, neboť šlo o informativní setkání. KDU-ČSL deklarovala, že podpoří vládní návrh zákona o regulaci cen pohonných hmot pouze v případě, že budou akceptovány jejich čtyři pozměňovací návrhy. Strana rovněž hodlá znovu předložit balíček RODIČE+ a vyjádřila nespokojenost s organizací sněmovní debaty, kde koalice odmítla princip „zipu“ (střídání řečníků vládní koalice a opozice).",
+    "outcome": "Formálního rozhodnutí na tiskové konferenci nebylo dosaženo. KDU-ČSL deklarovala, že je připravena jednat o podpoře vládních návrhů pouze za předpokladu přijetí jejich pozměňovacích návrhů. Vládní koalice odmítla požadavek opozice na férové rozdělení řečnického času (zipový systém) při čtvrteční mimořádné schůzi.",
     "notes": null
   },
   "entities": {
@@ -99,37 +85,49 @@ Přepis je srozumitelný, neobsahuje žádné významné výpadky textu, které 
       {"name": "Tom Philipp", "person_id": null, "affiliation": "KDU-ČSL"}
     ],
     "parties": ["KDU-ČSL", "Tisza"],
-    "institutions": ["Poslanecká sněmovna", "Evropská unie", "NATO", "Ministerstvo financí", "Ministerstvo průmyslu a obchodu", "ÚOHS", "Správa státních hmotných rezerv", "MPSV"]
+    "institutions": ["Poslanecká sněmovna", "Evropská unie", "Severoatlantická aliance", "Ministerstvo financí", "Ministerstvo průmyslu a obchodu", "Úřad pro ochranu hospodářské soutěže", "Správa státních hmotných rezerv"]
   },
   "highlights": [
     {
-      "text": "Maďarsko pod vedením Viktora Orbána bylo fakticky trojským koněm, které často až na hraně nebo možná za hranou vlastizrádného postupu předávalo informace Kremlu.",
+      "text": "Maďarsko pod vedením Viktora Orbána bylo fakticky trojským koněm v rámci našich spojenců, které často až za hranou vlastizrádného postupu předávalo informace Kremlu.",
       "type": "citation",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/01:20"
+      "timestamp": "1/01:15",
+      "screenshot_path": null
     },
     {
-      "text": "Vláda navrhuje fakticky bianco šek na jeden rok, to je pro nás těžko přijatelné.",
+      "text": "Vláda teď navrhuje fakticky bianco šek na jeden rok, to je pro nás těžko přijatelné.",
       "type": "citation",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/04:20"
+      "timestamp": "1/04:20",
+      "screenshot_path": null
     },
     {
       "text": "Vláda nám tento balíček RODIČE+ před 14 dny shodila ze stolu, a to i takové návrhy, které by státní rozpočet nestály ani korunu.",
       "type": "citation",
       "speaker": "Monika Brzesková",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/07:15"
+      "timestamp": "1/07:15",
+      "screenshot_path": null
+    },
+    {
+      "text": "Koalice využila své možnosti a přihlásila prvních 20 svých vlastních přednostních práv, to znamená, že opozice bude odsunuta až úplně na konec.",
+      "type": "citation",
+      "speaker": "Tom Philipp",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/10:10",
+      "screenshot_path": null
     }
   ],
   "controversial": [
     {
-      "statement": "* **Kdo:** Marek Výborný (KDU-ČSL)\n* **Co:** Označil předchozí maďarskou vládu Viktora Orbána za „trojského koně“ a „pátou kolonu“, která „často až na hraně nebo možná za hranou vlastizrádného postupu předávalo informace Kremlu“.\n* **Proč:** Jde o velmi ostré obvinění spojenecké země a jejího představitele z vlastizrady a špionáže pro cizí mocnost, což je v diplomacii vysoce citlivé.\n* **Čas:** 1/01:20",
+      "statement": "Marek Výborný (KDU-ČSL) označil předchozí maďarskou vládu Viktora Orbána za „trojského koně“ a „pátou kolonu“, která „často až za hranou vlastizrádného postupu předávala informace Kremlu“.",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/01:20"
+      "timestamp": "1/01:15",
+      "screenshot_path": null
     }
   ],
   "quality": {

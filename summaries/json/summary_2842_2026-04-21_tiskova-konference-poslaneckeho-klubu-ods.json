@@ -1,0 +1,99 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:28:29",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2842",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-21T13:22",
+    "end_date": "2026-04-21T13:40",
+    "sources": [
+      "final/event_2842_2026-04-21_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 3,
+    "parts_total": 3,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem vyjádření kritického postoje poslaneckého klubu ODS k aktuálním vládním legislativním návrhům. Hlavními tématy byla kritika Ministerstva spravedlnosti v souvislosti s legislativou týkající se neplacení výživného a důrazná výzva k zastavení projednávání vládního návrhu zákona o médiích veřejné služby.\n\nCílem vystoupení bylo upozornit na údajnou nekompetenci a populismus vládních resortů, poukázat na legislativní nedostatky předkládaných norem a oznámit záměr ODS obstruovat jednání Poslanecké sněmovny v případě, že vláda neustoupí od svých záměrů.",
+    "main_points": [
+      "**Neidentifikovaná řečnice (poslankyně ODS, právnička)** — Kritizovala ministra spravedlnosti za nedostatečnou přípravu odpovědí na interpelace a neznalost dopadů legislativy na rodiny a děti. Označila vládní návrh týkající se kriminalizace neplatičů výživného za populistický a odborně nepodložený. Upozornila na rozpor mezi důvodovou zprávou a tvrzením o „prevenčním charakteru“ zákona.",
+      "**Martin Baxa (ODS)** — Vyzval ministra kultury Otu Klempíře, aby se přestal skrývat a začal návrh mediální novely veřejně obhajovat. Oznámil, že ODS bude blokovat jednání sněmovny, pokud se návrh zákona o médiích veřejné služby objeví na programu. Označil návrh za „paskvil“, který ruší funkční systém televizních a rozhlasových poplatků bez věcného zdůvodnění a ohrožuje nezávislost médií.",
+      "**Tematické body** — Zrušení nominačního zákona vnímá ODS jako pokus o dosazování čistě politických nominantů do orgánů státních firem. ODS rovněž připomněla 35 let od svého založení."
+    ],
+    "outcome": "Nebyl přijat žádný formální legislativní závěr, neboť se jednalo o tiskovou konferenci. Dominujícím postojem ODS je odhodlání k obstrukcím v Poslanecké sněmovně, pokud vláda nestáhne návrh zákona o médiích veřejné služby. ODS rovněž požaduje, aby hnutí ANO vyvodilo důsledky z pochybností kolem kandidátů do Rady ČT.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, chyby v diakritice), zejména v části 2/3, kde se řečníci vyjadřují k legislativním procesům. Obsah byl však z kontextu rekonstruovatelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Neidentifikovaná řečnice",
+        "person_id": null,
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo spravedlnosti",
+      "Ministerstvo kultury",
+      "Česká televize"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tento návrh zákona je legislativně špatně napsaný, obsahuje mnoho chyb, nepřesností, nejasností a ruší funkční systém televizních a rozhlasových poplatků.",
+      "type": "paraphrase",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "2/05:28",
+      "screenshot_path": "summaries/screenshots/event_2842_highlight_00.jpg",
+      "context": "Tvrzení o legislativní kvalitě je subjektivním politickým hodnocením. Zda je systém poplatků 'funkční' či nikoliv, je předmětem politické debaty o udržitelnosti financování médií veřejné služby, nikoliv objektivně měřitelný fakt."
+    },
+    {
+      "text": "Pokud se budeme tázat, z čeho ministerstvo bere tu informaci, že tato legislativa a údajné zpřísnění má mít prevenční charakter, tak prosím cituji: tyto popsané závěry představují reflexy konkrétních životních zkušeností osob.",
+      "type": "citation",
+      "speaker": "Neidentifikovaná řečnice",
+      "affiliation": "ODS",
+      "timestamp": "2/01:25",
+      "screenshot_path": "summaries/screenshots/event_2842_highlight_01.jpg",
+      "context": "Citace 'reflexy konkrétních životních zkušeností osob' se objevila v důvodových zprávách k některým legislativním návrhům jako zdůvodnění společenské potřeby úpravy. Zda je takové zdůvodnění dostatečné pro 'prevenční charakter' zákona, je předmětem právní a politické interpretace."
+    },
+    {
+      "text": "Budeme obstruovat, budeme blokovat sněmovnu, pokud se tady návrh zákona o médiích veřejné služby objeví.",
+      "type": "citation",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "2/04:50",
+      "screenshot_path": "summaries/screenshots/event_2842_highlight_02.jpg",
+      "context": "Jedná se o politické prohlášení o záměru využít obstrukční nástroje (např. blokování schůze, dlouhé projevy), které jsou legitimní součástí parlamentního boje v rámci Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Baxa (ODS)\n**Co:** Navrhl, aby ministr kultury Ota Klempíř „rituálně ten návrh, ten paskvil roztrhal na tisíc kousků a nasypal si ty kousky na hlavu“.\n**Proč:** Jde o velmi expresivní a politicky útočné vyjádření, které zpochybňuje odbornou integritu ministra a kvalitu legislativního procesu.\n**Čas:** 2/06:03",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "2/06:03",
+      "screenshot_path": "summaries/screenshots/event_2842_controversy_00.jpg",
+      "context": "Výrok je expresivním politickým rétorickým obratem (hyperbolou). Nejedná se o faktické tvrzení, které by bylo možné ověřit, ale o vyjádření silného nesouhlasu s předloženým legislativním návrhem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

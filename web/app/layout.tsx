@@ -11,14 +11,13 @@ const MATOMO = { url: "//matomo.kohovolit.eu/", siteId: "2" };
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
-    default: "PSP Video Archive | Sněmovna.DataTimes.cz",
-    template: "%s | PSP Video Archive",
+    default: "Sněmovna Digest | Sněmovna.DataTimes.cz",
+    template: "%s | Sněmovna Digest",
   },
   description:
-    "Strukturované souhrny akcí Poslanecké sněmovny ČR — semináře, konference, výbory. Přepisy a souhrny zpracovány pomocí AI.",
-  icons: { icon: "/videoarchiv/icon.svg" },
+    "Sněmovna Digest — strukturované souhrny akcí Poslanecké sněmovny ČR: semináře, konference, výbory. Přepisy a souhrny zpracovány pomocí AI.",
   openGraph: {
-    siteName: "Sněmovna.DataTimes.cz/videoarchiv",
+    siteName: "Sněmovna Digest — DataTimes.cz",
     locale: "cs_CZ",
     type: "website",
   },

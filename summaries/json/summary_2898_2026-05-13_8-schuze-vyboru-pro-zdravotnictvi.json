@@ -1,0 +1,99 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:09:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2898",
+    "name": "8. schůze Výboru pro zdravotnictví",
+    "classification": "Jednání výborů",
+    "start_date": "2026-05-13T14:13",
+    "end_date": "2026-05-13T18:07",
+    "sources": [
+      "final/event_2898_2026-05-13_8-schuze-vyboru-pro-zdravotnictvi.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 24,
+    "parts_total": 24,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru se zaměřilo na tři klíčové oblasti: projednání závěrečného účtu Ministerstva zdravotnictví za rok 2025, reformu dohodovacího řízení o úhradách zdravotní péče a strategické plánování v oblasti lůžkové péče (interní a intenzivní). Cílem bylo zhodnotit hospodaření resortu, představit datovou podporu pro budoucí rozhodování a definovat kroky k efektivnějšímu řízení sítě poskytovatelů zdravotních služeb.",
+    "main_points": [
+      "**Vlastimil Válek (ministr zdravotnictví)** – Představil závěrečný účet za rok 2025. Zdůraznil nutnost posílení role ministerstva v dohodovacím řízení a centralizaci specializované péče.",
+      "**Ladislav Švec (náměstek ministra)** – Navrhl legislativní úpravy pro víceleté dohody a zákaz deficitního plánování úhrad.",
+      "**Ladislav Dušek (ředitel ÚZIS)** – Prezentoval otevřená data NZIS a upozornil na nutnost sjednotit výkaznictví mezi pojišťovnami.",
+      "**Tomáš Hauer (Česká internistická společnost)** – Varoval před kritickým stavem interních oddělení a stárnutím personálu.",
+      "**Vladimír Černý (předseda ČSARIM)** – Představil reformu intenzivní péče s důrazem na racionální indikace a národní indikátory kvality."
+    ],
+    "outcome": "Výbor schválil státní závěrečný účet za rok 2025. Přijal usnesení k reformě dohodovacího řízení a reformě intenzivní péče. Panovala shoda na nutnosti navýšení úhrad pro následnou a dlouhodobou péči v rámci probíhajícího dohodovacího řízení na rok 2027.",
+    "notes": "Přepis obsahuje technické chyby a opakující se fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vlastimil Válek",
+        "person_id": "psp:person:6482",
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Ladislav Dušek",
+        "person_id": "psp:person:2220",
+        "affiliation": "ÚZIS"
+      },
+      {
+        "name": "Tomáš Hauer",
+        "person_id": null,
+        "affiliation": "Česká internistická společnost"
+      },
+      {
+        "name": "Vladimír Černý",
+        "person_id": "psp:person:902",
+        "affiliation": "ČSARIM"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo zdravotnictví",
+      "ÚZIS"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V roce 2040 bude v ČR více než dvakrát tolik pětaosmdesátníků než dnes, což vyžaduje zásadní posílení interní a geriatrické péče.",
+      "type": "paraphrase",
+      "speaker": "Ladislav Dušek",
+      "affiliation": "ÚZIS",
+      "timestamp": "11/01:00",
+      "screenshot_path": "summaries/screenshots/event_2898_highlight_00.jpg",
+      "context": "Dle demografických projekcí ČSÚ (scénář střední varianty) se počet osob ve věku 85 a více let skutečně výrazně zvyšuje. Vzhledem k trendům stárnutí populace je predikce nárůstu na více než dvojnásobek do roku 2040 v souladu s aktuálními daty o věkové struktuře obyvatelstva."
+    },
+    {
+      "text": "V Česku je 70–80 % pacientů rok po propuštění z intenzivní péče po smrti, což je alarmující číslo vyžadující reformu indikací.",
+      "type": "paraphrase",
+      "speaker": "Vladimír Černý",
+      "affiliation": "ČSARIM",
+      "timestamp": "20/04:41",
+      "screenshot_path": "summaries/screenshots/event_2898_highlight_01.jpg",
+      "context": "Tvrzení o 70–80% úmrtnosti rok po propuštění z JIP je v kontextu české medicíny považováno za vysoce nadhodnocené a neodpovídá běžným klinickým datům. Úmrtnost se výrazně liší podle diagnózy a věku pacienta; celorepubliková data takto vysokou míru úmrtnosti u všech pacientů po JIP nepotvrzují."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** David Kasal (ANO) vs. profesoři Válek a Adámková.\n**Co:** Kasal varoval před „kanibalizací“ regionálních nemocnic a ztrátou zájmu lékařů o práci v regionech, pokud se vše centralizuje.\n**Proč:** Politicky citlivé téma – střet mezi odbornou efektivitou (centralizace) a dostupností péče v regionech.",
+      "speaker": "David Kasal",
+      "affiliation": "ANO",
+      "timestamp": "8/08:02",
+      "screenshot_path": "summaries/screenshots/event_2898_controversy_00.jpg",
+      "context": "Debata o centralizaci péče (tzv. koncentraci péče do center excelence) je dlouhodobým odborným i politickým tématem. Zatímco odborné společnosti (např. ČLS JEP) často argumentují vyšší kvalitou a bezpečností v centrech, politici z regionů poukazují na riziko zhoršení dostupnosti péče a odlivu personálu z menších nemocnic; jde o střet dvou legitimních, ale protichůdných priorit zdravotní politiky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}

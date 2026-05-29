@@ -1,0 +1,133 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:20:54",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2944",
+    "name": "Tisková konference k akci Charitativní orienťák v Poslanecké sněmovně",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-26T15:01",
+    "end_date": "2026-05-26T15:24",
+    "sources": [
+      "final/event_2944_2026-05-26_tiskova-konference-k-akci-charitativni-orientak-v-.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem zhodnocení druhého ročníku „Charitativního orienťáku v Poslanecké sněmovně“, který se uskutečnil v květnu 2026. Cílem akce bylo nejen podpořit pohyb a zdravý životní styl mezi poslanci a zaměstnanci sněmovny, ale především vybrat finanční prostředky na charitativní účely, konkrétně pro Českou olympijskou nadaci a projekt „Darujeme kroužky dětem“.\n\nJednání zdůraznilo význam otevřenosti ústavních institucí vůči veřejnosti a snahu o „rozpohybování“ zákonodárců, kteří jsou v rámci své profese vystaveni vysokému stresu a sedavému zaměstnání. Akce zároveň slouží jako nástroj pro budování neformálních vztahů napříč politickým spektrem.",
+    "main_points": [
+      "**Boris Šťastný (ministr pro sport, prevenci a zdraví)** — Vyzdvihl přínos akce pro zdraví a charitu. Upozornil na zdravotní rizika poslanecké práce (stres, hluk, sedavé zaměstnání) a podpořil myšlenku, že sněmovna by měla jít příkladem v podpoře pohybu.",
+      "**Jan Picek (Český svaz orientačních sportů)** — Prezentoval konkrétní výsledky: 281 účastníků, vybráno 107 700 Kč a celkem 2 953 „patér“ (pater) absolvovaných v rámci závodu.",
+      "**Martin Plíšek (vedoucí Kanceláře Poslanecké sněmovny)** — Potvrdil podporu kanceláře pro podobné akce, pokud jsou smluvně ošetřeny. Oznámil konání další akce (handbike trenažér) na příští týden.",
+      "**Patrik Nacher (1. místopředseda Poslanecké sněmovny)** — Zmínil skupinu „Aktivní sněmovna“, která plánuje měsíční sportovní aktivity (fotbal, veggie challenge, handbike). Navrhl rozšíření orienťáku do dalších pater a budov sněmovny.",
+      "**Karel Haas (poslanec)** — Hlavní organizátor akce. Zdůraznil význam otevřenosti ústavních institucí a poděkoval vedení sněmovny za „překročení stínu“ a umožnění pohybu veřejnosti v prostorách instituce.",
+      "**Jana Pastuchová (předsedkyně Komise pro práci Kanceláře PS)** — Podpořila kontinuitu akce a ocenila její roli při stmelování kolektivu zaměstnanců a poslanců.",
+      "**Martin Doktor (Česká olympijská nadace)** — Poděkoval za finanční podporu, která směřuje na sportování dětí ze znevýhodněných rodin.",
+      "**Aleš Sedláček (Česká rada dětí a mládeže)** — Ocenil solidaritu účastníků a uvedl, že projekt „Darujeme kroužky dětem“ již podpořil přes 20 000 dětí."
+    ],
+    "outcome": "Akce byla vyhodnocena jako úspěšná a panuje konsenzus ohledně jejího opakování v příštím roce. Vedení sněmovny i zástupci sportovních organizací se shodli na pokračování trendu „otevřené sněmovny“ a pořádání pravidelných sportovních aktivit pro poslance i zaměstnance.",
+    "notes": "Přepis obsahuje několik nesrozumitelných pasáží (např. v čase 04:16, 06:09, 10:00), kde dochází k výpadkům textu nebo zkomoleninám slov. V textu se rovněž vyskytují halucinace typu „Představujeme se na konferenci“ či „Představující se na vývoji“, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Boris Šťastný",
+        "person_id": "psp:person:5512",
+        "affiliation": "ministr pro sport, prevenci a zdraví"
+      },
+      {
+        "name": "Jana Pastuchová",
+        "person_id": "psp:person:6225",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Martin Plíšek",
+        "person_id": "psp:person:6251",
+        "affiliation": "Kancelář Poslanecké sněmovny"
+      },
+      {
+        "name": "Jan Picek",
+        "person_id": "psp:person:6875",
+        "affiliation": "Český svaz orientačních sportů"
+      },
+      {
+        "name": "Martin Doktor",
+        "person_id": "psp:person:6426",
+        "affiliation": "Český olympijský výbor"
+      },
+      {
+        "name": "Aleš Sedláček",
+        "person_id": null,
+        "affiliation": "Česká rada dětí a mládeže"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Český svaz orientačních sportů",
+      "Český olympijský výbor",
+      "Česká rada dětí a mládeže"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Dohromady se její zúčastnilo 281 závodníků a vybrali jsme 107 700 Kč.",
+      "type": "citation",
+      "speaker": "Jan Picek",
+      "affiliation": "Český svaz orientačních sportů",
+      "timestamp": "1/03:42",
+      "screenshot_path": "summaries/screenshots/event_2944_highlight_00.jpg",
+      "context": "Jedná se o konkrétní údaj o účasti a vybrané částce z charitativní akce. Nelze nezávisle ověřit bez přístupu k internímu vyúčtování pořadatele, ale údaj je v kontextu lokálních sportovních akcí věrohodný."
+    },
+    {
+      "text": "Projekt Darujeme kroužky dětem už podpořil více jak 20 000 dětí, aby se mohly účastnit volnočasových aktivit.",
+      "type": "citation",
+      "speaker": "Aleš Sedláček",
+      "affiliation": "Česká rada dětí a mládeže",
+      "timestamp": "1/15:38",
+      "screenshot_path": "summaries/screenshots/event_2944_highlight_01.jpg",
+      "context": "Projekt „Darujeme kroužky dětem“ je dlouhodobá iniciativa České rady dětí a mládeže. Dle veřejných zpráv projektu a výročních zpráv skutečně počet podpořených dětí přesáhl hranici 20 000."
+    },
+    {
+      "text": "Moderním ústavním institucím svědčí otevřenost, nikoli zapouzdřenost.",
+      "type": "citation",
+      "speaker": "Karel Haas",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/09:56",
+      "screenshot_path": "summaries/screenshots/event_2944_highlight_02.jpg",
+      "context": "Jde o subjektivní politické a filozofické hodnocení fungování institucí. Nelze fakticky ověřit, neboť jde o názor na míru transparentnosti a přístupnosti parlamentu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh Patrika Nachera na rozšíření orienťáku do dalších pater a budov sněmovny.\n- **Kdo:** Patrik Nacher (ANO).\n- **Co:** Rozšíření trasy závodu do dalších pater a budov sněmovny.\n- **Proč:** Z bezpečnostního hlediska a z pohledu ochranné služby jde o citlivý návrh, neboť sněmovna je vysoce střeženým objektem. Karel Haas v textu přiznal, že při prvním ročníku z toho vedení sněmovny „vstávaly vlasy hrůzou“.\n- **Čas:** 1/06:09",
+      "speaker": "Patrik Nacher",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/06:09",
+      "screenshot_path": "summaries/screenshots/event_2944_controversy_00.jpg",
+      "context": "Návrh na rozšíření trasy závodu do prostor s vyšším stupněm zabezpečení podléhá schválení Kanceláře Poslanecké sněmovny a Ochranné služby Policie ČR. Obavy o bezpečnost v souvislosti s pohybem osob v neveřejných částech budov jsou v kontextu zákona č. 154/1994 Sb., o utajovaných informacích, a vnitřních předpisů sněmovny legitimním faktorem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

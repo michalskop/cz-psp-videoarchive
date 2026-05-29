@@ -1,106 +1,150 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T13:08:51",
-  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "created_at": "2026-05-29T14:08:20",
+  "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2787",
-    "name": "Paliativní péče a otázky rozhodování na konci života",
+    "name": "Kulatý stůl „Paliativní péče a rozhodování na konci života“",
     "classification": "Kulatý stůl",
-    "start_date": "2026-03-30T09:29",
-    "end_date": "2026-03-30T12:19",
+    "start_date": "2026-03-30",
+    "end_date": "2026-03-30",
     "sources": [
       "final/event_2787_2026-03-30_paliativni-pece-a-otazky-rozhodovani-na-konci-zivo.md"
     ]
   },
   "transcription": {
-    "parts_transcribed": 3,
-    "parts_total": 3,
+    "parts_transcribed": 18,
+    "parts_total": 18,
     "source": "whisper",
-    "model": "český model"
+    "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání se konalo na téma paliativní péče a rozhodování na konci života. Cílem kulatého stolu bylo řešit systémové problémy v paliativní péči v ČR a diskutovat o možnostech zlepšení dostupnosti a kvality péče v závěru života.",
+    "topic": "Kulatý stůl se zaměřil na kritický stav paliativní péče v ČR, identifikaci mezer v dostupnosti a právní nejistoty v rozhodování na konci života. Cílem bylo navrhnout konkrétní kroky pro posílení systému v horizontu dvou let.\n\nJednání reflektovalo demografickou krizi a nárůst počtu seniorů, přičemž zdůraznilo potřebu přechodu od čistě institucionální péče k podpoře neformálních pečujících a komunitní ošetřovatelské péče.",
     "main_points": [
-      "- **MUDr. Eva Šrámková (Poslanecká sněmovna)**: Úvodní slovo a pozvánka na kulatý stůl, potřeba řešit systémové problémy v paliativní péči v ČR.",
-      "- **Prof. Ladislav Dušek (Ústav zdravotnických informací a statistiky ČR)**: Prezentace dat o stavu paliativní péče v ČR, 78 % lidí si přeje zemřít doma, ale méně než pětina to dokáže.",
-      "- **MUDr. Ondřej Kopecký (Česká společnost paliativní medicíny ČLS JEP)**: Definice paliativní péče a její význam, potřeba specializované paliativní péče pro nemocné v závěru života.",
-      "- **MUDr. Martina Holubová (Cesta domů z.ú.)**: Zkušenosti s poskytováním paliativní péče v ČR, potřeba zlepšení dostupnosti a kvality paliativní péče.",
-      "- **Tereza Tyburcová (Ministerstvo zdravotnictví)**: Představení národní strategie rozvoje paliativní péče do roku 2035.",
-      "- **Neidentifikovaní řečníci**: Diskuse o potřebě zlepšení péče v závěru života, význam vzdělávání a podpory neformálních péčujících."
+      "**Prof. Ladislav Dušek (ÚZIS)**: Varoval před demografickým vývojem (2,4x nárůst 80+ do roku 2040) a neudržitelností současného modelu péče.",
+      "**MUDr. Ondřej Kopecký (ČSPM)**: Upozornil na nedostatek paliatrů a nutnost rozvoje obecné paliativní péče.",
+      "**MUDr. Zuzana Elbertová (VZP)**: Představila pilotní projekt na Vysočině pro efektivnější úhradu péče.",
+      "**Doc. MUDr. Kateřina Rusinová (VFN)**: Navrhla sjednocení terminologie a legislativní ukotvení rozhodování v závěru života.",
+      "**MUDr. Katarína Vlčková (Cesta domů)**: Volala po centrálním registru dříve vyslovených přání.",
+      "**Mgr. Ivana Barátová (VFN)**: Identifikovala právní nejistoty v zástupném rozhodování.",
+      "**PhDr. David Peřan (Centrum paliativní péče)**: Zdůraznil význam klinických doporučených postupů a vzdělávání."
     ],
-    "outcome": "Jednání vedlo k diskusi o potřebě komplexního řešení problémů v paliativní péči. Byla zdůrazněna potřeba zlepšení dostupnosti a kvality péče v závěru života, vzdělávání zdravotnického personálu a podpory neformálních péčujících. Byla navržena tvorba národní strategie a odborné platformy pro paliativní péči.",
-    "notes": "Části přepisu jsou neidentifikované, což může ovlivnit přesnost informací."
+    "outcome": "Shoda na prioritách: legislativní sjednocení terminologie, plošné vzdělávání zdravotníků, podpora neformálních pečujících a digitalizace (sdílení dat v reálném čase).",
+    "notes": "Přepis obsahuje technické artefakty (opakující se fráze), které byly ignorovány."
   },
   "entities": {
     "speakers": [
       {
-        "name": "MUDr. Eva Šrámková",
+        "name": "Eva Šrámková",
         "person_id": "psp:person:7046",
         "affiliation": "Poslanecká sněmovna"
       },
       {
-        "name": "Prof. Ladislav Dušek",
+        "name": "Ladislav Dušek",
         "person_id": "psp:person:2220",
-        "affiliation": "Ústav zdravotnických informací a statistiky ČR"
+        "affiliation": "ÚZIS"
       },
       {
-        "name": "MUDr. Ondřej Kopecký",
+        "name": "Ondřej Kopecký",
         "person_id": null,
-        "affiliation": "Česká společnost paliativní medicíny ČLS JEP"
+        "affiliation": "ČSPM ČLS JEP"
       },
       {
-        "name": "MUDr. Martina Holubová",
-        "person_id": "psp:person:51",
-        "affiliation": "Cesta domů z.ú."
+        "name": "Zuzana Elbertová",
+        "person_id": null,
+        "affiliation": "VZP"
       },
       {
-        "name": "Tereza Tyburcová",
+        "name": "Kateřina Rusinová",
+        "person_id": "psp:person:5935",
+        "affiliation": "VFN"
+      },
+      {
+        "name": "Katarína Vlčková",
+        "person_id": "psp:person:5351",
+        "affiliation": "Cesta domů"
+      },
+      {
+        "name": "Ivana Barátová",
+        "person_id": null,
+        "affiliation": "VFN"
+      },
+      {
+        "name": "Renata Knorová",
+        "person_id": null,
+        "affiliation": "Svaz zdravotních pojišťoven"
+      },
+      {
+        "name": "David Peřan",
+        "person_id": null,
+        "affiliation": "Centrum paliativní péče"
+      },
+      {
+        "name": "Štěpánka Tyburcová",
         "person_id": null,
         "affiliation": "Ministerstvo zdravotnictví"
       }
     ],
-    "parties": [],
+    "parties": [
+      "ANO 2011",
+      "ODS",
+      "STAN",
+      "Piráti",
+      "KDU-ČSL",
+      "SPD",
+      "Motoristé sobě",
+      "TOP 09"
+    ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Ústav zdravotnických informací a statistiky ČR",
-      "Česká společnost paliativní medicíny ČLS JEP",
-      "Cesta domů z.ú.",
-      "Ministerstvo zdravotnictví"
+      "ÚZIS",
+      "VZP",
+      "VFN",
+      "Ministerstvo zdravotnictví",
+      "Centrum paliativní péče"
     ]
   },
   "highlights": [
     {
-      "text": "78 % lidí si přeje zemřít doma, ale méně než pětina to dokáže.",
-      "type": "citation",
-      "speaker": "Prof. Ladislav Dušek",
-      "affiliation": "Ústav zdravotnických informací a statistiky ČR",
-      "timestamp": "1/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2787_highlight_00.jpg",
-      "context": "Podle průzkumu Ústavu zdravotnických informací a statistiky ČR (ÚZIS) z roku 2020 si 78 % lidí přeje zemřít doma. Nicméně pouze 17 % pacientů umírá doma. Zbytek umírá v nemocnicích nebo jiných zdravotnických zařízeních. (Zdroj: ÚZIS, 2020)"
+      "text": "Do roku 2040 se počet občanů ve věku 80+ více než zdvojnásobí, což je nezadržitelný vývoj.",
+      "type": "paraphrase",
+      "speaker": "Ladislav Dušek",
+      "affiliation": "ÚZIS",
+      "timestamp": "3/00:01",
+      "screenshot_path": "summaries/screenshots/event_2787_highlight_00.jpg",
+      "context": "Demografické projekce ČSÚ potvrzují trend stárnutí populace. Podle aktuálních scénářů se počet osob ve věku 80+ skutečně výrazně zvýší, přičemž hranici zdvojnásobení oproti současnému stavu (cca 450 tisíc) by populace v tomto věku měla překročit v horizontu let 2035–2040."
     },
     {
-      "text": "Potřeba zlepšení dostupnosti a kvality paliativní péče.",
+      "text": "V České republice máme 200 atestovaných paliatrů, ale pro naplnění potřeb v horizontu deseti let jich budeme potřebovat 800 až 1000.",
       "type": "citation",
-      "speaker": "MUDr. Martina Holubová",
-      "affiliation": "Cesta domů z.ú.",
-      "timestamp": "1/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2787_highlight_01.jpg",
-      "context": "Potřeba zlepšení dostupnosti a kvality paliativní péče je obecný problém, který je diskutován v mnoha zemích. V ČR je paliativní péče zajišťována především v nemocnicích a specializovaných centrech, ale stále existuje nedostatek služeb v komunitním prostředí. (Zdroj: WHO, MZ ČR)"
+      "speaker": "Ondřej Kopecký",
+      "affiliation": "ČSPM ČLS JEP",
+      "timestamp": "5/10:05",
+      "context": "Počet atestovaných paliatrů v ČR se dlouhodobě pohybuje v řádech stovek, přičemž jejich nedostatek je opakovaně zmiňován v odborných analýzách České společnosti paliativní medicíny. Odhad potřeby 800–1000 lékařů vychází z modelů plánování kapacit zdravotní péče vzhledem k očekávanému nárůstu počtu pacientů v terminálním stadiu."
     },
     {
-      "text": "Představení národní strategie rozvoje paliativní péče do roku 2035.",
+      "text": "Pouze 12 % pacientů umírajících ve Všeobecné fakultní nemocnici dostává péči, která kombinuje orientaci na hodnoty pacienta, symptomovou léčbu a sdílené rozhodování.",
       "type": "citation",
-      "speaker": "Tereza Tyburcová",
-      "affiliation": "Ministerstvo zdravotnictví",
-      "timestamp": "2/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2787_highlight_02.jpg",
-      "context": "Nelze nezávisle ověřit."
+      "speaker": "Kateřina Rusinová",
+      "affiliation": "VFN",
+      "timestamp": "8/06:18",
+      "screenshot_path": "summaries/screenshots/event_2787_highlight_02.jpg",
+      "context": "Údaj vychází z interních auditů kvality péče ve VFN, které se zaměřují na standardy paliativní péče. Jde o specifické interní data nemocnice, která reflektují míru implementace komplexní paliativní péče v klinické praxi, nikoliv o celostátní statistiku."
     }
   ],
-  "controversial": [],
+  "controversial": [
+    {
+      "statement": "Prof. Ladislav Dušek zpochybnil udržitelnost současného solidárního systému zdravotnictví („švédský stůl“) vzhledem k demografickému vývoji do roku 2040.",
+      "speaker": "Ladislav Dušek",
+      "affiliation": "ÚZIS",
+      "timestamp": "15/01:00",
+      "screenshot_path": "summaries/screenshots/event_2787_controversy_00.jpg",
+      "context": "Prof. Dušek dlouhodobě upozorňuje na neudržitelnost modelu „švédského stolu“ (neomezený přístup k péči bez spoluúčasti) v kontextu stárnoucí populace. Jde o odborný názor podložený daty ÚZIS o nákladech na zdravotní péči u seniorů, nikoliv o oficiální vládní návrh reformy."
+    }
+  ],
   "quality": {
     "transcript_quality": "good",
-    "unintelligible_parts": false
+    "unintelligible_parts": true
   },
   "extras": null
 }

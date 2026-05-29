@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:39:32",
+  "created_at": "2026-05-29T14:20:44",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2763",
@@ -19,20 +19,19 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání kulatého stolu se zaměřilo na problematiku rozšíření kompetencí lékárníků v České republice a jejich přidanou hodnotu pro veřejné zdraví. Hlavním cílem bylo diskutovat o možnostech zapojení lékárníků do preventivní péče, zejména v oblastech očkování, provádění diagnostických testů a edukace pacientů.\n\nJednání reflektovalo demografický vývoj a nedostatek zdravotnického personálu. Diskuse hledala komplementární doplnění primární péče, nikoliv nahrazování praktických lékařů. Účastníci se zabývali legislativními bariérami a nutností nastavení standardů pro vzdělávání.",
+    "topic": "Jednání kulatého stolu se zaměřilo na problematiku rozšíření kompetencí lékárníků v České republice a jejich přidanou hodnotu pro systém veřejného zdraví. Hlavním cílem bylo diskutovat o možnostech zapojení lékárníků do preventivní péče, zejména v oblasti očkování, provádění diagnostických testů a edukace pacientů.\n\nJednání reflektovalo demografický vývoj a nedostatek zdravotnického personálu. Diskuse se nesla v duchu hledání komplementárního doplnění primární péče, nikoliv snahy o nahrazení praktických lékařů.",
     "main_points": [
-      "**Adam Vojtěch (Ministr zdravotnictví)** — Priorita vlády posilovat kompetence nelékařských pracovníků, příprava legislativy pro očkování v lékárnách do konce června.",
-      "**Tomáš Fiala (Senát)** — Lékárna jako místo kontaktu a prevence, podpora širšího zapojení lékárníků do primární péče.",
-      "**Roman Prymula (Profesor)** — Argumentace daty z EU, podpora očkování v lékárnách pro zdravou dospělou populaci.",
-      "**Petr Smejkal (IKEM)** — Podpora POCT testů pro detekci infekčních onemocnění, lékárník jako klíčový hráč v prevenci.",
-      "**Tomáš Boráň (SÚKL)** — Farmaceuti jako rovnocenní partneři, důraz na bezpečnost a oddělené prostory v lékárnách.",
-      "**Jedená Štorová (Magistra)** — Prezentace pilotních projektů, apel na elektronizaci sdílení dat.",
-      "**Milan Kubek (Prezident ČLK)** — Kritika jednostrannosti diskuse, varování před „rychlokurzy“ a komercionalizací očkování.",
-      "**Filip Škarda (Česká lékárnická komora)** — Ekonomický potenciál lékárníků při kontrole lékových interakcí (úspora 55 mil. Kč).",
-      "**Klaudie Ondrušová (Společnost všeobecného lékařství)** — Varování před „overdiagnózou“ při měření tlaku v lékárnách."
+      "**Adam Vojtěch (Ministerstvo zdravotnictví)**: Prioritou je posílení kompetencí nelékařských pracovníků, připravuje se legislativa pro očkování v lékárnách.",
+      "**Tomáš Fiala (Senát)**: Lékárna by měla být místem kontaktu a prevence, nikoliv jen distribučním místem.",
+      "**Roman Prymula (epidemiolog)**: Očkování v lékárnách je v zahraničí běžné a bezpečné, jde o doplňkovou aktivitu.",
+      "**Petr Smejkal (IKEM)**: Podpora POCT testů v lékárnách pro včasný záchyt infekčních onemocnění.",
+      "**Tomáš Boráň (SÚKL)**: Farmaceuti jsou rovnocennými partnery, nutné je však zajistit důstojné a oddělené prostory pro výkony.",
+      "**Jedená Štorová (lékárnice)**: Infrastruktura je připravena, chybí legislativní ukotvení a úhrady výkonů.",
+      "**Milan Kubek (ČLK)**: Kritika jednostrannosti diskuse, varování před komercionalizací očkování a důraz na roli praktických lékařů.",
+      "**Dalibor Veselý (Mladí lékaři)**: Varování před overdiagnózou a přetížením systému, podpora hrazených lékových konzultací."
     ],
-    "outcome": "Jednání potvrdilo dominující postoj ministerstva zdravotnictví a lékárnických organizací k nutnosti legislativního posunu směrem k širším kompetencím lékárníků. Panuje shoda na potřebě zvýšit proočkovanost, avšak přetrvává napětí mezi lékárníky a lékařskou komorou ohledně bezpečnosti a rozsahu kompetencí.",
-    "notes": "Přepis obsahuje občasné výpadky diakritiky a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+    "outcome": "Nebylo přijato formální rozhodnutí, ale panoval konsenzus o nutnosti zvýšit proočkovanost a využít potenciál lékárníků v prevenci. Podmínkou je kvalitní vzdělávání, bezpečnost a jasná legislativní pravidla.",
+    "notes": "Přepis obsahuje občasné výpadky textu a opakující se fráze (halucinace modelu), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
@@ -72,19 +71,19 @@
         "affiliation": "Česká lékařská komora"
       },
       {
-        "name": "Filip Škarda",
-        "person_id": null,
+        "name": "Martin Kopecký",
+        "person_id": "psp:person:7021",
         "affiliation": "Česká lékárnická komora"
       },
       {
-        "name": "Klaudie Ondrušová",
+        "name": "Dalibor Veselý",
         "person_id": null,
-        "affiliation": "Společnost všeobecného lékařství"
+        "affiliation": "Mladí lékaři"
       }
     ],
     "parties": [
-      "Česká lékařská komora",
-      "Česká lékárnická komora"
+      "Česká lékárnická komora",
+      "Česká lékařská komora"
     ],
     "institutions": [
       "Ministerstvo zdravotnictví",
@@ -95,49 +94,49 @@
   },
   "highlights": [
     {
-      "text": "V České republice je přes 2700 lékáren a je tam zdravotník, vysokoškolský vzdělaný expert, který je pro klienta často prvním kontaktem se zdravotnickým systémem.",
+      "text": "V České republice je přes 2700 lékáren a máme tam vysokoškolsky vzdělaného experta, který je často prvním kontaktem pacienta se zdravotním systémem.",
       "type": "paraphrase",
       "speaker": "Jedená Štorová",
       "affiliation": null,
       "timestamp": "7/00:55",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_highlight_00.jpg",
-      "context": "Dle dat Státního ústavu pro kontrolu léčiv (SÚKL) se počet lékáren v ČR dlouhodobě pohybuje kolem 2 700. Farmaceutické vzdělání v ČR je dle zákona č. 95/2004 Sb. vysokoškolské a lékárníci jsou skutečně zákonem definováni jako zdravotničtí pracovníci."
+      "screenshot_path": "summaries/screenshots/event_2763_highlight_00.jpg",
+      "context": "Dle dat Státního ústavu pro kontrolu léčiv (SÚKL) se počet lékáren v ČR dlouhodobě pohybuje kolem 2 700 až 2 800. Role lékárníka jako vysokoškolsky vzdělaného odborníka (magisterské studium farmacie) je definována zákonem č. 95/2004 Sb."
     },
     {
-      "text": "Při přepočtu na průměrnou cenu receptu se výdej lékárníků nechá ušetřit 55 milionů korun jen na zachycených duplicitách.",
-      "type": "citation",
+      "text": "Při přepočtu na průměrnou cenu receptu se výdejem lékárníků nechá ušetřit 55 milionů korun jen díky zachyceným duplicitám v lécích.",
+      "type": "paraphrase",
       "speaker": "Filip Škarda",
       "affiliation": "Česká lékárnická komora",
       "timestamp": "9/05:43",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_highlight_01.jpg",
-      "context": "Nelze nezávisle ověřit. Částka 55 milionů korun je odhadem České lékárnické komory založeným na interních analýzách zachycených lékových duplicit, oficiální celostátní statistika úspor z tohoto konkrétního titulu není veřejně dostupná."
+      "screenshot_path": "summaries/screenshots/event_2763_highlight_01.jpg",
+      "context": "Tvrzení vychází z odhadů České lékárnické komory založených na analýze lékových interakcí a duplicit v systému eRecept. Přesnou metodiku výpočtu úspory 55 milionů korun nelze nezávisle ověřit bez přístupu k interním datům o konkrétních intervencích lékárníků."
     },
     {
-      "text": "My nechceme brát kompetence lékařům, ale chceme, aby lékárník zkontroloval mým pacientům léky, které užívají, a aby mi o tom poslal zprávu.",
-      "type": "citation",
-      "speaker": "Milan Kubek",
-      "affiliation": "Česká lékařská komora",
-      "timestamp": "8/06:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_highlight_02.jpg",
-      "context": "Jde o vyjádření postoje k tzv. lékovému záznamu a kompetencím lékárníků. V současné legislativě (zákon č. 378/2007 Sb., o léčivech) mají lékárníci přístup do lékového záznamu pacienta, ale systém zpětného hlášení (konzultační činnosti) lékaři není plošně standardizován ani hrazen z veřejného zdravotního pojištění."
+      "text": "My nechceme brát kompetence lékařům, chceme jen pomoci zvládat problémy, před kterými zdravotnictví stojí, jako je demografie a nízká proočkovanost.",
+      "type": "paraphrase",
+      "speaker": "Jedená Štorová",
+      "affiliation": null,
+      "timestamp": "12/05:29",
+      "screenshot_path": "summaries/screenshots/event_2763_highlight_02.jpg",
+      "context": "Demografický vývoj (stárnutí populace) a potřeba zvyšování proočkovanosti jsou dlouhodobě uznávané výzvy českého zdravotnictví potvrzované daty ÚZIS a Ministerstva zdravotnictví ČR. Rozsah kompetencí lékárníků v oblasti očkování je předmětem probíhající legislativní debaty."
     }
   ],
   "controversial": [
     {
-      "statement": "Milan Kubek (ČLK) kritizoval, že konference je „prezentací jednoho názoru“ a postrádá vyváženost.",
+      "statement": "**Milan Kubek (ČLK)** kritizoval, že konference je jednostranná prezentace názorů bez oponentury, což je politicky citlivé kvůli napětí mezi lékaři a lékárníky.",
       "speaker": "Milan Kubek",
       "affiliation": "Česká lékařská komora",
       "timestamp": "8/04:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_controversy_00.jpg",
-      "context": "Jde o subjektivní hodnotící soud účastníka konference. Objektivní vyváženost akce nelze faktograficky posoudit bez znalosti seznamu všech pozvaných řečníků a jejich odborného zaměření."
+      "screenshot_path": "summaries/screenshots/event_2763_controversy_00.jpg",
+      "context": "Napětí mezi Českou lékařskou komorou (ČLK) a lékárníky ohledně rozšiřování kompetencí (např. očkování, diagnostické úkony) je dlouhodobým politickým a profesním tématem. Zda byla konference jednostranná, je subjektivní hodnocení, které nelze objektivně verifikovat."
     },
     {
-      "statement": "Milan Kubek varoval před „rychlokurzy“, které mají z lékárníků dělat „skoro lékaře“.",
-      "speaker": "Milan Kubek",
-      "affiliation": "Česká lékařská komora",
-      "timestamp": "8/08:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2763_controversy_01.jpg",
-      "context": "Jde o vyjádření obavy z rozšiřování kompetencí lékárníků (tzv. preskripce či diagnostika). V ČR aktuálně neexistují žádné „rychlokurzy“, které by lékárníkům udělovaly lékařskou licenci; jakékoli změny v kompetencích by vyžadovaly legislativní úpravu vzdělávacích standardů."
+      "statement": "**Dalibor Veselý (Mladí lékaři)** varoval před měřením tlaku v lékárnách, které podle něj vede k \"overdiagnóze\" a zbytečnému zatížení praktiků.",
+      "speaker": "Dalibor Veselý",
+      "affiliation": "Mladí lékaři",
+      "timestamp": "11/06:06",
+      "screenshot_path": "summaries/screenshots/event_2763_controversy_01.jpg",
+      "context": "Obava z „overdiagnózy“ (nadměrné diagnostiky) je legitimním odborným argumentem v medicíně, který se týká rizika falešně pozitivních výsledků a následného tlaku na primární péči. Jde o názorovou pozici profesní organizace, nikoliv o statisticky doložený fakt."
     }
   ],
   "quality": {

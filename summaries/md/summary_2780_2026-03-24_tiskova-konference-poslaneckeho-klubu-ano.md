@@ -1,62 +1,56 @@
-Toto je strukturované shrnutí tiskové konference poslaneckého klubu hnutí ANO ze dne 24. března 2026.
-
 ### 1. Téma a účel jednání
-Tisková konference byla svolána po jednání poslaneckého klubu hnutí ANO za účelem představení priorit pro nadcházející týden zasedání Poslanecké sněmovny. Hlavním cílem bylo informovat o legislativních návrzích, které hnutí ANO vnímá jako nápravu kroků předchozí vlády, a to zejména v oblastech sociální politiky, podpory seniorů a živnostníků.
+Tisková konference poslaneckého klubu hnutí ANO se konala dne 24. března 2026 před zahájením dalšího zasedacího týdne Poslanecké sněmovny. Cílem konference bylo představit priority hnutí pro nadcházející schůzi, zejména v oblasti legislativních změn týkajících se sociální politiky, zdravotnictví a penzijního spoření.
 
-Klíčovými tématy byla novela trestního zákoníku (znovuzavedení trestnosti neplacení výživného), podpora seniorů v rámci penzijního spoření, úprava odvodů pro OSVČ a stabilizace zdravotních pojišťoven.
+Představitelé hnutí ANO prezentovali své kroky jako nápravu opatření předchozí „Fialovy vlády“, kterou kritizovali za nekoncepčnost a negativní dopady na seniory, samoživitele a živnostníky. Konference se zaměřila na konkrétní poslanecké návrhy, které mají za cíl zmírnit finanční zátěž občanů a stabilizovat systém veřejného zdravotního pojištění.
 
 ### 2. Hlavní body
 *   **Taťána Malá (ANO):**
-    *   Představila novelu trestního zákoníku, která vrací trestnost neplacení výživného.
-    *   Cílem je vyslat signál o odpovědnosti rodičů, nikoliv primárně věznění; preferuje alternativní tresty (např. domácí vězení).
+    *   Ohlásila znovuzavedení trestnosti neplacení výživného jako prioritu. Cílem je vyslat signál o odpovědnosti rodičů, nikoliv primárně věznění.
+    *   Navrhuje využívat alternativní tresty, zejména domácí vězení, které umožní dlužníkům pracovat a plnit vyživovací povinnost.
 *   **Alena Schillerová (ANO):**
-    *   Představila návrh na pomoc seniorům, kterým byly odebrány státní příspěvky ve 3. penzijním pilíři. Navrhuje zrychlené schválení v prvním čtení.
-    *   Náklady na kompenzace odhaduje na 60 milionů Kč.
-    *   Prosazuje snížení vyměřovacího základu pro sociální pojištění OSVČ ze 40 % na 35 % průměrné mzdy (snížení záloh z 5 720 Kč na 5 005 Kč).
-    *   Komentovala ceny pohonných hmot – odmítá unáhlené zásahy do spotřební daně a preferuje systémový monitoring marží.
+    *   Představila novelu zákona o doplňkovém penzijním spoření, která má pomoci seniorům, jimž byly odebrány státní příspěvky.
+    *   Navrhuje zrychlené schválení v prvním čtení (tzv. devadesátka). Náklady státu odhaduje na 60 milionů Kč.
+    *   Prosazuje snížení vyměřovacího základu pro odvody OSVČ ze 40 % na 35 % průměrné mzdy, což má živnostníkům ušetřit 8 580 Kč ročně.
+    *   Kritizovala vládní daňovou politiku a odmítla unáhlené zásahy do spotřební daně na naftu v reakci na denní výkyvy burzy.
 *   **Patrik Nacher (ANO):**
-    *   Potvrdil, že opozice bude vetovat zrychlené projednání (tzv. devadesátku) u návrhu na pomoc seniorům v penzijním spoření.
-    *   Oznámil záměr zrušit koncesionářské poplatky a nahradit je financováním ze státního rozpočtu. V mezifázi plánuje poslanecký návrh na osvobození zranitelných skupin (senioři, lidé se zdravotním postižením).
+    *   Potvrdil, že opozice zablokuje zrychlené projednání (devadesátku) penzijní novely, protože chce o tématu vést širší debatu.
+    *   K tématu koncesionářských poplatků uvedl, že hnutí ANO stále prosazuje jejich zrušení a financování médií ze státního rozpočtu.
+    *   V mezifázi připravuje poslanecký návrh na osvobození zranitelných skupin (senioři, lidé se zdravotním postižením) od poplatků.
 *   **Adam Vojtěch (ANO):**
-    *   Představil návrh na přerozdělení 8 miliard Kč z rezerv VZP mezi menší zdravotní pojišťovny pro stabilizaci systému.
-    *   Odmítl pozměňovací návrh poslance Toma Philipa, který by podle něj neřešil stabilitu menších pojišťoven.
+    *   Představil návrh na přerozdělení 8 miliard Kč z rezerv VZP mezi ostatní zdravotní pojišťovny pro stabilizaci systému v letošním roce.
+    *   Odmítl pozměňovací návrh poslance Toma Philipa, který by podle něj problém menších pojišťoven neřešil.
 *   **Aleš Juchelka (ANO):**
-    *   Informoval o dohodě se Senátem na zamítnutí nadbytečného paralelního tisku k „superdávce“, jelikož přechodné období již bylo legislativně ošetřeno.
+    *   Informoval o dohodě se Senátem na zamítnutí nadbytečného tiskového návrhu týkajícího se přechodného období pro tzv. superdávku, neboť legislativní proces již byl vyřešen jiným tiskem.
 
 ### 3. Výsledek / závěr
-Jednání se neslo v duchu přípravy na nadcházející schůzi Sněmovny. Hnutí ANO deklarovalo své priority, přičemž u některých bodů (penzijní spoření) již předem avizovalo střet s vládní koalicí (vetování zrychleného projednání). U tématu koncesionářských poplatků a stabilizace zdravotních pojišťoven hnutí pokračuje v legislativní přípravě vlastních návrhů.
+Jednání potvrdilo konfrontační postoj hnutí ANO vůči vládní koalici. Hnutí se soustředí na prosazování poslaneckých návrhů, které mají přímý dopad na peněženky občanů (OSVČ, senioři, samoživitelé). V otázce penzijního spoření se očekává zdlouhavý legislativní proces, neboť opozice avizovala zablokování zrychleného schvalování. V oblasti zdravotnictví a sociálních dávek panuje snaha o stabilizaci systému skrze přerozdělování rezerv a technické úpravy legislativy.
 
 ### 4. Poznámky
-Přepis je srozumitelný, neobsahuje významné výpadky, které by bránily pochopení obsahu.
+Přepis obsahuje drobné gramatické chyby a občasné opakování slov, které však nemají vliv na pochopení obsahu. Části záznamu jsou srozumitelné a logicky navazují.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh: Znovuzavedení trestnosti neplacení výživného**
-    *   **Kdo:** Taťána Malá (ANO)
-    *   **Co:** Návrh na znovuzavedení trestnosti neplacení výživného, které bylo předchozí vládou dekriminalizováno.
-    *   **Proč:** Politicky citlivé téma, které rozděluje společnost na zastánce přísné represe a zastánce alternativních řešení (např. exekuce, nikoliv trestní právo).
-    *   **Čas:** 1/01:15
-
-*   **Kontroverzní výrok: Koncesionářské poplatky**
+*   **Kontroverzní návrh: Zrušení koncesionářských poplatků**
     *   **Kdo:** Patrik Nacher (ANO)
-    *   **Co:** Záměr zrušit koncesionářské poplatky a nahradit je přímým financováním ze státního rozpočtu.
-    *   **Proč:** Vyvolává obavy z ohrožení nezávislosti veřejnoprávních médií na státní moci.
+    *   **Co:** Návrh na nahrazení koncesionářských poplatků přímým financováním ze státního rozpočtu a v mezifázi osvobození vybraných skupin od poplatků.
+    *   **Proč:** Politicky citlivé téma, které vyvolává obavy z ohrožení nezávislosti veřejnoprávních médií a jejich podřízení politické moci.
     *   **Čas:** 1/12:04
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Cílem této novely určitě není zavírat neplatící rodiče do vězení, cílem je vyslat tu jasnou zprávu, že je normální se o své děti starat.“ (Parafráze)
-    *   **Řečník:** Taťána Malá (ANO) | **Čas:** 1/01:45
-*   **Text:** „Stát, který postihuje finanční šmejdy, by se sám jako finanční šmejd neměl chovat.“ (Citace)
-    *   **Řečník:** Alena Schillerová (ANO) | **Čas:** 1/05:30
-*   **Text:** „OSVČ tak každý měsíc ušetří 715 Kč, za celý rok 8 580 Kč.“ (Citace)
-    *   **Řečník:** Alena Schillerová (ANO) | **Čas:** 1/06:30
-*   **Text:** „Když se podíváte na seniory nad 75 let, tak ti tvoří asi 9 % populace, ale na poplatcích se podílí 22,5 %.“ (Citace)
-    *   **Řečník:** Patrik Nacher (ANO) | **Čas:** 1/14:02
+*   **Text:** „Stát, který postihuje finanční šmejdy, by se sám jako finanční šmejd neměl chovat.“ (citace)
+    *   **Řečník:** Alena Schillerová (ANO)
+    *   **Čas:** 1/04:00
+*   **Text:** „OSVČ tak každý měsíc ušetří 715 Kč, za celý rok 8 580 Kč.“ (citace)
+    *   **Řečník:** Alena Schillerová (ANO)
+    *   **Čas:** 1/06:02
+*   **Text:** „Když se podíváte na seniory nad 75 let, tak ti tvoří asi 9 % populace, ale na poplatcích se podílí 22,5 %.“ (citace)
+    *   **Řečník:** Patrik Nacher (ANO)
+    *   **Čas:** 1/14:02
 
 ---
 
@@ -78,20 +72,20 @@ Přepis je srozumitelný, neobsahuje významné výpadky, které by bránily poc
   "transcription": {
     "parts_transcribed": 1,
     "parts_total": 1,
-    "source": "titulky",
+    "source": "titulky (VTT)",
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána po jednání poslaneckého klubu hnutí ANO za účelem představení priorit pro nadcházející týden zasedání Poslanecké sněmovny. Hlavním cílem bylo informovat o legislativních návrzích, které hnutí ANO vnímá jako nápravu kroků předchozí vlády, a to zejména v oblastech sociální politiky, podpory seniorů a živnostníků.\n\nKlíčovými tématy byla novela trestního zákoníku (znovuzavedení trestnosti neplacení výživného), podpora seniorů v rámci penzijního spoření, úprava odvodů pro OSVČ a stabilizace zdravotních pojišťoven.",
+    "topic": "Tisková konference poslaneckého klubu hnutí ANO se konala dne 24. března 2026 před zahájením dalšího zasedacího týdne Poslanecké sněmovny. Cílem konference bylo představit priority hnutí pro nadcházející schůzi, zejména v oblasti legislativních změn týkajících se sociální politiky, zdravotnictví a penzijního spoření.\n\nPředstavitelé hnutí ANO prezentovali své kroky jako nápravu opatření předchozí „Fialovy vlády“, kterou kritizovali za nekoncepčnost a negativní dopady na seniory, samoživitele a živnostníky. Konference se zaměřila na konkrétní poslanecké návrhy, které mají za cíl zmírnit finanční zátěž občanů a stabilizovat systém veřejného zdravotního pojištění.",
     "main_points": [
-      "**Taťána Malá (ANO)** — Představila novelu trestního zákoníku, která vrací trestnost neplacení výživného. Cílem je vyslat signál o odpovědnosti rodičů, nikoliv primárně věznění; preferuje alternativní tresty (např. domácí vězení).",
-      "**Alena Schillerová (ANO)** — Představila návrh na pomoc seniorům, kterým byly odebrány státní příspěvky ve 3. penzijním pilíři. Navrhuje zrychlené schválení v prvním čtení. Prosazuje snížení vyměřovacího základu pro sociální pojištění OSVČ ze 40 % na 35 % průměrné mzdy. Odmítá unáhlené zásahy do spotřební daně u pohonných hmot.",
-      "**Patrik Nacher (ANO)** — Potvrdil, že opozice bude vetovat zrychlené projednání u návrhu na pomoc seniorům. Oznámil záměr zrušit koncesionářské poplatky a nahradit je financováním ze státního rozpočtu.",
-      "**Adam Vojtěch (ANO)** — Představil návrh na přerozdělení 8 miliard Kč z rezerv VZP mezi menší zdravotní pojišťovny pro stabilizaci systému.",
-      "**Aleš Juchelka (ANO)** — Informoval o dohodě se Senátem na zamítnutí nadbytečného paralelního tisku k „superdávce“."
+      "**Taťána Malá (ANO)** — Ohlásila znovuzavedení trestnosti neplacení výživného jako prioritu. Navrhuje využívat alternativní tresty, zejména domácí vězení.",
+      "**Alena Schillerová (ANO)** — Představila novelu zákona o doplňkovém penzijním spoření (pomoc seniorům) a návrh na snížení vyměřovacího základu pro odvody OSVČ na 35 %. Kritizovala vládní daňovou politiku.",
+      "**Patrik Nacher (ANO)** — Potvrdil, že opozice zablokuje zrychlené projednání penzijní novely. K tématu koncesionářských poplatků uvedl, že hnutí prosazuje jejich zrušení a financování ze státního rozpočtu.",
+      "**Adam Vojtěch (ANO)** — Představil návrh na přerozdělení 8 miliard Kč z rezerv VZP mezi ostatní zdravotní pojišťovny pro stabilizaci systému.",
+      "**Aleš Juchelka (ANO)** — Informoval o dohodě se Senátem na zamítnutí nadbytečného tiskového návrhu týkajícího se přechodného období pro tzv. superdávku."
     ],
-    "outcome": "Jednání se neslo v duchu přípravy na nadcházející schůzi Sněmovny. Hnutí ANO deklarovalo své priority, přičemž u některých bodů (penzijní spoření) již předem avizovalo střet s vládní koalicí (vetování zrychleného projednání). U tématu koncesionářských poplatků a stabilizace zdravotních pojišťoven hnutí pokračuje v legislativní přípravě vlastních návrhů.",
-    "notes": null
+    "outcome": "Jednání potvrdilo konfrontační postoj hnutí ANO vůči vládní koalici. Hnutí se soustředí na prosazování poslaneckých návrhů, které mají přímý dopad na peněženky občanů. V otázce penzijního spoření se očekává zdlouhavý legislativní proces, neboť opozice avizovala zablokování zrychleného schvalování. V oblasti zdravotnictví a sociálních dávek panuje snaha o stabilizaci systému skrze přerozdělování rezerv a technické úpravy legislativy.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a občasné opakování slov, které však nemají vliv na pochopení obsahu. Části záznamu jsou srozumitelné a logicky navazují."
   },
   "entities": {
     "speakers": [
@@ -102,29 +96,22 @@ Přepis je srozumitelný, neobsahuje významné výpadky, které by bránily poc
       {"name": "Aleš Juchelka", "person_id": null, "affiliation": "ANO"}
     ],
     "parties": ["ANO"],
-    "institutions": ["Poslanecká sněmovna", "Senát", "VZP", "Úřad práce"]
+    "institutions": ["Poslanecká sněmovna", "VZP", "Ústavní soud", "Senát"]
   },
   "highlights": [
-    {
-      "text": "Cílem této novely určitě není zavírat neplatící rodiče do vězení, cílem je vyslat tu jasnou zprávu, že je normální se o své děti starat.",
-      "type": "paraphrase",
-      "speaker": "Taťána Malá",
-      "affiliation": "ANO",
-      "timestamp": "1/01:45"
-    },
     {
       "text": "Stát, který postihuje finanční šmejdy, by se sám jako finanční šmejd neměl chovat.",
       "type": "citation",
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
-      "timestamp": "1/05:30"
+      "timestamp": "1/04:00"
     },
     {
       "text": "OSVČ tak každý měsíc ušetří 715 Kč, za celý rok 8 580 Kč.",
       "type": "citation",
       "speaker": "Alena Schillerová",
       "affiliation": "ANO",
-      "timestamp": "1/06:30"
+      "timestamp": "1/06:02"
     },
     {
       "text": "Když se podíváte na seniory nad 75 let, tak ti tvoří asi 9 % populace, ale na poplatcích se podílí 22,5 %.",
@@ -136,13 +123,7 @@ Přepis je srozumitelný, neobsahuje významné výpadky, které by bránily poc
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Taťána Malá (ANO)\n**Co:** Návrh na znovuzavedení trestnosti neplacení výživného, které bylo předchozí vládou dekriminalizováno.\n**Proč:** Politicky citlivé téma, které rozděluje společnost na zastánce přísné represe a zastánce alternativních řešení.\n**Čas:** 1/01:15",
-      "speaker": "Taťána Malá",
-      "affiliation": "ANO",
-      "timestamp": "1/01:15"
-    },
-    {
-      "statement": "**Kdo:** Patrik Nacher (ANO)\n**Co:** Záměr zrušit koncesionářské poplatky a nahradit je přímým financováním ze státního rozpočtu.\n**Proč:** Vyvolává obavy z ohrožení nezávislosti veřejnoprávních médií na státní moci.\n**Čas:** 1/12:04",
+      "statement": "**Kdo:** Patrik Nacher (ANO)\n**Co:** Návrh na nahrazení koncesionářských poplatků přímým financováním ze státního rozpočtu a v mezifázi osvobození vybraných skupin od poplatků.\n**Proč:** Politicky citlivé téma, které vyvolává obavy z ohrožení nezávislosti veřejnoprávních médií a jejich podřízení politické moci.\n**Čas:** 1/12:04",
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "1/12:04"

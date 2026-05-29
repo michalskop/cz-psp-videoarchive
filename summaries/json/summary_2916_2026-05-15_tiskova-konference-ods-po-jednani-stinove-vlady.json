@@ -1,0 +1,132 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:05:54",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2916",
+    "name": "Tisková konference ODS po jednání stínové vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-15T11:15",
+    "end_date": "2026-05-15T11:35",
+    "sources": [
+      "final/event_2916_2026-05-15_tiskova-konference-ods-po-jednani-stinove-vlady.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po jednání stínové vlády za účasti vedení strany a europoslanců. Hlavním cílem bylo představit opoziční postoj k aktuálním krokům vlády Andreje Babiše, které ODS označuje za „dluhový Armagedon“, a definovat priority strany v oblasti evropské politiky, digitalizace a podpory českého průmyslu.\n\nDiskuse se zaměřila na kritiku novely zákona o rozpočtových pravidlech, návrh EET 2.0, implementaci umělé inteligence a boj proti nadměrné evropské regulaci, která podle řečníků ohrožuje konkurenceschopnost českého průmyslu.",
+    "main_points": [
+      "**Martin Kupka (předseda ODS, stínový premiér)** — Kritika vládního návrhu novely zákona o rozpočtové odpovědnosti; varování před zvýšením výdajů o 240 mld. Kč a schodku o 150–200 mld. Kč. Hrozba ústavní stížností. Návrhy k EET 2.0: osvobození plátců paušální daně a vyjmutí elektronických plateb. Priority v EU: zastropování cen emisních povolenek, změna systému EU ETS, zrušení zákazu spalovacích motorů po roce 2035.",
+      "**Jiří Havránek (místopředseda poslaneckého klubu ODS)** — Kritika zahrnutí virtuálních aktiv do EET. Důraz na implementaci umělé inteligence (AI) ve státní správě (inspirace estonským e-health, rozvoj portálových řešení).",
+      "**Alexandr Vondra (europoslanec)** — Kritika Evropské komise za „nesmyslné regulace“ (např. stupňovitost piv). Boj za technologickou neutralitu v automobilovém průmyslu. Požadavek na zrovnoprávnění jádra s obnovitelnými zdroji v rámci taxonomie EU; výzva k tlaku na Rakousko, aby stáhlo žalobu proti jaderné energetice.",
+      "**Ondřej Krutílek (europoslanec)** — Varování před snahou Evropské komise omezovat VPN (virtuální privátní sítě) pod záminkou ochrany dětí na internetu. Kritika „kobercových náletů“ v regulaci digitálního prostoru namísto vymáhání stávající legislativy.",
+      "**Veronika Vrecionová (předsedkyně europoslaneckého klubu)** — Kritika ministra zemědělství za vyjednávání dotací ve prospěch velkých firem (včetně firem Andreje Babiše). Upozornění na nevyřešený konflikt zájmů Andreje Babiše a riziko, že peníze z EU nebudou proplaceny, což zatíží české daňové poplatníky."
+    ],
+    "outcome": "Jednání stínové vlády vyústilo v jasné usnesení vyzývající vládu Andreje Babiše k zastavení „destruktivních kroků“ v rozpočtové politice. ODS se připravuje na parlamentní bitvu o rozpočtová pravidla a EET, přičemž hodlá využít ústavní stížnost jako krajní prostředek. V evropské agendě se strana profiluje jako síla prosazující reformy EU směrem k menší byrokracii a větší podpoře průmyslové konkurenceschopnosti.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Alexandr Vondra",
+        "person_id": "psp:person:5524",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Veronika Vrecionová",
+        "person_id": "psp:person:6052",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Ondřej Krutílek",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPOLU"
+    ],
+    "institutions": [
+      "Evropský parlament",
+      "Evropská komise",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud projdou všechny pozměňovací návrhy a přílepky, které k tomu návrhu původně ryze implementačnímu připojila Alena Schillerová, budeme s ostatními opozičními poslaneckými kluby podávat ústavní stížnost.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:24",
+      "screenshot_path": "summaries/screenshots/event_2916_highlight_00.jpg",
+      "context": "Podání ústavní stížnosti skupinou poslanců je legitimní nástroj dle čl. 87 odst. 1 písm. a) Ústavy ČR. Zda jsou pozměňovací návrhy v rozporu s ústavním pořádkem či legislativním procesem, je předmětem právního výkladu, nikoliv objektivní faktické danosti."
+    },
+    {
+      "text": "Evropa v té konkurenci s Amerikou, s Čínou, Indií, bojuje doslova o přežití, takže my musíme tady zvýšit to úsilí, abychom posílili konkurenceschopnost Evropské unie.",
+      "type": "citation",
+      "speaker": "Alexandr Vondra",
+      "affiliation": "ODS",
+      "timestamp": "1/08:34",
+      "screenshot_path": "summaries/screenshots/event_2916_highlight_01.jpg",
+      "context": "Tvrzení o konkurenceschopnosti EU je politickým názorem založeným na interpretaci ekonomických dat (např. zprávy Eurostatu či OECD). Srovnání růstu HDP a technologického náskoku USA a Číny oproti EU je dlouhodobě diskutovaným tématem v evropských institucích (např. Draghiho zpráva o konkurenceschopnosti)."
+    },
+    {
+      "text": "My chceme nejenom spořit na straně státu pomocí umělé inteligence, ale hlavně zjednodušovat fungování občanů.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/05:10",
+      "screenshot_path": "summaries/screenshots/event_2916_highlight_02.jpg",
+      "context": "Jde o politický příslib a vizi digitalizace státní správy. Efektivita využití umělé inteligence ve státní správě je v současnosti ve fázi pilotních projektů a strategií (např. Digitální Česko), nelze tedy zatím objektivně vyčíslit konkrétní úspory."
+    },
+    {
+      "text": "Pokud Evropská komise řekne ne, konflikt zájmů není vyřešen, tak se stane to, že tyto peníze do České republiky nepošle a tyto peníze bude platit český daňový poplatník.",
+      "type": "citation",
+      "speaker": "Veronika Vrecionová",
+      "affiliation": "ODS",
+      "timestamp": "1/18:52",
+      "screenshot_path": "summaries/screenshots/event_2916_highlight_03.jpg",
+      "context": "Pravidla pro čerpání dotací z fondů EU jsou definována nařízením Evropského parlamentu a Rady (EU) 2018/1046. Pokud jsou dotace shledány jako neoprávněné kvůli střetu zájmů, EU je skutečně neproplatí, což znamená, že náklady musí pokrýt národní rozpočet."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Ústavní stížnost na vládní rozpočtová pravidla**\n* **Kdo:** Martin Kupka (ODS)\n* **Co:** ODS podá ústavní stížnost, pokud projdou vládní pozměňovací návrhy k zákonu o rozpočtových pravidlech.\n* **Proč:** Jde o zásadní politický střet o fiskální odpovědnost státu, kde opozice obviňuje vládu z rozvratu veřejných financí.\n* **Čas:** 1/01:25",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:25",
+      "screenshot_path": "summaries/screenshots/event_2916_controversy_00.jpg",
+      "context": "Ústavní stížnost je politický nástroj opozice. Zda je návrh v souladu s ústavou, posuzuje výhradně Ústavní soud ČR na základě podané žaloby, nikoliv na základě politické deklarace."
+    },
+    {
+      "statement": "**Kontroverzní výrok: Konflikt zájmů Andreje Babiše**\n* **Kdo:** Veronika Vrecionová (ODS)\n* **Co:** Obvinění vlády, že se snaží „se zavřenýma očima“ přejít konflikt zájmů Andreje Babiše, což může vést k neproplacení dotací z EU.\n* **Proč:** Politicky vysoce citlivé téma týkající se střetu zájmů premiéra a čerpání evropských fondů.\n* **Čas:** 1/17:35",
+      "speaker": "Veronika Vrecionová",
+      "affiliation": "ODS",
+      "timestamp": "1/17:35",
+      "screenshot_path": "summaries/screenshots/event_2916_controversy_01.jpg",
+      "context": "Otázka střetu zájmů Andreje Babiše byla předmětem auditů Evropské komise, které potvrdily existenci střetu zájmů v souvislosti s koncernem Agrofert. Evropská komise v minulosti skutečně zastavila proplácení některých dotací, které musela následně hradit ČR ze státního rozpočtu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

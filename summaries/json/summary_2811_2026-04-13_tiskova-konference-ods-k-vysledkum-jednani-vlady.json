@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:00:11",
+  "created_at": "2026-05-29T14:41:29",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2811",
@@ -19,12 +19,12 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem reakce představitelů ODS na aktuální výsledky maďarských voleb a na kroky vlády Andreje Babiše, zejména v oblasti ekonomické politiky (regulace cen pohonných hmot) a zahraniční politiky.\n\nCílem vystoupení bylo kritizovat vládní zásahy do tržního prostředí, které ODS označuje za „socialistické centrální plánování“, a odsoudit přístup vlády k zahraniční reprezentaci a komunikaci s prezidentem. Zároveň představitelé ODS komentovali politickou změnu v Maďarsku jako příležitost pro posílení racionálního hlasu v EU.",
+    "topic": "Tisková konference byla svolána za účelem vyjádření postoje ODS k výsledkům jednání vlády Andreje Babiše a k aktuálnímu politickému dění. Hlavními tématy byly výsledky voleb v Maďarsku, kritika vládního řešení cen pohonných hmot, napjaté vztahy mezi vládou a prezidentem a útoky na novináře.\n\nCílem konference bylo prezentovat ODS jako opoziční sílu, která odmítá vládní zásahy do tržního prostředí (zastropování cen) a kritizuje zahraničně-politickou izolaci a nekompetentnost současného kabinetu.",
     "main_points": [
-      "**Martin Kupka (ODS)** — Pogratuloval Péteru Magyarovi k vítězství v maďarských volbách; kritizoval vládní zastropování cen pohonných hmot jako „cestu špatným směrem“; navrhuje úpravu spotřební daně; odsoudil aroganci premiéra Babiše vůči prezidentovi a útoky na novináře.",
-      "**Jan Lipavský (ODS)** — Uvedl, že Orbánův odklon od demokratických standardů mu ve volbách uškodil; vyjádřil naději na konstruktivní spolupráci Maďarska v rámci EU a NATO; kritizoval vládní představitele za vazby na Viktora Orbána a zbytečné průtahy při přípravě delegace na summit NATO."
+      "**Martin Kupka (ODS)** — Pogratuloval vítězi maďarských voleb Péteru Magyarovi, což interpretuje jako odmítnutí autoritativního stylu Viktora Orbána. Kritizoval vládní zastropování cen pohonných hmot jako „socialistické centrální plánování“ a označil premiéra Babiše za slabého lídra kvůli jeho arogantnímu přístupu k prezidentovi a útokům na novináře.",
+      "**Jan Lipavský (ODS)** — Zdůraznil, že Orbánův příklon k Rusku byl pro maďarské voliče negativním faktorem. Kritizoval českou vládu za nečinnost v zahraniční politice a za to, že se nechávala Orbánem „vodit“, přestože nyní gratuluje vítězům."
     ],
-    "outcome": "ODS se jednoznačně staví proti vládnímu návrhu na zastropování cen pohonných hmot a odmítá jej podpořit, a to i v případě, že by byl projednáván ve stavu legislativní nouze. ODS prosazuje tržní řešení (úprava spotřební daně) a vyzývá vládu k ukončení konfrontační politiky vůči médiím a prezidentovi.",
+    "outcome": "Jednání potvrdilo odmítavý postoj ODS k vládní ekonomické politice. Strana se jasně vymezila proti vládnímu návrhu na zastropování cen pohonných hmot a avizovala, že tento návrh nepodpoří. ODS rovněž deklarovala, že bude nadále monitorovat vládní kroky v oblasti zahraniční politiky a svobody médií.",
     "notes": null
   },
   "entities": {
@@ -38,6 +38,11 @@
         "name": "Jan Lipavský",
         "person_id": "psp:person:6537",
         "affiliation": "ODS"
+      },
+      {
+        "name": "Daniela Kopřivová",
+        "person_id": "psp:person:5825",
+        "affiliation": "Česká televize"
       }
     ],
     "parties": [
@@ -46,7 +51,8 @@
     "institutions": [
       "Vláda ČR",
       "NATO",
-      "EU"
+      "EU",
+      "Česká televize"
     ]
   },
   "highlights": [
@@ -56,17 +62,8 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:42",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_highlight_00.jpg",
-      "context": "Jde o politický názor na ekonomický nástroj. Zastropování cen je předmětem odborných debat; zastánci zdůrazňují sociální ochranu, odpůrci (včetně ODS) varují před narušením tržních mechanismů a rizikem nedostatku zboží."
-    },
-    {
-      "text": "Česko má mluvit v zahraničí jedním hlasem, aktéři spolu mají komunikovat, mají si umět zvednout telefon a nemá je to obtěžovat.",
-      "type": "citation",
-      "speaker": "Jan Lipavský",
-      "affiliation": "ODS",
-      "timestamp": "1/07:37",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_highlight_01.jpg",
-      "context": "Tento výrok vyjadřuje politický požadavek na jednotnou zahraniční politiku státu (tzv. 'jednotný hlas'). V českém ústavním systému je zahraniční politika v gesci vlády, přičemž koordinaci zajišťuje Ministerstvo zahraničních věcí ČR."
+      "screenshot_path": "summaries/screenshots/event_2811_highlight_00.jpg",
+      "context": "Jde o politický názor na ekonomický nástroj. Efektivita zastropování cen je předmětem odborné debaty; ekonomové často varují před rizikem nedostatku zboží na trhu, zatímco zastánci jej vidí jako sociální ochranu spotřebitelů."
     },
     {
       "text": "Andrej Babiš je opravdu slabý premiér, protože místo toho, aby udělal skutečné kroky, tak to tady rozmělňuje dětinskou hrou na písku.",
@@ -74,26 +71,35 @@
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/05:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_highlight_02.jpg",
-      "context": "Jde o subjektivní politické hodnocení schopností a stylu vládnutí Andreje Babiše. Hodnocení premiéra jako 'slabého' je politickou rétorikou, kterou nelze objektivně faktograficky ověřit."
+      "screenshot_path": "summaries/screenshots/event_2811_highlight_01.jpg",
+      "context": "Subjektivní politické hodnocení výkonu funkce premiéra. Pojmy jako „slabý premiér“ nebo „dětinská hra“ nelze fakticky ověřit, jde o rétoriku opozičního politika."
+    },
+    {
+      "text": "Orbánův odklon k Rusku mu rozhodně nepomohl.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/06:05",
+      "screenshot_path": "summaries/screenshots/event_2811_highlight_02.jpg",
+      "context": "Hodnocení zahraniční politiky Maďarska. Dopad politiky Viktora Orbána na mezinárodní postavení Maďarska (např. v rámci EU či NATO) je předmětem politologických analýz a diplomatických hodnocení, nikoliv exaktně měřitelný fakt."
     }
   ],
   "controversial": [
     {
-      "statement": "* **Kontroverzní návrh: Zastropování cen pohonných hmot**\n    * **Kdo:** Vláda Andreje Babiše.\n    * **Co:** Zastropování cen pohonných hmot a záměr projednat další zásahy do trhu ve stavu legislativní nouze.\n    * **Proč:** ODS to považuje za „socialistické centrální plánování“, které ničí tržní prostředí a vyvolává chaos.\n    * **Čas:** 1/02:05 a 1/08:01.",
+      "statement": "* **Kontroverzní návrh: Zastropování cen pohonných hmot**\n    * **Kdo:** Vláda Andreje Babiše.\n    * **Co:** Zastropování cen pohonných hmot a záměr řešit situaci ve stavu legislativní nouze.\n    * **Proč:** ODS to považuje za „socialistické centrální plánování“, které ničí tržní prostředí a vede k zavírání čerpacích stanic.\n    * **Čas:** 1/02:05",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_controversy_00.jpg",
-      "context": "Zastropování cen pohonných hmot bylo v minulosti předmětem politických sporů. Ekonomové se shodují, že plošné cenové stropy mohou vést k narušení nabídky a poptávky, což je v souladu s argumentací ODS o tržním prostředí."
+      "screenshot_path": "summaries/screenshots/event_2811_controversy_00.jpg",
+      "context": "Návrh na zastropování cen pohonných hmot byl v daném období skutečně předmětem politické diskuse. Argumentace ODS o „centrálním plánování“ vychází z liberální ekonomické teorie, která upřednostňuje tržní tvorbu cen."
     },
     {
-      "statement": "* **Kontroverzní výrok: Útoky na novináře a média**\n    * **Kdo:** Martin Kupka (ODS).\n    * **Co:** Obvinil Andreje Babiše z útoků na novináře a snahy omezovat svobodu projevu, přičemž jej přirovnal k Viktoru Orbánovi, který zestátňoval média.\n    * **Proč:** Jde o vážné obvinění premiéra z autoritářských praktik a ohrožování demokracie.\n    * **Čas:** 1/04:01.",
+      "statement": "* **Kontroverzní výrok: Vztah premiéra k prezidentovi**\n    * **Kdo:** Martin Kupka (ODS).\n    * **Co:** Označil premiérovo prohlášení, že ho telefonát prezidenta o dovolené obtěžuje, za „ukázku arogance moci“ a „dětinskou hru na písku“.\n    * **Proč:** Politicky citlivé téma narušení ústavní spolupráce mezi nejvyššími ústavními činiteli.\n    * **Čas:** 1/02:05",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/04:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2811_controversy_01.jpg",
-      "context": "Srovnání s Viktorem Orbánem a obvinění z omezování svobody médií jsou politická hodnocení. V mezinárodních žebříčcích (např. Reportéři bez hranic) byla v daném období svoboda médií v ČR i Maďarsku opakovaně diskutována, přičemž Maďarsko vykazovalo výrazně vyšší míru koncentrace médií v rukou vládních struktur."
+      "timestamp": "1/02:05",
+      "screenshot_path": "summaries/screenshots/event_2811_controversy_01.jpg",
+      "context": "Interpretace komunikace mezi ústavními činiteli. Zda je konkrétní vyjádření „arogancí moci“, je věcí politického názoru a mediální interpretace, nikoliv ověřitelný fakt."
     }
   ],
   "quality": {

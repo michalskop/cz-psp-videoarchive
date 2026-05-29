@@ -1,0 +1,153 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:19:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2765",
+    "name": "Seminář „Státní služba a plánované změny“",
+    "classification": "Seminář",
+    "start_date": "2026-03-19T14:00",
+    "end_date": "2026-03-19T17:56",
+    "sources": [
+      "final/event_2765_2026-03-19_statni-sluzba-a-planovane-zmeny.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 24,
+    "parts_total": 24,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se konal 19. března 2026 v Poslanecké sněmovně pod záštitou ústavně-právního výboru. Cílem akce bylo otevřít odbornou a věcnou debatu o plánovaných změnách ve státní službě, konkrétně o návrhu nového zákona o státních zaměstnancích, který má nahradit stávající zákon z roku 2014.\n\nJednání se zaměřilo na kritickou analýzu současného stavu státní správy, včetně problémů s fluktuací, atraktivitou státní služby pro mladé talenty, kompetencemi zaměstnanců a nastavením odměňování. Diskuse reflektovala potřebu vyvážit stabilitu a nezávislost státní správy s její potřebnou flexibilitou, říditelností a odpovědností vůči politické reprezentaci.",
+    "main_points": [
+      "**JUDr. Renata Vesecká, Ph.D. (předsedkyně Ústavně-právního výboru)** — Zdůraznila, že debata o státní službě není jen o úřednících, ale o efektivitě státu jako celku. Cílem změn je omezit byrokracii a zajistit, aby stát fungoval jako moderní servis pro občany.",
+      "**Mgr. Karel Dvořák (místopředseda Ústavně-právního výboru)** — Upozornil na nedůvěru mezi politickou a úřednickou linií. Zdůraznil, že státní správa stojí na lidech a je nutné hledat řešení, která přežijí více volebních období.",
+      "**JUDr. Jan Kněžínek, Ph.D. (Sekce Legislativní rady vlády)** — Představil návrh nového zákona, který převádí právní režim státní služby z veřejného práva do práva soukromého (pracovněprávního).",
+      "**Mgr. Jakub Černý, Ph.D. (konzultant)** — Vyhodnotil „flexinovelu“ zákona o státní službě. Upozornil na systémový problém stárnutí státní správy a potřebu kariérního růstu i pro expertní pozice.",
+      "**Mgr. Eliška Hronová (Platforma zaměstnanců Ministerstva spravedlnosti)** — Popsala realitu z pohledu odborů. Upozornila na nekonkurenceschopné platy v Praze, vysokou fluktuaci (přes 20 %) a demotivující vliv „rovnostářského“ odměňování.",
+      "**Mgr. Zuzana Brücknerová a Petr Bouchal, M.Phil. (Úřad vlády)** — Prezentovali dopadovou studii „Státní služba 2.0“. Data ukazují, že státní služba stárne rychleji než zbytek ekonomiky.",
+      "**Mgr. Zuzana Kykalová (Úřad vlády)** — Upozornila na nedostatečné kompetence manažerů v řízení lidí a potřebu zavést moderní metody hodnocení."
+    ],
+    "outcome": "Jednání nemělo formální rozhodovací charakter, šlo o seminář určený k výměně názorů a dat. Dominoval konsenzus, že současný stav státní správy vyžaduje změny, zejména v oblasti odměňování, náboru a řízení lidských zdrojů. Panovala však neshoda v otázce, zda je navrhovaný přechod na soukromoprávní model dostatečnou zárukou nezávislosti státní správy.",
+    "notes": "Přepis obsahuje občasné chyby v diakritice a useknutá slova, která však nebrání pochopení obsahu. Části 10–15 obsahují opakující se technické hlášky o kvalitě přepisu, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Renata Vesecká",
+        "person_id": "psp:person:7054",
+        "affiliation": "Ústavně-právní výbor PS PČR"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "Ústavně-právní výbor PS PČR"
+      },
+      {
+        "name": "Jan Kněžínek",
+        "person_id": "psp:person:4837",
+        "affiliation": "Sekce Legislativní rady vlády"
+      },
+      {
+        "name": "Jakub Černý",
+        "person_id": null,
+        "affiliation": "konzultant pro veřejnou správu"
+      },
+      {
+        "name": "Eliška Hronová",
+        "person_id": null,
+        "affiliation": "Platforma zaměstnanců Ministerstva spravedlnosti"
+      },
+      {
+        "name": "Zuzana Brücknerová",
+        "person_id": null,
+        "affiliation": "Sekce pro státní službu"
+      },
+      {
+        "name": "Petr Bouchal",
+        "person_id": "psp:person:6912",
+        "affiliation": "Vládní analytický útvar"
+      },
+      {
+        "name": "Zuzana Kykalová",
+        "person_id": "psp:person:6206",
+        "affiliation": "Odbor strategií a analýz pro státní službu"
+      },
+      {
+        "name": "Zuzana Ožanová",
+        "person_id": "psp:person:6474",
+        "affiliation": "Poslankyně PS PČR"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Poslankyně PS PČR"
+      },
+      {
+        "name": "Gabriela Svárovská",
+        "person_id": "psp:person:7049",
+        "affiliation": "Poslankyně PS PČR"
+      },
+      {
+        "name": "Šárka Homfrej",
+        "person_id": null,
+        "affiliation": "Odborový svaz státních orgánů"
+      }
+    ],
+    "parties": [
+      "ANO 2011",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavně-právní výbor",
+      "Úřad vlády",
+      "Ministerstvo spravedlnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Od založení státní služby se podíl lidí do 30 let snížil o zhruba 65 % a současně nám systematicky roste počet lidí v důchodovém věku.",
+      "type": "paraphrase",
+      "speaker": "Jakub Černý",
+      "affiliation": "konzultant pro veřejnou správu",
+      "timestamp": "5/00:57",
+      "screenshot_path": "summaries/screenshots/event_2765_highlight_00.jpg",
+      "context": "Podle výročních zpráv o státní službě (MV ČR) podíl mladých úředníků skutečně dlouhodobě klesá a věkový průměr státních zaměstnanců je vyšší než v soukromém sektoru. Přesné procentuální vyjádření poklesu o 65 % však závisí na zvoleném časovém úseku od účinnosti zákona o státní službě (2015) a metodice výpočtu."
+    },
+    {
+      "text": "Průměrný plat právníka ve veřejném sektoru je 63 900 Kč, zatímco v soukromém sektoru 95 000 Kč.",
+      "type": "citation",
+      "speaker": "Eliška Hronová",
+      "affiliation": "Platforma zaměstnanců Ministerstva spravedlnosti",
+      "timestamp": "7/07:39",
+      "screenshot_path": "summaries/screenshots/event_2765_highlight_01.jpg",
+      "context": "Údaje odpovídají trendům v Informačním systému o průměrném výdělku (ISPV), který dlouhodobě potvrzuje výrazný rozdíl v odměňování právních profesí mezi státní a soukromou sférou. Konkrétní částky se mohou lišit v závislosti na započtení odměn a příplatků, ale rozdíl v řádech desítek tisíc korun je fakticky podložen."
+    },
+    {
+      "text": "Státní služba je vnímána jako neatraktivní a nekonkurenceschopná, přičemž pouze 5 % úředníků vnímá zrušení stávajícího zákona jako pozitivní impuls.",
+      "type": "paraphrase",
+      "speaker": "Šárka Homfrej",
+      "affiliation": "Odborový svaz státních orgánů",
+      "timestamp": "20/08:05",
+      "screenshot_path": "summaries/screenshots/event_2765_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Údaj o 5 % úředníků vnímajících zrušení zákona pozitivně vychází z interního průzkumu odborové organizace, jehož metodika, velikost vzorku a reprezentativnost nejsou veřejně dostupné k nezávislé verifikaci."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Mgr. Kateřina Stojanová (poslankyně) vs. Ing. Zuzana Ožanová (poslankyně).\n**Co:** Stojanová kritizovala odstranění institucionálních pojistek (např. služební komise) jako cestu k politizaci. Ožanová argumentovala, že zákon situaci nezhoršuje a že nezávislost je otázkou osobní integrity úředníka, nikoliv jen zákona.\n**Proč:** Jde o střet mezi liberálním přístupem (flexibilita, manažerské řízení) a ochranou státní správy před politickými vlivy.\n**Čas:** 19/06:03 – 20/02:03",
+      "speaker": "Kateřina Stojanová, Zuzana Ožanová",
+      "affiliation": "Poslankyně PS PČR",
+      "timestamp": "19/06:03",
+      "screenshot_path": "summaries/screenshots/event_2765_controversy_00.jpg",
+      "context": "Jde o politický střet názorů na interpretaci zákona č. 234/2014 Sb., o státní službě. Zatímco argument o politizaci vychází z obav o oslabení kontrolních mechanismů (např. role služebních orgánů), argument o osobní integritě je subjektivním postojem k efektivitě státní správy, který nelze fakticky potvrdit ani vyvrátit."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

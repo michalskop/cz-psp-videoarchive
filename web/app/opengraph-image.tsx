@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const dynamic = "force-static";
-export const alt = "Sněmovna PSP Video Archive — DataTimes.cz";
+export const alt = "Sněmovna Digest — DataTimes.cz";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -56,7 +56,7 @@ export default async function OgImage() {
             <span style={{ color: NAVY9, fontWeight: 700, fontSize: 24 }}>DataTimes</span>
             <span style={{ color: YELLOW7, fontWeight: 700, fontSize: 24 }}>.</span>
             <span style={{ color: NAVY9, fontWeight: 700, fontSize: 24 }}>cz</span>
-            <span style={{ color: NAVY6, fontWeight: 700, fontSize: 24 }}>/videoarchiv</span>
+            <span style={{ color: NAVY6, fontWeight: 700, fontSize: 24 }}>/digest</span>
           </div>
 
           {/* Middle: main content */}
@@ -90,7 +90,7 @@ export default async function OgImage() {
                     textTransform: "uppercase",
                   }}
                 >
-                  PSP Video Archive
+                  Sněmovna Digest
                 </span>
               </div>
             </div>

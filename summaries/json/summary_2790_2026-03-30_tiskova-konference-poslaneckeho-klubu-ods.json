@@ -1,12 +1,12 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T13:07:50",
-  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "created_at": "2026-05-29T14:07:42",
+  "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2790",
     "name": "Tisková konference poslaneckého klubu ODS",
     "classification": "Tiskové konference",
-    "start_date": "2026-03-30",
+    "start_date": "2026-03-30T15:45",
     "end_date": "2026-03-30T16:04",
     "sources": [
       "final/event_2790_2026-03-30_tiskova-konference-poslaneckeho-klubu-ods.md"
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu ODS se zaměřila na aktuální politické a ekonomické otázky v České republice.",
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů ODS k aktuálním vládním krokům a představení vlastních legislativních návrhů. Hlavními tématy byly rostoucí ceny pohonných hmot, kritika vládní komunikace a nekoncepčnosti, problematika digitalizace a sociálních návrhů, a otázka regulace otevírací doby obchodů o státních svátcích.\n\nCílem vystoupení bylo poukázat na údajný chaos a nekompetentnost vlády Andreje Babiše, nabídnout alternativní řešení (zejména v oblasti cen paliv) a vymezit se proti rétorice premiéra vůči médiím.",
     "main_points": [
-      "**Martin Kupka (ODS)** — kritizoval vládu za chaotický přístup k řešení rostoucích cen pohonných hmot. Navrhl dočasné snížení spotřební daně jako konkrétní krok k zmírnění tlaku na zvyšování cen pohonných hmot.",
-      "**Jiří Havránek (ODS)** — hovořil o sociální oblasti a kritizoval ministra Aleše Juchelku za zneužití poslaneckých návrhů k řešení akutních vládních agend. Zmínil návrhy týkající se navýšení rodičovského příspěvku a úpravy Airbnb.",
-      "**Štěpán Slovák (ODS)** — se vyslovil k oblasti zdravotnictví, zejména k problematice specializačního vzdělávání lékařů a Národní strategii pro vzácná onemocnění. Vyzval vládu k řešení problémů v těchto oblastech."
+      "**Martin Kupka (ODS)** — Kritizoval vládní chaos ohledně cen pohonných hmot; poukázal na rozpor mezi tvrzením premiéra Babiše a ministryně Schillerové. Navrhl dočasné snížení spotřební daně o 1,70 Kč. Vyzval premiéra, aby přestal útočit na novináře.",
+      "**Jiří Havránek (ODS)** — Kritizoval obcházení připomínkového řízení u vládních návrhů, upozornil na zpoždění digitalizace MPSV a komentoval návrhy na zvýšení rodičovského příspěvku a zrušení zákazu prodeje o svátcích.",
+      "**Štěpán Slovák (ODS)** — Kritizoval systém vzdělávání lékařů a vyjádřil skepsi k vládním strategiím (vzácná onemocnění, očkování) kvůli obavám z politických tlaků."
     ],
-    "outcome": "Tisková konference poslaneckého klubu ODS zkritizovala vládu za její přístup k řešení aktuálních problémů, zejména rostoucích cen pohonných hmot. Členové ODS navrhli konkrétní řešení, jako je dočasné snížení spotřební daně.",
-    "notes": "Přepis tiskové konference může obsahovat chyby, neboť byl vytvořen automaticky."
+    "outcome": "Jednání bylo informativní a opoziční. ODS potvrdila svůj nesouhlas s vládním přístupem k regulaci trhu a trvá na svých návrzích, zejména na snížení spotřební daně. Dominujícím postojem je kritika vládní nekoncepčnosti a volání po návratu k transparentnímu legislativnímu procesu.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a opakujícím se frázím, které však nemění celkový smysl sdělení."
   },
   "entities": {
     "speakers": [
@@ -47,52 +47,60 @@
       }
     ],
     "parties": [
-      "ODS"
+      "ODS",
+      "STAN",
+      "KDU-ČSL",
+      "TOP 09",
+      "SPD"
     ],
-    "institutions": []
+    "institutions": [
+      "Poslanecká sněmovna",
+      "MPSV",
+      "Hospodářská komora"
+    ]
   },
   "highlights": [
     {
-      "text": "Je to obraz chaosu covid 2.0.",
-      "type": "citation",
+      "text": "Navrhujeme dočasné snížení spotřební daně o 1,70 Kč na dobu čtyř měsíců, což by pro motoristy znamenalo úsporu přes dvě koruny na litr.",
+      "type": "paraphrase",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/13:44",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_highlight_00.jpg",
-      "context": "Nelze nezávisle ověřit."
+      "timestamp": "1/12:17",
+      "screenshot_path": "summaries/screenshots/event_2790_highlight_00.jpg",
+      "context": "Snížení spotřební daně o 1,70 Kč na litr nafty a benzinu bylo v ČR skutečně realizováno v roce 2022 (zákon č. 132/2022 Sb.). Vzhledem k tomu, že spotřební daň je zatížena i DPH, snížení daně o 1,70 Kč vedlo k celkovému poklesu ceny u čerpacích stanic o cca 2,06 Kč včetně DPH."
     },
     {
-      "text": "Snížení spotřební daně by znamenalo úsporu přes dvě koruny na litr pohonných hmot.",
-      "type": "citation",
+      "text": "Vláda místo řešení chaosu v cenách pohonných hmot předvádí neuvěřitelný rozval a nekompetenci, kdy se ministři vzájemně popírají.",
+      "type": "paraphrase",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/01:19",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_highlight_01.jpg",
-      "context": "Snížení spotřební daně z pohonných hmot o 1,5 Kč/litr by mohlo vést k úsporám kolem 2 Kč/litr, ovšem závisí na konkrétním rozsahu a načasování změny. Podle ČSÚ ceny pohonných hmot v ČR kolísají vlivem mnoha faktorů včetně daní, světových cen ropy a kursu koruny."
+      "timestamp": "1/14:04",
+      "screenshot_path": "summaries/screenshots/event_2790_highlight_01.jpg",
+      "context": "Jde o politické hodnocení (tzv. hodnotový úsudek), které nelze fakticky ověřit. Výrok reflektuje tehdejší politickou situaci a rozdílné názory vládních představitelů na řešení energetické krize."
     },
     {
-      "text": "My nechceme nikomu diktovat, kdy bude mít otevřeno, nebo zavřeno.",
-      "type": "citation",
-      "speaker": null,
+      "text": "Navrhujeme zrušení zákazu prodeje o státních svátcích, protože stát nemá lidem ani obchodům diktovat, kdy mají mít otevřeno.",
+      "type": "paraphrase",
+      "speaker": "Jiří Havránek",
       "affiliation": "ODS",
-      "timestamp": "1/18:07",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_highlight_02.jpg",
-      "context": "Nelze nezávisle ověřit."
+      "timestamp": "1/18:03",
+      "screenshot_path": "summaries/screenshots/event_2790_highlight_02.jpg",
+      "context": "Zákon č. 223/2016 Sb. o prodejní době v maloobchodě omezuje prodej ve vybraných svátcích pro provozovny nad 200 m². Návrh na zrušení tohoto zákona je dlouhodobým programovým bodem ODS, který však v minulosti narážel na odpor koaličních partnerů i části opozice."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Martin Kupka (ODS)\n  - **Co přesně:** Navrhl dočasné snížení spotřební daně k zmírnění tlaku na zvyšování cen pohonných hmot.\n  - **Proč je to kontroverzní:** Tento návrh může být vnímán jako kontroverzní, neboť vyžaduje zásah do daňového systému a může mít dopady na státní rozpočet.\n  - **Čas:** 1/02:02",
+      "statement": "**Martin Kupka (ODS)** — Přirovnání rétoriky premiéra Babiše vůči novinářům k románu 1984 George Orwella a obvinění z „desítek minut nenávisti“. Je to kontroverzní, protože jde o přímé obvinění premiéra z autoritářství a vyvolávání společenského napětí.",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/02:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2790_controversy_00.jpg",
-      "context": "Martin Kupka (ODS) skutečně navrhl dočasné snížení spotřební daně z pohonných hmot. Tento návrh byl projednáván v rámci diskuse o zmírnění dopadů zvyšujících se cen pohonných hmot na domácnosti a ekonomiku. Podle MF ČR by jakékoli změny v daňovém systému měly být pečlivě zváženy kvůli potenciálním dopadům na státní rozpočet a hospodářství."
+      "timestamp": "1/04:03",
+      "screenshot_path": "summaries/screenshots/event_2790_controversy_00.jpg",
+      "context": "Jde o subjektivní politickou interpretaci a rétorické přirovnání. „Minuty nenávisti“ jsou literární odkaz na dílo George Orwella, nikoliv faktický údaj; tvrzení o autoritářství je politickým názorem, který nelze nezávisle ověřit."
     }
   ],
   "quality": {
-    "transcript_quality": "good",
-    "unintelligible_parts": false
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
   },
   "extras": null
 }

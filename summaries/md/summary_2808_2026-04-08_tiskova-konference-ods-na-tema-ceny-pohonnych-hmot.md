@@ -1,61 +1,48 @@
 Zde je strukturované shrnutí tiskové konference ODS ze dne 8. dubna 2026.
 
 ### 1. Téma a účel jednání
-Tisková konference ODS se zaměřila na tři hlavní okruhy: obranu nezávislosti veřejnoprávních médií, kritiku vládní politiky v oblasti cen pohonných hmot a návrhy na reformu vzdělávacího systému. Cílem vystoupení bylo deklarovat opoziční postoj ODS vůči vládním krokům, které strana vnímá jako ohrožení demokratických institucí a tržního prostředí.
+Tisková konference ODS se zaměřila na tři klíčové oblasti: obranu nezávislosti veřejnoprávních médií, kritiku vládních kroků v oblasti cen pohonných hmot a návrhy na reformu vzdělávacího systému. Cílem vystoupení bylo deklarovat opoziční postoj ODS vůči vládní politice, kterou strana vnímá jako ohrožení demokratických institucí a tržního prostředí.
 
-Představitelé ODS zdůraznili potřebu zachování koncesionářských poplatků jako pojistky nezávislosti médií a představili plán na blokování vládních legislativních změn v této oblasti. V oblasti školství kritizovali nedostatečnou koncepčnost ministra školství a představili vlastní vizi modernizace přijímacího řízení a maturit.
+Představitelé ODS zdůraznili potřebu zachování nezávislosti České televize a Českého rozhlasu, kritizovali vládní zásahy do cen pohonných hmot a představili vlastní vizi modernizace českého školství, která má reagovat na potřeby 21. století.
 
 ### 2. Hlavní body
-
-**Martin Kupka (předseda ODS)**
-*   **Veřejnoprávní média:** Odmítl jakoukoli podporu ODS pro kontroverzní kandidáty do Rady ČT (Matocha, Veselý, Bradáč, Šlégr). Přiznal chybu při hlasování o Stanislavu Berkovcovi a slíbil nápravu v Poslanecké sněmovně.
-*   **Strategie:** Oznámil spuštění webu *hlasprorozhlas.cz* a připravenost k obstrukcím (včetně „nocování ve Sněmovně“) proti zrušení koncesionářských poplatků.
-*   **Pohonné hmoty:** Kritizoval zastropování marží u čerpacích stanic jako chybný zásah do trhu, který vede k růstu cen. Označil to za „atomovou bombu“ hozenou do trhu.
-
-**Martin Baxa (stínový ministr kultury)**
-*   **Mediální reforma:** Obhajoval „velkou mediální novelu“ z minulého období, která stabilizovala financování médií a zavedla memoranda.
-*   **Kritika vlády:** Varoval před plánovanou reformou financování ČT, kterou připravuje ministr Klempíř, a označil ji za útok na nezávislost médií.
-*   **Hlasování:** Vysvětlil, že podpora některých kandidátů v mediálním výboru byla pokusem o „strategii menšího zla“, která se však ukázala jako chybná.
-
-**Renata Zajíčková (stínová ministryně školství)**
-*   **Přijímací zkoušky:** Kritizovala ministra Plagu za „kosmetické změny“ a recyklaci nápadů ODS. Navrhuje prodloužení povinného vzdělávání na střední školu a zefektivnění přechodu mezi stupni.
-*   **Maturity:** Navrhla zavedení „malé maturity“ (ukončení povinného vzdělávání) a postupného získávání certifikátů namísto jednorázové zkoušky ve 4. ročníku.
-*   **Financování:** Prosazuje změnu financování škol na žáka, nikoliv na počet odučených hodin.
+*   **Martin Kupka (předseda ODS):**
+    *   **Veřejnoprávní média:** ODS odmítá vládní plány na zrušení koncesionářských poplatků, které považuje za ohrožení nezávislosti médií. Strana je připravena využít obstrukce, včetně „nocování ve Sněmovně“, aby těmto krokům zabránila.
+    *   **Volba do Rady ČT:** Přiznal chybu při hlasování poslanců ODS pro Stanislava Berkovce v mediálním výboru. Ujistil, že při volbě v Poslanecké sněmovně nikdo z poslanců ODS nepodpoří kontroverzní kandidáty (včetně Berkovce, Matochy, Veselého, Bradáče a Šlégra).
+    *   **Pohonné hmoty:** Kritizoval vládní zastropování marží u čerpacích stanic jako „atomovou bombu“ pro trh, která v mnoha regionech vedla k opačnému efektu – růstu cen.
+*   **Martin Baxa (stínový ministr kultury):**
+    *   **Mediální reforma:** Obhajoval „velkou mediální novelu“ z minulého období, která stabilizovala financování médií a zavedla memoranda. Varoval před „slovenským scénářem“ destrukce veřejnoprávních médií.
+    *   **Kritika vlády:** Upozornil na nesrozumitelné kroky ministra Klempíře, který podle něj připravuje útok na financování ČT bez odborné diskuse.
+*   **Renata Zajíčková (stínová ministryně školství):**
+    *   **Reforma vzdělávání:** Navrhuje prodloužení povinného vzdělávání na střední školu, což považuje za nutný standard v době umělé inteligence.
+    *   **Kritika ministra Plagy:** Označila jeho kroky za „kosmetické změny“ (např. změna termínů přijímaček) a vyzvala k transparentnímu jednání s odborníky a kraji.
+    *   **Maturity:** Navrhuje zavedení „malé maturity“ a postupné získávání certifikátů dílčích kvalifikací namísto současného systému.
 
 ### 3. Výsledek / závěr
-Opoziční ODS se jasně vymezila proti vládní koalici v otázce médií a ekonomických zásahů. Strana deklarovala, že bude využívat všechny parlamentní nástroje (včetně obstrukcí) k zablokování zrušení koncesionářských poplatků. V oblasti školství vyzvala ministra k transparentnímu jednání s odbornou veřejností a k přípravě reforem s výhledem na rok 2027.
+Jednání vyústilo v jasné vymezení ODS vůči vládní koalici. Strana se zavázala k aktivnímu odporu proti změnám financování veřejnoprávních médií a spustila webovou platformu `www.hlasprorozhlas.cz`. V otázce školství ODS vyzvala ministra Plagu k zahájení odborné diskuse o reformách s výhledem na rok 2027.
 
 ### 4. Poznámky
-Přepis obsahuje drobné chyby v diakritice a občasné gramatické neúplnosti způsobené automatickým přepisem, které však nemají vliv na srozumitelnost obsahu.
+Přepis je srozumitelný, neobsahuje významné výpadky textu, které by bránily pochopení obsahu.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh: Obstrukce a „nocování ve Sněmovně“**
-    *   **Kdo:** Martin Kupka (ODS)
-    *   **Co:** Oznámení, že ODS bude blokovat jednání o zrušení poplatků a je připravena „nocovat ve Sněmovně“ a vytáhnout spacáky.
-    *   **Proč:** Je to politicky citlivé, protože jde o vyhrocenou formu parlamentního boje, která může vést k paralýze legislativního procesu.
+*   **Kontroverzní hlasování poslanců ODS:**
+    *   **Kdo:** Martin Kupka (ODS) přiznal, že dva hlasy poslanců ODS v mediálním výboru patřily Stanislavu Berkovcovi.
+    *   **Proč je to kontroverzní:** Jde o politicky citlivou záležitost, protože ODS se profiluje jako hlavní obránce nezávislosti médií, zatímco Stanislav Berkovec je vnímán jako kandidát spojený s vládní koalicí, která má podle ODS destruktivní záměry vůči médiím.
     *   **Čas:** 1/02:00
-
-*   **Kontroverzní výrok: „Atomová bomba do trhu“**
-    *   **Kdo:** Martin Kupka (ODS)
-    *   **Co:** Označení vládního zastropování marží u pohonných hmot za „atomovou bombu“.
-    *   **Proč:** Silná rétorika kritizující ekonomické rozhodnutí vlády, které podle ODS poškozuje tržní prostředí.
-    *   **Čas:** 1/16:03
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Pod mým vedením nebude ODS hrát na schovávanou, můj tým umí přijmout odpovědnost i za špatná rozhodnutí.“ (citace)
+*   **Text:** „Pod mým vedením nebude ODS hrát na schovávanou a při volbě v Poslanecké sněmovně nikdo z poslanců ODS Stanislava Berkovce ani nikoho z těch jmenovaných kandidátů nepodpoří.“ (parafráze)
     *   **Řečník:** Martin Kupka (ODS), **Čas:** 1/02:00
 *   **Text:** „Budeme blokovat jednání, které bude iniciovat současná vládní koalice ke zrušení poplatků, využijeme úplně všechny nástroje, které opozice má.“ (citace)
     *   **Řečník:** Martin Kupka (ODS), **Čas:** 1/02:00
-*   **Text:** „V době umělé inteligence se střední vzdělávání už musí stát absolutní nutností, je to základní standard pro výbavu každého mladého člověka.“ (parafráze)
-    *   **Řečník:** Renata Zajíčková (ODS), **Čas:** 1/10:04
-*   **Text:** „Zastropování marží přineslo efekt, který všichni dobře známe – všechny motivujete k tomu, aby se přiblížili k tomu cenovému stropu.“ (citace)
-    *   **Řečník:** Martin Kupka (ODS), **Čas:** 1/16:03
+*   **Text:** „Vláda Andreje Babiše, Motoristé, SPD a ANO chce média veřejné služby srazit na kolena a ovládnout.“ (citace)
+    *   **Řečník:** Martin Baxa (ODS), **Čas:** 1/22:01
 
 ---
 
@@ -77,18 +64,18 @@ Přepis obsahuje drobné chyby v diakritice a občasné gramatické neúplnosti 
   "transcription": {
     "parts_transcribed": 1,
     "parts_total": 1,
-    "source": "captions",
+    "source": "titulky (VTT)",
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference ODS se zaměřila na tři hlavní okruhy: obranu nezávislosti veřejnoprávních médií, kritiku vládní politiky v oblasti cen pohonných hmot a návrhy na reformu vzdělávacího systému. Cílem vystoupení bylo deklarovat opoziční postoj ODS vůči vládním krokům, které strana vnímá jako ohrožení demokratických institucí a tržního prostředí.\n\nPředstavitelé ODS zdůraznili potřebu zachování koncesionářských poplatků jako pojistky nezávislosti médií a představili plán na blokování vládních legislativních změn v této oblasti. V oblasti školství kritizovali nedostatečnou koncepčnost ministra školství a představili vlastní vizi modernizace přijímacího řízení a maturit.",
+    "topic": "Tisková konference ODS se zaměřila na tři klíčové oblasti: obranu nezávislosti veřejnoprávních médií, kritiku vládních kroků v oblasti cen pohonných hmot a návrhy na reformu vzdělávacího systému. Cílem vystoupení bylo deklarovat opoziční postoj ODS vůči vládní politice, kterou strana vnímá jako ohrožení demokratických institucí a tržního prostředí.\n\nPředstavitelé ODS zdůraznili potřebu zachování nezávislosti České televize a Českého rozhlasu, kritizovali vládní zásahy do cen pohonných hmot a představili vlastní vizi modernizace českého školství, která má reagovat na potřeby 21. století.",
     "main_points": [
-      "**Martin Kupka (ODS)**\n* **Veřejnoprávní média:** Odmítl jakoukoli podporu ODS pro kontroverzní kandidáty do Rady ČT (Matocha, Veselý, Bradáč, Šlégr). Přiznal chybu při hlasování o Stanislavu Berkovcovi a slíbil nápravu v Poslanecké sněmovně.\n* **Strategie:** Oznámil spuštění webu *hlasprorozhlas.cz* a připravenost k obstrukcím (včetně „nocování ve Sněmovně“) proti zrušení koncesionářských poplatků.\n* **Pohonné hmoty:** Kritizoval zastropování marží u čerpacích stanic jako chybný zásah do trhu, který vede k růstu cen. Označil to za „atomovou bombu“ hozenou do trhu.",
-      "**Martin Baxa (ODS)**\n* **Mediální reforma:** Obhajoval „velkou mediální novelu“ z minulého období, která stabilizovala financování médií a zavedla memoranda.\n* **Kritika vlády:** Varoval před plánovanou reformou financování ČT, kterou připravuje ministr Klempíř, a označil ji za útok na nezávislost médií.\n* **Hlasování:** Vysvětlil, že podpora některých kandidátů v mediálním výboru byla pokusem o „strategii menšího zla“, která se však ukázala jako chybná.",
-      "**Renata Zajíčková (ODS)**\n* **Přijímací zkoušky:** Kritizovala ministra Plagu za „kosmetické změny“ a recyklaci nápadů ODS. Navrhuje prodloužení povinného vzdělávání na střední školu a zefektivnění přechodu mezi stupni.\n* **Maturity:** Navrhla zavedení „malé maturity“ (ukončení povinného vzdělávání) a postupného získávání certifikátů namísto jednorázové zkoušky ve 4. ročníku.\n* **Financování:** Prosazuje změnu financování škol na žáka, nikoliv na počet odučených hodin."
+      "**Martin Kupka (ODS):**\n    *   **Veřejnoprávní média:** ODS odmítá vládní plány na zrušení koncesionářských poplatků, které považuje za ohrožení nezávislosti médií. Strana je připravena využít obstrukce, včetně „nocování ve Sněmovně“, aby těmto krokům zabránila.\n    *   **Volba do Rady ČT:** Přiznal chybu při hlasování poslanců ODS pro Stanislava Berkovce v mediálním výboru. Ujistil, že při volbě v Poslanecké sněmovně nikdo z poslanců ODS nepodpoří kontroverzní kandidáty (včetně Berkovce, Matochy, Veselého, Bradáče a Šlégra).\n    *   **Pohonné hmoty:** Kritizoval vládní zastropování marží u čerpacích stanic jako „atomovou bombu“ pro trh, která v mnoha regionech vedla k opačnému efektu – růstu cen.",
+      "**Martin Baxa (ODS):**\n    *   **Mediální reforma:** Obhajoval „velkou mediální novelu“ z minulého období, která stabilizovala financování médií a zavedla memoranda. Varoval před „slovenským scénářem“ destrukce veřejnoprávních médií.\n    *   **Kritika vlády:** Upozornil na nesrozumitelné kroky ministra Klempíře, který podle něj připravuje útok na financování ČT bez odborné diskuse.",
+      "**Renata Zajíčková (ODS):**\n    *   **Reforma vzdělávání:** Navrhuje prodloužení povinného vzdělávání na střední školu, což považuje za nutný standard v době umělé inteligence.\n    *   **Kritika ministra Plagy:** Označila jeho kroky za „kosmetické změny“ (např. změna termínů přijímaček) a vyzvala k transparentnímu jednání s odborníky a kraji.\n    *   **Maturity:** Navrhuje zavedení „malé maturity“ a postupné získávání certifikátů dílčích kvalifikací namísto současného systému."
     ],
-    "outcome": "Opoziční ODS se jasně vymezila proti vládní koalici v otázce médií a ekonomických zásahů. Strana deklarovala, že bude využívat všechny parlamentní nástroje (včetně obstrukcí) k zablokování zrušení koncesionářských poplatků. V oblasti školství vyzvala ministra k transparentnímu jednání s odbornou veřejností a k přípravě reforem s výhledem na rok 2027.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické neúplnosti způsobené automatickým přepisem, které však nemají vliv na srozumitelnost obsahu."
+    "outcome": "Jednání vyústilo v jasné vymezení ODS vůči vládní koalici. Strana se zavázala k aktivnímu odporu proti změnám financování veřejnoprávních médií a spustila webovou platformu `www.hlasprorozhlas.cz`. V otázce školství ODS vyzvala ministra Plagu k zahájení odborné diskuse o reformách s výhledem na rok 2027.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -97,12 +84,12 @@ Přepis obsahuje drobné chyby v diakritice a občasné gramatické neúplnosti 
       {"name": "Renata Zajíčková", "person_id": null, "affiliation": "ODS"}
     ],
     "parties": ["ODS", "ANO", "SPD"],
-    "institutions": ["Poslanecká sněmovna", "Česká televize", "Český rozhlas", "Ministerstvo kultury", "Ministerstvo školství"]
+    "institutions": ["Česká televize", "Český rozhlas", "Poslanecká sněmovna"]
   },
   "highlights": [
     {
-      "text": "Pod mým vedením nebude ODS hrát na schovávanou, můj tým umí přijmout odpovědnost i za špatná rozhodnutí.",
-      "type": "citation",
+      "text": "Pod mým vedením nebude ODS hrát na schovávanou a při volbě v Poslanecké sněmovně nikdo z poslanců ODS Stanislava Berkovce ani nikoho z těch jmenovaných kandidátů nepodpoří.",
+      "type": "paraphrase",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:00"
@@ -115,32 +102,19 @@ Přepis obsahuje drobné chyby v diakritice a občasné gramatické neúplnosti 
       "timestamp": "1/02:00"
     },
     {
-      "text": "V době umělé inteligence se střední vzdělávání už musí stát absolutní nutností, je to základní standard pro výbavu každého mladého člověka.",
-      "type": "paraphrase",
-      "speaker": "Renata Zajíčková",
-      "affiliation": "ODS",
-      "timestamp": "1/10:04"
-    },
-    {
-      "text": "Zastropování marží přineslo efekt, který všichni dobře známe – všechny motivujete k tomu, aby se přiblížili k tomu cenovému stropu.",
+      "text": "Vláda Andreje Babiše, Motoristé, SPD a ANO chce média veřejné služby srazit na kolena a ovládnout.",
       "type": "citation",
-      "speaker": "Martin Kupka",
+      "speaker": "Martin Baxa",
       "affiliation": "ODS",
-      "timestamp": "1/16:03"
+      "timestamp": "1/22:01"
     }
   ],
   "controversial": [
     {
-      "statement": "* **Kdo:** Martin Kupka (ODS)\n* **Co:** Oznámení, že ODS bude blokovat jednání o zrušení poplatků a je připravena „nocovat ve Sněmovně“ a vytáhnout spacáky.\n* **Proč:** Je to politicky citlivé, protože jde o vyhrocenou formu parlamentního boje, která může vést k paralýze legislativního procesu.\n* **Čas:** 1/02:00",
+      "statement": "*   **Kdo:** Martin Kupka (ODS) přiznal, že dva hlasy poslanců ODS v mediálním výboru patřily Stanislavu Berkovce.\n    *   **Proč je to kontroverzní:** Jde o politicky citlivou záležitost, protože ODS se profiluje jako hlavní obránce nezávislosti médií, zatímco Stanislav Berkovec je vnímán jako kandidát spojený s vládní koalicí, která má podle ODS destruktivní záměry vůči médiím.\n    *   **Čas:** 1/02:00",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/02:00"
-    },
-    {
-      "statement": "* **Kdo:** Martin Kupka (ODS)\n* **Co:** Označení vládního zastropování marží u pohonných hmot za „atomovou bombu“.\n* **Proč:** Silná rétorika kritizující ekonomické rozhodnutí vlády, které podle ODS poškozuje tržní prostředí.\n* **Čas:** 1/16:03",
-      "speaker": "Martin Kupka",
-      "affiliation": "ODS",
-      "timestamp": "1/16:03"
     }
   ],
   "quality": {

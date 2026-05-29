@@ -1,44 +1,45 @@
-Toto je strukturované shrnutí mezinárodní konference „Aktuální bezpečnostní hrozby V.“, která se konala 25. května 2026 v Poslanecké sněmovně Parlamentu ČR.
+Toto je strukturované shrnutí konference „Aktuální bezpečnostní hrozby V.“, která se konala 25. května 2026 v Poslanecké sněmovně Parlamentu ČR.
 
 ### 1. Téma a účel jednání
-Jednání se zaměřilo na analýzu současné komplexní bezpečnostní situace v Evropě i ve světě, se zvláštním důrazem na dopady rusko-ukrajinského konfliktu a napětí na Blízkém východě. Cílem konference bylo sdílení zkušeností mezi českými bezpečnostními autoritami a izraelskými partnery, posílení národní rezilience a diskuse o nutnosti úzké spolupráce mezi civilním a vojenským sektorem.
+Konference se zaměřila na analýzu současného bezpečnostního prostředí, které je charakterizováno vysokou mírou nepředvídatelnosti, návratem velmocenského soupeření a hybridními hrozbami. Cílem bylo sdílet zkušenosti mezi českými bezpečnostními autoritami a izraelskými partnery, a to zejména v oblastech protiraketové obrany, kybernetické bezpečnosti, rezilience společnosti a boje proti terorismu.
 
-Konference zdůraznila potřebu „celospolečenského přístupu“ k obraně, kde stát, bezpečnostní sbory a informovaná veřejnost tvoří jeden funkční celek schopný reagovat na hybridní hrozby, kybernetické útoky a rizika spojená s technologickou závislostí.
+Jednání zdůraznilo nutnost úzké civilně-vojenské spolupráce a potřebu připravit českou společnost na možné krize. Akce sloužila jako platforma pro parlamentní diplomacii a výměnu informací mezi politickou sférou, bezpečnostními sbory a odbornou veřejností.
 
 ### 2. Hlavní body
-*   **Michal Koudelka (BIS):** Varoval před Ruskem jako největší hrozbou, která zneužívá slabiny demokratických systémů. Vyzdvihl úspěšné vyhoštění ruských diplomatů a zdůraznil, že Rusko a Čína jsou sice důležití partneři, ale vztahy s nimi musí být podmíněny respektem k mezinárodnímu právu a suverenitě.
-*   **Karel Řehka (AČR):** Zdůraznil, že podpora Ukrajiny není charita, ale strategický zájem. Varoval před „absencí urgence“ v české společnosti a nutností urychleně modernizovat armádu a legislativu. Evropa musí převzít větší zodpovědnost za svou obranu v rámci NATO.
-*   **Tomáš Kubík (Policie ČR):** Prezentoval vnitřní bezpečnost jako spojenou nádobu s obranou státu. Uvedl, že kriminalita cizinců tvoří 12 % celkové kriminality (Ukrajinci 5,7 %). Zdůraznil připravenost policie na hybridní hrozby a kybernetickou kriminalitu.
-*   **Vladimír Vlček (Hasičský záchranný sbor):** Představil koncepci ochrany obyvatelstva do roku 2035. Varoval před rizikem blackoutu a zdůraznil, že stát se nemůže postarat o vše – občan musí být připraven na krizové situace (tzv. 72hodinová připravenost).
-*   **Lukáš Kintr (NÚKIB):** Upozornil na rizika umělé inteligence, kvantových počítačů a zranitelnost dodavatelských řetězců. Kybernetická bezpečnost není jen IT problém, ale strategická výzva pro celou společnost.
-*   **Jonathan Speyer (Blízkovýchodní centrum):** Analyzoval íránskou regionální alianci („proxy“ sítě) a její vliv na globální bezpečnost. Varoval před podceňováním ideologického rozměru militantního islámu.
-*   **Dalibor Stach (ÚDV):** Připomněl, že historická zkušenost s totalitními režimy je bezpečnostním faktorem. Znalost minulých mechanismů moci (infiltrace, propaganda) pomáhá identifikovat současné hybridní hrozby.
-*   **Břetislav Brejcha (NCOZ):** Upozornil na alarmující nárůst násilí mezi mládeží a radikalizaci v online komunitách. Zdůraznil potřebu legislativních změn pro řešení krizových situací ve školách.
+*   **Michal Koudelka (BIS):** Varoval před Ruskem jako největší hrozbou, která zneužívá slabiny demokratických systémů. Zdůraznil úspěchy v eliminaci ruských zpravodajských důstojníků v ČR a varoval před čínskou technologickou špionáží.
+*   **Karel Řehka (AČR):** Upozornil na „absenci urgence“ v české společnosti. Zdůraznil, že podpora Ukrajiny není charita, ale strategický zájem. Volal po urychlené modernizaci armády a vytvoření systému záloh, který by umožnil rychlé překlopení z mírového stavu do válečného.
+*   **Tomáš Kubík (Policie ČR):** Prezentoval statistiky kriminality cizinců (12 % z celkové kriminality, Ukrajinci tvoří 5,7 %). Zdůraznil připravenost policie na migrační rizika a potřebu ofenzivního přístupu ke kyberkriminalitě, která do roku 2030 může tvořit až 30 % veškeré trestné činnosti.
+*   **Vladimír Vlček (Hasičský záchranný sbor):** Představil koncepci ochrany obyvatelstva do roku 2035. Varoval, že stát není připraven na scénáře velkého rozsahu (blackout, kyber-fyzické útoky) a zdůraznil nutnost edukace občanů k soběstačnosti (příprava na 7 dní, nikoliv jen 72 hodin).
+*   **Lukáš Kintr (NÚKIB):** Upozornil na rizika umělé inteligence, kvantových počítačů a zranitelnost dodavatelských řetězců. Zdůraznil, že kybernetická bezpečnost není jen IT problém, ale strategická výzva pro celou společnost.
+*   **Jonathan Speyer (Blízkovýchodní centrum pro výzkum):** Analyzoval íránskou regionální alianci a její metody hybridního boje. Varoval před podceňováním dlouhodobé strategie těchto aktérů a zdůraznil, že Izrael musí jednat s jasnou doktrínou.
+*   **David Louhý (Policejní akademie):** Představil výzkum relevance bezpečnostních hrozeb, kde 90 % expertů identifikovalo Rusko jako hlavní hrozbu již v roce 2018. Varoval před kybernetickou zranitelností moderních vozidel (IoT).
+*   **Břetislav Brejcha (NCTK):** Poukázal na alarmující nárůst násilí mezi mládeží a nezletilými (přes 690 incidentů ve školách v roce 2026). Varoval před radikalizací v online komunitách a volal po legislativní diskuzi o snížení věku trestní odpovědnosti.
+*   **Dalibor Septák (ÚDV):** Zdůraznil, že historická zkušenost s totalitními režimy je bezpečnostním nástrojem. Vyšetřování zločinů komunismu a nacismu slouží jako prevence radikalizace a posiluje důvěru v demokratické instituce.
 
 ### 3. Výsledek / závěr
-Jednání potvrdilo konsenzus o nutnosti prohloubit civilně-vojenskou spolupráci a urychlit legislativní změny v oblasti krizového řízení. Dominujícím postojem byla shoda na tom, že bezpečnost není „zadarmo“ a vyžaduje dlouhodobé investice a celospolečenskou shodu napříč politickým spektrem.
+Jednání potvrdilo shodu na nutnosti posílit celospolečenskou odolnost (rezilienci). Dominujícím postojem je, že bezpečnost není „zadarmo“ a vyžaduje dlouhodobé investice a politický konsenzus napříč volebními cykly. Nebylo přijato formální usnesení, ale konference vyústila v příslib další spolupráce a přípravu navazujících odborných akcí v říjnu 2026.
 
 ### 4. Poznámky
-Přepis obsahuje technické artefakty (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu (zejména 13–15) vykazovaly sníženou kvalitu přepisu, obsah byl rekonstruován z kontextu a závěrečných panelů.
+Přepis obsahuje pasáže s automatickými chybami a halucinacemi (např. opakující se fráze v částech 13–15), které byly pro účely shrnutí ignorovány.
 
 ---
 
-### Doplňující otázky
-*   **Kontroverzní návrh:** Břetislav Brejcha (NCOZ) navrhl otevřít debatu o snížení věku trestní odpovědnosti a zavedení detenčních mechanismů pro mladistvé, kteří vyhrožují násilím.
-    *   **Proč:** Jde o citlivý zásah do práv dětí a výchovného systému, který vyvolává etické a právní otázky.
+## Doplňující otázky
+*   **Kontroverzní návrh:** Břetislav Brejcha (NCTK) navrhl otevřít diskuzi o snížení věku trestní odpovědnosti kvůli radikalizaci mládeže.
+    *   **Proč:** Politicky citlivé téma zasahující do práv dětí a výchovného systému.
     *   **Čas:** 21/04:01.
 
 ---
 
-### Klíčové citace pro veřejnost
-*   **„Svoboda není zadarmo a stát si musí uvědomit, že do vnější i vnitřní bezpečnosti je potřeba investovat.“** (Tomáš Kubík, Policie ČR, 7/00:00)
-*   **„Podpora Ukrajiny není altruismem, je to náš strategický zájem.“** (Karel Řehka, AČR, 4/04:03)
+## Klíčové citace pro veřejnost
+*   **„Podpora Ukrajiny není altruismem a není žádnou charitou, podpora Ukrajiny je naším strategickým zájmem.“** (Karel Řehka, AČR, 4/04:03)
+*   **„Svoboda prostě není zadarmo a ten stát si musí uvědomit, že jak do vnější, tak do vnitřní bezpečnosti je potřeba investovat.“** (Tomáš Kubík, Policie ČR, 7/00:01)
 *   **„Nejčastější příčinou úspěšných kyberútoků je selhání lidského faktoru, nikoli technologický nedostatek.“** (Lukáš Kintr, NÚKIB, 9/04:08)
-*   **„Spravedlnost není pouze otázkou minulosti, historická paměť je součástí bezpečnosti státu.“** (Dalibor Stach, ÚDV, 22/08:05)
+*   **„Většina incidentů se odehrává v základních školách, odrůst v trestních činech je v oblasti nebezpečného vyhrožování a ublížení na zdraví.“** (Břetislav Brejcha, NCTK, 19/08:00)
 
 ---
 
-### JSON výstup
+## JSON výstup
 ```json
 {
   "schema_version": "2",
@@ -59,48 +60,50 @@ Přepis obsahuje technické artefakty (useknutá slova, opakující se fráze), 
     "model": "large-v3"
   },
   "summary": {
-    "topic": "Jednání se zaměřilo na analýzu současné komplexní bezpečnostní situace v Evropě i ve světě, se zvláštním důrazem na dopady rusko-ukrajinského konfliktu a napětí na Blízkém východě. Cílem konference bylo sdílení zkušeností mezi českými bezpečnostními autoritami a izraelskými partnery, posílení národní rezilience a diskuse o nutnosti úzké spolupráce mezi civilním a vojenským sektorem.\n\nKonference zdůraznila potřebu „celospolečenského přístupu“ k obraně, kde stát, bezpečnostní sbory a informovaná veřejnost tvoří jeden funkční celek schopný reagovat na hybridní hrozby, kybernetické útoky a rizika spojená s technologickou závislostí.",
+    "topic": "Konference se zaměřila na analýzu současného bezpečnostního prostředí, které je charakterizováno vysokou mírou nepředvídatelnosti, návratem velmocenského soupeření a hybridními hrozbami. Cílem bylo sdílet zkušenosti mezi českými bezpečnostními autoritami a izraelskými partnery, a to zejména v oblastech protiraketové obrany, kybernetické bezpečnosti, rezilience společnosti a boje proti terorismu.\n\nJednání zdůraznilo nutnost úzké civilně-vojenské spolupráce a potřebu připravit českou společnost na možné krize. Akce sloužila jako platforma pro parlamentní diplomacii a výměnu informací mezi politickou sférou, bezpečnostními sbory a odbornou veřejností.",
     "main_points": [
-      "**Michal Koudelka (BIS)** — Varoval před Ruskem jako největší hrozbou. Zdůraznil, že vztahy s Ruskem a Čínou musí být podmíněny respektem k suverenitě.",
-      "**Karel Řehka (AČR)** — Podpora Ukrajiny je strategický zájem. Varoval před absencí urgence v české společnosti a nutností urychlené modernizace armády.",
-      "**Tomáš Kubík (Policie ČR)** — Vnitřní bezpečnost je spojená s obranou. Uvedl data o kriminalitě cizinců a připravenost policie na hybridní hrozby.",
-      "**Vladimír Vlček (Hasičský záchranný sbor)** — Představil koncepci ochrany obyvatelstva. Zdůraznil, že občan musí být připraven na krizové situace (72hodinová připravenost).",
-      "**Lukáš Kintr (NÚKIB)** — Upozornil na rizika AI, kvantových počítačů a zranitelnost dodavatelských řetězců.",
-      "**Jonathan Speyer (Blízkovýchodní centrum)** — Analyzoval íránskou regionální alianci a varoval před podceňováním ideologického rozměru militantního islámu.",
-      "**Dalibor Stach (ÚDV)** — Historická zkušenost s totalitou je bezpečnostním nástrojem pro prevenci současných hybridních hrozeb.",
-      "**Břetislav Brejcha (NCOZ)** — Varoval před nárůstem násilí mezi mládeží a radikalizací v online komunitách."
+      "**Michal Koudelka (BIS)**: Varoval před Ruskem jako největší hrozbou, která zneužívá slabiny demokratických systémů. Zdůraznil úspěchy v eliminaci ruských zpravodajských důstojníků v ČR a varoval před čínskou technologickou špionáží.",
+      "**Karel Řehka (AČR)**: Upozornil na „absenci urgence“ v české společnosti. Zdůraznil, že podpora Ukrajiny není charita, ale strategický zájem. Volal po urychlené modernizaci armády a vytvoření systému záloh.",
+      "**Tomáš Kubík (Policie ČR)**: Prezentoval statistiky kriminality cizinců a zdůraznil připravenost policie na migrační rizika a potřebu ofenzivního přístupu ke kyberkriminalitě.",
+      "**Vladimír Vlček (Hasičský záchranný sbor)**: Představil koncepci ochrany obyvatelstva do roku 2035 a varoval, že stát není připraven na scénáře velkého rozsahu.",
+      "**Lukáš Kintr (NÚKIB)**: Upozornil na rizika umělé inteligence, kvantových počítačů a zranitelnost dodavatelských řetězců.",
+      "**Jonathan Speyer (Blízkovýchodní centrum pro výzkum)**: Analyzoval íránskou regionální alianci a její metody hybridního boje.",
+      "**David Louhý (Policejní akademie)**: Představil výzkum relevance bezpečnostních hrozeb a varoval před kybernetickou zranitelností moderních vozidel.",
+      "**Břetislav Brejcha (NCTK)**: Varoval před nárůstem násilí mezi mládeží a radikalizací v online komunitách.",
+      "**Dalibor Septák (ÚDV)**: Zdůraznil, že historická zkušenost s totalitními režimy je bezpečnostním nástrojem."
     ],
-    "outcome": "Jednání potvrdilo konsenzus o nutnosti prohloubit civilně-vojenskou spolupráci a urychlit legislativní změny v oblasti krizového řízení. Dominujícím postojem byla shoda na tom, že bezpečnost vyžaduje dlouhodobé investice a celospolečenskou shodu napříč politickým spektrem.",
-    "notes": "Přepis obsahuje technické artefakty (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu (zejména 13–15) vykazovaly sníženou kvalitu přepisu."
+    "outcome": "Jednání potvrdilo shodu na nutnosti posílit celospolečenskou odolnost (rezilienci). Dominujícím postojem je, že bezpečnost není „zadarmo“ a vyžaduje dlouhodobé investice a politický konsenzus napříč volebními cykly. Nebylo přijato formální usnesení, ale konference vyústila v příslib další spolupráce a přípravu navazujících odborných akcí v říjnu 2026.",
+    "notes": "Přepis obsahuje pasáže s automatickými chybami a halucinacemi (např. opakující se fráze v částech 13–15), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
       {"name": "Michal Koudelka", "person_id": null, "affiliation": "BIS"},
       {"name": "Karel Řehka", "person_id": null, "affiliation": "AČR"},
       {"name": "Tomáš Kubík", "person_id": null, "affiliation": "Policie ČR"},
-      {"name": "Vladimír Vlček", "person_id": null, "affiliation": "Hasičský záchranný sbor"},
+      {"name": "Vladimír Vlček", "person_id": null, "affiliation": "HZS ČR"},
       {"name": "Lukáš Kintr", "person_id": null, "affiliation": "NÚKIB"},
-      {"name": "Jonathan Speyer", "person_id": null, "affiliation": "Blízkovýchodní centrum"},
-      {"name": "Dalibor Stach", "person_id": null, "affiliation": "ÚDV"},
-      {"name": "Břetislav Brejcha", "person_id": null, "affiliation": "NCOZ"}
+      {"name": "Jonathan Speyer", "person_id": null, "affiliation": "Blízkovýchodní centrum pro výzkum"},
+      {"name": "David Louhý", "person_id": null, "affiliation": "Policejní akademie ČR"},
+      {"name": "Břetislav Brejcha", "person_id": null, "affiliation": "NCTK"},
+      {"name": "Dalibor Septák", "person_id": null, "affiliation": "ÚDV"}
     ],
     "parties": [],
-    "institutions": ["Poslanecká sněmovna", "BIS", "AČR", "Policie ČR", "NÚKIB", "ÚDV", "NCOZ"]
+    "institutions": ["Poslanecká sněmovna", "BIS", "AČR", "Policie ČR", "HZS ČR", "NÚKIB", "NCTK", "ÚDV"]
   },
   "highlights": [
     {
-      "text": "Svoboda není zadarmo a stát si musí uvědomit, že do vnější i vnitřní bezpečnosti je potřeba investovat.",
-      "type": "citation",
-      "speaker": "Tomáš Kubík",
-      "affiliation": "Policie ČR",
-      "timestamp": "7/00:00"
-    },
-    {
-      "text": "Podpora Ukrajiny není altruismem, je to náš strategický zájem.",
+      "text": "Podpora Ukrajiny není altruismem a není žádnou charitou, podpora Ukrajiny je naším strategickým zájmem.",
       "type": "citation",
       "speaker": "Karel Řehka",
       "affiliation": "AČR",
       "timestamp": "4/04:03"
+    },
+    {
+      "text": "Svoboda prostě není zadarmo a ten stát si musí uvědomit, že jak do vnější, tak do vnitřní bezpečnosti je potřeba investovat.",
+      "type": "citation",
+      "speaker": "Tomáš Kubík",
+      "affiliation": "Policie ČR",
+      "timestamp": "7/00:01"
     },
     {
       "text": "Nejčastější příčinou úspěšných kyberútoků je selhání lidského faktoru, nikoli technologický nedostatek.",
@@ -112,9 +115,9 @@ Přepis obsahuje technické artefakty (useknutá slova, opakující se fráze), 
   ],
   "controversial": [
     {
-      "statement": "Břetislav Brejcha (NCOZ) navrhl otevřít debatu o snížení věku trestní odpovědnosti a zavedení detenčních mechanismů pro mladistvé, kteří vyhrožují násilím. Je to citlivý zásah do práv dětí a výchovného systému.",
+      "statement": "Břetislav Brejcha (NCTK) navrhl otevřít diskuzi o snížení věku trestní odpovědnosti kvůli radikalizaci mládeže. Je to politicky citlivé téma zasahující do práv dětí a výchovného systému.",
       "speaker": "Břetislav Brejcha",
-      "affiliation": "NCOZ",
+      "affiliation": "NCTK",
       "timestamp": "21/04:01"
     }
   ],

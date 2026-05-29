@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T13:10:08",
-  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "created_at": "2026-05-29T14:10:36",
+  "model_hint": "gemini-3.1-flash-lite",
   "event": {
-    "id": "2783",
+    "id": "21897",
     "name": "Konference na téma „Počínšťování Tibetu“",
     "classification": "Konference",
     "start_date": "2026-03-25",
-    "end_date": null,
+    "end_date": "2026-03-25",
     "sources": [
       "final/event_2783_2026-03-25_tiskova-konference-poslaneckeho-klubu-piratu.md"
     ]
@@ -15,26 +15,20 @@
   "transcription": {
     "parts_transcribed": 1,
     "parts_total": 1,
-    "source": "whisper",
+    "source": "mixed",
     "model": null
   },
   "summary": {
-    "topic": "Konference na téma „Počínšťování Tibetu“ se konala ve středu 25. března 2026 v Poslanecké sněmovně. Cílem konference bylo diskutovat aktuální situaci v Tibetu, jeho začlenění do Číny a dopady na tamní obyvatelstvo.",
+    "topic": "Konference „Počínšťování Tibetu“: Cílem akce pořádané poslankyní Helenou Langšádlovou ve spolupráci se projektem Sinopsis a Orientálním ústavem AV ČR bylo analyzovat aktuální politickou a společenskou situaci v Tibetu. Konference se zaměřila na strategické ambice Pekingu, vliv čínské politiky na tibetskou kulturu a náboženství a na možnosti české podpory Tibetu.\n\nTisková konference Pirátů: Představení „Manifestu energetické bezpečnosti“. Cílem bylo kritizovat absenci vládního plánu v oblasti energetiky a předložit vlastní návrhy řešení pro okamžitou pomoc občanům a dlouhodobou energetickou nezávislost ČR.",
     "main_points": [
-      "- Helena Langšádlová (Poslanecká sněmovna) — zahájila konferenci a uvedla řečníky.",
-      "- Martin Hála (projekt Sinopsis) — vysvětlil proč je Tibet důležitý a aktuální.",
-      "- H.E. Tinlay Chukki (Tibetská exilová vláda, Ženeva) — hovořil o aktuální situaci v Tibetu.",
-      "- Břetislav Rychlík (Senát PČR) — mluvil o zkušenostech první parlamentní delegace ČR v Dharamsale.",
-      "- David Gardáš (projekt Sinopsis) — diskutoval Tibet v kontextu čínských ambicí.",
-      "- Jarmila Ptáčková (Orientální ústav AVČR) — hovořila o počínšťování Tibetu a jeho strategickém významu pro Čínu.",
-      "- Zuzana Ondomišiová (etnografka) — probrala důležitost reinkarnace dalajlamy pro tibetský národ.",
-      "- H.E. Tinlay Chukki — sdílel zkušenosti Tibeťana žijícího v EU.",
-      "- Alexandr Neumann (novinář) — hovořil o české podpoře Tibetu a Havlovském dědictví.",
-      "- Tomáš Etzler (novinář) — diskutoval obtíže informování o Tibetu.",
-      "- Pavel Žáček (poslanec PSP ČR) — mluvil o zkušenostech s exilovou vládou Tibetu."
+      "**Helena Langšádlová (poslankyně)** – Organizátorka konference o Tibetu.",
+      "**Zdeněk Hřib (Piráti)** – Kritika závislosti na ruských energiích, varování před dezinformacemi.",
+      "**Vendula Svobodová (Piráti)** – Návrhy: snížení DPH na potraviny na 6 %, obnova programu Nová zelená úsporám.",
+      "**Jiří Hlavenka (Piráti)** – Varování před výkupem minoritního podílu ČEZu (náklady 250 mld. Kč).",
+      "**Tereza Nislerová (Piráti)** – Návrhy: nulové DPH na investice do energetické soběstačnosti, aukce na OZE."
     ],
-    "outcome": "Konference proběhla ve středu 25. března 2026 v Poslanecké sněmovně. Cílem konference bylo poukázat na problematiku začlenění Tibetu do Číny a jeho dopady.",
-    "notes": "- Přepis je automaticky generovaný a může obsahovat chyby.\n- Části přepisu mohou být nesrozumitelné nebo chybět."
+    "outcome": "Konference proběhla jako odborná diskuse bez formálního legislativního hlasování. Piráti předložili vládě „Manifest energetické bezpečnosti“ a vyzvali ministry k jednání.",
+    "notes": "Přepis tiskové konference Pirátů obsahuje drobné gramatické chyby a opakující se fráze, které byly ignorovány."
   },
   "entities": {
     "speakers": [
@@ -44,75 +38,77 @@
         "affiliation": "Poslanecká sněmovna"
       },
       {
-        "name": "Martin Hála",
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Jiří Hlavenka",
         "person_id": null,
-        "affiliation": "projekt Sinopsis"
+        "affiliation": "Piráti"
       },
       {
-        "name": "H.E. Tinlay Chukki",
+        "name": "Tereza Nislerová",
         "person_id": null,
-        "affiliation": "Tibetská exilová vláda, Ženeva"
-      },
-      {
-        "name": "Břetislav Rychlík",
-        "person_id": "psp:person:6962",
-        "affiliation": "Senát PČR"
-      },
-      {
-        "name": "David Gardáš",
-        "person_id": null,
-        "affiliation": "projekt Sinopsis"
-      },
-      {
-        "name": "Jarmila Ptáčková",
-        "person_id": "psp:person:5245",
-        "affiliation": "Orientální ústav AVČR"
-      },
-      {
-        "name": "Zuzana Ondomišiová",
-        "person_id": null,
-        "affiliation": "etnografka"
-      },
-      {
-        "name": "Alexandr Neumann",
-        "person_id": null,
-        "affiliation": "novinář"
-      },
-      {
-        "name": "Tomáš Etzler",
-        "person_id": null,
-        "affiliation": "novinář"
-      },
-      {
-        "name": "Pavel Žáček",
-        "person_id": "psp:person:5226",
-        "affiliation": "poslanec PSP ČR"
+        "affiliation": "Piráti"
       }
     ],
-    "parties": [],
+    "parties": [
+      "Piráti"
+    ],
     "institutions": [
-      {
-        "name": "Poslanecká sněmovna"
-      },
-      {
-        "name": "projekt Sinopsis"
-      },
-      {
-        "name": "Tibetská exilová vláda"
-      },
-      {
-        "name": "Senát PČR"
-      },
-      {
-        "name": "Orientální ústav AVČR"
-      }
+      "Poslanecká sněmovna",
+      "Sinopsis",
+      "Orientální ústav AV ČR"
     ]
   },
-  "highlights": [],
-  "controversial": [],
+  "highlights": [
+    {
+      "text": "Vyzýváme vládu, aby snížila DPH u základních potravin z 12 % na 6 %.",
+      "type": "paraphrase",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:52",
+      "screenshot_path": "summaries/screenshots/event_2783_highlight_00.jpg",
+      "context": "Aktuální sazba DPH u potravin je od 1. 1. 2024 stanovena na 12 % (zákon č. 235/2004 Sb., o dani z přidané hodnoty). Návrh na snížení na 6 % je politickým požadavkem, jehož dopady na státní rozpočet a reálné koncové ceny pro spotřebitele jsou předmětem ekonomických debat."
+    },
+    {
+      "text": "Stát bude o 250 miliard korun chudší, pokud vykoupí minoritní podíl ČEZu, aniž by to přineslo jediný watt energie.",
+      "type": "paraphrase",
+      "speaker": "Jiří Hlavenka",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:47",
+      "screenshot_path": "summaries/screenshots/event_2783_highlight_01.jpg",
+      "context": "Odhadovaná částka 250 miliard korun vychází z tržní kapitalizace minoritních podílů společnosti ČEZ a aktuálních cen akcií na burze. Tvrzení o nulovém přínosu k produkci energie je interpretací, neboť výkup podílu by státu umožnil plnou kontrolu nad dividendovou politikou a investičními prioritami firmy, nikoliv však okamžité navýšení výrobní kapacity."
+    },
+    {
+      "text": "Energetická nezávislost se buduje teď, daňový systém tomu musí jít naproti.",
+      "type": "citation",
+      "speaker": "Tereza Nislerová",
+      "affiliation": "Piráti",
+      "timestamp": "1/12:05",
+      "screenshot_path": "summaries/screenshots/event_2783_highlight_02.jpg",
+      "context": "Toto tvrzení je politickým názorem na fiskální politiku státu. Energetická nezávislost je strategickým cílem ČR definovaným v dokumentech jako Státní energetická koncepce, přičemž otázka daňových úlev pro energetické projekty je předmětem probíhajících legislativních diskusí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Zdeněk Hřib (Piráti)** označil snahu o obnovení dodávek ruské ropy a plynu za „krok nemorální, hanebný“ a přirovnal to k situaci, kdy si „alkoholik dá další dávku“.",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:03",
+      "screenshot_path": "summaries/screenshots/event_2783_controversy_00.jpg",
+      "context": "Výrok je hodnotícím soudem (názorem) politika. Fakticky lze doložit, že ČR v roce 2023 a 2024 postupně snižovala závislost na ruských fosilních palivech (dle dat MPO ČR), přičemž debaty o případném využívání stávající infrastruktury pro ruské suroviny jsou v politické rovině vnímány jako v rozporu s bezpečnostní strategií státu."
+    }
+  ],
   "quality": {
-    "transcript_quality": "partial",
-    "unintelligible_parts": true
+    "transcript_quality": "good",
+    "unintelligible_parts": false
   },
   "extras": null
 }

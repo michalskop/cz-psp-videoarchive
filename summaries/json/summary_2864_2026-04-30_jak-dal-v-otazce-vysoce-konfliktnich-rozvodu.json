@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:09:37",
+  "created_at": "2026-05-29T14:53:50",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2864",
@@ -19,47 +19,57 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání se zaměřilo na problematiku vysoce konfliktních rozvodů a rozchodů rodičů, jejichž dopady negativně ovlivňují nezletilé děti. Cílem bylo identifikovat „slepá místa“ v současné legislativě a praxi, zhodnotit dopady nedávné rozvodové novely a navrhnout konkrétní kroky pro zlepšení situace.\n\nÚčastníci se shodli, že problémem není primárně hmotné právo, ale procesní praxe, nedostatečná systémová podpora rodin a rozdílná kvalita práce orgánů sociálně-právní ochrany dětí (OSPOD) a soudů v různých regionech. Diskuse směřovala k potřebě multidisciplinárního přístupu, vzdělávání soudců a zefektivnění soudního řízení.",
+    "topic": "Jednání se zaměřilo na problematiku vysoce konfliktních rozvodů a rozchodů rodičů, s cílem identifikovat „bílá místa“ v současné legislativě a praxi. Účastníci hledali cesty, jak těmto konfliktům předcházet, jak je efektivně řešit, pokud již nastanou, a jak chránit zájmy nezletilých dětí.\n\nHlavním cílem bylo posunout debatu od obecných deklarací k praktickým návrhům na změnu procesních postupů, vzdělávání odborníků a systémové propojení aktérů (justice, OSPOD, odborné služby).",
     "main_points": [
-      "**Neidentifikovaná řečníkyně (poslankyně/moderátorka)** — Otevřela téma zákonného zakotvení „Kochemu“, otázku advokáta dítěte, potřebu multidisciplinárních týmů a kritiku rozdílné dostupnosti služeb.",
-      "**Soudce Rudolf (soudce)** — Navrhl tvrdé lhůty pro rozhodování v procesních předpisech a omezení kasační pravomoci odvolacích soudů.",
-      "**Soudce Kotrády (soudce)** — Zdůraznil potřebu operativního nařizování jednání v krátkých periodách a kritizoval rozvolnění lhůt v prozatímních rozhodnutích.",
-      "**Vana Mirovská (veřejnost)** — Upozornila na bezmoc rodičů v konfliktních sporech a selhávání systému při ochraně dětí před rodiči s poruchami osobnosti.",
-      "**Vladimír Polák (soudce, online)** — Rozlišil typy konfliktů a zdůraznil, že každý vyžaduje jiný přístup.",
-      "**Ministerstvo spravedlnosti (zástupkyně)** — Informovala o přípravě technické novely, která má vyjasnit dopady rozvodové novely a tematizovat domácí násilí.",
-      "**Veronika Bočanová (advokátka)** — Argumentovala, že klíčem je metodika, vzdělávání a personální obsazení, nikoliv hmotněprávní změny.",
-      "**Eva Petrová (KVZ)** — Poukázala na mezinárodní judikaturu a potřebu vyčerpat všechny dostupné možnosti před soudním zásahem.",
-      "**Martin Beneš (Dětský ombudsman)** — Navrhl využít kapacity Probační a mediační služby pro rodinné právo a zdůraznil potřebu standardizace služeb."
+      "**Neidentifikovaná řečníkyně (poslankyně/moderátorka)** — Otevřela téma zákonného zakotvení „Kochemu“, otázku advokáta dítěte a nutnost systémové práce s rodinou. Zdůraznila potřebu předvídatelnosti justice.",
+      "**Soudce (Rudolf)** — Navrhl razantní změnu procesních předpisů: stanovení pevných lhůt pro rozhodnutí a omezení kasační pravomoci odvolacích soudů. Doporučil využívat prozatímní rozhodnutí jako nástroj pro „zakonzervování“ situace.",
+      "**Soudce (Pavel Kotrády)** — Podpořil operativní nařizování jednání v krátkých periodách a varoval před prodlužováním řízení.",
+      "**Vana Mirovská (veřejnost)** — Kritizovala nečinnost OSPOD a nemožnost dosáhnout znaleckých posudků. Volala po radikálních krocích u rodičů s poruchami osobnosti.",
+      "**Vladimír Polák (soudce)** — Rozlišil typy konfliktů a varoval před zneužíváním názoru dítěte manipulujícími rodiči.",
+      "**Zástupce Ministerstva spravedlnosti** — Informoval o přípravě technické novely, která má vyjasnit dopady rozvodové legislativy.",
+      "**Veronika Bočanová (advokátka)** — Argumentovala, že nejsou nutné hmotněprávní změny, ale spíše metodika a vzdělávání. Kritizovala rozdílnou kvalitu práce OSPOD.",
+      "**Eva Petrová (KVZ)** — Upozornila na prohrané mezinárodní spory ČR kvůli pomalé reakci justice.",
+      "**Martin Beneš (Dětský ombudsman)** — Navrhl využít kapacity Probační a mediační služby (PMS) pro rodinné právo."
     ],
-    "outcome": "Formální hlasování neproběhlo. Konsenzus panuje v tom, že je nutné:\n* Zefektivnit procesní vedení sporů (rychlost, předvídatelnost).\n* Standardizovat odborné služby pro rodiny a zajistit jejich dostupnost v každém regionu.\n* Jasněji definovat roli kolizního opatrovníka a oddělit ji od běžné agendy OSPODu.\n* Vzdělávat soudce v oblasti psychologie a taktiky vedení procesu.\n* Pokračovat v expertních diskusích za koordinace Dětského ombudsmana.",
-    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova. Obsah byl rekonstruován z kontextu."
+    "outcome": "Jednání nepřineslo formální hlasování, ale silný konsenzus v následujících bodech:\n* **Priorita procesu nad hmotou:** Problém není v zákonech, ale v jejich aplikaci.\n* **Nutnost vzdělávání:** Je třeba zajistit systematické vzdělávání soudců a pracovníků OSPOD.\n* **Standardizace služeb:** Stát musí zajistit dostupnost kvalitních odborných služeb pro rodiny v každém regionu.\n* **Role ombudsmana:** Dětský ombudsman bude koordinovat další kroky a apelovat na MPSV a Ministerstvo spravedlnosti.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova. Obsah byl rekonstruován na základě srozumitelných pasáží."
   },
   "entities": {
     "speakers": [
       {
-        "name": "Soudce Rudolf",
-        "person_id": null,
-        "affiliation": "Soudnictví"
+        "name": "Rudolf",
+        "person_id": "psp:person:3546",
+        "affiliation": "Soudce"
       },
       {
-        "name": "Soudce Kotrády",
+        "name": "Pavel Kotrády",
         "person_id": null,
-        "affiliation": "Soudnictví"
+        "affiliation": "Soudce"
+      },
+      {
+        "name": "Vana Mirovská",
+        "person_id": null,
+        "affiliation": "Veřejnost"
+      },
+      {
+        "name": "Vladimír Polák",
+        "person_id": "psp:person:3318",
+        "affiliation": "Soudce"
       },
       {
         "name": "Veronika Bočanová",
         "person_id": null,
-        "affiliation": "Advokacie"
-      },
-      {
-        "name": "Martin Beneš",
-        "person_id": "psp:person:6747",
-        "affiliation": "Dětský ombudsman"
+        "affiliation": "Advokátka"
       },
       {
         "name": "Eva Petrová",
         "person_id": "psp:person:3214",
         "affiliation": "KVZ"
+      },
+      {
+        "name": "Martin Beneš",
+        "person_id": "psp:person:6747",
+        "affiliation": "Dětský ombudsman"
       }
     ],
     "parties": [],
@@ -72,41 +82,49 @@
   },
   "highlights": [
     {
-      "text": "Problém není v hmotném právu, ale v taktice vedení procesu a v neschopnosti detekovat konflikt hned na začátku.",
-      "type": "citation",
+      "text": "Problém není v hmotném právu, ale v taktice vedení procesu a v tom, jak včas detekovat konflikt.",
+      "type": "paraphrase",
       "speaker": "Soudce Rudolf",
-      "affiliation": "Soudnictví",
+      "affiliation": "Soudce",
       "timestamp": "10/02:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_highlight_00.jpg",
-      "context": "Jde o subjektivní odborný názor na procesní efektivitu soudnictví. Problematika délky řízení a procesní taktiky stran je dlouhodobě diskutována v rámci reformy civilního procesu a zákona č. 99/1963 Sb., občanský soudní řád."
+      "screenshot_path": "summaries/screenshots/event_2864_highlight_00.jpg",
+      "context": "Jde o subjektivní odborný názor na procesní právo. Efektivita soudního řízení je dlouhodobě diskutovaným tématem v rámci reformy civilního procesu, avšak hodnocení taktiky vedení sporu je individuální kompetencí soudce."
     },
     {
-      "text": "Pokud rodič bude mít pocit, že gradací konfliktu vydělá, bude rozvod vysoce konfliktní.",
-      "type": "citation",
-      "speaker": "Pavel Kotrády",
-      "affiliation": "Soudnictví",
-      "timestamp": "3/09:43",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_highlight_01.jpg",
-      "context": "Tvrzení reflektuje psychologický koncept tzv. 'strategického konfliktu' v opatrovnických sporech. Empirické studie v oblasti rodinného práva potvrzují, že nastavení systému (např. výživné, péče) může motivovat účastníky k eskalaci konfliktu, pokud vnímají výhodu v jeho vyhrocení."
-    },
-    {
-      "text": "Není možné, aby se záležitosti dětí řešily plynutím času, což je hlavní příčina prohraných sporů u Štrasburského soudu.",
-      "type": "citation",
+      "text": "Není možné, aby se záležitosti dětí řešily plynutím času, což je hlavní příčina prohraných sporů u mezinárodních soudů.",
+      "type": "paraphrase",
       "speaker": "Eva Petrová",
       "affiliation": "KVZ",
       "timestamp": "8/02:48",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_highlight_02.jpg",
-      "context": "Evropský soud pro lidská práva (ESLP) skutečně opakovaně kritizuje ČR za nepřiměřenou délku řízení ve věcech péče o nezletilé (např. rozsudky týkající se práva na respektování rodinného života dle čl. 8 Úmluvy). Průtahy v těchto řízeních jsou považovány za zásadní porušení práv dítěte i rodičů."
+      "screenshot_path": "summaries/screenshots/event_2864_highlight_01.jpg",
+      "context": "Délka řízení je skutečně častým důvodem pro podávání stížností k Evropskému soudu pro lidská práva (ESLP) z důvodu porušení práva na spravedlivý proces v přiměřené lhůtě (čl. 6 Úmluvy). ČR byla v minulosti opakovaně kritizována za průtahy v opatrovnických řízeních."
+    },
+    {
+      "text": "Zadáváme znalecké posudky, které mají zhodnotit, jestli má dítě raději maminku nebo tatínka, což není odborná skutková záležitost.",
+      "type": "citation",
+      "speaker": "Pavel Kotrády",
+      "affiliation": "Soudce",
+      "timestamp": "12/00:43",
+      "screenshot_path": "summaries/screenshots/event_2864_highlight_02.jpg",
+      "context": "Znalecké posudky v oboru psychologie se zaměřují na posouzení výchovných předpokladů a vztahové vazby dítěte, nikoliv na prostou volbu mezi rodiči. Metodika znaleckého zkoumání je upravena zákonem č. 254/2019 Sb., o znalcích, a příslušnými vyhláškami Ministerstva spravedlnosti."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh:** Omezení psychologického znaleckého dokazování v opatrovnických věcech.\n- **Kdo:** Soudce Kotrády (soudce).\n- **Co:** Navrhl výrazně omezit možnost zadávání psychologických posudků, které mají zhodnotit vztah dítěte k rodičům.\n- **Proč:** Jde o zásah do nezávislosti soudce a prodlužuje řízení o měsíce až roky, přičemž výsledek je často zpochybnitelný.",
-      "speaker": "Soudce Kotrády",
-      "affiliation": "Soudnictví",
-      "timestamp": "12/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2864_controversy_00.jpg",
-      "context": "Návrh na omezení znaleckého dokazování je předmětem odborné debaty o novele zákona o znalcích (č. 254/2019 Sb.). Kritici znaleckých posudků poukazují na jejich vysokou cenu, délku vypracování a častou nejednotnost metodik, zatímco zastánci je považují za nezbytný podklad pro rozhodování soudce v komplexních psychologických otázkách."
+      "statement": "Omezení kasační pravomoci odvolacích soudů (zákaz rušení rozsudků prvního stupně).",
+      "speaker": "Soudce Rudolf",
+      "affiliation": "Soudce",
+      "timestamp": "2/02:01",
+      "screenshot_path": "summaries/screenshots/event_2864_controversy_00.jpg",
+      "context": "Kasační princip v českém civilním procesu je omezen zásadou apelační, která preferuje, aby odvolací soud věc meritorně rozhodl, nikoliv ji vracel zpět. Zákaz rušení rozsudků není absolutní, ale řídí se zákonem č. 99/1963 Sb., občanský soudní řád."
+    },
+    {
+      "statement": "Kritika složení OSPOD: „Jak může být složený z lidí, kteří jsou pomalu sami pacienti bez vzdělání.“",
+      "speaker": "Vana Mirovská",
+      "affiliation": "Veřejnost",
+      "timestamp": "13/06:05",
+      "screenshot_path": "summaries/screenshots/event_2864_controversy_01.jpg",
+      "context": "Tvrzení je subjektivním hodnotícím soudem. Kvalifikační předpoklady pro pracovníky OSPOD jsou stanoveny zákonem č. 359/1999 Sb., o sociálně-právní ochraně dětí, a vyžadují specifické odborné vzdělání (sociální práce, právo, psychologie či pedagogika)."
     }
   ],
   "quality": {

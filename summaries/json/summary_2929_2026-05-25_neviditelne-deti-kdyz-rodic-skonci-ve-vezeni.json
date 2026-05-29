@@ -1,0 +1,85 @@
+{
+  "schema_version": "2",
+  "event": {
+    "id": "2929",
+    "name": "Neviditelné děti - když rodič skončí ve vězení",
+    "classification": "Seminář",
+    "start_date": "2026-05-25T10:08",
+    "end_date": "2026-05-25T15:46",
+    "sources": [
+      "final/event_2929_2026-05-25_neviditelne-deti-kdyz-rodic-skonci-ve-vezeni.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 35,
+    "parts_total": 35,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se konal v prostorách Poslanecké sněmovny pod záštitou Ústavně právního výboru a dětského ombudsmana. Cílem akce bylo zviditelnit problematiku dětí, jejichž rodiče jsou ve výkonu trestu nebo vazby, a zahájit diskuzi o implementačním plánu systému sběru dat o těchto dětech.\n\nHlavním účelem bylo pojmenovat systémové nedostatky, které způsobují, že tyto děti zůstávají „neviditelné“ pro orgány sociálně-právní ochrany dětí (OSPOD), školy i další instituce. Seminář se zaměřil na potřebu mezirezortní spolupráce, včasné detekce ohrožení a vytvoření standardizovaných postupů.",
+    "main_points": [
+      "**Zuzana Frejtas-Lopesová (ČHV):** Zdůraznila potřebu sběru dat a mezirezortní spolupráce.",
+      "**Helena Válková (Poslankyně):** Kritizovala nevhodné podmínky ve věznicích pro kontakt s dětmi.",
+      "**Jitka Navrátilová (MU):** Představila koncept „eroze vztahového zakotvení“ jako vývojový proces.",
+      "**Jonáš Lučný (VS ČR):** Potvrdil, že 61 % odsouzených má dítě a připravuje se nová metodika.",
+      "**Jaroslav Hrabálek (Policie ČR):** Informoval o přípravě metodiky pro šetrné zadržení rodiče za přítomnosti dítěte."
+    ],
+    "outcome": "Účastníci přijali usnesení vyzývající vládu a zákonodárce k vytvoření standardizovaného systému podpory dětí vězněných rodičů od okamžiku prvního omezení osobní svobody rodiče, včetně předběžného vyhodnocení situace dítěte.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zuzana Frejtas-Lopesová",
+        "person_id": null,
+        "affiliation": "Český helsinský výbor"
+      },
+      {
+        "name": "Helena Válková",
+        "person_id": "psp:person:6168",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Martin Beneš",
+        "person_id": "psp:person:6747",
+        "affiliation": "Dětský ombudsman"
+      }
+    ],
+    "parties": [
+      "Český helsinský výbor"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo spravedlnosti",
+      "Vězeňská služba ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Kriminalita není dědičná. Dědičné jsou podmínky, ve kterých vyrůstají děti, jejichž rodiče jsou ve vězení.",
+      "type": "paraphrase",
+      "speaker": "Helena Válková",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "4/00:44",
+      "screenshot_path": "summaries/screenshots/event_2929_highlight_00.jpg",
+      "context": "Kriminologické studie (např. výzkumy IKSP) potvrzují, že kriminalita není biologicky dědičná, ale silně koreluje se sociálním prostředím, výchovou a traumatem v rodině. Děti vězněných osob jsou statisticky významně ohroženou skupinou s vyšším rizikem sociálního vyloučení a následné delikvence."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zrušení odboru lidských práv na Úřadu vlády. Martin Beneš vyjádřil obavu, že toto rozhodnutí může zhoršit řešení mezirezortních témat, jako jsou děti uvězněných rodičů.",
+      "speaker": "Martin Beneš",
+      "affiliation": "Dětský ombudsman",
+      "timestamp": "4/08:06",
+      "screenshot_path": "summaries/screenshots/event_2929_controversy_00.jpg",
+      "context": "K reorganizaci agendy lidských práv na Úřadu vlády skutečně došlo v rámci úsporných opatření. Obava z oslabení koordinace mezirezortních témat je legitimním politickým a odborným názorem, neboť zrušení samostatného odboru může vést k roztříštěnosti agendy mezi jednotlivá ministerstva."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-05-29T15:17:12"
+}

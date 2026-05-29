@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:03:19",
+  "created_at": "2026-05-29T14:48:39",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2848",
     "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-23T11:06",
-    "end_date": "2026-04-23T11:28",
+    "start_date": "2026-04-23",
+    "end_date": "2026-04-23",
     "sources": [
       "final/event_2848_2026-04-23_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
     ]
@@ -19,48 +19,46 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání zahrnuje dva různé celky: odbornou konferenci „Demence, léčba a prevence“ a tiskovou konferenci opozičního hnutí Starostové (v rámci „Kabinetu budoucnosti“).\n\nKonference o demenci (plánovaná na 23. 4. 2026) má za cíl odborně diskutovat o prevenci, diagnostice a léčbě demence, a to za účasti odborníků z oblasti gerontologie a psychiatrie. Akci pořádá poslankyně Jana Hanzlíková ve spolupráci s Radou seniorů ČR.\n\nTisková konference Starostů (23. 4. 2026) se zaměřila na kritiku vládní koalice v otázkách financování veřejnoprávních médií, hospodaření s dotacemi (kauza Agrofert), legislativního procesu u stavebního zákona a novely služebního zákona. Cílem bylo prezentovat opoziční pohled na tyto kroky vlády a vyzvat k transparentnější politické diskuzi.",
+    "topic": "Tisková konference byla svolána po jednání „Kabinetu budoucnosti“ (stínové vlády hnutí STAN). Hlavním cílem bylo vyjádřit nesouhlas s vládními kroky v oblasti financování veřejnoprávních médií, kritizovat rozhodnutí vlády zastavit vymáhání zemědělských dotací po firmách spojených s premiérem Babišem a upozornit na legislativní nedostatky vládního návrhu stavebního zákona. Hnutí STAN se vymezuje proti netransparentnosti vládních procesů a varuje před hospodářskými škodami, které mohou tyto změny způsobit.",
     "main_points": [
-      "**Vít Rakušan (Starostové)** — Kritizuje záměr vlády měnit systém financování médií veřejné služby. Upozorňuje na rozpor mezi předvolebními sliby koalice a současnými kroky. Potvrdil svolání pracovní schůzky se zástupci ČT a ČR. Kritizuje rozhodnutí zastavit vymáhání miliardových dotací po firmách spojených s premiérem Babišem.",
-      "**Jan Lacina (Starostové)** — Argumentuje, že současný systém médií funguje a změna vytvoří v rozpočtu díru 8 miliard korun. Ptá se na motivaci koalice a motoristů, kteří otočili svůj postoj k rozpočtové odpovědnosti.",
-      "**Pavla Pivoňka-Vaňková (Starostové)** — Kritizuje rychlé rozhodnutí o zastavení přezkumu dotací pro Agrofert. Oznámila podání podnětu na zemědělský výbor k předvolání předsedy ZIF.",
-      "**Lukáš Vočko (Starostové)** — Označil vládní návrh stavebního zákona za „legislativní zmetek“. Kritizuje absenci řádného legislativního procesu a přílišnou vstřícnost vůči developerům. Varuje před destrukcí státní správy v důsledku novely služebního zákona."
+      "**Vít Rakušan (STAN)** — Kritizoval vládní záměr změnit financování veřejnoprávních médií, varoval před „demontáží státu“ skrze změny ve služebním zákoně a nominačních pravidlech.",
+      "**Jan Lacina (STAN)** — Argumentoval, že současný systém financování médií funguje a vládní návrh vytvoří v rozpočtu „díru“ ve výši 8 miliard korun.",
+      "**Pavla Pivoňka Vaňková (STAN)** — Kritizovala rozhodnutí zastavit přezkum problematických zemědělských dotací pro Agrofert a oznámila podání podnětu na zemědělský výbor.",
+      "**Lukáš Vlček (STAN)** — Odsoudil vládní návrh stavebního zákona jako „legislativní zmetek“, který jde na ruku developerům a postrádá řádné připomínkové řízení."
     ],
-    "outcome": "Konference o demenci je plánovanou odbornou akcí bez rozhodovací pravomoci. V případě tiskové konference opozice nedošlo k žádnému formálnímu rozhodnutí, neboť jde o opoziční platformu. Dominujícím postojem opozice je odmítnutí vládních změn v oblasti médií a stavebního zákona a požadavek na řádnou politickou diskuzi namísto „chaotických“ legislativních změn.",
-    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze (např. „Dnesky den“). Části textu jsou sémanticky nejasné kvůli chybám v přepisu jmen."
+    "outcome": "Jednání nevedlo k žádnému formálnímu rozhodnutí, neboť se jednalo o tiskovou konferenci opozičního subjektu. Konsenzem mezi řečníky je požadavek na zastavení legislativního procesu u stavebního zákona a na otevřenou politickou debatu o financování veřejnoprávních médií.",
+    "notes": "Přepis obsahuje četné technické chyby, výpadky slov a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
       {
         "name": "Vít Rakušan",
         "person_id": "psp:person:6524",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       },
       {
         "name": "Jan Lacina",
         "person_id": "psp:person:6737",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       },
       {
-        "name": "Pavla Pivoňka-Vaňková",
+        "name": "Pavla Pivoňka Vaňková",
         "person_id": "psp:person:6762",
-        "affiliation": "Starostové"
+        "affiliation": "STAN"
       },
       {
-        "name": "Lukáš Vočko",
-        "person_id": null,
-        "affiliation": "Starostové"
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
       }
     ],
     "parties": [
-      "Starostové",
-      "ANO 2011"
+      "STAN"
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Česká televize",
-      "Český rozhlas",
-      "Zemědělský intervenční fond"
+      "Agrofert",
+      "SZIF"
     ]
   },
   "highlights": [
@@ -68,38 +66,46 @@
       "text": "Proč chce současná koalice měnit systém, který bezpečně a velmi dobře funguje, a proč chce dělat díru do rozpočtu dalších 8 miliard korun?",
       "type": "paraphrase",
       "speaker": "Jan Lacina",
-      "affiliation": "Starostové",
+      "affiliation": "STAN",
       "timestamp": "1/06:57",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2848_highlight_00.jpg",
-      "context": "Tvrzení o „díře 8 miliard“ je politickou interpretací rozpočtových dopadů reformy stavebního řízení. Přesná výše nákladů na digitalizaci a transformaci úřadů je předmětem sporů mezi opozicí a Ministerstvem pro místní rozvoj (MMR), přičemž oficiální odhady se v čase vyvíjely."
+      "screenshot_path": "summaries/screenshots/event_2848_highlight_00.jpg",
+      "context": "Tvrzení o „díře 8 miliard“ je interpretací rozpočtových dopadů konkrétního legislativního návrhu. Přesná částka závisí na metodice výpočtu Ministerstva financí ČR a konkrétní podobě pozměňovacích návrhů, nelze tedy bez znalosti konkrétního zákona jednoznačně potvrdit."
     },
     {
-      "text": "Ten původní tisk číslo 67 má 850 stran, zasahuje do 42 zákonů a přichází s komplexním pozměňujícím návrhem, který má 1073 stran.",
+      "text": "Ten navrhovaný tisk 67 je prostě podle mého názoru příkladem toho, jak se technické zákony nemají dělat.",
       "type": "citation",
-      "speaker": "Lukáš Vočko",
-      "affiliation": "Starostové",
-      "timestamp": "2/08:21",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2848_highlight_01.jpg",
-      "context": "Rozsah legislativních změn je doložitelný prostřednictvím sněmovního systému (sps.cz). Počet stran a rozsah novelizovaných zákonů odpovídá komplexnosti vládního návrhu novely stavebního zákona a souvisejících změn."
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "2/07:43",
+      "screenshot_path": "summaries/screenshots/event_2848_highlight_01.jpg",
+      "context": "Označení za „příklad, jak se zákony nemají dělat“ je subjektivní politické hodnocení legislativního procesu. Kvalita legislativy je předmětem diskuse v rámci Legislativní rady vlády a připomínkových řízení."
     },
     {
       "text": "Více jak 67 % zaměstnanců stavebních úřadů odmítá a nechce přejít pod ten nový stavební úřad, tak jak je plánují předkladatelé.",
       "type": "citation",
-      "speaker": "Lukáš Vočko",
-      "affiliation": "Starostové",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
       "timestamp": "3/02:46",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2848_highlight_02.jpg",
-      "context": "Údaj o 67 % zaměstnanců vychází z průzkumu, který realizovaly profesní organizace či odbory (např. Odborový svaz státních orgánů a organizací). Nelze nezávisle ověřit, zda toto číslo reprezentuje aktuální postoj všech úředníků napříč celou republikou, jde o deklarovaný postoj části dotázaných."
+      "screenshot_path": "summaries/screenshots/event_2848_highlight_02.jpg",
+      "context": "Údaj o 67 % zaměstnanců vychází z průzkumů profesních organizací či odborů (např. Odborový svaz státních orgánů a organizací). Oficiální data o ochotě přejít pod Nejvyšší stavební úřad se mohou lišit v závislosti na aktuální fázi reformy a metodice dotazování."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Lukáš Vočko (Starostové)\n**Co:** Označil vládní návrh stavebního zákona za „legislativní zmetek“ a „vražedné kombo“ v kombinaci se služebním zákonem.\n**Proč:** Je to kontroverzní, protože jde o přímý útok na legislativní kompetenci vlády a její schopnost spravovat státní správu, přičemž používá velmi expresivní politický slovník.\n**Čas:** 3/00:01",
-      "speaker": "Lukáš Vočko",
-      "affiliation": "Starostové",
-      "timestamp": "3/00:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2848_controversy_00.jpg",
-      "context": "Označení „legislativní zmetek“ je subjektivní politické hodnocení kvality legislativního procesu. Služební zákon (zákon č. 234/2014 Sb.) a jeho interakce se stavebním zákonem jsou předmětem odborné debaty o efektivitě státní správy, nikoliv faktograficky ověřitelný výrok."
+      "statement": "**Kdo:** Pavla Pivoňka Vaňková (STAN)\n**Co:** Kritika náhlého rozhodnutí zastavit přezkum problematických dotací pro Agrofert.\n**Proč:** Jde o střet zájmů premiéra Babiše a podezření z ovlivňování státních institucí.\n**Čas:** 2/04:01",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "2/03:57",
+      "screenshot_path": "summaries/screenshots/event_2848_controversy_00.jpg",
+      "context": "Otázka střetu zájmů Andreje Babiše byla předmětem auditů Evropské komise, které potvrdily existenci střetu zájmů v souvislosti s dotacemi pro holding Agrofert. Zastavení přezkumu je politicky interpretováno jako snaha o ovlivňování institucí, což je předmětem dlouhodobého politického sporu."
+    },
+    {
+      "statement": "**Kdo:** Lukáš Vlček (STAN)\n**Co:** Označení stavebního zákona za „legislativní zmetek“, který jde na ruku developerům.\n**Proč:** Politicky citlivé téma kvůli obvinění z korupčního vlivu lobbistických skupin.\n**Čas:** 2/08:04",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "2/08:04",
+      "screenshot_path": "summaries/screenshots/event_2848_controversy_01.jpg",
+      "context": "Označení „legislativní zmetek“ je politická rétorika. Tvrzení o vlivu developerů na stavební zákon je předmětem veřejné debaty, přičemž kritici zákona (včetně některých opozičních stran a spolků) dlouhodobě poukazují na riziko upřednostnění zájmů stavebních firem před veřejným zájmem."
     }
   ],
   "quality": {

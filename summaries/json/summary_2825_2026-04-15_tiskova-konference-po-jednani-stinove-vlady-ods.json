@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:54:45",
+  "created_at": "2026-05-29T14:35:35",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2825",
@@ -19,15 +19,15 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána po jednání stínové vlády ODS s cílem představit tzv. „krizový nárazník“. Cílem tohoto souboru opatření je ochránit české domácnosti, firmy a ekonomiku před negativními dopady blízkovýchodní krize, které se projevují nejen vysokými cenami pohonných hmot, ale i nedostatkem surovin a zdražováním financování.\n\nStínová vláda kritizovala současný kabinet Andreje Babiše za nečinnost a vyzvala jej k přepracování rozpočtu na rok 2026, upuštění od populistických slibů a zajištění rozpočtové rezervy.",
+    "topic": "Tisková konference se konala po jednání stínové vlády ODS. Hlavním tématem byla kritika současné vlády Andreje Babiše, která podle opozice nedostatečně reaguje na dopady blízkovýchodní krize na českou ekonomiku. Stínová vláda představila soubor sedmi konkrétních opatření („krizový nárazník“), jejichž cílem je ochránit domácnosti a firmy před růstem cen energií, pohonných hmot a nedostatkem surovin.\n\nKromě ekonomických témat se stínová vláda vyjádřila k legislativnímu chaosu kolem stavebního zákona a deklarovala podporu nezávislosti médií veřejné služby, přičemž se ohradila proti vládním útokům na novináře.",
     "main_points": [
-      "**Martin Kupka (předseda ODS)** — Kritika vlády za „socialistické hrátky“ s cenami pohonných hmot a nečinnost v souvislosti s krizí. Výzva vládě, aby zveřejnila stav zásob ropy, plynu a dalších kritických komodit. Deklaroval podporu nezávislosti médií veřejné služby.",
-      "**Jan Skopeček (místopředseda sněmovny, stínový ministr financí)** — Navrhuje zrušení zastropování marží u paliv a plošné snížení spotřební daně na naftu i benzín. Navrhuje zrychlení daňových odpisů a zvýšení limitu pro technické zhodnocení majetku z 80 000 Kč na 200–300 000 Kč.",
-      "**Pavel Drobil (místopředseda ODS, stínový ministr průmyslu a obchodu)** — Navrhuje odklad plateb DPH a prodloužení odvodového období z jednoho na tři měsíce. Doporučuje aktivaci programu „Záruka energie“ přes Národní rozvojovou banku a zřízení jednotného kontaktního místa pro žádosti firem.",
-      "**Jiří Havránek (stínový ministr práce a sociálních věcí)** — Kritizoval chaos v projednávání stavebního zákona a absenci vládních pozměňovacích návrhů. Podpořil zpružnění státní stavební správy a snížení počtu úřadů."
+      "**Martin Kupka (ODS)** — Kritika vlády za nečinnost, požadavek na zveřejnění zásob komodit, požadavek na přepracování rozpočtu 2026 a deklarace podpory nezávislosti médií.",
+      "**Jan Skopeček (ODS)** — Návrh na snížení spotřební daně na naftu i benzín, zrychlení daňových odpisů a zvýšení limitu pro technické zhodnocení majetku. Kritika novely rozpočtových pravidel.",
+      "**Pavel Drobil (ODS)** — Návrh na odklad plateb DPH, aktivaci programu „Záruka energie“ přes NRB a vytvoření krizového transformačního balíčku pro firmy.",
+      "**Jiří Havránek (ODS)** — Kritika chaosu kolem stavebního zákona, podpora zpružnění stavební správy a diskuse o přesunu agendy podpory bydlení na úřady práce."
     ],
-    "outcome": "Stínová vláda ODS zaslala svůj soubor sedmi opatření na Úřad vlády jako doporučení k inspiraci. Nebylo dosaženo žádného formálního rozhodnutí, neboť jde o opoziční návrhy. Dominujícím postojem je požadavek na přísnější rozpočtovou disciplínu, odmítnutí rozvolňování rozpočtových pravidel a důraz na adresnou pomoc firmám zasaženým energetickou krizí.",
-    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a opakujícím se frázím, nicméně hlavní argumentační linie řečníků jsou zřetelné."
+    "outcome": "Stínová vláda ODS zaslala svůj soubor sedmi opatření na Úřad vlády jako doporučení k řešení krize. Opozice vyjádřila připravenost k dialogu o stavebním zákoně a rozpočtových pravidlech, avšak kritizovala aroganci vládní koalice a její snahu o obstrukce při projednávání návrhů.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -50,6 +50,11 @@
         "name": "Jiří Havránek",
         "person_id": "psp:person:6755",
         "affiliation": "ODS"
+      },
+      {
+        "name": "Marek Martinovský",
+        "person_id": null,
+        "affiliation": "Česká televize"
       }
     ],
     "parties": [
@@ -60,20 +65,22 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
+      "Úřad vlády",
       "Národní rozvojová banka",
+      "EGAP",
       "Česká exportní banka",
-      "EGAP"
+      "Česká televize"
     ]
   },
   "highlights": [
     {
-      "text": "Navrhujeme sedm konkrétních kroků, které mají pomoci ochránit české domácnosti, firmy a českou ekonomiku jako celek.",
-      "type": "paraphrase",
+      "text": "Vláda Andreje Babiše ve vztahu k dopadům blízkovýchodní krize fakticky nedělá kromě těch socialistických hrátek s cenami pohonných hmot téměř nic.",
+      "type": "citation",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
-      "timestamp": "1/01:31",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_highlight_00.jpg",
-      "context": "Jde o politické prohlášení o záměru. Konkrétní kroky jsou předmětem politické debaty a jejich dopad na ekonomiku nelze objektivně ověřit před jejich implementací."
+      "timestamp": "1/00:39",
+      "screenshot_path": "summaries/screenshots/event_2825_highlight_00.jpg",
+      "context": "Tvrzení o „socialistických hrátkách“ je politickým hodnocením. Vláda Andreje Babiše v reakci na růst cen pohonných hmot v roce 2021 a 2022 zavedla opatření jako zastropování cen či dočasné snížení spotřební daně, což jsou standardní fiskální nástroje, nikoliv výhradně socialistické."
     },
     {
       "text": "Navrhujeme snížit spotřební daň nejenom na naftu, ale i na benzín, protože dobře víme, že benzín používá ke svému podnikání celá velká skupina živnostníků.",
@@ -81,32 +88,41 @@
       "speaker": "Jan Skopeček",
       "affiliation": "ODS",
       "timestamp": "1/04:53",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_highlight_01.jpg",
-      "context": "Sazby spotřebních daní z minerálních olejů upravuje zákon č. 353/2003 Sb., o spotřebních daních. Návrh na snížení sazeb je legitimním politickým nástrojem, jehož ekonomický dopad na státní rozpočet a ceny pro konečné spotřebitele je předmětem odborných analýz MF ČR."
+      "screenshot_path": "summaries/screenshots/event_2825_highlight_01.jpg",
+      "context": "Snížení spotřební daně na pohonné hmoty je legitimní ekonomický návrh. Vláda Petra Fialy v roce 2022 skutečně přistoupila k dočasnému snížení spotřební daně u nafty o 1,50 Kč na litr, což bylo v souladu s tehdejší snahou o zmírnění inflačních tlaků."
+    },
+    {
+      "text": "Alena Schillerová otevírá prostor pro to, aby se mohly naplňovat nejrůznější předvolební populistické sliby a zájem na tom držet rozpočet na uzdě pustila úplně za hlavu.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/17:10",
+      "screenshot_path": "summaries/screenshots/event_2825_highlight_02.jpg",
+      "context": "Jde o politickou interpretaci postojů Aleny Schillerové (ANO) k rozpočtové politice. Hodnocení „populismu“ je subjektivní, nicméně debaty o dodržování zákona č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, jsou v Poslanecké sněmovně dlouhodobým předmětem politického střetu."
     },
     {
       "text": "Stínová vláda Občanských demokratů stojí jednomyslně za nezávislostí médií veřejné služby a jsme proti zrušení koncesionářských poplatků.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/14:24",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_highlight_02.jpg",
-      "context": "Koncesionářské poplatky jsou zákonem stanoveným zdrojem financování České televize a Českého rozhlasu (zákony č. 483/1991 Sb. a č. 484/1991 Sb.). Postoj strany k jejich zachování je deklarovanou politickou prioritou."
+      "screenshot_path": "summaries/screenshots/event_2825_highlight_03.jpg",
+      "context": "Postoj ODS k médiím veřejné služby je dlouhodobě deklarován jako podpora jejich nezávislosti. Koncesionářské poplatky jsou zákonem č. 483/1991 Sb. (ČT) a č. 348/2005 Sb. (ČRo) ukotveny jako hlavní zdroj financování, jejich zrušení by vyžadovalo legislativní změnu."
     }
   ],
   "controversial": [
     {
-      "statement": "Kritika novely zákona o rozpočtových pravidlech a pozměňovacích návrhů ministryně Schillerové. ODS to vnímá jako „vrcholně trapnou“ snahu o rozvolnění rozpočtových pravidel, která umožní vládě financovat předvolební sliby namísto deklarovaných priorit (obrana, infrastruktura).",
-      "speaker": "Jan Skopeček a Martin Kupka",
+      "statement": "Kritika novely zákona o rozpočtových pravidlech. Jan Skopeček a Martin Kupka označili návrh za snahu o rozvolnění rozpočtové odpovědnosti a „vrcholně trapnou“ snahu schovat předvolební výdaje za nálepky „obrana“ a „infrastruktura“.",
+      "speaker": "Jan Skopeček, Martin Kupka",
       "affiliation": "ODS",
       "timestamp": "1/16:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2825_controversy_00.jpg",
-      "context": "Hodnocení „vrcholně trapná“ je subjektivní politický názor. Rozpočtová pravidla a jejich případné rozvolňování jsou regulovány zákonem č. 218/2000 Sb., o rozpočtových pravidlech; dopady konkrétních pozměňovacích návrhů na deficit státního rozpočtu podléhají analýzám Národní rozpočtové rady."
+      "screenshot_path": "summaries/screenshots/event_2825_controversy_00.jpg",
+      "context": "Kritika novely zákona o rozpočtových pravidlech se týká debaty o transparentnosti státního rozpočtu. Zda jsou výdaje na obranu či infrastrukturu „skrytými“ předvolebními sliby, je otázkou politické interpretace rozpočtových priorit, nikoliv fakticky ověřitelným faktem."
     }
   ],
   "quality": {
-    "transcript_quality": "partial",
-    "unintelligible_parts": true
+    "transcript_quality": "good",
+    "unintelligible_parts": false
   },
   "extras": null
 }

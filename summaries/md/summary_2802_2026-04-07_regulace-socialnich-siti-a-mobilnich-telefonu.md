@@ -1,43 +1,56 @@
-Toto je strukturované shrnutí odborného panelu k regulaci sociálních sítí a digitálních technologií, který se konal 7. dubna 2026 v Poslanecké sněmovně.
+Toto je strukturované shrnutí odborného panelu k regulaci digitálních technologií a sociálních sítí.
 
 ### 1. Téma a účel jednání
-Jednání bylo koncipováno jako úvodní odborný panel v rámci širší série aktivit zaměřených na problematiku digitální závislosti dětí a mládeže. Cílem organizátorů (poslanci Jan Berky a Jakub Krajner) bylo vytvořit prostor pro odbornou diskuzi, která by předcházela politickým rozhodnutím a regulacím.
+Jednání proběhlo formou online odborného panelu v Poslanecké sněmovně (ID 2802) dne 7. dubna 2026. Cílem akce bylo zahájit odbornou diskuzi o problematice digitální závislosti, dopadech sociálních sítí na děti a mládež a možnostech regulace. Pořadatelé (Jan Berky, Jakub Krajner) zdůraznili potřebu „chytré regulace“ založené na datech a odborných poznatcích, nikoliv pouze na plošných zákazech, a to v návaznosti na probíhající politickou debatu.
 
-Hlavním záměrem bylo analyzovat dopady sociálních sítí a technologií na duševní zdraví dětí, identifikovat roli algoritmů a návykového designu a diskutovat o možnostech „chytré regulace“. Panel se zaměřil na hledání rovnováhy mezi ochranou dětí a zachováním jejich schopnosti fungovat v digitálním světě, přičemž zdůraznil, že samotný zákaz bez doprovodné edukace a systémových změn je nedostatečný.
+Tento panel sloužil jako úvodní aktivita pro sérii čtyř kulatých stolů a závěrečnou konferenci v Bruselu, které mají za cíl vytvořit podklady pro legislativní rozhodování.
 
 ### 2. Hlavní body
-*   **Marcel Ambrož (vedoucí gamblingové ambulance, Sananim):** Upozornil na vysokou míru suicidality (30–40 %) u klientů s nelátkovými závislostmi. Zdůraznil, že online hazard je dnes snadno dostupný a dobře maskovatelný. Navrhl zvážit nástroje typu „rejstříku vyloučených osob“ i pro jiné online závislosti.
-*   **David Bezdomníkov (Společnost Podané ruce):** Varoval před fenoménem „lootboxů“ v online hrách, které u dětí (8–15 let) vytvářejí návyky podobné hazardu. Zdůraznil, že technologie nejsou primární příčinou potíží, ale spíše formou úniku. Kritizoval zanedbanou prevenci v ČR a bagatelizaci problémů ze strany rodičů.
-*   **Dr. David Adam (dětský psychiatr, Bohnice/Amygdala):** Argumentoval tvrdými daty o korelaci mezi sociálními sítěmi a zhoršením duševního zdraví dětí po roce 2010. Podpořil regulaci přístupu k sociálním sítím do 16 let věku. Popsal dopaminovou smyčku vyvolanou „lajky“ jako mechanismus srovnatelný s účinkem kokainu.
-*   **Josef Holý (expert na technologie, spoluautor podcastu Kanárci v síti):** Analyzoval adiktivní design aplikací (nekonečný obsah, notifikace). Upozornil na precedenční rozsudky v USA proti společnostem Meta a Google. Navrhl, aby Evropa usilovala o digitální suverenitu a vytvořila vlastní veřejnoprávní algoritmy, které nebudou prioritizovat pouze pozornost uživatele.
-*   **Petr Lupač (sociolog, FF UK):** Zdůraznil, že korelace neznamená kauzalitu a že problémem je často rodinné klima. Varoval před plošnými zákazy, které mohou vést k migraci dětí na ještě rizikovější platformy. Upozornil na rizika AI společníků, kteří jsou navrženi k budování falešné důvěry.
+*   **Marcel Ambrož (Sananim, vedoucí gamblingové ambulance):**
+    *   Upozornil na vysokou míru suicidality (30–40 %) u klientů s nelátkovými závislostmi.
+    *   Zdůraznil, že online hazard je dnes zcela skrytý a snadno dostupný.
+    *   Navrhl zvážit nástroje typu „rejstříku vyloučených osob“ i pro jiné online závislosti.
+*   **David Bezdomníkov (Společnost Podané ruce):**
+    *   Varoval před fenoménem „lootboxů“ v online hrách, které u dětí (8–15 let) vytvářejí návyky vedoucí k hazardnímu hraní v dospělosti.
+    *   Upozornil na systémový spánkový deficit u mládeže způsobený nočním hraním a používáním telefonů.
+    *   Kritizoval současnou kvalitu prevence v ČR, která je často neprofesionální a založená na „apelu strachu“.
+*   **MUDr. David Adam (psychiatr, Bohnice/3. LF UK, Amygdala):**
+    *   Představil neurovědecký pohled: sociální sítě aktivují dopaminergní systém podobně jako návykové látky (např. kokain).
+    *   Navrhl regulaci sociálních sítí do 16 let věku.
+    *   Varoval před „digitálním dudlíkem“ u dětí 0–6 let, který poškozuje vývoj mozku a lingvistických funkcí.
+*   **Josef Holý (expert na technologie, spoluautor podcastu Kanárci v síti):**
+    *   Popsal mechanismy „pozornostní ekonomiky“ a adiktivního designu (nekonečný obsah, notifikace).
+    *   Citoval interní data firmy ByteDance (TikTok), podle nichž vzniká kompulzivní chování průměrně po 260 zhlédnutých videích.
+    *   Zdůraznil potřebu digitální suverenity Evropy a vytvoření „veřejnoprávních algoritmů“.
+*   **Petr Lupač (sociolog, FF UK):**
+    *   Upozornil, že korelace mezi užíváním sítí a depresivitou neznamená automaticky kauzalitu.
+    *   Kritizoval nízkou míru využívání rodičovských kontrol (pouze 10 % rodičů v ČR).
+    *   Varoval před rizikem „migrace“ dětí na jiné, méně kontrolované platformy (např. AI společníci), pokud se zakáže pouze jedna konkrétní služba.
 
 ### 3. Výsledek / závěr
-Jednání nevedlo k přijetí legislativního návrhu, ale k vytvoření konsenzu v následujících bodech:
-*   **Nutnost systémového řešení:** Zákaz mobilních telefonů ve školách (o přestávkách) je vnímán jako žádoucí, ale pouze jako dílčí krok.
-*   **Priorita prevence:** Je nutné investovat do kvalitních preventivních programů a edukace rodičů, kteří často selhávají v roli „digitálních průvodců“.
-*   **Ochrana nejmenších:** Shoda na potřebě striktního omezení digitálních technologií u dětí do 6 let (tzv. digitální dudlík).
-*   **Evropská cesta:** ČR by měla být aktivnější v rámci EU při prosazování přísnější regulace algoritmů a digitální suverenity.
+Jednání nevedlo k formálnímu hlasování, ale k širokému konsenzu v následujících bodech:
+*   **Nutnost regulace:** Odborníci se shodli na potřebě regulace (zejména u dětí do 16 let), ale varovali před naivními plošnými zákazy bez doprovodné edukace.
+*   **Priorita prevence:** Shoda na nutnosti masivní osvěty rodičů a učitelů a na potřebě systémové podpory duševního zdraví.
+*   **Školní prostředí:** Podpora regulace mobilních telefonů ve školách (zejména o přestávkách), což je vnímáno jako krok ke zlepšení sociální interakce.
+*   **Další postup:** Pořadatelé budou pokračovat kulatými stoly zaměřenými na rizika na sítích, herní mechanismy a mobily ve školách.
 
 ### 4. Poznámky
-Přepis obsahuje četné technické chyby (useknutá slova, chybějící diakritika), avšak odborný obsah byl srozumitelný. Části záznamu byly věnovány diskuzi o AI, která byla identifikována jako nastupující bezpečnostní a psychologické riziko.
+Přepis obsahuje občasné výpadky diakritiky a useknutá slova způsobená automatickým přepisem. Obsah je však srozumitelný a argumenty řečníků jsou jasně identifikovatelné.
 
 ---
 
 ## Doplňující otázky
-*   **Kontroverzní výrok:** Josef Holý označil technologické firmy v Silicon Valley za „techno-fašisty“.
-    *   **Proč:** Jde o silné politické obvinění, které zpochybňuje integritu a demokratické hodnoty největších světových korporací.
+*   **Kontroverzní výrok:** Josef Holý označil provozovatele velkých platforem za „techno-fašisty ze Silicon Valley“, kteří se spojili s Donaldem Trumpem a vyhrožují obchodními cly.
+    *   **Proč:** Jde o silné politické obvinění technologických firem, které přesahuje rámec odborné debaty o dětské závislosti a vstupuje do sféry geopolitiky a volební kampaně.
     *   **Čas:** 12/05:01
 
 ---
 
 ## Klíčové citace pro veřejnost
-*   **Text:** „Lajk na Facebooku vyvolává v mozku reakci velmi podobnou malé dávce kokainu.“ (parafráze)
-    *   **Řečník:** Dr. David Adam (dětský psychiatr) | **Čas:** 3/06:16
-*   **Text:** „Firma ByteDance má změřeno, že návykové chování u náctiletých vzniká průměrně po shlédnutí 260 videí.“ (citace)
-    *   **Řečník:** Josef Holý (expert na technologie) | **Čas:** 5/04:00
-*   **Text:** „V ČR je v současné době zákaz používání sociálních médií u dětí do 15 let, ale tento paragraf je v praxi úplně mrtvý.“ (parafráze)
-    *   **Řečník:** Petr Lupač (sociolog) | **Čas:** 8/02:04
+1.  „Lajk na sociálních sítích dělá v mozku neurovědně velmi podobnou reakci, jako kdybyste si vzali malou dávku kokainu.“ (Citace, MUDr. David Adam, psychiatr, 3/08:01)
+2.  „Firma ByteDance má změřeno, že průměrně u náctileté populace vzniká návykové chování po shlédnutí 260 videí.“ (Citace, Josef Holý, expert na technologie, 5/06:00)
+3.  „Děti, které tráví čas na smartphonu, to dělají na úkor jiných činností, protože den má jen 24 hodin.“ (Parafráze, Petr Lupač, sociolog, 7/02:04)
+4.  „Stát by měl minimálně v kategorii dětí do 6 let nadměrné používání technologií postavit jako věc, za kterou mají rodiče právní odpovědnost.“ (Parafráze, Petr Lupač, sociolog, 8/02:00)
 
 ---
 
@@ -62,58 +75,58 @@ Přepis obsahuje četné technické chyby (useknutá slova, chybějící diakrit
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání bylo koncipováno jako úvodní odborný panel v rámci širší série aktivit zaměřených na problematiku digitální závislosti dětí a mládeže. Cílem organizátorů bylo vytvořit prostor pro odbornou diskuzi, která by předcházela politickým rozhodnutím a regulacím.\n\nHlavním záměrem bylo analyzovat dopady sociálních sítí a technologií na duševní zdraví dětí, identifikovat roli algoritmů a návykového designu a diskutovat o možnostech „chytré regulace“.",
+    "topic": "Jednání proběhlo formou online odborného panelu v Poslanecké sněmovně (ID 2802) dne 7. dubna 2026. Cílem akce bylo zahájit odbornou diskuzi o problematice digitální závislosti, dopadech sociálních sítí na děti a mládež a možnostech regulace. Pořadatelé (Jan Berky, Jakub Krajner) zdůraznili potřebu „chytré regulace“ založené na datech a odborných poznatcích, nikoliv pouze na plošných zákazech, a to v návaznosti na probíhající politickou debatu.\n\nTento panel sloužil jako úvodní aktivita pro sérii čtyř kulatých stolů a závěrečnou konferenci v Bruselu, které mají za cíl vytvořit podklady pro legislativní rozhodování.",
     "main_points": [
-      "**Marcel Ambrož (Sananim):** Upozornil na vysokou míru suicidality u klientů s nelátkovými závislostmi a navrhl rejstřík vyloučených osob.",
-      "**David Bezdomníkov (Společnost Podané ruce):** Varoval před lootboxy v hrách a kritizoval zanedbanou prevenci v ČR.",
-      "**Dr. David Adam (dětský psychiatr):** Podpořil regulaci přístupu k sítím do 16 let a popsal dopaminovou smyčku jako mechanismus srovnatelný s kokainem.",
-      "**Josef Holý (expert na technologie):** Analyzoval adiktivní design aplikací a navrhl vytvoření evropských veřejnoprávních algoritmů.",
-      "**Petr Lupač (sociolog):** Varoval před plošnými zákazy a zdůraznil význam rodinného klimatu a rizika AI společníků."
+      "**Marcel Ambrož (Sananim)** — Upozornil na vysokou míru suicidality u klientů s nelátkovými závislostmi a navrhl nástroje typu „rejstříku vyloučených osob“.",
+      "**David Bezdomníkov (Společnost Podané ruce)** — Varoval před „lootboxy“ v hrách a systémovým spánkovým deficitem u dětí; kritizoval nízkou kvalitu současné prevence.",
+      "**MUDr. David Adam (psychiatr)** — Představil neurovědecký pohled na dopaminergní smyčky; navrhl regulaci sítí do 16 let a varoval před „digitálním dudlíkem“ u dětí 0–6 let.",
+      "**Josef Holý (expert na technologie)** — Popsal mechanismy „pozornostní ekonomiky“; citoval data o vzniku závislosti po 260 videích a volal po digitální suverenitě Evropy.",
+      "**Petr Lupač (sociolog)** — Upozornil na rozdíl mezi korelací a kauzalitou; kritizoval nízké využívání rodičovských kontrol a varoval před migrací dětí na jiné platformy při plošném zákazu."
     ],
-    "outcome": "Jednání vedlo k vytvoření konsenzu v těchto bodech:\n* **Nutnost systémového řešení:** Zákaz mobilů ve školách je dílčí krok.\n* **Priorita prevence:** Nutnost investovat do preventivních programů.\n* **Ochrana nejmenších:** Shoda na omezení technologií u dětí do 6 let.\n* **Evropská cesta:** ČR by měla být aktivnější v EU při regulaci algoritmů.",
-    "notes": null
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale k širokému konsenzu v následujících bodech:\n* **Nutnost regulace:** Odborníci se shodli na potřebě regulace (zejména u dětí do 16 let), ale varovali před naivními plošnými zákazy bez doprovodné edukace.\n* **Priorita prevence:** Shoda na nutnosti masivní osvěty rodičů a učitelů a na potřebě systémové podpory duševního zdraví.\n* **Školní prostředí:** Podpora regulace mobilních telefonů ve školách (zejména o přestávkách), což je vnímáno jako krok ke zlepšení sociální interakce.\n* **Další postup:** Pořadatelé budou pokračovat kulatými stoly zaměřenými na rizika na sítích, herní mechanismy a mobily ve školách.",
+    "notes": "Přepis obsahuje občasné výpadky diakritiky a useknutá slova způsobená automatickým přepisem. Obsah je však srozumitelný a argumenty řečníků jsou jasně identifikovatelné."
   },
   "entities": {
     "speakers": [
-      {"name": "Jan Berky", "person_id": null, "affiliation": "Poslanec"},
-      {"name": "Jakub Krajner", "person_id": null, "affiliation": "Poslanec"},
+      {"name": "Jan Berky", "person_id": null, "affiliation": "Poslanecká sněmovna"},
+      {"name": "Jakub Krajner", "person_id": null, "affiliation": "Poslanecká sněmovna"},
       {"name": "Marcel Ambrož", "person_id": null, "affiliation": "Sananim"},
       {"name": "David Bezdomníkov", "person_id": null, "affiliation": "Společnost Podané ruce"},
-      {"name": "David Adam", "person_id": null, "affiliation": "Dětský psychiatr"},
-      {"name": "Josef Holý", "person_id": null, "affiliation": "Expert na technologie"},
+      {"name": "David Adam", "person_id": null, "affiliation": "3. LF UK / Amygdala"},
+      {"name": "Josef Holý", "person_id": null, "affiliation": null},
       {"name": "Petr Lupač", "person_id": null, "affiliation": "FF UK"}
     ],
     "parties": [],
-    "institutions": ["Poslanecká sněmovna", "Sananim", "Společnost Podané ruce", "FF UK"]
+    "institutions": ["Poslanecká sněmovna", "Sananim", "Společnost Podané ruce", "3. LF UK", "FF UK"]
   },
   "highlights": [
     {
-      "text": "Lajk na Facebooku vyvolává v mozku reakci velmi podobnou malé dávce kokainu.",
-      "type": "paraphrase",
+      "text": "Lajk na sociálních sítích dělá v mozku neurovědně velmi podobnou reakci, jako kdybyste si vzali malou dávku kokainu.",
+      "type": "citation",
       "speaker": "David Adam",
-      "affiliation": "Dětský psychiatr",
-      "timestamp": "3/06:16"
+      "affiliation": "3. LF UK / Amygdala",
+      "timestamp": "3/08:01"
     },
     {
-      "text": "Firma ByteDance má změřeno, že návykové chování u náctiletých vzniká průměrně po shlédnutí 260 videí.",
+      "text": "Firma ByteDance má změřeno, že průměrně u náctileté populace vzniká návykové chování po shlédnutí 260 videí.",
       "type": "citation",
       "speaker": "Josef Holý",
-      "affiliation": "Expert na technologie",
-      "timestamp": "5/04:00"
+      "affiliation": null,
+      "timestamp": "5/06:00"
     },
     {
-      "text": "V ČR je v současné době zákaz používání sociálních médií u dětí do 15 let, ale tento paragraf je v praxi úplně mrtvý.",
+      "text": "Děti, které tráví čas na smartphonu, to dělají na úkor jiných činností, protože den má jen 24 hodin.",
       "type": "paraphrase",
       "speaker": "Petr Lupač",
       "affiliation": "FF UK",
-      "timestamp": "8/02:04"
+      "timestamp": "7/02:04"
     }
   ],
   "controversial": [
     {
-      "statement": "Josef Holý označil technologické firmy v Silicon Valley za „techno-fašisty“.",
+      "statement": "Josef Holý označil provozovatele velkých platforem za „techno-fašisty ze Silicon Valley“, kteří se spojili s Donaldem Trumpem a vyhrožují obchodními cly. \n\n**Proč:** Jde o silné politické obvinění technologických firem, které přesahuje rámec odborné debaty o dětské závislosti a vstupuje do sféry geopolitiky a volební kampaně.",
       "speaker": "Josef Holý",
-      "affiliation": "Expert na technologie",
+      "affiliation": null,
       "timestamp": "12/05:01"
     }
   ],

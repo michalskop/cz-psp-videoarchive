@@ -1,53 +1,56 @@
 Toto shrnutí vychází z přepisu tiskové konference poslaneckého klubu Pirátů konané dne 24. března 2026.
 
 ### 1. Téma a účel jednání
-Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním vládním krokům, které podle řečníků ohrožují demokratické základy státu, nezávislost médií a stabilitu veřejných institucí. Piráti kritizovali vládní záměry v oblasti legislativy týkající se neziskových organizací, financování veřejnoprávních médií a zrušení protikorupčních nástrojů.
+Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním vládním krokům, které podle řečníků ohrožují demokratické základy státu, nezávislost médií a stabilitu veřejných institucí. Piráti kritizovali zejména záměry vlády v oblasti legislativy týkající se neziskových organizací, financování veřejnoprávních médií a zrušení protikorupčního „nominačního zákona“.
 
-Kromě kritiky vlády představili zástupci Pirátů vlastní návrhy v oblasti podpory podnikajících rodičů a reformy penzijního spoření. Závěr konference byl věnován bezpečnostní situaci v ČR v souvislosti s nedávným incidentem v Pardubicích a otázkám modernizace armády.
+Kromě kritiky vládní politiky představili zástupci Pirátů vlastní návrhy v oblasti podpory podnikajících rodičů a reformy penzijního spoření. Závěr konference byl věnován bezpečnostní situaci v ČR v souvislosti s nedávným incidentem v Pardubicích a otázkám financování armády.
 
 ### 2. Hlavní body
 *   **Kateřina Stojanová (Piráti):**
-    *   Kritika vládního záměru prosadit „ruský zákon“ proti neziskovým organizacím; v případě schválení avizuje podání k Ústavnímu soudu.
-    *   Odsouzení snahy vlády zrušit bez náhrady „nominační zákon“ (přijatý v letech 2017–2021), který zajišťuje transparentní výběr odborníků do vedení státních podniků.
+    *   Varovala před tzv. „ruským zákonem“ o neziskových organizacích; v případě jeho schválení avizovala podání návrhu k Ústavnímu soudu.
+    *   Kritizovala záměr vlády zrušit „nominační zákon“ (z let 2017–2021), který zajišťuje transparentní výběr odborníků do vedení státních podniků.
 *   **Ivan Bartoš (Piráti):**
-    *   Kritika vládního plánu na zrušení koncesionářských poplatků, což vnímá jako ohrožení nezávislosti veřejnoprávních médií a jejich podřízení státnímu rozpočtu.
-    *   Varování před dezinformační kampaní a snahou o ovládnutí rad ČT a ČRo.
-    *   Požadavek na zařazení tématu financování médií na jednání Poslanecké sněmovny.
+    *   Odmítl vládní plán na zrušení koncesionářských poplatků a jejich nahrazení financováním ze státního rozpočtu, což považuje za ohrožení nezávislosti České televize a Českého rozhlasu.
+    *   Upozornil na riziko, že se média stanou „hlásnou troubou vládních politiků“.
+    *   V souvislosti s útokem v Pardubicích kritizoval premiéra Babiše za přenášení viny na firmy a volal po posílení rozpočtů bezpečnostních služeb (BIS, kybernetický úřad), které byly podle něj v rozpočtu 2026 kráceny.
 *   **Vendula Svobodová (Piráti):**
-    *   Návrh na férovější podmínky pro podnikající rodiče: odstranění nespravedlnosti při čerpání podpory během rodičovské a sjednocení pravidel pro vedlejší činnost u sociálního a zdravotního pojištění (do 7 let věku dítěte).
+    *   Představila návrhy na podporu podnikajících rodičů: odstranění nespravedlnosti při čerpání podpory po dvouletém období a sjednocení pravidel pro vedlejší činnost u zdravotního a sociálního pojištění (do 7 let věku dítěte).
 *   **Olga Richterová (Piráti):**
-    *   Kritika penzijního systému: české fondy mají nízké výnosy kvůli vysokým poplatkům a svazujícím pravidlům.
-    *   Představení návrhu na snížení poplatků fondů na 0,4 % a limitu 10 % z výnosu, což by mohlo seniorům přinést až o 500 000 Kč více.
-    *   Kvituje vypuštění zastropování věku odchodu do důchodu na 65 letech z vládního plánu.
+    *   Kritizovala neefektivitu českých penzijních fondů (vysoké poplatky, nízké výnosy). Navrhla snížení poplatků na 0,4 % a limit 10 % z výnosu, což by mohlo seniorům přinést až o 500 000 Kč více.
+    *   Kvitovala vypuštění záměru na zastropování věku odchodu do důchodu na 65 letech z legislativního plánu vlády.
 
 ### 3. Výsledek / závěr
-Piráti se rozhodli aktivně vystoupit proti vládním krokům na půdě Poslanecké sněmovny. Konsenzem klubu je nutnost prosadit expertní debatu o financování veřejnoprávních médií a bezpečnostních služeb. Piráti hodlají nadále předkládat vlastní legislativní návrhy (penzijní reforma, podpora rodin) a v případě schválení kontroverzních zákonů (např. „ruský zákon“) využít ústavní žaloby.
+Piráti se dohodli s dalšími opozičními stranami na iniciaci bodu o financování veřejnoprávních médií na plénu Poslanecké sněmovny. Cílem je donutit vládu k vysvětlení záměrů a zahájení expertní debaty. Ivan Bartoš rovněž avizoval snahu o zařazení bezpečnostních témat na jednání výboru pro obranu a pléna sněmovny.
 
 ### 4. Poznámky
-Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo Olga Richterová, „Ota Klempíř“ místo pravděpodobně Martin Baxa nebo jiný ministr kultury, „Samuel Volpe“ místo pravděpodobně jiného poslance) a občasné výpadky diakritiky.
+Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo Richterová, „Ota Klempíř“ místo pravděpodobného ministra kultury/médií) a občasné technické výpadky v textu.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní výroky:**
-    *   **Ivan Bartoš (Piráti):** Označil vládní záměr financovat média z daní za cestu k vytvoření „hlásné trouby vládních politiků“ a kritizoval premiéra Babiše za „alibismus“ a „mlžení“.
-    *   **Proč:** Politicky citlivé téma nezávislosti médií a přímý útok na integritu vládní koalice.
-    *   **Čas:** 1/04:00.
-    *   **Ivan Bartoš (Piráti):** Označil vládní argumentaci o investicích do infrastruktury (např. dráha na Karlštejn) jako „uznatelné náklady pro NATO“ za nesmysl a „neuctivý přístup vůči spojencům“.
-    *   **Proč:** Zpochybňuje legitimitu vládních výdajů na obranu a jejich soulad s požadavky NATO.
-    *   **Čas:** 1/18:03.
+*   **Kontroverzní návrh: Zrušení koncesionářských poplatků**
+    *   **Kdo:** Vláda Andreje Babiše.
+    *   **Co:** Návrh na zrušení koncesionářských poplatků a přechod na financování médií ze státního rozpočtu.
+    *   **Proč:** Opozice (Piráti) to považuje za přímý útok na nezávislost veřejnoprávních médií a snahu o jejich ovládnutí vládou.
+    *   **Čas:** 1/02:15
+
+*   **Kontroverzní výrok: Původ útoku v Pardubicích**
+    *   **Kdo:** Ivan Bartoš (Piráti).
+    *   **Co:** Označil útok na pardubickou firmu za možnou „false flag“ operaci a naznačil, že stopy vedou k Rusku, nikoliv k propalestinským skupinám.
+    *   **Proč:** Politicky citlivé téma spojující bezpečnostní incident s dezinformační válkou a mezinárodní politikou.
+    *   **Čas:** 1/14:03
 
 ---
 
 ## Klíčové citace pro veřejnost
 
 *   **Text:** „Pokud zde ruský zákon přece jen vznikne tak, jak jsme avizovali, budeme podávat návrh na jeho zrušení k Ústavnímu soudu.“ (citace)
-    *   **Řečník:** Kateřina Stojanová (Piráti), **Čas:** 1/00:00.
+    *   **Řečník:** Kateřina Stojanová (Piráti), **Čas:** 1/00:45
 *   **Text:** „Pro nás za Piráty je nepřijatelné, aby financování veřejnoprávních médií bylo součástí státního rozpočtu a stalo se tak předmětem každoročních politických bojů.“ (citace)
-    *   **Řečník:** Ivan Bartoš (Piráti), **Čas:** 1/02:00.
-*   **Text:** „Snížení poplatků na 0,4 % a maximálně 10 % z výnosu jako ty limity pro fondy může lidem přinést až o půl milionu korun více na příspěvek na důchod.“ (parafraze)
-    *   **Řečník:** Olga Richterová (Piráti), **Čas:** 1/08:00.
+    *   **Řečník:** Ivan Bartoš (Piráti), **Čas:** 1/03:40
+*   **Text:** „Snížení poplatků na 0,4 % a maximálně 10 % z výnosu jako ty limity pro fondy může lidem přinést až o půl milionu korun více na příspěvek na důchod.“ (parafráze)
+    *   **Řečník:** Olga Richterová (Piráti), **Čas:** 1/09:00
 
 ---
 
@@ -73,15 +76,15 @@ Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním vládním krokům, které podle řečníků ohrožují demokratické základy státu, nezávislost médií a stabilitu veřejných institucí. Piráti kritizovali vládní záměry v oblasti legislativy týkající se neziskových organizací, financování veřejnoprávních médií a zrušení protikorupčních nástrojů.\n\nKromě kritiky vlády představili zástupci Pirátů vlastní návrhy v oblasti podpory podnikajících rodičů a reformy penzijního spoření. Závěr konference byl věnován bezpečnostní situaci v ČR v souvislosti s nedávným incidentem v Pardubicích a otázkám modernizace armády.",
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním vládním krokům, které podle řečníků ohrožují demokratické základy státu, nezávislost médií a stabilitu veřejných institucí. Piráti kritizovali zejména záměry vlády v oblasti legislativy týkající se neziskových organizací, financování veřejnoprávních médií a zrušení protikorupčního „nominačního zákona“.\n\nKromě kritiky vládní politiky představili zástupci Pirátů vlastní návrhy v oblasti podpory podnikajících rodičů a reformy penzijního spoření. Závěr konference byl věnován bezpečnostní situaci v ČR v souvislosti s nedávným incidentem v Pardubicích a otázkám financování armády.",
     "main_points": [
-      "**Kateřina Stojanová (Piráti)** — Kritika vládního záměru prosadit „ruský zákon“ proti neziskovým organizacím; v případě schválení avizuje podání k Ústavnímu soudu. Odsouzení snahy vlády zrušit bez náhrady „nominační zákon“.",
-      "**Ivan Bartoš (Piráti)** — Kritika vládního plánu na zrušení koncesionářských poplatků, což vnímá jako ohrožení nezávislosti veřejnoprávních médií. Požadavek na zařazení tématu financování médií na jednání Poslanecké sněmovny.",
-      "**Vendula Svobodová (Piráti)** — Návrh na férovější podmínky pro podnikající rodiče: odstranění nespravedlnosti při čerpání podpory během rodičovské a sjednocení pravidel pro vedlejší činnost u sociálního a zdravotního pojištění.",
-      "**Olga Richterová (Piráti)** — Kritika penzijního systému: české fondy mají nízké výnosy kvůli vysokým poplatkům. Představení návrhu na snížení poplatků fondů na 0,4 % a limitu 10 % z výnosu."
+      "**Kateřina Stojanová (Piráti)** — Varovala před tzv. „ruským zákonem“ o neziskových organizacích; v případě jeho schválení avizovala podání návrhu k Ústavnímu soudu. Kritizovala záměr vlády zrušit „nominační zákon“ (z let 2017–2021), který zajišťuje transparentní výběr odborníků do vedení státních podniků.",
+      "**Ivan Bartoš (Piráti)** — Odmítl vládní plán na zrušení koncesionářských poplatků a jejich nahrazení financováním ze státního rozpočtu, což považuje za ohrožení nezávislosti České televize a Českého rozhlasu. Upozornil na riziko, že se média stanou „hlásnou troubou vládních politiků“. V souvislosti s útokem v Pardubicích kritizoval premiéra Babiše za přenášení viny na firmy a volal po posílení rozpočtů bezpečnostních služeb.",
+      "**Vendula Svobodová (Piráti)** — Představila návrhy na podporu podnikajících rodičů: odstranění nespravedlnosti při čerpání podpory po dvouletém období a sjednocení pravidel pro vedlejší činnost u zdravotního a sociálního pojištění (do 7 let věku dítěte).",
+      "**Olga Richterová (Piráti)** — Kritizovala neefektivitu českých penzijních fondů (vysoké poplatky, nízké výnosy). Navrhla snížení poplatků na 0,4 % a limit 10 % z výnosu, což by mohlo seniorům přinést až o 500 000 Kč více. Kvitovala vypuštění záměru na zastropování věku odchodu do důchodu na 65 letech z legislativního plánu vlády."
     ],
-    "outcome": "Piráti se rozhodli aktivně vystoupit proti vládním krokům na půdě Poslanecké sněmovny. Konsenzem klubu je nutnost prosadit expertní debatu o financování veřejnoprávních médií a bezpečnostních služeb. Piráti hodlají nadále předkládat vlastní legislativní návrhy a v případě schválení kontroverzních zákonů využít ústavní žaloby.",
-    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo Olga Richterová, „Ota Klempíř“ místo pravděpodobně Martin Baxa) a občasné výpadky diakritiky."
+    "outcome": "Piráti se dohodli s dalšími opozičními stranami na iniciaci bodu o financování veřejnoprávních médií na plénu Poslanecké sněmovny. Cílem je donutit vládu k vysvětlení záměrů a zahájení expertní debaty. Ivan Bartoš rovněž avizoval snahu o zařazení bezpečnostních témat na jednání výboru pro obranu a pléna sněmovny.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo Richterová, „Ota Klempíř“ místo pravděpodobného ministra kultury/médií) a občasné technické výpadky v textu."
   },
   "entities": {
     "speakers": [
@@ -90,8 +93,8 @@ Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo
       {"name": "Vendula Svobodová", "person_id": null, "affiliation": "Piráti"},
       {"name": "Olga Richterová", "person_id": null, "affiliation": "Piráti"}
     ],
-    "parties": ["Piráti", "ANO"],
-    "institutions": ["Poslanecká sněmovna", "Ústavní soud", "Česká televize", "Český rozhlas", "NATO"]
+    "parties": ["Piráti", "ANO", "TOP 09", "Lidovci"],
+    "institutions": ["Poslanecká sněmovna", "Česká televize", "Český rozhlas", "Ústavní soud", "BIS"]
   },
   "highlights": [
     {
@@ -99,35 +102,35 @@ Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo
       "type": "citation",
       "speaker": "Kateřina Stojanová",
       "affiliation": "Piráti",
-      "timestamp": "1/00:00"
+      "timestamp": "1/00:45"
     },
     {
       "text": "Pro nás za Piráty je nepřijatelné, aby financování veřejnoprávních médií bylo součástí státního rozpočtu a stalo se tak předmětem každoročních politických bojů.",
       "type": "citation",
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
-      "timestamp": "1/02:00"
+      "timestamp": "1/03:40"
     },
     {
       "text": "Snížení poplatků na 0,4 % a maximálně 10 % z výnosu jako ty limity pro fondy může lidem přinést až o půl milionu korun více na příspěvek na důchod.",
       "type": "paraphrase",
       "speaker": "Olga Richterová",
       "affiliation": "Piráti",
-      "timestamp": "1/08:00"
+      "timestamp": "1/09:00"
     }
   ],
   "controversial": [
     {
-      "statement": "**Ivan Bartoš (Piráti):** Označil vládní záměr financovat média z daní za cestu k vytvoření „hlásné trouby vládních politiků“ a kritizoval premiéra Babiše za „alibismus“ a „mlžení“.",
-      "speaker": "Ivan Bartoš",
-      "affiliation": "Piráti",
-      "timestamp": "1/04:00"
+      "statement": "*   **Kontroverzní návrh: Zrušení koncesionářských poplatků**\n    *   **Kdo:** Vláda Andreje Babiše.\n    *   **Co:** Návrh na zrušení koncesionářských poplatků a přechod na financování médií ze státního rozpočtu.\n    *   **Proč:** Opozice (Piráti) to považuje za přímý útok na nezávislost veřejnoprávních médií a snahu o jejich ovládnutí vládou.\n    *   **Čas:** 1/02:15",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "1/02:15"
     },
     {
-      "statement": "**Ivan Bartoš (Piráti):** Označil vládní argumentaci o investicích do infrastruktury (např. dráha na Karlštejn) jako „uznatelné náklady pro NATO“ za nesmysl a „neuctivý přístup vůči spojencům“.",
+      "statement": "*   **Kontroverzní výrok: Původ útoku v Pardubicích**\n    *   **Kdo:** Ivan Bartoš (Piráti).\n    *   **Co:** Označil útok na pardubickou firmu za možnou „false flag“ operaci a naznačil, že stopy vedou k Rusku, nikoliv k propalestinským skupinám.\n    *   **Proč:** Politicky citlivé téma spojující bezpečnostní incident s dezinformační válkou a mezinárodní politikou.\n    *   **Čas:** 1/14:03",
       "speaker": "Ivan Bartoš",
       "affiliation": "Piráti",
-      "timestamp": "1/18:03"
+      "timestamp": "1/14:03"
     }
   ],
   "quality": {

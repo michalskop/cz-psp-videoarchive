@@ -1,64 +1,53 @@
 Zde je strukturované shrnutí tiskové konference ODS ze dne 27. dubna 2026.
 
 ### 1. Téma a účel jednání
-Tisková konference ODS byla svolána za účelem kritiky aktuálních kroků vlády Andreje Babiše, a to zejména v oblastech ekonomiky, energetiky, obranných výdajů a střetu zájmů premiéra. ODS představila svou oponentní činnost, varovala před riziky spojenými s vládní rozpočtovou politikou a prezentovala vlastní návrhy na řešení dopadů geopolitické krize na českou ekonomiku.
+Tisková konference ODS se zaměřila na kritiku aktuálních kroků vlády Andreje Babiše, zejména v oblastech ekonomické stability, energetiky, obranných výdajů a střetu zájmů premiéra. ODS prezentovala svou roli jako opoziční sílu, která nabízí alternativní řešení pro českou ekonomiku a varuje před autoritářskými tendencemi současného vedení státu.
 
-Cílem vystoupení bylo rovněž vymezit se vůči stylu komunikace premiéra Babiše, který podle řečníků vykazuje autoritářské rysy, a informovat o přípravách na nadcházející senátní volby, kde ODS plánuje koordinovanou spolupráci s dalšími stranami proti politice „babišismu“.
-
----
+Cílem konference bylo informovat veřejnost o prioritách stínové vlády ODS, upozornit na rizika spojená s vládním hospodařením a představit oponentní stanoviska k projednávaným vládním tiskům.
 
 ### 2. Hlavní body
-
 *   **Neidentifikovaný řečník (ODS):**
-    *   Kritizoval premiéra za zpochybňování veřejnoprávních médií a snahu o monopol na pravdu prostřednictvím vlastních projevů.
-    *   Představil sedm bodů pro pomoc české ekonomice před dopady krize na Blízkém východě (např. odklad plateb DPH, zkrácení odpisů, podpora energeticky náročných odvětví).
-    *   Varoval před plošnou aplikací jedu Stutox 2 na polích, která ohrožuje necílové živočichy a potravinový řetězec.
-*   **Petr Beník (ODS):**
-    *   Zpochybnil posudek společnosti Portos ohledně střetu zájmů Andreje Babiše. Uvedl, že posudek je právně irelevantní, obsahuje „otevřená vrátka“ a nepřináší jasný závěr o neexistenci střetu zájmů.
-    *   Vyzval Státní zemědělský intervenční fond (SZIF) k zastavení vyplácení dotací holdingu Agrofert, dokud nebude situace právně vyjasněna, aby se předešlo hospodářským škodám.
+    *   Kritizoval premiéra Babiše za jeho komunikaci na sociálních sítích („zprávy z Průhonic“), kterou přirovnal k praktikám autoritářských režimů.
+    *   Upozornil na neřešený střet zájmů premiéra a zneužívání státních fondů k ochraně holdingu Agrofert.
+    *   Představil priority stínové vlády: řešení situace kolem ČEZ, ochrana minoritních akcionářů a podpora digitální ekonomiky a AI.
 *   **Jiří Havránek (ODS):**
-    *   Kritizoval návrh státního závěrečného účtu a varoval před schodky rozpočtu nad 300–400 miliard korun.
-    *   Odsoudil odmítání oponentních návrhů ODS v rozpočtovém výboru a varoval před rizikem nekontrolovaného zadlužování státu.
-    *   Obhajoval rozpočtovou politiku minulé vlády Petra Fialy, která podle něj směřovala ke stabilitě.
+    *   Varoval před rozpočtovými schodky přesahujícími 300–400 miliard korun.
+    *   Kritizoval Alenu Schillerovou za odmítání rozpočtové odpovědnosti a předložení oponentní zprávy k zákonu o rozpočtových pravidlech.
+    *   Upozornil, že současná vládní politika ohrožuje finanční stabilitu republiky.
+*   **Petr Beník (ODS):**
+    *   Analyzoval posudek společnosti Portos ohledně střetu zájmů Andreje Babiše. Tvrdí, že posudek je právně irelevantní a neřeší rizika v režimu „rodinného hospodaření“.
+    *   Vyzval Státní zemědělský intervenční fond (SZIF) k zastavení vyplácení dotací Agrofertu kvůli vysokému riziku hospodářských škod.
+    *   Kategoricky odmítl plošnou aplikaci jedu Stutox II na polích, požaduje pouze cílené zásahy do nor.
 *   **Tematické body:**
-    *   **Obranné výdaje:** ODS odmítá kritiku, že by za minulé vlády neplnila závazky vůči NATO. Uvádí, že v roce 2024 dosáhla výdajů 2,01 % HDP a návrh rozpočtu počítal s 2,34 %. Současnou vládu obviňuje z „rezignace“ na plnění závazků a slabosti v jednáních.
-    *   **Senátní volby:** ODS představí kandidáty v prvních květnových týdnech. Potvrdila strategii spolupráce s dalšími stranami (TOP 09, KDU-ČSL, STAN) v obvodech, kde je cílem porazit kandidáty podporované Andrejem Babišem.
-
----
+    *   **Obranné výdaje:** ODS zdůraznila, že za minulé vlády (Petra Fialy) došlo k nárůstu výdajů na obranu na 2,01 % HDP. Současnou vládu kritizuje za to, že nedosahuje 2% závazku vůči NATO a vymlouvá se na investice do dopravy.
+    *   **Senátní volby:** ODS potvrdila, že v prvních květnových týdnech představí své kandidáty. V mnoha obvodech bude spolupracovat s ostatními stranami (STAN, TOP 09, KDU-ČSL) s cílem vytvořit protiváhu vládní politice.
 
 ### 3. Výsledek / závěr
-Jednání nebylo formálním rozhodovacím procesem, ale politickým prohlášením. ODS se shodla na pokračování opoziční oponentury vůči vládě, zejména v otázkách rozpočtové odpovědnosti a střetu zájmů. Dominujícím postojem je potřeba koordinace demokratických sil v nadcházejících senátních volbách a důraz na dodržování mezinárodních závazků v obraně.
-
----
+Jednání nebylo formálním hlasováním, ale prezentací opoziční strategie. ODS se konsenzuálně shodla na nutnosti pokračovat v tlaku na vládu v otázce střetu zájmů, rozpočtové odpovědnosti a plnění závazků vůči NATO. Dominujícím postojem je odmítnutí „babišismu“ a snaha o koordinaci s ostatními opozičními stranami v nadcházejících senátních volbách.
 
 ### 4. Poznámky
-Přepis obsahuje místy nesrozumitelné pasáže (zejména v části 2/4 a 3/4), kde dochází k výpadkům slov či opakování nesmyslných shluků hlásek. Kontext byl však z okolního textu rekonstruovatelný.
+Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze (např. „v z v z opozice“), které byly pro účely shrnutí ignorovány. Části textu byly místy nesrozumitelné, ale hlavní argumentační linie zůstala zachována.
 
 ---
 
-## Doplňující otázky
-
-*   **Kontroverzní výrok:** Srovnání premiéra Babiše s autoritáři.
-    *   **Kdo:** Neidentifikovaný řečník (ODS).
-    *   **Co:** Uvedl, že premiér dává najevo, že jedinou pravdu lidé uslyší z jeho projevů, což připomíná chování autoritářů v režimech vzdálených demokracii.
-    *   **Proč:** Jde o silné politické obvinění z podkopávání demokratických institucí a svobody médií.
-    *   **Čas:** 1/06:37.
-
----
-
-## Klíčové citace pro veřejnost
-
-*   **Text:** „Vláda se rozhodla seškrtat výdaje na obranu, tak bohužel zasáhlo i do hodnocení plnění našeho závazku.“ (Parafráze)
-    *   **Řečník:** Neidentifikovaný řečník (ODS), **Čas:** 4/01:13.
-*   **Text:** „Státní zemědělský a intervenční fond by se měl zdržet vyplácení všech podpor, neboť hrozí velké hospodářské škody.“ (Citace)
-    *   **Řečník:** Petr Beník (ODS), **Čas:** 3/00:01.
-*   **Text:** „Do budoucích let si zvykneme na schodky, které budou výrazně nad 300 miliard korun, spíše ke 400 miliardám.“ (Citace)
-    *   **Řečník:** Jiří Havránek (ODS), **Čas:** 2/02:04.
+### Doplňující otázky
+*   **Kontroverze: Plošná aplikace jedu Stutox II**
+    *   **Kdo:** Petr Beník (ODS)
+    *   **Co:** Odmítnutí plošného rozhazování jedu na hraboše po povrchu polí.
+    *   **Proč:** Politicky citlivé téma kvůli střetu zájmů mezi ochranou zemědělské produkce a ochranou životního prostředí (otrava predátorů a necílových živočichů).
+    *   **Čas:** 3/04:05
 
 ---
 
-## JSON výstup
+### Klíčové citace pro veřejnost
+1. „Současný premiér podle výlevu na sociálních sítích veřejnoprávní média nepotřebuje, protože dává najevo, že jedinou pravdu se lidé dozvědí z jeho projevů z Průhonic.“ (Citace, Neidentifikovaný řečník, ODS, 1/06:37)
+2. „Státní zemědělský a intervenční fond by se měl zdržet vyplácení všech podpor, neboť hrozí velké hospodářské škody, které bychom nakonec zaplatili my všichni.“ (Citace, Petr Beník, ODS, 3/00:01)
+3. „Do budoucích let si zvykneme na schodky, které budou výrazně nad 300 miliard korun, spíše ke 400 miliardám.“ (Parafráze, Jiří Havránek, ODS, 2/02:04)
+4. „Nechceme krajinu bez hrabošů za cenu krajiny bez života.“ (Citace, Petr Beník, ODS, 3/04:05)
 
+---
+
+### JSON výstup
 ```json
 {
   "schema_version": "2",
@@ -79,55 +68,66 @@ Přepis obsahuje místy nesrozumitelné pasáže (zejména v části 2/4 a 3/4),
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference ODS byla svolána za účelem kritiky aktuálních kroků vlády Andreje Babiše, a to zejména v oblastech ekonomiky, energetiky, obranných výdajů a střetu zájmů premiéra. ODS představila svou oponentní činnost, varovala před riziky spojenými s vládní rozpočtovou politikou a prezentovala vlastní návrhy na řešení dopadů geopolitické krize na českou ekonomiku.\n\nCílem vystoupení bylo rovněž vymezit se vůči stylu komunikace premiéra Babiše, který podle řečníků vykazuje autoritářské rysy, a informovat o přípravách na nadcházející senátní volby, kde ODS plánuje koordinovanou spolupráci s dalšími stranami proti politice „babišismu“.",
+    "topic": "Tisková konference ODS se zaměřila na kritiku aktuálních kroků vlády Andreje Babiše, zejména v oblastech ekonomické stability, energetiky, obranných výdajů a střetu zájmů premiéra. ODS prezentovala svou roli jako opoziční sílu, která nabízí alternativní řešení pro českou ekonomiku a varuje před autoritářskými tendencemi současného vedení státu.\n\nCílem konference bylo informovat veřejnost o prioritách stínové vlády ODS, upozornit na rizika spojená s vládním hospodařením a představit oponentní stanoviska k projednávaným vládním tiskům.",
     "main_points": [
-      "**Neidentifikovaný řečník (ODS)** — Kritizoval premiéra za zpochybňování veřejnoprávních médií a snahu o monopol na pravdu. Představil sedm bodů pro pomoc ekonomice a varoval před plošnou aplikací jedu Stutox 2.",
-      "**Petr Beník (ODS)** — Zpochybnil posudek společnosti Portos ke střetu zájmů Andreje Babiše. Vyzval SZIF k zastavení vyplácení dotací holdingu Agrofert kvůli právní nejistotě.",
-      "**Jiří Havránek (ODS)** — Kritizoval státní závěrečný účet a varoval před rozpočtovými schodky nad 300–400 miliard korun. Odsoudil odmítání oponentních návrhů ODS.",
-      "**Obranné výdaje** — ODS odmítá kritiku plnění závazků vůči NATO; uvádí, že za minulé vlády dosáhla výdajů 2,01 % HDP a plánovala 2,34 %.",
-      "**Senátní volby** — ODS oznámila přípravu kandidátů na květen a strategii spolupráce s dalšími stranami proti politice Andreje Babiše."
+      "**Neidentifikovaný řečník (ODS)** — Kritizoval premiéra Babiše za jeho komunikaci na sociálních sítích („zprávy z Průhonic“), kterou přirovnal k praktikám autoritářských režimů. Upozornil na neřešený střet zájmů premiéra a zneužívání státních fondů k ochraně holdingu Agrofert. Představil priority stínové vlády: řešení situace kolem ČEZ, ochrana minoritních akcionářů a podpora digitální ekonomiky a AI.",
+      "**Jiří Havránek (ODS)** — Varoval před rozpočtovými schodky přesahujícími 300–400 miliard korun. Kritizoval Alenu Schillerovou za odmítání rozpočtové odpovědnosti a předložení oponentní zprávy k zákonu o rozpočtových pravidlech. Upozornil, že současná vládní politika ohrožuje finanční stabilitu republiky.",
+      "**Petr Beník (ODS)** — Analyzoval posudek společnosti Portos ohledně střetu zájmů Andreje Babiše. Tvrdí, že posudek je právně irelevantní a neřeší rizika v režimu „rodinného hospodaření“. Vyzval Státní zemědělský intervenční fond (SZIF) k zastavení vyplácení dotací Agrofertu kvůli vysokému riziku hospodářských škod. Kategoricky odmítl plošnou aplikaci jedu Stutox II na polích, požaduje pouze cílené zásahy do nor.",
+      "**Tematické body** — \n    * **Obranné výdaje:** ODS zdůraznila, že za minulé vlády (Petra Fialy) došlo k nárůstu výdajů na obranu na 2,01 % HDP. Současnou vládu kritizuje za to, že nedosahuje 2% závazku vůči NATO a vymlouvá se na investice do dopravy.\n    * **Senátní volby:** ODS potvrdila, že v prvních květnových týdnech představí své kandidáty. V mnoha obvodech bude spolupracovat s ostatními stranami (STAN, TOP 09, KDU-ČSL) s cílem vytvořit protiváhu vládní politice."
     ],
-    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale politickým prohlášením. ODS se shodla na pokračování opoziční oponentury vůči vládě, zejména v otázkách rozpočtové odpovědnosti a střetu zájmů. Dominujícím postojem je potřeba koordinace demokratických sil v nadcházejících senátních volbách a důraz na dodržování mezinárodních závazků v obraně.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (zejména v části 2/4 a 3/4), kde dochází k výpadkům slov či opakování nesmyslných shluků hlásek. Kontext byl však z okolního textu rekonstruovatelný."
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opoziční strategie. ODS se konsenzuálně shodla na nutnosti pokračovat v tlaku na vládu v otázce střetu zájmů, rozpočtové odpovědnosti a plnění závazků vůči NATO. Dominujícím postojem je odmítnutí „babišismu“ a snaha o koordinaci s ostatními opozičními stranami v nadcházejících senátních volbách.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány. Části textu byly místy nesrozumitelné, ale hlavní argumentační linie zůstala zachována."
   },
   "entities": {
     "speakers": [
-      {"name": "Petr Beník", "person_id": null, "affiliation": "ODS"},
+      {"name": "Neidentifikovaný řečník", "person_id": null, "affiliation": "ODS"},
       {"name": "Jiří Havránek", "person_id": null, "affiliation": "ODS"},
-      {"name": "neidentifikovaný řečník", "person_id": null, "affiliation": "ODS"}
+      {"name": "Petr Beník", "person_id": null, "affiliation": "ODS"}
     ],
     "parties": ["ODS", "KDU-ČSL", "TOP 09", "STAN"],
-    "institutions": ["NATO", "SZIF", "Evropská komise", "Poslanecká sněmovna"]
+    "institutions": ["Poslanecká sněmovna", "NATO", "SZIF", "Evropská unie"]
   },
   "highlights": [
     {
-      "text": "Vláda se rozhodla seškrtat výdaje na obranu, tak bohužel zasáhlo i do hodnocení plnění našeho závazku.",
-      "type": "paraphrase",
-      "speaker": "neidentifikovaný řečník",
+      "text": "Současný premiér podle výlevu na sociálních sítích veřejnoprávní média nepotřebuje, protože dává najevo, že jedinou pravdu se lidé dozvědí z jeho projevů z Průhonic.",
+      "type": "citation",
+      "speaker": "Neidentifikovaný řečník",
       "affiliation": "ODS",
-      "timestamp": "4/01:13"
+      "timestamp": "1/06:37",
+      "screenshot_path": null
     },
     {
-      "text": "Státní zemědělský a intervenční fond by se měl zdržet vyplácení všech podpor, neboť hrozí velké hospodářské škody.",
+      "text": "Státní zemědělský a intervenční fond by se měl zdržet vyplácení všech podpor, neboť hrozí velké hospodářské škody, které bychom nakonec zaplatili my všichni.",
       "type": "citation",
       "speaker": "Petr Beník",
       "affiliation": "ODS",
-      "timestamp": "3/00:01"
+      "timestamp": "3/00:01",
+      "screenshot_path": null
     },
     {
       "text": "Do budoucích let si zvykneme na schodky, které budou výrazně nad 300 miliard korun, spíše ke 400 miliardám.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Jiří Havránek",
       "affiliation": "ODS",
-      "timestamp": "2/02:04"
+      "timestamp": "2/02:04",
+      "screenshot_path": null
+    },
+    {
+      "text": "Nechceme krajinu bez hrabošů za cenu krajiny bez života.",
+      "type": "citation",
+      "speaker": "Petr Beník",
+      "affiliation": "ODS",
+      "timestamp": "3/04:05",
+      "screenshot_path": null
     }
   ],
   "controversial": [
     {
-      "statement": "Srovnání premiéra Babiše s autoritáři: Řečník uvedl, že premiér dává najevo, že jedinou pravdu lidé uslyší z jeho projevů, což připomíná chování autoritářů v režimech vzdálených demokracii.",
-      "speaker": "neidentifikovaný řečník",
+      "statement": "**Kontroverze: Plošná aplikace jedu Stutox II**\n* **Kdo:** Petr Beník (ODS)\n* **Co:** Odmítnutí plošného rozhazování jedu na hraboše po povrchu polí.\n* **Proč:** Politicky citlivé téma kvůli střetu zájmů mezi ochranou zemědělské produkce a ochranou životního prostředí (otrava predátorů a necílových živočichů).\n* **Čas:** 3/04:05",
+      "speaker": "Petr Beník",
       "affiliation": "ODS",
-      "timestamp": "1/06:37"
+      "timestamp": "3/04:05",
+      "screenshot_path": null
     }
   ],
   "quality": {

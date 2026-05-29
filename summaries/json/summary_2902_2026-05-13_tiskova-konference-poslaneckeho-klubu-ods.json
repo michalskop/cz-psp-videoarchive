@@ -1,0 +1,129 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:11:02",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2902",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-13",
+    "sources": [
+      "final/event_2902_2026-05-13_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před mimořádnou schůzí Poslanecké sněmovny s cílem vyjádřit zásadní nesouhlas s návrhem ministryně financí Aleny Schillerové na změnu zákona o rozpočtové odpovědnosti. Představitelé ODS varují, že tento návrh představuje „rozpočtový hazard“, který by umožnil nekontrolované navyšování deficitů státního rozpočtu a ohrozil budoucí finanční stabilitu České republiky.\n\nCílem opozice je zabránit přijetí této novely, kterou vnímají jako zneužití evropské legislativy k oslabení národních rozpočtových pravidel. ODS avizuje, že v případě schválení návrhu je připravena podat podnět k Ústavnímu soudu.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Označil návrh za „otevření Pandořiny skříňky“ a „loupež za bílého dne“. Varoval, že změna umožní budoucím vládám navyšovat schodky o 150–200 miliard Kč ročně. Kritizoval možnost zvýšit výdaje až o 240 miliard Kč při „zhoršených bezpečnostních podmínkách“ bez kontroly Sněmovny. Potvrdil, že ODS připravuje ústavní stížnost.",
+      "**Jan Skopeček (ODS)** — Upozornil, že nejde o řešení jednoho rozpočtu, ale o systémové „vypnutí“ národních rozpočtových pravidel. Zdůraznil, že EU po ČR nevyžaduje takto nízké standardy rozpočtové odpovědnosti. Přirovnal přístup ministryně k „alkoholikovi, kterému se místo léčby povolí pít slabší alkohol“.",
+      "**Vojtěch Munzar (ODS)** — Uvedl, že opozice vytvořila „oponentní zprávu“ k výsledkům rozpočtového výboru. Navrhuje vrácení zákona do druhého čtení, aby bylo možné reagovat na nové pozměňovací návrhy ministryně.",
+      "**Tematické body** — Opozice odmítá účast na schůzi ohledně sjezdu sudetských Němců, kterou označuje za iniciativu SPD rozněcující nenávist."
+    ],
+    "outcome": "Nebyl učiněn žádný formální legislativní závěr, neboť šlo o tiskovou konferenci. Opozice (ODS) potvrdila, že bude proti návrhu zákona o rozpočtové odpovědnosti aktivně vystupovat v rámci mimořádné schůze, požaduje opakování druhého čtení a v případě neúspěchu hodlá napadnout zákon u Ústavního soudu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Vašek",
+        "person_id": "psp:person:4469",
+        "affiliation": "Česká televize"
+      },
+      {
+        "name": "Daniela Habešová",
+        "person_id": null,
+        "affiliation": "CNN Prima News"
+      },
+      {
+        "name": "Daniela Brychtová",
+        "person_id": null,
+        "affiliation": "Český rozhlas"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO 2011",
+      "SPD",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud tohle projde, znamená to, že vláda České republiky krade českým občanům a dalším generacím dobrou budoucnost.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:02",
+      "screenshot_path": "summaries/screenshots/event_2902_highlight_00.jpg",
+      "context": "Jde o politickou rétoriku a hodnotový soud, nikoliv o faktické tvrzení. Dopad vládních opatření na budoucí generace je předmětem politické debaty o udržitelnosti veřejných financí, nikoliv objektivně měřitelný fakt."
+    },
+    {
+      "text": "Vypadá to, že Alena Schillerová věří tomu, že horečka pomine, když rozbije teploměr.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/06:19",
+      "screenshot_path": "summaries/screenshots/event_2902_highlight_01.jpg",
+      "context": "Metafora o „rozbití teploměru“ je politickým obratem kritizujícím snahu o úpravu rozpočtových pravidel (např. změnu metodiky výpočtu deficitu či dluhové brzdy). Fakticky se vztahuje k debatě o tom, zda úprava pravidel zakrývá reálný stav ekonomiky, nebo jej pouze reflektuje."
+    },
+    {
+      "text": "Místo, aby předložila nějaký svůj plán na další konsolidaci veřejných financí, tak místo toho představila plán na zvýšení dluhů.",
+      "type": "citation",
+      "speaker": "Vojtěch Munzar",
+      "affiliation": "ODS",
+      "timestamp": "1/07:07",
+      "screenshot_path": "summaries/screenshots/event_2902_highlight_02.jpg",
+      "context": "Tvrzení o „plánu na zvýšení dluhů“ je interpretací opozičních návrhů na rozvolnění rozpočtových pravidel. Zda konkrétní legislativní návrh povede k faktickému nárůstu dluhu, závisí na budoucím plnění státního rozpočtu a makroekonomickém vývoji, což nelze předem exaktně potvrdit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Alena Schillerová (ministryně financí)\n**Co:** Návrh na rozvolnění rozpočtových pravidel a zavedení únikových doložek pro navyšování deficitů.\n**Proč:** Opozice jej považuje za hazard s budoucností země, „rozbití teploměru“ a cestu k bankrotu, která obchází standardní kontrolní mechanismy Sněmovny.\n**Čas:** 1/02:00",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO 2011",
+      "timestamp": "1/02:00",
+      "screenshot_path": "summaries/screenshots/event_2902_controversy_00.jpg",
+      "context": "Zavedení únikových doložek v rozpočtovém procesu je legitimní legislativní nástroj (např. v rámci zákona č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti). Zda je jejich využití „hazardem“ nebo „nezbytností“, je předmětem politického střetu, nikoliv faktické ověřitelnosti."
+    },
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Odmítnutí účasti na schůzi k sjezdu sudetských Němců.\n**Proč:** ODS nechce asistovat SPD v „nahnědlých iniciativách“ a rozněcování nenávisti.\n**Čas:** 1/12:04",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/12:04",
+      "screenshot_path": "summaries/screenshots/event_2902_controversy_01.jpg",
+      "context": "Účast na akcích spojených se sudetskými Němci je v české politice dlouhodobě kontroverzním tématem. Označení iniciativ SPD jako „nahnědlých“ je politickým hodnocením postojů dané strany, nikoliv právně či fakticky definovaným pojmem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

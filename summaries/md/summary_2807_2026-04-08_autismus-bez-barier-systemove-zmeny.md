@@ -1,52 +1,58 @@
 Zde je strukturované shrnutí jednání kulatého stolu „Autismus bez bariér“.
 
 ### 1. Téma a účel jednání
-Odborný seminář (kulatý stůl) se zaměřil na systémové změny v diagnostice, školství a podpoře osob s poruchami autistického spektra (PAS) v České republice. Cílem bylo propojit zástupce tří klíčových resortů (zdravotnictví, školství, práce a sociálních věcí) a odbornou veřejnost, aby identifikovali kritické bariéry v péči o osoby s PAS napříč celým životním cyklem.
+Odborný seminář (kulatý stůl) se zaměřil na systémové změny v diagnostice, školství a podpoře osob s poruchami autistického spektra (PAS) v České republice. Cílem bylo propojit zástupce tří klíčových resortů (zdravotnictví, školství, práce a sociálních věcí) a odbornou veřejnost, aby identifikovali kritické bariéry v péči o osoby s PAS napříč celým životním cyklem – od včasného záchytu v dětství až po uplatnění na trhu práce v dospělosti.
 
-Hlavním motivem byla potřeba mezioborové spolupráce, včasného záchytu, koordinace péče a vytvoření podmínek pro důstojný život osob s PAS, včetně jejich uplatnění na trhu práce.
+Jednání zdůraznilo potřebu meziresortní spolupráce, sjednocení dat a vytvoření systému koordinované podpory, která by rodinám a osobám s PAS umožnila důstojný život bez nutnosti neustálého obcházení izolovaných institucí.
 
 ---
 
 ### 2. Hlavní body
 
-*   **Ivana Mádlová (poslankyně, organizátorka):** Zdůraznila potřebu komplexní a provázané péče, která reflektuje potřeby osob s PAS v celém životním cyklu.
-*   **Ministr (MPSV):** Avizoval, že v období 2028–2034 budou evropské fondy směřovat do výstavby komunitních pobytových zařízení. Upozornil na nutnost legislativních změn pro poskytování zdravotních úkonů nezdravotníky a na potřebu osvěty pro rodiče dospělých dětí s PAS.
-*   **Alena Šepková (dětská lékařka):** Apelovala na nutnost mezirezortní spolupráce a sjednocení diagnostiky.
-*   **Šárka Bínová (dětská psychiatrička):** Popsala diagnostiku PAS jako klinické vyšetření bez laboratorních metod. Upozornila na kritický nedostatek dětských psychiatrů (cca 100 ambulantních v ČR) a na obtížnou hospitalizaci dětí s těžkou formou PAS v psychiatrických nemocnicích.
-*   **Romana Štrauzová (terapeutka):** Varovala před nadužíváním mobilních technologií u dětí. Prezentovala metodu včasné intervence u batolat, která prokazatelně zlepšuje prognózu dětí.
-*   **Filip Pluhař (Děti úplňku):** Navrhl zavedení pozice „koordinátora podpory“ na obcích s rozšířenou působností, který by rodiny provázel systémem. Kritizoval psychiatrizaci osob s PAS v důsledku nedostatku sociálních služeb.
-*   **Ivana Blašková (MŠMT):** Upozornila na nekonzistenci dat mezi resorty (školství vs. ÚZIS). Podpořila posílení pozic školních psychologů a speciálních pedagogů ze státního rozpočtu.
-*   **Magdalena Šubrt-Tórová (Nautis):** Zdůraznila, že přechod do dospělosti je kritickým obdobím, kdy hrozí ztráta nabytých dovedností. Navrhla model „case managementu“ pro rodiny.
-*   **Zástupci firem (LEGO, IKEA, SAP):** Prezentovali příklady dobré praxe v zaměstnávání osob s PAS. Zdůraznili význam „integračních pracovníků“ (buddy), úpravy pracovního prostředí a pragmatický přístup byznysu k inkluzi.
+*   **Ivana Mádlová (poslankyně):** Organizátorka semináře, zdůraznila potřebu komplexní péče reflektující celý životní cyklus osob s PAS.
+*   **Ministr (MPSV):** Avizoval, že v období 2028–2034 budou evropské fondy směřovat do výstavby pobytových zařízení komunitního typu. Zmínil vyhlášku umožňující nezdravotníkům poskytovat určité úkony.
+*   **Alena Šepková (dětská lékařka):** Upozornila na nutnost meziresortní spolupráce a zapojení praktických dětských lékařů jako „první volby“ v systému.
+*   **Šárka Bínová (dětská psychiatrička):** Popsala diagnostiku dle MKN-11, zdůraznila nedostatek pedopsychiatrů (cca 100 ambulantních v ČR) a nutnost řešit komorbidity (ADHD, úzkosti, sebepoškozování).
+*   **Romana Štrauzová (terapeutka):** Varovala před neefektivními metodami (např. ABA bez evaluace) a zdůraznila význam včasné intervence u batolat (metoda video-tréninku rodičů).
+*   **Filip Pluhař (Děti úplňku):** Advokátní pracovník, zdůraznil potřebu „koordinátora podpory“ na obcích, který by rodiny provázel systémem. Kritizoval psychiatrizaci osob s PAS v důsledku nedostatku sociálních služeb.
+*   **Ivana Blašková (MŠMT):** Upozornila na nesoulad dat mezi školstvím a ÚZISem. Podpořila posílení pozic školních psychologů a speciálních pedagogů ze státního rozpočtu.
+*   **Senátorka Horská:** Apelovala na budování „oáz“ (klidných míst) v nemocnicích namísto drahých lůžkových ústavů.
+*   **Zástupci firem (LEGO, IKEA, SAP):** Prezentovali příklady dobré praxe v zaměstnávání osob s PAS (mentoring, úprava pracovního prostředí, dedikované náborové procesy).
 
 ---
 
 ### 3. Výsledek / závěr
-Jednání potvrdilo konsenzus o nutnosti vytvořit mezirezortní pracovní skupinu, která bude řešit systémové bariéry. Dominujícím postojem je, že současný systém je roztříštěný a rodiny jsou přetíženy administrativou a koordinací péče. Jako klíčové kroky byly identifikovány: zavedení koordinátorů péče, standardizace posuzování náročnosti péče pro příspěvky a podpora komunitních sociálních služeb namísto ústavní péče.
+Nebyl přijat formální legislativní akt, ale došlo ke konsenzu o nutnosti:
+*   Vzniku **meziresortní pracovní skupiny** pro systémové řešení PAS.
+*   Zavedení pozice **koordinátora/case managera** pro rodiny.
+*   Standardizace a kultivace **posudkové služby** (zohlednění náročnosti chování, nikoliv jen základních úkonů).
+*   Podpory **odlehčovacích služeb** a komunitního bydlení.
 
 ---
 
 ### 4. Poznámky
-Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova, což místy ztěžuje interpretaci konkrétních číselných údajů. Části týkající se technických detailů úhradových vyhlášek byly místy nesrozumitelné.
+Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu o technických detailech streamu byly vynechány.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh:** Zrušení povinného přehodnocování příspěvku na péči u stabilizovaných diagnóz PAS.
-    *   **Kdo:** Rodiče a někteří odborníci (např. v diskuzi 4/06:06).
-    *   **Proč:** Je to politicky citlivé, protože stát se obává zneužívání dávek, zatímco rodiče to vnímají jako traumatizující a zbytečnou administrativní zátěž.
+*   **Kontroverze: „Výpalné“ za chráněné dílny**
+    *   **Kdo:** Petr Horský (LEGO Group)
+    *   **Co:** Označil zákonný odvod za nezaměstnávání osob se zdravotním postižením (náhradní plnění přes chráněné dílny) za „výpalné“.
+    *   **Proč:** Firmy to vnímají jako neefektivní daň, která neřeší skutečnou inkluzi, a raději by investovaly do přímého zaměstnávání.
+    *   **Čas:** 27/04:00
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Existuje evidence, že chování osob s PAS se zhoršuje o 20 až 40 %, pokud jsou nuceny žít ve službě ústavního typu.“ (parafráze)
-    *   **Řečník:** Petr Třešňák (Děti úplňku), Část 14/01:00.
-*   **Text:** „Nezaměstnanost osob s PAS je v Evropě odhadována až na 70–90 %.“ (citace)
-    *   **Řečník:** Kateřina Vencova (ČZU), Část 25/06:00.
-*   **Text:** „Máme v ČR jen asi 100 ambulantních dětských psychiatrů na celou republiku.“ (citace)
-    *   **Řečník:** Šárka Bínová (dětská psychiatrička), Část 3/05:00.
+*   **Text:** „Existuje evidence, že chování osob s PAS se zhoršuje o 20 až 40 %, pokud jsou nuceny žít ve službě ústavního typu.“
+    *   **Řečník:** Petr Třešňák (Děti úplňku), **Čas:** 14/00:45
+*   **Text:** „Nezaměstnanost osob s PAS je v Evropě odhadována až na 70–90 %.“
+    *   **Řečník:** Kateřina Vencová (ČZU), **Čas:** 26/04:00
+*   **Text:** „Pokud jako rodič budu chtít dát dítě do speciální školy, předpokládám, že mi bude pomáhat, a ne že budu každý den poslouchat, že někoho poštípalo.“
+    *   **Řečník:** Paní Vingraupová (rodič), **Čas:** 11/07:00
 
 ---
 
@@ -68,61 +74,68 @@ Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slo
   "transcription": {
     "parts_transcribed": 30,
     "parts_total": 30,
-    "source": "whisper-large-v3",
+    "source": "whisper",
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Odborný seminář (kulatý stůl) se zaměřil na systémové změny v diagnostice, školství a podpoře osob s poruchami autistického spektra (PAS) v České republice. Cílem bylo propojit zástupce tří klíčových resortů (zdravotnictví, školství, práce a sociálních věcí) a odbornou veřejnost, aby identifikovali kritické bariéry v péči o osoby s PAS napříč celým životním cyklem.\n\nHlavním motivem byla potřeba mezioborové spolupráce, včasného záchytu, koordinace péče a vytvoření podmínek pro důstojný život osob s PAS, včetně jejich uplatnění na trhu práce.",
+    "topic": "Odborný seminář (kulatý stůl) se zaměřil na systémové změny v diagnostice, školství a podpoře osob s poruchami autistického spektra (PAS) v České republice. Cílem bylo propojit zástupce tří klíčových resortů (zdravotnictví, školství, práce a sociálních věcí) a odbornou veřejnost, aby identifikovali kritické bariéry v péči o osoby s PAS napříč celým životním cyklem.\n\nJednání zdůraznilo potřebu meziresortní spolupráce, sjednocení dat a vytvoření systému koordinované podpory, která by rodinám a osobám s PAS umožnila důstojný život bez nutnosti neustálého obcházení izolovaných institucí.",
     "main_points": [
-      "**Ivana Mádlová (poslankyně)** — Zdůraznila potřebu komplexní a provázané péče v celém životním cyklu.",
-      "**Ministr (MPSV)** — Oznámil směřování evropských fondů (2028–2034) do komunitních pobytových zařízení a nutnost legislativních změn pro nezdravotníky.",
-      "**Šárka Bínová (dětská psychiatrička)** — Upozornila na kritický nedostatek psychiatrů (cca 100 ambulantních) a obtížnost hospitalizace dětí s PAS.",
-      "**Filip Pluhař (Děti úplňku)** — Navrhl zavedení pozice koordinátora podpory na obcích a kritizoval psychiatrizaci osob s PAS kvůli nedostatku sociálních služeb.",
-      "**Ivana Blašková (MŠMT)** — Apelovala na sjednocení dat mezi resorty a posílení školních specialistů ze státního rozpočtu.",
-      "**Zástupci firem (LEGO, IKEA, SAP)** — Prezentovali příklady dobré praxe v zaměstnávání, zdůraznili význam integračních pracovníků (buddy) a úpravy pracovního prostředí."
+      "**Ivana Mádlová (poslankyně)** — zdůraznila potřebu komplexní péče reflektující celý životní cyklus osob s PAS.",
+      "**Ministr (MPSV)** — avizoval směřování evropských fondů (2028–2034) do výstavby komunitních pobytových zařízení.",
+      "**Alena Šepková (dětská lékařka)** — apelovala na meziresortní spolupráci a roli praktických dětských lékařů.",
+      "**Šárka Bínová (dětská psychiatrička)** — popsala diagnostiku MKN-11 a kritický nedostatek pedopsychiatrů (cca 100 ambulantních v ČR).",
+      "**Romana Štrauzová (terapeutka)** — varovala před neefektivními metodami (ABA bez evaluace) a podpořila včasnou intervenci u batolat.",
+      "**Filip Pluhař (Děti úplňku)** — navrhl zavedení koordinátorů podpory na obcích a kritizoval psychiatrizaci osob s PAS kvůli absenci sociálních služeb.",
+      "**Ivana Blašková (MŠMT)** — upozornila na nesoulad dat mezi školstvím a ÚZISem a podpořila posílení školních psychologů.",
+      "**Senátorka Horská** — navrhla budování „oáz“ v nemocnicích namísto drahých ústavů.",
+      "**Zástupci firem (LEGO, IKEA, SAP)** — sdíleli příklady dobré praxe v zaměstnávání (mentoring, úprava prostředí)."
     ],
-    "outcome": "Jednání potvrdilo konsenzus o nutnosti vytvořit mezirezortní pracovní skupinu. Dominujícím postojem je, že současný systém je roztříštěný a rodiny jsou přetíženy administrativou. Klíčové kroky: zavedení koordinátorů péče, standardizace posuzování náročnosti péče a podpora komunitních sociálních služeb.",
-    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova, což místy ztěžuje interpretaci konkrétních číselných údajů."
+    "outcome": "Byl dosažen konsenzus o nutnosti:\n* Vzniku **meziresortní pracovní skupiny**.\n* Zavedení pozice **koordinátora/case managera**.\n* Standardizace **posudkové služby** (zohlednění náročnosti chování).\n* Podpory **odlehčovacích služeb** a komunitního bydlení.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
       {"name": "Ivana Mádlová", "person_id": null, "affiliation": "Poslanecká sněmovna"},
       {"name": "Petr Třešňák", "person_id": null, "affiliation": "Děti úplňku"},
-      {"name": "Šárka Bínová", "person_id": null, "affiliation": "dětská psychiatrie"},
-      {"name": "Magdalena Šubrt-Tórová", "person_id": null, "affiliation": "Nautis"}
+      {"name": "Alena Šepková", "person_id": null, "affiliation": "dětská lékařka"},
+      {"name": "Šárka Bínová", "person_id": null, "affiliation": "dětská psychiatrička"},
+      {"name": "Romana Štrauzová", "person_id": null, "affiliation": "terapeutka"},
+      {"name": "Filip Pluhař", "person_id": null, "affiliation": "Děti úplňku"},
+      {"name": "Ivana Blašková", "person_id": null, "affiliation": "MŠMT"},
+      {"name": "Petr Horský", "person_id": null, "affiliation": "LEGO Group"}
     ],
-    "parties": ["null"],
-    "institutions": ["Ministerstvo práce a sociálních věcí", "Ministerstvo školství, mládeže a tělovýchovy", "Ministerstvo zdravotnictví"]
+    "parties": ["N/A"],
+    "institutions": ["MPSV", "MŠMT", "Ministerstvo zdravotnictví", "Nautis", "Děti úplňku"]
   },
   "highlights": [
     {
       "text": "Existuje evidence, že chování osob s PAS se zhoršuje o 20 až 40 %, pokud jsou nuceny žít ve službě ústavního typu.",
-      "type": "paraphrase",
+      "type": "citation",
       "speaker": "Petr Třešňák",
       "affiliation": "Děti úplňku",
-      "timestamp": "14/01:00"
+      "timestamp": "14/00:45"
     },
     {
       "text": "Nezaměstnanost osob s PAS je v Evropě odhadována až na 70–90 %.",
       "type": "citation",
-      "speaker": "Kateřina Vencova",
+      "speaker": "Kateřina Vencová",
       "affiliation": "ČZU",
-      "timestamp": "25/06:00"
+      "timestamp": "26/04:00"
     },
     {
-      "text": "Máme v ČR jen asi 100 ambulantních dětských psychiatrů na celou republiku.",
+      "text": "Pokud jako rodič budu chtít dát dítě do speciální školy, předpokládám, že mi bude pomáhat, a ne že budu každý den poslouchat, že někoho poštípalo.",
       "type": "citation",
-      "speaker": "Šárka Bínová",
-      "affiliation": "dětská psychiatrie",
-      "timestamp": "3/05:00"
+      "speaker": "Paní Vingraupová",
+      "affiliation": "rodič",
+      "timestamp": "11/07:00"
     }
   ],
   "controversial": [
     {
-      "statement": "Návrh na zrušení povinného přehodnocování příspěvku na péči u stabilizovaných diagnóz PAS.\n\n* **Kdo:** Rodiče a někteří odborníci.\n* **Proč:** Je to politicky citlivé, protože stát se obává zneužívání dávek, zatímco rodiče to vnímají jako traumatizující a zbytečnou administrativní zátěž.\n* **Čas:** 18/06:06",
-      "speaker": "neidentifikovaný řečník",
-      "affiliation": null,
-      "timestamp": "18/06:06"
+      "statement": "Označení zákonného odvodu za nezaměstnávání osob se zdravotním postižením (náhradní plnění přes chráněné dílny) za „výpalné“.",
+      "speaker": "Petr Horský",
+      "affiliation": "LEGO Group",
+      "timestamp": "27/04:00"
     }
   ],
   "quality": {

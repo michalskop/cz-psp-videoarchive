@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:47:39",
+  "created_at": "2026-05-29T14:28:02",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2843",
@@ -19,13 +19,13 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla zaměřena na představení legislativních priorit a postojů poslaneckého klubu ANO k aktuálním ekonomickým a mediálním tématům. Hlavním cílem bylo vyjádřit kritiku vůči hospodaření minulé vlády, představit návrhy na úpravu rozpočtových pravidel a regulaci cen pohonných hmot, a dále informovat o záměrech hnutí v oblasti mediální legislativy (poplatky České televizi).",
+    "topic": "Tisková konference poslaneckého klubu ANO se zaměřila na aktuální legislativní priority hnutí, kritiku hospodaření minulé vlády a postoje k mediální legislativě. Hlavním cílem bylo představit návrhy na úpravu fiskálních pravidel, regulaci cen pohonných hmot a změny v systému koncesionářských poplatků pro Českou televizi.\n\nKromě legislativních témat se řečníci vyjádřili k mediálnímu obrazu hnutí, konkrétně k otázkám účasti na odborných debatách a komunikaci s vládní koalicí ohledně změn ve financování veřejnoprávních médií.",
     "main_points": [
-      "**Neidentifikovaný řečník (poslanec ANO)** — Kritizoval nesoulad mezi národními fiskálními pravidly a realitou hospodaření. Navrhuje prodloužení „únikové doložky“ pro obranné výdaje do roku 2036 a zvýšení výdajových rámců pro liniové stavby. Požaduje, aby vláda mohla regulovat ceny pohonných hmot přímo nařízením.",
-      "**Patrik Nacher (ANO)** — Vyjádřil se ke spotřebitelským úvěrům a mediální legislativě. Upozornil na vyšší než očekávaný nárůst poplatků pro ČT (přes 1 mld. Kč). Představil návrh na osvobození seniorů nad 75 let od poplatků a zvýšení limitu pro firmy z 25 na 50 zaměstnanců. Navrhuje ponechat 25 % výnosů ze sponzoringu ČT televizi, čímž by se snížil dopad nárůstu poplatků."
+      "**Neidentifikovaný řečník (poslanec ANO)**\n    * **Fiskální pravidla:** Kritizoval nesoulad mezi národními fiskálními pravidly (deficit 45–80 mld. Kč) a realitou (loňský deficit 290,7 mld. Kč). Navrhuje prodloužit únikovou doložku pro obranné výdaje (2 % HDP) do roku 2036 a zvýšit výdajové rámce pro liniové stavby (dálnice, energetika, přehrady).\n    * **Regulace cen pohonných hmot:** Navrhuje, aby vláda měla možnost regulovat ceny pohonných hmot přímo nařízením, nikoliv pouze opatřením obecné povahy Ministerstva financí.",
+      "**Patrik Nacher (ANO)**\n    * **Spotřebitelské úvěry:** Vyjádřil připravenost k odborné debatě o zákonu o spotřebitelském úvěru, včetně otázek zastřených úvěrů a posuzování úvěruschopnosti.\n    * **Mediální legislativa:** Kritizoval netransparentnost ohledně nadvýběru koncesionářských poplatků (hovoří o více než miliardě korun).\n    * **Kritika komunikace:** Ohradil se proti způsobu pozvání na debatu Aspen Institute a odmítl nařčení z vyhýbání se diskuzi.\n    * **Návrh změn v poplatcích ČT:** Představil koncept osvobození seniorů nad 75 let od poplatků s možností dobrovolné platby. U firem navrhuje zvýšení limitu pro osvobození z 25 na 50 zaměstnanců a zrušení administrativní evidence."
     ],
-    "outcome": "Jednání bylo informativní tiskovou konferencí, nebylo předmětem hlasování. Dominujícím postojem hnutí ANO je snaha o revizi vládních návrhů v oblasti mediálních poplatků, prosazení vyšší flexibility pro investice do infrastruktury a posílení pravomocí vlády v regulaci cen energií a pohonných hmot.",
-    "notes": "Přepis obsahuje drobné gramatické chyby a useknutá slova. Části textu jsou místy nesrozumitelné kvůli automatickému přepisu."
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nikoliv hlasovacím procesem. Dominujícím postojem hnutí ANO je snaha o revizi vládních návrhů v oblasti financování médií a fiskální politiky. Hnutí deklaruje připravenost k odborné diskuzi, pokud bude probíhat za férových podmínek.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, které byly pro účely shrnutí interpretovány na základě kontextu."
   },
   "entities": {
     "speakers": [
@@ -46,54 +46,47 @@
     "institutions": [
       "Poslanecká sněmovna",
       "Česká televize",
-      "Aspen Institute"
+      "Aspen Institute",
+      "Ministerstvo financí"
     ]
   },
   "highlights": [
     {
-      "text": "Loňský rok skončil v deficitu 290,7 miliardy korun, nikdo vážně uvažující si nemůže myslet, že se příští rok dostaneme na šestkrát nižší deficit.",
+      "text": "Nikdo vážně uvažující si nemůže myslet, že se příští rok dostaneme na šestkrát nižší deficit.",
       "type": "paraphrase",
       "speaker": "neidentifikovaný řečník",
       "affiliation": "ANO",
-      "timestamp": "2/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_highlight_00.jpg",
-      "context": "Deficit státního rozpočtu za rok 2023 skutečně činil 288,5 miliardy korun (dle údajů MF ČR). Tvrzení o nereálnosti šestinásobného snížení deficitu je politickým názorem na rozpočtovou politiku, nikoliv ověřitelným faktem, neboť výše deficitu závisí na budoucích legislativních a ekonomických rozhodnutích vlády."
+      "timestamp": "2/00:35",
+      "screenshot_path": "summaries/screenshots/event_2843_highlight_00.jpg",
+      "context": "Výrok je subjektivním politickým hodnocením rozpočtového výhledu. Reálná výše deficitu závisí na schváleném zákonu o státním rozpočtu pro daný rok a aktuálním makroekonomickém vývoji, který predikuje Ministerstvo financí ČR."
     },
     {
-      "text": "Nadvýběr poplatků pro Českou televizi bude přes miliardu, přitom se mluvilo o nárůstu o 800 milionů.",
-      "type": "paraphrase",
+      "text": "Teď zjišťujeme, že ten nadvýběr bude přes miliardu.",
+      "type": "citation",
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
-      "timestamp": "2/04:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_highlight_01.jpg",
-      "context": "Odhad nárůstu příjmů ČT z koncesionářských poplatků vychází z vládní novely zákona o České televizi. Přesná výše nadvýběru je závislá na počtu nově přihlášených plátců a vývoji ekonomiky, proto nelze v tuto chvíli potvrdit, zda bude částka přesahovat miliardu korun."
+      "timestamp": "2/05:13",
+      "screenshot_path": "summaries/screenshots/event_2843_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit bez specifikace konkrétního daňového titulu či rozpočtové kapitoly, ke které se nadvýběr vztahuje. Data o plnění státního rozpočtu zveřejňuje Ministerstvo financí ČR v měsíčních zprávách."
     },
     {
-      "text": "Navrhujeme osvobodit od poplatků domácnosti seniorů nad 75 let, což se týká zhruba 470 až 480 tisíc lidí.",
-      "type": "paraphrase",
+      "text": "My tam pracujeme s jinou filozofií, s tím 75 let a výš, že ten, komu je více než 75, tak se přestává stávat poplatníkem.",
+      "type": "citation",
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
-      "timestamp": "2/08:08",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_highlight_02.jpg",
-      "context": "Dle dat ČSÚ a statistik České správy sociálního zabezpečení se počet obyvatel ČR ve věku 75 a více let pohybuje v řádech stovek tisíc. Odhad 470–480 tisíc osob odpovídá demografickým datům pro danou věkovou skupinu, nicméně přesný dopad na rozpočet ČT závisí na definici domácnosti a počtu již osvobozených osob."
+      "timestamp": "2/08:20",
+      "screenshot_path": "summaries/screenshots/event_2843_highlight_02.jpg",
+      "context": "V českém daňovém systému neexistuje věková hranice 75 let, po které by fyzická osoba přestala být poplatníkem daně z příjmů. Poplatníkem daně z příjmů fyzických osob je každý, kdo má zdanitelné příjmy, bez ohledu na věk (dle zákona č. 586/1992 Sb., o daních z příjmů)."
     }
   ],
   "controversial": [
     {
-      "statement": "*   **Kdo:** Neidentifikovaný řečník (ANO)\n*   **Co:** Návrh, aby vláda mohla přímo nařízením regulovat ceny pohonných hmot.\n*   **Proč:** Jde o zásah do tržního prostředí, který je politicky citlivý kvůli obavám z narušení volného trhu.\n*   **Čas:** 2/02:06",
-      "speaker": "neidentifikovaný řečník",
-      "affiliation": "ANO",
-      "timestamp": "2/02:06",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_controversy_00.jpg",
-      "context": "Možnost regulace cen pohonných hmot vládou je upravena zákonem č. 526/1990 Sb., o cenách. Vláda má pravomoc stanovit maximální ceny v mimořádné tržní situaci, nicméně plošná regulace je v rozporu s principy volného trhu a právem EU, což činí návrh předmětem politické debaty, nikoliv technického ověření."
-    },
-    {
-      "statement": "*   **Kdo:** Patrik Nacher (ANO)\n*   **Co:** Obvinění organizátorů Aspen Institute z neprofesionálního přístupu (pozvánka den předem) a manipulace se statistikou neúčasti politiků.\n*   **Proč:** Vytváří napětí mezi opozičním politikem a neziskovým sektorem, což je častý bod politického střetu.\n*   **Čas:** 2/06:02",
+      "statement": "**Patrik Nacher (ANO)** kritizoval organizaci debaty Aspen Institute a uvedl, že pozvánka přišla den předem, zatímco ostatní ji měli mít týdny dopředu. Toto tvrzení je politicky citlivé, neboť se jím snaží vyvrátit narativ vládní koalice, že se opozice vyhýbá veřejné diskuzi o mediální legislativě.",
       "speaker": "Patrik Nacher",
       "affiliation": "ANO",
       "timestamp": "2/06:02",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2843_controversy_01.jpg",
-      "context": "Tvrzení o neprofesionálním přístupu a manipulaci se statistikou ze strany Aspen Institute je subjektivním hodnocením Patrika Nachera. Nelze nezávisle ověřit bez přístupu k interní komunikaci organizátorů a konkrétním datům o pozvánkách."
+      "screenshot_path": "summaries/screenshots/event_2843_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o tvrzení o interní komunikaci mezi organizátorem (Aspen Institute) a účastníkem, které není veřejně dohledatelné."
     }
   ],
   "quality": {

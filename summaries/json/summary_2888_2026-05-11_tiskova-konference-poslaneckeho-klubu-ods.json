@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:15:29",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2888",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-11T15:17",
+    "end_date": "2026-05-11T15:44",
+    "sources": [
+      "final/event_2888_2026-05-11_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS (konaná 11. 5. 2026) se zaměřila na aktuální politické dění, zejména na kritiku vládní politiky a reakci na nedávné násilné události při fotbalovém derby. Hlavními tématy byly rozpočtová odpovědnost, bezpečnost na sportovních akcích, výdaje na obranu a mezinárodní vztahy.\n\nCílem konference bylo prezentovat postoje ODS jako opoziční síly, vymezit se vůči krokům vlády (zejména v oblasti rozpočtu a obrany) a navrhnout konkrétní legislativní řešení pro prevenci násilí na stadionech.",
+    "main_points": [
+      "**Martin Kupka (ODS)** – Kritika návrhu Aleny Schillerové na uvolnění rozpočtových pravidel (označeno za „ekonomický zločin“). Hrozba ústavní žalobou v případě schválení. Podpora zapojení zákonů o ČT a ČRo do článku 40 Ústavy. Odmítavý postoj k zákonu o obecném referendu.",
+      "**Jiří Havránek (ODS)** – Návrh na zavedení technologií pro rozpoznávání obličejů na stadionech a pravomoc pořadatelů nevpustit problémové fanoušky. Kritika ministerstva vnitra za nečinnost. Kritika vládních kroků v oblasti důchodové reformy.",
+      "**Jan Lipavský (ODS)** – Kritika vlády za neplnění závazku 2 % HDP na obranu. Označil vládní kroky za „mediální kouřovou clonu“. Odmítl zpolitizování sjezdu Sudetoněmeckého krajanského sdružení ze strany SPD."
+    ],
+    "outcome": "Jednání nebylo legislativním aktem, ale politickým prohlášením. ODS deklarovala:\n* Záměr blokovat návrhy na rozvolnění rozpočtových pravidel (včetně hrozby ústavní žalobou).\n* Snahu o prosazení legislativy pro rozpoznávání obličejů na stadionech.\n* Odmítnutí zákona o obecném referendu.\n* Pokračování v tlaku na vládu ohledně plnění výdajů na obranu.",
+    "notes": "Přepis obsahuje občasné nesrozumitelné pasáže způsobené automatickým přepisem (např. v části o technických detailech kamerových systémů). Části týkající se fotbalového derby byly v přepisu místy nepřehledné kvůli překrývání řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO 2011",
+      "SPD",
+      "Motoristé sobě"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo vnitra",
+      "Česká televize",
+      "Český rozhlas",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud by přes náš odpor návrh vládní koalice prošel, jsme připraveni podat ústavní žalobu.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/09:23",
+      "screenshot_path": "summaries/screenshots/event_2888_highlight_00.jpg",
+      "context": "Podání ústavní žaloby na prezidenta republiky upravuje čl. 65 Ústavy ČR, přičemž k jejímu podání je nutný souhlas třípětinové většiny všech poslanců. Jde o krajní politický nástroj, jehož úspěšnost závisí na rozhodnutí Ústavního soudu."
+    },
+    {
+      "text": "Pro mě osobně by bylo správně, kdybychom opravdu znovu bez ohledu na politická trička řešili cestu využívání face recognition kamerových systémů.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/06:12",
+      "screenshot_path": "summaries/screenshots/event_2888_highlight_01.jpg",
+      "context": "Využívání systémů pro rozpoznávání obličejů (FRT) je v EU regulováno Aktem o umělé inteligenci (AI Act), který stanovuje přísná omezení pro jejich použití v reálném čase orgány činnými v trestním řízení. Debata o jejich zavedení v ČR naráží na střet mezi požadavky na bezpečnost a ochranou soukromí dle GDPR."
+    },
+    {
+      "text": "Andrej Babiš škrtl peníze na obranu a teď se snaží nějakým způsobem zamaskovat následky svého chování.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/10:40",
+      "screenshot_path": "summaries/screenshots/event_2888_highlight_02.jpg",
+      "context": "Výdaje na obranu v období vlád Andreje Babiše (2014–2021) kolísaly; zatímco v absolutních číslech rozpočet MO rostl, podíl na HDP se dlouhodobě pohyboval pod hranicí 2 % HDP, ke které se ČR zavázala v rámci NATO. Hodnocení „škrtání“ je interpretací priorit tehdejší vlády v kontextu rozpočtových schodků."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Martin Kupka (ODS)** označil snahu o uvolnění rozpočtových pravidel za „ekonomický zločin“ a pohrozil ústavní žalobou. Jde o politicky citlivé téma střetu o rozpočtovou odpovědnost mezi opozicí a vládní koalicí, které přímo ovlivňuje státní dluh.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/03:15",
+      "screenshot_path": "summaries/screenshots/event_2888_controversy_00.jpg",
+      "context": "Označení rozpočtových kroků za „ekonomický zločin“ je politickou rétorikou, nikoliv právní kategorií. Rozpočtová pravidla jsou definována zákonem č. 218/2000 Sb., o rozpočtových pravidlech, a jejich změny jsou legitimním legislativním procesem v rámci pravomocí Parlamentu ČR."
+    },
+    {
+      "statement": "**Jan Lipavský (ODS)** kritizoval Petra Macinku za „šaškování“ v zahraničí a používání urážek v souvislosti se sjezdem Sudetoněmeckého krajanského sdružení. Jde o vysoce citlivou historickou a diplomatickou otázku, která vyvolává napětí mezi vládní koalicí a opozičními stranami (SPD).",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/13:30",
+      "screenshot_path": "summaries/screenshots/event_2888_controversy_01.jpg",
+      "context": "Sudetoněmecké krajanské sdružení je dlouhodobě předmětem politických sporů. Výroky o „šaškování“ jsou subjektivním politickým hodnocením chování opozičních politiků, nikoliv faktickým popisem diplomatického protokolu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

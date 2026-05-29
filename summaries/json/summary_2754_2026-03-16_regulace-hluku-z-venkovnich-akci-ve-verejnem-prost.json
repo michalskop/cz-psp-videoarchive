@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:43:41",
+  "created_at": "2026-05-29T14:24:31",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2754",
@@ -15,23 +15,23 @@
   "transcription": {
     "parts_transcribed": 31,
     "parts_total": 31,
-    "source": "whisper",
+    "source": "mixed",
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání se zaměřilo na problematiku hluku z venkovních hudebních produkcí a veřejných akcí v České republice. Cílem bylo analyzovat současný legislativní stav, který po novele zákona o ochraně veřejného zdraví z roku 2015 prakticky vyňal venkovní hudební produkci z definice hluku, což vedlo k právnímu vakuu a neschopnosti orgánů ochrany veřejného zdraví efektivně zasahovat.\n\nÚčastníci diskutovali o dopadech na veřejné zdraví, kvalitě života obyvatel a o neúnosné zátěži, kterou současná situace přenáší na samosprávy a jednotlivé občany.",
+    "topic": "Jednání se zaměřilo na problematiku regulace hluku z venkovních hudebních produkcí a jiných hlučných akcí ve veřejném prostoru v České republice. Cílem bylo analyzovat současný legislativní stav, který je účastníky vnímán jako nedostatečný a vytvářející právní vakuum, a diskutovat o možnostech ochrany veřejného zdraví a kvality života obyvatel.\n\nJednání reflektovalo negativní dopady změny zákona o ochraně veřejného zdraví z roku 2015, která vypustila hluk z venkovní hudební produkce z definice hluku podléhajícího státnímu dozoru. Účastníci, včetně zástupců obcí, právníků a spolků, se shodli na nutnosti hledat systémové řešení, které by vyvážilo kulturní život obcí s právem občanů na nerušený odpočinek a ochranu zdraví.",
     "main_points": [
-      "**Jitka Sajtlová (Senát)** – Upozornila na oslabení ochrany před hlukem po roce 2015 a nutnost hledat rovnováhu mezi kulturou a zdravím.",
-      "**Jana Černochová (Poslanecká sněmovna)** – Popsala bezzubost samospráv při regulaci hlučných akcí v Praze.",
-      "**Miloš Závora (Česko bez hluku)** – Navrhl zavedení licencí pro akce a přísnější sankce pro právnické osoby.",
-      "**Ivana Al-Khaled (právnička)** – Dokumentovala zneužívání 'dočasných staveb' pro obcházení kolaudací v Karlových Varech.",
-      "**Petr Malý (advokát)** – Popsal náročnost soudních sporů, kde občané musí suplovat roli státu při vymáhání práva na klid.",
-      "**Dana Potužníková (NRL)** – Vysvětlila, že limity jsou politickým kompromisem a že nízkofrekvenční hluk je pro lidské zdraví specificky nebezpečný.",
-      "**Matyáš Fošum (Ministerstvo zdravotnictví)** – Přislíbil vznik pracovní skupiny pro legislativní nápravu.",
-      "**Václav Veselý (Ministerstvo vnitra)** – Zdůraznil, že obce mají nástroje, ale často chybí politická vůle nebo vymahatelnost."
+      "**Jitka Sajtlová (Senát):** Upozornila na oslabení ochrany před hlukem po roce 2015 a nutnost návratu k systémové regulaci.",
+      "**Jana Černochová (poslankyně):** Zdůraznila, že bez celostátního rámce jsou obce při tvorbě vyhlášek právně bezbranné vůči žalobám.",
+      "**Miloš Závora (Česko bez hluku):** Navrhl zavedení licencí pro akce, přísnější sankce a možnost zabavení aparatury na místě.",
+      "**Ivana Al-Khaled (právnička):** Popsala selhání státu při ochraně lázeňských území před hlukem ze státních pozemků.",
+      "**Petr Malý (advokát):** Prezentoval precedenční soudní spory, kde soudy začaly uznávat hluk z hudby jako rušivý, přestože chybí legislativa.",
+      "**Dana Potužníková (NRL):** Vysvětlila, že limity jsou politickým kompromisem a že nízkofrekvenční hluk (basy) je pro zdraví nejvíce rizikový.",
+      "**Matěj Fošum (MZ ČR):** Uznal neefektivitu ex-post sankcí a podpořil vznik pracovní skupiny pro legislativní změny.",
+      "**Zástupci obcí:** Shodli se na tom, že vyhlášky jsou bez součinnosti policie a jasných limitů často nevymahatelné."
     ],
-    "outcome": "Jednání vyústilo v konsenzus, že současný stav je neudržitelný. Byla přislíbena příprava pracovní skupiny pod záštitou Ministerstva zdravotnictví a Ministerstva vnitra, která se bude zabývat legislativními změnami (např. úprava zákona o obcích či metodická podpora samospráv). Cílem je vytvořit nástroje pro obce, které jim umožní regulovat četnost a intenzitu akcí.",
-    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky zvuku."
+    "outcome": "Jednání nevedlo k okamžité legislativní změně, ale k jasnému konsenzu o nutnosti systémové nápravy. Byla dohodnuta příprava pracovní skupiny pod záštitou Ministerstva zdravotnictví a Ministerstva vnitra, která se bude zabývat vytvořením zákonného rámce pro regulaci venkovní produkce. Cílem je poskytnout obcím jasné metodické a legislativní nástroje.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky zvuku. Části týkající se konkrétních technických parametrů měření byly místy nesrozumitelné."
   },
   "entities": {
     "speakers": [
@@ -43,7 +43,7 @@
       {
         "name": "Jana Černochová",
         "person_id": "psp:person:5903",
-        "affiliation": "Poslanecká sněmovna PČR"
+        "affiliation": "Poslanecká sněmovna"
       },
       {
         "name": "Miloš Závora",
@@ -53,12 +53,12 @@
       {
         "name": "Ivana Al-Khaled",
         "person_id": null,
-        "affiliation": null
+        "affiliation": "právnička"
       },
       {
         "name": "Petr Malý",
         "person_id": null,
-        "affiliation": null
+        "affiliation": "advokát"
       },
       {
         "name": "Dana Potužníková",
@@ -66,14 +66,9 @@
         "affiliation": "Národní referenční laboratoř"
       },
       {
-        "name": "Matyáš Fošum",
+        "name": "Matěj Fošum",
         "person_id": null,
         "affiliation": "Ministerstvo zdravotnictví"
-      },
-      {
-        "name": "Václav Veselý",
-        "person_id": null,
-        "affiliation": "Ministerstvo vnitra"
       }
     ],
     "parties": [
@@ -82,50 +77,57 @@
       "KDU-ČSL"
     ],
     "institutions": [
-      "Senát PČR",
-      "Poslanecká sněmovna PČR",
       "Ministerstvo zdravotnictví",
       "Ministerstvo vnitra",
-      "Národní referenční laboratoř"
+      "Senát PČR",
+      "Poslanecká sněmovna"
     ]
   },
   "highlights": [
     {
-      "text": "Regulace veřejné produkce hudby ve venkovním prostoru je v Evropě běžně svěřena do kompetence obcí, které mají mít dostatek právních nástrojů.",
-      "type": "paraphrase",
-      "speaker": "Jitka Sajtlová",
-      "affiliation": "Senát PČR",
-      "timestamp": "3/00:56",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_highlight_00.jpg",
-      "context": "Většina evropských zemí skutečně využívá princip subsidiarity, kdy obce prostřednictvím obecně závazných vyhlášek regulují veřejný pořádek a hluk. Právní nástroje se však v jednotlivých státech liší v závislosti na národní legislativě o ochraně veřejného zdraví."
+      "text": "V České republice máme největší festivaly svého druhu na světě, ale nemáme žádný zákon, který by reguloval hluk, který produkují.",
+      "type": "citation",
+      "speaker": "Miloš Závora",
+      "affiliation": "Česko bez hluku",
+      "timestamp": "5/09:38",
+      "screenshot_path": "summaries/screenshots/event_2754_highlight_00.jpg",
+      "context": "Tvrzení o „největších festivalech na světě“ je subjektivní a nelze jej objektivně ověřit. V ČR neexistuje specifický zákon o hluku z festivalů, problematika je řešena zákonem č. 258/2000 Sb., o ochraně veřejného zdraví, a nařízením vlády č. 272/2011 Sb., které stanovuje hygienické limity hluku v chráněném venkovním prostoru."
     },
     {
-      "text": "Hluk z hudby není hlukem, který by se obvykle vyskytoval, a nelze jej klást na roveň hluku z dopravy.",
+      "text": "Hluk z venkovní produkce není hlukem, který by se obvykle vyskytoval, a nelze jej klást na roveň hluku z dopravy.",
       "type": "citation",
       "speaker": "Petr Malý",
-      "affiliation": null,
-      "timestamp": "14/01:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_highlight_01.jpg",
-      "context": "Z hlediska akustiky a hygienických norem (např. zákon č. 258/2000 Sb.) je hluk definován fyzikálními veličinami (hladina akustického tlaku), nikoliv zdrojem. Tvrzení, že hudba není hlukem, je subjektivní interpretace, nikoliv faktický popis dopadu na lidské zdraví."
+      "affiliation": "advokát",
+      "timestamp": "14/02:03",
+      "screenshot_path": "summaries/screenshots/event_2754_highlight_01.jpg",
+      "context": "Z hlediska akustiky a legislativy (zákon č. 258/2000 Sb.) se hluk z dopravy a hluk z produkce liší svým charakterem, frekvenčním spektrem i časovým průběhem. Právní předpisy však pro oba zdroje stanovují limity v decibelech (dB) pro chráněný venkovní prostor, přičemž pro nárazové akce existují specifické výjimky (tzv. časově omezené produkce)."
     },
     {
-      "text": "Nerealistický limit není pomocí protihlukových opatření dosažitelný, pak nelze fakticky vymoci a ty lidi nám to neochrání.",
+      "text": "Regulaci je třeba ponechat v jurisdikci obcí, ale pokud mají obce nedostatečné nástroje, je na legislativcích, aby jim je vytvořili.",
       "type": "citation",
       "speaker": "Dana Potužníková",
       "affiliation": "Národní referenční laboratoř",
-      "timestamp": "17/08:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_highlight_02.jpg",
-      "context": "Tvrzení reflektuje technickou realitu v oblasti akustiky, kde existují limity (např. dle nařízení vlády č. 272/2011 Sb.), které jsou v husté městské zástavbě při stávajících technických možnostech odhlučnění fakticky nedosažitelné. Pokud je limit nastaven pod úroveň technické proveditelnosti, stává se z právního hlediska nevymahatelným."
+      "timestamp": "19/05:32",
+      "screenshot_path": "summaries/screenshots/event_2754_highlight_02.jpg",
+      "context": "Obce mají v rámci samostatné působnosti možnost regulovat hluk prostřednictvím obecně závazných vyhlášek (např. o nočním klidu dle zákona o obcích č. 128/2000 Sb.). Debata o posílení nástrojů obcí je legitimním politickým tématem, které se týká vyvážení pravomocí mezi státní správou (hygienické stanice) a samosprávou."
     }
   ],
   "controversial": [
     {
-      "statement": "Zrušení pravomoci hygienických stanic posuzovat hlukové studie v rámci stavebního řízení (v rámci novely stavebního zákona).",
-      "speaker": "Matyáš Fošum",
-      "affiliation": "Ministerstvo zdravotnictví",
-      "timestamp": "20/06:07",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2754_controversy_00.jpg",
-      "context": "Nový stavební zákon (zákon č. 283/2021 Sb.) skutečně přinesl změny v kompetencích dotčených orgánů. Role hygienických stanic byla v procesu posuzování hlukových studií v rámci stavebního řízení omezena ve prospěch integrace agendy pod nově vznikající státní stavební správu."
+      "statement": "**Výrok:** „Hygienické limity nejsou čistě vědeckou záležitostí, jsou předmětem sociopolitických nastavení.“\n**Kdo:** Dana Potužníková (Národní referenční laboratoř)\n**Proč:** Přiznává, že limity nejsou nastaveny výhradně podle zdravotních rizik, ale podle politických kompromisů a ekonomických zájmů.\n**Čas:** 16/06:03",
+      "speaker": "Dana Potužníková",
+      "affiliation": "Národní referenční laboratoř",
+      "timestamp": "16/06:03",
+      "screenshot_path": "summaries/screenshots/event_2754_controversy_00.jpg",
+      "context": "Hygienické limity jsou skutečně výsledkem konsenzu mezi vědeckými poznatky o vlivu hluku na zdraví a ekonomickými či společenskými možnostmi společnosti. Tento proces je standardní součástí tvorby legislativy, kde se zohledňuje proveditelnost a společenský přínos regulace."
+    },
+    {
+      "statement": "**Výrok:** „Stavební úřad považuje limity za splněné, je-li jejich splnění ekonomicky nepřiměřené.“\n**Kdo:** Jitka Sajtlová (místopředsedkyně Senátu)\n**Proč:** Kritika novely stavebního zákona, která upřednostňuje ekonomické zájmy investorů před ochranou zdraví obyvatel.\n**Čas:** 3/08:05",
+      "speaker": "Jitka Sajtlová",
+      "affiliation": "Senát PČR",
+      "timestamp": "3/08:05",
+      "screenshot_path": "summaries/screenshots/event_2754_controversy_01.jpg",
+      "context": "Stavební zákon (č. 283/2021 Sb.) a související předpisy obsahují mechanismy, které umožňují za určitých podmínek povolit stavby i při překročení hlukových limitů, pokud je to odůvodněno veřejným zájmem či ekonomickou nepřiměřeností opatření. Kritika místopředsedkyně Senátu reflektuje dlouhodobý střet mezi ochranou veřejného zdraví a zájmy stavebního rozvoje."
     }
   ],
   "quality": {

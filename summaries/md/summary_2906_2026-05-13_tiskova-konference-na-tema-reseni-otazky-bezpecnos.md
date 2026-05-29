@@ -1,0 +1,129 @@
+## 1. Téma a účel jednání
+
+Jednání se týkalo řešení bezpečnosti na fotbalových stadionech v reakci na nedávné vyhrocené události (derby v Praze). Cílem tiskové konference bylo představit obnovenou pracovní skupinu pod Radou vlády pro sport, prevenci a zdraví, která se zaměřuje na legislativní úpravy, bezpečnostní opatření a samoregulaci sportovního prostředí.
+
+Hlavním záměrem je posílit prevenci, nikoliv represi, a zajistit, aby se stadiony staly bezpečnými místy pro rodiny a děti. Pracovní skupina se zaměřuje na tři pilíře: zpřísnění přestupkového zákona (zahalování, pyrotechnika), zkvalitnění bezpečnostních služeb a zavedení systémů rozpoznávání obličejů (face recognition) při vstupech na stadiony.
+
+## 2. Hlavní body
+
+*   **Patrik Nacher (ANO)** – Iniciátor obnovení pracovní skupiny. Prosazuje zpřísnění přestupkového zákona a zavedení technologie rozpoznávání obličejů (face recognition) u vstupů na stadiony (nikoliv plošné sledování v hledišti). Zdůrazňuje potřebu prevence a spolupráce s Úřadem pro ochranu osobních údajů (ÚOOÚ).
+*   **Robert Králíček (ANO)** – Zaměřil se na pořadatelské služby. Uvedl, že stávající legislativa je dostatečná a není třeba nových zákonů pro zvýšení pravomocí pořadatelů. Klíčem je kvalita výběru bezpečnostních služeb ze strany klubů.
+*   **Jiří Havránek (ODS)** – Člen pracovní skupiny, zdůraznil nadstranický charakter iniciativy. Podporuje preventivní opatření a samoregulaci fotbalových klubů. Odmítl v tuto chvíli diskuzi o vstupenkách na jméno jako příliš komplikovanou.
+*   **Zástupce FAČR (Petr Fousek/Trundo)** – Potvrdil intenzivní spolupráci s politiky a mezinárodními orgány (FIFA, UEFA). Zdůraznil nutnost vzdělávání fanoušků a odpovědnost klubů za samoregulaci.
+*   **Tematické body:**
+    *   **Legislativa:** Cílem je zpřísnit postihy za vnášení pyrotechniky a zahalování obličejů.
+    *   **Technologie:** Face recognition má sloužit k zamezení vstupu osobám s celoživotním zákazem. Data mají být anonymizována a po identifikaci mazána.
+    *   **Harmonogram:** Samoregulační opatření by měla být funkční od nové sezóny (červenec), legislativní změny se očekávají spíše od začátku kalendářního roku 2027.
+
+## 3. Výsledek / závěr
+
+Nebyla přijata žádná finální legislativní změna, jednání je v počáteční fázi. Konsenzem je nutnost kombinace legislativních úprav (přestupkový zákon, registr osob se zákazem vstupu) a vnitřní samoregulace sportovních svazů. Pracovní skupina se bude scházet v dvoutýdenních intervalech a cílem je připravit návrhy, které budou akceptovatelné napříč politickým spektrem i Úřadem pro ochranu osobních údajů.
+
+## 4. Poznámky
+
+Přepis obsahuje drobné chyby v přepisu jmen (např. v textu zmíněný pan Bárta není v úvodu představen, pravděpodobně jde o zástupce FAČR). Části přepisu jsou místy nesrozumitelné kvůli překryvům řečníků.
+
+---
+
+## Doplňující otázky
+
+*   **Kontroverze: Zavedení technologie rozpoznávání obličejů (face recognition)**
+    *   **Kdo:** Patrik Nacher (ANO) a Jiří Havránek (ODS)
+    *   **Co:** Návrh na skenování obličejů fanoušků při vstupu na stadion.
+    *   **Proč:** Kontroverzní z hlediska ochrany soukromí a sběru biometrických dat. Vyvolává obavy z plošného sledování občanů, přestože řečníci argumentují prevencí a smazáním dat po identifikaci.
+    *   **Čas:** 1/04:02
+
+---
+
+## Klíčové citace pro veřejnost
+
+*   **Text:** „Naším cílem je ty stávající přestupky, které existují v souvislosti se sportovními utkáními, zpřísnit, a to jak zahalování obličejů, tak vnášení pyrotechniky.“ (Parafráze)
+    *   **Řečník:** Patrik Nacher (ANO), **Čas:** 1/01:02
+*   **Text:** „Nechceme posilovat soukromé osoby na úroveň policie, ale to hnutí si může uvnitř svými procesy nastavit parametry tak, aby si je samy metodicky nastavily.“ (Citace)
+    *   **Řečník:** Robert Králíček (ANO), **Čas:** 1/18:00
+*   **Text:** „V tuto chvíli na stole není plošné skenování lidí na stadionech, pracujeme s variantou, že do systému by se dostávali pouze lidé, kteří poruší pravidla.“ (Citace)
+    *   **Řečník:** Patrik Nacher (ANO), **Čas:** 1/20:01
+
+---
+
+## JSON výstup
+
+```json
+{
+  "schema_version": "2",
+  "created_at": null,
+  "model_hint": null,
+  "event": {
+    "id": "2906",
+    "name": "Tisková konference na téma řešení otázky bezpečnosti na stadionech",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-13T15:01",
+    "end_date": "2026-05-13T15:34",
+    "sources": []
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Jednání se týkalo řešení bezpečnosti na fotbalových stadionech v reakci na nedávné vyhrocené události (derby v Praze). Cílem tiskové konference bylo představit obnovenou pracovní skupinu pod Radou vlády pro sport, prevenci a zdraví, která se zaměřuje na legislativní úpravy, bezpečnostní opatření a samoregulaci sportovního prostředí.\n\nHlavním záměrem je posílit prevenci, nikoliv represi, a zajistit, aby se stadiony staly bezpečnými místy pro rodiny a děti. Pracovní skupina se zaměřuje na tři pilíře: zpřísnění přestupkového zákona (zahalování, pyrotechnika), zkvalitnění bezpečnostních služeb a zavedení systémů rozpoznávání obličejů (face recognition) při vstupech na stadiony.",
+    "main_points": [
+      "**Patrik Nacher (ANO)** – Iniciátor obnovení pracovní skupiny. Prosazuje zpřísnění přestupkového zákona a zavedení technologie rozpoznávání obličejů (face recognition) u vstupů na stadiony (nikoliv plošné sledování v hledišti). Zdůrazňuje potřebu prevence a spolupráce s Úřadem pro ochranu osobních údajů (ÚOOÚ).",
+      "**Robert Králíček (ANO)** – Zaměřil se na pořadatelské služby. Uvedl, že stávající legislativa je dostatečná a není třeba nových zákonů pro zvýšení pravomocí pořadatelů. Klíčem je kvalita výběru bezpečnostních služeb ze strany klubů.",
+      "**Jiří Havránek (ODS)** – Člen pracovní skupiny, zdůraznil nadstranický charakter iniciativy. Podporuje preventivní opatření a samoregulaci fotbalových klubů. Odmítl v tuto chvíli diskuzi o vstupenkách na jméno jako příliš komplikovanou.",
+      "**Zástupce FAČR (Petr Fousek/Trundo)** – Potvrdil intenzivní spolupráci s politiky a mezinárodními orgány (FIFA, UEFA). Zdůraznil nutnost vzdělávání fanoušků a odpovědnost klubů za samoregulaci.",
+      "**Tematické body:**\n    *   **Legislativa:** Cílem je zpřísnit postihy za vnášení pyrotechniky a zahalování obličejů.\n    *   **Technologie:** Face recognition má sloužit k zamezení vstupu osobám s celoživotním zákazem. Data mají být anonymizována a po identifikaci mazána.\n    *   **Harmonogram:** Samoregulační opatření by měla být funkční od nové sezóny (červenec), legislativní změny se očekávají spíše od začátku kalendářního roku 2027."
+    ],
+    "outcome": "Nebyla přijata žádná finální legislativní změna, jednání je v počáteční fázi. Konsenzem je nutnost kombinace legislativních úprav (přestupkový zákon, registr osob se zákazem vstupu) a vnitřní samoregulace sportovních svazů. Pracovní skupina se bude scházet v dvoutýdenních intervalech a cílem je připravit návrhy, které budou akceptovatelné napříč politickým spektrem i Úřadem pro ochranu osobních údajů.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. v textu zmíněný pan Bárta není v úvodu představen, pravděpodobně jde o zástupce FAČR). Části přepisu jsou místy nesrozumitelné kvůli překryvům řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {"name": "Patrik Nacher", "person_id": null, "affiliation": "ANO 2011"},
+      {"name": "Robert Králíček", "person_id": null, "affiliation": "ANO 2011"},
+      {"name": "Jiří Havránek", "person_id": null, "affiliation": "ODS"},
+      {"name": "Zástupce FAČR", "person_id": null, "affiliation": "FAČR"}
+    ],
+    "parties": ["ANO 2011", "ODS"],
+    "institutions": ["Poslanecká sněmovna", "Rada vlády pro sport, prevenci a zdraví", "FAČR", "LFA", "Úřad pro ochranu osobních údajů"]
+  },
+  "highlights": [
+    {
+      "text": "Naším cílem je ty stávající přestupky, které existují v souvislosti se sportovními utkáními, zpřísnit, a to jak zahalování obličejů, tak vnášení pyrotechniky.",
+      "type": "paraphrase",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO 2011",
+      "timestamp": "1/01:02"
+    },
+    {
+      "text": "Nechceme posilovat soukromé osoby na úroveň policie, ale to hnutí si může uvnitř svými procesy nastavit parametry tak, aby si je samy metodicky nastavily.",
+      "type": "citation",
+      "speaker": "Robert Králíček",
+      "affiliation": "ANO 2011",
+      "timestamp": "1/18:00"
+    },
+    {
+      "text": "V tuto chvíli na stole není plošné skenování lidí na stadionech, pracujeme s variantou, že do systému by se dostávali pouze lidé, kteří poruší pravidla.",
+      "type": "citation",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO 2011",
+      "timestamp": "1/20:01"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverze: Zavedení technologie rozpoznávání obličejů (face recognition)**\n    *   **Kdo:** Patrik Nacher (ANO) a Jiří Havránek (ODS)\n    *   **Co:** Návrh na skenování obličejů fanoušků při vstupu na stadion.\n    *   **Proč:** Kontroverzní z hlediska ochrany soukromí a sběru biometrických dat. Vyvolává obavy z plošného sledování občanů, přestože řečníci argumentují prevencí a smazáním dat po identifikaci.\n    *   **Čas:** 1/04:02",
+      "speaker": "Patrik Nacher, Jiří Havránek",
+      "affiliation": "ANO 2011, ODS",
+      "timestamp": "1/04:02"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
+```

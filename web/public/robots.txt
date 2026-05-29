@@ -23,4 +23,4 @@ Allow: /
 User-agent: bingbot
 Allow: /
 
-Sitemap: https://snemovna.datatimes.cz/videoarchiv/sitemap.xml
+Sitemap: https://snemovna.datatimes.cz/digest/sitemap.xml

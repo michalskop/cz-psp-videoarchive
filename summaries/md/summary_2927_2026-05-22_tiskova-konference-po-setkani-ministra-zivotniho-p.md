@@ -1,45 +1,53 @@
 ## 1. Téma a účel jednání
-Tisková konference ministra životního prostředí Igora Červeného se konala po jeho setkání s eurokomisařkou pro životní prostředí Jessikou Roswall. Hlavním účelem setkání byla diskuse o implementaci evropského nařízení o obalech (PPWR) a řešení potenciálních ekonomických dopadů tohoto nařízení na české domácnosti a průmysl.
 
-Ministr Červený zdůraznil, že cílem České republiky není napadat rámec evropské legislativy, ale zajistit racionální implementaci, která by předešla neúměrným nákladům. Kromě problematiky obalů se jednání dotklo také systémů ETS I a ETS II a dosavadní spolupráce v rámci programů EU.
+Tisková konference ministra životního prostředí Igora Červeného se konala po jeho setkání s eurokomisařkou pro životní prostředí Jessikou Roswall. Hlavním účelem setkání byla diskuse o implementaci evropské legislativy, konkrétně nařízení o obalech a obalových odpadech (PPWR), a řešení potenciálních ekonomických dopadů na české domácnosti a průmysl.
+
+Ministr Červený prezentoval snahu České republiky o racionální přístup k implementaci evropských norem, přičemž zdůraznil, že ČR nechce zákon jako celek napadat, ale usiluje o úpravu výkladu problematických článků (zejména článku 15). Ministr rovněž vyjádřil obavy z vysokých nákladů spojených s implementací v případě nevhodného harmonogramu a otevřel téma zálohování PET lahví v kontextu stávajícího úspěšného systému třídění odpadu v ČR.
 
 ## 2. Hlavní body
+
 *   **Igor Červený (ministr životního prostředí):**
-    *   **Zákon o obalech (PPWR):** Upozornil na rizika spojená s implementací, zejména u článku č. 15. Varoval, že při nevhodném výkladu by implementace mohla vyžadovat tři vlny, což by pro celou EU znamenalo náklady až 54 miliard eur, s dopadem 4–6 tisíc korun na jednu českou domácnost.
-    *   **Jednání v Bruselu:** Oznámil, že příští týden odjíždí do Bruselu jeho náměstek pro evropské záležitosti (pan Smrž) a následně i on sám, aby detaily implementace vyjednali.
-    *   **Zálohování PET láhví:** Vyjádřil skepsi k plošnému zavedení zálohování. Argumentoval, že ČR již nyní dosahuje 82% recyklace PET plastů díky stávajícímu systému EKO-KOM, který je v EU excelentní.
-    *   **Podmínka zálohování:** Pokud by se systém zálohování v budoucnu zavedl, musí být splněna podmínka, že část finančních prostředků bude směřovat zpět do systému „eko odvodů“, aby nedošlo k rozvratu stávající infrastruktury obcí.
-    *   **Klimatická žaloba:** Uvedl, že informoval eurokomisařku o probíhající klimatické žalobě na stát, přičemž zdůraznil, že ČR své klimatické cíle plní a v časové ose je dokonce „přeplňuje“.
-*   **Neidentifikovaný řečník (moderátor):**
-    *   Uvedl tiskovou konferenci a moderoval prostor pro dotazy.
-*   **Martin Šnajdr (Česká televize):**
-    *   Dotazoval se na postoj koalice k zálohování PET láhví v kontextu poslaneckého návrhu a na to, zda ze strany EU zazněla kritika postupu ČR v oblasti životního prostředí.
+    *   **Zákon PPWR (obaly):** Upozornil na rizika spojená s implementací článku 15. Varoval, že při nevhodném výkladu by implementace mohla stát až 54 miliard eur pro celou EU, což by znamenalo zátěž 4–6 tisíc Kč na jednu domácnost.
+    *   **Diplomatický postup:** Příští týden odjíždí do Bruselu náměstek pro evropské záležitosti (pan Smrž), ministr ho následuje o den později. Cílem je vyjednat úpravu výkladu tak, aby nebyla nutná destruktivní implementace v několika vlnách.
+    *   **Zálohování PET lahví:** ČR dosahuje 82% míry recyklace PET, což je jedna z nejlepších hodnot v EU. Ministr varuje před „bezmyšlenkovitým“ zavedením zálohování, které by mohlo ohrozit financování obcí (eko-odvody).
+    *   **Podmínka zálohování:** Pokud by k němu mělo dojít, musí být systém nastaven tak, aby část prostředků plynula zpět do systému eko-odvodů, aby se nezničil stávající funkční ekosystém sběru odpadů.
+    *   **Klimatická žaloba:** Informoval eurokomisařku o probíhající klimatické žalobě na stát, přičemž zdůraznil, že ČR své klimatické cíle plní a dokonce přeplňuje.
+    *   **Další témata:** Konzultace problémů spojených s „Czech Waste“ a programem „Live“. Příští středu bude ministr jednat o problematice ETS I a ETS II.
+
+*   **Tematické body:**
+    *   **Kritika ze strany EU:** Ministr uvedl, že ze strany eurokomisařky nezazněla žádná kritika vůči ČR; setkání označil za přátelské a produktivní.
+    *   **Švédský model:** Ministr zmínil, že Švédsko se v minulosti inspirovalo českým modelem nakládání s odpady (systém EKO-KOM a edukace obyvatel).
 
 ## 3. Výsledek / závěr
-Jednání bylo označeno za přátelské a produktivní. Nebylo dosaženo formálního legislativního rozhodnutí, ale došlo ke shodě na nutnosti „racionálního a přesného“ postupu při implementaci evropských norem. Evropská komise přislíbila detailní projednání problematických částí nařízení o obalech (PPWR) s českou stranou v následujícím týdnu.
+
+Formální rozhodnutí nebylo přijato, jednání mělo charakter přípravy na další expertní a politická jednání v Bruselu. Bylo dosaženo konsenzu v tom, že implementace legislativy musí být „racionální, rychlá a přesná“ a nesmí zbytečně zatěžovat domácnosti. Eurokomisařka přislíbila otevřenost k řešení výkladu problematických částí nařízení PPWR, pokud se potvrdí negativní dopady na členské státy.
 
 ## 4. Poznámky
+
 Přepis je srozumitelný, neobsahuje žádné zásadní výpadky, které by znemožnily pochopení obsahu.
 
 ---
 
 ## Doplňující otázky
-*   **Kontroverzní téma: Zálohování PET láhví**
-    *   **Kdo:** Igor Červený (ministr životního prostředí)
-    *   **Co:** Ministr zpochybnil přínos zálohování PET láhví, označil jej za „bezmyšlenkovité“ a uvedl, že by mohlo poškodit stávající systém obcí. Tvrdí, že odhazování odpadků v přírodě je otázkou osobní morálky, nikoliv absence záloh.
-    *   **Proč:** Téma je politicky citlivé, protože jde o střet mezi zavedeným systémem (EKO-KOM) a tlakem na modernizaci recyklačních procesů (zálohování), které prosazují někteří další politici a ekologické organizace.
-    *   **Čas:** 1/04:00
+
+*   **Kontroverzní návrh/postoj:**
+    *   **Kdo:** Igor Červený (ministr životního prostředí).
+    *   **Co:** Podmínění případného zavedení zálohového systému na PET lahve tím, že část vybraných prostředků musí být odváděna do systému eko-odvodů obcí.
+    *   **Proč:** Je to politicky citlivé, protože zálohový systém je v ČR dlouhodobě předmětem sporu mezi zastánci zálohování (včetně některých výrobců a ekologických organizací) a obcemi, které se obávají ztráty příjmů z prodeje vytříděných surovin.
+    *   **Čas:** 1/06:02
 
 ---
 
 ## Klíčové citace pro veřejnost
-*   „Pokud bychom zavedli bezmyšlenkovitě ten zálohovací systém, tak se může stát, že odejmeme obcím finanční zdroje, které používají na fungování eko odvodů.“ (Parafráze) – **Igor Červený**, ministr životního prostředí, 1/04:00.
-*   „Česká republika patří v tento moment mezi excelentní země, kdy jsme schopni v rámci recyklace získávat přes 82 % plastu PETu.“ (Citace) – **Igor Červený**, ministr životního prostředí, 1/04:00.
-*   „Pokud by byla ta nejhorší varianta implementace zákona o obalech, tak by se dopad na jednu domácnost pohyboval mezi 4 až 6 tisíci korunami.“ (Parafráze) – **Igor Červený**, ministr životního prostředí, 1/02:02.
+
+*   „Pokud bychom zavedli bezmyšlenkovitě ten zálohovací systém, tak se může stát, že odejmeme obcím, těm municipalitám, finanční zdroje, které používají na fungování těch eko odvodů.“ (Parafráze) – **Igor Červený**, ministr životního prostředí, 1/04:00.
+*   „Pokud oni zjistí, že skutečně ten výklad by byl takhle negativní, tak jsou ochotni ho okamžitě s námi začít řešit a napravit tak, aby to bylo ku prospěchu věci.“ (Citace) – **Igor Červený**, ministr životního prostředí, 1/02:02.
+*   „Česká republika patří v tento moment mezi excelentní země, potažmo bych řekl, skoro na světě, kdy jsme schopni v rámci recyklace získávat přes 82 % plastu PETu.“ (Citace) – **Igor Červený**, ministr životního prostředí, 1/04:00.
 
 ---
 
 ## JSON výstup
+
 ```json
 {
   "schema_version": "2",
@@ -60,57 +68,51 @@ Přepis je srozumitelný, neobsahuje žádné zásadní výpadky, které by znem
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference ministra životního prostředí Igora Červeného se konala po jeho setkání s eurokomisařkou pro životní prostředí Jessikou Roswall. Hlavním účelem setkání byla diskuse o implementaci evropského nařízení o obalech (PPWR) a řešení potenciálních ekonomických dopadů tohoto nařízení na české domácnosti a průmysl.\n\nMinistr Červený zdůraznil, že cílem České republiky není napadat rámec evropské legislativy, ale zajistit racionální implementaci, která by předešla neúměrným nákladům. Kromě problematiky obalů se jednání dotklo také systémů ETS I a ETS II a dosavadní spolupráce v rámci programů EU.",
+    "topic": "Tisková konference ministra životního prostředí Igora Červeného se konala po jeho setkání s eurokomisařkou pro životní prostředí Jessikou Roswall. Hlavním účelem setkání byla diskuse o implementaci evropské legislativy, konkrétně nařízení o obalech a obalových odpadech (PPWR), a řešení potenciálních ekonomických dopadů na české domácnosti a průmysl.\n\nMinistr Červený prezentoval snahu České republiky o racionální přístup k implementaci evropských norem, přičemž zdůraznil, že ČR nechce zákon jako celek napadat, ale usiluje o úpravu výkladu problematických článků (zejména článku 15). Ministr rovněž vyjádřil obavy z vysokých nákladů spojených s implementací v případě nevhodného harmonogramu a otevřel téma zálohování PET lahví v kontextu stávajícího úspěšného systému třídění odpadu v ČR.",
     "main_points": [
-      "**Igor Červený (ministr životního prostředí)** — Upozornil na rizika implementace zákona o obalech (PPWR), zejména článku č. 15, který by mohl vést k nákladům 4–6 tisíc korun na domácnost. Oznámil jednání v Bruselu na příští týden. Vyjádřil skepsi k zálohování PET láhví, preferuje stávající systém EKO-KOM. Informoval o klimatické žalobě na stát, kterou ČR dle jeho slov plní a přeplňuje.",
-      "**Neidentifikovaný řečník (moderátor)** — Uvedl tiskovou konferenci a moderoval prostor pro dotazy.",
-      "**Martin Šnajdr (Česká televize)** — Dotazoval se na postoj koalice k zálohování PET láhví a na to, zda ze strany EU zazněla kritika postupu ČR v oblasti životního prostředí."
+      "**Igor Červený (ministr životního prostředí)**:\n    * **Zákon PPWR (obaly):** Upozornil na rizika spojená s implementací článku 15. Varoval, že při nevhodném výkladu by implementace mohla stát až 54 miliard eur pro celou EU, což by znamenalo zátěž 4–6 tisíc Kč na jednu domácnost.\n    * **Diplomatický postup:** Příští týden odjíždí do Bruselu náměstek pro evropské záležitosti (pan Smrž), ministr ho následuje o den později. Cílem je vyjednat úpravu výkladu tak, aby nebyla nutná destruktivní implementace v několika vlnách.\n    * **Zálohování PET lahví:** ČR dosahuje 82% míry recyklace PET, což je jedna z nejlepších hodnot v EU. Ministr varuje před „bezmyšlenkovitým“ zavedením zálohování, které by mohlo ohrozit financování obcí (eko-odvody).\n    * **Podmínka zálohování:** Pokud by k němu mělo dojít, musí být systém nastaven tak, aby část prostředků plynula zpět do systému eko-odvodů, aby se nezničil stávající funkční ekosystém sběru odpadů.\n    * **Klimatická žaloba:** Informoval eurokomisařku o probíhající klimatické žalobě na stát, přičemž zdůraznil, že ČR své klimatické cíle plní a dokonce přeplňuje.\n    * **Další témata:** Konzultace problémů spojených s „Czech Waste“ a programem „Live“. Příští středu bude ministr jednat o problematice ETS I a ETS II.",
+      "**Tematické body**:\n    * **Kritika ze strany EU:** Ministr uvedl, že ze strany eurokomisařky nezazněla žádná kritika vůči ČR; setkání označil za přátelské a produktivní.\n    * **Švédský model:** Ministr zmínil, že Švédsko se v minulosti inspirovalo českým modelem nakládání s odpady (systém EKO-KOM a edukace obyvatel)."
     ],
-    "outcome": "Jednání bylo označeno za přátelské a produktivní. Nebylo dosaženo formálního legislativního rozhodnutí, ale došlo ke shodě na nutnosti „racionálního a přesného“ postupu při implementaci evropských norem. Evropská komise přislíbila detailní projednání problematických částí nařízení o obalech (PPWR) s českou stranou v následujícím týdnu.",
+    "outcome": "Formální rozhodnutí nebylo přijato, jednání mělo charakter přípravy na další expertní a politická jednání v Bruselu. Bylo dosaženo konsenzu v tom, že implementace legislativy musí být „racionální, rychlá a přesná“ a nesmí zbytečně zatěžovat domácnosti. Eurokomisařka přislíbila otevřenost k řešení výkladu problematických částí nařízení PPWR, pokud se potvrdí negativní dopady na členské státy.",
     "notes": null
   },
   "entities": {
     "speakers": [
       {"name": "Igor Červený", "person_id": null, "affiliation": "Ministerstvo životního prostředí"},
-      {"name": "Martin Šnajdr", "person_id": null, "affiliation": "Česká televize"},
-      {"name": "neidentifikovaný řečník", "person_id": null, "affiliation": null}
+      {"name": "Martin Šnajdr", "person_id": null, "affiliation": "Česká televize"}
     ],
     "parties": [],
-    "institutions": ["Ministerstvo životního prostředí", "Evropská komise", "Česká televize", "Hospodářská komora"]
+    "institutions": ["Ministerstvo životního prostředí", "Evropská komise", "Česká televize", "Hospodářská komora ČR"]
   },
   "highlights": [
     {
-      "text": "Pokud bychom zavedli bezmyšlenkovitě ten zálohovací systém, tak se může stát, že odejmeme obcím finanční zdroje, které používají na fungování eko odvodů.",
+      "text": "Pokud bychom zavedli bezmyšlenkovitě ten zálohovací systém, tak se může stát, že odejmeme obcím, těm municipalitám, finanční zdroje, které používají na fungování těch eko odvodů.",
       "type": "paraphrase",
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
-      "timestamp": "1/04:00",
-      "screenshot_path": null
+      "timestamp": "1/04:00"
     },
     {
-      "text": "Česká republika patří v tento moment mezi excelentní země, kdy jsme schopni v rámci recyklace získávat přes 82 % plastu PETu.",
+      "text": "Pokud oni zjistí, že skutečně ten výklad by byl takhle negativní, tak jsou ochotni ho okamžitě s námi začít řešit a napravit tak, aby to bylo ku prospěchu věci.",
       "type": "citation",
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
-      "timestamp": "1/04:00",
-      "screenshot_path": null
+      "timestamp": "1/02:02"
     },
     {
-      "text": "Pokud by byla ta nejhorší varianta implementace zákona o obalech, tak by se dopad na jednu domácnost pohyboval mezi 4 až 6 tisíci korunami.",
-      "type": "paraphrase",
+      "text": "Česká republika patří v tento moment mezi excelentní země, potažmo bych řekl, skoro na světě, kdy jsme schopni v rámci recyklace získávat přes 82 % plastu PETu.",
+      "type": "citation",
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
-      "timestamp": "1/02:02",
-      "screenshot_path": null
+      "timestamp": "1/04:00"
     }
   ],
   "controversial": [
     {
-      "statement": "**Igor Červený (ministr životního prostředí)** — Zpochybnil přínos zálohování PET láhví, označil jej za „bezmyšlenkovité“ a uvedl, že by mohlo poškodit stávající systém obcí. Tvrdí, že odhazování odpadků v přírodě je otázkou osobní morálky, nikoliv absence záloh. Toto téma je politicky citlivé kvůli střetu mezi zavedeným systémem a tlakem na modernizaci recyklačních procesů.",
+      "statement": "* **Kdo:** Igor Červený (ministr životního prostředí).\n    * **Co:** Podmínění případného zavedení zálohového systému na PET lahve tím, že část vybraných prostředků musí být odváděna do systému eko-odvodů obcí.\n    * **Proč:** Je to politicky citlivé, protože zálohový systém je v ČR dlouhodobě předmětem sporu mezi zastánci zálohování (včetně některých výrobců a ekologických organizací) a obcemi, které se obávají ztráty příjmů z prodeje vytříděných surovin.\n    * **Čas:** 1/06:02",
       "speaker": "Igor Červený",
       "affiliation": "Ministerstvo životního prostředí",
-      "timestamp": "1/04:00",
-      "screenshot_path": null
+      "timestamp": "1/06:02"
     }
   ],
   "quality": {

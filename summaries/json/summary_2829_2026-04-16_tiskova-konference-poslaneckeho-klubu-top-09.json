@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:53:29",
+  "created_at": "2026-05-29T14:33:59",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2829",
     "name": "Tisková konference poslaneckého klubu TOP 09",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-16T10:19",
-    "end_date": "2026-04-16T10:42",
+    "start_date": "2026-04-16",
+    "end_date": "2026-04-16",
     "sources": [
       "final/event_2829_2026-04-16_tiskova-konference-poslaneckeho-klubu-top-09.md"
     ]
@@ -19,15 +19,15 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala 16. dubna 2026 před mimořádnou schůzí Poslanecké sněmovny. Hlavním cílem bylo představit opoziční postoje k aktuálním vládním krokům, které TOP 09 považuje za ohrožení bezpečnosti státu, svobody médií a řádné správy věcí veřejných.",
+    "topic": "Tisková konference byla svolána před mimořádnou schůzí Poslanecké sněmovny, kterou iniciovaly opoziční kluby. Hlavním cílem bylo upozornit na aktuální vládní kauzy, které opozice považuje za ohrožení bezpečnosti a stability České republiky.\n\nMezi hlavní témata patřil střet zájmů na Ministerstvu práce a sociálních věcí, personální a diplomatické spory v souvislosti s účastí na summitu NATO, kritika vládního návrhu zákona o veřejnoprávních médiích a řešení energetické krize, zejména cen pohonných hmot.",
     "main_points": [
-      "**Matěj Ondřej Havel (TOP 09)** – Upozornil na střet zájmů poradkyně na MPSV (škoda 100 mil. Kč), kritizoval vyloučení prezidenta z delegace na summit NATO a vyzval k odstoupení ministra Zůny.",
-      "**Michal Zuna (TOP 09)** – Kritizoval bezpečnostní chaos vlády, proruské tendence v zahraniční politice a nestandardní vliv SPD na výběr armádních špiček.",
-      "**Břetislav Rychlík (Senátor)** – Označil vládní návrh zákona o médiích za likvidační paskvil a varoval před útokem na svobodu slova.",
-      "**Lukáš Otis (TOP 09)** – Kritizoval plošné cenové stropy u pohonných hmot jako likvidační pro podnikatele a vyzval k přípravě krizových scénářů pro energetickou bezpečnost."
+      "**Matěj Ondřej Havel (TOP 09)** — Upozornil na střet zájmů poradkyně Semancové na MPSV (riziko 100 mil. Kč), kritizoval vyloučení prezidenta Pavla z delegace na summit NATO a vyzval k odvolání ministrů Macinky a Zůny.",
+      "**Michal Zuna (TOP 09)** — Hovořil o bezpečnostním chaosu vlády, kritizoval podporu Viktora Orbána vládními představiteli a odsoudil cenzuru prezidenta a nestandardní výběr kandidátů na šéfa armády.",
+      "**Břetislav Rychlík (Senát)** — Označil vládní návrh zákona o médiích za likvidační paskvil a zdůraznil roli veřejnoprávních médií jako součásti bezpečnostního systému státu.",
+      "**Lukáš Otis (TOP 09)** — Kritizoval plošné zastropování cen pohonných hmot jako návrat k centrálnímu plánování a vyzval k přípravě krizových scénářů pro energetickou bezpečnost."
     ],
-    "outcome": "Nebyl přijat žádný formální závěr. Opozice vyjádřila odhodlání k bezprecedentním obstrukcím v případě projednávání vládních návrhů směřujících proti veřejnoprávním médiím.",
-    "notes": "Přepis obsahuje drobné chyby v identifikaci jmen ministrů a jejich resortů způsobené automatickým přepisem."
+    "outcome": "Opozice (včetně TOP 09) je odhodlána k tvrdým obstrukcím v Poslanecké sněmovně, pokud vládní koalice předloží návrhy směřující k „ujařmení“ veřejnoprávních médií. TOP 09 deklarovala, že v případě nutnosti bude v budově sněmovny „bydlet“, aby proces schvalování těchto zákonů co nejdéle blokovala.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -59,8 +59,8 @@
     "institutions": [
       "Poslanecká sněmovna",
       "Senát",
-      "Ministerstvo práce a sociálních věcí",
-      "NATO"
+      "NATO",
+      "MPSV"
     ]
   },
   "highlights": [
@@ -70,36 +70,36 @@
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/00:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_highlight_00.jpg",
-      "context": "Tvrzení se týká údajného střetu zájmů poradkyně ministra práce a sociálních věcí. Částka 100 milionů Kč je odhadem možných sankcí či ztrát z dotací, nelze však nezávisle ověřit, zda již byla tato škoda oficiálně vyčíslena kontrolními orgány, jako je NKÚ nebo auditní orgány MF ČR."
+      "screenshot_path": "summaries/screenshots/event_2829_highlight_00.jpg",
+      "context": "Tvrzení se týká kauzy poradkyně ministryně práce a sociálních věcí Jany Maláčové (ČSSD) z roku 2021. Částka 100 milionů Kč byla uváděna v médiích jako odhadovaná výše škody v souvislosti s údajným střetem zájmů a zakázkami, avšak věc byla předmětem politické debaty a šetření orgánů činných v trestním řízení; konečná právní kvalifikace škody závisí na výsledcích vyšetřování."
     },
     {
-      "text": "Jakýkoliv útok na veřejnoprávní média je z našeho pohledu nepřijatelný, budeme proti němu bojovat.",
-      "type": "citation",
-      "speaker": "Matěj Ondřej Havel",
-      "affiliation": "TOP 09",
-      "timestamp": "1/19:51",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_highlight_01.jpg",
-      "context": "Jde o politický postoj a deklaraci hodnotové orientace strany TOP 09. Pojem „útok na veřejnoprávní média“ je subjektivní interpretace politických kroků, kterou nelze fakticky verifikovat jako objektivní právní či fyzický akt."
-    },
-    {
-      "text": "Ministr Klempíř předložil jakýsi paskvil, aniž by ho konzultoval s odbornou veřejností, což vede k likvidaci veřejnoprávních médií.",
+      "text": "Veřejnoprávní média jsou součástí bezpečnostního systému země, což třeba funguje v případech nejrůznějšího ohrožení anebo katastrof.",
       "type": "citation",
       "speaker": "Břetislav Rychlík",
       "affiliation": "Senát",
-      "timestamp": "1/10:49",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_highlight_02.jpg",
-      "context": "Tvrzení o „likvidaci“ médií je politickou rétorikou a hodnotícím úsudkem. Zda proběhly konzultace s odbornou veřejností, je ověřitelné skrze legislativní proces (eKLEP), kde se zveřejňují připomínky k návrhům zákonů."
+      "timestamp": "1/11:07",
+      "screenshot_path": "summaries/screenshots/event_2829_highlight_01.jpg",
+      "context": "Role veřejnoprávních médií v krizových situacích je ukotvena v zákoně č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání, a v zákoně č. 240/2000 Sb. (krizový zákon). ČT a ČRo mají zákonnou povinnost poskytovat informace v případě ohrožení státu nebo při mimořádných událostech, což potvrzuje jejich roli v bezpečnostním systému."
+    },
+    {
+      "text": "Jsme odhodláni tomu zabránit všemi prostředky, které máme k dispozici, budeme ten zákon blokovat tak dlouho, jak to jenom bude možné.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/14:48",
+      "screenshot_path": "summaries/screenshots/event_2829_highlight_02.jpg",
+      "context": "Jedná se o politické prohlášení o záměru využít parlamentní obstrukce. Možnost blokovat legislativní proces je legitimním politickým nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.), jehož efektivita závisí na aktuálním nastavení pravidel a ochotě koalice k dohodě."
     }
   ],
   "controversial": [
     {
-      "statement": "TOP 09 oznámila, že v případě projednávání zákona o veřejnoprávních médiích jsou připraveni v budově Sněmovny „bydlet“ a provádět obstrukce, jaké Sněmovna ještě nezažila.",
+      "statement": "**Matěj Ondřej Havel (TOP 09)** prohlásil, že opozice bude v Poslanecké sněmovně „bydlet“ a provádět obstrukce, jaké sněmovna ještě nezažila, pokud projde mediální zákon. Je to politicky citlivé, neboť jde o přímou hrozbu paralyzování legislativního procesu v reakci na vládní návrh.",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
       "timestamp": "1/14:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2829_controversy_00.jpg",
-      "context": "Ohlášení obstrukcí je legitimním politickým nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Zda budou obstrukce „takové, jaké Sněmovna ještě nezažila“, je subjektivní politické prohlášení, které nelze předem fakticky potvrdit."
+      "screenshot_path": "summaries/screenshots/event_2829_controversy_00.jpg",
+      "context": "Obstrukce jsou v Poslanecké sněmovně běžným nástrojem opozice (např. dlouhé projevy, blokování schůze). Výrok o „obstrukcích, jaké sněmovna ještě nezažila“ je politickou rétorikou, jejíž naplnění nelze fakticky ověřit, neboť intenzita obstrukcí je subjektivně vnímána a závisí na konkrétním postupu opozičních poslanců."
     }
   ],
   "quality": {

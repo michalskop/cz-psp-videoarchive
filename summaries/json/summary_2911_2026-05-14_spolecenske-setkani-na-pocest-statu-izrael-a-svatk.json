@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T02:58:28",
+  "created_at": "2026-05-29T15:07:07",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2911",
     "name": "Společenské setkání na počest Státu Izrael a svátku Dne Jeruzaléma",
     "classification": "Ostatní",
-    "start_date": "2026-05-14T15:09",
-    "end_date": "2026-05-14T16:26",
+    "start_date": "2026-05-14",
+    "end_date": "2026-05-14",
     "sources": [
       "final/event_2911_2026-05-14_spolecenske-setkani-na-pocest-statu-izrael-a-svatk.md"
     ]
@@ -19,30 +19,31 @@
     "model": "large-v3"
   },
   "summary": {
-    "topic": "Jednání se uskutečnilo 14. května 2026 v prostorách Poslanecké sněmovny u příležitosti 78. výročí vyhlášení nezávislosti Státu Izrael a svátku Dne Jeruzaléma. Cílem akce bylo vyjádřit podporu Izraeli, upevnit meziparlamentní vztahy a podpořit dlouhodobý politický cíl – přesun českého velvyslanectví z Tel Avivu do Jeruzaléma.\n\nSetkání pod záštitou předsedy Meziparlamentní skupiny přátel ČR–Izrael Miroslava Janulíka se zúčastnili zástupci obou komor Parlamentu ČR, velvyslanec Státu Izrael a představitelé mezinárodních organizací. Součástí akce byla výzva k podpisu deklarace adresované české vládě, která požaduje plnohodnotné uznání Jeruzaléma jako hlavního města Izraele prostřednictvím přesunu ambasády.",
+    "topic": "Jednání se uskutečnilo 14. května 2026 v Poslanecké sněmovně jako společenské setkání na počest Státu Izrael u příležitosti 78. výročí jeho vyhlášení a svátku Dne Jeruzaléma. Cílem akce bylo vyjádřit podporu Izraeli, upevnit meziparlamentní spolupráci a deklarovat politickou vůli k přesunu českého velvyslanectví z Tel Avivu do Jeruzaléma.\n\nSetkání se konalo pod záštitou předsedy Meziparlamentní skupiny přátel ČR–Izrael a bylo proloženo příspěvky politiků, publicistů a zástupců mezinárodních organizací, které dlouhodobě podporují Stát Izrael.",
     "main_points": [
-      "**Miroslav Janulík (ANO 2011)**: Předseda skupiny přátel ČR-Izrael, zdůraznil potřebu přesunu ambasády.",
-      "**Prof. Jan Pěrek (Senát PČR)**: Připomněl historickou podporu Izraele od Masaryka po Havla.",
-      "**Amir Weissbrod (velvyslanec Izraele)**: Ocenil přátelství a turistický zájem Čechů o Izrael.",
-      "**Jefim Fištejn (publicista)**: Kritizoval mezinárodní právo a civilizační úpadek západních politiků.",
-      "**Mojmír Kallus (ICEJ)**: Představil zástupce více než 20 zemí podporujících Jeruzalém jako hlavní město.",
-      "**Leofan Dosburg (Israel Allies Foundation)**: Informoval o mezinárodní síti zákonodárců.",
-      "**Karel Sedláček (Česká společnost přátel Izraele)**: Zdůraznil symboliku Tóry v parlamentu."
+      "**Miloslav Janulík (předseda Meziparlamentní skupiny přátel ČR–Izrael)** — Zdůraznil, že skupina je s 55 poslanci nejpočetnější v parlamentu. Vyjádřil odhodlání pokračovat v úsilí o přesun ambasády do Jeruzaléma.",
+      "**Prof. Jan Pěrek (senátor)** — Připomněl historické vazby (T. G. Masaryk, Jan Masaryk, Václav Havel) a jejich odvahu zastávat proizraelské postoje.",
+      "**Amir Weissbrod (velvyslanec Státu Izrael v ČR)** — Ocenil česko-izraelské přátelství a morální jasnost ČR. Uvedl, že ČR byla loni čtvrtou nejčastější destinací pro izraelské turisty.",
+      "**Jefim Fištejn (publicista)** — Analyzoval civilizační krizi a nárůst antisemitismu. Kritizoval neschopnost evropských politiků definovat „přiměřenou odpověď“ Izraele na útoky.",
+      "**Mojmír Kallus (viceprezident ICEJ)** — Představil zástupce více než 20 zemí a zdůraznil roli křesťanských organizací v podpoře přesunu ambasád.",
+      "**Leofan Dosburg (Israel Allies Foundation)** — Vyzdvihl českou rezoluci na podporu Izraele z října 2023 a spolupráci se 64 parlamenty světa.",
+      "**Karel Sedláček (Česká společnost přátel Izraele)** — Přečetl vzkaz Tomáše Krause (American Jewish Committee) o symbolice svitku Tóry v budově Sněmovny.",
+      "**Petr Macinka (ministr zahraničních věcí – tlumočeno)** — V zaslaném pozdravu potvrdil nadstandardní vztahy a respekt k významu Jeruzaléma."
     ],
-    "outcome": "Akce skončila konsenzuální podporou přesunu českého velvyslanectví do Jeruzaléma. Účastníci byli vyzváni k podpisu deklarace, která bude následně předložena předsedovi vlády. Setkání bylo zakončeno státními hymnami ČR a Izraele.",
-    "notes": "Přepis obsahuje četné technické chyby. Část 1/9 je prázdná."
+    "outcome": "Jednání bylo zakončeno státními hymnami obou zemí. Hlavním praktickým výstupem byla výzva (deklarace) adresovaná vládě ČR, vyzývající k dokončení přesunu českého velvyslanectví do Jeruzaléma. Účastníci měli možnost tuto deklaraci podepsat.",
+    "notes": "Přepis obsahuje četné chyby v přepisu jmen (např. „Belislance“ místo velvyslanec, „Pěrek“ místo senátor Pirk, „Denis Dukansky“ místo Denis Dostál, „Petr Macinka“ místo Jan Lipavský). Část 1/9 je prázdná."
   },
   "entities": {
     "speakers": [
       {
-        "name": "Miroslav Janulík",
+        "name": "Miloslav Janulík",
         "person_id": "psp:person:6201",
-        "affiliation": "ANO 2011"
+        "affiliation": "Poslanecká sněmovna"
       },
       {
         "name": "Jan Pěrek",
         "person_id": "psp:person:6875",
-        "affiliation": "Senát PČR"
+        "affiliation": "Senát"
       },
       {
         "name": "Amir Weissbrod",
@@ -71,11 +72,18 @@
       }
     ],
     "parties": [
-      "ANO 2011"
+      "ANO 2011",
+      "ODS",
+      "STAN",
+      "Piráti",
+      "KDU-ČSL",
+      "SPD",
+      "Motoristé sobě",
+      "TOP 09"
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Senát PČR",
+      "Senát",
       "ICEJ",
       "Israel Allies Foundation"
     ]
@@ -87,8 +95,8 @@
       "speaker": "Petr Macinka",
       "affiliation": "Ministerstvo zahraničních věcí",
       "timestamp": "8/01:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_00.jpg",
-      "context": "Vztahy mezi ČR a Izraelem jsou dlouhodobě označovány za strategické a nadstandardní, což potvrzují pravidelná společná zasedání vlád obou zemí (tzv. intergovernmental consultations). Tato spolupráce je ukotvena v řadě bilaterálních dohod a deklarací o strategickém partnerství."
+      "screenshot_path": "summaries/screenshots/event_2911_highlight_00.jpg",
+      "context": "ČR dlouhodobě deklaruje Izrael jako jednoho ze svých klíčových strategických partnerů na Blízkém východě. Tato spolupráce je ukotvena v řadě bilaterálních dohod a pravidelných společných zasedání vlád obou zemí."
     },
     {
       "text": "Jeruzalém stojí na srdci českého lidství pro více než tři tisíce let.",
@@ -96,27 +104,27 @@
       "speaker": "Amir Weissbrod",
       "affiliation": "Velvyslanectví Státu Izrael",
       "timestamp": "3/06:57",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_01.jpg",
-      "context": "Tvrzení má historicko-náboženský charakter a odkazuje na židovskou přítomnost v Jeruzalémě. Z hlediska faktografického ověření jde o interpretaci historické kontinuity, kterou nelze objektivně měřit jako politický či právní fakt."
+      "screenshot_path": "summaries/screenshots/event_2911_highlight_01.jpg",
+      "context": "Tvrzení má historicko-náboženský charakter a nelze jej faktograficky ověřit jako politický či právní fakt. Odkazuje na tisíciletou židovskou přítomnost v Jeruzalémě, nikoliv na oficiální státní politiku ČR."
     },
     {
-      "text": "V žádné jiné budově zákonodárného sboru na světě není permanentně vystaven svitek Tóry, pouze u nás.",
+      "text": "Skutečné přátelství se ukáže hlavně v těžkých chvílích.",
       "type": "citation",
       "speaker": "Karel Sedláček",
       "affiliation": "Česká společnost přátel Izraele",
-      "timestamp": "7/04:57",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_02.jpg",
-      "context": "Svitek Tóry je skutečně trvale vystaven v prostorách Poslanecké sněmovny (v budově Sněmovní 1). Ačkoliv jde o unikátní prvek v rámci českého parlamentu, nelze nezávisle ověřit, zda je tento úkaz zcela ojedinělý v celosvětovém měřítku napříč všemi zákonodárnými sbory."
+      "timestamp": "7/09:33",
+      "screenshot_path": "summaries/screenshots/event_2911_highlight_02.jpg",
+      "context": "Jde o subjektivní hodnotový výrok, který nelze nezávisle ověřit. V politickém kontextu se vztahuje k diplomatické podpoře ČR vůči Izraeli, zejména v rámci mezinárodních organizací (např. OSN)."
     }
   ],
   "controversial": [
     {
-      "statement": "Jefim Fištejn označil současnou mezinárodní politiku a odpor k uznání Jeruzaléma za projev „civilizační degradace“ a „demokratické recese“, přičemž zpochybnil legitimitu mezinárodního práva.",
-      "speaker": "Jefim Fištejn",
-      "affiliation": null,
-      "timestamp": "4/06:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_controversy_00.jpg",
-      "context": "Výrok je subjektivním hodnotovým soudem řečníka o stavu mezinárodní politiky. Kritika mezinárodního práva a interpretace pojmů jako „civilizační degradace“ představují politický názor, který nelze fakticky verifikovat jako pravdivý či nepravdivý."
+      "statement": "**Kontroverzní návrh:** Přesun ambasády do Jeruzaléma.\n* **Kdo:** Miloslav Janulík, Jan Pěrek, Mojmír Kallus a další.\n* **Co:** Požadavek na plnohodnotný přesun velvyslanectví ČR do Jeruzaléma.\n* **Proč:** Jde o citlivou diplomatickou otázku, neboť většina mezinárodního společenství uznává status Jeruzaléma jako předmět budoucích jednání a ambasády drží v Tel Avivu.\n* **Čas:** 2/04:02, 3/02:02, 5/04:02.",
+      "speaker": "Miloslav Janulík",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "2/04:02",
+      "screenshot_path": "summaries/screenshots/event_2911_controversy_00.jpg",
+      "context": "Oficiální pozicí ČR, v souladu s politikou EU, zůstává, že Jeruzalém by měl být budoucím hlavním městem obou států (Izraele i Palestiny). Přesun ambasády do Jeruzaléma by byl v rozporu s konsenzem většiny členských států OSN a rezolucemi Rady bezpečnosti OSN, které status města ponechávají k vyjednání."
     }
   ],
   "quality": {

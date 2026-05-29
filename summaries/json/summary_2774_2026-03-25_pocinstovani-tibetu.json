@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:30:16",
+  "created_at": "2026-05-29T14:11:14",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2774",
@@ -19,31 +19,32 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Konference se zaměřila na analýzu současné situace v Tibetu, který je pod čínskou správou vystaven systematickému procesu tzv. „počínšťování“ (sinizace). Cílem akce bylo upozornit na agresivní politiku Pekingu, která směřuje k likvidaci tibetské kultury, náboženství, jazyka a identity, a analyzovat širší geopolitické souvislosti, včetně vlivu Číny na globální bezpečnost a demokratické hodnoty.\n\nAkce sloužila jako platforma pro sdílení svědectví o porušování lidských práv, diskuzi o strategickém významu Tibetu jako hydrologického a geopolitického uzlu a reflexi české podpory Tibetu navazující na odkaz Václava Havla.",
+    "topic": "Konference se zaměřila na analýzu současné situace v Tibetu, konkrétně na proces tzv. „počínšťování“ (sinizace), který zahrnuje systematickou likvidaci tibetské kultury, jazyka, náboženské identity a autonomie ze strany Čínské lidové republiky. Cílem akce bylo upozornit na agresivní politiku Pekingu, která má za následek nejen útlak tibetského etnika, ale představuje i širší bezpečnostní a geopolitickou hrozbu pro demokratické státy.\n\nKonference sloužila jako platforma pro sdílení odborných poznatků sinologů, tibetanistů a politických představitelů. Akcentovala potřebu české zahraniční politiky navázat na „havlovskou tradici“ podpory lidských práv a upozornila na rizika spojená s rostoucím vlivem Číny v Evropě.",
     "main_points": [
-      "**Helena Langšádlová (poslankyně PSP ČR)** — zdůraznila, že Čína je nedemokratický a agresivní režim, a varovala před bezpečnostními hrozbami plynoucími z jejího vlivu v Evropě a ČR.",
-      "**Martin Hála (ředitel projektu Sinopsis)** — definoval Tibet jako „skrytý multiplikátor moci“ v Eurasii s klíčovým významem v geopolitické, kulturní, náboženské a ekologické rovině.",
-      "**Tinlay Chukki (velvyslankyně Tibetské exilové vlády)** — popsala systematickou represi, včetně „koloniálních škol“ pro děti, a fenomén transnacionální represe vůči Tibeťanům v exilu.",
-      "**Břetislav Rychlík (senátor PČR)** — varoval před čínským vměšováním do procesu reinkarnace Dalajlámy, což přirovnal k pokusu „vybrat papeže v Kremlu“.",
-      "**Jarmila Ptáčková (sinoložka, Orientální ústav AV ČR)** — analyzovala zákon o „etnické jednotě“ a popsala militarizaci hranic a zneužívání ekonomické závislosti tibetských rodin.",
-      "**David Gardáš (sinolog, projekt Sinopsis)** — představil Tibet jako „západní pokladnici“ Číny s důrazem na těžbu lithia, superpočítačová centra a vojenskou infrastrukturu.",
-      "**Tomáš Etzler (novinář)** — popsal nemožnost nezávislé novinářské práce v Tibetu, kde jsou oficiální cesty přísně inscenované a monitorované.",
-      "**Alexandr Neumann (novinář)** — připomněl havlovské dědictví a význam pozvání Dalajlámy do Prahy jako klíčového momentu pro mezinárodní uznání tibetské otázky."
+      "**Helena Langšádlová (poslankyně PSP ČR)** — zdůraznila, že Čína je nedemokratický režim, varovala před bezpečnostními hrozbami závislosti na Číně a nutností sledovat její vliv v Evropě.",
+      "**Martin Hála (projekt Sinopsis)** — definoval Tibet jako geopolitický uzel Eurázie s významem v rovinách geopolitické, kulturní, náboženské a ekologické.",
+      "**H.E. Tinlay Chukki (velvyslankyně Tibetské exilové vlády)** — popsala útlak v Tibetu, nucenou převýchovu dětí a fenomén „transnacionální represe“ vůči Tibeťanům v exilu.",
+      "**Břetislav Rychlík (senátor Senátu PČR)** — kritizoval čínský zákon o „etnické jednotě“ a přirovnal vměšování do reinkarnace dalajlamy k výběru papeže v Kremlu.",
+      "**Jarmila Ptáčková (Orientální ústav AV ČR)** — analyzovala marginalizaci tibetské identity, sledovací technologie a negativní vliv Číny v Nepálu.",
+      "**David Gardáš (projekt Sinopsis)** — popsal ekonomické ambice Číny v Tibetu (lithium, přehrady) a militarizaci regionu skrze infrastrukturu „dvojího užití“.",
+      "**Zuzana Ondomišiová (etnografka)** — vysvětlila význam instituce dalajlamy jako symbolu kontinuity a legitimity tibetského národa.",
+      "**Tomáš Etzler (novinář)** — upozornil na nemožnost nezávislé novinářské práce v Tibetu, který je pro média prakticky uzavřen.",
+      "**Alexandr Neumann (novinář)** — připomněl odkaz Václava Havla jako klíčového hybatele mezinárodní podpory Tibetu."
     ],
-    "outcome": "Konference vyústila v konsenzus o nutnosti pokračovat v monitorování situace v Tibetu a šíření osvěty o čínském vlivu. Poslankyně Langšádlová avizovala záměr iniciovat v Poslanecké sněmovně deklaraci k situaci v Tibetu. Byla zdůrazněna potřeba vnímat tibetskou otázku jako součást širšího boje za demokratické hodnoty.",
-    "notes": "Přepis obsahuje drobné technické artefakty, které byly pro účely shrnutí ignorovány. Části přepisu v časech 07:00–08:00 (části 7 a 8) byly nesrozumitelné a obsahovaly halucinace modelu, proto nebyly do shrnutí zahrnuty."
+    "outcome": "Konference vyústila v konsenzus o nutnosti pokračovat v podpoře tibetské otázky na parlamentní úrovni. Poslankyně Langšádlová avizovala záměr projednat s kolegy možnost přijetí parlamentní deklarace k situaci v Tibetu. Závěrem bylo potvrzeno, že Tibet není pouze vzdálenou periferií, ale místem, kde se rozhoduje o hodnotách, které jsou blízké i České republice.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné halucinace modelu (opakování frází), které byly pro účely shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
       {
         "name": "Helena Langšádlová",
         "person_id": "psp:person:5943",
-        "affiliation": "Poslanecká sněmovna"
+        "affiliation": "Poslanecká sněmovna PČR"
       },
       {
         "name": "Martin Hála",
         "person_id": null,
-        "affiliation": "Sinopsis"
+        "affiliation": "projekt Sinopsis"
       },
       {
         "name": "Tinlay Chukki",
@@ -63,7 +64,12 @@
       {
         "name": "David Gardáš",
         "person_id": null,
-        "affiliation": "Sinopsis"
+        "affiliation": "projekt Sinopsis"
+      },
+      {
+        "name": "Zuzana Ondomišiová",
+        "person_id": null,
+        "affiliation": "etnografka"
       },
       {
         "name": "Tomáš Etzler",
@@ -78,7 +84,7 @@
       {
         "name": "Pavel Žáček",
         "person_id": "psp:person:5226",
-        "affiliation": "Poslanecká sněmovna"
+        "affiliation": "Poslanecká sněmovna PČR"
       }
     ],
     "parties": [
@@ -92,58 +98,58 @@
       "TOP 09"
     ],
     "institutions": [
-      "Poslanecká sněmovna",
+      "Poslanecká sněmovna PČR",
       "Senát PČR",
-      "Orientální ústav AV ČR",
-      "Sinopsis"
+      "Sinopsis",
+      "Orientální ústav AV ČR"
     ]
   },
   "highlights": [
     {
-      "text": "Tibet je skrytým multiplikátorem moci v Eurasii, je to jedno z míst, kde se rozhoduje o budoucnosti.",
+      "text": "Tibet je vlastně skrytým multiplikátorem moci v Eurázii.",
       "type": "paraphrase",
       "speaker": "Martin Hála",
-      "affiliation": "Sinopsis",
-      "timestamp": "2/06:08",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_00.jpg",
-      "context": "Jde o politologické a geopolitické hodnocení, které nelze faktograficky potvrdit ani vyvrátit. Tibet je z hlediska geografie a vodních zdrojů (tzv. asijská vodní věž) strategicky významným územím, jehož vliv na regionální bezpečnost je předmětem odborných debat."
+      "affiliation": "projekt Sinopsis",
+      "timestamp": "2/06:04",
+      "screenshot_path": "summaries/screenshots/event_2774_highlight_00.jpg",
+      "context": "Jde o politologickou interpretaci geopolitického významu Tibetu jako strategického území s vodními zdroji a vojenským potenciálem. Nelze nezávisle ověřit jako fakt, jedná se o analytické tvrzení."
     },
     {
-      "text": "Čína se snaží kontrolovat instituci Dalajlámy, což je jediný faktor, který vždycky vytvořil Tibet.",
-      "type": "paraphrase",
-      "speaker": "Tinlay Chukki",
-      "affiliation": "Tibetská exilová vláda",
-      "timestamp": "3/00:24",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_01.jpg",
-      "context": "Čínská vláda prostřednictvím Státní správy pro náboženské záležitosti vydala v roce 2007 „Nařízení č. 5“, které si nárokuje právo schvalovat reinkarnace významných tibetských lámů. Tento krok je mezinárodně kritizován jako snaha o politickou kontrolu nad tibetským buddhismem."
+      "text": "Je to jako kdyby v Kremlu vybírali papeže.",
+      "type": "citation",
+      "speaker": "Břetislav Rychlík",
+      "affiliation": "Senát PČR",
+      "timestamp": "3/06:01",
+      "screenshot_path": "summaries/screenshots/event_2774_highlight_01.jpg",
+      "context": "Metafora odkazuje na čínské vládní nařízení č. 5 (2007), které vyžaduje schválení reinkarnací tibetských lámů čínskými úřady. Srovnání s Kremlem a papežem je hodnotící příměr ilustrující zásah sekulární moci do náboženských záležitostí."
     },
     {
-      "text": "Práce nezávislých novinářů v Tibetu je naprosto nemožná a trvá to už několik dekád.",
+      "text": "Práce nezávislého novináře v Tibetu je v Číně naprosto nemožná a trvá to už několik dekád.",
       "type": "citation",
       "speaker": "Tomáš Etzler",
       "affiliation": "novinář",
       "timestamp": "12/04:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_02.jpg",
-      "context": "Podle žebříčků organizace Reportéři bez hranic (RSF) se Čína dlouhodobě umisťuje na chvostu indexu svobody tisku. Přístup zahraničních novinářů do Tibetské autonomní oblasti je čínskými úřady systematicky omezován a podléhá přísnému schvalovacímu procesu."
+      "screenshot_path": "summaries/screenshots/event_2774_highlight_02.jpg",
+      "context": "Podle žebříčků organizace Reportéři bez hranic (RSF) se Čína dlouhodobě umisťuje na chvostu indexu svobody tisku. Vstup novinářů do Tibetské autonomní oblasti je čínskými úřady systematicky omezován a vyžaduje speciální povolení, která jsou pro nezávislé zpravodaje prakticky nedostupná."
     },
     {
-      "text": "Václav Havel vytvořil příležitost a na nás všech je tuto příležitost udržovat živou.",
+      "text": "Václav Havel vytvořil příležitost a na nás bylo a je tuto příležitost udržovat živou.",
       "type": "citation",
       "speaker": "Alexandr Neumann",
       "affiliation": "novinář",
       "timestamp": "14/08:22",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_highlight_03.jpg",
-      "context": "Václav Havel byl významným zastáncem tibetské otázky a jako první hlava státu na světě přijal dalajlámu oficiálně v prezidentské kanceláři v roce 1990. Jde o hodnotové tvrzení o odkazu politika, které nelze fakticky ověřit."
+      "screenshot_path": "summaries/screenshots/event_2774_highlight_03.jpg",
+      "context": "Subjektivní politické hodnocení odkazu Václava Havla v kontextu české zahraniční politiky a lidskoprávní agendy. Nelze nezávisle ověřit, jde o interpretaci historické role a osobní názor."
     }
   ],
   "controversial": [
     {
-      "statement": "**Břetislav Rychlík (senátor)** — Přirovnal snahu Číny vybrat 15. Dalajlámu k situaci, kdy by komunisté v Kremlu vybírali papeže. Je to kontroverzní, protože jde o přímý útok na náboženskou svobodu a suverenitu tibetské kultury.\n\n**Čas:** 3/06:01",
+      "statement": "Zásah Číny do procesu reinkarnace dalajlamy, přirovnán k situaci, „jako kdyby v Kremlu vybírali papeže“.",
       "speaker": "Břetislav Rychlík",
       "affiliation": "Senát PČR",
       "timestamp": "3/06:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2774_controversy_00.jpg",
-      "context": "Přirovnání k volbě papeže je rétorickou figurou ilustrující zásah státní moci do náboženských struktur. Čínské úřady skutečně vyvíjejí snahu o kontrolu procesu reinkarnace, což je v rozporu s náboženskou tradicí tibetského buddhismu a principem svobody vyznání garantovaným mezinárodními úmluvami."
+      "screenshot_path": "summaries/screenshots/event_2774_controversy_00.jpg",
+      "context": "Čínské úřady skutečně uplatňují nárok na kontrolu procesu reinkarnace skrze státní správu (Státní správa pro náboženské záležitosti). Přirovnání k volbě papeže Kremlem je legitimní politickou metaforou pro zásah státu do autonomie církevní hierarchie."
     }
   ],
   "quality": {

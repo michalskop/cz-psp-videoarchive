@@ -1,44 +1,44 @@
-Toto je strukturované shrnutí tiskové konference poslaneckého klubu Starostů (STAN) ze dne 21. dubna 2026.
+Zde je strukturované shrnutí tiskové konference poslaneckého klubu Starostů (STAN) ze dne 21. dubna 2026.
 
 ### 1. Téma a účel jednání
-Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat postoj hnutí STAN k aktuálním legislativním a politickým tématům. Hlavním bodem byla kritika vládního postupu při volbě radních České televize, kterou hnutí považuje za nepřijatelnou kvůli podezřením z korupčního jednání.
+Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat postoje hnutí STAN k aktuálním legislativním prioritám a politickým sporům. Hlavním tématem byla snaha o zablokování volby radních České televize, kterou hnutí považuje za nepřijatelnou kvůli podezřením z korupčního jednání.
 
-Dalšími tématy byly kritika vládních návrhů v oblasti médií (změna financování veřejnoprávních médií), otázka nominačního zákona a chaos vládní koalice při předkládání zákonů formou poslaneckých návrhů, což obchází standardní legislativní proces.
+Dalšími klíčovými tématy byla kritika vládního postupu v oblasti veřejnoprávních médií (zejména návrh ministra kultury Otty Klempiše na změnu financování), kritika rušení nominačního zákona a vyjádření k legislativě v sociální oblasti. Hnutí STAN deklarovalo ochotu k obstrukcím, pokud vládní koalice neustoupí v otázce volby radních.
 
 ### 2. Hlavní body
 *   **Michaela Šebelová (STAN):**
     *   Požaduje odložení volby radních České televize kvůli podezření na korupci.
-    *   Kritizuje vládní mediální novelu (ministr Otto Klempiš) za snahu zrušit koncesionářské poplatky a nahradit je přímým příspěvkem ze státního rozpočtu, což označila za útok na nezávislost médií.
-    *   Poukázala na netransparentnost vládní komunikace, kdy za ministra kultury vystupuje ministr pro sport a prevenci Boris Šťastný.
+    *   Kritizuje vládní mediální novelu (zrušení koncesionářských poplatků a jejich nahrazení příspěvkem ze státního rozpočtu) jako útok na nezávislost médií.
+    *   Považuje za nepřijatelné, že v debatách o médiích za ministra kultury vystupuje ministr pro sport Boris Šťastný.
 *   **Vít Rakušan (STAN):**
-    *   Oznámil svolání schůzky k veřejnoprávním médiím na čtvrtek ve 14:00, na kterou pozval zástupce vládních i opozičních stran a ředitele médií.
-    *   Podmínil podporu vládních volebních bodů tím, že vláda stáhne bod „volba radních ČT“ nebo že dotčení kandidáti odstoupí.
-    *   Kritizoval rušení nominačního zákona vládní koalicí, což vnímá jako snahu o ovládnutí státní správy bez odborných kritérií. Navrhuje zákonu „dát zuby“ (automatické vyřazení kandidáta při negativním hodnocení výboru).
-    *   Odsoudil vládní zákon o cenách pohonných hmot jako „hazard s ústavností“, který obchází zákonodárnou i soudní moc.
+    *   Svolal na čtvrtek (14:00) jednání se zástupci veřejnoprávních médií a parlamentních stran, aby se vedla odborná debata o budoucnosti médií.
+    *   Deklaroval, že STAN bude v otázce médií obstruovat, dokud vláda nestáhne bod o volbě radních.
+    *   Kritizuje záměr vlády zrušit nominační zákon; navrhuje jej naopak posílit (závazné negativní stanovisko nominačního výboru jako stopka pro kandidáta).
+    *   Kritizuje vládní zákon o cenách pohonných hmot jako „hazard s ústavností“, který obchází zákonodárnou i soudní moc.
 *   **Pavla Pivoňka Vaňková (STAN):**
-    *   Kritizovala vládní praxi předkládání zákonů jako poslaneckých návrhů, čímž se obchází připomínkové řízení.
-    *   Uvedla, že STAN nebude vetovat dvě konkrétní sociální legislativy, ale považuje to za „poslední vstřícný krok“.
-    *   Upozornila na vnitřní rozpor vládní koalice, kdy Ministerstvo financí dává zamítavé stanovisko k vládním návrhům, které jsou součástí vládního prohlášení.
+    *   Upozorňuje na chaos v sociální legislativě, kde ministři obcházejí standardní procesy předkládáním vládních návrhů jako poslaneckých.
+    *   STAN se nepřipojí k vetu u dvou konkrétních sociálních zákonů, ale označuje to za „poslední vstřícný krok“.
+    *   Kritizuje rozpor mezi vládním prohlášením a stanovisky Ministerstva financí k navýšení rodičovského příspěvku.
 
 ### 3. Výsledek / závěr
-Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci. Dominujícím postojem hnutí STAN je pokračování v obstrukcích v Poslanecké sněmovně, dokud vláda neustoupí v otázce volby radních České televize. Hnutí deklaruje ochotu k politické diskuzi o veřejnoprávních médiích na čtvrteční schůzce.
+Nebyl učiněn žádný formální závěr, neboť se jednalo o tiskovou konferenci. Dominujícím postojem hnutí STAN je neústupnost v otázce volby radních České televize a připravenost k obstrukcím v Poslanecké sněmovně. Hnutí se snaží přenést debatu o veřejnoprávních médiích na platformu odborného jednání, které svolalo na čtvrtek.
 
 ### 4. Poznámky
-Přepis obsahuje místy nesrozumitelné pasáže (např. v části 1/3, `02:01` a `06:00`), kde dochází k výpadkům slov nebo opakování nesmyslných shluků znaků. Identifikace některých jmen (např. „Otto Klempiš“, „Boris Šťastný“, „Petr Macenka“) odpovídá přepisu, ačkoliv se může jednat o fonetické chyby v přepisu jmen reálných politiků.
+Přepis obsahuje místy nesrozumitelné pasáže (např. useknutá slova u jmen ministrů či technické chyby v přepisu). Části týkající se konkrétních legislativních návrhů byly rekonstruovány z kontextu.
 
 ---
 
 ### Doplňující otázky
-*   **Kontroverzní návrh:** Vít Rakušan navrhuje, aby negativní hodnocení nominačního výboru znamenalo automatickou stopku pro kandidáta do státní správy.
-    *   **Proč:** Je to politicky citlivé, protože by to fakticky odebralo vládě právo nominovat své kandidáty, pokud by neprošli odborným sítem, což je v přímém rozporu s vládním záměrem zákon zrušit.
-    *   **Čas:** 2/00:00.
+*   **Kontroverzní návrh:** Vít Rakušan navrhuje, aby nominační výbor měl právo definitivně zablokovat kandidáta do státní správy, pokud obdrží záporné hodnocení.
+    *   **Proč:** Je to politicky citlivé, protože by to výrazně posílilo pravomoci nominačního výboru nad exekutivou a omezilo vládní nominace.
+    *   **Čas:** 2/00:00
 
 ---
 
 ### Klíčové citace pro veřejnost
-1. „Nezávislá média a veřejné služby jsou základním pilířem demokracie a je potřeba za ně bojovat.“ (Michaela Šebelová, STAN, 1/02:01)
-2. „Manažerská poučka číslo jedna: neměň něco, co funguje.“ (Vít Rakušan, STAN, 2/06:03)
-3. „Takový chaos v naší vládě funguje, že ministerstvo financí dává zamítavé stanovisko k tomu, co mají ve svém vládním prohlášení.“ (Pavla Pivoňka Vaňková, STAN, 2/02:09)
+1. „Nezávislá média a veřejné služby jsou základním pilířem demokracie a je potřeba za ně bojovat.“ (Citace, Michaela Šebelová, STAN, 1/02:01)
+2. „Manažerská poučka číslo jedna: neměň něco, co funguje.“ (Citace, Vít Rakušan, STAN, 2/07:03)
+3. „Vláda říká, budeme vládnout nařízeními. Já tomu pro srozumitelnost říkám dekrety.“ (Parafráze, Vít Rakušan, STAN, 2/04:08)
 
 ---
 
@@ -59,18 +59,18 @@ Přepis obsahuje místy nesrozumitelné pasáže (např. v části 1/3, `02:01` 
   "transcription": {
     "parts_transcribed": 3,
     "parts_total": 3,
-    "source": "whisper-large-v3",
+    "source": "whisper",
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat postoj hnutí STAN k aktuálním legislativním a politickým tématům. Hlavním bodem byla kritika vládního postupu při volbě radních České televize, kterou hnutí považuje za nepřijatelnou kvůli podezřením z korupčního jednání.\n\nDalšími tématy byly kritika vládních návrhů v oblasti médií (změna financování veřejnoprávních médií), otázka nominačního zákona a chaos vládní koalice při předkládání zákonů formou poslaneckých návrhů, což obchází standardní legislativní proces.",
+    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat postoje hnutí STAN k aktuálním legislativním prioritám a politickým sporům. Hlavním tématem byla snaha o zablokování volby radních České televize, kterou hnutí považuje za nepřijatelnou kvůli podezřením z korupčního jednání.\n\nDalšími klíčovými tématy byla kritika vládního postupu v oblasti veřejnoprávních médií, kritika rušení nominačního zákona a vyjádření k legislativě v sociální oblasti.",
     "main_points": [
-      "**Michaela Šebelová (STAN)** — Požaduje odložení volby radních České televize kvůli podezření na korupci. Kritizuje vládní mediální novelu za snahu zrušit koncesionářské poplatky.",
-      "**Vít Rakušan (STAN)** — Podmiňuje podporu vládních bodů stažením volby radních ČT. Kritizuje rušení nominačního zákona a označuje vládní zákon o cenách pohonných hmot za hazard s ústavností.",
-      "**Pavla Pivoňka Vaňková (STAN)** — Kritizuje obcházení legislativního procesu předkládáním zákonů jako poslaneckých návrhů a upozorňuje na vnitřní rozpory vládní koalice v sociální oblasti."
+      "**Michaela Šebelová (STAN)** — Požaduje odložení volby radních ČT, kritizuje vládní mediální novelu a způsob komunikace ministra kultury.",
+      "**Vít Rakušan (STAN)** — Svolal odbornou debatu o médiích na čtvrtek, deklaroval obstrukce v případě neústupnosti vlády, kritizuje rušení nominačního zákona a vládní „dekrety“.",
+      "**Pavla Pivoňka Vaňková (STAN)** — Kritizuje chaos v sociální legislativě a obcházení standardních procesů při předkládání zákonů."
     ],
-    "outcome": "Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci. Dominujícím postojem hnutí STAN je pokračování v obstrukcích v Poslanecké sněmovně, dokud vláda neustoupí v otázce volby radních České televize. Hnutí deklaruje ochotu k politické diskuzi o veřejnoprávních médiích na čtvrteční schůzce.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, kde dochází k výpadkům slov nebo opakování nesmyslných shluků znaků."
+    "outcome": "Nebyl učiněn žádný formální závěr. Dominujícím postojem hnutí STAN je neústupnost v otázce volby radních České televize a připravenost k obstrukcím v Poslanecké sněmovně.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže a technické chyby v přepisu jmen a názvů."
   },
   "entities": {
     "speakers": [
@@ -94,19 +94,19 @@ Přepis obsahuje místy nesrozumitelné pasáže (např. v části 1/3, `02:01` 
       "type": "citation",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "2/06:03"
+      "timestamp": "2/07:03"
     },
     {
-      "text": "Takový chaos v naší vládě funguje, že ministerstvo financí dává zamítavé stanovisko k tomu, co mají ve svém vládním prohlášení.",
-      "type": "citation",
-      "speaker": "Pavla Pivoňka Vaňková",
+      "text": "Vláda říká, budeme vládnout nařízeními. Já tomu pro srozumitelnost říkám dekrety.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
       "affiliation": "STAN",
-      "timestamp": "2/02:09"
+      "timestamp": "2/04:08"
     }
   ],
   "controversial": [
     {
-      "statement": "Vít Rakušan navrhuje, aby negativní hodnocení nominačního výboru znamenalo automatickou stopku pro kandidáta do státní správy. Je to politicky citlivé, protože by to fakticky odebralo vládě právo nominovat své kandidáty, pokud by neprošli odborným sítem, což je v přímém rozporu s vládním záměrem zákon zrušit.",
+      "statement": "Vít Rakušan navrhuje, aby nominační výbor měl právo definitivně zablokovat kandidáta do státní správy, pokud obdrží záporné hodnocení. Je to politicky citlivé, protože by to výrazně posílilo pravomoci nominačního výboru nad exekutivou.",
       "speaker": "Vít Rakušan",
       "affiliation": "STAN",
       "timestamp": "2/00:00"

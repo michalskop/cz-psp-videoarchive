@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:53:58",
+  "created_at": "2026-05-29T14:34:33",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2828",
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference se konala před mimořádnou schůzí Poslanecké sněmovny, kterou iniciovala opozice. Hlavním cílem bylo představit priority opozičních stran pro toto jednání, mezi které patří ochrana nezávislosti veřejnoprávních médií, kritika vládního přístupu k ekonomické krizi (ceny energií, pohonných hmot) a otázka střetu zájmů premiéra Andreje Babiše.\n\nZástupci hnutí STAN zdůraznili, že v případě pokusu koalice o rychlé prosazení změn ve financování České televize a Českého rozhlasu jsou připraveni využít masivní obstrukce, neboť tyto kroky považují za přímý útok na demokracii a cestu k „zestátnění“ médií.",
+    "topic": "Tisková konference se konala před mimořádnou schůzí Poslanecké sněmovny, kterou iniciovala opozice. Cílem vystoupení bylo představit priority opozičních stran pro toto jednání a kriticky se vymezit vůči krokům vlády Andreje Babiše.\n\nHlavními tématy byla ochrana nezávislosti veřejnoprávních médií (Česká televize a Český rozhlas), kritika vládního přístupu k cenám energií a pohonných hmot a otázka střetu zájmů premiéra v souvislosti s čerpáním evropských dotací.",
     "main_points": [
-      "**Michaela Šebelová (STAN)** — Varovala před ohrožením nezávislosti České televize a Českého rozhlasu. Kritizovala záměr koalice změnit financování médií, což označila za cestu k jejich faktickému zestátnění. Deklarovala, že pro STAN je nezávislost médií „červenou linií“.",
-      "**Věra Kovářová (STAN)** — Kritizovala vládní zastropování cen pohonných hmot, které podle ní vede k tvorbě kartelů. Varovala před rozvolňováním rozpočtových pravidel a navrhla zakotvení „zdravých financí“ do ústavy. Odmítla plošná opatření.",
-      "**Karel Dvořák (STAN)** — Obvinil vládu, že hájí výhradně zájmy Andreje Babiše. Upozornil na prověřování střetu zájmů premiéra Evropskou komisí a kritizoval Ministerstvo pro místní rozvoj za netransparentnost.",
-      "**Ostatní** — Opozice a koalice se dohodly na střídavém vystupování („zipový systém“) na schůzi. STAN podporuje účast prezidenta na summitu NATO a kritizuje spory mezi premiérem a prezidentem."
+      "**Michaela Šebelová (STAN)** — Varovala před ohrožením nezávislosti České televize a Českého rozhlasu, které vnímá jako pokus o jejich faktické zestátnění. Označila nezávislost médií za „červenou linii“ a pohrozila masivními obstrukcemi v případě, že koalice předloží zákon měnící jejich financování.",
+      "**Věra Kovářová (STAN)** — Kritizovala vládní zastropování cen pohonných hmot, které podle ní vytváří kartelové prostředí. Navrhla zakotvení „zdravých financí“ do Ústavy ČR a požaduje cílenou pomoc ohroženým skupinám namísto plošných opatření.",
+      "**Karel Dvořák (STAN)** — Obvinil vládu, že nejedná v zájmu občanů, ale pouze v zájmu Andreje Babiše. Upozornil na prověřování střetu zájmů premiéra Evropskou komisí a kritizoval Ministerstvo pro místní rozvoj za netransparentní komunikaci.",
+      "**Ostatní body** — Opozice považuje spory o reprezentaci na summitu NATO za dětinské. Pro schůzi byl dohodnut systém střídání řečníků („zip“)."
     ],
-    "outcome": "Nebyla přijata žádná formální rozhodnutí, neboť šlo o tiskovou konferenci. Konsenzem opozičních stran je však jednotný postup při obstrukcích v případě ohrožení nezávislosti veřejnoprávních médií a trvalý tlak na vládu v otázkách transparentnosti a rozpočtové odpovědnosti.",
+    "outcome": "Nebyla přijata žádná formální rozhodnutí, neboť se jednalo o tiskovou konferenci před zahájením schůze. Konsenzem opozice je jednotný postup při obstrukcích v případě ohrožení veřejnoprávních médií a trvání na dodržování spojeneckých závazků.",
     "notes": null
   },
   "entities": {
@@ -45,6 +45,11 @@
         "name": "Karel Dvořák",
         "person_id": "psp:person:7002",
         "affiliation": "STAN"
+      },
+      {
+        "name": "Vítězslav Komenda",
+        "person_id": null,
+        "affiliation": "Česká televize"
       }
     ],
     "parties": [
@@ -56,56 +61,55 @@
       "Česká televize",
       "Český rozhlas",
       "Evropská komise",
-      "NATO",
-      "Ministerstvo pro místní rozvoj"
+      "Ministerstvo pro místní rozvoj",
+      "NATO"
     ]
   },
   "highlights": [
     {
-      "text": "Jakákoliv změna financování veřejnoprávních médií by opravdu znamenala rychlý sešup slovenské a maďarské cesty a ohrožení demokracie.",
+      "text": "Jakákoliv změna financování veřejnoprávních médií by znamenala rychlý sešup slovenské a maďarské cesty a ohrožení demokracie.",
       "type": "paraphrase",
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
-      "timestamp": "1/01:30",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_highlight_00.jpg",
-      "context": "Jde o politické hodnocení a subjektivní interpretaci budoucího vývoje. Srovnání se Slovenskem (změna zákona o RTVS) a Maďarskem (koncentrace médií pod vlivem vlády) je předmětem politické debaty, nikoliv ověřitelný fakt."
+      "timestamp": "1/00:45",
+      "screenshot_path": "summaries/screenshots/event_2828_highlight_00.jpg",
+      "context": "Jde o politické hodnocení a predikci vývoje, kterou nelze fakticky ověřit. Srovnání se Slovenskem a Maďarskem reflektuje debatu o politickém vlivu na veřejnoprávní média, avšak přímá kauzalita mezi konkrétní změnou financování a ohrožením demokracie je předmětem politického názoru, nikoliv objektivní fakt."
     },
     {
-      "text": "Vláda svým krokem zastropování cen pohonných hmot v podstatě vede k tomu, že na trhu se vytváří kartel.",
+      "text": "My jako Starostové cílíme na skupiny, které jsou ohrožené, jsme zásadně proti tomu, aby vláda dělala plošná opatření.",
       "type": "citation",
       "speaker": "Věra Kovářová",
       "affiliation": "STAN",
-      "timestamp": "1/04:45",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_highlight_01.jpg",
-      "context": "Zastropování cen pohonných hmot je tržní zásah, který může vést k narušení hospodářské soutěže, ale tvrzení o vzniku „kartelu“ je právně i ekonomicky nepřesné. Kartel je dohoda mezi soutěžiteli, nikoliv důsledek státní regulace cen."
+      "timestamp": "1/07:44",
+      "screenshot_path": "summaries/screenshots/event_2828_highlight_01.jpg",
+      "context": "Tvrzení o cílení na ohrožené skupiny je politickou deklarací priorit hnutí STAN. Zda jsou vládní opatření (např. konsolidační balíček) plošná, či cílená, je předmětem odborné ekonomické debaty; vládní koalice argumentuje kombinací obojího, zatímco opozice často kritizuje dopady na široké vrstvy obyvatel."
     },
     {
-      "text": "My jsme jako Starostové a nezávislí chtěli, aby zákon o rozpočtové odpovědnosti byl zákonem ústavním.",
-      "type": "citation",
-      "speaker": "Věra Kovářová",
-      "affiliation": "STAN",
-      "timestamp": "1/06:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_highlight_02.jpg",
-      "context": "Zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, je běžným zákonem, nikoliv ústavním. Hnutí STAN v minulosti skutečně opakovaně prosazovalo zpřísnění rozpočtových pravidel, včetně ústavního zakotvení dluhové brzdy."
-    },
-    {
-      "text": "Tato vláda skutečně jenom obhajuje zájmy svého premiéra a nemyslí na občany Česka.",
+      "text": "Zatímco vláda plní veřejný prostor jedním skandálem za druhým, naplňuje své nikdy nezveřejněné programové prohlášení.",
       "type": "citation",
       "speaker": "Karel Dvořák",
       "affiliation": "STAN",
-      "timestamp": "1/11:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_highlight_03.jpg",
-      "context": "Toto tvrzení je politickou rétorikou a hodnotovým soudem. Nelze nezávisle ověřit, zda vláda jedná výhradně v zájmu premiéra, neboť motivace politických rozhodnutí jsou komplexní a subjektivní."
+      "timestamp": "1/08:05",
+      "screenshot_path": "summaries/screenshots/event_2828_highlight_02.jpg",
+      "context": "Programové prohlášení vlády ČR je veřejně dostupný dokument zveřejněný na stránkách vlády (vlada.cz). Tvrzení o jeho „nezveřejnění“ je fakticky nepravdivé, neboť dokument byl oficiálně představen a publikován v lednu 2022."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Michaela Šebelová (STAN)\n**Co:** Označila vládní záměr změny financování veřejnoprávních médií za „cestu k jejich faktickému zestátnění“ a „slovenské a maďarské cestě“.\n**Proč:** Jde o politicky citlivé téma, které přímo napadá integritu vládní koalice a její vztah k demokratickým institucím.\n**Čas:** 1/01:15",
+      "statement": "**Michaela Šebelová (STAN)** — Prohlášení, že pokud koalice zařadí zákon o financování médií, opozice využije „masivní obstrukce“. Je to kontroverzní, protože opozice tím vyhrožuje zablokováním legislativního procesu v reakci na vládní politiku, kterou vnímá jako ohrožení demokracie.",
       "speaker": "Michaela Šebelová",
       "affiliation": "STAN",
-      "timestamp": "1/01:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2828_controversy_00.jpg",
-      "context": "Výrok je politickou interpretací vládního návrhu novely zákona o České televizi a Českém rozhlasu. Zda změna financování povede k „zestátnění“, je předmětem odborného sporu mezi právníky a politology, nikoliv objektivní fakt."
+      "timestamp": "1/02:03",
+      "screenshot_path": "summaries/screenshots/event_2828_controversy_00.jpg",
+      "context": "Možnost využití obstrukcí je legitimním parlamentním nástrojem opozice v rámci jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Zda je konkrétní legislativa ohrožením demokracie, je subjektivní politické hodnocení, nikoliv fakt."
+    },
+    {
+      "statement": "**Karel Dvořák (STAN)** — Obvinění vlády, že „vypustila z komunikace s Evropskou komisí klíčovou otázku týkající se střetu zájmů“. Je to kontroverzní, protože přímo zpochybňuje integritu vládních úřadů a naznačuje korupční jednání ve prospěch premiéra.",
+      "speaker": "Karel Dvořák",
+      "affiliation": "STAN",
+      "timestamp": "1/10:02",
+      "screenshot_path": "summaries/screenshots/event_2828_controversy_01.jpg",
+      "context": "Nelze nezávisle ověřit bez přístupu k neveřejné korespondenci mezi českou vládou a Evropskou komisí. Otázka střetu zájmů byla v minulosti předmětem auditů EK, jejichž závěry jsou veřejně dostupné, avšak aktuální komunikace o tomto tématu podléhá diplomatickým procesům."
     }
   ],
   "quality": {

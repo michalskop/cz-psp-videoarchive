@@ -1,43 +1,43 @@
-Zde je strukturované shrnutí tiskové konference opozičních stran:
+Zde je strukturované shrnutí tiskové konference opozičních stran konané dne 24. března 2026.
 
 ### 1. Téma a účel jednání
-Tisková konference se konala bezprostředně po hlasování o programu schůze Poslanecké sněmovny (24. 3. 2026). Hlavním tématem byl ostrý nesouhlas opozičních stran s vládními záměry na změnu financování veřejnoprávních médií (Česká televize a Český rozhlas).
+Tisková konference se konala bezprostředně po hlasování o programu schůze Poslanecké sněmovny, ve kterém vládní koalice zablokovala diskuzi o návrzích týkajících se veřejnoprávních médií. Cílem opozičních lídrů bylo vyjádřit jednotný nesouhlas s postupem vlády, který označili za bezprecedentní útok na nezávislost České televize a Českého rozhlasu.
 
-Cílem konference bylo deklarovat jednotný postoj opozice proti vládnímu návrhu, který opoziční lídři interpretují jako pokus o ovládnutí, „vyhladovění“ a zestátnění médií veřejné služby. Opozice avizovala využití všech dostupných parlamentních nástrojů, včetně obstrukcí a svolávání mimořádných schůzí, aby zabránila prosazení těchto změn.
+Opozice varuje, že vládní kroky směřují k ovládnutí médií veřejné služby, jejich finančnímu vyhladovění a následnému zestátnění. Zástupci opozice deklarovali připravenost využít všech dostupných parlamentních nástrojů, včetně obstrukcí, svolávání mimořádných schůzí a případné žaloby k Ústavnímu soudu, aby zabránili prosazení těchto změn.
 
 ### 2. Hlavní body
-*   **Vít Rakušan (Starostové):** Označil návrh za největší zásah do svobody médií od roku 1989. Kritizoval nekompetenci ministra kultury a varoval před „cestou na východ“ (inspirace Maďarskem či Slovenskem). Potvrdil, že opozice bude obstruovat a využije Senát i Ústavní soud.
-*   **Martin Kupka (ODS):** Hovořil o „brutálním a arogantním útoku“ na demokracii. Zdůraznil, že vládní koalice nemá jasný plán a návrh je chaotický. Upozornil na bezpečnostní rizika a nedostatečnou komunikaci vlády ohledně obranyschopnosti státu.
-*   **Zdeněk Hřib (Piráti):** Upozornil na vzorec chování autoritářských režimů (omezování financí samosprávám a ovládnutí médií). Kritizoval snahy o politické ovlivňování obsahu vysílání skrze Rady ČT a vyzval občanskou společnost k nominacím odborníků do těchto orgánů.
-*   **Marek Výborný (KDU-ČSL):** Vyčíslil dopady návrhu (ztráta přes 2 mld. Kč pro ČT a 800 mil. Kč pro ČRo). Varoval před fatálním dopadem na tvorbu (pohádky, sportovní přenosy). Deklaroval, že opozice je připravena k dlouhým obstrukcím.
-*   **Jan Jakob (TOP 09):** Poukázal na rozpor v komunikaci vládních představitelů (Okamura vs. Nacher). Zdůraznil, že návrh je v rozporu s evropským aktem o svobodě médií, který vyžaduje stabilní a předvídatelné financování.
+*   **Vít Rakušan (Starostové):** Označil návrh za největší zásah do svobody médií od roku 1989. Upozornil na nekompetenci ministra kultury a varoval před „cestou na východ“ (inspirace Maďarskem a Slovenskem). Zdůraznil, že opozice bude obstruovat a využije Senát i Ústavní soud.
+*   **Martin Kupka (ODS):** Hovořil o „brutálním a arogantním útoku“ a snaze vlády dát médiím náhubek. Zdůraznil, že změna financování uprostřed roku je ekonomicky likvidační a ohrožuje stabilitu institucí.
+*   **Zdeněk Hřib (Piráti):** Upozornil na vzorec autoritářských režimů, které začínají omezováním financí samospráv a ovládnutím médií. Kritizoval snahu radních (např. pana Matochy) ovlivňovat obsah vysílání a vyzval občanskou společnost k nominacím do rad médií.
+*   **Marek Výborný (KDU-ČSL):** Vyčíslil dopady návrhu: ztráta přes 2 miliardy Kč pro ČT a téměř 800 milionů Kč pro ČRo. Varoval, že v důsledku těchto škrtů zanikne původní tvorba (pohádky, sportovní přenosy).
+*   **Jan Jakob (TOP 09):** Kritizoval netransparentnost vládní koalice a rozporuplné výroky vládních politiků (Okamura vs. Nacher). Připomněl evropský akt o svobodě médií, který vyžaduje stabilní a předvídatelné financování, což vládní návrh porušuje.
 
 ### 3. Výsledek / závěr
-Opozice se shodla na jednotném postupu proti vládním návrhům. Nebylo přijato žádné formální rozhodnutí o okamžitém svolání mimořádné schůze, ale tato možnost je vnímána jako reálný nástroj, o kterém budou předsedové klubů jednat v nejbližších hodinách či dnech. Panuje konsenzus, že jakýkoliv pokus o „zestátnění“ médií bude blokován všemi dostupnými prostředky.
+Opozice zůstává v otázce obrany veřejnoprávních médií jednotná. Nebylo přijato žádné konkrétní rozhodnutí o okamžitém svolání mimořádné schůze, ale lídři potvrdili, že o tomto kroku budou jednat v nejbližších hodinách. Dominujícím postojem je odmítnutí jakéhokoli kompromisu s vládní koalicí v této věci a příprava na dlouhodobý parlamentní boj.
 
 ### 4. Poznámky
-Přepis je místy ovlivněn automatickým zpracováním (např. chybná jména ministrů – v textu zmíněn „ministr Klempíř“, což může být halucinace přepisu nebo chyba řečníka).
+Přepis je místy nesrozumitelný kvůli chybějící diakritice a useknutým slovům, nicméně hlavní argumentační linie řečníků jsou zřetelné.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh:** Opozice (všichni řečníci) navrhuje masivní obstrukce a blokování legislativního procesu v Poslanecké sněmovně i Senátu.
-    *   **Proč:** Je to politicky citlivé, protože opozice tím porušuje svůj dřívější slib, že bude obstruovat pouze v „nejdůležitějších a nejnutnějších případech“.
-    *   **Čas:** 1/01:20
+*   **Kontroverzní návrh:** Opozice (Rakušan, Kupka, Jakob) navrhuje masivní obstrukce a využití všech parlamentních nástrojů (včetně Senátu a Ústavního soudu) proti vládnímu návrhu.
+    *   **Proč:** Je to politicky citlivé, protože opozice tím fakticky paralyzuje legislativní proces v Poslanecké sněmovně a deklaruje ochotu k dlouhodobému konfliktu s vládní většinou.
+    *   **Čas:** 1/02:01, 1/04:03, 1/10:06.
 
 ---
 
 ## Klíčové citace pro veřejnost
 
 *   **Text:** „Tohle je největší zásah proti svobodě médií, který jsme tady od listopadu 1989 zažili.“ (citace)
-    *   **Řečník:** Vít Rakušan (Starostové) | **Čas:** 1/00:45
+    *   **Řečník:** Vít Rakušan (Starostové), **Čas:** 1/00:45
 *   **Text:** „Česká televize by měla přijít o víc jak dvě miliardy korun z rozpočtu a Český rozhlas o bezmála 800 miliónů.“ (citace)
-    *   **Řečník:** Marek Výborný (KDU-ČSL) | **Čas:** 1/06:45
-*   **Text:** „Vláda vlastně tady popírá sama sebe, protože my jsme tady půl roku slyšeli slova o tom, že jim nejde o to, aby se snižovaly peníze pro veřejnoprávní média.“ (parafráze)
-    *   **Řečník:** Marek Výborný (KDU-ČSL) | **Čas:** 1/06:35
-*   **Text:** „Každý správný režim s autoritářskými sklony vždycky začíná nejprve tím, že se snaží omezit finance pro samosprávy a hned s tím jde ruku v ruce také ovládnutí těch veřejnoprávních médií.“ (citace)
-    *   **Řečník:** Zdeněk Hřib (Piráti) | **Čas:** 1/04:15
+    *   **Řečník:** Marek Výborný (KDU-ČSL), **Čas:** 1/06:30
+*   **Text:** „Vláda se snaží omezit finance pro samosprávy a hned s tím jde ruku v ruce také ovládnutí veřejnoprávních médií.“ (parafráze)
+    *   **Řečník:** Zdeněk Hřib (Piráti), **Čas:** 1/04:45
+*   **Text:** „Evropský akt o svobodě médií jasně popisuje, že financování má být dostatečné, stabilní a předvídatelné, což tento návrh popírá.“ (parafráze)
+    *   **Řečník:** Jan Jakob (TOP 09), **Čas:** 1/09:30
 
 ---
 
@@ -63,16 +63,16 @@ Přepis je místy ovlivněn automatickým zpracováním (např. chybná jména m
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference se konala bezprostředně po hlasování o programu schůze Poslanecké sněmovny (24. 3. 2026). Hlavním tématem byl ostrý nesouhlas opozičních stran s vládními záměry na změnu financování veřejnoprávních médií (Česká televize a Český rozhlas).\n\nCílem konference bylo deklarovat jednotný postoj opozice proti vládnímu návrhu, který opoziční lídři interpretují jako pokus o ovládnutí, „vyhladovění“ a zestátnění médií veřejné služby. Opozice avizovala využití všech dostupných parlamentních nástrojů, včetně obstrukcí a svolávání mimořádných schůzí, aby zabránila prosazení těchto změn.",
+    "topic": "Tisková konference se konala bezprostředně po hlasování o programu schůze Poslanecké sněmovny, ve kterém vládní koalice zablokovala diskuzi o návrzích týkajících se veřejnoprávních médií. Cílem opozičních lídrů bylo vyjádřit jednotný nesouhlas s postupem vlády, který označili za bezprecedentní útok na nezávislost České televize a Českého rozhlasu.\n\nOpozice varuje, že vládní kroky směřují k ovládnutí médií veřejné služby, jejich finančnímu vyhladovění a následnému zestátnění. Zástupci opozice deklarovali připravenost využít všech dostupných parlamentních nástrojů, včetně obstrukcí, svolávání mimořádných schůzí a případné žaloby k Ústavnímu soudu, aby zabránili prosazení těchto změn.",
     "main_points": [
-      "**Vít Rakušan (Starostové)** — Označil návrh za největší zásah do svobody médií od roku 1989. Kritizoval nekompetenci ministra kultury a varoval před „cestou na východ“. Potvrdil, že opozice bude obstruovat a využije Senát i Ústavní soud.",
-      "**Martin Kupka (ODS)** — Hovořil o „brutálním a arogantním útoku“ na demokracii. Zdůraznil, že vládní koalice nemá jasný plán a návrh je chaotický. Upozornil na bezpečnostní rizika a nedostatečnou komunikaci vlády.",
-      "**Zdeněk Hřib (Piráti)** — Upozornil na vzorec chování autoritářských režimů (omezování financí samosprávám a ovládnutí médií). Kritizoval snahy o politické ovlivňování obsahu vysílání skrze Rady ČT.",
-      "**Marek Výborný (KDU-ČSL)** — Vyčíslil dopady návrhu (ztráta přes 2 mld. Kč pro ČT a 800 mil. Kč pro ČRo). Varoval před fatálním dopadem na tvorbu a deklaroval připravenost k obstrukcím.",
-      "**Jan Jakob (TOP 09)** — Poukázal na rozpor v komunikaci vládních představitelů a zdůraznil, že návrh je v rozporu s evropským aktem o svobodě médií."
+      "**Vít Rakušan (Starostové)** — Označil návrh za největší zásah do svobody médií od roku 1989. Upozornil na nekompetenci ministra kultury a varoval před „cestou na východ“. Zdůraznil, že opozice bude obstruovat a využije Senát i Ústavní soud.",
+      "**Martin Kupka (ODS)** — Hovořil o „brutálním a arogantním útoku“ a snaze vlády dát médiím náhubek. Zdůraznil, že změna financování uprostřed roku je ekonomicky likvidační a ohrožuje stabilitu institucí.",
+      "**Zdeněk Hřib (Piráti)** — Upozornil na vzorec autoritářských režimů, které začínají omezováním financí samospráv a ovládnutím médií. Kritizoval snahu radních ovlivňovat obsah vysílání a vyzval občanskou společnost k nominacím do rad médií.",
+      "**Marek Výborný (KDU-ČSL)** — Vyčíslil dopady návrhu: ztráta přes 2 miliardy Kč pro ČT a téměř 800 milionů Kč pro ČRo. Varoval, že v důsledku těchto škrtů zanikne původní tvorba.",
+      "**Jan Jakob (TOP 09)** — Kritizoval netransparentnost vládní koalice a rozporuplné výroky vládních politiků. Připomněl evropský akt o svobodě médií, který vyžaduje stabilní a předvídatelné financování, což vládní návrh porušuje."
     ],
-    "outcome": "Opozice se shodla na jednotném postupu proti vládním návrhům. Nebylo přijato žádné formální rozhodnutí o okamžitém svolání mimořádné schůze, ale tato možnost je vnímána jako reálný nástroj, o kterém budou předsedové klubů jednat v nejbližších hodinách či dnech. Panuje konsenzus, že jakýkoliv pokus o „zestátnění“ médií bude blokován všemi dostupnými prostředky.",
-    "notes": null
+    "outcome": "Opozice zůstává v otázce obrany veřejnoprávních médií jednotná. Nebylo přijato žádné konkrétní rozhodnutí o okamžitém svolání mimořádné schůze, ale lídři potvrdili, že o tomto kroku budou jednat v nejbližších hodinách. Dominujícím postojem je odmítnutí jakéhokoli kompromisu s vládní koalicí v této věci a příprava na dlouhodobý parlamentní boj.",
+    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a useknutým slovům, nicméně hlavní argumentační linie řečníků jsou zřetelné."
   },
   "entities": {
     "speakers": [
@@ -82,7 +82,7 @@ Přepis je místy ovlivněn automatickým zpracováním (např. chybná jména m
       {"name": "Zdeněk Hřib", "person_id": null, "affiliation": "Piráti"},
       {"name": "Jan Jakob", "person_id": null, "affiliation": "TOP 09"}
     ],
-    "parties": ["Starostové", "ODS", "KDU-ČSL", "Piráti", "TOP 09", "SPD", "ANO"],
+    "parties": ["Starostové", "ODS", "KDU-ČSL", "Piráti", "TOP 09", "ANO", "SPD"],
     "institutions": ["Poslanecká sněmovna", "Česká televize", "Český rozhlas", "Senát", "Ústavní soud"]
   },
   "highlights": [
@@ -98,27 +98,34 @@ Přepis je místy ovlivněn automatickým zpracováním (např. chybná jména m
       "type": "citation",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/06:45"
+      "timestamp": "1/06:30"
     },
     {
-      "text": "Každý správný režim s autoritářskými sklony vždycky začíná nejprve tím, že se snaží omezit finance pro samosprávy a hned s tím jde ruku v ruce také ovládnutí těch veřejnoprávních médií.",
-      "type": "citation",
+      "text": "Vláda se snaží omezit finance pro samosprávy a hned s tím jde ruku v ruce také ovládnutí veřejnoprávních médií.",
+      "type": "paraphrase",
       "speaker": "Zdeněk Hřib",
       "affiliation": "Piráti",
-      "timestamp": "1/04:15"
+      "timestamp": "1/04:45"
+    },
+    {
+      "text": "Evropský akt o svobodě médií jasně popisuje, že financování má být dostatečné, stabilní a předvídatelné, což tento návrh popírá.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/09:30"
     }
   ],
   "controversial": [
     {
-      "statement": "Opozice (všichni řečníci) navrhuje masivní obstrukce a blokování legislativního procesu v Poslanecké sněmovně i Senátu. \n\n* **Proč:** Je to politicky citlivé, protože opozice tím porušuje svůj dřívější slib, že bude obstruovat pouze v „nejdůležitějších a nejnutnějších případech“.",
-      "speaker": null,
-      "affiliation": null,
-      "timestamp": "1/01:20"
+      "statement": "Opozice (Rakušan, Kupka, Jakob) navrhuje masivní obstrukce a využití všech parlamentních nástrojů (včetně Senátu a Ústavního soudu) proti vládnímu návrhu.",
+      "speaker": "Vít Rakušan, Martin Kupka, Jan Jakob",
+      "affiliation": "Opoziční strany",
+      "timestamp": "1/02:01"
     }
   ],
   "quality": {
-    "transcript_quality": "good",
-    "unintelligible_parts": false
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
   },
   "extras": null
 }

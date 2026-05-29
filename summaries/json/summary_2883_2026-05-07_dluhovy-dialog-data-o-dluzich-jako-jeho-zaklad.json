@@ -1,0 +1,157 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:59:59",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2883",
+    "name": "Kulatý stůl na téma \"Dluhový dialog - Data o dluzích jako jeho základ\"",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-05-07T09:10",
+    "end_date": "2026-05-07T12:08",
+    "sources": [
+      "final/event_2883_2026-05-07_dluhovy-dialog-data-o-dluzich-jako-jeho-zaklad.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 18,
+    "parts_total": 18,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Kulatý stůl se zaměřil na analýzu dat o zadluženosti v České republice, přičemž hlavním cílem bylo vytvořit platformu pro odbornou diskuzi mezi zákonodárci, věřiteli, inkasními agenturami, exekutory, insolvenčními správci a neziskovým sektorem. Účelem bylo na základě tvrdých dat identifikovat slabá místa v legislativě a hledat cesty k vyváženému řešení.\n\nJednání iniciovali místopředseda PS Patrik Nacher a poslanec Karel Haas.",
+    "main_points": [
+      "**Marek Benda (ODS)** — Zdůraznil potřebu pravidelného dialogu a vyváženosti legislativy. Varoval před rozhodováním na základě emocí bez podkladových dat.",
+      "**Jana Belonová (Ministerstvo spravedlnosti)** — Informovala o projektech ministerstva: úpravě chráněného účtu a analytickém projektu k nezabavitelným částkám.",
+      "**Jiří Rajl (Nebankovní registr klientských informací)** — Uvedl, že 80 % dluhů tvoří stabilní hypotéky, varoval před nárůstem krátkodobých úvěrů.",
+      "**Patrik Nacher (ANO)** — Kritizoval současnou nefunkčnost chráněného účtu a zdůraznil nutnost politického rozhodnutí.",
+      "**Vladimír Vachel (Asociace inkasních agentur)** — Uvedl, že inkasní agentury evidují 2,1 milionu nových pohledávek ročně.",
+      "**Jan Mlynarčík (Exekutorská komora ČR)** — Uvedl, že v exekuci je cca 600 000 fyzických osob, kritizoval administrativní náročnost zastavování exekucí.",
+      "**Jarmila Veselá (InsolCentrum)** — Kritizovala nedostatek dat u legislativních změn a uvedla, že stát sanoval dluhy v hodnotě přes 200 miliard Kč bez řádné analýzy dopadů.",
+      "**Petr Schneedörfler (Lighthouse Academy)** — Zpochybnil úspěšnost novely insolvenčního zákona z roku 2024.",
+      "**Barbora Janků (Praha 8)** — Upozornila na zranitelnost dlužníků se závažným duševním onemocněním.",
+      "**Pavel Staněk (Česká asociace věřitelů)** — Otevřel téma dluhů vzniklých z trestné činnosti, které jsou v insolvenci opomíjeny.",
+      "**Jan Slanina (SOLUS)** — Popsal význam registrů a varoval před fatálními sociálními dopady odpojení od služeb."
+    ],
+    "outcome": "Formální rozhodnutí nebylo přijato. Konsenzus panuje v potřebě zlepšit kvalitu dat pro legislativu, zefektivnit institut chráněného účtu a pokračovat v pravidelných setkáních (kvartálně).",
+    "notes": "Přepis obsahuje četné technické artefakty (chybějící diakritika, opakující se fráze). Tyto pasáže byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marek Benda",
+        "person_id": "psp:person:4",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jana Tatýrková",
+        "person_id": "psp:person:7032",
+        "affiliation": "Asociace inkasních agentur"
+      },
+      {
+        "name": "Jana Belonová",
+        "person_id": null,
+        "affiliation": "Ministerstvo spravedlnosti"
+      },
+      {
+        "name": "Jiří Rajl",
+        "person_id": "psp:person:6410",
+        "affiliation": "Nebankovní registr klientských informací"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO 2011"
+      },
+      {
+        "name": "Vladimír Vachel",
+        "person_id": null,
+        "affiliation": "Asociace inkasních agentur"
+      },
+      {
+        "name": "Jan Mlynarčík",
+        "person_id": null,
+        "affiliation": "Exekutorská komora ČR"
+      },
+      {
+        "name": "Jarmila Veselá",
+        "person_id": null,
+        "affiliation": "InsolCentrum"
+      },
+      {
+        "name": "Petr Schneedörfler",
+        "person_id": null,
+        "affiliation": "Lighthouse Academy"
+      },
+      {
+        "name": "Barbora Janků",
+        "person_id": null,
+        "affiliation": "Praha 8"
+      },
+      {
+        "name": "Pavel Staněk",
+        "person_id": "psp:person:5968",
+        "affiliation": "Česká asociace věřitelů"
+      },
+      {
+        "name": "Jan Slanina",
+        "person_id": "psp:person:6737",
+        "affiliation": "SOLUS"
+      }
+    ],
+    "parties": [
+      "ANO 2011",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo spravedlnosti",
+      "Exekutorská komora ČR",
+      "Asociace inkasních agentur"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Stát prostě neví nic o těch dlužnících, kterým ty exekuce zastavuje, jestli jsou mladí, staří, jestli jsou zdraví, nemocní.",
+      "type": "citation",
+      "speaker": "Jarmila Veselá",
+      "affiliation": "InsolCentrum",
+      "timestamp": "9/06:07",
+      "screenshot_path": "summaries/screenshots/event_2883_highlight_00.jpg",
+      "context": "Státní správa skutečně nedisponuje komplexní a propojenou databází, která by v reálném čase propojovala exekuční řízení s demografickými a zdravotními údaji dlužníků. Evidence exekucí (Centrální evidence exekucí) je vedena Exekutorskou komorou ČR a primárně slouží k evidenci probíhajících řízení, nikoliv k sociologickému monitoringu dlužníků."
+    },
+    {
+      "text": "V rámci pomoci zadluženým lidem museli věřitelé, ale k těm věřitelů také náleží všichni daňoví poplatníci, sanovat minimálně 200 miliard korun.",
+      "type": "citation",
+      "speaker": "Jarmila Veselá",
+      "affiliation": "InsolCentrum",
+      "timestamp": "9/08:00",
+      "screenshot_path": "summaries/screenshots/event_2883_highlight_01.jpg",
+      "context": "Tvrzení o 200 miliardách korun jako nákladech na sanaci dlužníků je interpretací InsolCentra, která zahrnuje odpuštěné dluhy v rámci oddlužení. Nelze nezávisle ověřit, zda lze tuto částku v plném rozsahu označit za přímou „sanaci daňovými poplatníky“, neboť jde o kombinaci ztrát soukromých věřitelů a veřejných institucí."
+    },
+    {
+      "text": "Každý sedmý dlužník v insolvenci je tam kvůli dluhu z trestné činnosti, na což systém vůbec nereaguje.",
+      "type": "paraphrase",
+      "speaker": "Pavel Staněk",
+      "affiliation": "Česká asociace věřitelů",
+      "timestamp": "17/01:52",
+      "screenshot_path": "summaries/screenshots/event_2883_highlight_02.jpg",
+      "context": "Tento údaj vychází z analýz InsolCentra, které dlouhodobě upozorňuje na podíl dluhů z trestné činnosti v insolvenčních řízeních. Oficiální statistiky Ministerstva spravedlnosti ČR tuto konkrétní kategorii dluhů v insolvenci jako samostatný statistický celek standardně nesledují, proto jde o odhad založený na datech z insolvenčních návrhů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Pavel Staněk (Česká asociace věřitelů) navrhl, aby dluhy vzniklé z trestné činnosti nebyly v insolvenci „ztraceny“ v celkovém balíku, ale měly prioritní postavení (podobně jako výživné). Je to politicky citlivé, protože to mění princip „druhé šance“ a rovnosti věřitelů v insolvenci.",
+      "speaker": "Pavel Staněk",
+      "affiliation": "Česká asociace věřitelů",
+      "timestamp": "17/00:00",
+      "screenshot_path": "summaries/screenshots/event_2883_controversy_00.jpg",
+      "context": "Návrh na prioritní uspokojování pohledávek z trestné činnosti je věcným tématem diskusí o novele insolvenčního zákona. V současné právní úpravě (zákon č. 182/2006 Sb., insolvenční zákon) mají přednostní postavení pouze pohledávky za majetkovou podstatou a výživné; změna tohoto principu by vyžadovala zásadní legislativní úpravu priorit věřitelů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

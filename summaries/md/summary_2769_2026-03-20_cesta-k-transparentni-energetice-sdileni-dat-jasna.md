@@ -1,45 +1,55 @@
-Toto je strukturované shrnutí semináře „Cesta k transparentní energetice: Sdílení dat, jasná pravidla a ochrana zákazníka“, který se konal 20. března 2026 v Poslanecké sněmovně.
+Zde je strukturované shrnutí semináře „Cesta k transparentní energetice: Sdílení dat, jasná pravidla a ochrana zákazníka“.
 
 ### 1. Téma a účel jednání
-Seminář se zaměřil na zhodnocení současného stavu ochrany spotřebitele na energetickém trhu, identifikaci prostorů pro zlepšení a debatu o budoucích výzvách, jako je digitalizace, sdílení energií a energetické komunity. Cílem bylo vytvořit osvětovou platformu pro zástupce dodavatelů, regulátora (ERÚ), ministerstva a spotřebitelských organizací.
+Seminář se konal 20. března 2026 v Poslanecké sněmovně pod záštitou místopředsedy PS Patrika Nachera. Cílem akce byla osvěta a odborná diskuse o aktuálním stavu energetického trhu, ochraně spotřebitele a možnostech další kultivace prostředí. Diskuse se zaměřila na vyvážení potřeb aktivních zákazníků (využívajících flexibilitu a sdílení dat) a zranitelných spotřebitelů, kteří vyžadují srozumitelnost a ochranu před nekalými praktikami.
 
-Hlavním motivem byla snaha o vyvážení mezi ochranou „zranitelného“ spotřebitele (který vyžaduje jednoduchost a srozumitelnost) a „aktivního“ spotřebitele (který využívá moderní technologie a vyžaduje detailní data). Účastníci se shodli, že ačkoliv je český trh vysoce liberální a prospotřebitelský, existuje riziko „informační obezity“, kdy nadbytek dat vede k nepřehlednosti.
+Jednání sloužilo jako platforma pro setkání zástupců státní správy (MPO, ERÚ), dodavatelů energií a zástupců spotřebitelů. Hlavním výstupem je shoda na nutnosti zjednodušení vyúčtování a pokračování v edukaci spotřebitelů, přičemž ERÚ přislíbil svolání pracovní skupiny k těmto tématům.
+
+---
 
 ### 2. Hlavní body
-*   **Místopředseda PS (předseda podvýboru pro ochranu spotřebitele)** — Zdůraznil potřebu osvěty. Varoval před „informační obezitou“ a macešským přístupem státu. Navrhl zaměřit se na srozumitelnost vyúčtování a debirokratizaci.
-*   **Tomáš Suchý (Revido)** — Navrhl sjednocení procesu akceptace výpovědí, úpravu automatického prodlužování smluv a zjednodušení vyúčtování (jednotné zobrazení klíčových údajů na první straně).
-*   **Zuzana Krečiříková (ČEZ)** — Argumentovala, že právní úprava je již nyní velmi prospotřebitelská. Varovala před přílišnou regulací, která by mohla zákazníky zmást. Zdůraznila nutnost edukace seniorů a varovala před novými „energošmejdy“ v oblasti energetických komunit.
-*   **René Neděla (MPO)** — Prezentoval chronologii legislativních změn (regulace zprostředkovatelů, ochrana zranitelných zákazníků). Upozornil na rizika spojená s rapidním nárůstem cen energií a nutnost připravenosti na krizové scénáře.
-*   **Jan Šefránek (ERÚ)** — Představil rekordní sankce (18,5 mil. Kč v roce 2025) a úspěch státem garantovaného srovnávače. Navrhl zavedení QR kódů do faktur pro snadnější orientaci a sjednocení názvosloví.
-*   **Petr Kusí (EDC)** — Popsal roli datového centra při sdílení elektřiny a přípravu na budoucí výzvy, jako je technická flexibilita a akumulace.
-*   **Jan Zápotoční (E.ON)** — Upozornil na komplexitu trhu (dynamické tarify, spotové produkty). Zdůraznil, že dodavatel by měl být partnerem, nikoliv jen cestou k nejnižší ceně.
-*   **Ludvík Baleka (Pražská plynárenská)** — Kritizoval „regulatorní obezitu“ a vysoké náklady firem na implementaci legislativních změn. Varoval před zánikem trhu v důsledku přílišné regulace.
-*   **Milan Duba (MND)** — Upozornil na asymetrii rizik u 15denní výpovědní lhůty po zahájení dodávky, která zatěžuje dodavatele a nepřímo i ostatní zákazníky.
-*   **Stanislav Votruba (PRE)** — Hovořil o nutnosti investic do sítí a problémech se spekulativními žádostmi o připojení. Varoval před zneužíváním lokálních distribučních soustav (LDS).
-*   **Blahoslav Němeček (Inogy)** — Obhajoval stávající strukturu fakturace jako výsledek průzkumů mezi zákazníky. Varoval před unifikací, která by mohla vést ke stagnaci inovací.
-*   **Lenka Desatová (Rada seniorů ČR)** — Upozornila na to, že senioři jsou často obětí agresivních telefonních nabídek a nerozumí cenám bez DPH. Zdůraznila, že 35 % seniorů nemá přístup k internetu.
+*   **Patrik Nacher (místopředseda PS PČR):** Zdůraznil potřebu „osvěty“ a debirokratizace. Varoval před „informační obezitou“ spotřebitelů a macešským přístupem státu k některým normám. Navrhuje zaměřit se na srozumitelnost vyúčtování a ochranu před energošmejdy.
+*   **Tomáš Suchý (Revido):** Navrhl sjednocení procesů akceptace výpovědí, zkrácení výpovědních lhůt a standardizaci vyúčtování. Upozornil na problémy s automatickým prodlužováním smluv, které zákazníky uzamykají u dodavatelů.
+*   **Zuzana Krejčiříková (ČEZ):** Argumentovala, že stávající právní úprava je dostatečná a varovala před přílišnou regulací, která by mohla trh zkomplikovat. Zdůraznila potřebu chránit zejména „masu“ spotřebitelů, nikoliv jen aktivní menšinu.
+*   **René Neděla (MPO):** Prezentoval chronologii legislativních změn a upozornil na rizika spojená s volatilitou cen na světových trzích. Zdůraznil nutnost transpozice evropských směrnic (např. EPBD) a řešení energetického mixu.
+*   **Jan Šefránek (ERÚ):** Informoval o rekordních sankcích (18,5 mil. Kč v roce 2025) za protispotřebitelské chování. Představil plány na rozšíření srovnávače nabídek i pro podnikatele a zavedení indikativních cen.
+*   **Petr Kusý (EDC):** Zaměřil se na technickou roli datového centra při sdílení elektřiny a budoucích výzvách, jako je flexibilita sítě a akumulace.
+*   **Jan Zápotočný (E.ON):** Upozornil na komplexitu energetiky (digitalizace, dynamické tarify). Varoval, že přílišná regulace může bránit inovacím a že ne každý zákazník chce být „aktivní“.
+*   **Ludvík Baleka (PPAS):** Kritizoval „regulatorní obezitu“ a administrativní zátěž firem. Varoval před rizikem zániku tržního prostředí v důsledku nadměrné regulace.
+*   **Milan Duba (MND):** Upozornil na asymetrii rizik u 15denní výpovědní lhůty po zahájení dodávky, která zatěžuje dodavatele náklady na nákup komodity.
+*   **Stanislav Votruba (PRE):** Hovořil o nutnosti investic do sítí a problémech s „robotizovanými“ žádostmi o připojení. Varoval před účelovým zřizováním lokálních distribučních soustav (LDS).
+*   **Blahoslav Němeček (Inogy):** Varoval před unifikací trhu, která by mohla vést ke stagnaci. Zdůraznil, že inovace dodavatelů jsou pro zákazníka přínosem.
+*   **Lenka Desatová (Rada seniorů ČR):** Poukázala na to, že senioři často nerozumí cenám bez DPH a neorientují se v online srovnávačích. Žádá o tištěnou osvětu a srozumitelnější komunikaci.
+
+---
 
 ### 3. Výsledek / závěr
-Nebyl přijat žádný formální legislativní závěr. Předseda podvýboru a předseda ERÚ se dohodli na vytvoření **pracovní skupiny pod gescí ERÚ**, která se bude zabývat zejména sjednocením a srozumitelností vyúčtování (včetně QR kódů) a dalšími podněty z diskuze. Výsledky budou následně prezentovány v podvýboru pro ochranu spotřebitele.
+Nebyl přijat žádný formální legislativní akt, ale došlo ke konsenzu v otázce nutnosti **zjednodušení vyúčtování energií**. ERÚ se zavázal svolat pracovní skupinu, která bude řešit parametry vyúčtování (včetně možného QR kódu pro snadnější orientaci) a další podněty z diskuse. Výsledky budou následně prezentovány v podvýboru pro ochranu spotřebitele.
+
+---
 
 ### 4. Poznámky
-Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem, nicméně hlavní argumentační linie řečníků jsou zřetelné.
+Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (např. „informační obezita“, „energošmejdi“). Účastníci se shodli, že diskuse byla užitečná a měla by pokračovat v expertních skupinách.
 
 ---
 
-### Doplňující otázky
-*   **Kontroverze:** Návrh na zrušení nebo omezení 15denní výpovědní lhůty po zahájení dodávky.
-    *   **Kdo:** Milan Duba (MND).
-    *   **Co:** Navrhl přehodnotit 15denní lhůtu pro výpověď smlouvy uzavřené distančně, protože dodavatelé již nakoupili komoditu a nesou náklady.
-    *   **Proč:** Je to politicky citlivé, protože jde o jeden z nejsilnějších nástrojů ochrany spotřebitele proti „energošmejdům“.
-    *   **Čas:** 10/07:30.
-
-### Klíčové citace pro veřejnost
-1. „Za rok 2025 jsme udělali rekordní sankce za protispotřebitelské chování v celkové výši 18,5 milionů korun.“ (Jan Šefránek, ERÚ, 6/03:04)
-2. „35 % mé členské základny žádný web nemá, nepotřebují ho k životu, a my tady pořád čelíme tomu, že musí někomu říct o pomoc.“ (Lenka Desatová, Rada seniorů ČR, 14/04:01)
-3. „Chceme zrušit trh s energiemi, nebo chceme, aby ten trh tady zůstal? Máme se na pozoru před tím, abychom ho nesvázali tak, že zanikne.“ (Ludvík Baleka, Pražská plynárenská, 10/05:03)
+## Doplňující otázky
+*   **Kontroverzní téma:** Zrušení 15denní výpovědní lhůty po zahájení dodávky.
+    *   **Kdo:** Milan Duba (MND) a další dodavatelé.
+    *   **Co:** Navrhují zkrácení nebo úpravu lhůty, protože dodavatelé nesou náklady na nákup komodity, zatímco zákazník může spekulativně vypovědět smlouvu.
+    *   **Proč:** Jde o střet mezi silnou ochranou spotřebitele a ekonomickou efektivitou dodavatelů.
+    *   **Čas:** 11/00:00.
 
 ---
+
+## Klíčové citace pro veřejnost
+*   **Text:** „Za rok 2025 jsme udělali rekordní sankce za protispotřebitelské chování v celkové výši 18,5 milionů korun.“ (Citace) – **Jan Šefránek (ERÚ)**, 6/02:06.
+*   **Text:** „Pokud bychom se dívali na ty regulované peníze, tarifní systém není nic jiného, než jak se pokusit co možná nejadresnějším způsobem rozdělit náklady mezi zákazníky.“ (Parafráze) – **Stanislav Votruba (PRE)**, 11/06:07.
+*   **Text:** „Nechceme zrušit trh a svázat ho tak, aby neexistoval, tak si to pojďme říct a neschovávejme to za zrakově postižené.“ (Citace) – **Ludvík Baleka (PPAS)**, 10/04:04.
+
+---
+
+## JSON výstup
 
 ```json
 {
@@ -50,52 +60,52 @@ Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přep
     "id": "2769",
     "name": "Cesta k transparentní energetice: Sdílení dat, jasná pravidla a ochrana zákazníka",
     "classification": "Seminář",
-    "start_date": "2026-03-20T10:06",
-    "end_date": "2026-03-20T12:37",
+    "start_date": "2026-03-20",
+    "end_date": "2026-03-20",
     "sources": []
   },
   "transcription": {
     "parts_transcribed": 16,
     "parts_total": 16,
-    "source": "whisper-large-v3",
+    "source": "whisper",
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na zhodnocení současného stavu ochrany spotřebitele na energetickém trhu, identifikaci prostorů pro zlepšení a debatu o budoucích výzvách, jako je digitalizace, sdílení energií a energetické komunity. Cílem bylo vytvořit osvětovou platformu pro zástupce dodavatelů, regulátora (ERÚ), ministerstva a spotřebitelských organizací.\n\nHlavním motivem byla snaha o vyvážení mezi ochranou „zranitelného“ spotřebitele (který vyžaduje jednoduchost a srozumitelnost) a „aktivního“ spotřebitele (který využívá moderní technologie a vyžaduje detailní data). Účastníci se shodli, že ačkoliv je český trh vysoce liberální a prospotřebitelský, existuje riziko „informační obezity“, kdy nadbytek dat vede k nepřehlednosti.",
+    "topic": "Seminář se konal 20. března 2026 v Poslanecké sněmovně pod záštitou místopředsedy PS Patrika Nachera. Cílem akce byla osvěta a odborná diskuse o aktuálním stavu energetického trhu, ochraně spotřebitele a možnostech další kultivace prostředí. Diskuse se zaměřila na vyvážení potřeb aktivních zákazníků a zranitelných spotřebitelů.\n\nJednání sloužilo jako platforma pro setkání zástupců státní správy, dodavatelů energií a zástupců spotřebitelů. Hlavním výstupem je shoda na nutnosti zjednodušení vyúčtování a pokračování v edukaci spotřebitelů.",
     "main_points": [
-      "**Místopředseda PS** — Zdůraznil potřebu osvěty a varoval před „informační obezitou“ a macešským přístupem státu.",
-      "**Tomáš Suchý (Revido)** — Navrhl sjednocení procesu akceptace výpovědí a zjednodušení vyúčtování.",
-      "**Zuzana Krečiříková (ČEZ)** — Varovala před přílišnou regulací a zdůraznila nutnost edukace seniorů.",
-      "**René Neděla (MPO)** — Prezentoval legislativní pokrok a varoval před riziky spojenými s nárůstem cen energií.",
-      "**Jan Šefránek (ERÚ)** — Představil rekordní sankce a navrhl zavedení QR kódů do faktur.",
-      "**Petr Kusí (EDC)** — Popsal roli datového centra při sdílení elektřiny.",
-      "**Jan Zápotoční (E.ON)** — Upozornil na komplexitu trhu a nutnost partnerství mezi dodavatelem a zákazníkem.",
-      "**Ludvík Baleka (Pražská plynárenská)** — Kritizoval „regulatorní obezitu“ a vysoké náklady firem.",
-      "**Milan Duba (MND)** — Upozornil na asymetrii rizik u 15denní výpovědní lhůty.",
-      "**Stanislav Votruba (PRE)** — Hovořil o nutnosti investic do sítí a problémech se spekulativními žádostmi.",
-      "**Blahoslav Němeček (Inogy)** — Obhajoval stávající strukturu fakturace a varoval před unifikací.",
-      "**Lenka Desatová (Rada seniorů ČR)** — Upozornila na to, že senioři jsou často obětí agresivních telefonních nabídek a nerozumí cenám bez DPH."
+      "**Patrik Nacher (místopředseda PS PČR)**: Zdůraznil potřebu osvěty a debirokratizace. Varoval před informační obezitou spotřebitelů.",
+      "**Tomáš Suchý (Revido)**: Navrhl sjednocení procesů akceptace výpovědí a standardizaci vyúčtování.",
+      "**Zuzana Krejčiříková (ČEZ)**: Argumentovala, že stávající právní úprava je dostatečná a varovala před přílišnou regulací.",
+      "**René Neděla (MPO)**: Prezentoval legislativní změny a upozornil na rizika spojená s volatilitou cen.",
+      "**Jan Šefránek (ERÚ)**: Informoval o rekordních sankcích (18,5 mil. Kč) a plánech na rozšíření srovnávače nabídek.",
+      "**Petr Kusý (EDC)**: Zaměřil se na technickou roli datového centra při sdílení elektřiny.",
+      "**Jan Zápotočný (E.ON)**: Upozornil na komplexitu energetiky a varoval, že ne každý zákazník chce být aktivní.",
+      "**Ludvík Baleka (PPAS)**: Kritizoval regulatorní obezitu a administrativní zátěž firem.",
+      "**Milan Duba (MND)**: Upozornil na asymetrii rizik u 15denní výpovědní lhůty.",
+      "**Stanislav Votruba (PRE)**: Hovořil o nutnosti investic do sítí a problémech s robotizovanými žádostmi.",
+      "**Blahoslav Němeček (Inogy)**: Varoval před unifikací trhu, která by mohla vést ke stagnaci.",
+      "**Lenka Desatová (Rada seniorů ČR)**: Poukázala na to, že senioři často nerozumí cenám bez DPH a neorientují se v online srovnávačích."
     ],
-    "outcome": "Nebyl přijat žádný formální legislativní závěr. Předseda podvýboru a předseda ERÚ se dohodli na vytvoření **pracovní skupiny pod gescí ERÚ**, která se bude zabývat zejména sjednocením a srozumitelností vyúčtování (včetně QR kódů) a dalšími podněty z diskuze. Výsledky budou následně prezentovány v podvýboru pro ochranu spotřebitele.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem, nicméně hlavní argumentační linie řečníků jsou zřetelné."
+    "outcome": "Nebyl přijat žádný formální legislativní akt, ale došlo ke konsenzu v otázce nutnosti **zjednodušení vyúčtování energií**. ERÚ se zavázal svolat pracovní skupinu, která bude řešit parametry vyúčtování a další podněty z diskuse.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem."
   },
   "entities": {
     "speakers": [
-      {"name": "Místopředseda PS", "person_id": null, "affiliation": "Poslanecká sněmovna"},
+      {"name": "Patrik Nacher", "person_id": null, "affiliation": "Poslanecká sněmovna"},
       {"name": "Tomáš Suchý", "person_id": null, "affiliation": "Revido"},
-      {"name": "Zuzana Krečiříková", "person_id": null, "affiliation": "ČEZ"},
-      {"name": "René Neděla", "person_id": null, "affiliation": "Ministerstvo průmyslu a obchodu"},
+      {"name": "Zuzana Krejčiříková", "person_id": null, "affiliation": "ČEZ"},
+      {"name": "René Neděla", "person_id": null, "affiliation": "MPO"},
       {"name": "Jan Šefránek", "person_id": null, "affiliation": "ERÚ"},
-      {"name": "Petr Kusí", "person_id": null, "affiliation": "EDC"},
-      {"name": "Jan Zápotoční", "person_id": null, "affiliation": "E.ON"},
-      {"name": "Ludvík Baleka", "person_id": null, "affiliation": "Pražská plynárenská"},
+      {"name": "Petr Kusý", "person_id": null, "affiliation": "EDC"},
+      {"name": "Jan Zápotočný", "person_id": null, "affiliation": "E.ON"},
+      {"name": "Ludvík Baleka", "person_id": null, "affiliation": "PPAS"},
       {"name": "Milan Duba", "person_id": null, "affiliation": "MND"},
       {"name": "Stanislav Votruba", "person_id": null, "affiliation": "PRE"},
       {"name": "Blahoslav Němeček", "person_id": null, "affiliation": "Inogy"},
       {"name": "Lenka Desatová", "person_id": null, "affiliation": "Rada seniorů ČR"}
     ],
-    "parties": [],
-    "institutions": ["Poslanecká sněmovna", "ERÚ", "MPO", "EDC", "Rada seniorů ČR"]
+    "parties": ["ANO 2011"],
+    "institutions": ["Poslanecká sněmovna", "MPO", "ERÚ", "EDC"]
   },
   "highlights": [
     {
@@ -103,33 +113,33 @@ Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přep
       "type": "citation",
       "speaker": "Jan Šefránek",
       "affiliation": "ERÚ",
-      "timestamp": "6/03:04"
+      "timestamp": "6/02:06"
     },
     {
-      "text": "35 % mé členské základny žádný web nemá, nepotřebují ho k životu, a my tady pořád čelíme tomu, že musí někomu říct o pomoc.",
-      "type": "citation",
-      "speaker": "Lenka Desatová",
-      "affiliation": "Rada seniorů ČR",
-      "timestamp": "14/04:01"
+      "text": "Pokud bychom se dívali na ty regulované peníze, tarifní systém není nic jiného, než jak se pokusit co možná nejadresnějším způsobem rozdělit náklady mezi zákazníky.",
+      "type": "paraphrase",
+      "speaker": "Stanislav Votruba",
+      "affiliation": "PRE",
+      "timestamp": "11/06:07"
     },
     {
-      "text": "Chceme zrušit trh s energiemi, nebo chceme, aby ten trh tady zůstal? Máme se na pozoru před tím, abychom ho nesvázali tak, že zanikne.",
+      "text": "Nechceme zrušit trh a svázat ho tak, aby neexistoval, tak si to pojďme říct a neschovávejme to za zrakově postižené.",
       "type": "citation",
       "speaker": "Ludvík Baleka",
-      "affiliation": "Pražská plynárenská",
-      "timestamp": "10/05:03"
+      "affiliation": "PPAS",
+      "timestamp": "10/04:04"
     }
   ],
   "controversial": [
     {
-      "statement": "Návrh na zrušení nebo omezení 15denní výpovědní lhůty po zahájení dodávky.\n* **Kdo:** Milan Duba (MND).\n* **Co:** Navrhl přehodnotit 15denní lhůtu pro výpověď smlouvy uzavřené distančně, protože dodavatelé již nakoupili komoditu a nesou náklady.\n* **Proč:** Je to politicky citlivé, protože jde o jeden z nejsilnějších nástrojů ochrany spotřebitele proti „energošmejdům“.\n* **Čas:** 10/07:30.",
+      "statement": "Diskuse o zrušení nebo úpravě 15denní výpovědní lhůty po zahájení dodávky. Dodavatelé (Milan Duba, MND) argumentují, že lhůta je příliš dlouhá a přenáší na ně neúměrné náklady, zatímco spotřebitelé ji vnímají jako klíčovou ochranu.",
       "speaker": "Milan Duba",
       "affiliation": "MND",
-      "timestamp": "10/07:30"
+      "timestamp": "11/00:00"
     }
   ],
   "quality": {
-    "transcript_quality": "good",
+    "transcript_quality": "partial",
     "unintelligible_parts": true
   },
   "extras": null

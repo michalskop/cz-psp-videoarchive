@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:49:24",
+  "created_at": "2026-05-29T14:29:40",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2838",
@@ -19,16 +19,16 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference hnutí SPD se konala 21. dubna 2026 v Poslanecké sněmovně. Cílem bylo představit priority hnutí v rámci vládní koalice, vyjádřit se k aktuálním legislativním návrhům a kritizovat postup opozičních stran při blokování vyšetřovacích komisí a projednávání zákonů.\n\nHlavními tématy byla ochrana národní suverenity v EU, vyšetřování kauz „Dozimetr“ a „Bitcoin“, legislativní změny v oblasti platů politiků, referenda, regulace cen pohonných hmot, ochrany zvířat a sociální podpory rodin.",
+    "topic": "Tisková konference hnutí SPD konaná dne 21. dubna 2026 sloužila k prezentaci postojů hnutí k aktuálním politickým tématům, legislativním návrhům a kauzám. Hlavními tématy byly odpor proti zrušení práva veta v EU, zablokování vzniku vyšetřovací komise ke kauze Dozimetr opozičními stranami, prosazování zmrazení platů politiků a legislativní novinky v sociální oblasti a ochraně zvířat.\n\nCílem konference bylo informovat veřejnost o prioritách SPD v rámci vládní koalice, kritizovat opozici za obstrukce a vyjádřit nesouhlas s plánovaným sjezdem Sudetoněmeckého landsmanšaftu v Brně.",
     "main_points": [
-      "**Tomio Okamura (SPD)** — Odmítá zrušení práva veta v EU; kritizuje opozici za blokování vyšetřovací komise v kauze Dozimetr; prosazuje zmrazení platů politiků na 5 let; informoval o pokroku v zákoně o referendu a obhajuje regulaci cen pohonných hmot.",
-      "**Lucie Šafránková (SPD)** — Předložila návrh na zpřísnění sankcí za týrání zvířat (zákaz chovu až 10 let, povinné kastrace koček); odsoudila sjezd Sudetoněmeckého landsmanšaftu v Brně; ohlásila sociální opatření (rodičovský příspěvek před porodem, příspěvek na mobilitu).",
-      "**Jindřich Rajchl (SPD)** — Označil kauzu Bitcoin za trestnou činnost; kritizoval Evu Decroix za nedostatečnou transparentnost a vyzval ji k odchodu z politiky; hrozí vznikem vyšetřovací komise.",
-      "**Libor Vondráček (SPD)** — Upozornil na vazby zadržených při teroristickém útoku v Pardubicích na neziskovku „Druhá : směna“ financovanou z Německa; prosazuje zákon o monitoringu zahraničního financování neziskovek.",
-      "**Irena Němcová (SPD)** — Předložila návrh na zpřísnění postihu za neplacení výživného; úmyslné neplacení delší než 4 měsíce má být opět trestné."
+      "**Tomio Okamura (SPD)** — Odmítá zrušení práva veta v EU, kritizuje opozici za blokování komise ke kauze Dozimetr, prosazuje zmrazení platů politiků na 5 let a obhajuje vládní regulaci cen pohonných hmot.",
+      "**Lucie Šafránková (SPD)** — Představila návrh na zpřísnění trestů za týrání zvířat a povinnou kastraci koček; vyjádřila nesouhlas se sjezdem Sudetoněmeckého landsmanšaftu v Brně a informovala o změnách v rodičovském příspěvku.",
+      "**Jindřich Rajchl (SPD)** — Kritizoval vyšetřování kauzy Bitcoin a vyzval k rezignaci Evy Decroix.",
+      "**Libor Vondráček (SPD)** — Upozornil na vazby zadržených osob z útoku v Pardubicích na neziskovou organizaci „Druhá : směna“ a volá po transparentnosti financování neziskovek ze zahraničí.",
+      "**Irena Němcová (SPD)** — Navrhuje, aby úmyslné neplacení výživného po dobu delší než 4 měsíce bylo opět trestným činem."
     ],
-    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasovacím orgánem. Dominujícím postojem SPD je snaha o prosazení vládních návrhů (zmrazení platů, zákon o referendu, regulace cen) navzdory obstrukcím opozice a příprava na vyšetřování kauz (Dozimetr, Bitcoin) prostřednictvím parlamentních komisí.",
-    "notes": "Přepis obsahuje opakující se pasáže (v částech 1, 2 a 3 se některé projevy identicky opakují). Informace byly syntetizovány z unikátních částí záznamu."
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. Dominujícím postojem SPD je snaha o prosazení konzervativní a suverenistické agendy, boj proti vlivu opozice a neziskových organizací a důraz na sociální podporu rodin. SPD deklaruje jednotu v rámci vládní koalice v otázkách referenda a nominačního zákona.",
+    "notes": "Přepis obsahuje opakující se pasáže (duplicitní texty v částech 2 a 3), které byly pro účely shrnutí konsolidovány."
   },
   "entities": {
     "speakers": [
@@ -63,28 +63,34 @@
       "STAN",
       "TOP 09",
       "ODS",
-      "KDU-ČSL",
       "Piráti",
-      "Zelení",
       "AfD"
     ],
     "institutions": [
       "Evropská komise",
       "Poslanecká sněmovna",
       "Senát",
-      "Policie ČR",
       "Sudetoněmecký landsmanšaft"
     ]
   },
   "highlights": [
     {
-      "text": "SPD zásadně odmítá aktuální nejnovější návrhy předsedkyně Evropské komise Ursuly von der Leyen na zrušení práva veta členských států Evropské unie.",
+      "text": "Hnutí SPD zásadně odmítá aktuální nejnovější návrhy předsedkyně Evropské komise Ursuly von der Leyen na zrušení práva veta členských států Evropské unie.",
       "type": "citation",
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
-      "timestamp": "1/00:35",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2838_highlight_00.jpg",
-      "context": "Ursula von der Leyen v rámci diskusí o reformě EU (např. v rámci Konference o budoucnosti Evropy) skutečně podpořila úvahy o přechodu na hlasování kvalifikovanou většinou v některých oblastech zahraniční a bezpečnostní politiky. Zrušení práva veta však není oficiálním legislativním návrhem, který by byl v procesu schvalování, a vyžadovalo by jednomyslnou změnu zakládajících smluv EU."
+      "timestamp": "1/00:34",
+      "screenshot_path": "summaries/screenshots/event_2838_highlight_00.jpg",
+      "context": "Ursula von der Leyen skutečně v rámci diskusí o reformě EU (např. v rámci Konference o budoucnosti Evropy) podpořila přechod na hlasování kvalifikovanou většinou v oblastech zahraniční a bezpečnostní politiky. Zrušení práva veta však vyžaduje jednomyslný souhlas všech členských států EU, což je v současnosti politicky vysoce nepravděpodobné."
+    },
+    {
+      "text": "Obce nově dostanou povinnost kastrovat kočky na obcích, jde o humánní a systémové řešení, které omezí jejich přemnožení a zároveň utrpení.",
+      "type": "citation",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/07:44",
+      "screenshot_path": "summaries/screenshots/event_2838_highlight_01.jpg",
+      "context": "V platné české legislativě (zákon č. 246/1992 Sb., na ochranu zvířat proti týrání) obecná povinnost obcí kastrovat toulavé kočky neexistuje. Návrhy na plošnou kastraci jsou předmětem odborných diskusí, avšak aktuálně jde o dobrovolné aktivity obcí nebo spolků, nikoliv o zákonnou povinnost obcí."
     },
     {
       "text": "Navrhujeme, aby úmyslné neplacení výživného trvající déle než čtyři měsíce bylo opět trestné.",
@@ -92,32 +98,16 @@
       "speaker": "Irena Němcová",
       "affiliation": "SPD",
       "timestamp": "1/18:19",
-      "context": "Trestný čin zanedbání povinné výživy je v ČR upraven v § 196 trestního zákoníku (č. 40/2009 Sb.). Trestní odpovědnost vzniká, pokud pachatel neplní vyživovací povinnost po dobu delší než čtyři měsíce; návrh tedy fakticky odpovídá současné právní úpravě, která již tuto lhůtu obsahuje."
-    },
-    {
-      "text": "Obce nově dostanou povinnost kastrovat kočky na obcích, jde o humánní a systémové řešení, které omezí jejich přemnožení.",
-      "type": "paraphrase",
-      "speaker": "Lucie Šafránková",
-      "affiliation": "SPD",
-      "timestamp": "1/07:44",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2838_highlight_02.jpg",
-      "context": "V platné legislativě ČR (zákon č. 246/1992 Sb., na ochranu zvířat proti týrání) neexistuje obecná zákonná povinnost obcí provádět kastraci koček. Návrhy na plošnou regulaci populace toulavých koček jsou předmětem odborných diskusí, ale dosud nebyly promítnuty do závazné celostátní legislativy."
+      "context": "Trestný čin zanedbání povinné výživy podle § 196 trestního zákoníku (č. 40/2009 Sb.) je v ČR již nyní trestný, pokud se pachatel vyhýbá placení po dobu delší než čtyři měsíce. Návrh tedy fakticky neodpovídá současnému znění zákona, který tuto lhůtu již obsahuje."
     }
   ],
   "controversial": [
     {
-      "statement": "**Jindřich Rajchl (SPD)** vyzval Evu Decroix k odchodu z politiky v souvislosti s kauzou Bitcoin. Je to kontroverzní, protože jde o požadavek na rezignaci politika na základě podezření z krytí trestné činnosti bez pravomocného rozsudku.",
+      "statement": "Jindřich Rajchl (SPD) vyzval k rezignaci Evy Decroix a navrhl zrušení paragrafu o legalizaci výnosů z trestné činnosti, pokud by se neaplikoval na kauzu Bitcoin.",
       "speaker": "Jindřich Rajchl",
       "affiliation": "SPD",
       "timestamp": "1/14:03",
-      "context": "Výzva k rezignaci je politickým aktem, nikoliv právním. V českém právním řádu platí presumpce neviny (čl. 40 Listiny základních práv a svobod) a žádné pravomocné rozhodnutí soudu v kauze, na kterou Jindřich Rajchl odkazuje, nebylo v době výroku veřejně známo."
-    },
-    {
-      "statement": "**Libor Vondráček (SPD)** spojil teroristický útok v Pardubicích s neziskovou organizací „Druhá : směna“ a německým financováním. Je to politicky citlivé, neboť spojuje kriminální čin s politickým neziskovým sektorem a zahraničním vlivem.",
-      "speaker": "Libor Vondráček",
-      "affiliation": "SPD",
-      "timestamp": "1/16:02",
-      "context": "Nelze nezávisle ověřit. Přímá kauzální souvislost mezi konkrétním teroristickým útokem v Pardubicích a financováním neziskové organizace „Druhá : směna“ nebyla orgány činnými v trestním řízení potvrzena ani zveřejněna jako součást vyšetřovacího spisu."
+      "context": "Nelze nezávisle ověřit. Výzva k rezignaci je politickým vyjádřením, avšak návrh na zrušení konkrétního paragrafu trestního zákoníku (legalizace výnosů z trestné činnosti, tzv. praní špinavých peněz) vázaný na kauzu Bitcoin není standardním legislativním procesem a postrádá věcný právní základ v platné legislativě."
     }
   ],
   "quality": {

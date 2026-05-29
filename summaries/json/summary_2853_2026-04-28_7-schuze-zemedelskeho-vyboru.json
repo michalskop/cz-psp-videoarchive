@@ -1,0 +1,119 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:51:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2853",
+    "name": "7. schůze Zemědělského výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-04-28T13:05",
+    "end_date": "2026-04-28T14:53",
+    "sources": [
+      "final/event_2853_2026-04-28_7-schuze-zemedelskeho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 12,
+    "parts_total": 12,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání Zemědělského výboru se zaměřilo na projednání vládního návrhu zákona o rostlinolékařské péči (sněmovní tisk 48), který byl ve druhém čtení, a na kontrolní činnost výboru. Cílem bylo vypořádat pozměňovací návrhy k tomuto tisku a projednat informace o činnosti Podpůrného a garančního rolnického a lesnického fondu (PGRLF).\n\nSchůze dále sloužila jako platforma pro koordinaci legislativních kroků v oblasti zemědělství, lesnictví a ochrany půdy, včetně diskuse o aktuálních problémech, jako je aplikace rodenticidů (Stutox II) nebo ochrana zemědělského půdního fondu v rámci novely stavebního zákona.",
+    "main_points": [
+      "**David Pražák (ANO)**: Předkladatel a zpravodaj k tisku 48. Prezentoval proceduru hlasování a pozměňovací návrhy (C1–C7), které se týkaly mj. lesního zákona, zákona o Státním pozemkovém úřadu (SPU) a ochrany zvířat.",
+      "**Petr Bendl (ODS)**: Kritizoval nedostatečnou detailnost materiálů předložených PGRLF. Požadoval transparentní přehled o příjmech, výdajích, mzdových nákladech a konkrétních příjemcích dotací. Varoval před plošným používáním rodenticidů (Stutox II).",
+      "**Marek Výborný (KDU-ČSL)**: Podpořil konstruktivní debatu. Upozornil na problematiku ochrany zemědělského půdního fondu (ZPF) v novele stavebního zákona.",
+      "**Karel Tureček (ANO)**: Apeloval na minimalizaci „přílepků“ v zákonech. Kritizoval vysoké provozní náklady PGRLF v porovnání s historií fondu.",
+      "**Jaromír Bláha (Hnutí Duha)**: Vystoupil proti zrušení vrchního státního dozoru v lesích a varoval před degradací lesních půd.",
+      "**Josef Kučera (PGRLF)**: Prezentoval činnost fondu, který spravuje 11 programů ve třech pilířích. Uvedl, že fond má nulový default u investičních úvěrů.",
+      "**Daniel Albrecht (MZe)**: Informoval o postupu prací na novele stavebního zákona a integraci environmentálních stanovisek."
+    ],
+    "outcome": "Výbor přijal usnesení k vládnímu návrhu zákona (tisk 48) a doporučil jej k projednání ve třetím čtení. Návrh usnesení poslance Šmídy nebyl přijat. Výbor vzal na vědomí informaci o činnosti PGRLF.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze)."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "David Pražák",
+        "person_id": "psp:person:6527",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Karel Tureček",
+        "person_id": "psp:person:6240",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Jaromír Bláha",
+        "person_id": null,
+        "affiliation": "Hnutí Duha"
+      },
+      {
+        "name": "Josef Kučera",
+        "person_id": "psp:person:2404",
+        "affiliation": "PGRLF"
+      },
+      {
+        "name": "Daniel Albrecht",
+        "person_id": null,
+        "affiliation": "MZe"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "KDU-ČSL",
+      "Piráti"
+    ],
+    "institutions": [
+      "Zemědělský výbor",
+      "PGRLF",
+      "Ministerstvo zemědělství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Každá koruna, kterou investuje stát do finančních zdrojů PGRLF, vrací do systému dalších 10 až 12 Kč komerčních subjektů.",
+      "type": "citation",
+      "speaker": "Josef Kučera",
+      "affiliation": "PGRLF",
+      "timestamp": "5/09:05",
+      "screenshot_path": "summaries/screenshots/event_2853_highlight_00.jpg",
+      "context": "Tento multiplikační efekt je uváděn v interních materiálech PGRLF jako odhadovaný dopad podpůrných programů. Přesná hodnota se však liší podle typu konkrétního dotačního titulu a nelze ji plošně aplikovat na veškeré investice fondu bez podrobné analýzy konkrétních ročních výkazů."
+    },
+    {
+      "text": "Výstavba v aktivních zónách záplavových území je hazardem s životy lidí a ochranou majetku.",
+      "type": "citation",
+      "speaker": "Daniel Albrecht",
+      "affiliation": "MZe",
+      "timestamp": "10/04:31",
+      "screenshot_path": "summaries/screenshots/event_2853_highlight_01.jpg",
+      "context": "Tvrzení odpovídá zákonu č. 254/2001 Sb. (vodní zákon), který omezuje výstavbu v aktivních zónách záplavových území z důvodu zajištění průtočnosti a bezpečnosti. Porušování těchto pravidel je dlouhodobě kritizováno jako bezpečnostní riziko i z pohledu pojišťoven."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh poslance Šmídy na vynucení informací o vymáhání dotací po koncernu Agrofert. Jan Šmída (Piráti) požadoval doručení originálních posudků a časového plánu vymáhání dotací, což je politicky citlivé téma střetu zájmů.",
+      "speaker": "Jan Šmída",
+      "affiliation": "Piráti",
+      "timestamp": "8/01:00",
+      "screenshot_path": "summaries/screenshots/event_2853_controversy_00.jpg",
+      "context": "Vymáhání dotací u subjektů spojených s Agrofertem je předmětem dlouhodobých právních sporů mezi ČR a Evropskou komisí. Informace o konkrétních posudcích a časových plánech jsou předmětem správních řízení, jejichž zveřejnění podléhá zákonu č. 106/1999 Sb. o svobodném přístupu k informacím."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}

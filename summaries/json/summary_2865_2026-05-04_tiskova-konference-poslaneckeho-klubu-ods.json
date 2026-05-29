@@ -1,0 +1,114 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:58:51",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2865",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-04T15:33",
+    "end_date": "2026-05-04T15:50",
+    "sources": [
+      "final/event_2865_2026-05-04_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána po pravidelném jednání vlády. Hlavním účelem bylo vyjádření postoje ODS k aktuálnímu politickému dění, zejména ke kauzám premiéra Andreje Babiše, vládnímu rozhodnutí o znovuzavedení elektronické evidence tržeb (EET) a kritice vládního stylu řízení státu prostřednictvím „vládních zmocněnců“.\n\nPředstavitelé ODS ostře kritizovali premiéra za jeho výroky na adresu justice a státních zástupců, které označili za rozvracení právního státu. Zároveň představili vlastní vizi pro modernizaci ekonomiky, včetně využití umělé inteligence (AI) a kritiky byrokratické zátěže podnikatelů.",
+    "main_points": [
+      "**Martin Kubka (ODS)** — Označil Andreje Babiše za „zbabělce“, který se před soudem schovává za imunitu. Kritizoval zpochybňování nezávislosti soudů a policie premiérem. Odsoudil vládní trend jmenování „vládních zmocněnců“ a představil záměr ODS prosazovat zapojení AI do veřejné správy.",
+      "**Jan Skopeček (ODS)** — Znovuzavedení EET označil za krok zpět, který přinese byrokracii. Argumentoval, že přirozený růst bezhotovostních plateb již nyní zajišťuje transparentnost. Varoval před „drakonickými pokutami“ a přístupem finanční správy.",
+      "**Jiří Havránek (ODS)** — Kritizoval vládní návrh EET za to, že neřeší systémově podnikatele v paušálním režimu. Upozornil na problémy s implementací „jednotného měsíčního hlášení zaměstnavatele“ u menších firem a navrhl zavedení „generálního pardonu“."
+    ],
+    "outcome": "Formální rozhodnutí na tiskové konferenci nepadlo, neboť šlo o prezentaci postojů opoziční strany. ODS deklarovala, že bude v Poslanecké sněmovně požadovat projednání problémů s implementací jednotného hlášení zaměstnavatelů a bude klást důraz na systémovost při projednávání vládních návrhů.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kubka",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Tereza Fingerhutová",
+        "person_id": null,
+        "affiliation": "Česká televize"
+      },
+      {
+        "name": "Zuzana Drábková",
+        "person_id": "psp:person:7040",
+        "affiliation": "televize Nova"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "vláda ČR",
+      "Policie ČR",
+      "finanční správa"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zpochybňování právního státu z úst premiéra je přeci přímo krok proti fungování České republiky a proti důvěře veřejnosti v to, jak Česká republika funguje.",
+      "type": "paraphrase",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:41",
+      "screenshot_path": "summaries/screenshots/event_2865_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení, které nelze fakticky ověřit. Výrok reflektuje politický střet o interpretaci výroků premiéra a jejich dopadu na důvěru v instituce státu."
+    },
+    {
+      "text": "Představa, že daňové úniky jsou dneska na straně nejmenších živnostníků, je naprosto iluzorní.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/08:32",
+      "screenshot_path": "summaries/screenshots/event_2865_highlight_01.jpg",
+      "context": "Podle dat MF ČR a analýz daňových úniků (např. tzv. VAT Gap) se největší objem úniků dlouhodobě koncentruje v oblasti DPH u velkých firem a řetězců. Tvrzení o nízkém podílu živnostníků na celkovém objemu daňových úniků je v souladu s makroekonomickými odhady, ačkoliv drobné úniky v sektoru služeb nelze zcela vyloučit."
+    },
+    {
+      "text": "Zavádí se velmi robustní systém, který opravdu vykazuje i data, která doteď třeba nebyla vykazována.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/11:36",
+      "screenshot_path": "summaries/screenshots/event_2865_highlight_02.jpg",
+      "context": "Výrok pravděpodobně odkazuje na digitalizaci státní správy nebo zavedení systémů typu EET (v minulosti) či nových kontrolních hlášení. Zda je systém „robustní“ a přináší nová data, je ověřitelné skrze technickou dokumentaci konkrétního informačního systému státu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Tereza Fingerhutová (Česká televize) se dotázala na obvinění Pavla Blažka v bitcoinové kauze.\n**Co:** Martin Kubka uvedl, že Pavel Blažek již vyvodil politickou odpovědnost (rezignace, odchod z ODS) a nyní je věcí justice, aby rozhodla.\n**Proč:** Je to citlivé, protože jde o bývalého vysoce postaveného člena ODS, což staví stranu do defenzivy při kritice kauz vládních představitelů.",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/13:13",
+      "screenshot_path": "summaries/screenshots/event_2865_controversy_00.jpg",
+      "context": "Pavel Blažek je v současnosti ministrem spravedlnosti a členem ODS. Tvrzení, že rezignoval a odešel z ODS, je fakticky nepravdivé; Pavel Blažek v ODS nadále působí a zastává vládní funkci."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

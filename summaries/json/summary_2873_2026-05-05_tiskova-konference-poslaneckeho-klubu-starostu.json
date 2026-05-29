@@ -1,0 +1,119 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T14:56:43",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2873",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-05T13:00",
+    "end_date": "2026-05-05T13:15",
+    "sources": [
+      "final/event_2873_2026-05-05_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny za účelem prezentace postojů hnutí STAN k aktuálním legislativním návrhům a vládní politice. Hlavními tématy byly kritika rozpočtové politiky vlády, nesouhlas se změnami ve financování a kontrole veřejnoprávních médií, vyjednávání o novém jednacím řádu Sněmovny a připomínky k zákonu o podpoře bydlení.",
+    "main_points": [
+      "**Věra Kovářová (STAN)** — Kritizovala rozpor mezi programovým prohlášením vlády a kroky premiéra Babiše a ministryně Schillerové. Varovala před vyjmutím výdajů na obranu a dopravu ze schváleného deficitu a před oslabením kontroly Sněmovny nad rozpočtovými kapitolami.",
+      "**Michaela Šebelová (STAN)** — Odmítla vládní návrhy na změnu financování ČT a ČRo jako pokus o zestátnění médií. Varovala před finanční destabilizací a likvidací regionálního zpravodajství. Označila vládní návrh stavebního zákona za „paskvil“.",
+      "**Barbora Urbanová (STAN)** — Informovala o ústupcích vládní koalice v jednání o jednacím řádu (zachování faktických poznámek). Představila návrh na rozdělování funkcí ve Sněmovně podle poměrného systému.",
+      "**Eliška Olšáková (STAN)** — Kritizovala zákon o podpoře bydlení kvůli příjmovým limitům, které vylučují pracující a seniory. Varovala před ztrátou kontroly obcí nad byty při přesunu agendy na Úřad práce."
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opoziční strategie. STAN deklaroval koordinovaný postup s ostatními opozičními stranami v otázkách rozpočtové odpovědnosti a nezávislosti médií. V otázce jednacího řádu Sněmovny STAN pokračuje v prosazování principu poměrného zastoupení.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Eliška Olšáková",
+        "person_id": "psp:person:6766",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "ČT",
+      "ČRo",
+      "NKÚ",
+      "Úřad práce"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda bude zadlužovat tuto zemi, bude zadlužovat generace budoucí a naše děti a naše vnuci budou poté platit tyto dluhy, které tato vláda vypaří.",
+      "type": "paraphrase",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/04:27",
+      "screenshot_path": "summaries/screenshots/event_2873_highlight_00.jpg",
+      "context": "Státní dluh ČR je veřejně dostupný údaj spravovaný MF ČR. Tvrzení o zadlužování budoucích generací je interpretací politiky deficitního financování, která je v ČR dlouhodobě praktikována napříč vládami; dopad na budoucí generace závisí na efektivitě vynaložených prostředků (investice vs. mandatorní výdaje)."
+    },
+    {
+      "text": "Nechceme v současné situaci dělat žádné zásadní změny, zejména proto, že vládní koalice chce změnit financování ČT a ČR za nás, je to pokus o zestátnění.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/05:51",
+      "screenshot_path": "summaries/screenshots/event_2873_highlight_01.jpg",
+      "context": "Návrh na změnu financování ČT a ČRo (tzv. mediální novela) je předmětem politické debaty. Tvrzení o „zestátnění“ je politickou interpretací opozice; vládní koalice argumentuje nutností valorizace poplatků v reakci na inflaci a nezbytností udržitelnosti veřejnoprávních médií."
+    },
+    {
+      "text": "Pokud chceme s novým jednacím řádem začít od nuly, je to příležitost pro vládní koalici k tomu, aby funkce v Poslanecké sněmovně byly rozděleny podle poměrného systému.",
+      "type": "paraphrase",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "STAN",
+      "timestamp": "1/09:56",
+      "screenshot_path": "summaries/screenshots/event_2873_highlight_02.jpg",
+      "context": "Rozdělení funkcí v Poslanecké sněmovně (např. předsedové výborů) se řídí dohodou mezi poslaneckými kluby, nikoliv striktním zákonným poměrným systémem. Poměrné zastoupení je politickou tradicí, nikoliv právní povinností zakotvenou v jednacím řádu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Návrh na změnu rozpočtových pravidel:** Alena Schillerová (ministryně financí) navrhuje zavedení „únikových doložek“, které umožní vést výdaje na obranu a dopravní infrastrukturu mimo schválený deficit. Věra Kovářová (STAN) to kritizuje jako netransparentní zadlužování.",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/02:01",
+      "screenshot_path": "summaries/screenshots/event_2873_controversy_00.jpg",
+      "context": "Zavedení „únikových doložek“ pro specifické výdaje (např. obrana 2 % HDP) je legislativní návrh, který by vyžadoval změnu zákona o rozpočtové odpovědnosti. Kritika netransparentnosti vychází z obavy, že vyjmutí výdajů z deficitu oslabí kontrolní mechanismy státního rozpočtu."
+    },
+    {
+      "statement": "**Zestátnění médií:** Michaela Šebelová (STAN) označila vládní návrhy na změnu financování ČT a ČRo za pokus o jejich ovládnutí a likvidaci nezávislosti, což je pro STAN „červená linie“.",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/06:02",
+      "screenshot_path": "summaries/screenshots/event_2873_controversy_01.jpg",
+      "context": "Návrh na zvýšení koncesionářských poplatků a rozšíření okruhu plátců je vládním záměrem. Obvinění ze „zestátnění“ je politickým názorem; nezávislost médií je právně chráněna zákony o ČT a ČRo, jejichž změna by vyžadovala legislativní proces v Parlamentu ČR."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

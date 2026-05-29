@@ -1,4 +1,4 @@
-# Monetization Plan — PSP Video Archive
+# Monetization Plan — Sněmovna Digest
 
 **Principle:** Start with zero infrastructure overhead; add complexity only when demand justifies it.  
 **Audience:** journalists, researchers, NGOs, political analysts, media organizations, general public.

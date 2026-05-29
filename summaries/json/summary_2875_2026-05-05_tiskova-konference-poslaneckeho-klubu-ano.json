@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:11:19",
+  "created_at": "2026-05-29T14:55:20",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2875",
@@ -19,13 +19,13 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem informování veřejnosti o programu probíhající schůze Poslanecké sněmovny a o konkrétních legislativních prioritách hnutí ANO v oblasti sociální politiky a stavebního zákona.\n\nCílem bylo představit postoj hnutí k projednávaným tiskům, zejména k digitalizaci státní správy, a oznámit otevření nové pobočky Czech POINT v prostorách Poslanecké sněmovny.",
+    "topic": "Tisková konference byla svolána za účelem informování veřejnosti o programu probíhající schůze Poslanecké sněmovny a o konkrétních legislativních prioritách hnutí ANO v oblasti sociální politiky a stavebního zákona.\n\nCílem bylo představit postoj hnutí k digitalizačním procesům, ohlásit projednávání novely stavebního zákona (tzv. bypass) a informovat o sociálních tiscích, které mají za cíl zmírnit dopady nefunkční digitalizace na občany. Zároveň byla oznámena zřízení nového pracoviště Czech POINT v prostorách Poslanecké sněmovny.",
     "main_points": [
-      "**Taťána Malá (ANO)** — Informovala o programu schůze: projednávání novely stavebního zákona („bypass“ související s digitalizací). Upozornila na zítřejší mimořádnou schůzi, kde se bude projednávat zákon o rozpočtové odpovědnosti (3. čtení) a senátní návrh novely ústavy o rozšíření pravomocí Nejvyššího kontrolního úřadu (NKÚ) o kontrolu veřejnoprávních médií. Zmínila, že zákon o podpoře bydlení se pravděpodobně kvůli reakci opozice na pořad jednání nedostane.",
-      "**Jana Pastuchová (ANO)** — Představila dva sociální tisky: prioritou je oddálení digitalizace v sociální oblasti, neboť současný systém nefunguje bezproblémově. Oznámila pozměňovací návrh k příspěvku na mobilitu pro uživatele oxygenátorů a plicních ventilátorů: příspěvek ve výši 3 000 Kč bude poskytován neomezeně na úhradu nákladů za elektrickou energii. Oznámila otevření nového pracoviště Czech POINT v Poslanecké sněmovně."
+      "**Taťána Malá (ANO)** — Ohlásila projednávání novely stavebního zákona, zítřejší mimořádnou schůzi k zákonu o rozpočtové odpovědnosti a projednávání novely ústavy o rozšíření pravomocí NKÚ na veřejnoprávní média.",
+      "**Jana Pastuchová (ANO)** — Představila návrhy na odsunutí digitalizace, pozměňovací návrh na neomezený příspěvek na mobilitu ve výši 3 000 Kč pro osoby s plicní ventilací a otevření Czech POINTu v budově Sněmovny."
     ],
-    "outcome": "Jednání bylo ukončeno předčasně z důvodu začínající schůze Poslanecké sněmovny. Nebylo přijato žádné formální usnesení, tisková konference sloužila výhradně k informování médií o legislativním postupu a aktivitách klubu.",
-    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova. Části textu jsou nesrozumitelné kvůli automatickému přepisu."
+    "outcome": "Jednání bylo ukončeno předčasně z důvodu začínající schůze Poslanecké sněmovny. Nebyla přijata žádná formální usnesení, pouze byly prezentovány legislativní záměry a pozměňovací návrhy hnutí ANO. Konsenzus byl vyjádřen pouze u pozměňovacího návrhu k příspěvku na mobilitu, který získal podporu napříč koalicí i opozicí.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova. Části textu jsou nesrozumitelné kvůli automatickému přepisu, nicméně hlavní sdělení jsou identifikovatelná."
   },
   "entities": {
     "speakers": [
@@ -45,47 +45,47 @@
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Nejvyšší kontrolní úřad",
+      "NKÚ",
       "Czech POINT"
     ]
   },
   "highlights": [
     {
-      "text": "Digitalizace není připravena tak, aby fungovala bez problémů, a neradi bychom se dostali do situace jako u stavebního zákona.",
-      "type": "paraphrase",
-      "speaker": "Jana Pastuchová",
-      "affiliation": "ANO",
-      "timestamp": "1/01:45",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_highlight_00.jpg",
-      "context": "Tvrzení je subjektivním politickým hodnocením. Problémy s digitalizací stavebního řízení (systém Portál stavebníka) jsou doloženy četnými výpadky a kritikou ze strany uživatelů i profesních komor, což vedlo k odvolání ministra Ivana Bartoše."
-    },
-    {
       "text": "Těmto lidem bude poskytován příspěvek na mobilitu v částce 3 000 Kč neomezeně.",
-      "type": "citation",
+      "type": "paraphrase",
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
       "timestamp": "1/02:08",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_highlight_01.jpg",
-      "context": "Příspěvek na mobilitu (součást příspěvku na zvláštní pomůcku dle zákona č. 329/2011 Sb.) je v současnosti vyplácen v maximální výši 900 Kč měsíčně, nikoliv 3 000 Kč. Tvrzení o částce 3 000 Kč je fakticky nesprávné."
+      "screenshot_path": "summaries/screenshots/event_2875_highlight_00.jpg",
+      "context": "Příspěvek na mobilitu je upraven zákonem č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením. Aktuální výše příspěvku činí 900 Kč měsíčně, nikoliv 3 000 Kč; tvrzení o částce 3 000 Kč je tedy fakticky nesprávné."
     },
     {
-      "text": "Otevřen Czech POINT, který bude sloužit pro zaměstnance, poslance, ale i občany Prahy 1, protože tady byly zrušeny pošty.",
-      "type": "paraphrase",
+      "text": "Digitalizace není připravena tak, aby fungovala bez problémů, a neradi bychom se dostali do situace jako u stavebního zákona.",
+      "type": "citation",
       "speaker": "Jana Pastuchová",
       "affiliation": "ANO",
-      "timestamp": "1/02:40",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_highlight_02.jpg",
-      "context": "Czech POINTy jsou standardně zřizovány na pobočkách České pošty, obecních úřadech či zastupitelských úřadech. Zřízení pracoviště v prostorách Poslanecké sněmovny je ověřitelný fakt, nicméně jeho dostupnost pro širokou veřejnost podléhá bezpečnostním pravidlům objektu."
+      "timestamp": "1/01:50",
+      "screenshot_path": "summaries/screenshots/event_2875_highlight_01.jpg",
+      "context": "Jde o politické hodnocení připravenosti digitalizačních procesů. Srovnání s digitalizací stavebního řízení (podle zákona č. 283/2021 Sb.), která čelila po spuštění v červenci 2024 rozsáhlým technickým výpadkům, je legitimní politickou kritikou, kterou nelze objektivně potvrdit ani vyvrátit před spuštěním konkrétního systému."
+    },
+    {
+      "text": "Czech POINT bude sloužit pro zaměstnance, poslance, ale i občany Prahy 1, protože tady byly zrušeny pošty.",
+      "type": "citation",
+      "speaker": "Jana Pastuchová",
+      "affiliation": "ANO",
+      "timestamp": "1/03:15",
+      "screenshot_path": "summaries/screenshots/event_2875_highlight_02.jpg",
+      "context": "Czech POINT je standardizovaný systém asistovaného přístupu k elektronické komunikaci státu (zákon č. 365/2000 Sb.). Dostupnost služeb Czech POINT na úřadech je fakticky nezávislá na počtu poboček České pošty, ačkoliv pošty byly historicky jedním z hlavních míst poskytování těchto služeb."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Taťána Malá (ANO)\n**Co:** Návrh na rozšíření pravomocí NKÚ o možnost kontrolovat veřejnoprávní média.\n**Proč:** Jde o politicky citlivé téma, které se dotýká nezávislosti veřejnoprávních médií a jejich vztahu k exekutivě a kontrolním orgánům státu.\n**Čas:** 1/01:15",
+      "statement": "**Kontroverzní návrh:** Rozšíření pravomocí NKÚ na veřejnoprávní média.\n- **Kdo:** Taťána Malá (ANO).\n- **Co:** Projednávání senátního návrhu novely ústavy, který má umožnit NKÚ kontrolovat veřejnoprávní média.\n- **Proč:** Tato otázka je politicky citlivá, neboť se dotýká nezávislosti veřejnoprávních médií a jejich podřízení státní kontrole, což bývá vnímáno jako nástroj politického tlaku.\n- **Čas:** 1/01:15",
       "speaker": "Taťána Malá",
       "affiliation": "ANO",
       "timestamp": "1/01:15",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2875_controversy_00.jpg",
-      "context": "NKÚ v současnosti dle zákona č. 166/1993 Sb. nemá pravomoc kontrolovat hospodaření veřejnoprávních médií (ČT, ČRo), neboť ta nejsou organizačními složkami státu. Návrh na rozšíření pravomocí NKÚ je dlouhodobým politickým tématem, které vyžaduje změnu ústavního zákona."
+      "screenshot_path": "summaries/screenshots/event_2875_controversy_00.jpg",
+      "context": "Návrh na rozšíření pravomocí NKÚ na hospodaření ČT a ČRo je dlouhodobým politickým tématem. Podle platného zákona č. 166/1993 Sb. NKÚ nemá pravomoc kontrolovat média veřejné služby; změna vyžaduje ústavní zákon, o kterém se v Parlamentu ČR opakovaně diskutuje, ale dosud nebyl přijat."
     }
   ],
   "quality": {

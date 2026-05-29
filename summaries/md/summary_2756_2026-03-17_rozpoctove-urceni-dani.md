@@ -1,52 +1,50 @@
 Toto je strukturované shrnutí kulatého stolu na téma „Rozpočtové určení daní“ (RUD), který se konal 17. března 2026 v Poslanecké sněmovně.
 
 ### 1. Téma a účel jednání
-Cílem kulatého stolu bylo zhodnotit současný systém rozpočtového určení daní (RUD) v České republice, identifikovat jeho silné a slabé stránky a diskutovat o možnostech jeho budoucí úpravy. Jednání se zaměřilo na provázanost financování obcí a krajů, přičemž důraz byl kladen na stabilitu systému, předvídatelnost příjmů a otázku, zda by RUD měl obsahovat motivační prvky pro podporu lokálního podnikání.
+Cílem kulatého stolu bylo zhodnotit současný systém rozpočtového určení daní (RUD) v České republice, identifikovat jeho silné a slabé stránky a otevřít diskuzi o možných úpravách. Jednání se zaměřilo na provázanost financování obcí a krajů, přičemž důraz byl kladen na stabilitu systému, předvídatelnost příjmů a otázku, zda by RUD měl obsahovat motivační prvky pro podporu lokálního podnikání.
 
-Diskuse reflektovala napětí mezi potřebou koheze (vyrovnávání rozdílů) a voláním po větší fiskální decentralizaci, která by obcím umožnila lépe participovat na ekonomické aktivitě na jejich území.
+Akce sloužila jako platforma pro výměnu názorů mezi zástupci samospráv (starostové, hejtmani), Ministerstvem financí a odbornou veřejností. Debata se nevyhnula ani kontroverzním tématům, jako je „NIMBY“ efekt (odpor občanů k výstavbě v místě bydliště), fragmentace sídelní struktury ČR a otázka, zda by obce měly mít větší fiskální autonomii.
 
 ### 2. Hlavní body
-*   **Lucie Sedmihradská (poslankyně, moderátorka):** Zdůraznila, že řešit RUD obcí bez krajů nedává smysl, neboť se dělí o stejný koláč. Varovala před přílišným „zamykáním“ parametrů (např. u Prahy), které by mohlo vést ke ztrátě dynamiky systému.
-*   **Libor Švec (starosta obce Vestec):** Vyzdvihl stabilitu a jednoduchost současného systému. Jako slabiny označil podfinancování regionálních center, diskriminační nastavení koeficientů pro čtyři největší města a nedostatečnou revizi systému (poslední významná v roce 2013). Navrhl častější revize (jednou za 4 roky).
-*   **Petr Halada (starosta obce Kamenice nad Vltavou):** Upozornil na potřebu zohlednit v RUD index stáří populace a zvýšit koeficienty pro provoz škol. Zdůraznil, že pro malé obce je současný systém stabilním zdrojem pro rozvoj.
-*   **Petra Pecková (hejtmanka Středočeského kraje):** Kritizovala rigiditu RUD krajů, který se 20 let nezměnil. Argumentovala pro zavedení dynamických kritérií (počet obyvatel, délka silnic, intenzita dopravy, počet nemocnic). Uvedla, že předchozí pokus o reformu ztroskotal na politické neshodě a obavách krajů ze ztráty příjmů.
-*   **Petr Kulhánek (hejtman Karlovarského kraje):** Podpořil nutnost modernizace RUD krajů, aby reflektoval reálný rozvoj regionů. Zdůraznil potřebu snížit závislost obcí na dotacích ve prospěch stabilních příjmů z RUD.
-*   **Miroslav Matej (Ministerstvo financí):** Varoval před zaváděním „motivačních daní“ navázaných na ekonomickou aktivitu. Tvrdí, že by to prohloubilo regionální rozdíly, zvýšilo volatilitu příjmů a oslabilo vyrovnávací funkci RUD. Skutečné problémy rozvoje vidí v „NIMBY“ efektu (odpor obyvatel k výstavbě) a nízkých kapacitách obcí.
-*   **Jiří Munich (PAQ Research):** Oponoval Matejovi; uvedl, že současný systém je v evropském kontextu extrémní v absenci motivačních prvků. Navrhl, že lze kombinovat motivační mechanismy s vyrovnávacími (kohezními) nástroji.
-*   **Jan Borecký (zástupce veřejné správy):** Kritizoval hybridní systém státní správy, který kombinuje nevýhody obou přístupů. Zdůraznil, že obce by měly participovat na hodnotách vznikajících v území, aby se zmírnil odpor k investicím.
-*   **Dominik Hrubý (SMS ČR):** Navrhl zohlednit v RUD kritéria jako počet uchazečů o zaměstnání nebo osoby ZTP/P, protože tyto skupiny generují obcím objektivní náklady na servis.
+*   **Lucie Sedmihradská (poslankyně, moderátorka)** — zdůraznila nutnost řešit RUD obcí a krajů jako jeden celek. Upozornila na to, že systém je zkostnatělý a vyžaduje revizi, ale varovala před přílišným optimismem ohledně rychlých změn v současné politické situaci.
+*   **Libor Švec (starosta Vestce)** — vyzdvihl stabilitu a jednoduchost systému jako jeho nejsilnější stránky. Za slabiny označil podfinancování regionálních center, diskriminační koeficienty pro čtyři největší města (mimo Prahu) a nedostatečnou výši příspěvku za zaměstnance (700 Kč/rok).
+*   **Petr Halada (starosta Kamenice nad Vltavou)** — poukázal na potřebu zohlednit v RUD index stáří populace a zvýšit koeficienty pro provoz škol. Zdůraznil, že pro malé obce je současný systém stabilním zdrojem příjmů.
+*   **Petra Pecková (hejtmanka Středočeského kraje)** — kritizovala rigiditu RUD krajů, který se 20 let nezměnil. Navrhla zavedení dynamických kritérií (počet obyvatel, délka silnic, počet žáků, zdravotnická infrastruktura). Upozornila na neúspěch vládního návrhu reformy, který vedl k rozporům mezi kraji.
+*   **Petr Kulhánek (hejtman Karlovarského kraje)** — podpořil myšlenku dynamických parametrů v RUD krajů. Varoval před závislostí obcí na dotačních titulech a volal po jejich nahrazení přímými příjmy z RUD.
+*   **Miroslav Matej (Ministerstvo financí)** — varoval před zaváděním motivačních prvků do RUD, které by podle něj prohloubily regionální rozdíly a oslabily stabilitu systému. Za hlavní problém rozvoje obcí označil „NIMBY“ efekt a slabé kapacity obcí, nikoliv nedostatek peněz.
+*   **Jiří Munich (PAQ Research)** — oponoval Ministerstvu financí. Tvrdí, že současný systém je v evropském kontextu extrémní v absenci motivačních prvků. Navrhl, aby RUD kombinoval motivační složku s vyrovnávacím mechanismem pro zachování koheze.
+*   **Jan Borecký (zástupce samospráv)** — kritizoval zákon o rozpočtové odpovědnosti jako ekonomicky negramotný. Zdůraznil, že obce potřebují participovat na hodnotách vznikajících na jejich území, aby se zmírnil odpor k investicím.
+*   **Marek Jedmar (Ministerstvo vnitra)** — upozornil na ústavní limity definování rolí obcí. Podpořil rozvoj společenství obcí jako cestu k efektivnějšímu poskytování služeb bez nutnosti slučování obcí.
 
 ### 3. Výsledek / závěr
-Formální rozhodnutí nebylo přijato. Konsenzus panuje v tom, že současný systém je stabilní, ale vyžaduje revizi, zejména v oblasti financování krajů a nastavení koeficientů pro velká města. Dominujícím postojem je potřeba „definovat, co od obcí chceme“ (jejich role a povinnosti), než se přistoupí k plošným změnám parametrů RUD. Debata bude pokračovat v užších pracovních skupinách.
+Jednání nepřineslo formální rozhodnutí o legislativní změně, což bylo vzhledem k povaze semináře očekávané. Dominoval konsenzus, že současný systém RUD je stabilní, ale vyžaduje revizi, zejména v oblasti financování krajů a narovnání disparit u velkých měst. Panuje shoda na potřebě definovat „role obcí“ a jejich povinnosti, avšak neexistuje shoda na tom, jakým způsobem do systému vnést motivační prvky, aniž by došlo k ohrožení chudších regionů.
 
 ### 4. Poznámky
-Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, chyby v diakritice), které však nemají vliv na pochopení hlavních argumentačních linií řečníků.
+Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (např. useknutá slova, chyby v názvech obcí). Části diskuze o hazardu a dani z nemovitostí byly moderátorkou utnuty z důvodu časové tísně a komplexnosti témat.
 
 ---
 
-### Doplňující otázky
-*   **Kontroverzní návrh:** Zavedení motivační složky RUD navázané na ekonomickou aktivitu (podnikání).
-    *   **Kdo:** Jiří Munich (PAQ Research) vs. Miroslav Matej (Ministerstvo financí).
-    *   **Co:** Munich navrhuje zohlednit ekonomickou aktivitu, Matej to označuje za „nebezpečnou myšlenku“, která by zdevastovala periferie.
-    *   **Proč:** Politicky citlivé téma, protože ovlivňuje přerozdělování miliard korun mezi bohatá centra a chudší regiony.
-    *   **Čas:** 5/06:02 a 8/00:00.
+## Doplňující otázky
+*   **Kontroverzní návrh:** Zavedení motivačních prvků do RUD navázaných na ekonomickou aktivitu (Jiří Munich, PAQ Research).
+    *   **Proč:** Ministerstvo financí (M. Matej) to označilo za „nebezpečnou myšlenku“, která by vedla k „hungarizaci“ ekonomiky a vyhladovění periferií.
+    *   **Čas:** 5/06:02
 
 ---
 
-### Klíčové citace pro veřejnost
-1. „Středočeský kraj poznáte podle první díry, do které vjedete, protože RUD krajů se 20 let nezměnil.“ — **Petra Pecková (hejtmanka Středočeského kraje)**, 2/07:04.
-2. „Česká republika je jako polovina čínského města, ale úředníků máme skoro na půl Číny.“ — **Aleš Trnka (veřejnost)**, 11/08:02.
-3. „Pokud se zavede motivační složka v RUD bez komplexního vyrovnávání, prohloubíme regionální rozdíly a oslabíme stabilitu systému.“ — **Miroslav Matej (Ministerstvo financí)**, 6/00:00.
-4. „Obce do 500 obyvatel obhospodařují 70 % území státu, ale příjmy z RUD jsou nastaveny neúměrně ve prospěch velkých měst.“ — **Dominik Hrubý (SMS ČR)**, 10/02:05.
+## Klíčové citace pro veřejnost
+1. „Středočeský kraj poznáte podle první díry, do které vjedete, protože RUD krajů se 20 let nezměnil.“ — **Petra Pecková (hejtmanka)**, 3/07:04
+2. „Pokud se zavede motivační složka v RUD bez komplexního vyrovnávání, prohloubíme regionální rozdíly a oslabíme stabilitu.“ — **Miroslav Matej (Ministerstvo financí)**, 5/06:07
+3. „Česká republika je jako polovina čínského města, ale úředníků máme skoro na půl Číny.“ — **Aleš Trnka (veřejnost)**, 11/06:00
+4. „Na jednoho zaměstnance dostáváme 700 Kč na rok, což nestačí ani na zajištění veřejné dopravy pro něj.“ — **Libor Švec (starosta)**, 1/08:05
 
 ---
 
-### JSON výstup
+## JSON výstup
 ```json
 {
   "schema_version": "2",
-  "created_at": "2026-03-17",
-  "model_hint": "whisper-large-v3",
+  "created_at": null,
+  "model_hint": null,
   "event": {
     "id": "2756",
     "name": "Kulatý stůl na téma „Rozpočtové určení daní“",
@@ -62,27 +60,27 @@ Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, chyby v diakr
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Cílem kulatého stolu bylo zhodnotit současný systém rozpočtového určení daní (RUD) v České republice, identifikovat jeho silné a slabé stránky a diskutovat o možnostech jeho budoucí úpravy. Jednání se zaměřilo na provázanost financování obcí a krajů, přičemž důraz byl kladen na stabilitu systému, předvídatelnost příjmů a otázku, zda by RUD měl obsahovat motivační prvky pro podporu lokálního podnikání.\n\nDiskuse reflektovala napětí mezi potřebou koheze (vyrovnávání rozdílů) a voláním po větší fiskální decentralizaci, která by obcím umožnila lépe participovat na ekonomické aktivitě na jejich území.",
+    "topic": "Cílem kulatého stolu bylo zhodnotit současný systém rozpočtového určení daní (RUD) v České republice, identifikovat jeho silné a slabé stránky a otevřít diskuzi o možných úpravách. Jednání se zaměřilo na provázanost financování obcí a krajů, přičemž důraz byl kladen na stabilitu systému, předvídatelnost příjmů a otázku, zda by RUD měl obsahovat motivační prvky pro podporu lokálního podnikání.\n\nAkce sloužila jako platforma pro výměnu názorů mezi zástupci samospráv, Ministerstvem financí a odbornou veřejností.",
     "main_points": [
-      "**Lucie Sedmihradská (poslankyně)**: Zdůraznila provázanost financování obcí a krajů a varovala před zafixováním parametrů, které by vedlo ke ztrátě dynamiky.",
-      "**Libor Švec (starosta)**: Ocenil stabilitu systému, ale kritizoval podfinancování regionálních center a zastaralost revizí.",
-      "**Petra Pecková (hejtmanka)**: Kritizovala 20 let neměnný RUD krajů a navrhla dynamická kritéria (doprava, nemocnice).",
-      "**Miroslav Matej (MF ČR)**: Varoval před motivačními daněmi, které by dle něj prohloubily regionální divergenci a volatilitu příjmů.",
-      "**Jiří Munich (PAQ Research)**: Argumentoval, že lze kombinovat motivační prvky s kohezními mechanismy a že současný systém je v EU unikátní svou absencí motivace."
+      "**Lucie Sedmihradská (poslankyně)** — zdůraznila nutnost řešit RUD obcí a krajů jako jeden celek.",
+      "**Libor Švec (starosta)** — vyzdvihl stabilitu systému, ale kritizoval podfinancování regionálních center a nízký příspěvek za zaměstnance.",
+      "**Petra Pecková (hejtmanka)** — kritizovala 20 let neměnný RUD krajů a navrhla zavedení dynamických kritérií.",
+      "**Miroslav Matej (Ministerstvo financí)** — varoval před motivačními prvky, které by podle něj prohloubily regionální rozdíly.",
+      "**Jiří Munich (PAQ Research)** — oponoval ministerstvu a navrhl kombinaci motivačních prvků s vyrovnávacím mechanismem."
     ],
-    "outcome": "Formální rozhodnutí nebylo přijato. Konsenzus panuje v tom, že současný systém je stabilní, ale vyžaduje revizi, zejména v oblasti financování krajů a nastavení koeficientů pro velká města. Dominujícím postojem je potřeba „definovat, co od obcí chceme“, než se přistoupí k plošným změnám parametrů RUD.",
-    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, chyby v diakritice), které však nemají vliv na pochopení hlavních argumentačních linií řečníků."
+    "outcome": "Jednání nepřineslo formální rozhodnutí. Panuje shoda na stabilitě systému, ale i na nutnosti revize financování krajů a narovnání disparit u velkých měst. Neexistuje shoda na zavedení motivačních prvků do RUD.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem."
   },
   "entities": {
     "speakers": [
       {"name": "Lucie Sedmihradská", "person_id": null, "affiliation": "Poslanecká sněmovna"},
-      {"name": "Libor Švec", "person_id": null, "affiliation": "Starosta obce Vestec"},
+      {"name": "Libor Švec", "person_id": null, "affiliation": "Starosta Vestce"},
       {"name": "Petra Pecková", "person_id": null, "affiliation": "Hejtmanka Středočeského kraje"},
       {"name": "Miroslav Matej", "person_id": null, "affiliation": "Ministerstvo financí"},
       {"name": "Jiří Munich", "person_id": null, "affiliation": "PAQ Research"}
     ],
     "parties": ["ANO 2011", "STAN", "ODS"],
-    "institutions": ["Poslanecká sněmovna", "Ministerstvo financí", "PAQ Research", "SMS ČR"]
+    "institutions": ["Poslanecká sněmovna", "Ministerstvo financí", "Ministerstvo vnitra"]
   },
   "highlights": [
     {
@@ -90,27 +88,21 @@ Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, chyby v diakr
       "type": "citation",
       "speaker": "Petra Pecková",
       "affiliation": "Hejtmanka Středočeského kraje",
-      "timestamp": "2/07:04"
-    },
-    {
-      "text": "Česká republika je jako polovina čínského města, ale úředníků máme skoro na půl Číny.",
-      "type": "paraphrase",
-      "speaker": "Aleš Trnka",
-      "affiliation": "veřejnost",
-      "timestamp": "11/08:02"
+      "timestamp": "3/07:04"
     }
   ],
   "controversial": [
     {
-      "statement": "**Zavedení motivační složky RUD navázané na ekonomickou aktivitu (podnikání).**\n\n*   **Kdo:** Jiří Munich (PAQ Research) vs. Miroslav Matej (Ministerstvo financí).\n*   **Co:** Munich navrhuje zohlednit ekonomickou aktivitu, Matej to označuje za „nebezpečnou myšlenku“, která by zdevastovala periferie.\n*   **Proč:** Politicky citlivé téma, protože ovlivňuje přerozdělování miliard korun mezi bohatá centra a chudší regiony.\n*   **Čas:** 5/06:02 a 8/00:00.",
-      "speaker": "Jiří Munich / Miroslav Matej",
-      "affiliation": "PAQ Research / Ministerstvo financí",
+      "statement": "**Návrh:** Zavedení motivačních prvků do RUD navázaných na ekonomickou aktivitu.\n**Kdo:** Jiří Munich (PAQ Research).\n**Proč:** Ministerstvo financí (M. Matej) to označilo za „nebezpečnou myšlenku“, která by vedla k „hungarizaci“ ekonomiky a vyhladovění periferií.",
+      "speaker": "Jiří Munich",
+      "affiliation": "PAQ Research",
       "timestamp": "5/06:02"
     }
   ],
   "quality": {
     "transcript_quality": "partial",
     "unintelligible_parts": true
-  }
+  },
+  "extras": null
 }
 ```

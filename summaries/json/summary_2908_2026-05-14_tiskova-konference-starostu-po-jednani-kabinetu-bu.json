@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T15:08:58",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2908",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-14T11:06",
+    "end_date": "2026-05-14T11:23",
+    "sources": [
+      "final/event_2908_2026-05-14_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference se konala po jednání „Kabinetu budoucnosti“ (stínové vlády) hnutí Starostové. Hlavním cílem bylo vyjádřit postoj hnutí k aktuálnímu dění v Poslanecké sněmovně, konkrétně k mimořádné schůzi svolané vládní koalicí, a představit kritiku vládní politiky v oblastech státního rozpočtu, energetiky (projekt Dukovany) a legislativních změn týkajících se veřejnoprávních médií.\n\nHnutí STAN deklarovalo, že se mimořádné schůze sněmovny nezúčastní, neboť ji považuje za účelovou „kulturní válku“ vyvolanou vládní koalicí a SPD, která má potenciál poškodit mezinárodní vztahy a zasahovat do samosprávy města Brna.",
+    "main_points": [
+      "**Vít Rakušan (stínový premiér)** — Kritizoval vládní koalici za to, že se stala „rukojmím SPD“ a zneužívá sněmovnu k rozdělování společnosti. Odmítl hlasovat o „usnesení vládní koalice“, neboť poslanec má hlasovat o názoru Poslanecké sněmovny jako celku. Obvinil vládu z nekompetence, politizace státní správy a „lží“ o připravenosti státního rozpočtu. Varoval před dopady rozpočtové politiky Aleny Schillerové.",
+      "**Lukáš Vlček (stínový ministr průmyslu)** — Upozornil na ztrátu „energie a napětí“ v projektu dostavby Dukovan. Kritizoval vládu za to, že nekomunikuje s regiony a neřeší navazující infrastrukturu. Uvedl, že vládní koalice na Vysočině odmítá návrhy na financování projektové přípravy. Zdůraznil, že za minulé vlády STAN se podařilo vyjednat 60% zapojení českého průmyslu do projektu, což nyní stagnuje.",
+      "**Jan Lacina (stínový ministr)** — Odsoudil vládní návrh zákona o médiích veřejné služby jako „paskvil“, který je nekompatibilní s evropskou legislativou. Upozornil na vysoké náklady nového systému financování (obsluha dluhu v prvním roce 370 mil. Kč, ve třetím roce přes miliardu). Varoval před snahou vlády dostat veřejnoprávní média pod politickou kontrolu."
+    ],
+    "outcome": "Hnutí STAN potvrdilo svou neúčast na mimořádné schůzi Poslanecké sněmovny. Namísto účasti na schůzi, kterou považují za politickou hru, se poslanci hnutí věnují vlastní agendě (např. ochrana dětí, energetická nezávislost). Vít Rakušan vyjádřil pochybnost nad jednotou vládní koalice při hlasování o daném usnesení.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Lacina",
+        "person_id": "psp:person:6737",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jakub Pacner",
+        "person_id": null,
+        "affiliation": "Česká televize"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Kabinet budoucnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My jim prostě u téhle nahnědlé rétoriky svítit nebudeme.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/01:42",
+      "screenshot_path": "summaries/screenshots/event_2908_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení rétoriky politických oponentů. Výrok nelze fakticky ověřit, neboť termín „nahnědlá rétorika“ je metaforickým označením pro názory blízké krajní pravici či extremismu."
+    },
+    {
+      "text": "Státní rozpočet v šuplíku byla první lež, která zazněla už na podzim.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/04:04",
+      "screenshot_path": "summaries/screenshots/event_2908_highlight_01.jpg",
+      "context": "Tvrzení o „rozpočtu v šuplíku“ se vztahuje k politické debatě z podzimu 2021 po volbách do PS. Tehdejší ministryně financí Alena Schillerová (ANO) existenci připraveného rozpočtu popírala, zatímco nová vládní koalice tvrdila, že rozpočet byl připraven nedostatečně či účelově; jde o interpretaci politického procesu, nikoliv o ověřitelný fakt."
+    },
+    {
+      "text": "Návrh zákona o médiích veřejné služby je výrazně dražší než ten, který funguje v tuto chvíli.",
+      "type": "paraphrase",
+      "speaker": "Jan Lacina",
+      "affiliation": "STAN",
+      "timestamp": "1/14:02",
+      "screenshot_path": "summaries/screenshots/event_2908_highlight_02.jpg",
+      "context": "Návrh novely zákona o České televizi a Českém rozhlasu počítá se zvýšením koncesionářských poplatků a rozšířením okruhu plátců. Zvýšení příjmů je záměrem návrhu, což fakticky znamená vyšší finanční zátěž pro poplatníky oproti současnému stavu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vít Rakušan označil rétoriku vládní koalice a SPD v souvislosti s mimořádnou schůzí za „nahnědlou“. Je to kontroverzní, protože jde o silné politické obvinění z extremismu, které dále vyhrocuje vztahy mezi opozicí a vládní koalicí.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/01:45",
+      "screenshot_path": "summaries/screenshots/event_2908_controversy_00.jpg",
+      "context": "Označení za „nahnědlou“ je politická nálepka, nikoliv právní či faktografická klasifikace. Kontextem je vyhrocená debata v Poslanecké sněmovně, kde se opozice a vládní koalice vzájemně obviňují z radikalizace politického diskurzu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

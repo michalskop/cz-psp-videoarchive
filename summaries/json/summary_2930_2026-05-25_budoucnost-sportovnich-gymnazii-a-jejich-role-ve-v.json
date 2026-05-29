@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-26T14:42:26",
+  "created_at": "2026-05-29T15:16:30",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2930",
@@ -13,23 +13,24 @@
     ]
   },
   "transcription": {
-    "parts_transcribed": 13,
-    "parts_total": 13,
+    "parts_transcribed": 14,
+    "parts_total": 14,
     "source": "whisper",
     "model": "large-v3"
   },
   "summary": {
-    "topic": "Jednání se věnovalo problematice skloubení vrcholového sportu a vzdělávací dráhy mladých talentů v České republice. Cílem kulatého stolu bylo identifikovat systémové nedostatky v současném nastavení sportovních gymnázií a středních škol.\n\nÚčastníci se shodli, že v ČR chybí jednotný systém podpory a síť škol je nastavena velmi liberálně, což vede k velké nevyváženosti mezi kraji, jednotlivými školami a sportovními svazy.",
+    "topic": "Jednání kulatého stolu se zaměřilo na problematiku skloubení vrcholového sportu a vzdělávací dráhy mladých talentů v České republice. Hlavním cílem bylo identifikovat systémové nedostatky v současném nastavení sportovních gymnázií a středních odborných škol, které sportovcům poskytují (nebo neposkytují) podmínky pro studium při náročném tréninkovém režimu.\n\nÚčastníci diskutovali o absenci jednotného systému, nevyvážené podpoře ze strany zřizovatelů (krajů) a ředitelů škol a o nutnosti vytvořit legislativní či metodické rámce, které by sportovcům umožnily studovat bez nutnosti volby mezi sportovní kariérou a vzděláním. Jednání sloužilo jako „výkop“ pro další debaty, které mají vést k návrhům legislativních změn a lepší koordinaci mezi sportovními svazy, školami a zřizovateli.",
     "main_points": [
-      "**Renata (poslankyně)** — Iniciátorka debaty; zdůraznila potřebu systémové podpory nezávislé na osobní iniciativě ředitelů.",
-      "**Jakub Janda (poslanec)** — Cílem je funkční síť škol ve spádových oblastech a zapojení odborných středních škol.",
-      "**Karel Kovář (NSA)** — Upozornil na absenci systémového financování a gesci zřizovatelů.",
-      "**Simona Náhončíková (Asociace krajů)** — Nabídla spolupráci prostřednictvím Komise pro školství a sport.",
-      "**Dr. Hrušková (ředitelka)** — Prezentovala model individuálních plánů v odborné škole; varovala před přetížením pedagogů.",
-      "**Zástupci sportovních svazů** — Shodli se na problémech s absencemi, neochotou ředitelů a nutností formální role svazů."
+      "**Renata (poslankyně)** — zdůraznila fragmentaci systému a potřebu najít nový způsob podpory mladé generace sportovců.",
+      "**Jakub Janda (poslanec)** — navrhl vytvoření rozumné sítě škol ve spádových oblastech a alternativy skrze odborné střední školy.",
+      "**Karel Kovář (Národní sportovní agentura)** — konstatoval absenci pevného systému a financování. Očekává od svazů definici potřeb do poloviny roku 2027.",
+      "**Simona Náhončíková (Asociace krajů ČR)** — nabídla spolupráci prostřednictvím Komise pro školství a sport.",
+      "**Dr. Hrušková (ředitelka školy)** — prezentovala model úspěšné kooperace školy se sportovními kluby, zdůraznila roli osobního přístupu ředitele.",
+      "**Zástupci sportovních svazů** — shodli se na problémech s absencemi, neochotou škol akceptovat individuální plány a nedostatkem formální role svazů.",
+      "**Zdeněk Ledvina (zástupce ředitele)** — upozornil na nutnost kultivovat i sportovní prostředí a trenéry."
     ],
-    "outcome": "Formální rozhodnutí nebylo přijato. Shoda panuje na nutnosti vytvořit databázi sportovců, zvážit pozici sportovního koordinátora na krajích, sjednotit pravidla pro absence a pokračovat v debatě s řediteli škol.",
-    "notes": "Přepis obsahuje 13 částí, záznam je srozumitelný, ačkoliv obsahuje drobné chyby v přepisu jmen a názvů."
+    "outcome": "Formální rozhodnutí nebylo přijato, jednání bylo koncipováno jako analytické. Dominujícím postojem je shoda na nutnosti:\n* Vytvořit databázi sportovců na středních školách.\n* Zvážit zavedení pozice sportovního koordinátora na úrovni krajů.\n* Upravit legislativu ohledně omlouvání absencí pro vrcholové sportovce.\n* Vytvořit formálnější vztah mezi sportovními svazy a školami.\n* Pokračovat v debatě s řediteli škol na dalším kulatém stole.",
+    "notes": null
   },
   "entities": {
     "speakers": [
@@ -59,60 +60,54 @@
         "affiliation": "Střední škola Sezimovo Ústí"
       },
       {
-        "name": "Aleš Křeček",
-        "person_id": "psp:person:5500",
-        "affiliation": "Český atletický svaz"
+        "name": "Zdeněk Ledvina",
+        "person_id": null,
+        "affiliation": "Sportovní gymnázium"
       }
     ],
-    "parties": [
-      "Poslanecká sněmovna"
-    ],
+    "parties": [],
     "institutions": [
+      "Poslanecká sněmovna",
       "Národní sportovní agentura",
-      "Asociace krajů ČR",
-      "Český atletický svaz"
+      "Asociace krajů ČR"
     ]
   },
   "highlights": [
     {
-      "text": "My jsme se dostali do situace, kdy se v prváku na stole sešlo dvě stě žádostí o omluvení z tělesné výchovy, protože děti prostě nechtějí cvičit.",
-      "type": "paraphrase",
-      "speaker": "Dr. Hrušková",
-      "affiliation": "Střední škola Sezimovo Ústí",
-      "timestamp": "9/06:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_highlight_00.jpg"
-    },
-    {
-      "text": "Analýzy odchodu našich studentů do Spojených států jsou pro nás jako atlety katastrofální, protože jsme do nich investovali peníze z programů talentované mládeže a oni pak odejdou.",
-      "type": "paraphrase",
-      "speaker": "Aleš Křeček",
-      "affiliation": "Český atletický svaz",
-      "timestamp": "4/06:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_highlight_01.jpg"
-    },
-    {
-      "text": "V České republice v současné době žádný pevný systém podpory sportovních gymnázií ani pevnou síť škol nemáme.",
+      "text": "V České republice v současné době žádný pevný systém podpory sportovců ve školství nemáme, ani pevnou síť škol.",
       "type": "citation",
       "speaker": "Karel Kovář",
       "affiliation": "Národní sportovní agentura",
-      "timestamp": "2/02:04",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_highlight_02.jpg"
+      "timestamp": "2/00:00",
+      "screenshot_path": "summaries/screenshots/event_2930_highlight_00.jpg",
+      "context": "Tvrzení je částečně zavádějící. Existuje systém sportovních tříd a škol se sportovním zaměřením (vymezeno v zákoně č. 561/2004 Sb., školský zákon), nicméně chybí ucelený celostátní systém podpory pro individuální sportovce mimo tyto vybrané školy."
+    },
+    {
+      "text": "Pro každého ředitele je obrovská zátěž mít ve své škole reprezentanta, protože je to o obrovských absencích a individuální práci každého učitele.",
+      "type": "citation",
+      "speaker": "Dr. Hrušková",
+      "affiliation": "Střední škola Sezimovo Ústí",
+      "timestamp": "4/10:00",
+      "context": "Tvrzení odpovídá realitě běžných škol, kde neexistuje legislativní nárok na úlevy pro sportovce. Individuální vzdělávací plán (IVP) je dle školského zákona v kompetenci ředitele školy, což pro pedagogy znamená zvýšenou administrativní i pedagogickou zátěž."
+    },
+    {
+      "text": "My nemáme data o tom, kolik máme vrcholových sportovců na běžných školách.",
+      "type": "paraphrase",
+      "speaker": "Renata",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "9/00:00",
+      "screenshot_path": "summaries/screenshots/event_2930_highlight_02.jpg",
+      "context": "Tvrzení je fakticky správné. Ministerstvo školství, mládeže a tělovýchovy (MŠMT) ani Národní sportovní agentura (NSA) nevedou centrální evidenci vrcholových sportovců integrovaných do běžného vzdělávacího systému."
     }
   ],
   "controversial": [
     {
-      "statement": "**Zdeněk Ledvina** upozornil na existenci „psychopatických trenérů“, kteří ignorují vzdělání svých svěřenců. Je to citlivé téma, protože přenáší vinu za neúspěch skloubení studia a sportu i na sportovní prostředí.",
+      "statement": "**Kdo:** Zdeněk Ledvina (zástupce ředitele sportovního gymnázia)\n**Co:** Upozornil na existenci „psychopatických trenérů“, kteří vyžadují, aby škola šla stranou a sportovec se neučil.\n**Proč:** Je to kontroverzní, protože to přenáší vinu za neúspěch studenta i na trenéry a sportovní kluby, což je v rozporu s narativem, že za vše mohou „neochotní ředitelé“.\n**Čas:** 8/02:01",
       "speaker": "Zdeněk Ledvina",
-      "affiliation": null,
+      "affiliation": "Sportovní gymnázium",
       "timestamp": "8/02:01",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_controversy_00.jpg"
-    },
-    {
-      "statement": "**Dr. Hrušková** označila povinnou tělesnou výchovu na středních školách za neefektivní, kde polovina žáků má omluvenky a zbytek se směje těm, kteří cvičí. Jde o přímou kritiku školského systému.",
-      "speaker": "Dr. Hrušková",
-      "affiliation": "Střední škola Sezimovo Ústí",
-      "timestamp": "9/06:03",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2930_controversy_01.jpg"
+      "screenshot_path": "summaries/screenshots/event_2930_controversy_00.jpg",
+      "context": "Jde o subjektivní hodnocení profesní etiky trenérů, které nelze nezávisle ověřit statistikami. Konflikt mezi sportovní kariérou a vzdělávacími nároky je dlouhodobým systémovým problémem, kde střet zájmů mezi klubem a školou není legislativně ošetřen."
     }
   ],
   "quality": {

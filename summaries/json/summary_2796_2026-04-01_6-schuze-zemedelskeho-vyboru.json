@@ -1,7 +1,7 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T12:59:19",
-  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "created_at": "2026-05-29T14:04:24",
+  "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2796",
     "name": "6. schůze Zemědělského výboru",
@@ -19,49 +19,94 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Projednání vládního návrhu zákona o rostlinolékařské péči a informace o aktuálním stavu projednávání novely stavebního zákona.",
+    "topic": "Hlavním účelem 6. schůze Zemědělského výboru bylo projednání vládního návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči (sněmovní tisk 48), a dále diskuse o aktuálním stavu projednávání novely stavebního zákona z pohledu resortu zemědělství, zejména v oblastech vodního a lesního hospodářství.\n\nCílem jednání bylo schválit pozměňovací návrhy k novele zákona o rostlinolékařské péči a získat informace o stavu vyjednávání komplexního pozměňovacího návrhu ke stavebnímu zákonu, aby byly zajištěny zájmy zemědělců a vlastníků lesů.",
     "main_points": [
-      {
-        "David Pražák (Zemědělský výbor)": "Předložil vládní návrh zákona a informoval o 10 pozměňovacích návrzích."
-      },
-      {
-        "Martin Šebestian (Ministerstvo zemědělství)": "Seznámil s aktuálním stavem projednávání novely stavebního zákona a informoval o dohodách týkajících se lesního a vodního zákona."
-      }
+      "**Martin Šebestian (ministr zemědělství)** — Prezentoval stav projednávání stavebního zákona. Uvedl, že v nové verzi komplexního pozměňovacího návrhu nedochází k integraci úředníků státní správy lesů a vodoprávních úřadů.",
+      "**David Pražák (poslanec, zpravodaj)** — Představil 10 pozměňovacích návrhů k tisku 48 (rostlinolékařská péče), které se týkají mj. používání dronů, evidence přípravků na ochranu rostlin a ochrany ekologického zemědělství.",
+      "**Hana Landová (vládní zmocněnkyně)** — Informovala o probíhajících jednáních mezi resorty. Uvedla, že se podařilo odstranit duplicitní procesy a zefektivnit stavební řízení.",
+      "**Petr Bendl (místopředseda výboru)** — Kritizoval způsob přípravy stavebního zákona a navrhl, aby se ohradníky pro hospodářská zvířata definovaly jako stavby nevyžadující povolení.",
+      "**Jan Kučera (poslanec)** — Dotazoval se na právní sílu vyjádření orgánů zemědělství a podpořil zachování novely zákona č. 114/1992 Sb. v rámci stavebního zákona."
     ],
-    "outcome": "Byl schválen návrh zákona s několika pozměňovacími návrhy.",
-    "notes": "Některé části přepisu mohou být nesrozumitelné nebo chybějící kvůli automatickému přepisu."
+    "outcome": "Výbor schválil všech 10 pozměňovacích návrhů k tisku 48 a přijal usnesení doporučující jeho schválení. K novele stavebního zákona výbor vzal na vědomí informace a požádal o předložení komplexního pozměňovacího návrhu v části vodního a lesního zákona.",
+    "notes": null
   },
   "entities": {
     "speakers": [
       {
-        "name": "David Pražák",
-        "person_id": "psp:person:6527",
-        "affiliation": "Zemědělský výbor"
-      },
-      {
         "name": "Martin Šebestian",
         "person_id": "psp:person:7072",
         "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "David Pražák",
+        "person_id": "psp:person:6527",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Hana Landová",
+        "person_id": "psp:person:88",
+        "affiliation": "Vládní zmocněnkyně"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jan Kučera",
+        "person_id": "psp:person:2388",
+        "affiliation": "Poslanecká sněmovna"
       }
     ],
-    "parties": [],
+    "parties": [
+      "koalice",
+      "opozice"
+    ],
     "institutions": [
       "Zemědělský výbor",
-      "Ministerstvo zemědělství"
+      "Ministerstvo zemědělství",
+      "Ministerstvo pro místní rozvoj"
     ]
   },
   "highlights": [
     {
-      "text": "Byl schválen návrh zákona s několika pozměňovacími návrhy.",
+      "text": "Dnes zaslaná verze komplexního pozměňovacího návrhu v části týkající se lesního a vodního zákona v zásadě odpovídá tomu, co jsme si na jednáních vydiskutovali.",
       "type": "citation",
-      "speaker": null,
-      "affiliation": null,
-      "timestamp": null,
-      "screenshot_path": null,
-      "context": "Nelze nezávisle ověřit."
+      "speaker": "Martin Šebestian",
+      "affiliation": "Ministerstvo zemědělství",
+      "timestamp": "4/00:47",
+      "screenshot_path": "summaries/screenshots/event_2796_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní hodnocení shody mezi předloženým návrhem a předchozími politickými dohodami, které nejsou veřejně dokumentovány v rámci legislativního procesu."
+    },
+    {
+      "text": "Považujeme za důležité, aby se ohradníky pro hospodářská zvířata definitivně vyhlásily za nestavbu, pokud nejsou pevně spojeny se zemí.",
+      "type": "paraphrase",
+      "speaker": "Petr Bendl",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "4/08:00",
+      "screenshot_path": "summaries/screenshots/event_2796_highlight_01.jpg",
+      "context": "Klasifikace ohradníků jako stavby či nestavby je předmětem výkladové praxe stavebních úřadů podle zákona č. 183/2006 Sb. (stavební zákon). Návrh na legislativní ukotvení „nestavby“ u mobilních ohradníků je politickým požadavkem na změnu právní interpretace, nikoliv stávající zákonný stav."
+    },
+    {
+      "text": "Podařilo se nám identifikovat některé duplicitní procesy, které jsme zrušili, což velmi výrazně zrychlí stavební řízení.",
+      "type": "citation",
+      "speaker": "Hana Landová",
+      "affiliation": "Vládní zmocněnkyně",
+      "timestamp": "6/06:00",
+      "screenshot_path": "summaries/screenshots/event_2796_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Efektivita zrychlení stavebního řízení v důsledku rušení duplicit je předmětem odborných analýz a bude prokazatelná až po určité době účinnosti novely stavebního zákona prostřednictvím dat o délce správních řízení."
     }
   ],
-  "controversial": [],
+  "controversial": [
+    {
+      "statement": "Zahrnutí novely zákona č. 114/1992 Sb. (ochrana přírody) do stavebního zákona. David Pražák označil novelu za „průšvih“ a „přílepek“, zatímco Jan Kučera ji obhajoval jako nezbytnou pro druhovou ochranu.",
+      "speaker": "David Pražák, Jan Kučera",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "7/02:15",
+      "screenshot_path": "summaries/screenshots/event_2796_controversy_00.jpg",
+      "context": "Zákon č. 114/1992 Sb. je klíčovou normou pro ochranu přírody. Označení „přílepek“ odkazuje na legislativní techniku vkládání nesouvisejících změn do jiných zákonů, což je v rozporu s nálezy Ústavního soudu (např. Pl. ÚS 77/06), pokud změny věcně nesouvisejí s hlavním obsahem zákona."
+    }
+  ],
   "quality": {
     "transcript_quality": "good",
     "unintelligible_parts": false

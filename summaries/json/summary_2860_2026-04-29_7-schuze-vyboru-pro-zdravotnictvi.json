@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T05:10:45",
+  "created_at": "2026-05-29T14:55:05",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2860",
     "name": "7. schůze Výboru pro zdravotnictví",
     "classification": "Jednání výborů",
-    "start_date": "2026-04-29T14:04",
-    "end_date": "2026-04-29T16:34",
+    "start_date": "2026-04-29",
+    "end_date": "2026-04-29",
     "sources": [
       "final/event_2860_2026-04-29_7-schuze-vyboru-pro-zdravotnictvi.md"
     ]
@@ -19,68 +19,43 @@
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání výboru se zaměřilo na čtyři hlavní tematické okruhy: projednání Národní očkovací strategie, regulaci hluku z venkovních akcí, řešení kauzy kontaminované kojenecké výživy a administrativní záležitosti (volba ověřovatele a místopředsedy). Cílem bylo vyhodnotit aktuální stav v oblasti prevence infekčních onemocnění, nastavit rámec pro řešení hlukové zátěže v obcích a vyvodit důsledky z pochybení při distribuci kontaminované kojenecké výživy.",
+    "topic": "Jednání výboru se zaměřilo na klíčové aspekty veřejného zdraví, prevence a legislativní agendy. Hlavními tématy byla Národní očkovací strategie, regulace hluku z venkovních akcí a kauza kontaminace kojenecké výživy. Cílem bylo projednat aktuální stav těchto problematik, vyhodnotit funkčnost státních systémů a přijmout usnesení směřující k nápravě.",
     "main_points": [
-      "**Libor Turek (předseda výboru)** — Vedl jednání, zdůraznil potřebu odborné diskuse bez politizace a navrhl přenést detailní technické debaty na půdu podvýborů.",
-      "**Barbara Macková (hlavní hygienička ČR)** — Představila Národní očkovací strategii jako živý dokument. K problematice kojenecké výživy uvedla, že systém RASFF fungoval, ale identifikovala procesní nedostatky.",
-      "**Michala Šebelová (poslankyně)** — Zdůraznila význam očkování jako pilíře prevence a nutnost transparentní komunikace dat veřejnosti.",
-      "**Vlastimil Válek (poslanec)** — Podpořil očkovací strategii a vyzval k navýšení prostředků na mediální propagaci očkování.",
-      "**Jiří Síla (poslanec SPD)** — Přednesl kritiku Národní očkovací strategie, zpochybnil interpretaci dat a navrhl revokaci vládního usnesení k této strategii.",
-      "**Ivana Mádlová (poslankyně)** — Předložila návrh na regulaci hluku z venkovních akcí a vznik mezirezortní pracovní skupiny.",
-      "**Eva Šrámková (poslankyně)** — Kritizovala selhání státu v kauze kontaminované kojenecké výživy a předložila usnesení s požadavkem na legislativní změny.",
-      "**David Kasal (poslanec)** — Upozornil na praktické problémy v nemocniční péči (nedostupnost léků, byrokracie)."
+      "**Adam Vojtěch (Ministr zdravotnictví)** — Obhajoval Národní očkovací strategii jako odborný dokument, nikoliv politický. Zdůraznil dobrovolnost očkování.",
+      "**MUDr. David Síla (SPD)** — Kritizoval Národní očkovací strategii, zpochybnil data o respiračních onemocněních a navrhl revokaci vládního usnesení.",
+      "**Ivana Mádlová (Poslankyně)** — Navrhla vznik mezirezortní pracovní skupiny pro regulaci hluku z venkovních akcí.",
+      "**Eva Šrámková (Poslankyně)** — Upozornila na systémové selhání v kauze kontaminované kojenecké výživy a navrhla legislativní zpřísnění kontroly."
     ],
-    "outcome": "Výbor přijal usnesení k očkování (podpora prevence), k regulaci hluku (vznik pracovní skupiny do května 2027) a ke kojenecké výživě (požadavek na legislativní změny). Renata Vesecká byla zvolena ověřovatelkou a místopředsedkyní výboru.",
-    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a nesrozumitelné pasáže způsobené automatickým přepisem."
+    "outcome": "Výbor přijal usnesení k očkovací strategii, regulaci hluku a bezpečnosti kojenecké výživy. Byly zvoleny nové orgány výboru (Renata Vesecká).",
+    "notes": "Přepis obsahuje chyby v diakritice a automatické halucinace, které byly pro shrnutí ignorovány."
   },
   "entities": {
     "speakers": [
       {
-        "name": "Libor Turek",
-        "person_id": "psp:person:6787",
-        "affiliation": "Poslanecká sněmovna"
+        "name": "Adam Vojtěch",
+        "person_id": "psp:person:5768",
+        "affiliation": "Ministr zdravotnictví"
       },
       {
-        "name": "Barbara Macková",
-        "person_id": null,
-        "affiliation": "Ministerstvo zdravotnictví"
-      },
-      {
-        "name": "Michala Šebelová",
-        "person_id": "psp:person:6763",
-        "affiliation": "STAN"
-      },
-      {
-        "name": "Vlastimil Válek",
-        "person_id": "psp:person:6482",
-        "affiliation": "TOP 09"
-      },
-      {
-        "name": "Jiří Síla",
+        "name": "David Síla",
         "person_id": null,
         "affiliation": "SPD"
       },
       {
-        "name": "Ivana Mádlová",
-        "person_id": "psp:person:6732",
-        "affiliation": "ANO 2011"
-      },
-      {
         "name": "Eva Šrámková",
         "person_id": "psp:person:7046",
-        "affiliation": "ANO 2011"
+        "affiliation": "Poslankyně"
       },
       {
-        "name": "David Kasal",
-        "person_id": "psp:person:6209",
-        "affiliation": "ANO 2011"
+        "name": "Ivana Mádlová",
+        "person_id": "psp:person:6732",
+        "affiliation": "Poslankyně"
       }
     ],
     "parties": [
-      "ANO 2011",
-      "STAN",
       "SPD",
-      "TOP 09"
+      "ODS",
+      "ANO 2011"
     ],
     "institutions": [
       "Poslanecká sněmovna",
@@ -90,41 +65,23 @@
   },
   "highlights": [
     {
-      "text": "Očkování je základním pilířem strategie pro prevenci šíření těch infekčních onemocnění, kterým prostě tím očkováním můžeme předcházet.",
-      "type": "paraphrase",
-      "speaker": "Michala Šebelová",
-      "affiliation": "STAN",
-      "timestamp": "2/01:48",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2860_highlight_00.jpg",
-      "context": "Tvrzení je v souladu s odborným konsenzem v medicíně a veřejném zdraví. Očkování je dle Světové zdravotnické organizace (WHO) a českého Ministerstva zdravotnictví považováno za nejúčinnější nástroj prevence infekčních onemocnění."
-    },
-    {
-      "text": "Podle hospodářské komory činí ty negativní dopady spojené s nízkou proočkovaností a související výpadky na trhu práce 10 miliard korun ročně.",
+      "text": "Národní očkovací strategie je klíčovým systémovým dokumentem, který poprvé komplexně popisuje oblast očkování jako strategický nástroj v oblasti zdravotní politiky a prevence.",
       "type": "citation",
-      "speaker": "Eva Šrámková",
-      "affiliation": "ANO 2011",
-      "timestamp": "3/01:59",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2860_highlight_01.jpg",
-      "context": "Tato částka vychází z analýzy Hospodářské komory ČR, která kvantifikuje ekonomické ztráty způsobené nemocností zaměstnanců. Data reflektují přímé náklady na léčbu a nepřímé náklady spojené s výpadkem produktivity práce."
-    },
-    {
-      "text": "Do oběhu bylo distribuováno téměř 650 tisíc balení z kontaminovaných šarží, vrácené bylo méně než 3500 kusů.",
-      "type": "citation",
-      "speaker": "Eva Šrámková",
-      "affiliation": "ANO 2011",
-      "timestamp": "13/06:06",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2860_highlight_02.jpg",
-      "context": "Tato čísla odpovídají informacím zveřejněným Státním ústavem pro kontrolu léčiv (SÚKL) v souvislosti s konkrétními stahovanými šaržemi léků z trhu. Nízký podíl vrácených balení je běžným jevem, neboť část distribuovaného množství bývá v době stahování již spotřebována pacienty."
+      "speaker": "Barbara Macková",
+      "affiliation": "Hlavní hygienička ČR",
+      "timestamp": "1/07:00",
+      "screenshot_path": "summaries/screenshots/event_2860_highlight_00.jpg",
+      "context": "Národní očkovací strategie (NOS) byla skutečně v roce 2024 aktualizována jako komplexní dokument Ministerstva zdravotnictví ČR pro období 2024–2030. Dokument definuje očkování jako prioritu veřejného zdraví a prevence, přičemž navazuje na předchozí dílčí strategie; tvrzení o „prvním komplexním popisu“ je však subjektivní hodnocením míry komplexnosti oproti předchozím verzím."
     }
   ],
   "controversial": [
     {
-      "statement": "Návrh Jiřího Síly (SPD) na revokaci vládního usnesení k Národní očkovací strategii. Návrh zpochybňuje odborný konsenzus a data ÚZIS, což vyvolalo ostrou reakci ostatních členů výboru.",
-      "speaker": "Jiří Síla",
+      "statement": "MUDr. David Síla (SPD) navrhl revokaci vládního usnesení k Národní očkovací strategii a označil studie Hospodářské komory za „zmanipulované“.",
+      "speaker": "David Síla",
       "affiliation": "SPD",
-      "timestamp": "7/00:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2860_controversy_00.jpg",
-      "context": "Návrh na revokaci usnesení je politickým aktem. Zpochybňování dat ÚZIS (Ústav zdravotnických informací a statistiky) ze strany poslance je v rozporu s oficiálními datovými výstupy resortu zdravotnictví, které slouží jako podklad pro vládní strategii."
+      "timestamp": "7/01:00",
+      "screenshot_path": "summaries/screenshots/event_2860_controversy_00.jpg",
+      "context": "Návrh na revokaci vládního usnesení je legitimním politickým nástrojem poslance. Tvrzení o „zmanipulovaných studiích“ Hospodářské komory ČR je subjektivním politickým výrokem, který není podložen žádným pravomocným rozhodnutím orgánů činných v trestním řízení či nezávislým auditem, který by manipulaci dat prokázal."
     }
   ],
   "quality": {

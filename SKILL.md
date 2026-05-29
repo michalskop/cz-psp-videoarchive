@@ -1,4 +1,4 @@
-# PSP Video Archive — Agent Skill
+# Sněmovna Digest — Agent Skill
 
 This site provides AI-structured summaries of public Czech Parliament (PSP) events: seminars, conferences, round tables, committee meetings, and press conferences. All data is derived from official PSP recordings and transcripts.
 

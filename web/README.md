@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sněmovna Digest — web frontend
 
-## Getting Started
+Next.js static-export app for browsing AI-structured summaries of Czech Parliament events.
 
-First, run the development server:
+**Live (testing):** `https://michalskop.github.io/cz-psp-videoarchive/`  
+**Production (Stage 2):** `https://snemovna.datatimes.cz/digest`
+
+## Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+cd web
+npm install
+npm run dev       # http://localhost:3000
+npm run build     # static export → out/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Data is read at build time from `../summaries/json/*.json` (one level up).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build & deploy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+GitHub Actions (`.github/workflows/deploy.yml`) triggers on push to `main` when
+`web/**` or `summaries/json/**` change. It copies summary JSONs into
+`web/public/summaries/`, builds with `NEXT_PUBLIC_BASE_PATH=/cz-psp-videoarchive`,
+and deploys to GitHub Pages.
 
-## Learn More
+## Environment
 
-To learn more about Next.js, take a look at the following resources:
+| Variable | Purpose | GitHub Pages value |
+|----------|---------|-------------------|
+| `NEXT_PUBLIC_BASE_PATH` | URL prefix for all assets and links | `/cz-psp-videoarchive` |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+For production (Stage 2 Vercel), set `NEXT_PUBLIC_BASE_PATH=/digest`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Stack
 
-## Deploy on Vercel
+- Next.js App Router, `output: "export"` (static)
+- Tailwind CSS v4 with custom DataTimes palette (`app/globals.css`)
+- Fonts: Roboto Slab + Work Sans (Google Fonts)
+- OG images: `next/og` with `ImageResponse`, pre-rendered at build time
+- Analytics: Matomo (`//matomo.kohovolit.eu/`, siteId 2)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Key files
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Path | Purpose |
+|------|---------|
+| `app/layout.tsx` | Root layout, metadata, Matomo |
+| `app/page.tsx` | Homepage (recent events) |
+| `app/events/page.tsx` | Full event list (server component) |
+| `app/events/EventsList.tsx` | Client component — category filter + month grouping |
+| `app/events/[id]/page.tsx` | Event detail page |
+| `app/components/PspLogotype.tsx` | Universal `Sněmovna.DataTimes.cz/digest` logotype |
+| `app/components/HighlightCard.tsx` | Social-shareable highlight card |
+| `app/components/ControversyCard.tsx` | Social-shareable controversy card |
+| `app/components/RenderMd.tsx` | Minimal markdown renderer (bold + bullet lists) |
+| `lib/summaries.ts` | Server-only data loader (`fs` → JSON) |
+| `lib/types.ts` | Client-safe types and pure helpers |

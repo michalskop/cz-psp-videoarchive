@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:58:35",
+  "created_at": "2026-05-29T15:34:51",
   "model_hint": "gemini-3.1-flash-lite",
   "event": {
     "id": "2817",
@@ -21,14 +21,14 @@
   "summary": {
     "topic": "Tisková konference hnutí SPD byla zaměřena na prezentaci legislativních priorit vládní koalice, úsporná opatření v rámci Poslanecké sněmovny a vyjádření k aktuálním společenským a bezpečnostním tématům. Cílem bylo informovat veřejnost o konkrétních návrzích zákonů, které mají za úkol zpřísnit podmínky pro cizince, zvýšit tresty za vybrané trestné činy, podpořit rodiny a zajistit energetickou bezpečnost.\n\nSoučástí konference byla i kritika opozičních postojů a obhajoba vládních kroků v oblasti očkovací strategie a regulace cen pohonných hmot.",
     "main_points": [
-      "**Tomio Okamura (SPD)** — Prezentoval úspory na zahraničních cestách (700 tis. Kč za kvartál), návrh na zpřísnění trestů za znásilnění a týrání zvířat, zpřísnění pobytu cizinců, ústavní právo na hotovost a legislativní nouzi pro regulaci cen pohonných hmot.",
-      "**Radek Koten (SPD)** — Představil novelu zákona o pobytu cizinců (digitalizace, odpovědnost garantů) a kritizoval bezpečnostní situaci v souvislosti s nálezy trhavin u cizinců.",
-      "**Lucie Šafránková (SPD)** — Informovala o čerpání rodičovského příspěvku před porodem, prodloužení příspěvku na mobilitu a návrzích SPD v Brně (nesouhlas se Sudetoněmeckým sněmem, zrušení dotací pro Meeting Brno).",
-      "**Jan Síla (SPD)** — Obhajoval dobrovolnost očkování a kritizoval vliv farmaceutických firem na Národní očkovací strategii.",
-      "**Marie Pošarová (SPD)** — Podpořila novelu zákona o podpoře bydlení, která omezuje poradenství obcí pouze na občany s trvalým pobytem."
+      "**Tomio Okamura (SPD)** — Prezentoval úspory na zahraničních cestách (700 tis. Kč za 3 měsíce), návrhy na zpřísnění trestů za týrání zvířat a znásilnění, zpřísnění pobytu cizinců, zvýšení rodičovského příspěvku na 400 tis. Kč, ukotvení práva na hotovost v ústavě a zrušení poplatků ČT. Vyhlásil legislativní nouzi pro regulaci cen pohonných hmot.",
+      "**Radek Koten (SPD)** — Představil novelu zákona o pobytu cizinců (digitalizace, registrace občanů EU). Upozornil na nález trhaviny u cizinců a kritizoval tajné služby.",
+      "**Lucie Šafránková (SPD)** — Navrhuje čerpání rodičovského příspěvku 2 měsíce před porodem. V Brně prosazuje nesouhlas se Sudetoněmeckým sněmem a ukončení dotací pro spolek Meeting Brno.",
+      "**Jan Síla (SPD)** — Odmítl nařčení z rušení očkování, kritizoval Národní očkovací strategii jako nástroj farmaceutické lobby.",
+      "**Marie Pošarová (SPD)** — Podporuje novelu zákona o podpoře bydlení, která omezuje poradenství obcí pouze na občany s trvalým pobytem a zranitelné skupiny."
     ],
-    "outcome": "Jednání bylo informativní. Hnutí SPD potvrdilo svůj záměr prosadit legislativní změny v oblasti bezpečnosti, sociální podpory a regulace cen. Byla avizována mimořádná schůze sněmovny k zákonu o cenách pohonných hmot a zdůrazněna potřeba pokračovat v jednáních v rámci vládní koalice.",
-    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a opakujícím se frázím, nicméně hlavní politické postoje jsou z kontextu zřetelné."
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací politického programu SPD v rámci vládní koalice. Dominujícím postojem je důraz na suverenitu státu, zpřísnění pravidel pro cizince, ochranu tradičních hodnot a ekonomickou pomoc občanům. SPD se vymezuje proti vlivu EU a farmaceutických firem v oblasti očkování.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nedokonalosti. Části týkající se školství nebyly zodpovězeny z důvodu nepřítomnosti příslušného experta."
   },
   "entities": {
     "speakers": [
@@ -56,11 +56,6 @@
         "name": "Marie Pošarová",
         "person_id": "psp:person:6745",
         "affiliation": "SPD"
-      },
-      {
-        "name": "Jan Socha",
-        "person_id": "psp:person:3914",
-        "affiliation": "CNN Prima News"
       }
     ],
     "parties": [
@@ -71,8 +66,8 @@
       "Ministerstvo spravedlnosti",
       "Ministerstvo zemědělství",
       "Evropská unie",
-      "WHO",
-      "Zastupitelstvo města Brna"
+      "Česká televize",
+      "WHO"
     ]
   },
   "highlights": [
@@ -82,49 +77,50 @@
       "speaker": "Tomio Okamura",
       "affiliation": "SPD",
       "timestamp": "1/00:31",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_highlight_00.jpg",
-      "context": "Výdaje na zahraniční cesty vedení Poslanecké sněmovny jsou veřejně dostupné v rámci rozpočtu kapitoly Poslanecké sněmovny. Nelze nezávisle ověřit bez přístupu k detailnímu účetnictví za konkrétní srovnávaná období, neboť výdaje mohou být ovlivněny aktuální mezinárodní situací a počtem oficiálních delegací."
+      "screenshot_path": "summaries/screenshots/event_2817_highlight_00.jpg",
+      "context": "Výdaje na zahraniční cesty vedení Poslanecké sněmovny jsou veřejně dostupné v rozpočtových kapitolách Kanceláře Poslanecké sněmovny. Tvrzení o 700 000 Kč za první tři měsíce a srovnání s předchozím obdobím lze ověřit v účetních výkazech sněmovny, nicméně je nutné zohlednit rozdílnou intenzitu zahraničních aktivit v různých letech."
     },
     {
-      "text": "Nově bude možné čerpat rodičovský příspěvek už dva měsíce před porodem, a to ve výši 15 000 Kč měsíčně.",
+      "text": "My nechceme, aby se za znásilnění udělaly podmínky.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/02:20",
+      "screenshot_path": "summaries/screenshots/event_2817_highlight_01.jpg",
+      "context": "Trestní zákoník (zákon č. 40/2009 Sb.) v § 185 stanoví trestní sazby za znásilnění. Soudy mají při ukládání trestů zákonnou možnost volby mezi nepodmíněným trestem odnětí svobody a podmíněným trestem v závislosti na konkrétních okolnostech případu; tvrzení je tedy politickým vyjádřením postoje k soudní praxi, nikoliv popisem platné legislativy."
+    },
+    {
+      "text": "Zásadně nesouhlasíme s konáním Sudetoněmeckého sněmu na území města Brna.",
       "type": "citation",
       "speaker": "Lucie Šafránková",
       "affiliation": "SPD",
-      "timestamp": "1/11:06",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_highlight_01.jpg",
-      "context": "Podle platné legislativy (zákon č. 117/1995 Sb., o státní sociální podpoře) rodičovský příspěvek náleží od narození dítěte. Návrh na čerpání před porodem není součástí platného zákona, jde o politický návrh SPD, nikoliv o platnou právní úpravu."
+      "timestamp": "1/12:05",
+      "screenshot_path": "summaries/screenshots/event_2817_highlight_02.jpg",
+      "context": "Sudetoněmecký sněm (Sudetendeutscher Tag) je tradiční akce Sudetoněmeckého krajanského sdružení, která se koná primárně v Německu. Politický nesouhlas s konáním akce v Brně je legitimním politickým postojem, nikoliv faktickým tvrzením o probíhající události."
     },
     {
-      "text": "Chceme, aby zastupitelstvo Brna zásadně nesouhlasilo s konáním Sudetoněmeckého sněmu na území města.",
-      "type": "paraphrase",
-      "speaker": "Lucie Šafránková",
+      "text": "Kritika Národní očkovací strategie z naší strany však není politická, ale odborná medicínská, ekonomická, etická a právní.",
+      "type": "citation",
+      "speaker": "Jan Síla",
       "affiliation": "SPD",
-      "timestamp": "1/12:10",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_highlight_02.jpg",
-      "context": "Jde o politický požadavek, nikoliv o právní skutečnost. Rozhodování o konání akcí na území města je v kompetenci samosprávy Brna a pořadatelů, přičemž konání takových akcí podléhá zákonu o právu shromažďovacím."
+      "timestamp": "1/16:24",
+      "screenshot_path": "summaries/screenshots/event_2817_highlight_03.jpg",
+      "context": "Národní očkovací strategie je strategický dokument Ministerstva zdravotnictví ČR. Označení kritiky za „odbornou“ je subjektivní hodnocení; faktickou správnost jednotlivých medicínských či ekonomických argumentů nelze paušálně potvrdit ani vyvrátit bez specifikace konkrétních bodů kritiky."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kontroverzní návrh:** Zrušení dotací pro spolek Meeting Brno a nesouhlas s konáním Sudetoněmeckého sněmu v Brně.\n- **Kdo:** Lucie Šafránková (SPD).\n- **Proč:** Politicky citlivé téma otevírající otázky česko-německých vztahů a historické paměti.\n- **Čas:** 1/12:05",
-      "speaker": "Lucie Šafránková",
-      "affiliation": "SPD",
-      "timestamp": "1/12:05",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_controversy_00.jpg",
-      "context": "Dotace pro spolek Meeting Brno jsou předmětem rozhodování zastupitelstva města Brna. Jde o politickou debatu o prioritách městského rozpočtu a interpretaci historie, nikoliv o faktografický spor."
-    },
-    {
-      "statement": "**Kontroverzní výrok:** Obvinění tajných služeb z nečinnosti („zimní spánek“) v souvislosti s nálezy trhavin u cizinců.\n- **Kdo:** Radek Koten (SPD).\n- **Proč:** Přímé zpochybnění kompetence bezpečnostních složek státu.\n- **Čas:** 1/08:00",
+      "statement": "Radek Koten (SPD) kritizoval tajné služby v souvislosti s nálezem trhaviny u cizinců: „Co v tomto případě dělaly tajné služby, pokud si ovšem ještě neužívají zimní spánek?“",
       "speaker": "Radek Koten",
       "affiliation": "SPD",
-      "timestamp": "1/08:00",
-      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2817_controversy_01.jpg",
-      "context": "Výrok je subjektivním politickým hodnocením práce bezpečnostních složek (BIS, Policie ČR). Činnost tajných služeb podléhá zákonné kontrole ze strany Stálé komise pro kontrolu činnosti BIS, která o jejich aktivitách veřejně neinformuje."
+      "timestamp": "1/09:40",
+      "screenshot_path": "summaries/screenshots/event_2817_controversy_00.jpg",
+      "context": "Činnost zpravodajských služeb (BIS, ÚZSI, VZ) podléhá zákonu č. 153/1994 Sb. a je kontrolována příslušnými parlamentními komisemi. Výrok o „zimním spánku“ je řečnickou nadsázkou, nikoliv ověřitelným faktem o aktuální operativní činnosti tajných služeb."
     }
   ],
   "quality": {
-    "transcript_quality": "partial",
-    "unintelligible_parts": true
+    "transcript_quality": "good",
+    "unintelligible_parts": false
   },
   "extras": null
 }
