@@ -11,6 +11,7 @@ import {
 } from "@/lib/summaries";
 import { CategoryBadge } from "../../components/CategoryBadge";
 import { QualityBadge } from "../../components/QualityBadge";
+import { HighlightCard } from "../../components/HighlightCard";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -122,40 +123,28 @@ export default async function EventPage({ params }: Props) {
       {s.highlights && s.highlights.length > 0 && (
         <section className="mb-8">
           <h2 className="font-slab font-semibold text-lg text-navy-9 mb-4">Výrazné momenty</h2>
-          <div className="flex flex-col gap-5">
+          <div className="flex flex-col gap-6">
             {s.highlights.map((h, i) => (
-              <div key={i} className="border-l-4 border-brand-6 bg-brand-0 rounded-r-lg p-4">
-                {h.screenshot_path && (
-                  <div className="mb-3 rounded overflow-hidden">
-                    <Image
-                      src={h.screenshot_path}
-                      alt={`Screenshot — ${h.speaker}`}
-                      width={800}
-                      height={450}
-                      className="w-full object-cover"
-                      unoptimized
-                    />
-                  </div>
-                )}
-                <blockquote className="font-slab text-base leading-relaxed text-navy-9 mb-2">
-                  &ldquo;{h.text}&rdquo;
-                </blockquote>
-                <footer className="font-sans text-xs text-muted-foreground flex flex-wrap items-center gap-2">
-                  <span className="font-medium text-foreground">{h.speaker}</span>
-                  {h.affiliation && <span>· {h.affiliation}</span>}
-                  <span className="font-mono">· {h.timestamp}</span>
-                  <span className="px-1.5 py-0.5 bg-surface-0 border border-border rounded">
+              <div key={i} className="flex flex-col gap-3">
+                <HighlightCard
+                  highlight={h}
+                  eventName={s.event.name}
+                  category={s.event.classification}
+                />
+                {/* Type tag + context outside the card */}
+                <div className="flex flex-wrap items-start gap-2 pl-1.5">
+                  <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded text-muted-foreground">
                     {h.type === "citation" ? "citace" : "parafráze"}
                   </span>
-                </footer>
-                {h.context && (
-                  <div className="mt-3 bg-teal-0 border-l-2 border-teal-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed">
-                    <span className="font-semibold text-teal-6 uppercase tracking-wide text-[10px] block mb-1">
-                      Kontext
-                    </span>
-                    {h.context}
-                  </div>
-                )}
+                  {h.context && (
+                    <div className="flex-1 bg-teal-0 border-l-2 border-teal-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed">
+                      <span className="font-semibold text-teal-6 uppercase tracking-wide text-[10px] block mb-1">
+                        Kontext
+                      </span>
+                      {h.context}
+                    </div>
+                  )}
+                </div>
               </div>
             ))}
           </div>
