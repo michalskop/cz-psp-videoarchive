@@ -23,6 +23,7 @@ Requires (set in .env or environment):
 
 import csv
 import difflib
+import hashlib
 import json
 import logging
 import os
@@ -49,7 +50,8 @@ if _env_file.exists():
 
 METADATA_FILE = Path("metadata.json")
 SUMMARIES_DIR = Path("summaries")
-FINAL_DIR = Path("final")
+CHUNKS_DIR    = Path("summaries/chunks")   # chunk-note cache for resumable multipass
+FINAL_DIR     = Path("final")
 PROMPT_FILE = Path("prompts/summary.md")
 FACTCHECK_PROMPT_FILE = Path("prompts/factcheck.md")
 SCHEMA_FILE = Path("summary.schema.json")
@@ -61,7 +63,11 @@ GROQ_CHAT_URL     = "https://api.groq.com/openai/v1/chat/completions"
 GEMINI_API_KEY_ENV = "GEMINI_API_KEY"
 GEMINI_CHAT_URL    = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
 
-DEFAULT_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
+DEFAULT_MODEL = "gemini-3.1-flash-lite"
+# Fallback when the primary Gemini model exhausts its daily free-tier quota (500 req/day).
+# Gemma on Groq has ~1500 req/day free tier.
+DEFAULT_FALLBACK_MODEL = "gemma-4-31b-it"  # Google AI (Gemini endpoint), ~1500 req/day free tier
+
 LLM_TEMPERATURE = 0.3
 LLM_MAX_TOKENS = 4096      # minimum output budget for any final-summary call
 LLM_CHUNK_MAX_TOKENS = 3000  # output budget for intermediate chunk notes
@@ -82,6 +88,8 @@ MODEL_TPM: dict[str, int] = {
     # Gemini — 1M context window, single-pass always
     "gemini-3.1-flash-lite":                     500_000,
     "gemini-3.5-flash":                          500_000,
+    # Groq Gemma — fallback when Gemini daily quota (~500 req/day) is exhausted
+    "gemma-4-31b-it":                      14_400,
 }
 DEFAULT_TPM = 6_000
 
@@ -94,8 +102,14 @@ MODEL_MAX_OUTPUT: dict[str, int] = {
     "qwen/qwen3-32b":                             8_192,
     "gemini-3.1-flash-lite":                      8_192,
     "gemini-3.5-flash":                           8_192,
+    "gemma-4-31b-it":                      8_192,
 }
 DEFAULT_MAX_OUTPUT = 8_192
+
+
+class QuotaExhaustedError(RuntimeError):
+    """Raised when the LLM backend signals daily quota exhaustion (not a per-minute rate limit)."""
+
 
 # ── Logging ───────────────────────────────────────────────────────────────────
 
@@ -196,22 +210,56 @@ def _output_tokens(input_chars: int, model: str, min_tokens: int = LLM_MAX_TOKEN
 
 
 def chunk_transcript(text: str, max_chars: int) -> list[str]:
-    """Split transcript into chunks at --- section boundaries, each ≤ max_chars."""
+    """Split transcript into chunks at --- section boundaries, each ≤ max_chars.
+
+    If a single section is larger than max_chars (can happen with very long
+    10-minute blocks), it is further split at paragraph boundaries (\n\n).
+    """
+    def _split_section(sec: str) -> list[str]:
+        """Break an oversized section at paragraph boundaries."""
+        if len(sec) <= max_chars:
+            return [sec]
+        parts: list[str] = []
+        current: list[str] = []
+        current_len = 0
+        for para in sec.split("\n\n"):
+            para_len = len(para) + 2
+            if current and current_len + para_len > max_chars:
+                parts.append("\n\n".join(current))
+                current, current_len = [para], para_len
+            else:
+                current.append(para)
+                current_len += para_len
+        if current:
+            parts.append("\n\n".join(current))
+        return parts
+
     sections = text.split("\n---\n")
     chunks: list[str] = []
     current: list[str] = []
     current_len = 0
     for section in sections:
-        section_len = len(section) + 5  # +5 for the "\n---\n" separator
-        if current and current_len + section_len > max_chars:
-            chunks.append("\n---\n".join(current))
-            current, current_len = [section], section_len
-        else:
-            current.append(section)
-            current_len += section_len
+        sub_sections = _split_section(section)
+        for sub in sub_sections:
+            sub_len = len(sub) + 5
+            if current and current_len + sub_len > max_chars:
+                chunks.append("\n---\n".join(current))
+                current, current_len = [sub], sub_len
+            else:
+                current.append(sub)
+                current_len += sub_len
     if current:
         chunks.append("\n---\n".join(current))
     return chunks
+
+
+def _chunk_cache_path(event_id: str, model: str, i: int, total: int) -> Path:
+    model_safe = re.sub(r"[^\w-]", "_", model)
+    return CHUNKS_DIR / f"event_{event_id}_{model_safe}_{i}of{total}.txt"
+
+
+def _chunk_hash(text: str) -> str:
+    return hashlib.md5(text.encode()).hexdigest()[:12]
 
 
 def multipass_summarize(transcript: str, prompt: str, model: str, event: dict) -> str:
@@ -221,26 +269,38 @@ def multipass_summarize(transcript: str, prompt: str, model: str, event: dict) -
     2. Summarise each chunk into detailed Czech notes (no JSON).
     3. Feed an explicit metadata preamble + all notes to a final call with the full prompt.
 
-    A speech spanning a chunk boundary appears in two consecutive note sections;
-    the final merge pass reconnects it naturally.
+    Chunk notes are cached to disk so a resumed run skips already-completed chunks.
+    Cache files are removed after the final merge succeeds.
     """
     chunk_budget = _max_input_chars(_CHUNK_PROMPT_TOKENS, LLM_CHUNK_MAX_TOKENS, model)
     chunks = chunk_transcript(transcript, chunk_budget)
-    log.info(f"  Multipass: {len(chunks)} chunks (budget {chunk_budget:,} chars/chunk)")
+    total = len(chunks)
+    log.info(f"  Multipass: {total} chunks (budget {chunk_budget:,} chars/chunk)")
 
+    event_id = event["id"]
     header = transcript.split("\n---\n")[0]  # event metadata table + disclaimer
 
-    # Phase 1 — detailed notes per chunk
+    # Phase 1 — detailed notes per chunk (with disk cache for resumability)
+    CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
     notes: list[str] = []
     for i, chunk in enumerate(chunks, 1):
-        log.info(f"  Chunk {i}/{len(chunks)} ({len(chunk):,} chars)")
+        cache = _chunk_cache_path(event_id, model, i, total)
+        chunk_h = _chunk_hash(chunk)
+        if cache.exists():
+            first, _, body = cache.read_text(encoding="utf-8").partition("\n")
+            if first.strip() == chunk_h:
+                log.info(f"  Chunk {i}/{total}: resumed from cache")
+                notes.append(f"## Část {i}/{total}\n\n{body}")
+                continue
+        log.info(f"  Chunk {i}/{total} ({len(chunk):,} chars)")
         note = llm_chat(
-            system=_CHUNK_PROMPT.format(n=i, total=len(chunks)),
+            system=_CHUNK_PROMPT.format(n=i, total=total),
             user=chunk,
             model=model,
             max_tokens=LLM_CHUNK_MAX_TOKENS,
         )
-        notes.append(f"## Část {i}/{len(chunks)}\n\n{note}")
+        cache.write_text(f"{chunk_h}\n{note}", encoding="utf-8")
+        notes.append(f"## Část {i}/{total}\n\n{note}")
 
     # Phase 2 — final structured summary from merged notes.
     # Prepend an explicit metadata block so the model can reliably populate
@@ -261,7 +321,13 @@ def multipass_summarize(transcript: str, prompt: str, model: str, event: dict) -
     merged_notes = preamble + header + "\n\n---\n\n" + "\n\n---\n\n".join(notes)
     out_tokens = _output_tokens(len(merged_notes), model)
     log.info(f"  Output budget: {out_tokens} tokens")
-    return llm_chat(system=prompt, user=merged_notes, model=model, max_tokens=out_tokens)
+    result = llm_chat(system=prompt, user=merged_notes, model=model, max_tokens=out_tokens)
+
+    # Clean up chunk cache now that the merge succeeded
+    for i in range(1, total + 1):
+        _chunk_cache_path(event_id, model, i, total).unlink(missing_ok=True)
+
+    return result
 
 
 _schema_cache: dict | None = None
@@ -357,6 +423,35 @@ def _sorted_event_files(event: dict) -> list[dict]:
         if f.get("local_path") and f.get("downloaded_at")
     ]
     return sorted(files, key=lambda f: f.get("remote_path", ""))
+
+
+_PSP_VIDEO_BASE = "https://videoarchiv.psp.cz/"
+
+
+def _extract_video_parts(event: dict) -> list[dict]:
+    """Build video_parts list (part→URL) for injection into the summary JSON.
+
+    Ordering matches the part numbering in the transcript (same sort key: remote_path,
+    same subset: files with completed transcription).
+    """
+    files = sorted(
+        (
+            f for sub in event.get("subevents", {}).values()
+            for f in sub.get("files", [])
+            if f.get("remote_path") and f.get("transcription_done_at")
+        ),
+        key=lambda f: f["remote_path"],
+    )
+    parts = []
+    for i, f in enumerate(files, 1):
+        entry: dict = {
+            "part": i,
+            "url": _PSP_VIDEO_BASE + f["remote_path"].lstrip("/"),
+        }
+        if f.get("from_sec"):
+            entry["from_sec"] = f["from_sec"]
+        parts.append(entry)
+    return parts
 
 
 def _extract_frame(video_path: Path, time_str: str, out_path: Path) -> bool:
@@ -461,6 +556,16 @@ def _normalize_source(raw: str) -> str:
     return raw  # leave as-is; schema validator will flag it if still invalid
 
 
+def _normalize_highlight_type(raw: str) -> str:
+    """Map Czech/misspelled highlight type strings to schema enum values."""
+    lower = raw.lower().strip()
+    if "paraf" in lower:   # parafrase, parafraze, paráfraze, paraphrase
+        return "paraphrase"
+    if "cit" in lower:     # citace, citát, citation
+        return "citation"
+    return raw
+
+
 def extract_json_block(text: str) -> dict | None:
     """Extract and parse the last ```json … ``` block from an LLM response."""
     matches = list(re.finditer(r"```json\s*(.*?)\s*```", text, re.DOTALL))
@@ -478,7 +583,7 @@ def extract_json_block(text: str) -> dict | None:
 
 def _backend(model: str) -> tuple[str, str]:
     """Return (chat_url, api_key_env_var) for the given model."""
-    if model.startswith("gemini"):
+    if model.startswith("gemini") or model.startswith("gemma"):
         return GEMINI_CHAT_URL, GEMINI_API_KEY_ENV
     return GROQ_CHAT_URL, GROQ_API_KEY_ENV
 
@@ -532,6 +637,7 @@ def llm_chat(system: str, user: str, model: str, max_tokens: int = LLM_MAX_TOKEN
         },
     )
 
+    rate_limits = 0
     server_errors = 0
     while True:
         try:
@@ -541,8 +647,20 @@ def llm_chat(system: str, user: str, model: str, max_tokens: int = LLM_MAX_TOKEN
         except urllib.error.HTTPError as e:
             err_body = e.read().decode()
             if e.code == 429:
-                wait = _parse_retry_after(err_body, e.headers)
-                log.warning(f"  Rate limit — waiting {wait:.0f}s before retry")
+                lower = err_body.lower()
+                # Daily quota exhaustion: only possible on Google backend (Gemini/Gemma).
+                # Groq 429s are always per-minute TPM limits and must go through retry/backoff.
+                is_google = model.startswith(("gemini", "gemma"))
+                if is_google and ("day" in lower or "daily" in lower or "per_day" in lower):
+                    raise QuotaExhaustedError(
+                        f"Daily quota exhausted ({model}): {err_body[:200]}"
+                    )
+                rate_limits += 1
+                base = _parse_retry_after(err_body, e.headers)
+                # Add 30 s per consecutive hit so repeated 429s space out
+                extra = min(rate_limits - 1, 4) * 30   # 0, 30, 60, 90, 120 s
+                wait = base + extra
+                log.warning(f"  Rate limit (hit {rate_limits}) — waiting {wait:.0f}s before retry")
                 time.sleep(wait)
             elif e.code in (500, 503, 529):
                 server_errors += 1
@@ -554,6 +672,14 @@ def llm_chat(system: str, user: str, model: str, max_tokens: int = LLM_MAX_TOKEN
                     raise RuntimeError(f"API error {e.code} after 5 retries: {err_body[:300]}")
             else:
                 raise RuntimeError(f"API error {e.code}: {err_body[:300]}")
+        except (TimeoutError, urllib.error.URLError, ConnectionError) as e:
+            server_errors += 1
+            if server_errors <= 5:
+                wait = 10 * (2 ** (server_errors - 1))  # 10, 20, 40, 80, 160 s
+                log.warning(f"  Network error (attempt {server_errors}/5) — retrying in {wait}s: {e}")
+                time.sleep(wait)
+            else:
+                raise RuntimeError(f"Network error after 5 retries: {e}")
 
 # ── Timestamp refinement (linear interpolation) ──────────────────────────────
 
@@ -721,6 +847,62 @@ def factcheck_items(summary_json: dict, model: str) -> None:
     log.info(f"  Fact-check: annotated {matched}/{len(items)} items")
 
 
+# ── JSON recovery ────────────────────────────────────────────────────────────
+
+def _json_recovery_pass(response_md: str, prompt: str, model: str) -> dict | None:
+    """Try to extract a JSON summary when the main pass produced no code-fenced block.
+
+    Strategy:
+    1. Parse the response as raw JSON (model omitted the code fence).
+    2. Regex-search for an unfenced JSON object containing 'schema_version'.
+    3. LLM recovery: feed the response tail back and ask for just the JSON block.
+    """
+    # 1. Raw JSON (no code fence)
+    stripped = response_md.strip()
+    if stripped.startswith("{"):
+        try:
+            result = json.loads(stripped)
+            if isinstance(result, dict):
+                log.info("  JSON recovered: unfenced object")
+                return result
+        except json.JSONDecodeError:
+            pass
+
+    # 2. Unfenced JSON object embedded in prose
+    m = re.search(r'(\{[^{}]{0,200}"schema_version"[\s\S]*\})\s*$', response_md)
+    if m:
+        try:
+            result = json.loads(m.group(1))
+            if isinstance(result, dict):
+                log.info("  JSON recovered: extracted from prose")
+                return result
+        except json.JSONDecodeError:
+            pass
+
+    # 3. LLM re-extraction — send the response tail with the original prompt
+    log.info("  Attempting JSON recovery pass (LLM re-extraction)")
+    tail = response_md[-8000:] if len(response_md) > 8000 else response_md
+    recovery_user = (
+        "Níže je shrnutí parlamentní akce. Na konci CHYBÍ JSON blok. "
+        "Vrať POUZE JSON blok uzavřený do ```json ... ```, žádný jiný text.\n\n"
+        + tail
+    )
+    try:
+        recovery_resp = llm_chat(
+            system=prompt,
+            user=recovery_user,
+            model=model,
+            max_tokens=LLM_MAX_TOKENS,
+        )
+        result = extract_json_block(recovery_resp)
+        if result:
+            log.info("  JSON recovered via LLM re-extraction")
+        return result
+    except (QuotaExhaustedError, RuntimeError) as e:
+        log.warning(f"  JSON recovery pass failed: {e}")
+        return None
+
+
 # ── Per-event summarization ───────────────────────────────────────────────────
 
 def summarize_event(event: dict, prompt: str, model: str, force: bool, feedback: str = "") -> bool:
@@ -737,7 +919,18 @@ def summarize_event(event: dict, prompt: str, model: str, force: bool, feedback:
 
     json_path, md_path = summary_paths(final_path)
 
-    if not force and json_path.exists() and event.get("summary_done_at"):
+    if not force and json_path.exists():
+        # File exists — repair metadata if it got out of sync (e.g. interrupted run)
+        if not event.get("summary_done_at"):
+            try:
+                saved = json.loads(json_path.read_text(encoding="utf-8"))
+                event["summary_local"] = str(json_path)
+                event["summary_done_at"] = saved.get("created_at") or datetime.now().isoformat(timespec="seconds")
+                event["summary_model"] = saved.get("model_hint") or ""
+                event["summary_schema_version"] = saved.get("schema_version", "1")
+                log.info(f"  Metadata repaired from existing file: {json_path.name}")
+            except Exception:
+                pass
         return True
 
     transcript = final_path.read_text(encoding="utf-8")
@@ -773,6 +966,8 @@ def summarize_event(event: dict, prompt: str, model: str, force: bool, feedback:
         else:
             out_tokens = _output_tokens(len(transcript), model)
             response = llm_chat(system=effective_prompt, user=transcript, model=model, max_tokens=out_tokens)
+    except QuotaExhaustedError:
+        raise  # propagate to run() so it can switch to fallback model
     except RuntimeError as e:
         log.error(f"  LLM call failed: {e}")
         return False
@@ -780,17 +975,28 @@ def summarize_event(event: dict, prompt: str, model: str, force: bool, feedback:
     log.info(f"  LLM response in {elapsed:.0f}s")
 
     summary_json = extract_json_block(response)
+    if summary_json is None:
+        log.warning("  No JSON block in response — attempting recovery")
+        summary_json = _json_recovery_pass(response, effective_prompt, model)
     if summary_json is not None:
         summary_json["model_hint"] = model
         summary_json["created_at"] = datetime.now().isoformat(timespec="seconds")
         # Inject source transcript path so the summary is traceable
         if summary_json.get("event") and not summary_json["event"].get("sources"):
             summary_json["event"]["sources"] = [str(final_path)]
+        # Inject video parts for timestamp deep-links (built from metadata, not from LLM)
+        video_parts = _extract_video_parts(event)
+        if video_parts and summary_json.get("event") is not None:
+            summary_json["event"]["video_parts"] = video_parts
         # Normalize transcription.source — LLM may paraphrase the header value
         _src = (summary_json.get("transcription") or {}).get("source", "")
         _src_norm = _normalize_source(_src)
         if _src_norm and summary_json.get("transcription"):
             summary_json["transcription"]["source"] = _src_norm
+        # Normalize highlight type strings (LLM sometimes uses Czech spellings)
+        for item in (summary_json.get("highlights") or []):
+            if "type" in item:
+                item["type"] = _normalize_highlight_type(item["type"])
         enrich_speakers(summary_json)
         refine_timestamps(summary_json, transcript)
         extract_screenshots(summary_json, event)
@@ -847,7 +1053,13 @@ def print_status(meta: dict) -> None:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def run(event_filter: str | None, model: str, force: bool, feedback: str = "") -> None:
+def run(
+    event_filter: str | None,
+    model: str,
+    force: bool,
+    feedback: str = "",
+    fallback_model: str = "",
+) -> None:
     meta = load_metadata()
     prompt = load_prompt()
 
@@ -857,6 +1069,7 @@ def run(event_filter: str | None, model: str, force: bool, feedback: str = "") -
         else list(meta["events"].values())
     )
 
+    active_model = model
     for event in targets:
         if not find_final_file(event["id"]):
             continue
@@ -866,7 +1079,22 @@ def run(event_filter: str | None, model: str, force: bool, feedback: str = "") -
             continue
 
         log.info(f"Event [{event['id']}] {event.get('name', '')[:60]}")
-        ok = summarize_event(event, prompt, model, force or bool(feedback), feedback=feedback)
+        try:
+            ok = summarize_event(event, prompt, active_model, force or bool(feedback), feedback=feedback)
+        except QuotaExhaustedError as exc:
+            fb = fallback_model or DEFAULT_FALLBACK_MODEL
+            if fb and active_model != fb:
+                log.warning(f"  {exc}")
+                log.warning(f"  Switching to fallback model: {fb}")
+                active_model = fb
+                try:
+                    ok = summarize_event(event, prompt, active_model, force or bool(feedback), feedback=feedback)
+                except RuntimeError as e2:
+                    log.error(f"  Fallback also failed: {e2}")
+                    ok = False
+            else:
+                log.error(f"  Daily quota exhausted and no fallback available: {exc}")
+                break
         if ok:
             save_metadata(meta)
 
@@ -888,17 +1116,18 @@ def main() -> None:
         print_status(load_metadata())
         return
 
-    model    = _arg(args, "--model") or DEFAULT_MODEL
-    event_id = _arg(args, "--event")
-    feedback = _arg(args, "--feedback") or ""
-    force    = "--force" in args
+    model          = _arg(args, "--model") or DEFAULT_MODEL
+    fallback_model = _arg(args, "--fallback-model") or DEFAULT_FALLBACK_MODEL
+    event_id       = _arg(args, "--event")
+    feedback       = _arg(args, "--feedback") or ""
+    force          = "--force" in args
 
     if feedback and not event_id:
         print("--feedback requires --event <id>", file=sys.stderr)
         sys.exit(1)
 
-    log.info(f"Model: {model}  force: {force}")
-    run(event_filter=event_id, model=model, force=force, feedback=feedback)
+    log.info(f"Model: {model}  fallback: {fallback_model}  force: {force}")
+    run(event_filter=event_id, model=model, force=force, feedback=feedback, fallback_model=fallback_model)
 
 
 if __name__ == "__main__":

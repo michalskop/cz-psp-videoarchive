@@ -16,10 +16,23 @@ function readSummariesDir(): string[] {
   }
 }
 
-function normalizeSummary(raw: unknown): Summary | null {
+// Extract the event ID from the filename (authoritative — LLM sometimes writes a subevent ID)
+function idFromFilename(filename: string): string | null {
+  const m = filename.match(/^summary_(\d+)_/);
+  return m ? m[1] : null;
+}
+
+function normalizeSummary(raw: unknown, filename?: string): Summary | null {
   if (!raw || typeof raw !== "object") return null;
   const d = raw as Record<string, unknown>;
   if (!d.event || typeof d.event !== "object") return null;
+
+  // Override event.id with the filename-derived ID — the LLM sometimes writes
+  // the subevent ID (5 digits) instead of the real event ID (4 digits).
+  const filenameId = filename ? idFromFilename(filename) : null;
+  if (filenameId) {
+    (d.event as Record<string, unknown>).id = filenameId;
+  }
 
   // main_points: LLM sometimes returns [{speaker: text}, ...] instead of [string]
   const summary = d.summary as Record<string, unknown> | undefined;
@@ -43,7 +56,7 @@ export function getAllSummaries(): Summary[] {
     .map((f) => {
       try {
         const raw = fs.readFileSync(path.join(SUMMARIES_DIR, f), "utf-8");
-        return normalizeSummary(JSON.parse(raw));
+        return normalizeSummary(JSON.parse(raw), f);
       } catch {
         return null;
       }
@@ -63,7 +76,7 @@ export function getSummaryById(id: string): Summary | null {
   if (!match) return null;
   try {
     const raw = fs.readFileSync(path.join(SUMMARIES_DIR, match), "utf-8");
-    return normalizeSummary(JSON.parse(raw));
+    return normalizeSummary(JSON.parse(raw), match);
   } catch {
     return null;
   }

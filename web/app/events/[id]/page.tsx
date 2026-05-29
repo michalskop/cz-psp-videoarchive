@@ -8,11 +8,29 @@ import {
   pluralCitace,
   pluralKontroverze,
 } from "@/lib/summaries";
+import { videoDeepLink, parseMainPointTimestamp } from "@/lib/types";
 import { CategoryBadge } from "../../components/CategoryBadge";
 import { QualityBadge } from "../../components/QualityBadge";
 import { HighlightCard } from "../../components/HighlightCard";
 import { ControversyCard } from "../../components/ControversyCard";
 import { RenderMd } from "../../components/RenderMd";
+
+function VideoLink({ url, timestamp }: { url: string; timestamp: string }) {
+  const slash = timestamp.indexOf("/");
+  const part = slash >= 0 ? timestamp.slice(0, slash) : timestamp;
+  const time = slash >= 0 ? timestamp.slice(slash + 1) : timestamp;
+  return (
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      title="Přejít na videozáznam v archivu Poslanecké sněmovny"
+      className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-teal-0 border border-teal-6 text-teal-7 hover:bg-teal-6 hover:text-white font-sans text-xs font-semibold transition-colors whitespace-nowrap"
+    >
+      ▶&nbsp;Záznam · část&nbsp;{part},&nbsp;{time}
+    </a>
+  );
+}
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -113,14 +131,23 @@ export default async function EventPage({ params }: Props) {
         <section className="mb-8">
           <h2 className="font-slab font-semibold text-lg text-navy-9 mb-3">Hlavní body</h2>
           <ul className="flex flex-col gap-3">
-            {s.summary.main_points.map((point, i) => (
-              <li
-                key={i}
-                className="font-slab text-sm leading-relaxed text-foreground pl-4 border-l-2 border-border"
-              >
-                <RenderMd text={point} className="space-y-1" />
-              </li>
-            ))}
+            {s.summary.main_points.map((point, i) => {
+              const { cleanText, timestamp } = parseMainPointTimestamp(point);
+              const vlink = videoDeepLink(s.event.video_parts, timestamp);
+              return (
+                <li
+                  key={i}
+                  className="font-slab text-sm leading-relaxed text-foreground pl-4 border-l-2 border-border"
+                >
+                  <RenderMd text={cleanText} className="space-y-1" />
+                  {vlink && timestamp && (
+                    <div className="mt-2">
+                      <VideoLink url={vlink} timestamp={timestamp} />
+                    </div>
+                  )}
+                </li>
+              );
+            })}
           </ul>
         </section>
       )}
@@ -139,29 +166,37 @@ export default async function EventPage({ params }: Props) {
         <section className="mb-8">
           <h2 className="font-slab font-semibold text-lg text-navy-9 mb-4">Výrazné momenty</h2>
           <div className="flex flex-col gap-6">
-            {s.highlights.map((h, i) => (
-              <div key={i} className="flex flex-col gap-2">
-                <HighlightCard
-                  highlight={h}
-                  eventName={s.event.name}
-                  category={s.event.classification}
-                  date={s.event.start_date}
-                />
-                {/* Type tag below card */}
-                <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded text-muted-foreground self-start ml-1.5">
-                  {h.type === "citation" ? "citace" : "parafráze"}
-                </span>
-                {/* Context below tag, full width */}
-                {h.context && (
-                  <div className="bg-teal-0 border-l-2 border-teal-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed ml-1.5">
-                    <span className="font-semibold text-teal-6 uppercase tracking-wide text-[10px] block mb-1">
-                      Kontext
+            {s.highlights.map((h, i) => {
+              const vlink = videoDeepLink(s.event.video_parts, h.timestamp);
+              return (
+                <div key={i} className="flex flex-col gap-2">
+                  <HighlightCard
+                    highlight={h}
+                    eventName={s.event.name}
+                    category={s.event.classification}
+                    date={s.event.start_date}
+                  />
+                  {/* Type tag + optional video link */}
+                  <div className="flex flex-wrap items-center gap-2 ml-1.5">
+                    <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded text-muted-foreground">
+                      {h.type === "citation" ? "citace" : "parafráze"}
                     </span>
-                    {h.context}
+                    {vlink && h.timestamp && (
+                      <VideoLink url={vlink} timestamp={h.timestamp} />
+                    )}
                   </div>
-                )}
-              </div>
-            ))}
+                  {/* Context */}
+                  {h.context && (
+                    <div className="bg-teal-0 border-l-2 border-teal-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed ml-1.5">
+                      <span className="font-semibold text-teal-6 uppercase tracking-wide text-[10px] block mb-1">
+                        Kontext
+                      </span>
+                      {h.context}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </section>
       )}
@@ -173,24 +208,32 @@ export default async function EventPage({ params }: Props) {
             Kontroverzní výroky
           </h2>
           <div className="flex flex-col gap-6">
-            {s.controversial.map((c, i) => (
-              <div key={i} className="flex flex-col gap-2">
-                <ControversyCard
-                  item={c}
-                  eventName={s.event.name}
-                  category={s.event.classification}
-                  date={s.event.start_date}
-                />
-                {c.context && (
-                  <div className="bg-surface-0 border-l-2 border-navy-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed ml-1.5">
-                    <span className="font-semibold text-navy-6 uppercase tracking-wide text-[10px] block mb-1">
-                      Faktický kontext
-                    </span>
-                    {c.context}
-                  </div>
-                )}
-              </div>
-            ))}
+            {s.controversial.map((c, i) => {
+              const vlink = videoDeepLink(s.event.video_parts, c.timestamp);
+              return (
+                <div key={i} className="flex flex-col gap-2">
+                  <ControversyCard
+                    item={c}
+                    eventName={s.event.name}
+                    category={s.event.classification}
+                    date={s.event.start_date}
+                  />
+                  {vlink && c.timestamp && (
+                    <div className="ml-1.5">
+                      <VideoLink url={vlink} timestamp={c.timestamp} />
+                    </div>
+                  )}
+                  {c.context && (
+                    <div className="bg-surface-0 border-l-2 border-navy-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed ml-1.5">
+                      <span className="font-semibold text-navy-6 uppercase tracking-wide text-[10px] block mb-1">
+                        Faktický kontext
+                      </span>
+                      {c.context}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </section>
       )}

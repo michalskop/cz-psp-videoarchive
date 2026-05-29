@@ -435,10 +435,14 @@ def upsert_event(meta: dict, row: dict) -> dict:
         "total_stop": row.get("total_stop"),
         "deafst": row.get("deafst"),
         "subakce_count": row.get("subakce_count"),
-        # Preserve existing subevents and status
+        # Preserve existing subevents, status, and summary results
         "subevents": existing.get("subevents", {}),
         "status": existing.get("status", "planned"),
         "last_checked": existing.get("last_checked"),
+        "summary_done_at": existing.get("summary_done_at"),
+        "summary_local": existing.get("summary_local"),
+        "summary_model": existing.get("summary_model"),
+        "summary_schema_version": existing.get("summary_schema_version"),
     }
     meta["events"][eid] = ev
     return ev

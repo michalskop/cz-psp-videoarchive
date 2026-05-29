@@ -5,7 +5,8 @@ Vytvoř strukturované shrnutí v češtině. Buď konkrétní a podrobný — s
 1. **Téma a účel jednání** — o čem jednání bylo, jaký byl jeho cíl (jeden až dva odstavce)
 
 2. **Hlavní body** — pro každého identifikovaného řečníka samostatná odrážka ve formátu:
-   **Jméno (instituce/strana)** — konkrétní argumenty, čísla, návrhy nebo rozhodnutí, která prezentoval.
+   **Jméno (instituce/strana)** — konkrétní argumenty, čísla, návrhy nebo rozhodnutí, která prezentoval. `[N/MM:SS]`
+   kde `[N/MM:SS]` je číslo části přepisu a nejbližší časová značka ze začátku projevu daného řečníka (stejný formát jako u citací). Pokud nelze určit, neuváděj nic.
    Přidej i tematické body, které nelze přiřadit jednomu řečníkovi.
    Nehalucinuj — pokud jméno nelze určit, napiš „neidentifikovaný řečník".
 

@@ -38,6 +38,20 @@
           "type": "array",
           "items": { "type": "string" },
           "description": "URLs or local paths to source transcripts. (Popolo: sources)"
+        },
+        "video_parts": {
+          "type": "array",
+          "description": "Ordered list of source video files used for deep-linking. Injected by the script from metadata, not the LLM.",
+          "items": {
+            "type": "object",
+            "required": ["part", "url"],
+            "additionalProperties": false,
+            "properties": {
+              "part":     { "type": "integer", "minimum": 1, "description": "1-based part index matching transcript part numbers." },
+              "url":      { "type": "string", "description": "Full URL of the MP4 file on videoarchiv.psp.cz." },
+              "from_sec": { "type": "integer", "minimum": 0, "description": "Seconds into the file where content begins (pre-roll offset). Omitted if zero." }
+            }
+          }
         }
       }
     },
