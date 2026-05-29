@@ -1,0 +1,111 @@
+1460f6441d44
+<thought>Part 2/2 of a transcript (though the provided text is labeled "Část 1/1", the prompt says "Toto je část 2/2", but the content is a single press conference transcript).
+Create a record for each identified speaker.
+
+        *   **Name (institution or party)**
+        *   - specific argument or fact including numbers
+        *   - another argument or proposal
+        *   - possible controversial statement
+Use 'Neidentifikovaný řečník [order]' if the name is unknown.
+Do not omit any speaker.
+
+    *   *Speaker 1 (Moderator/Intro):* "Dobrý den, vítám vás na tiskové konferenci..." (Introduces Táňa Malá).
+    *   *Speaker 2 (Táňa Malá):* Government Plenipotentiary for Human Rights.
+        *   Facts: 8 children die annually from family violence, 150 have permanent health consequences, 2000 taken from parents, 700 rape cases, 30 girls pregnant from sexual violence, 2 die.
+        *   Arguments: Support for Locika-style centers nationwide; psychological, social, and legal help in one place to minimize revictimization.
+        *   Legislation: Novelty of the Penal Code (unacceptability of physical punishment), child certificate (preventing sex offenders from working with children), recriminalization of non-payment of child support.
+        *   Commission: Commission for unnatural deaths of children (finding system weaknesses).
+        *   Future: Guardianship novelty, OSPOD reform.
+        *   Controversial/Strong statement: "I am convinced that it is possible to raise children without physical punishment" (acknowledges it's controversial).
+    *   *Speaker 3 (Petra Wünschová):* Director and Founder of Centrum Locika.
+        *   Facts: 60 children died since Locika's existence. Over 100 million CZK spent on analyses for reform, but the last attempt failed.
+        *   International examples: UK (safety of child > parental contact rights), USA (information sharing rules, capacity limits for social workers).
+        *   Proposals: Forensic pediatrician, linking criminal and guardianship proceedings, preventive measures for pregnant women, a unified "Law on the Protection of Child Victims of Violence" (inspired by Slovenia/Estonia).
+        *   Call to action: Government should establish a working group of experts and victims.
+    *   *Speaker 4 (Martin Beneš):* Child Ombudsman.
+        *   Arguments: Cosmetic changes/quick novels are not enough; needs comprehensive system changes.
+        *   Warning: Avoid "ideological political shortcuts" and quick fixes.
+        *   Facts (estimates): System involves ~10,000 people, 20-30 billion CZK annually, potentially 2 million children.
+        *   Controversial/Strong statement: The area was long overlooked; the system is a "colossus" that cannot be managed by feeling.
+    *   *Speaker 5 (Edita Stejskalová):* Deputy Minister of Labour and Social Affairs (MPSV).
+        *   Arguments: Social workers in the first line need more support; rising number of parents addicted to drugs (mentions case of Viktorka).
+        *   Actions: Working group with Pavel Bém (drug addiction motivation), Commission for unnatural deaths.
+        *   Proposal: Creation of the "Office for Family and Child Protection" (Úřad pro rodinu a ochranu dětí) - partial centralization for methodological alignment and expert support (lawyers, psychologists).
+        *   Timeline: Legislative change by 2028.
+    *   *Speaker 6 (Kateřina Bělohlávková):* National Coordinator for the Prevention of Violence in Society (Ministry of Interior).
+        *   Program: "Bezpečné dětství" (Safe Childhood) - multidisciplinary approach.
+        *   Logic: Violence in families affects the safety of the whole society.
+        *   Facts: Ministry of Interior investing >30 million CZK this year into prevention and programs working with aggressors, supporting centers like Locika and crisis lines.
+    *   *Speaker 7 (Radek Bartoníček):* Aktuálně.cz (Journalist).
+        *   Question: Why is the situation still so bad despite thousands of hours of parliamentary debate?
+    *   *Speaker 8 (Táňa Malá - responding):* (Already listed, but I will integrate the response into her section or list as a separate instance if required, but usually, one entry per speaker is cleaner. I'll keep it as one entry per person).
+        *   Response: Admits the area was overlooked; politicians/officials ignored "exclamation marks."
+        *   Observation: Society resigned on prevention of drug addiction/smoking (claims every second teenager smokes).
+    *   *Speaker 9 (Petra Wünschová - responding):* (Already listed).
+        *   Response: Children were not a priority; system is fragmented; she's heard promises of reform 3 times in 25 years, none happened.
+    *   *Speaker 10 (Martin Beneš - responding):* (Already listed).
+        *   Response: Not just a legislative issue; needs rational management of the "colossus."
+    *   *Speaker 11 (Journalist - Czech Television):*
+        *   Question: Status of the Triple P program.
+    *   *Speaker 12 (Táňa Malá - responding):*
+        *   Response: No detailed info, asks for written inquiry.
+    *   *Speaker 13 (Tereza Hübscherová):* Český rozhlas (Journalist).
+        *   Question: Time horizon for unification.
+    *   *Speaker 14 (Martin Beneš - responding):*
+        *   Example: UK took 12 years after a 1988 tragedy to standardize outputs.
+        *   Timeline: Not months, but years; hopes for setup within this government term.
+    *   *Speaker 15 (Edita Stejskalová - responding):*
+        *   Timeline: Office for Family and Child Protection by 2028.
+    *   *Speaker 16 (Moderator/Closing):* "Moc děkuji. Prostor pro další dotaz?..."
+
+    *   *Moderator:* Neidentifikovaný řečník 1.
+    *   *Táňa Malá:* Zmocněnkyně vlády pro lidská práva.
+    *   *Petra Wünschová:* Ředitelka a zakladatelka centra Locika.
+    *   *Martin Beneš:* Dětský ombudsman.
+    *   *Edita Stejskalová:* Náměstkyně ministra práce a sociálních věcí.
+    *   *Kateřina Bělohlávková:* Národní koordinátorka pro prevenci násilí ve společnosti (Ministerstvo vnitra).
+    *   *Radek Bartoníček:* Aktuálně.cz.
+    *   *Journalist (ČT):* Neidentifikovaný řečník 2.
+    *   *Tereza Hübscherová:* Český rozhlas.
+    *   *Moderator (Closing):* Neidentifikovaný řečník 3.
+
+    *   *Táňa Malá:* 8 deaths/year, 150 health consequences, 2000 removals, 700 rapes, 30 pregnancies, 2 deaths. Support for Locika centers. Physical punishment is unacceptable. Recriminalize non-payment of child support. Every second teen smokes (controversial/alarmist).
+    *   *Petra Wünschová:* 60 deaths since Locika started. 100M CZK spent on analyses. Need forensic pediatrician. Law on Protection of Child Victims of Violence. Reform promises heard 3 times in 25 years but not realized.
+    *   *Martin Beneš:* 10k staff, 20-30bn CZK budget, 2M children. Avoid political shortcuts. UK example (12 years for standardization).
+    *   *Edita Stejskalová:* Drug addiction among parents. Office for Family and Child Protection by 2028.
+    *   *Kateřina Bělohlávková:* >30M CZK investment. "Bezpečné dětství" program.
+
+    *   Check format: **Name (Institution/Party)**
+    *   Check bullets: specific argument/fact, proposal, controversy.
+    *   Ensure no one is missed.</thought>**Neidentifikovaný řečník 1 (moderátor)**
+- uvítal účastníky tiskové konference k příležitosti 11. odborné konference Novinky v pomoci dětským obětem násilí organizované centrem Locika
+
+**Táňa Malá (zmocněnkyně vlády pro lidská práva)**
+- uvedla alarmující statistiky: ročně zemře 8 dětí v důsledku násilí v rodinách, 150 dětí utrpí trvalé zdravotní následky, 2000 dětí je odebráno z péče rodičů, policie eviduje 700 případů znásilnění, 30 nezletilých dívek otěhotní a 2 zemřou v důsledku sexuálního násilí
+- podporuje zřízení mezioborových center typu Locika po celé ČR, aby oběti dostaly psychologickou, sociální a právní pomoc na jednom místě a minimalizovala se jejich viktimizace
+- zmiňuje legislativní kroky: novelu trestního zákoníku deklarující nepřijatelnost fyzického trestání dětí, zavedení dětského certifikátu pro prevenci práce sexuálních delikventů s dětmi a plánované znovuzavedení kriminalizace neplacení výživného
+- podziękovala za zřízení komise pro řešení nepřirozených úmrtí dětí na MPSV, která má hledat slabá místa v systému
+- tvrdí, že společnost rezignovala na prevenci drogové závislosti a uvádí šokující tvrzení, že dnes kouří každý druhý náctiletý člověk
+
+**Petra Wünschová (ředitelka a zakladatelka centra Locika)**
+- uvedla, že od vzniku centra Locika zemřelo 60 dětí a kritizovala fakt, že do analýz reformy péče o ohrožené děti bylo investováno přes 100 milionů Kč, ale poslední pokus o reformu minulý rok neuspěl
+- navrhla zavedení institutu forenzního pediatra, lepší propojení informací mezi trestním a opatrovnickým řízením a zavedení preventivních opatření již u těhotných žen
+- vyzvala vládu k ustanovení pracovní skupiny pro přípravu sjednocujícího zákona o ochraně dětských obětí násilí (vzor Slovinska a Estonska)
+- kontroverzně uvedla, že sliby o celkové reformě slyší už 25 let a účastnila se prací na třech reformách, z nichž žádná nebyla realizována
+
+**Martin Beneš (dětský ombudsman)**
+- varoval před „kosmetickými úpravami“ a „ideově politickými zkratkami“, přičemž zdůraznil potřebu komplexních systémových řešení
+- odhaduje rozsah systému sociálně-právní ochrany dětí na cca 10 tisíc zaměstnanců, roční náklady 20–30 miliard Kč a potenciální dosah až 2 milionů dětí
+- přirovnal systém k obrovskému kolosu, který se nesmí řídit pocitově, ale racionálně
+- uvedl příklad z Velké Británie, kde po tragické smrti dítěte v roce 1988 trvalo 12 let, než došlo ke standardizaci výstupů komise CDR
+
+**Edita Stejskalová (náměstkyně ministra práce a sociálních věcí)**
+- upozornila na rostoucí počet rodičů pečujících o děti, kteří jsou závislí na omamných látkách (zmínila případ úmrtí dítěte jménem Viktorka)
+- oznámila vznik pracovní skupiny se společností národního protidrogového koordinátora Pavla Béma pro motivaci rodičů k léčbě závislosti
+- navrhla největší reformu systému v podobě vzniku Úřadu pro rodinu a ochranu dětí (částečná centralizace pro metodické sladění a odbornou podporu právníků a psychologů)
+- stanovila časový horizont legislativní změny pro vznik nového úřadu do roku 2028
+
+**Kateřina Bělohlávková (národní koordinátorka pro prevenci násilí ve společnosti, Ministerstvo vnitra)**
+- představila vládní program „Bezpečné dětství“, který sází na multidisciplinární spolupráci napříč resorty (MV, MPSV, MS, MŠM, MZ, MMR a Úřad vlády)
+- argumentovala, že násilí v rodinách ovlivňuje bezpečnost celé společnosti, protože se přenáší do škol a pracovišť
+- oznámila, že Ministerstvo vnitra investuje do prevence a programu Bezpečné dětství v letošním roce více než 30 milionů

@@ -1,139 +1,122 @@
-<thought>Tisková konference poslaneckého klubu KDU-ČSL.
-2026-05-26.
+<thought>Tisková konference poslaneckého klubu KDU-ČSL (26.05.2026).
 KDU-ČSL (opozice).
-Novela stavebního zákona, dotace Agrofertu, program sněmovny, nezávislost médií, volby do vedení sněmovny.
+Stavební zákon (novela), dotace Agrofertu, dostupnost bydlení, program sněmovny, veřejnoprávní média, volby do vedení sněmovny.
+
+        *   Jan Gorlich (předseda - pravděpodobně klubu/strany v kontextu konference)
+        *   Václav Platenka (předseda strany)
+        *   Maria Kršková (poslankyně)
+        *   Bohuslav Němec (poslanec)
+        *   Marian Jurečka (předseda poslaneckého klubu)
+        *   František Talíř (poslanec)
+        *   Karolina Jelinková (novinářka - dotaz)
+        *   Kopecký (novinář - dotaz)
 
     *   *Jan Gorlich:*
-        *   Agrofert: Evropská komise vydala stanovisko k dotacím. Požaduje, aby premiér pozastavil vyplácení dotací, dokud si nevyřeší "osobní problém".
-        *   Stavební zákon: Kritika návrhu vlády. Tvrdí, že je "šit horkou jehlou", zpomalí řízení, chybí personální a prostorové zajištění úřadů.
-        *   Pozměňovací návrhy: Připravili návrhy na zrychlení a dostupnější bydlení.
-        *   Program sněmovny: Chtějí zařadit "Rodiče Plus", životní prostředí, zemědělství, vyjádření premiéra/ministra k dopisu EK, testování žáků.
+        *   Agrofert: Evropská komise vydala stanovisko k dotacím. Žádá, aby premiér pozastavil vyplácení dotací, dokud si nevyřeší "osobní problém".
+        *   Stavební zákon: Kritika novely. Tvrdí, že je "šitá horkou jehlou", zpomalí řízení, chybí personální a prostorové zajištění úřadů. KDU-ČSL připravila pozměňovací návrhy (PN) pro efektivitu a dostupnost bydlení.
 
     *   *Václav Platenka:*
-        *   Stavební zákon (Přístupnost): Kritika omezení definice přístupnosti. Původně široká (obecná vlastnost prostoru), nyní zužena pouze na osoby se zdravotním postižením (vypadají senioři, maminky s kočárky, zranění).
-        *   Kritika: Projektanti/investoři by mohli přístupnost obcházet.
-        *   Spolupráce: Pracovali s Národní radou pro osoby se zdravotním postižením, Združením nevydomých a slabozrakých atd.
-        *   Kontradikce: Vláda schválila Národní akční plán pro vyrovnávání práv osob se zdravotním postižením (25. dubna), ale stavební zákon mu odporuje.
-        *   Kritika ministrky: Argumenty, že normy stále platí, jsou nepřiléhavé.
+        *   Stavební zákon - Přístupnost: Kritika zúžení definice přístupnosti (pouze pro osoby se zdravotním postižením, vynechává seniory, rodiče s kočárky).
+        *   Kritika investora/projektanta: Nový zákon umožní obcházet přístupnost, pokud to investor schválí.
+        *   Rozpor s vládní strategií: Odkazuje na Národní akční plán pro vyrovnávání práv osob se zdravotním postižením (25. dubna).
+        *   Kritika ministerstva: Argumenty ministerstva o tom, že normy stále platí, jsou nepřijatelné.
 
     *   *Maria Kršková:*
-        *   Stavební zákon (Obce): Novela posiluje investory na úkor obcí.
-        *   Výjimky z územního plánování: Novela navrhuje, aby výjimky schvalovala rada obce (neveřejně), místo zastupitelstva (veřejně). To oslabuje transparentnost a kontrolu.
-        *   Argument vlády (rychlost): Rada zasedá častěji, ale zastupitelstvo jedná dostatečně často, aby proces zrychlilo bez ztráty transparentnosti.
+        *   Stavební zákon - Obce: Novela posiluje investory na úkor obcí.
+        *   Výjimky z územního plánování: Kritika toho, že výjimky mají schvalovat rady obcí (neveřejně) místo zastupitelstev (veřejně). Žádá transparentnost.
 
     *   *Bohuslav Němec:*
-        *   Stavební zákon (Černé stavby): Kritika pojmu "zásah nepřiměřeného přínosu". Tvrdí, že to fakticky legalizuje černé stavby (amnestie pro riskanty).
-        *   Dostupnost bydlení: Pozměňovací návrh na znemožnění poplatků za vynětí ze zemědělského půdního fondu v prolukách (úspora cca 10 000 Kč).
+        *   Stavební zákon - "Černé stavby": Kritika pojmu "zásah nepřiměřeného přínosu", který podle něj fakticky legalizuje černé stavby (amnestie).
+        *   Dostupnost bydlení: PN pro známošní zlevnění výstavby v prolukách (vynětí ze zemědělského půdního fondu bez poplatků) $\rightarrow$ úspora v řádech desítek tisíc Kč.
 
     *   *Marian Jurečka:*
-        *   Kritika Ministerstva pro místní rozvoj (MMR): Střídání ministrů, nízká kvalita návrhů.
-        *   Dostupnost bydlení: Návrh na motivaci majitelů investičních bytů (které drží prázdné), aby je uvolnili na trh pro mladé rodiny.
+        *   Kritika Ministerstva pro místní rozvoj (MMR): Střídání ministrů, nízká kvalita legislativy.
+        *   Investiční byty: PN pro motivaci majitelů prázdných investičních bytů, aby je uvolnili na trh pro mladé rodiny.
 
-    *   *Jan Gorlich (závěr/otázky):*
-        *   Program sněmovny: Opakuje snahu o zařazení témat (Rodiče Plus, EK, škola).
-        *   Senátní vratky: Předpoklad projednání dvou vratkek.
+    *   *Jan Gorlich (závěr a dotazy):*
+        *   Program sněmovny: Chtějí zařadit "Rodiče Plus", environmentální návrhy, vyjádření premiéra/ministra k Agrofertu, testování žáků (MŠMT).
+        *   Senátní vratky: Očekávají projednání dvou vratkek.
 
     *   *František Talíř:*
-        *   Média: Navrhne bod o nezávislosti veřejnoprávních médií (ČT, ČRo). Kritika návrhu Patrika Nachery (stovky milionů z rozpočtu).
-        *   Zákon o "klempíři" (pravděpodobně metafora nebo specifický zákon, text je trochu rozbitý): Kritika vládního přístupu.
+        *   Veřejnoprávní média: Chce zařadit bod o nezávislosti ČT a ČRo. Kritika návrhu Patrika Nachery na finanční sekery u médií.
 
-    *   *Otázka z médií (Kopecký):*
-        *   Volba předsedkyně/místopředsedkyně: Podpoří paní Urbanovou (Hnutí STAN) na pozici místopředsedkyně.
-        *   Rada ČT: Volba odložena kvůli neshodě koalice na kandidátech.
+    *   *Dotazy novinářů:*
+        *   Kopecký: Podpora paní Urbanové na místo místopředsedkyni sněmovny $\rightarrow$ KDU-ČSL ji podpoří.
+        *   Kopecký: Odložení volby Rady ČT $\rightarrow$ KDU-ČSL vnímá jako důkaz neshody v koalici a problémů s kandidáty.
 
-    *   *Téma:* Kritika vládních návrhů, zejména novely stavebního zákona, a prezentace pozměňovacích návrhů KDU-ČSL.
-    *   *Hlavní body:* (Rozdělit podle řečníků).
-    *   *Výsledek:* KDU-ČSL jako opozice bude bojovat za své pozměňovací návrhy a snažit se ovlivnit program sněmovny.
-    *   *Kontroverze:* Agrofert/premiér, legalizace černých staveb, omezení přístupnosti pro seniory/kočárky, neprůhlednost výjimek v obcích.
-    *   *Citace:* Vybrat ty s čísly (10 000 Kč, 25. dubna, 15 stran).</thought># Shrnutí tiskové konference poslaneckého klubu KDU-ČSL
+    *   *Téma a účel:* Tisková konference KDU-ČSL před jednáním PS. Hlavní cíl: Prezentovat kritiku novely stavebního zákona a navržené změny, vyjádřit postoj k dotacím Agrofertu a oznámit priority v programu sněmovny.
+    *   *Hlavní body:* (Sestavit podle řečníků s časovými značkami).
+    *   *Výsledek:* Žádné formální rozhodnutí (je to tiskovka), ale jasně deklarovaná opoziční pozice KDU-ČSL proti vládnímu návrhu stavebního zákona a podpora Urbanové.
+    *   *Kontroverze:* Agrofert (premiér), "černé stavby" (legalizace), zúžení přístupnosti (diskriminace slabších), neveřejné schvalování výjimek (korupční riziko).
+
+    *   *Check:* Did I include numbers? Yes (25. April, 10k CZK, 10,000s of flats).
+    *   *Check:* Did I include all speakers? Yes.
+    *   *Check:* Timestamps? Yes.
+    *   *Check:* JSON format? Must be exact.</thought># Shrnutí tiskové konference poslaneckého klubu KDU-ČSL
 
 ## 1. Téma a účel jednání
-Tisková konference poslaneckého klubu KDU-ČSL proběhla 26. května 2026 před jednáním Poslanecké sněmovny. Hlavním cílem bylo vyjádřit ostrou kritiku vládní novely stavebního zákona, prezentovat připravené pozměňovací návrhy klubu a komunikovat postoje strany k aktuálním politickým tématům, jako jsou dotace společnosti Agrofert, nezávislost médií a program nadcházejícího zasedání sněmovny.
+Tisková konference poslaneckého klubu KDU-ČSL konaná 26. května 2026 měla za cíl prezentovat postoje strany k aktuální legislativní činnosti vlády, zejména k novele stavebního zákona, a oznámit priority klubu před nadcházejícím jednáním Poslanecké sněmovny.
+
+Hlavním bodem bylo kritické zhodnocení vládního návrhu stavebního zákona, který lidovci považují za nekvalitní a potenciálně korupční. Zároveň strana představila své pozměňovací návrhy směřující k zrychlení výstavby, zvýšení dostupnosti bydlení a ochraně práv osob se zdravotním postižením a obcí.
 
 ## 2. Hlavní body
 
-**Jan Gorlich (KDU-ČSL)**
-* **Dotace Agrofertu:** Reagoval na nové stanovisko Evropské komise. Požaduje, aby premiér pozastavil vyplácení dotací společnosti Agrofert, dokud si nevyřeší svůj „osobní problém“. `[1/00:15]`
-* **Kritika stavebního zákona:** Tvrdí, že zákon je „šit horkou jehlou“, je nekvalitní a v praxi povede k zpomalení stavebního řízení kvůli personálnímu a prostorovému nedostatku na nových stavebních úřadech. `[1/00:45]`
-* **Program sněmovny:** Klub se bude snažit prosadit na program body jako balíček „Rodiče Plus“, otázky životního prostředí a zemědělství, vyjádření vlády k dopisu EK a testování žáků. `[1/12:15]`
-
-**Václav Platenka (KDU-ČSL)**
-* **Omezení přístupnosti:** Kritizuje zúžení definice přístupnosti v návrhu zákona. Původní široká definice (obecná vlastnost prostoru) je nahrazena definicí zaměřenou pouze na osoby se zdravotním postižením, čímž z ochrany vypadají senioři, osoby po zranění nebo rodiče s kočárky. `[1/02:00]`
-* **Kontradikce vlády:** Upozornil, že návrh zákona odporuje Národnímu akčnímu plánu pro vyrovnávání práv osob se zdravotním postižením schválenému vládou 25. dubna. `[1/03:15]`
-* **Spolupráce:** Pozměňovací návrhy byly vypracovány ve spolupráci s Národní radou pro osoby se zdravotně postižením a Združením nevydomých a slabozrakých. `[1/03:30]`
-
-**Maria Kršková (KDU-ČSL)**
-* **Postavení obcí:** Tvrdí, že novela posiluje investory na úkor obcí a omezuje jejich schopnost chránit kvalitu života obyvatel. `[1/05:15]`
-* **Transparentnost výjimek:** Kritizuje návrh, aby o výjimkách z územního plánování rozhodovala rada obce (která jedná neveřejně), namísto zastupitelstva (které jedná veřejně). Argument vlády o zrychlení procesu považuje za slabý. `[1/06:03]`
-
-**Bohuslav Němec (KDU-ČSL)**
-* **Legalizace černých staveb:** Varuje před pojmem „zásah nepřiměřeného přínosu“, který podle něj fakticky legalizuje černé stavby a vytváří „amnestii pro riskanty“. `[1/08:00]`
-* **Dostupnost bydlení:** Představil návrh na znemožnění poplatků za vynětí ze zemědělského půdního fondu v prolukách, což by mělo zlevnit výstavbu o částky v řádu desítek tisíc korun (zmiňuje hodnotu 10 000 Kč). `[1/09:15]`
-
-**Marian Jurečka (KDU-ČSL)**
-* **Kritika MMR:** Kritizoval nízkou kvalitu práce na Ministerstvu pro místní rozvoj a časté střídání ministrů. `[1/10:00]`
-* **Investiční byty:** Navrhuje vytvořit motivaci pro majitele prázdných investičních bytů, aby je uvolnili na trh pro dlouhodobé bydlení mladých rodin. `[1/10:09]`
-
-**František Talíř (KDU-ČSL)**
-* **Veřejnoprávní média:** Navrhne zařazení bodu o nezávislosti ČT a ČRo. Kritizuje poslanecký návrh Patrika Nachery, který by mohl znamenat krácení rozpočtů o stovky milionů korun. `[1/13:30]`
-
-**Neidentifikovaný řečník (odpověď na otázku novináře)**
-* **Volby do vedení:** KDU-ČSL podpoří paní Urbanovou (Hnutí STAN) na pozici místopředsedkyně sněmovny. `[1/15:15]`
-* **Rada ČT:** Odložení volby členů Rady ČT přisuzuje neshodě v rámci vládní koalice ohledně některých kandidátů. `[1/15:30]`
+*   **Jan Gorlich (KDU-ČSL)** — Kritizoval dotace společnosti Agrofert v souvislosti s novým stanoviskem Evropské komise; požaduje, aby premiér pozastavil jejich vyplácení, dokud nevyřeší svůj „osobní problém“. Novelu stavebního zákona označil za „šitou horkou jehlou“, která místo zrychlení řízení povede k jeho zpomalení kvůli personální a prostorové nedostatečnosti nových stavebních úřadů. `[00:00]`
+*   **Václav Platenka (KDU-ČSL)** — Varoval před zúžením definice „přístupnosti“ v stavebním zákoně. Podle něj návrh omezuje přístupnost pouze na osoby se zdravotním postižením a vynechává seniory, osoby po zranění či rodiče s kočárky. Kritizoval možnost, že investor nebo projektant může přístupnost v projektu schválit jako zbytečnou. Uvedl, že tento přístup je v rozporu s Národním akčním plánem pro vyrovnávání práv osob se zdravotním postižením schváleným 25. dubna. `[02:00]`
+*   **Maria Kršková (KDU-ČSL)** — Zaměřila se na dopady novely na obce. Tvrdí, že zákon posiluje investory na úkor samospráv. Konkrétně kritizovala návrh, aby výjimky z územního plánování schvalovala rada obce (která jedná neveřejně), namísto zastupitelstva (které jedná veřejně), což podle ní oslabuje transparentnost a zvyšuje riziko korupce. `[04:12]`
+*   **Bohuslav Němec (KDU-ČSL)** — Kritizoval pojem „zásah nepřiměřeného přínosu“, který v jeho názoru fakticky legalizuje „černé stavby“ (amnestie pro riskanty). Naopak představil pozitivní návrh na zlevnění výstavby v prolukách skrze znemožnění poplatků za vynětí ze zemědělského půdního fondu, což by ušetřilo částky v řádech desítek tisíc korun. `[06:03]`
+*   **Marian Jurečka (KDU-ČSL)** — Kritizoval nízkou kvalitu práce Ministerstva pro místní rozvoj. Navrhoval opatření pro zvýšení dostupnosti bydlení, konkrétně motivaci majitelů desítek tisíc prázdných investičních bytů, aby je uvolnili na trh pro mladé rodiny. `[08:00]`
+*   **Jan Gorlich (KDU-ČSL)** — V odpovědích na dotazy uvedl, že klub bude v programu sněmovny prosazovat balíček „Rodiče Plus“, environmentální návrhy a vyjádření vlády k dopisu Evropské komise (Agrofert) a testování žáků (MŠMT). `[12:00]`
+*   **František Talíř (KDU-ČSL)** — Oznámil snahu zařadit do programu bod o nezávislosti veřejnoprávních médií. Kritizoval poslanecký návrh Patrika Nachery, který podle něj hrozí nepredikovatelným finančním krácením České televize a Českého rozhlasu o stovky milionů korun. `[14:06]`
+*   **Neidentifikovaný řečník (KDU-ČSL)** — Potvrdil podporu paní Urbanové na pozici místopředsedkyni sněmovny. Odložení volby členů Rady České televize vnímá jako důkaz neshody v rámci vládní koalice a existence problémů u navržených kandidátů. `[14:06]`
 
 ## 3. Výsledek / závěr
-KDU-ČSL vystupuje v roli konstruktivní, ale kritické opozice. Klub oznámil, že do druhého čtení novely stavebního zákona vnesl řadu pozměňovacích návrhů zaměřených na:
-1. Vrácení široké definice přístupnosti staveb.
-2. Zajištění veřejného projednávání výjimek z územního plánu v zastupitelstvích obcí.
-3. Zamezení legalizaci černých staveb.
-4. Zlevnění výstavby v prolukách a podporu dostupného bydlení.
-
-V rámci programování sněmovny bude klub tlačit na vyjádření vlády k dotacím Agrofertu a k otázkám nezávislosti médií.
+KDU-ČSL vystupuje v roli ostře kritické opozice vůči vládnímu návrhu stavebního zákona. Strana připravila sadu pozměňovacích návrhů, které mají zákon opravit v oblasti přístupnosti, transparentnosti rozhodování v obcích a dostupnosti bydlení. V rámci programového vyznání pro nadcházející zasedání sněmovny se klub zaměří na rodinnou politiku, environmentální otázky a kontrolu vládních členů v souvislosti s dotacemi Agrofertu.
 
 ## 4. Poznámky
-Přepis obsahuje několik chyb v jménech (např. „Jan Gorlich“ místo pravděpodobně jiného jména, „Platenka“, „Kršková“) a mírné nesrozumitelnosti v závěrečné části u zmínky o „zákonu o klempíři“, což je pravděpodobně metafora nebo chybný přepis konkrétního legislativního návrhu.
+Přepis obsahuje několik typických chyb automatického přepisu (např. „Mermomocněnkyně“, „hanemnost“, „zmatkem“ místo „zmatkem/zmatením“), které byly interpretovány z kontextu. V části projevu Václava Platenky `[04:12]` dochází k výraznému rozpadu textu (useknutá slova), ale hlavní argumenty zůstávají srozumitelné.
 
 ---
 
 ## Doplňující otázky
 
-- **Kontroverzní výrok: Dotace Agrofertu**
-  - **Kdo:** Jan Gorlich (KDU-ČSL)
-  - **Co přesně:** Požadavek, aby premiér pozastavil vyplácení dotací společnosti Agrofert, dokud si nevyřeší svůj „osobní problém“.
-  - **Proč je to kontroverzní:** Přímo spojuje osobní situaci premiéra s finančními toky státu/EU k jedné z největších firem v ČR.
-  - **Čas:** `1/00:15`
-
-- **Kontroverzní návrh: Legalizace černých staveb**
+- **Kontroverzní výrok: Legalizace černých staveb**
   - **Kdo:** Bohuslav Němec (KDU-ČSL)
-  - **Co přesně:** Tvrzení, že pojem „zásah nepřiměřeného přínosu“ v novém zákoně fakticky legalizuje černé stavby a funguje jako amnestie.
-  - **Proč je to kontroverzní:** Obviňuje vládu z vytváření legislativního rámce pro obcházení zákonů a podporu nelegálních staveb.
+  - **Co přesně:** Tvrdí, že nový stavební zákon s pojmem „zásah nepřiměřeného přínosu“ fakticky legalizuje černé stavby a vytváří „amnestii pro ty, co mají rádi adrenalin“.
+  - **Proč je to kontroverzní:** Naznačuje, že státní legislativa záměrně nebo z nekompetence umožňuje obcházet zákon a legalizovat nelegální výstavbu, což podkopává právní stát.
   - **Čas:** `1/08:00`
 
-- **Kontroverzní bod: Neveřejné rozhodování o výjimkách**
+- **Kontroverzní výrok: Dotace Agrofertu a premiér**
+  - **Kdo:** Jan Gorlich (KDU-ČSL)
+  - **Co přesně:** Požaduje pozastavení vyplácení dotací společnosti Agrofert, dokud si premiér „nevyřeší svůj osobní problém“.
+  - **Proč je to kontroverzní:** Jde o přímý politický útok na hlavu vlády, který spojuje osobní integritu premiéra s rozdělováním veřejných prostředků.
+  - **Čas:** `1/00:00`
+
+- **Kontroverzní výrok: Neveřejné schvalování výjimek**
   - **Kdo:** Maria Kršková (KDU-ČSL)
-  - **Co přesně:** Kritika návrhu, aby o výjimkách z územního plánu rozhodovala rada obce neveřejně.
-  - **Proč je to kontroverzní:** Dotýká se otázky korupce a korupčních rizik při přidělování výjimek investorům „za zavřenými dveřmi“.
+  - **Co přesně:** Kritika návrhu, aby o výjimkách z územního plánu rozhodovala rada obce, která jedná neveřejně, místo zastupitelstva.
+  - **Proč je to kontroverzní:** Argumentuje, že se tak rozhodování o územním plánování přesouvá „za zavřené dveře“, což vytváří prostor pro korupci a klientelismus.
   - **Čas:** `1/06:03`
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-- **Text:** „Potřebujeme, aby premiér pozastavil vyplácení těchto dotací [společnosti Agrofert], do doby, než si tento svůj osobní problém vyřeší.“ (citace)
-- **Řečník:** Jan Gorlich, KDU-ČSL
-- **Čas:** `1/00:15`
+- **Text:** „My potřebujeme, aby premiér pozastavil vyplácení těchto dotací [Agrofertu] do doby, než si tento svůj osobní problém vyřeší.“ (Přesná citace)
+- **Řečník:** Jan Gorlich (KDU-ČSL)
+- **Čas:** `1/00:00`
 
-- **Text:** „Nový zákon [stavební] zužuje definici přístupnosti pouze na podmínky pro osoby se zdravotním postižením, čímž z ní vypadají senioři nebo maminky s kočárky.“ (parafráze)
-- **Řečník:** Václav Platenka, KDU-ČSL
-- **Čas:** `1/02:00`
-
-- **Text:** „Stavební zákon přechází z režimu zakázáno do režimu necháme se přesvědčit, což je fakticky amnestie pro ty, kteří staví nelegálně.“ (parafráze)
-- **Řečník:** Bohuslav Němec, KDU-ČSL
+- **Text:** „Nový zákon [stavební] fakticky legalizuje černé stavby... je to vlastně taková amnestie pro ty, co mají rádi adrenalin.“ (Parafráze)
+- **Řečník:** Bohuslav Němec (KDU-ČSL)
 - **Čas:** `1/08:00`
 
-- **Text:** „Navrhujeme znemožnit poplatky za vynětí ze zemědělského půdního fondu v prolukách, čímž ušetříme výstavbě částky v řádech desítek tisíc korun.“ (parafráze)
-- **Řečník:** Bohuslav Němec, KDU-ČSL
-- **Čas:** `1/09:15`
+- **Text:** „Navrhujeme úpravy [vynětí ze zemědělského půdního fondu v prolukách], aby nebylo spoplatněno a ušetříme tímto částky v hodnotách desítek tisíc korun.“ (Parafráze)
+- **Řečník:** Bohuslav Němec (KDU-ČSL)
+- **Čas:** `1/08:00`
+
+- **Text:** „V ČR máme desetitisíce bytů, které jsou postaveny, ale nevyužívají se pro dlouhodobé bydlení mladých rodin.“ (Přesná citace)
+- **Řečník:** Marian Jurečka (KDU-ČSL)
+- **Čas:** `1/10:09`
 
 ---
 
@@ -155,11 +138,11 @@ Přepis obsahuje několik chyb v jménech (např. „Jan Gorlich“ místo pravd
   "transcription": {
     "parts_transcribed": 1,
     "parts_total": 1,
-    "source": "groq",
-    "model": "whisper-large-v3"
+    "source": "whisper-large-v3",
+    "model": "groq"
   },
   "summary": {
-    "topic": "Tisková konference poslaneckého klubu KDU-ČSL proběhla 26. května 2026 před jednáním Poslanecké sněmovny. Hlavním cílem bylo vyjádřit ostrou kritiku vládní novely stavebního zákona, prezentovat připravené pozměňovací návrhy klubu a komunikovat postoje strany k aktuálním politickým tématům, jako jsou dotace společnosti Agrofert, nezávislost médií a program nadcházejícího zasedání sněmovny.",
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL konaná 26. května 2026 měla za cíl prezentovat postoje strany k aktuální legislativní činnosti vlády, zejména k novele stavebního zákona, a oznámit priority klubu před nadcházejícím jednáním Poslanecké sněmovny.\n\nHlavním bodem bylo kritické zhodnocení vládního návrhu stavebního zákona, který lidovci považují za nekvalitní a potenciálně korupční. Zároveň strana představila své pozměňovací návrhy směřující k zrychlení výstavby, zvýšení dostupnosti bydlení a ochraně práv osob se zdravotním postižením a obcí.",
     "main_points": [
-      "**Jan Gorlich (KDU-ČSL)** — Reagoval na stanovisko EK k dotacím Agrofertu a požadoval jejich pozastavení premiérem. Kritizoval stavební zákon jako „šitý horkou jehlou“ a oznámil snahu prosadit na program sněmovny body jako „Rodiče Plus“ a otázky životního prostředí. `[1/00:15]`",
-      "**Václav Platenka (KDU-ČSL)** — Varoval před zúžením definice přístupnosti staveb, čímž by z ochr
+      "**Jan Gorlich (KDU-ČSL)** — Kritizoval dotace společnosti Agrofert v souvislosti s novým stanoviskem Evropské komise; požaduje, aby premiér pozastavil jejich vyplácení, dokud si nevyřeší svůj „osobní problém“. Novelu stavebního zákona označil za „šitou horkou jehlou“, která místo zrychlení řízení povede k jeho zpomalení kvůli personální a prostorové nedostatečnosti nových stavebních úřadů. `[00:00]`",
+      "**Václav Platenka (KDU-ČSL)** — Varoval před zúžením definice „přístupnosti“ v stavebním zákoně. Podle něj návrh omezuje přístupnost pouze na osoby se zdravotním postižením

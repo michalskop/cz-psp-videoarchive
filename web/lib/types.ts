@@ -119,14 +119,15 @@ export function videoDeepLink(
 }
 
 /**
- * Extract a trailing `[N/MM:SS]` timestamp (optionally in backticks) from a
+ * Extract a `[N/MM:SS]` timestamp (optionally in backticks) from anywhere in a
  * main_points string. Returns the cleaned text and the timestamp separately.
  */
 export function parseMainPointTimestamp(text: string): {
   cleanText: string;
   timestamp: string | null;
 } {
-  const m = text.match(/`?\[(\d+\/\d{1,2}:\d{2})\]`?\s*$/);
+  const m = text.match(/`?\[(\d+\/\d{1,2}:\d{2})\]`?/);
   if (!m) return { cleanText: text, timestamp: null };
-  return { cleanText: text.slice(0, m.index).trimEnd(), timestamp: m[1] };
+  const cleanText = text.replace(/\s*`?\[\d+\/\d{1,2}:\d{2}\]`?/, "").trimEnd();
+  return { cleanText, timestamp: m[1] };
 }

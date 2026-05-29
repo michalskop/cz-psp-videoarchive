@@ -117,7 +117,7 @@ function parseStatement(text: string): {
   const bullets: { key: string; value: string }[] = [];
 
   for (const line of lines) {
-    const m = line.match(/^\s*(?:\*\s+)?\*\*([^:*]+):\*\*\s*(.*)/);
+    const m = line.match(/^\s*(?:[-*]\s+)?\*\*([^:*]+):\*\*\s*(.*)/);
     if (m) {
       const key = m[1].trim();
       if (key === "Čas") continue;
