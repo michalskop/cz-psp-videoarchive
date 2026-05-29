@@ -1,0 +1,151 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-26T16:54:27",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2866",
+    "name": "Strategická surovina - české uhlí",
+    "classification": "Seminář",
+    "start_date": "2026-05-04T10:07",
+    "end_date": "2026-05-04T15:46",
+    "sources": [
+      "final/event_2866_2026-05-04_strategicka-surovina-ceske-uhli.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 35,
+    "parts_total": 35,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na roli uhlí v energetické soustavě České republiky, jeho význam pro energetickou bezpečnost a průmysl, a na rizika spojená s jeho předčasným útlumem. Cílem akce bylo vrátit debatu o energetice k faktům, pojmenovat technická a ekonomická rizika současné energetické transformace a formulovat realistická doporučení pro vládu a parlament.\n\nHlavním motivem byla kritika odtrženosti energetické politiky od fyzikální reality a technických možností. Řečníci zdůrazňovali, že uhlí není pouze zdrojem energie, ale strategickou surovinou, jejíž útlum bez zajištění stabilních náhrad (zejména jaderných bloků) ohrožuje stabilitu sítě, konkurenceschopnost průmyslu a sociální stabilitu regionů.",
+    "main_points": [
+      "**Roman Čada (moderátor, garant strany Právo a odbornost)** — Upozornil, že energetická transformace probíhá bez zajištění technické a ekonomické proveditelnosti. Zdůraznil, že instalovaný výkon z obnovitelných zdrojů (OZE) nelze zaměňovat za řiditelný výkon a stabilitu soustavy.",
+      "**Jindřich Rajchl (poslanec, garant semináře)** — Kritizoval „bruselskou ideologii“ a Green Deal. Navrhl, aby stát přestal být pasivním pozorovatelem a začal aktivně chránit energetickou soběstačnost, případně zvážil model státního obchodníka s energií.",
+      "**Martin Čermák (Sokolovská uhelná, SUAS Group)** — Uvedl, že výroba elektřiny z uhlí je ekonomicky neudržitelná kvůli cenám emisních povolenek, ale uhlí zůstává klíčové pro centrální zásobování teplem (CZT). Požaduje vytvoření pracovní skupiny pro plánování konce těžby, aby nedošlo k nenávratnému znehodnocení ložisek.",
+      "**Prof. František Hrdlička (ČVUT, Uhelná komise)** — Varoval před „energetickým trilematem“ (bezpečnost, dostupnost, udržitelnost). Upozornil, že bez uhlí se ČR může dostat do pozice energeticky závislé země s vysokými cenami elektřiny.",
+      "**Ing. Jan Vondráš (Invicta Bohemica)** — Prezentoval analýzy, podle nichž vypadnutí uhelných zdrojů z trhu vytvoří strukturální deficit elektřiny, který nelze pokrýt dovozem. Náklady na „dekarbonizační scénář“ odhadl jako jedenáctinásobně vyšší než investice do jádra a udržení uhlí.",
+      "**Ing. René Neděla (náměstek MPO)** — Připustil, že „vlak transformace“ je rozjetý a nelze jej zastavit, pouze přibrzdit. Zdůraznil, že stát nemá podnikat, ale vytvářet podmínky. Upozornil na nedostatek lidských zdrojů v oboru a technickou náročnost údržby starých zdrojů.",
+      "**Dr. Petr Mašek (Česká geologická služba)** — Poskytl přehled surovinových zásob. Konstatoval, že černé uhlí je prakticky vytěženo, hnědé uhlí je omezeno limity a uranové zásoby jsou pro potřeby ČR nedostatečné.",
+      "**Dr. Vladimír Dědeček (Akademie věd)** — Zaměřil se na fyzikální limity. Kritizoval snahy o využití uhlí jako chemické suroviny (neefektivní) a varoval před úniky metanu u plynových technologií.",
+      "**Ing. Ivan Čížek (Realistická energetika a ekologie)** — Prezentoval fyzikální limity hustoty energie. Zdůraznil, že OZE mají nízkou hustotu výkonu a vyžadují obrovské materiálové investice, což vede k ekonomickému úpadku."
+    ],
+    "outcome": "Seminář dospěl ke konsenzu, že současný proces útlumu uhlí je příliš rychlý a technicky nepodložený. Jako závěr byla formulována potřeba:\n* **Obnovit činnost Uhelné komise** nebo ustanovit pracovní výbor při MPO pro řízenou transformaci.\n* **Zachovat uhlí jako strategickou surovinu** a zajistit přístup k ložiskům pro budoucí potřeby.\n* **Nastavit podmínky řízeného útlumu** tak, aby nebyla ohrožena energetická bezpečnost ČR.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a občasné halucinace modelu (opakující se fráze). Části záznamu byly nesrozumitelné, což bylo při shrnutí zohledněno zaměřením na faktické argumenty řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Roman Čada",
+        "person_id": null,
+        "affiliation": "Právo a odbornost"
+      },
+      {
+        "name": "Jindřich Rajchl",
+        "person_id": "psp:person:7037",
+        "affiliation": "Poslanec Parlamentu ČR"
+      },
+      {
+        "name": "Martin Čermák",
+        "person_id": null,
+        "affiliation": "Sokolovská uhelná / SUAS Group"
+      },
+      {
+        "name": "František Hrdlička",
+        "person_id": "psp:person:1637",
+        "affiliation": "ČVUT / Uhelná komise"
+      },
+      {
+        "name": "Jan Vondráš",
+        "person_id": null,
+        "affiliation": "Invicta Bohemica"
+      },
+      {
+        "name": "René Neděla",
+        "person_id": null,
+        "affiliation": "Ministerstvo průmyslu a obchodu"
+      },
+      {
+        "name": "Petr Mašek",
+        "person_id": null,
+        "affiliation": "Česká geologická služba"
+      },
+      {
+        "name": "Vladimír Dědeček",
+        "person_id": null,
+        "affiliation": "Akademie věd"
+      },
+      {
+        "name": "Ivan Čížek",
+        "person_id": null,
+        "affiliation": "Realistická energetika a ekologie"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo průmyslu a obchodu",
+      "ČEPS",
+      "ČVUT",
+      "Akademie věd"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud bychom chtěli nahradit uhlí jádrem, potřebujeme šest bloků. Jestli postavíme jednu novou jadernou elektrárnu, budeme velmi rádi.",
+      "type": "citation",
+      "speaker": "Vladimír Dědeček",
+      "affiliation": "Akademie věd",
+      "timestamp": "23/04:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_highlight_00.jpg"
+    },
+    {
+      "text": "Jestliže má někdo důl a elektrárnu, tak i přesto, že má celou tu kombinaci, tak ekonomicky mu to dneska nevychází.",
+      "type": "citation",
+      "speaker": "René Neděla",
+      "affiliation": "Ministerstvo průmyslu a obchodu",
+      "timestamp": "10/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_highlight_01.jpg"
+    },
+    {
+      "text": "Úplná dekarbonizace globální ekonomiky je myslitelná pouze za cenu nemyslitelného ekonomického úpadku.",
+      "type": "citation",
+      "speaker": "Ivan Čížek",
+      "affiliation": "Realistická energetika a ekologie",
+      "timestamp": "33/05:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_highlight_02.jpg"
+    },
+    {
+      "text": "Potřebujeme méně ideologie a více fyziky, méně proklamací a více realizovatelných řešení.",
+      "type": "paraphrase",
+      "speaker": "Roman Čada",
+      "affiliation": "Právo a odbornost",
+      "timestamp": "35/04:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_highlight_03.jpg"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na ignorování evropských emisních nařízení a „zaplacení pokuty“ jako levnější varianty oproti nákladům na transformaci.\n* **Kdo:** René Neděla (MPO) v reakci na dotaz z publika.\n* **Proč:** Jde o otevřenou výzvu k porušování evropského práva, což je politicky vysoce citlivé.",
+      "speaker": "René Neděla",
+      "affiliation": "Ministerstvo průmyslu a obchodu",
+      "timestamp": "11/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_controversy_00.jpg"
+    },
+    {
+      "statement": "Označení likvidace černouhelných dolů (DIAMO) za „zločin na příštích generacích“.\n* **Kdo:** Hynek Beran (odborník na energetiku).\n* **Proč:** Silné emocionální a politické obvinění státní správy z poškozování národních zájmů.",
+      "speaker": "Hynek Beran",
+      "affiliation": null,
+      "timestamp": "26/08:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2866_controversy_01.jpg"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

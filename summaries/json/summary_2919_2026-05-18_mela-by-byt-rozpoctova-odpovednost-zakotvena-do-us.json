@@ -1,0 +1,127 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-24T01:23:13",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2919",
+    "name": "Měla by být rozpočtová odpovědnost zakotvená do ústavního pořádku?",
+    "classification": "Seminář",
+    "start_date": "2026-05-18T09:09",
+    "end_date": "2026-05-18T11:02",
+    "sources": [
+      "final/event_2919_2026-05-18_mela-by-byt-rozpoctova-odpovednost-zakotvena-do-us.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zabýval otázkou, zda by měla být rozpočtová odpovědnost zakotvena do ústavního pořádku České republiky. Cílem bylo prodiskutovat, zda by ústavní zakotvení pravidel hospodaření státu mohlo pomoci vrátit rozpočtovou politiku k udržitelnosti a vytvořit shodu napříč politickým spektrem, která byla podle řečníků narušena zejména v období pandemie covid-19.\n\nDiskuse se zaměřila na to, zda je ústavní úprava vhodným nástrojem pro omezení populistických tendencí vlád, jakou formu by měla mít (zda deklaratorní věta, nebo tvrdá numerická pravidla) a jaké jsou limity současné legislativy.",
+    "main_points": [
+      "**Neidentifikovaný řečník (hnutí STAN)** – Argumentuje nutností návratu k rozpočtové odpovědnosti a otevřením debaty o příjmové stránce státního rozpočtu.",
+      "**Kovářová (Poslanecká sněmovna)** – Navrhuje zakotvení práva na zdravé veřejné finance do ústavy jako pojistku proti populistickým vládám.",
+      "**Prof. Boháč (Právnická fakulta UK)** – Preferuje minimalistickou ústavní deklaraci před striktními pravidly, která by mohla omezit reakci na krize.",
+      "**Doc. Antoš (Právnická fakulta UK)** – Varuje před „atomovou zbraní“ v podobě ústavního soudu a navrhuje posílení nezávislých institucí (majáků).",
+      "**Doc. Holub (Institut ekonomických studií)** – Kritizuje hierarchii zákonů, kde je rozpočet nadřazen pravidlům odpovědnosti, a podporuje ústavní princip udržitelnosti.",
+      "**Dr. Musil (Národní rozpočtová rada)** – Skeptický k numerickým pravidlům v ústavě; zdůrazňuje, že klíčová je politická kultura a respekt k pravidlům.",
+      "**Jakub Ševčík (Ministerstvo financí)** – Obhajuje deklaratorní formu ústavního zákona jako nástroj pro přezkum rozpočtově neodpovědných reforem."
+    ],
+    "outcome": "Formální rozhodnutí nebylo přijato. Panovala shoda na tom, že téma je extrémně složité. Dominujícím postojem panelistů byla podpora pro **minimalistickou ústavní deklaraci**, která by sloužila jako vodítko pro ústavní soud a prezidenta, spíše než pro zavádění striktních číselných limitů přímo do ústavy.",
+    "notes": "Přepis obsahuje občasné chyby v diakritice a useknutá slova, nicméně odborný obsah byl srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "hnutí STAN"
+      },
+      {
+        "name": "Kovářová",
+        "person_id": "psp:person:2249",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Radim Boháč",
+        "person_id": null,
+        "affiliation": "Právnická fakulta UK"
+      },
+      {
+        "name": "Marek Antoš",
+        "person_id": null,
+        "affiliation": "Právnická fakulta UK"
+      },
+      {
+        "name": "Tomáš Holub",
+        "person_id": null,
+        "affiliation": "Institut ekonomických studií"
+      },
+      {
+        "name": "Petr Musil",
+        "person_id": "psp:person:6859",
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Jakub Ševčík",
+        "person_id": null,
+        "affiliation": "Ministerstvo financí"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "ODS",
+      "SPD",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Národní rozpočtová rada",
+      "Ministerstvo financí",
+      "Univerzita Karlova"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Stát a územní samosprávné celky dbají o zdravé a udržitelné veřejné finance.",
+      "type": "paraphrase",
+      "speaker": "Radim Boháč",
+      "affiliation": "Právnická fakulta UK",
+      "timestamp": "4/04:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2919_highlight_00.jpg"
+    },
+    {
+      "text": "Dluhová brzda je opatření proti populistickým vládám, které zvyšují státní dluh, aniž by myslely na generace příští.",
+      "type": "citation",
+      "speaker": "Kovářová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "2/08:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2919_highlight_01.jpg"
+    },
+    {
+      "text": "Mnohem důležitější debata, než to, jestli máme mít fiskální pravidla v ústavě, je to, jaká je úcta k těm pravidlům.",
+      "type": "citation",
+      "speaker": "Petr Musil",
+      "affiliation": "Národní rozpočtová rada",
+      "timestamp": "7/00:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2919_highlight_02.jpg"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Návrh:** Zvýšení daně z nemovitých věcí na úroveň 120 mld. Kč.\n**Kdo:** Radim Boháč (Právnická fakulta UK).\n**Proč:** Politicky extrémně citlivé téma, které by znamenalo zásadní změnu daňového mixu a odpor vlastníků nemovitostí.\n**Čas:** 4/06:07",
+      "speaker": "Radim Boháč",
+      "affiliation": "Právnická fakulta UK",
+      "timestamp": "4/06:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2919_controversy_00.jpg"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

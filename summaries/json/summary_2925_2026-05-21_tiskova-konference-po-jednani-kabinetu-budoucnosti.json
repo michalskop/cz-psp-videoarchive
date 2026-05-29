@@ -1,0 +1,124 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-24T02:22:21",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2925",
+    "name": "Tisková konference po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-21T11:00",
+    "end_date": "2026-05-21T11:17",
+    "sources": [
+      "final/event_2925_2026-05-21_tiskova-konference-po-jednani-kabinetu-budoucnosti.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference „Kabinetu budoucnosti“ (stínové vlády hnutí Starostové a nezávislí) se konala 21. května 2026. Cílem bylo představit kritický postoj opozice k aktuálním krokům vlády Andreje Babiše, zejména v oblastech rozpočtové politiky, důchodového systému, bydlení, státní správy a zemědělských dotací.\n\nZástupci hnutí deklarovali záměr podat ústavní stížnost proti rozvolňování rozpočtových pravidel, kritizovali změny v důchodovém systému a přesun kompetencí v oblasti bydlení na Úřady práce. Dále představili legislativní iniciativu na ochranu koordinace lidských práv a protidrogové politiky a vyjádřili nesouhlas s nastavením dotační politiky v zemědělství.",
+    "main_points": [
+      "**Lucie Sedmihradská (STAN)** — Kritika vlády za „rozpočtový podfuk“ a obcházení pravidel rozpočtové odpovědnosti. Oznámení podání ústavní stížnosti proti novele zákonů o rozpočtových pravidlech a návrh na zakotvení rozpočtové odpovědnosti do ústavy.",
+      "**Pavla Pivoňka Vaňková (STAN)** — Odmítnutí vládních změn v důchodech. Požadavek na přesměrování přebytků důchodového systému do sociálních služeb v regionech místo necíleného rozhazování peněz.",
+      "**Barbora Stašková (STAN)** — Kritika přesunu kompetencí v oblasti bydlení z obcí na přetížené Úřady práce, což vytváří duplicity a byrokracii.",
+      "**Barbora Urbanová (STAN)** — Kritika rušení odborů na Úřadu vlády koordinujících lidská práva a protidrogovou politiku. Představení novely kompetenčního zákona pro zákonné ukotvení těchto agend.",
+      "**Petr Kulhánek (STAN)** — Kritika dotační politiky, která omezuje finance na vědu a inovace ve prospěch velkých zemědělských korporací (Agrofert).",
+      "**Tomáš Dubský (STAN)** — Upozornění na pokles dotací pro domácnosti a vědce o 18 miliard korun. Výzva ministrovi zemědělství k objektivitě a zastropování dotací."
+    ],
+    "outcome": "Opozice (STAN) se shodla na aktivním blokování volebních bodů týkajících se radních České televize v rámci příštího jednání Sněmovny. V oblasti rozpočtové odpovědnosti bude opozice spolupracovat se senátory na hledání možností, jak omezit vládní „únikovou doložku“.",
+    "notes": "Přepis je místy mírně nesouvislý v důsledku automatického generování, ale hlavní argumentační linie jsou srozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Stašková",
+        "person_id": null,
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Petr Kulhánek",
+        "person_id": "psp:person:6949",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Tomáš Dubský",
+        "person_id": "psp:person:6728",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Úřad vlády",
+      "Agrofert",
+      "Česká televize"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Babišova vláda od svého nástupu předvedla sérii kroků, které mají všechny společného jmenovatele: oslabit kontrolu, obejít pravidla a otevřít cestu ke skrytému zadlužování České republiky.",
+      "type": "paraphrase",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/00:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_highlight_00.png"
+    },
+    {
+      "text": "Celkový objem dotací přitom klesne o více než 18 miliard korun, přičemž se přesouvají od domácností, vědců a humanitárních organizací směrem k velkým zemědělským podnikům.",
+      "type": "citation",
+      "speaker": "Tomáš Dubský",
+      "affiliation": "STAN",
+      "timestamp": "1/12:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_highlight_01.png"
+    },
+    {
+      "text": "My zítra předložíme krátkou novelu kompetenčního zákona, kde říkáme, že Úřad vlády musí zajišťovat koordinaci protidrogové politiky, ochrany lidských práv a rovných příležitostí.",
+      "type": "paraphrase",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "STAN",
+      "timestamp": "1/09:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_highlight_02.png"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Podání ústavní stížnosti na vládu**\n* **Kdo:** Lucie Sedmihradská (STAN)\n* **Co:** Podání ústavní stížnosti proti novele zákonů o rozpočtových pravidlech a pravidlech rozpočtové odpovědnosti.\n* **Proč:** Jde o přímý střet s exekutivou, kdy opozice napadá zákonnost vládního rozpočtu a procesních změn v parlamentu.\n* **Čas:** 1/01:45",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/01:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_controversy_00.png"
+    },
+    {
+      "statement": "**Kontroverzní výrok: Ministr zemědělství jako lobbista**\n* **Kdo:** Tomáš Dubský (STAN)\n* **Co:** Výzva ministrovi zemědělství, aby si uvědomil, že již není šéfem lobbistické skupiny.\n* **Proč:** Přímé zpochybnění integrity člena vlády a jeho napojení na zájmy konkrétních firem (Agrofert).\n* **Čas:** 1/14:02",
+      "speaker": "Tomáš Dubský",
+      "affiliation": "STAN",
+      "timestamp": "1/14:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2925_controversy_01.png"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-28T17:20:31",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2947",
+    "name": "Ochrana dětí a dospívajících v digitálním prostředí",
+    "classification": "Konference",
+    "start_date": "2026-05-27T10:05",
+    "end_date": "2026-05-27T13:23",
+    "sources": [
+      "final/event_2947_2026-05-27_ochrana-deti-a-dospivajicich-v-digitalnim-prostred.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 42,
+    "parts_total": 42,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání mělo formu odborné konference, jejímž cílem bylo diskutovat o negativních vlivech sociálních sítí a digitálních technologií na nejmladší generaci. Hlavními tématy byly dopady na duševní zdraví, rizika kyberšikany, radikalizace dospívajících, vliv algoritmů na závislostní chování a otázka věkové hranice pro přístup k sociálním sítím.\n\nKonference si kladla za cíl posunout debatu od otázky „zda“ regulovat k otázce „jak“ regulovat, a to s využitím zkušeností ze zahraničí (Austrálie, Dánsko) a odborných dat z českého prostředí. Účastníci se shodli na nutnosti systémového přístupu, který kombinuje legislativní regulaci platforem, osvětu rodičů a posílení digitální gramotnosti ve školách.",
+    "main_points": [
+      "**Helena Langšádlová (poslankyně)** — Navrhuje regulaci věkové hranice (souhlas rodičů mezi 13 a 16 lety) a intenzivní práci s rodiči.",
+      "**Irena Ferčíková-Konečná (poslankyně)** — Požaduje otočení paradigmatu, kdy platformy musí předpokládat zranitelnost dítěte jako výchozí stav.",
+      "**Jitka Uhrová a Kamila Kolmanová** — Prezentovaly data: 82 % předškoláků tráví na obrazovkách více než hodinu denně.",
+      "**Věra Jourová (bývalá eurokomisařka)** — Prosazuje princip 'Health by Design' a přísné vymáhání DSA se sankcemi až do výše 6 % globálního obratu.",
+      "**Filip Hubáček a Tashi Andersen** — Sdíleli zkušenosti z Austrálie (plošný zákaz sítí do 16 let) a Dánska (testování ID verifikace).",
+      "**Zuzana Bildová a Kateřina Tysová (ČRDM)** — Upozornily na vysokou míru radikalizace mládeže (91 % setkání s radikálním obsahem)."
+    ],
+    "outcome": "Konference potvrdila silný konsenzus napříč politickým spektrem o nutnosti řešit ochranu dětí v digitálním prostředí. Dominujícím postojem je podpora implementace nařízení DSA, posílení role státu při vymáhání pravidel po platformách a nutnost systémové prevence ve školách a rodinách.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky textu. Části týkající se konkrétních legislativních návrhů byly v přepisu místy nesrozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Helena Langšádlová",
+        "person_id": "psp:person:5943",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Věra Jourová",
+        "person_id": "psp:person:6203",
+        "affiliation": "bývalá eurokomisařka"
+      },
+      {
+        "name": "Irena Ferčíková-Konečná",
+        "person_id": "psp:person:7003",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Kamil Kopecký",
+        "person_id": null,
+        "affiliation": "e-bezpečí"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NUKIB",
+      "ČTÚ",
+      "MŠMT",
+      "ČRDM"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Každé šesté dítě v Evropě již bylo vystaveno kybersikaně.",
+      "type": "citation",
+      "speaker": "Helena Langšádlová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/08:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2947_highlight_00.jpg",
+      "context": "Údaj odpovídá datům zprávy WHO (World Health Organization) z roku 2024, která uvádí, že přibližně 16 % dospívajících ve věku 11–15 let v Evropě a Střední Asii zažilo kyberšikanu. Číslo se v čase zvyšuje, zejména v souvislosti s nárůstem času stráveného na sociálních sítích."
+    },
+    {
+      "text": "Regulace nemá smysl, pokud se nevymáhá.",
+      "type": "citation",
+      "speaker": "Věra Jourová",
+      "affiliation": "bývalá eurokomisařka",
+      "timestamp": "24/04:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2947_highlight_01.jpg",
+      "context": "Jde o politický názor a princip právní teorie (tzv. efektivita práva), nikoliv o ověřitelný fakt. V kontextu evropské legislativy (např. Akt o digitálních službách - DSA) je vymáhání pravidel skutečně klíčovým bodem debaty o funkčnosti regulace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Plošný zákaz smartphonů ve školách zákonem.\n\n*   **Kdo:** Matěj Holan (diskutující) vs. zástupci MŠMT.\n*   **Co:** Požadavek na plošný zákonný zákaz mobilů ve školách.\n*   **Proč:** Kontroverzní kvůli střetu mezi autonomií škol a snahou o plošnou státní regulaci.\n*   **Čas:** 41/00:01",
+      "speaker": "Matěj Holan",
+      "affiliation": null,
+      "timestamp": "41/00:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2947_controversy_00.jpg",
+      "context": "V České republice v současnosti neexistuje zákon, který by plošně zakazoval mobily ve školách. Podle školského zákona (č. 561/2004 Sb.) mají školy autonomii v tvorbě školního řádu, na jehož základě mohou používání mobilních telefonů omezit či zakázat v rámci vnitřních pravidel."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

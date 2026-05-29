@@ -1,0 +1,139 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-26T17:33:37",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2791",
+    "name": "Na cestě do energetické budoucnosti",
+    "classification": "Seminář",
+    "start_date": "2026-03-31",
+    "end_date": "2026-03-31",
+    "sources": [
+      "final/event_2791_2026-03-31_na-ceste-do-energeticke-budoucnosti.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 32,
+    "parts_total": 32,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na budoucnost české energetiky v horizontu let 2026–2050. Cílem bylo vytvořit platformu pro diskuzi mezi zastánci moderní (obnovitelné) energetiky, experty na realistickou energetiku (preferující jádro a stabilitu) a zástupci státní správy.\n\nJednání reflektovalo napětí mezi nutností dekarbonizace, zajištěním energetické bezpečnosti a udržením konkurenceschopnosti českého průmyslu. Diskutovány byly dopady odklonu od uhlí, role plynu jako přechodového paliva, nezbytnost rozvoje jaderné energetiky a ekonomické dopady transformace na koncové spotřebitele a průmysl.",
+    "main_points": [
+      "**Marek Lang, Jan Brázda, Martin Sedlák (Svaz moderní energetiky):** Argumentovali pro rozvoj obnovitelných zdrojů (OZE) jako cesty k levnější a bezpečnější energii. Zdůraznili potenciál v úsporách, tepelných čerpadlech a decentralizaci.",
+      "**prof. František Hrdlička, prof. Petr Krtil, doc. Karel Noháč, doc. Lubomír Lízal, Mgr. Jan Horáček, Ing. Jan Vondráš (Realistická energetika a ekologie):** Varovali před nestabilitou OZE, vysokými náklady na zálohování a riziky pro stabilitu přenosové soustavy. Zdůraznili nezastupitelnost jádra.",
+      "**Ing. Mgr. Tomáš Doležal (poslanec):** Zdůraznil nutnost spolupráce mezi vládou a soukromým sektorem a varoval před dopady emisních povolenek (ETS1) na průmysl.",
+      "**Ing. Tomáš Měřínský (Ocelářská unie):** Upozornil na kritickou závislost průmyslu na stabilních dodávkách energie.",
+      "**Ing. et Ing. René Neděla (MPO):** Informoval o legislativních krocích (Lex OZE, akcelerační zóny) a přípravě kapacitních mechanismů.",
+      "**Ing. Jan Šefránek (ERÚ):** Zaměřil se na regulované složky cen energií a nutnost změny tarifní struktury.",
+      "**Ing. Josef Kotrba (Svaz energetiky ČR):** Upozornil na to, že trh částečně řeší odklon od uhlí sám skrze ceny povolenek, ale varoval před riziky spojenými s rychlou elektrifikací vytápění."
+    ],
+    "outcome": "Formální rozhodnutí nebylo přijato. Seminář potvrdil hluboký názorový rozpor mezi zastánci rychlé transformace na OZE a zastánci zachování stabilních fosilních/jaderných zdrojů. Dominujícím postojem je shoda na nezbytnosti jádra jako „base-load“ zdroje, avšak panuje zásadní neshoda na roli OZE, nákladech na transformaci a způsobu, jakým má stát zajistit energetickou bezpečnost po útlumu uhlí.",
+    "notes": "Přepis obsahuje četné technické chyby, výpadky textu a halucinace (opakující se fráze). Části záznamu (zejména v závěru) jsou nesrozumitelné kvůli překryvům řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marie Pošarová",
+        "person_id": "psp:person:6745",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Tomáš Doležal",
+        "person_id": "psp:person:7001",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Martin Sedlák",
+        "person_id": "psp:person:6153",
+        "affiliation": "Svaz moderní energetiky"
+      },
+      {
+        "name": "Marek Lang",
+        "person_id": null,
+        "affiliation": "Svaz moderní energetiky"
+      },
+      {
+        "name": "Jan Brázda",
+        "person_id": null,
+        "affiliation": "Svaz moderní energetiky"
+      },
+      {
+        "name": "František Hrdlička",
+        "person_id": "psp:person:1637",
+        "affiliation": "ČVUT"
+      },
+      {
+        "name": "René Neděla",
+        "person_id": null,
+        "affiliation": "MPO"
+      },
+      {
+        "name": "Jan Šefránek",
+        "person_id": null,
+        "affiliation": "ERÚ"
+      },
+      {
+        "name": "Josef Kotrba",
+        "person_id": null,
+        "affiliation": "Svaz energetiky ČR"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo průmyslu a obchodu",
+      "Energetický regulační úřad"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika je jedna ze světových velmocí ve výrobě tepelných čerpadel, vyvážíme jich stovky tisíc.",
+      "type": "paraphrase",
+      "speaker": "Martin Sedlák",
+      "affiliation": "Svaz moderní energetiky",
+      "timestamp": "2/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2791_highlight_00.jpg"
+    },
+    {
+      "text": "Do roku 2030 očekáváme v elektroenergetice investice ve výši 200 miliard korun.",
+      "type": "citation",
+      "speaker": "Jan Šefránek",
+      "affiliation": "ERÚ",
+      "timestamp": "24/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2791_highlight_01.jpg"
+    },
+    {
+      "text": "V zimním období vyrobí solární elektrárny pouze 3 % spotřeby.",
+      "type": "citation",
+      "speaker": "Jan Horáček",
+      "affiliation": "Realistická energetika a ekologie",
+      "timestamp": "15/08:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2791_highlight_02.jpg"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na zavedení českého systému pro emisní povolenky (zastropování ceny na 40 EUR, zbytek doplatí stát).",
+      "speaker": "Milan Smutný",
+      "affiliation": "Realistická energetika a ekologie",
+      "timestamp": "28/02:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2791_controversy_00.jpg"
+    },
+    {
+      "statement": "„Zelená mafie chce ukrást tenhle stát a peněženky občanů.“",
+      "speaker": "Marie Pošarová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "31/08:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2791_controversy_01.jpg"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "poor",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T02:58:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2911",
+    "name": "Společenské setkání na počest Státu Izrael a svátku Dne Jeruzaléma",
+    "classification": "Ostatní",
+    "start_date": "2026-05-14T15:09",
+    "end_date": "2026-05-14T16:26",
+    "sources": [
+      "final/event_2911_2026-05-14_spolecenske-setkani-na-pocest-statu-izrael-a-svatk.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 9,
+    "parts_total": 9,
+    "source": "whisper",
+    "model": "large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se uskutečnilo 14. května 2026 v prostorách Poslanecké sněmovny u příležitosti 78. výročí vyhlášení nezávislosti Státu Izrael a svátku Dne Jeruzaléma. Cílem akce bylo vyjádřit podporu Izraeli, upevnit meziparlamentní vztahy a podpořit dlouhodobý politický cíl – přesun českého velvyslanectví z Tel Avivu do Jeruzaléma.\n\nSetkání pod záštitou předsedy Meziparlamentní skupiny přátel ČR–Izrael Miroslava Janulíka se zúčastnili zástupci obou komor Parlamentu ČR, velvyslanec Státu Izrael a představitelé mezinárodních organizací. Součástí akce byla výzva k podpisu deklarace adresované české vládě, která požaduje plnohodnotné uznání Jeruzaléma jako hlavního města Izraele prostřednictvím přesunu ambasády.",
+    "main_points": [
+      "**Miroslav Janulík (ANO 2011)**: Předseda skupiny přátel ČR-Izrael, zdůraznil potřebu přesunu ambasády.",
+      "**Prof. Jan Pěrek (Senát PČR)**: Připomněl historickou podporu Izraele od Masaryka po Havla.",
+      "**Amir Weissbrod (velvyslanec Izraele)**: Ocenil přátelství a turistický zájem Čechů o Izrael.",
+      "**Jefim Fištejn (publicista)**: Kritizoval mezinárodní právo a civilizační úpadek západních politiků.",
+      "**Mojmír Kallus (ICEJ)**: Představil zástupce více než 20 zemí podporujících Jeruzalém jako hlavní město.",
+      "**Leofan Dosburg (Israel Allies Foundation)**: Informoval o mezinárodní síti zákonodárců.",
+      "**Karel Sedláček (Česká společnost přátel Izraele)**: Zdůraznil symboliku Tóry v parlamentu."
+    ],
+    "outcome": "Akce skončila konsenzuální podporou přesunu českého velvyslanectví do Jeruzaléma. Účastníci byli vyzváni k podpisu deklarace, která bude následně předložena předsedovi vlády. Setkání bylo zakončeno státními hymnami ČR a Izraele.",
+    "notes": "Přepis obsahuje četné technické chyby. Část 1/9 je prázdná."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Miroslav Janulík",
+        "person_id": "psp:person:6201",
+        "affiliation": "ANO 2011"
+      },
+      {
+        "name": "Jan Pěrek",
+        "person_id": "psp:person:6875",
+        "affiliation": "Senát PČR"
+      },
+      {
+        "name": "Amir Weissbrod",
+        "person_id": null,
+        "affiliation": "Velvyslanectví Státu Izrael"
+      },
+      {
+        "name": "Jefim Fištejn",
+        "person_id": "psp:person:6915",
+        "affiliation": null
+      },
+      {
+        "name": "Mojmír Kallus",
+        "person_id": null,
+        "affiliation": "ICEJ"
+      },
+      {
+        "name": "Leofan Dosburg",
+        "person_id": null,
+        "affiliation": "Israel Allies Foundation"
+      },
+      {
+        "name": "Karel Sedláček",
+        "person_id": "psp:person:6740",
+        "affiliation": "Česká společnost přátel Izraele"
+      }
+    ],
+    "parties": [
+      "ANO 2011"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát PČR",
+      "ICEJ",
+      "Israel Allies Foundation"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika dlouhodobě rozvíjí s Izraelem nadstandardní vztahy, založené na společných demokratických hodnotách.",
+      "type": "paraphrase",
+      "speaker": "Petr Macinka",
+      "affiliation": "Ministerstvo zahraničních věcí",
+      "timestamp": "8/01:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_00.jpg",
+      "context": "Vztahy mezi ČR a Izraelem jsou dlouhodobě označovány za strategické a nadstandardní, což potvrzují pravidelná společná zasedání vlád obou zemí (tzv. intergovernmental consultations). Tato spolupráce je ukotvena v řadě bilaterálních dohod a deklarací o strategickém partnerství."
+    },
+    {
+      "text": "Jeruzalém stojí na srdci českého lidství pro více než tři tisíce let.",
+      "type": "citation",
+      "speaker": "Amir Weissbrod",
+      "affiliation": "Velvyslanectví Státu Izrael",
+      "timestamp": "3/06:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_01.jpg",
+      "context": "Tvrzení má historicko-náboženský charakter a odkazuje na židovskou přítomnost v Jeruzalémě. Z hlediska faktografického ověření jde o interpretaci historické kontinuity, kterou nelze objektivně měřit jako politický či právní fakt."
+    },
+    {
+      "text": "V žádné jiné budově zákonodárného sboru na světě není permanentně vystaven svitek Tóry, pouze u nás.",
+      "type": "citation",
+      "speaker": "Karel Sedláček",
+      "affiliation": "Česká společnost přátel Izraele",
+      "timestamp": "7/04:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_highlight_02.jpg",
+      "context": "Svitek Tóry je skutečně trvale vystaven v prostorách Poslanecké sněmovny (v budově Sněmovní 1). Ačkoliv jde o unikátní prvek v rámci českého parlamentu, nelze nezávisle ověřit, zda je tento úkaz zcela ojedinělý v celosvětovém měřítku napříč všemi zákonodárnými sbory."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Jefim Fištejn označil současnou mezinárodní politiku a odpor k uznání Jeruzaléma za projev „civilizační degradace“ a „demokratické recese“, přičemž zpochybnil legitimitu mezinárodního práva.",
+      "speaker": "Jefim Fištejn",
+      "affiliation": null,
+      "timestamp": "4/06:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2911_controversy_00.jpg",
+      "context": "Výrok je subjektivním hodnotovým soudem řečníka o stavu mezinárodní politiky. Kritika mezinárodního práva a interpretace pojmů jako „civilizační degradace“ představují politický názor, který nelze fakticky verifikovat jako pravdivý či nepravdivý."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

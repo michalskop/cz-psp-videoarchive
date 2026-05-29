@@ -1,0 +1,136 @@
+{
+  "schema_version": "1",
+  "created_at": "2026-05-23T01:34:58",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2913",
+    "name": "Problematika výdejních boxů",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-05-15T10:02",
+    "end_date": "2026-05-15T12:35",
+    "sources": [
+      "final/event_2913_2026-05-15_problematika-vydejnich-boxu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 16,
+    "parts_total": 16,
+    "source": "whisper",
+    "model": "large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na problematiku výdejních boxů v kontextu jejich vlivu na spotřebitele a veřejný prostor. Cílem bylo diskutovat o návrhu na ukotvení výdejních boxů do stavebního zákona jako „drobných staveb“. Tato úprava má za cíl vyřešit právní nejistotu ohledně jejich statusu a poskytnout obcím nástroj pro řešení kolizních situací (např. nevhodné umístění, vizuální smog, blokování dopravy).\n\nDiskuse se vedla mezi zástupci státní správy (vládní zmocněnkyně), provozovateli sítí výdejních boxů, zástupci obcí a spotřebitelskými organizacemi. Hlavním sporným bodem byla obava provozovatelů z nárůstu administrativní zátěže a zdražení služby, zatímco obce zdůrazňovaly potřebu „záchranné brzdy“ pro případy, kdy samoregulace selže.",
+    "main_points": [
+      "**Hana Landová (vládní zmocněnkyně pro nový stavební zákon):** Obhajovala zařazení boxů mezi drobné stavby. Argumentovala, že současný stav je právně nejasný. Návrh má zajistit volný režim bez nutnosti plného stavebního povolení, ale zároveň dát obcím nástroj k odstranění problematických instalací.",
+      "**Krzysztof Kruliš (Spotřebitelské fórum):** Zdůraznil enormní přínos boxů pro spotřebitele (dostupnost 24/7, flexibilita). Varoval před regulací, která by mohla omezit dostupnost služby.",
+      "**Ondřej Zelenka (Sdružení obrany spotřebitelů):** Upozornil na praktické problémy spotřebitelů, jako je nedostatečná volba doručení, rizika phishingu a problémy seniorů.",
+      "**Patrik Nacher (poslanec, ANO):** Vyjádřil podporu výdejním boxům jako užitečné službě. Zdůraznil potřebu samoregulace a komunikace mezi provozovateli a obcemi.",
+      "**Jan Munzar (poslanec, ODS):** Podpořil princip samoregulace trhu. Stát by měl zasahovat minimálně, pouze v případech, kdy dochází k narušení veřejného zájmu.",
+      "**Jan Vetyška (APEC):** Prezentoval kodex výdejních boxů, ke kterému se hlásí 98 % trhu. Argumentoval, že samoregulace funguje a nová legislativa je zbytečně komplikovaná.",
+      "**Erich Čomor (Paketa/Zásilkovna):** Uvedl, že boxy snižují dopravní zátěž a provozovatelé reagují na stížnosti obcí v řádu dnů.",
+      "**Jakub Krejčíř (Alza.cz):** Upozornil na masivní využití boxů a varoval, že jakákoliv nová administrativa povede ke zdražení služby pro spotřebitele.",
+      "**Jiří Beneš (SMS ČR):** Potvrdil, že komunikace s provozovateli se zlepšila, ale obává se délky správních řízení při případném odstraňování boxů.",
+      "**Tomáš Chmela (starosta Slavičína):** Poukázal na důležitost boxů pro periferní lokality a navrhl možnost regulace skrze obecně závazné vyhlášky.",
+      "**Jana de Maillier (místostarostka Dolních Břežan):** Popsala zkušenost s boxy na soukromých pozemcích, kde obec nemá žádný nástroj k regulaci.",
+      "**Michal Břežek (advokát):** Analyzoval rizika novely a varoval před fragmentací pravidel napříč obcemi."
+    ],
+    "outcome": "Formální rozhodnutí nebylo přijato, neboť kulatý stůl sloužil jako diskusní platforma pro poslance před hlasováním o pozměňovacím návrhu. Dominujícím postojem provozovatelů a části obcí je preference samoregulace a džentlmenských dohod. Zástupkyně MMR trvá na tom, že navrhovaná úprava není novou regulací, ale „postavením na jisto“ právního režimu, který má obcím pomoci řešit excesy.",
+    "notes": "Jednání bylo narušováno mimořádnými schůzemi Poslanecké sněmovny, což vedlo k častému odcházení poslanců. Části přepisu jsou nesrozumitelné kvůli překrývání hlasů nebo technickým výpadkům."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ondřej Malý",
+        "person_id": null,
+        "affiliation": "moderátor"
+      },
+      {
+        "name": "Jan Munzar",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Hana Landová",
+        "person_id": null,
+        "affiliation": "MMR"
+      },
+      {
+        "name": "Krzysztof Kruliš",
+        "person_id": null,
+        "affiliation": "Spotřebitelské fórum"
+      },
+      {
+        "name": "Ondřej Zelenka",
+        "person_id": null,
+        "affiliation": "Sdružení obrany spotřebitelů"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": null,
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Jan Vetyška",
+        "person_id": null,
+        "affiliation": "APEC"
+      },
+      {
+        "name": "Erich Čomor",
+        "person_id": null,
+        "affiliation": "Paketa"
+      },
+      {
+        "name": "Jakub Krejčíř",
+        "person_id": null,
+        "affiliation": "Alza.cz"
+      },
+      {
+        "name": "Michal Břežek",
+        "person_id": null,
+        "affiliation": "advokátní kancelář Pelikán, Krofta, Kohoutek"
+      },
+      {
+        "name": "Jiří Beneš",
+        "person_id": null,
+        "affiliation": "SMS ČR"
+      },
+      {
+        "name": "Tomáš Chmela",
+        "person_id": null,
+        "affiliation": "starosta Slavičína"
+      },
+      {
+        "name": "Jana de Maillier",
+        "person_id": null,
+        "affiliation": "místostarostka Dolních Břežan"
+      },
+      {
+        "name": "Miloš Malaník",
+        "person_id": null,
+        "affiliation": "DPD"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo pro místní rozvoj",
+      "APEC",
+      "SMS ČR"
+    ]
+  },
+  "controversial": [
+    {
+      "statement": "Návrh na zařazení boxů mezi „drobné stavby“ do stavebního zákona.\n\n*   **Kdo:** Hana Landová (MMR) vs. provozovatelé (APEC, Alza, Zásilkovna).\n*   **Co:** Zařazení boxů do stavebního zákona jako drobných staveb.\n*   **Proč:** Provozovatelé se obávají, že i přes proklamované zjednodušení se na ně začnou vztahovat technické požadavky (požární bezpečnost, odstupy, dokumentace), které zdraží a zpomalí rozvoj sítě.",
+      "speaker": null,
+      "affiliation": null
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

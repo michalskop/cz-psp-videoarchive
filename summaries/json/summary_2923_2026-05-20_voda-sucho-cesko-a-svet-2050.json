@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "created_at": "2026-05-23T01:46:13",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2923",
+    "name": "VODA – SUCHO: Česko a svět 2050",
+    "classification": "Seminář",
+    "start_date": "2026-05-20T09:07",
+    "end_date": "2026-05-20T13:12",
+    "sources": [
+      "final/event_2923_2026-05-20_voda-sucho-cesko-a-svet-2050.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 26,
+    "parts_total": 26,
+    "source": "whisper-large-v3",
+    "model": null
+  },
+  "summary": {
+    "topic": "Seminář „VODA – SUCHO: Česko a svět 2050“ se zaměřil na kritickou problematiku vodního hospodářství, klimatické změny a jejich dopadů na společnost v horizontu příštích desetiletí. Cílem akce bylo představit data o vývoji klimatu, vysvětlit kauzalitu mezi nedostatkem vody a společenskou nestabilitou (včetně radikalizace a konfliktů) a diskutovat o nutnosti adaptace vodohospodářské infrastruktury.\n\nJednání zdůraznilo, že voda je strategickou surovinou, která ignoruje politické cykly, a že současný „vodní blahobyt“ v ČR je klamný. Odborníci se shodli, že bez dlouhodobých investic do retence vody v krajině, propojování vodárenských soustav a výstavby nových akumulačních nádrží hrozí České republice v budoucnu vážné problémy se zásobováním pitnou vodou a stabilitou energetiky.",
+    "main_points": [
+      "**Miroslav Bárta (archeolog, Centrum pro teoretická studia)** — Upozornil na historické paralely mezi kolapsem civilizací a nedostatkem zdrojů. Varoval, že nedostatek vody vede k radikalizaci a válkám. Kritizoval závislost politiky na dotacích namísto budování mentální odolnosti společnosti.",
+      "**Marek Lišr (Český hydrometeorologický ústav)** — Prezentoval data o zrychlujícím se oteplování ČR. Představil projekt PERUN (superpočítačové modelování). Varoval, že v pesimistickém scénáři může dojít k poklesu srážek v suchých měsících až o 45 %.",
+      "**Petr Mrkos (Pražské vodovody a kanalizace)** — Zdůraznil atomizaci vodárenství a varoval před „spirálou smrti“ ve vodárenské ekonomice, kde úspory vody znemožňují investice do údržby. Navrhl nutnost připravit krizové plány.",
+      "**Petr Černík (Ministerstvo zemědělství)** — Obhajoval výstavbu přehrady Nové Heřminovy jako nezbytnou pro ochranu před povodněmi a kritizoval blokování projektu ze strany aktivistických spolků.",
+      "**Bohumil Jánský (Přírodovědecká fakulta UK)** — Poskytl globální perspektivu: 2,5 miliardy lidí trpí nedostatkem vody. Kritizoval plýtvání vodou v zemědělství a neefektivní mega-projekty.",
+      "**Petr Kubala (Povodí Vltavy)** — Zdůraznil roli přehrad jako „životní pojistky“. Upozornil, že v horizontu roku 2060 nebude stávající systém schopen zajistit 99,5% zabezpečenost dodávek vody bez nových investic."
+    ],
+    "outcome": "Jednání vyústilo v konsenzus, že Česká republika má dostatek know-how a dat, ale chybí jí politická odvaha k realizaci strategických projektů (např. zákon o státním zájmu). Dominujícím postojem je, že „pravda vyděsí“, ale je nutné začít jednat okamžitě, protože příprava velkých vodohospodářských staveb trvá desítky let.",
+    "notes": "Přepis obsahuje četné technické artefakty (opakující se fráze, useknutá slova, chyby v diakritice), které byly pro účely shrnutí ignorovány. Části záznamu (zejména 11–13) byly velmi nekvalitní, obsahovaly pouze fragmenty."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Miroslav Bárta",
+        "person_id": null,
+        "affiliation": "Centrum pro teoretická studia"
+      },
+      {
+        "name": "Marek Lišr",
+        "person_id": null,
+        "affiliation": "Český hydrometeorologický ústav"
+      },
+      {
+        "name": "Petr Mrkos",
+        "person_id": null,
+        "affiliation": "Pražské vodovody a kanalizace"
+      },
+      {
+        "name": "Petr Černík",
+        "person_id": null,
+        "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "Bohumil Jánský",
+        "person_id": null,
+        "affiliation": "Přírodovědecká fakulta UK"
+      },
+      {
+        "name": "Petr Kubala",
+        "person_id": null,
+        "affiliation": "Povodí Vltavy"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Český hydrometeorologický ústav",
+      "Ministerstvo zemědělství",
+      "Povodí Vltavy",
+      "Přírodovědecká fakulta UK"
+    ]
+  },
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Výstavba přehrady Nové Heřminovy**\n*   **Kdo:** Petr Černík (Ministerstvo zemědělství) a Petr Kubala (Povodí Vltavy)\n*   **Co:** Dlouhodobý tlak na výstavbu přehrady navzdory 20letému odporu místních spolků.\n*   **Proč:** Politicky citlivé téma střetu mezi ochranou přírody/majetku a státním zájmem na protipovodňové ochraně.",
+      "speaker": "Petr Černík, Petr Kubala",
+      "affiliation": "Ministerstvo zemědělství, Povodí Vltavy"
+    },
+    {
+      "statement": "**Kontroverzní výrok: „Budeme válčit“**\n*   **Kdo:** Miroslav Bárta (archeolog)\n*   **Co:** Prohlášení, že nedostatek zdrojů vždy končí násilím a válkou.\n*   **Proč:** Jde o alarmistický narativ, který zpochybňuje schopnost moderní diplomacie a technologií vyřešit krizi bez ozbrojeného konfliktu.",
+      "speaker": "Miroslav Bárta",
+      "affiliation": "Centrum pro teoretická studia"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

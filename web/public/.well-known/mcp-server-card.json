@@ -1,0 +1,22 @@
+{
+  "name": "PSP Video Archive",
+  "description": "AI-structured summaries of Czech Parliament (PSP) events — seminars, conferences, committee meetings, round tables. Includes speaker attribution, highlights with timestamps, controversial statements with fact-check context.",
+  "version": "1.0.0",
+  "site_url": "https://snemovna.datatimes.cz/videoarchiv",
+  "data_url": "https://snemovna.datatimes.cz/videoarchiv/api/events.json",
+  "mcp_url": null,
+  "auth": "none",
+  "capabilities": [
+    "list_events",
+    "get_event_summary",
+    "get_highlights",
+    "get_controversies",
+    "list_speakers",
+    "get_speaker_events"
+  ],
+  "language": "cs",
+  "coverage": "Czech Parliament (Poslanecká sněmovna), 2026–present",
+  "schema": "https://snemovna.datatimes.cz/videoarchiv/summary.schema.json",
+  "skill": "https://snemovna.datatimes.cz/videoarchiv/SKILL.md",
+  "llms_txt": "https://snemovna.datatimes.cz/videoarchiv/llms.txt"
+}

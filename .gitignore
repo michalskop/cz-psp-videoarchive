@@ -1,0 +1,51 @@
+# ── Local pipeline data (never publish) ──────────────────────────────────────
+
+# Downloaded videos (37 GB+)
+videos/
+
+# Whisper/Groq per-file transcription JSONs (intermediate, regenerable)
+transcriptions/
+
+# Merged per-event Markdown transcripts (large, contain raw ASR noise)
+final/
+
+# Downloaded VTT/SRT subtitle files
+subtitles/
+
+# Downloaded invitation PDFs and extracted text (regenerable via sync.py)
+docs/
+
+# Live pipeline state — contains local absolute paths, not useful for the web app
+metadata.json
+metadata.json.tmp
+
+# ── Summaries: JSON + MD tracked; screenshots served from B2 ─────────────────
+# summaries/json/     ← publish (structured data for the web app)
+# summaries/md/       ← publish (human-readable)
+summaries/screenshots/  # served from Backblaze B2 (cz-psp-videoarchive bucket)
+
+# ── Secrets and environment ───────────────────────────────────────────────────
+.env
+*.env
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── OS / editor noise ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ── Temporary files ───────────────────────────────────────────────────────────
+*.tmp
+*.bak

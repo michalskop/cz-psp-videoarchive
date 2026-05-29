@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-28T16:46:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2935",
+    "name": "Souběh čínské a ruské propagandy",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-05-26T14:34",
+    "end_date": "2026-05-26T16:02",
+    "sources": [
+      "final/event_2935_2026-05-26_soubeh-cinske-a-ruske-propagandy.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 10,
+    "parts_total": 10,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na analýzu hybridních hrozeb, konkrétně na souběh a vzájemné působení ruské a čínské propagandy v evropském a českém informačním prostoru. Cílem bylo upozornit na bezpečnostní rizika, která tyto aktivity představují pro demokratické zřízení, a diskutovat o strategiích, jak zvýšit odolnost české společnosti a institucí.\n\nHlavním motivem byla potřeba reflektovat, že Rusko i Čína využívají informační válku jako nástroj k oslabení důvěry občanů v demokratické instituce a k polarizaci společnosti. Diskuse se věnovala jak historickým souvislostem, tak moderním metodám ovlivňování, včetně využívání umělé inteligence, sociálních sítí a najímání místních influencerů.",
+    "main_points": [
+      "**Helena Langšádlová (Poslanecká sněmovna)** — Upozornila na dlouhodobé podceňování čínského a ruského vlivu. Zdůraznila, že demokracie není samozřejmostí a je nutné o ni aktivně bojovat.",
+      "**Ivana Karásková (AMO)** — Představila metody čínského vlivu, které se po roce 2019 staly sofistikovanějšími. Popsala techniky jako „půjčování hlasů“, „bait and switch“ a amplifikaci narativů pomocí neautentických účtů.",
+      "**Michal Romancov (analytik)** — Charakterizoval vztah Ruska a Číny jako „manželství z rozumu“. Upozornil na ruskou upřímnost v agresivních cílech a popsal čtyři typy ruského působení.",
+      "**Pavel Havlíček (AMO)** — Analyzoval ruské válečné cíle a jejich selhávání. Navrhl strategii oslabování tandemu Rusko-Čína skrze oslabování slabšího článku (Ruska)."
+    ],
+    "outcome": "Jednání nekončilo formálním hlasováním, ale konsenzem o nutnosti:\n* Zvyšovat povědomí o čínských a ruských strategiích mezi veřejností i politiky.\n* Posilovat odolnost institucí a vzdělávat státní složky v otázkách transnárodní represe.\n* Pokračovat v diskuzi o budování silnější evropské integrace jako obrany proti geopolitickým hrozbám.",
+    "notes": "Přepis obsahuje občasné technické chyby (useknutá slova, opakující se fráze), které však nebránily pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Helena Langšádlová",
+        "person_id": "psp:person:5943",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Ivana Karásková",
+        "person_id": null,
+        "affiliation": "AMO"
+      },
+      {
+        "name": "Michal Romancov",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Pavel Havlíček",
+        "person_id": "psp:person:6621",
+        "affiliation": "AMO"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "AMO",
+      "EU",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Čínské vlivové operace nejsou nutně rychlé, hlučné nebo konfliktní, ale mají spíš kumulativní potenciál.",
+      "type": "paraphrase",
+      "speaker": "Ivana Karásková",
+      "affiliation": "AMO",
+      "timestamp": "2/02:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2935_highlight_00.jpg",
+      "context": "Tvrzení odpovídá odbornému konsenzu v oblasti bezpečnostních studií a analýzám BIS, které dlouhodobě varují před tzv. 'soft power' a dlouhodobým budováním vlivových sítí v akademické, politické i ekonomické sféře."
+    },
+    {
+      "text": "Rusko se netají tím, že s námi je ve válce, a my škodíme sami sobě, když to nebereme dostatečně vážně.",
+      "type": "paraphrase",
+      "speaker": "Michal Romancov",
+      "affiliation": null,
+      "timestamp": "4/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2935_highlight_01.jpg",
+      "context": "Výrok je interpretací bezpečnostní situace. Oficiální představitelé Ruské federace označují země NATO a EU za 'nepřátelské státy', nicméně přímý válečný stav mezi ČR a Ruskem není právně vyhlášen; jde o hodnocení hybridní hrozby."
+    },
+    {
+      "text": "Čína dnes vlastně dělá obojí, působí ze shora dolů i zdola nahoru.",
+      "type": "citation",
+      "speaker": "Ivana Karásková",
+      "affiliation": "AMO",
+      "timestamp": "4/01:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2935_highlight_02.jpg",
+      "context": "Tento koncept (tzv. 'sharp power') popisuje strategii, kdy Čína kombinuje tlak na elity (shora) s ovlivňováním veřejného mínění a diaspory (zdola), což je doloženo řadou studií o čínské zahraniční politice."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o existenci neoficiálních čínských policejních stanic v Praze, které mají sloužit ke kontrole čínských občanů.",
+      "speaker": "Ivana Karásková",
+      "affiliation": "AMO",
+      "timestamp": "8/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2935_controversy_00.jpg",
+      "context": "Existence tzv. 'policejních stanic' byla potvrzena zprávami organizace Safeguard Defenders a následně prověřována bezpečnostními složkami v mnoha zemích EU. České Ministerstvo vnitra v minulosti uvedlo, že aktivity tohoto typu monitoruje, ačkoliv přímé důkazy o fungování oficiálních čínských policejních úřadoven na území ČR nebyly veřejně potvrzeny."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

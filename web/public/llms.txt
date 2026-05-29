@@ -1,0 +1,33 @@
+# PSP Video Archive
+
+AI-structured summaries of Czech Parliament (Poslanecká sněmovna) events.
+Transcribed from official PSP recordings. Summaries in Czech.
+
+## Data
+
+- [Event index](/videoarchiv/api/events.json): all events — id, name, date, category, summary status
+- [Speaker index](/videoarchiv/api/speakers.json): all speakers — name, person_id (psp:person:NNN), event count
+- [Event summary](/videoarchiv/summaries/[id].json): full summary for one event — topic, main points, highlights, controversies, entities
+- [JSON schema](/videoarchiv/summary.schema.json): schema v2 for all summary files
+- [Skill description](/videoarchiv/SKILL.md): full capability and data format reference for agents
+
+## Key pages
+
+- [/videoarchiv/events](/videoarchiv/events): browse and filter all events by category and date
+- [/videoarchiv/events/[id]](/videoarchiv/events/2866): full summary detail — topic, speakers, highlights with screenshots, controversies with fact-check context
+- [/videoarchiv/speakers](/videoarchiv/speakers): speaker index with event counts and Popolo person IDs
+
+## Event categories
+
+Seminář · Konference · Kulatý stůl · Veřejné slyšení · Tiskové konference · Jednání výborů
+
+## Timestamp format
+
+`N/MM:SS` — part number / time in file. Example: `3/04:23` = part 3, at 4 min 23 sec.
+
+## Notes
+
+- All text content is in Czech
+- Screenshots hosted on Backblaze B2; URLs in summary JSON `highlights[].screenshot_path`
+- Transcript quality: `good` | `partial` | `poor` — check before citing
+- Source: original recordings at www.psp.cz
