@@ -1,0 +1,119 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:34:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2777",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-24T12:41",
+    "end_date": "2026-03-24T13:00",
+    "sources": [
+      "final/event_2777_2026-03-24_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním vládním krokům, které podle řečníků ohrožují demokratické základy státu, nezávislost médií a stabilitu veřejných institucí. Piráti kritizovali vládní záměry v oblasti legislativy týkající se neziskových organizací, financování veřejnoprávních médií a zrušení protikorupčních nástrojů.\n\nKromě kritiky vlády představili zástupci Pirátů vlastní návrhy v oblasti podpory podnikajících rodičů a reformy penzijního spoření. Závěr konference byl věnován bezpečnostní situaci v ČR v souvislosti s nedávným incidentem v Pardubicích a otázkám modernizace armády.",
+    "main_points": [
+      "**Kateřina Stojanová (Piráti)** — Kritika vládního záměru prosadit „ruský zákon“ proti neziskovým organizacím; v případě schválení avizuje podání k Ústavnímu soudu. Odsouzení snahy vlády zrušit bez náhrady „nominační zákon“.",
+      "**Ivan Bartoš (Piráti)** — Kritika vládního plánu na zrušení koncesionářských poplatků, což vnímá jako ohrožení nezávislosti veřejnoprávních médií. Požadavek na zařazení tématu financování médií na jednání Poslanecké sněmovny.",
+      "**Vendula Svobodová (Piráti)** — Návrh na férovější podmínky pro podnikající rodiče: odstranění nespravedlnosti při čerpání podpory během rodičovské a sjednocení pravidel pro vedlejší činnost u sociálního a zdravotního pojištění.",
+      "**Olga Richterová (Piráti)** — Kritika penzijního systému: české fondy mají nízké výnosy kvůli vysokým poplatkům. Představení návrhu na snížení poplatků fondů na 0,4 % a limitu 10 % z výnosu."
+    ],
+    "outcome": "Piráti se rozhodli aktivně vystoupit proti vládním krokům na půdě Poslanecké sněmovny. Konsenzem klubu je nutnost prosadit expertní debatu o financování veřejnoprávních médií a bezpečnostních služeb. Piráti hodlají nadále předkládat vlastní legislativní návrhy a v případě schválení kontroverzních zákonů využít ústavní žaloby.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Olga Ritová“ místo Olga Richterová, „Ota Klempíř“ místo pravděpodobně Martin Baxa) a občasné výpadky diakritiky."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Česká televize",
+      "Český rozhlas",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud zde ruský zákon přece jen vznikne tak, jak jsme avizovali, budeme podávat návrh na jeho zrušení k Ústavnímu soudu.",
+      "type": "citation",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:01",
+      "screenshot_path": "summaries/screenshots/event_2777_highlight_00.jpg",
+      "context": "Výrok se týká legislativního procesu. Podání návrhu na zrušení zákona k Ústavnímu soudu je standardním ústavním nástrojem opozice (dle čl. 87 Ústavy ČR), pokud disponuje dostatečným počtem podpisů poslanců nebo senátorů."
+    },
+    {
+      "text": "Pro nás za Piráty je nepřijatelné, aby financování veřejnoprávních médií bylo součástí státního rozpočtu a stalo se tak předmětem každoročních politických bojů.",
+      "type": "citation",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:48",
+      "screenshot_path": "summaries/screenshots/event_2777_highlight_01.jpg",
+      "context": "Současný systém financování ČT a ČRo je založen na koncesionářských poplatcích, které zajišťují nezávislost na státním rozpočtu. Přímé financování ze státního rozpočtu by vyžadovalo změnu příslušných zákonů o médiích a politologicky je skutečně vnímáno jako riziko zvýšeného vlivu vlády na média."
+    },
+    {
+      "text": "Snížení poplatků na 0,4 % a maximálně 10 % z výnosu jako ty limity pro fondy může lidem přinést až o půl milionu korun více na příspěvek na důchod.",
+      "type": "paraphrase",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/09:18",
+      "screenshot_path": "summaries/screenshots/event_2777_highlight_02.jpg",
+      "context": "Výrok se týká reformy penzijního spoření. Snížení poplatků u penzijních fondů je dlouhodobým tématem; výpočet o „půl milionu korun“ je projekcí závislou na délce spoření, výši vkladu a zhodnocení, což jsou proměnné, které nelze garantovat pro všechny účastníky."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Ivan Bartoš (Piráti):** Označil vládní záměr financovat média z daní za cestu k vytvoření „hlásné trouby vládních politiků“ a kritizoval premiéra Babiše za „alibismus“ a „mlžení“.",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:00",
+      "screenshot_path": "summaries/screenshots/event_2777_controversy_00.jpg",
+      "context": "Jde o politickou interpretaci záměru vlády. Obava z ovlivňování médií v případě jejich přímého financování ze státního rozpočtu je legitimní politický argument, který vychází z principu oddělení exekutivy a veřejnoprávních institucí."
+    },
+    {
+      "statement": "**Ivan Bartoš (Piráti):** Označil vládní argumentaci o investicích do infrastruktury (např. dráha na Karlštejn) jako „uznatelné náklady pro NATO“ za nesmysl a „neuctivý přístup vůči spojencům“.",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/18:03",
+      "screenshot_path": "summaries/screenshots/event_2777_controversy_01.jpg",
+      "context": "Pravidla NATO pro výdaje na obranu (2 % HDP) jsou definována metodikou aliance. Investice do civilní infrastruktury (např. železnice) jsou obvykle považovány za výdaje na obranu pouze tehdy, pokud mají přímý vojenský účel (tzv. dual-use infrastruktura), což je předmětem častých sporů o interpretaci pravidel NATO."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

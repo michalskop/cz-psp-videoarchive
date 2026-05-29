@@ -1,0 +1,93 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:32:31",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2773",
+    "name": "Odolnost kritické infrastruktury a kybernetické bezpečnosti ve školství",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-03-24T14:07",
+    "end_date": "2026-03-24T17:46",
+    "sources": [
+      "final/event_2773_2026-03-24_odolnost-kriticke-infrastruktury-a-kyberneticke-be.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 23,
+    "parts_total": 23,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na komplexní problematiku bezpečnosti ve školském prostředí, a to v kontextu nových legislativních požadavků (zákon o kybernetické bezpečnosti, zákon o odolnosti subjektů kritické infrastruktury) a aktuálních bezpečnostních hrozeb. Cílem bylo otevřít dialog mezi odborníky z praxe, zástupci škol, akademickou sférou a zákonodárci.\n\nHlavním záměrem bylo propojit legislativní rámec s reálnou praxí ve školách, identifikovat slabá místa v ochraně měkkých cílů a kybernetické bezpečnosti a definovat systémová doporučení pro Ministerstvo školství, mládeže a tělovýchovy (MŠMT) a další relevantní orgány.",
+    "main_points": [
+      "**Dušan Kalášek (ASKy)** — Moderátor, zdůraznil nutnost systémové změny a přechodu od jednorázových školení k cyklickému vzdělávání.",
+      "**Jaroslav Vítek (Asociace pověřenců ČR)** — Argumentoval, že bezpečnost je jedna a nelze oddělovat fyzickou a kybernetickou složku.",
+      "**Jaroslav Kocijan (bezpečnostní manažer)** — Upozornil na riziko vnitřních hrozeb (insider) a nevhodné chování rodičů narušující bezpečnostní režimy.",
+      "**Olga Helclová (ředitelka SŠ)** — Popsala praktické problémy s financováním nepedagogických pracovníků a správou rozsáhlých objektů.",
+      "**Ilona Vaculová (MŠMT)** — Potvrdila legislativní tlak na pravidelné vzdělávání v oblasti fyzické bezpečnosti.",
+      "**Richard Veleta (NPI ČR)** — Představil návrh na novou profesní kvalifikaci v rámci Národní soustavy kvalifikací (NSK)."
+    ],
+    "outcome": "Jednání vedlo ke konsenzu o nutnosti systematizace vzdělávání, integrace bezpečnostních složek, standardizace profesních kvalifikací a zlepšení komunikace mezi státem a školami. Výstupem bude souhrn podnětů pro ministra školství.",
+    "notes": "Technické problémy s technikou v průběhu jednání způsobily drobné výpadky v plynulosti."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Dušan Kalášek",
+        "person_id": null,
+        "affiliation": "Asociace škol kritické infrastruktury"
+      },
+      {
+        "name": "Renáta Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jaroslav Vítek",
+        "person_id": "psp:person:4472",
+        "affiliation": "Asociace pověřenců ČR"
+      },
+      {
+        "name": "Olga Helclová",
+        "person_id": null,
+        "affiliation": "SŠ informatiky, poštovnictví a finančnictví"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS"
+    ],
+    "institutions": [
+      "MŠMT",
+      "NÚKIB",
+      "NPI ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Bezpečnost je jedna a nelze ji oddělovat na fyzickou a kybernetickou, protože v praxi se tyto světy neustále prolínají.",
+      "type": "paraphrase",
+      "speaker": "Jaroslav Vítek",
+      "affiliation": "Asociace pověřenců ČR",
+      "timestamp": "4/05:42",
+      "screenshot_path": "summaries/screenshots/event_2773_highlight_00.jpg",
+      "context": "Tvrzení odpovídá současnému bezpečnostnímu paradigmatu, které v rámci konceptu 'konvergence bezpečnosti' (security convergence) stírá hranice mezi fyzickou a kybernetickou ochranou aktiv. Tento přístup reflektuje i zákon č. 181/2014 Sb., o kybernetické bezpečnosti, který vyžaduje komplexní řízení rizik zahrnující i fyzické zabezpečení kritické infrastruktury."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na zavedení branné výchovy jako samostatného předmětu, který by řešil krizové scénáře a první pomoc.",
+      "speaker": "Olga Helclová",
+      "affiliation": "SŠ informatiky, poštovnictví a finančnictví",
+      "timestamp": "14/04:02",
+      "screenshot_path": "summaries/screenshots/event_2773_controversy_00.jpg",
+      "context": "Branná výchova není v českém školském systému samostatným předmětem, témata jako první pomoc či ochrana za krizových situací jsou integrována do průřezových témat Rámcového vzdělávacího programu (RVP). Návrh na její zavedení jako samostatného předmětu je předmětem politické debaty, nikoliv platnou legislativní úpravou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

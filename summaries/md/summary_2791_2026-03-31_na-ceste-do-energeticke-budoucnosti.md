@@ -1,51 +1,50 @@
-Toto je strukturované shrnutí semináře „Na cestě do energetické budoucnosti“, který se konal 31. března 2026 v Poslanecké sněmovně pod záštitou poslanců Marie Pošarové a Tomáše Doležala.
+Zde je strukturované shrnutí semináře „Na cestě do energetické budoucnosti“, který se konal 31. března 2026 v Poslanecké sněmovně.
 
 ### 1. Téma a účel jednání
-Seminář se zaměřil na budoucnost české energetiky v horizontu let 2026–2050. Cílem bylo vytvořit platformu pro diskuzi mezi zastánci moderní (obnovitelné) energetiky, experty na realistickou energetiku (preferující jádro a stabilitu) a zástupci státní správy.
+Seminář se zaměřil na budoucnost české energetiky v horizontu let 2026–2050. Cílem bylo vytvořit platformu pro diskuzi mezi zastánci moderní (obnovitelné) energetiky, experty na jadernou a konvenční energetiku a zástupci státní správy.
 
-Jednání reflektovalo napětí mezi nutností dekarbonizace, zajištěním energetické bezpečnosti a udržením konkurenceschopnosti českého průmyslu. Diskutovány byly dopady odklonu od uhlí, role plynu jako přechodového paliva, nezbytnost rozvoje jaderné energetiky a ekonomické dopady transformace na koncové spotřebitele a průmysl.
+Hlavním účelem bylo analyzovat energetický mix ČR, možnosti dekarbonizace průmyslu, bezpečnost dodávek a ekonomické dopady transformace na občany a firmy. Seminář reflektoval napětí mezi potřebou plnit klimatické cíle a nutností zachovat konkurenceschopnost českého průmyslu a stabilitu energetické soustavy.
 
 ### 2. Hlavní body
-*   **Marek Lang, Jan Brázda, Martin Sedlák (Svaz moderní energetiky):** Argumentovali pro rozvoj obnovitelných zdrojů (OZE) jako cesty k levnější a bezpečnější energii. Zdůraznili potenciál v úsporách, tepelných čerpadlech a decentralizaci. Upozornili na rizika závislosti na fosilních palivech a potřebu modernizace sítí.
-*   **prof. František Hrdlička, prof. Petr Krtil, doc. Karel Noháč, doc. Lubomír Lízal, Mgr. Jan Horáček, Ing. Jan Vondráš (Realistická energetika a ekologie):** Prezentovali kritický pohled na OZE. Varovali před nestabilitou („Dunkelflaute“), vysokými náklady na zálohování a akumulaci a riziky pro stabilitu přenosové soustavy. Zdůraznili nezastupitelnost jádra a varovali před ekonomickými dopady rychlého odklonu od uhlí.
-*   **Ing. Mgr. Tomáš Doležal (poslanec):** Zdůraznil nutnost spolupráce mezi vládou a soukromým sektorem a varoval před dopady emisních povolenek (ETS1) na průmysl (ocelářství, cementárny).
-*   **Ing. Tomáš Měřínský (Ocelářská unie):** Upozornil na kritickou závislost průmyslu na stabilních dodávkách energie a varoval před ztrátou konkurenceschopnosti kvůli rostoucím cenám energií.
-*   **Ing. et Ing. René Neděla (MPO):** Informoval o legislativních krocích (Lex OZE, akcelerační zóny) a snaze o zajištění bezpečnosti dodávek plynu a přípravě kapacitních mechanismů.
-*   **Ing. Jan Šefránek (ERÚ):** Zaměřil se na regulované složky cen energií, nutnost změny tarifní struktury a efektivnější využívání stávajících kapacit sítí.
-*   **Ing. Josef Kotrba (Svaz energetiky ČR):** Upozornil na to, že trh v současnosti částečně řeší odklon od uhlí sám skrze ceny povolenek, ale varoval před riziky spojenými s rychlou elektrifikací vytápění.
+
+*   **Martin Sedlák (Svaz moderní energetiky):** Argumentoval pro rozvoj obnovitelných zdrojů (OZE) jako cesty k levnější energii. Zdůraznil potenciál fotovoltaiky, bioplynu a větrné energetiky. Uvedl, že trh věří v pokles cen energií a že OZE jsou klíčové pro konkurenceschopnost firem.
+*   **Marek Lang (Svaz moderní energetiky):** Akcentoval potřebu jasné vize státu a koordinace mezi hráči v energetice. Zdůraznil roli soukromého kapitálu a nutnost digitalizace a decentralizace soustavy.
+*   **Jan Brázda (Svaz moderní energetiky):** Upozornil na prorůstový potenciál čistých technologií pro HDP ČR. Varoval, že nedostatek zelené energie vede k odlivu investorů (např. Microsoft, Volkswagen).
+*   **Prof. František Hrdlička (ČVUT):** Kritizoval označování baterií za „zdroj“ energie. Zdůraznil, že uhlí bude v mixu potřeba déle, než se předpokládá, a varoval před riziky spojenými s přílišnou decentralizací a nezávislostí objektů.
+*   **Doc. Lubomír Lízal (ČVUT):** Zdůraznil nutnost národohospodářského pohledu na celkové náklady (včetně vyvolaných nákladů na stabilitu sítě), nikoliv pouze investorského pohledu na cenu komodity.
+*   **Prof. Petr Krtil (AV ČR):** Varoval před fyzikálními limity OZE a extrémními náklady na dlouhodobé ukládání energie (např. vodík). Zdůraznil, že éra levné energie skončila.
+*   **Doc. Karel Noháč (ZČU):** Technicky rozebral limity přenosové soustavy a nutnost budování stejnosměrných energetických dálnic pro přenos velkých objemů energie na dlouhé vzdálenosti.
+*   **Mgr. Jan Horáček (AV ČR / Realistická energetika):** Prezentoval model, podle kterého ČR v roce 2030 po odchodu od uhlí nebude soběstačná a bude muset dovážet až 30 % elektřiny za vysoké ceny.
+*   **Ing. Jan Vondráš (Invicta BOHEMICA):** Kritizoval vysoké náklady na transformaci (odhadl je na 6,5 bilionu Kč) a upozornil na rizika spojená s dovozem plynu a elektřiny v zimních měsících.
+*   **Ing. Tomáš Měřínský (Ocelářská unie):** Upozornil na kritickou závislost průmyslu na stabilních dodávkách energie a na prudký růst cen vstupů.
+*   **Ing. et Ing. René Neděla (MPO):** Prezentoval legislativní kroky státu (Lex OZE, akcelerační zóny) a zdůraznil potřebu pestrého energetického mixu.
+*   **Ing. Jan Šefránek (ERÚ):** Informoval o nutnosti investic do sítí (200 mld. Kč do roku 2030) a plánované změně tarifní struktury pro efektivnější využití kapacity.
+*   **Ing. Josef Kotrba (Svaz energetiky ČR):** Uvedl, že díky tržním podmínkám se vypínání uhelných zdrojů zpomalilo, což dává ČR čas na přípravu.
 
 ### 3. Výsledek / závěr
-Formální rozhodnutí nebylo přijato. Seminář potvrdil hluboký názorový rozpor mezi zastánci rychlé transformace na OZE a zastánci zachování stabilních fosilních/jaderných zdrojů. Dominujícím postojem je shoda na nezbytnosti jádra jako „base-load“ zdroje, avšak panuje zásadní neshoda na roli OZE, nákladech na transformaci a způsobu, jakým má stát zajistit energetickou bezpečnost po útlumu uhlí.
+Formální rozhodnutí nebylo přijato. Dominoval konsenzus o nutnosti zachování jaderné energetiky jako stabilního základu mixu, avšak panoval ostrý spor o roli a nákladech OZE a plynových elektráren. Závěrem byla shoda na potřebě pokračovat v odborné diskuzi a nutnosti vytvořit realistické modely energetické bezpečnosti.
 
 ### 4. Poznámky
-Přepis obsahuje četné technické chyby, výpadky textu a halucinace (opakující se fráze). Části záznamu (zejména v závěru) jsou nesrozumitelné kvůli překryvům řečníků.
+Přepis obsahuje četné technické chyby, opakující se fráze a výpadky diakritiky. Části záznamu (zejména v částech 18–20) jsou nesrozumitelné nebo obsahují pouze fragmenty.
 
 ---
 
 ## Doplňující otázky
 
-*   **Kontroverzní návrh:** Zavedení českého systému pro emisní povolenky (zastropování ceny na 40 EUR, zbytek doplatí stát).
-    *   **Kdo:** Milan Smutný (Realistická energetika a ekologie).
-    *   **Proč:** Jde o přímý zásah do tržního mechanismu EU, který by mohl být v rozporu s evropskou legislativou a vyvolat právní spory.
-    *   **Čas:** 28/02:16
-
-*   **Kontroverzní výrok:** „Zelená mafie chce ukrást tenhle stát a peněženky občanů.“
-    *   **Kdo:** Marie Pošarová (poslankyně).
-    *   **Proč:** Politicky vyhrocené obvinění oponentů z kriminálního jednání, které polarizuje diskuzi.
-    *   **Čas:** 31/08:25
+*   **Kontroverze:** **Marie Pošarová (SPD)** označila zastánce OZE za „zelenou mafii“, která chce „ukrást stát a peněženky občanů“.
+    *   **Proč:** Jde o silně politicky zabarvený útok na oponenty v diskuzi, který zpochybňuje legitimitu jejich argumentů a přisuzuje jim kriminální úmysly.
+    *   **Čas:** 32/08:13
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-*   **Text:** „Česká republika je jedna ze světových velmocí ve výrobě tepelných čerpadel, vyvážíme jich stovky tisíc.“ (parafraze)
-    *   **Řečník:** Martin Sedlák (Svaz moderní energetiky), **Čas:** 2/00:00
-*   **Text:** „Do roku 2030 očekáváme v elektroenergetice investice ve výši 200 miliard korun.“ (citace)
-    *   **Řečník:** Jan Šefránek (ERÚ), **Čas:** 24/00:00
-*   **Text:** „V zimním období vyrobí solární elektrárny pouze 3 % spotřeby.“ (citace)
-    *   **Řečník:** Jan Horáček (Realistická energetika a ekologie), **Čas:** 15/08:01
-*   **Text:** „Náklady na transformaci soustavy se odhadují na 6,5 bilionu korun.“ (citace)
-    *   **Řečník:** Jan Vondráš (Invicta BOHEMICA), **Čas:** 17/02:34
+1.  **Text:** „V roce 2030, když už nebude uhlí, tak ani náhodou, bude nám chybět až 4 gigawatty importu, což je 30 % naší spotřeby.“ (Parafráze)
+    *   **Řečník:** Jan Horáček (Realistická energetika a ekologie), **Čas:** 15/06:03
+2.  **Text:** „Všechny jediné elektrárny v poslední době měly 7 až 10 let zpoždění, bylo by naivní si myslet, že u nás to zpoždění nebude.“ (Parafráze)
+    *   **Řečník:** Jan Janeček (průmyslník), **Čas:** 07/04:52
+3.  **Text:** „Představa, že budeme elektrifikovat vytápění a hodíme to široce na elektriku, tak prostě není realistická.“ (Parafráze)
+    *   **Řečník:** Josef Kotrba (Svaz energetiky ČR), **Čas:** 25/06:00
 
 ---
 
@@ -60,80 +59,86 @@ Přepis obsahuje četné technické chyby, výpadky textu a halucinace (opakují
     "id": "2791",
     "name": "Na cestě do energetické budoucnosti",
     "classification": "Seminář",
-    "start_date": "2026-03-31",
-    "end_date": "2026-03-31",
+    "start_date": "2026-03-31T09:55",
+    "end_date": "2026-03-31T15:02",
     "sources": []
   },
   "transcription": {
     "parts_transcribed": 32,
     "parts_total": 32,
-    "source": "mixed",
+    "source": "whisper",
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na budoucnost české energetiky v horizontu let 2026–2050. Cílem bylo vytvořit platformu pro diskuzi mezi zastánci moderní (obnovitelné) energetiky, experty na realistickou energetiku (preferující jádro a stabilitu) a zástupci státní správy.\n\nJednání reflektovalo napětí mezi nutností dekarbonizace, zajištěním energetické bezpečnosti a udržením konkurenceschopnosti českého průmyslu. Diskutovány byly dopady odklonu od uhlí, role plynu jako přechodového paliva, nezbytnost rozvoje jaderné energetiky a ekonomické dopady transformace na koncové spotřebitele a průmysl.",
+    "topic": "Seminář se zaměřil na budoucnost české energetiky v horizontu let 2026–2050. Cílem bylo vytvořit platformu pro diskuzi mezi zastánci moderní (obnovitelné) energetiky, experty na jadernou a konvenční energetiku a zástupci státní správy.\n\nHlavním účelem bylo analyzovat energetický mix ČR, možnosti dekarbonizace průmyslu, bezpečnost dodávek a ekonomické dopady transformace na občany a firmy. Seminář reflektoval napětí mezi potřebou plnit klimatické cíle a nutností zachovat konkurenceschopnost českého průmyslu a stabilitu energetické soustavy.",
     "main_points": [
-      "**Marek Lang, Jan Brázda, Martin Sedlák (Svaz moderní energetiky):** Argumentovali pro rozvoj obnovitelných zdrojů (OZE) jako cesty k levnější a bezpečnější energii. Zdůraznili potenciál v úsporách, tepelných čerpadlech a decentralizaci.",
-      "**prof. František Hrdlička, prof. Petr Krtil, doc. Karel Noháč, doc. Lubomír Lízal, Mgr. Jan Horáček, Ing. Jan Vondráš (Realistická energetika a ekologie):** Varovali před nestabilitou OZE, vysokými náklady na zálohování a riziky pro stabilitu přenosové soustavy. Zdůraznili nezastupitelnost jádra.",
-      "**Ing. Mgr. Tomáš Doležal (poslanec):** Zdůraznil nutnost spolupráce mezi vládou a soukromým sektorem a varoval před dopady emisních povolenek (ETS1) na průmysl.",
-      "**Ing. Tomáš Měřínský (Ocelářská unie):** Upozornil na kritickou závislost průmyslu na stabilních dodávkách energie.",
-      "**Ing. et Ing. René Neděla (MPO):** Informoval o legislativních krocích (Lex OZE, akcelerační zóny) a přípravě kapacitních mechanismů.",
-      "**Ing. Jan Šefránek (ERÚ):** Zaměřil se na regulované složky cen energií a nutnost změny tarifní struktury.",
-      "**Ing. Josef Kotrba (Svaz energetiky ČR):** Upozornil na to, že trh částečně řeší odklon od uhlí sám skrze ceny povolenek, ale varoval před riziky spojenými s rychlou elektrifikací vytápění."
+      "**Martin Sedlák (Svaz moderní energetiky)**: Argumentoval pro rozvoj obnovitelných zdrojů (OZE) jako cesty k levnější energii. Zdůraznil potenciál fotovoltaiky, bioplynu a větrné energetiky.",
+      "**Marek Lang (Svaz moderní energetiky)**: Akcentoval potřebu jasné vize státu a koordinace mezi hráči v energetice.",
+      "**Jan Brázda (Svaz moderní energetiky)**: Upozornil na prorůstový potenciál čistých technologií pro HDP ČR.",
+      "**Prof. František Hrdlička (ČVUT)**: Kritizoval označování baterií za „zdroj“ energie a varoval před riziky spojenými s přílišnou decentralizací.",
+      "**Doc. Lubomír Lízal (ČVUT)**: Zdůraznil nutnost národohospodářského pohledu na celkové náklady, nikoliv pouze investorského pohledu na cenu komodity.",
+      "**Prof. Petr Krtil (AV ČR)**: Varoval před fyzikálními limity OZE a extrémními náklady na dlouhodobé ukládání energie.",
+      "**Doc. Karel Noháč (ZČU)**: Technicky rozebral limity přenosové soustavy a nutnost budování stejnosměrných energetických dálnic.",
+      "**Mgr. Jan Horáček (Realistická energetika)**: Prezentoval model, podle kterého ČR v roce 2030 nebude soběstačná a bude muset dovážet až 30 % elektřiny.",
+      "**Ing. Jan Vondráš (Invicta BOHEMICA)**: Kritizoval vysoké náklady na transformaci (odhadl je na 6,5 bilionu Kč).",
+      "**Ing. Tomáš Měřínský (Ocelářská unie)**: Upozornil na kritickou závislost průmyslu na stabilních dodávkách energie.",
+      "**Ing. et Ing. René Neděla (MPO)**: Prezentoval legislativní kroky státu a zdůraznil potřebu pestrého energetického mixu.",
+      "**Ing. Jan Šefránek (ERÚ)**: Informoval o nutnosti investic do sítí a plánované změně tarifní struktury.",
+      "**Ing. Josef Kotrba (Svaz energetiky ČR)**: Uvedl, že vypínání uhelných zdrojů se zpomalilo, což dává ČR čas na přípravu."
     ],
-    "outcome": "Formální rozhodnutí nebylo přijato. Seminář potvrdil hluboký názorový rozpor mezi zastánci rychlé transformace na OZE a zastánci zachování stabilních fosilních/jaderných zdrojů. Dominujícím postojem je shoda na nezbytnosti jádra jako „base-load“ zdroje, avšak panuje zásadní neshoda na roli OZE, nákladech na transformaci a způsobu, jakým má stát zajistit energetickou bezpečnost po útlumu uhlí.",
-    "notes": "Přepis obsahuje četné technické chyby, výpadky textu a halucinace (opakující se fráze). Části záznamu (zejména v závěru) jsou nesrozumitelné kvůli překryvům řečníků."
+    "outcome": "Formální rozhodnutí nebylo přijato. Dominoval konsenzus o nutnosti zachování jaderné energetiky jako stabilního základu mixu, avšak panoval ostrý spor o roli a nákladech OZE a plynových elektráren. Závěrem byla shoda na potřebě pokračovat v odborné diskuzi a nutnosti vytvořit realistické modely energetické bezpečnosti.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky diakritiky. Části záznamu (zejména v částech 18–20) jsou nesrozumitelné nebo obsahují pouze fragmenty."
   },
   "entities": {
     "speakers": [
-      {"name": "Marie Pošarová", "person_id": null, "affiliation": "Poslanecká sněmovna"},
-      {"name": "Tomáš Doležal", "person_id": null, "affiliation": "Poslanecká sněmovna"},
+      {"name": "Marie Pošarová", "person_id": null, "affiliation": "Poslankyně"},
+      {"name": "Tomáš Doležal", "person_id": null, "affiliation": "Poslanec"},
       {"name": "Martin Sedlák", "person_id": null, "affiliation": "Svaz moderní energetiky"},
       {"name": "Marek Lang", "person_id": null, "affiliation": "Svaz moderní energetiky"},
       {"name": "Jan Brázda", "person_id": null, "affiliation": "Svaz moderní energetiky"},
       {"name": "František Hrdlička", "person_id": null, "affiliation": "ČVUT"},
+      {"name": "Lubomír Lízal", "person_id": null, "affiliation": "ČVUT"},
+      {"name": "Petr Krtil", "person_id": null, "affiliation": "AV ČR"},
+      {"name": "Karel Noháč", "person_id": null, "affiliation": "ZČU"},
+      {"name": "Jan Horáček", "person_id": null, "affiliation": "Realistická energetika a ekologie"},
+      {"name": "Jan Vondráš", "person_id": null, "affiliation": "Invicta BOHEMICA"},
+      {"name": "Tomáš Měřínský", "person_id": null, "affiliation": "Ocelářská unie"},
       {"name": "René Neděla", "person_id": null, "affiliation": "MPO"},
       {"name": "Jan Šefránek", "person_id": null, "affiliation": "ERÚ"},
       {"name": "Josef Kotrba", "person_id": null, "affiliation": "Svaz energetiky ČR"}
     ],
-    "parties": ["SPD"],
-    "institutions": ["Poslanecká sněmovna", "Ministerstvo průmyslu a obchodu", "Energetický regulační úřad"]
+    "parties": ["SPD", "ANO 2011"],
+    "institutions": ["Poslanecká sněmovna", "MPO", "ERÚ", "ČVUT", "AV ČR"]
   },
   "highlights": [
     {
-      "text": "Česká republika je jedna ze světových velmocí ve výrobě tepelných čerpadel, vyvážíme jich stovky tisíc.",
+      "text": "V roce 2030, když už nebude uhlí, tak ani náhodou, bude nám chybět až 4 gigawatty importu, což je 30 % naší spotřeby.",
       "type": "paraphrase",
-      "speaker": "Martin Sedlák",
-      "affiliation": "Svaz moderní energetiky",
-      "timestamp": "2/00:00"
-    },
-    {
-      "text": "Do roku 2030 očekáváme v elektroenergetice investice ve výši 200 miliard korun.",
-      "type": "citation",
-      "speaker": "Jan Šefránek",
-      "affiliation": "ERÚ",
-      "timestamp": "24/00:00"
-    },
-    {
-      "text": "V zimním období vyrobí solární elektrárny pouze 3 % spotřeby.",
-      "type": "citation",
       "speaker": "Jan Horáček",
       "affiliation": "Realistická energetika a ekologie",
-      "timestamp": "15/08:01"
+      "timestamp": "15/06:03"
+    },
+    {
+      "text": "Všechny jediné elektrárny v poslední době měly 7 až 10 let zpoždění, bylo by naivní si myslet, že u nás to zpoždění nebude.",
+      "type": "paraphrase",
+      "speaker": "Jan Janeček",
+      "affiliation": null,
+      "timestamp": "7/04:52"
+    },
+    {
+      "text": "Představa, že budeme elektrifikovat vytápění a hodíme to široce na elektriku, tak prostě není realistická.",
+      "type": "paraphrase",
+      "speaker": "Josef Kotrba",
+      "affiliation": "Svaz energetiky ČR",
+      "timestamp": "25/06:00"
     }
   ],
   "controversial": [
     {
-      "statement": "Návrh na zavedení českého systému pro emisní povolenky (zastropování ceny na 40 EUR, zbytek doplatí stát).",
-      "speaker": "Milan Smutný",
-      "affiliation": "Realistická energetika a ekologie",
-      "timestamp": "28/02:16"
-    },
-    {
-      "statement": "„Zelená mafie chce ukrást tenhle stát a peněženky občanů.“",
+      "statement": "**Marie Pošarová (Poslankyně)** označila zastánce OZE za „zelenou mafii“, která chce „ukrást stát a peněženky občanů“.\n\n**Proč je to kontroverzní:** Jde o silně politicky zabarvený útok na oponenty v diskuzi, který zpochybňuje legitimitu jejich argumentů a přisuzuje jim kriminální úmysly.",
       "speaker": "Marie Pošarová",
-      "affiliation": "Poslanecká sněmovna",
-      "timestamp": "31/08:25"
+      "affiliation": "Poslankyně",
+      "timestamp": "32/08:13"
     }
   ],
   "quality": {

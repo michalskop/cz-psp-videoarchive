@@ -1,0 +1,118 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:28:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2788",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-26T11:07",
+    "end_date": "2026-03-26T11:49",
+    "sources": [
+      "final/event_2788_2026-03-26_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána jako výroční zasedání stínové vlády hnutí STAN („Kabinet budoucnosti“) po 100 dnech vlády Andreje Babiše. Cílem bylo zhodnotit dosavadní působení kabinetu, které řečníci označili za „100 dní absolutní nezodpovědnosti“, a představit opoziční kritiku v oblastech justice, veřejnoprávních médií, zahraniční politiky, bezpečnosti a sociálních agend.\n\nHnutí STAN se vymezilo proti vládnímu přístupu k institucím, který označilo za snahu o „privatizaci státu“, a deklarovalo připravenost k aktivní opoziční práci, včetně iniciace mimořádných schůzí Poslanecké sněmovny.",
+    "main_points": [
+      "**Vít Rakušan (předseda STAN)** — Kritizoval útoky vlády na veřejnoprávní média, varoval před oslabováním zahraničněpolitických vazeb na Západ a neplněním závazku 2 % HDP na obranu.",
+      "**Petr Kulhánek (stínový ministr pro místní rozvoj)** — Upozornil na destrukci systému na MMR, zastavení digitalizace stavebního řízení a zánik Agentury pro sociální začleňování.",
+      "**Lukáš Vlček (stínový ministr průmyslu)** — Zdůraznil negativní dopad neplnění obranných závazků na český průmysl a kritizoval absenci vládního plánu pro řešení energetické krize.",
+      "**Jana Krutáková (stínová ministryně životního prostředí)** — Kritizovala změny v programu „Nová zelená úsporám“ a navrhla zapojení Národní rozvojové banky.",
+      "**Michaela Šebelová (stínová ministryně zdravotnictví)** — Varovala před omezováním Národní očkovací strategie a riziky spojenými s projektem nové „supernemocnice“ v Praze."
+    ],
+    "outcome": "Hnutí STAN se shodlo na prioritě svolání mimořádné schůze Sněmovny k tématu veřejnoprávních médií. V otázce kandidatury Víta Rakušana na místopředsedu Sněmovny proběhne v pondělí jednání poslaneckého klubu, kde se rozhodne o dalším postupu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Petr Kulhánek",
+        "person_id": "psp:person:6949",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jana Krutáková",
+        "person_id": "psp:person:6466",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "SPD",
+      "ODS",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NATO",
+      "Ministerstvo pro místní rozvoj",
+      "Národní rozvojová banka"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Výdaje na naši obranu, na bezpečnost. Stokrát mohou čarovat s čísly. Ale ať počítá, jak počítá, tak jí to vyjde, že ani ta 2 % podílu na HDP výdajů na obranu nejsou zajištěna.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/04:39",
+      "screenshot_path": "summaries/screenshots/event_2788_highlight_00.jpg",
+      "context": "Zákon č. 214/2023 Sb. stanovuje povinnost vynakládat na obranu 2 % HDP. Podle údajů Ministerstva obrany ČR a státního rozpočtu na rok 2024 je tento cíl v rozpočtu formálně naplněn, nicméně opozice často zpochybňuje metodiku započítávání některých výdajů (např. výdaje na údržbu či administrativu)."
+    },
+    {
+      "text": "To, co se odehraje 1. dubna, je další krok v této devastaci, protože bude sloučena agenda bydlení s Agenturou pro sociální začleňování, čímž vlastně agentura de facto zanikne.",
+      "type": "citation",
+      "speaker": "Petr Kulhánek",
+      "affiliation": "STAN",
+      "timestamp": "1/09:16",
+      "screenshot_path": "summaries/screenshots/event_2788_highlight_01.jpg",
+      "context": "Transformace Agentury pro sociální začleňování v rámci reorganizace agend na Ministerstvu pro místní rozvoj je předmětem politické debaty. Tvrzení o „zániku“ je interpretací organizační změny, nikoliv právním faktem, neboť agentura se stává součástí širší struktury (sekce bydlení), což kritici vnímají jako oslabení její autonomie a odborného zaměření."
+    },
+    {
+      "text": "Pro letošní rok vláda alokuje částku pouhé čtyři miliardy korun, což je v porovnání s podporou velkých podniků poměrně malá částka.",
+      "type": "paraphrase",
+      "speaker": "Jana Krutáková",
+      "affiliation": "STAN",
+      "timestamp": "1/18:09",
+      "screenshot_path": "summaries/screenshots/event_2788_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit bez specifikace konkrétního dotačního titulu nebo programu, ke kterému se částka 4 miliardy korun vztahuje. Srovnání s podporou velkých podniků je politickou rétorikou, neboť objem podpory podniků se skládá z mnoha různých programů (např. investiční pobídky, programy MPO, daňové úlevy), které nejsou přímo srovnatelné s jedním konkrétním výdajem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vít Rakušan (STAN) navrhl, aby se opozice nesnažila jen o „technickou“ spolupráci se Slovenskem, ale aby se orientovala na strategické partnery v EU (Dánsko, Itálie, Německo) namísto „populistů a národovců“.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/38:03",
+      "screenshot_path": "summaries/screenshots/event_2788_controversy_00.jpg",
+      "context": "Toto vyjádření je politickým názorem na zahraniční orientaci ČR. Fakticky lze ověřit, že Vít Rakušan dlouhodobě prosazuje ukotvení ČR v hlavním proudu EU a NATO, zatímco kritizuje politiku současné slovenské vlády; označení konkrétních stran za „populisty a národovce“ je hodnotícím politickým soudem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

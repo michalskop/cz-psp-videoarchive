@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:25:07",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2797",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-01T08:05",
+    "end_date": "2026-04-01T08:26",
+    "sources": [
+      "final/event_2797_2026-04-01_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem kritiky současné vládní politiky (vláda Andreje Babiše) v oblasti zahraničních vztahů, energetické krize a sociální podpory rodin. Představitelé KDU-ČSL vyjádřili znepokojení nad zahraničněpolitickou orientací vlády, zejména ve vztahu k Maďarsku a Slovensku, a představili své návrhy na pomoc domácnostem s rostoucími cenami energií a pohonných hmot.\n\nDalším klíčovým tématem byla situace kolem veřejnoprávních médií a nadcházející volba členů Rady České televize, kde KDU-ČSL kritizuje netransparentnost a personální nominace vládní koalice.",
+    "main_points": [
+      "**Marek Výborný (KDU-ČSL)** — Kritizoval vládu za pasivitu vůči maďarskému ministrovi Szijjártóovi, kterého označil za „kremelskou spojku“. Varoval před vytvářením „Uherské trojky“ a vyzval k regulaci marží pohonných hmot skrze státní podnik Čepro.",
+      "**Marian Jurečka (KDU-ČSL)** — Představil balíček „Rodiče+“ (zvýšení rodičáku a slev na děti), který vláda odmítla. Kritizoval nedostatek flexibility vládních opatření pro rodiny.",
+      "**František Talíř (KDU-ČSL)** — Kritizoval chaos v komunikaci vlády ohledně financování médií a zpochybnil integritu kandidátů do Rady ČT, kteří se podíleli na rozpuštění dozorčí komise."
+    ],
+    "outcome": "KDU-ČSL se vymezila jako konstruktivní opozice, která má připravená řešení, jež vláda ignoruje. Strana bude v nadcházejících týdnech v Poslanecké sněmovně úporně prosazovat své návrhy formou pozměňovacích návrhů a bude aktivně vystupovat proti personálním nominacím do Rady ČT.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné stylistické nedokonalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Čepro"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Maďarsko a ministr Szijjártó se chová fakticky jako kremelská spojka a od toho je potřeba se jednoznačně distancovat.",
+      "type": "citation",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:29",
+      "screenshot_path": "summaries/screenshots/event_2797_highlight_00.jpg",
+      "context": "Jde o politické hodnocení zahraniční politiky Maďarska, které dlouhodobě udržuje úzké ekonomické a diplomatické vztahy s Ruskem i po invazi na Ukrajinu. Výrok nelze fakticky ověřit jako objektivní pravdu, neboť jde o interpretaci postojů maďarské vlády v rámci EU a NATO."
+    },
+    {
+      "text": "Státní řetězec Čepro může už dnes de facto z hodiny na hodinu rozhodnutím ministryně financí pracovat s maržemi a tím regulovat cenu pohonných hmot.",
+      "type": "paraphrase",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/04:30",
+      "screenshot_path": "summaries/screenshots/event_2797_highlight_01.jpg",
+      "context": "Čepro je státní podnik, jehož jediným akcionářem je stát zastoupený Ministerstvem financí ČR. Ačkoliv ministerstvo může ovlivňovat strategii podniku, přímá regulace cen pohonných hmot na čerpacích stanicích EuroOil prostřednictvím marží podléhá zákonu o cenách a pravidlům hospodářské soutěže, což proces fakticky komplikuje."
+    },
+    {
+      "text": "Vláda smete opatření, která neznamenají korunu navíc, ale znamenají větší podporu a flexibilitu v rozhodování rodin.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/07:24",
+      "screenshot_path": "summaries/screenshots/event_2797_highlight_02.jpg",
+      "context": "Tvrzení je politickou rétorikou hodnotící legislativní proces. Nelze nezávisle ověřit, zda konkrétní zamítnutá opatření nemají žádný dopad na státní rozpočet, neboť i administrativní změny či daňové úlevy mají obvykle přímé či nepřímé fiskální důsledky."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Marek Výborný (KDU-ČSL)** označil maďarského ministra zahraničí Szijjártóa za „kremelskou spojku“. Je to kontroverzní kvůli ostrému diplomatickému výpadu vůči spojenci ve V4.",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:00",
+      "screenshot_path": "summaries/screenshots/event_2797_controversy_00.jpg",
+      "context": "Maďarsko je členem EU a NATO, stejně jako ČR. Označení za „kremelskou spojku“ je subjektivní politickou kritikou maďarského postoje k sankcím vůči Rusku a energetické spolupráci, nikoliv právně definovaným statusem."
+    },
+    {
+      "statement": "**František Talíř (KDU-ČSL)** zpochybnil integritu kandidátů do Rady ČT (Bradáč, Veselý, Matocha, Šlégr) kvůli jejich podílu na rozpuštění dozorčí komise ČT. Je to politicky citlivé kvůli střetu o nezávislost médií.",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/10:00",
+      "screenshot_path": "summaries/screenshots/event_2797_controversy_01.jpg",
+      "context": "Rozpuštění dozorčí komise ČT v roce 2020 bylo předmětem rozsáhlé veřejné i politické debaty o nezávislosti veřejnoprávních médií. Role zmíněných kandidátů v tomto procesu je doložitelná z veřejných zápisů z jednání Rady ČT, jejich interpretace jako „zpochybnění integrity“ je však věcí politického názoru."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

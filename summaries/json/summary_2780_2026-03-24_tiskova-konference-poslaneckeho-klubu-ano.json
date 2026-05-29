@@ -1,0 +1,132 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:32:46",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2780",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-24T13:41",
+    "end_date": "2026-03-24T13:59",
+    "sources": [
+      "final/event_2780_2026-03-24_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána po jednání poslaneckého klubu hnutí ANO za účelem představení priorit pro nadcházející týden zasedání Poslanecké sněmovny. Hlavním cílem bylo informovat o legislativních návrzích, které hnutí ANO vnímá jako nápravu kroků předchozí vlády, a to zejména v oblastech sociální politiky, podpory seniorů a živnostníků.\n\nKlíčovými tématy byla novela trestního zákoníku (znovuzavedení trestnosti neplacení výživného), podpora seniorů v rámci penzijního spoření, úprava odvodů pro OSVČ a stabilizace zdravotních pojišťoven.",
+    "main_points": [
+      "**Taťána Malá (ANO)** — Představila novelu trestního zákoníku, která vrací trestnost neplacení výživného. Cílem je vyslat signál o odpovědnosti rodičů, nikoliv primárně věznění; preferuje alternativní tresty (např. domácí vězení).",
+      "**Alena Schillerová (ANO)** — Představila návrh na pomoc seniorům, kterým byly odebrány státní příspěvky ve 3. penzijním pilíři. Navrhuje zrychlené schválení v prvním čtení. Prosazuje snížení vyměřovacího základu pro sociální pojištění OSVČ ze 40 % na 35 % průměrné mzdy. Odmítá unáhlené zásahy do spotřební daně u pohonných hmot.",
+      "**Patrik Nacher (ANO)** — Potvrdil, že opozice bude vetovat zrychlené projednání u návrhu na pomoc seniorům. Oznámil záměr zrušit koncesionářské poplatky a nahradit je financováním ze státního rozpočtu.",
+      "**Adam Vojtěch (ANO)** — Představil návrh na přerozdělení 8 miliard Kč z rezerv VZP mezi menší zdravotní pojišťovny pro stabilizaci systému.",
+      "**Aleš Juchelka (ANO)** — Informoval o dohodě se Senátem na zamítnutí nadbytečného paralelního tisku k „superdávce“."
+    ],
+    "outcome": "Jednání se neslo v duchu přípravy na nadcházející schůzi Sněmovny. Hnutí ANO deklarovalo své priority, přičemž u některých bodů (penzijní spoření) již předem avizovalo střet s vládní koalicí (vetování zrychleného projednání). U tématu koncesionářských poplatků a stabilizace zdravotních pojišťoven hnutí pokračuje v legislativní přípravě vlastních návrhů.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Taťána Malá",
+        "person_id": "psp:person:6468",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Adam Vojtěch",
+        "person_id": "psp:person:5768",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Aleš Juchelka",
+        "person_id": "psp:person:6463",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "VZP",
+      "Úřad práce"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Cílem této novely určitě není zavírat neplatící rodiče do vězení, cílem je vyslat tu jasnou zprávu, že je normální se o své děti starat.",
+      "type": "paraphrase",
+      "speaker": "Taťána Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/01:36",
+      "screenshot_path": "summaries/screenshots/event_2780_highlight_00.jpg",
+      "context": "Trestný čin zanedbání povinné výživy (§ 196 trestního zákoníku) v ČR existuje a nebyl zrušen. Debata se vede o zpřísnění postihů a efektivitě vymáhání, nikoliv o znovuzavedení skutkové podstaty, která by byla dříve zrušena."
+    },
+    {
+      "text": "Stát, který postihuje finanční šmejdy, by se sám jako finanční šmejd neměl chovat.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/05:48",
+      "screenshot_path": "summaries/screenshots/event_2780_highlight_01.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, kterou nelze fakticky ověřit. Výrok se vztahuje ke kritice vládní rozpočtové politiky a nakládání se státními prostředky."
+    },
+    {
+      "text": "OSVČ tak každý měsíc ušetří 715 Kč, za celý rok 8 580 Kč.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/06:35",
+      "screenshot_path": "summaries/screenshots/event_2780_highlight_02.jpg",
+      "context": "Částka 715 Kč odpovídá rozdílu mezi minimálními zálohami na sociální pojištění pro OSVČ v roce 2023 a 2024 (při zohlednění změn v sazbách). Údaj je matematicky správný při výpočtu 715 × 12 měsíců."
+    },
+    {
+      "text": "Když se podíváte na seniory nad 75 let, tak ti tvoří asi 9 % populace, ale na poplatcích se podílí 22,5 %.",
+      "type": "citation",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/14:48",
+      "screenshot_path": "summaries/screenshots/event_2780_highlight_03.jpg",
+      "context": "Statisticky lze podíl seniorů nad 75 let v populaci ověřit u ČSÚ (aktuálně se pohybuje kolem 9 %). Údaj o 22,5% podílu na poplatcích je interpretací dat o struktuře plátců koncesionářských poplatků, kterou nelze bez přístupu k interním datům České televize nezávisle potvrdit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Taťána Malá (ANO)\n**Co:** Návrh na znovuzavedení trestnosti neplacení výživného, které bylo předchozí vládou dekriminalizováno.\n**Proč:** Politicky citlivé téma, které rozděluje společnost na zastánce přísné represe a zastánce alternativních řešení.\n**Čas:** 1/01:15",
+      "speaker": "Taťána Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/01:15",
+      "screenshot_path": "summaries/screenshots/event_2780_controversy_00.jpg",
+      "context": "Tvrzení o dekriminalizaci neplacení výživného je fakticky nepřesné. Trestní zákoník č. 40/2009 Sb. neplacení výživného nadále definuje jako trestný čin; politická diskuse se týká spíše podmínek pro zahájení trestního stíhání a využívání alternativních trestů."
+    },
+    {
+      "statement": "**Kdo:** Patrik Nacher (ANO)\n**Co:** Záměr zrušit koncesionářské poplatky a nahradit je přímým financováním ze státního rozpočtu.\n**Proč:** Vyvolává obavy z ohrožení nezávislosti veřejnoprávních médií na státní moci.\n**Čas:** 1/12:04",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/12:04",
+      "screenshot_path": "summaries/screenshots/event_2780_controversy_01.jpg",
+      "context": "Návrh na zrušení koncesionářských poplatků je legitimním politickým tématem. Odborníci na mediální právo a mezinárodní organizace (např. EBU) varují, že přímé financování ze státního rozpočtu může oslabit nezávislost médií veřejné služby na vládě."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

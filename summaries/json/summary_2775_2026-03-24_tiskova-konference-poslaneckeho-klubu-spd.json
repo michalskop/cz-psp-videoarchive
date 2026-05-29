@@ -1,0 +1,152 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:35:44",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2775",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-24T12:00",
+    "end_date": "2026-03-24T12:21",
+    "sources": [
+      "final/event_2775_2026-03-24_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních politických priorit, legislativních návrhů a personálních změn v poslaneckém klubu. Hlavními tématy byla transparentnost financování neziskových organizací, plánované zrušení koncesionářských poplatků České televize, podpora živnostníků a revize zdravotnické legislativy.\n\nKromě legislativních bodů se zástupci hnutí věnovali i kauzám týkajícím se korupce (Dozimetr), bezpečnosti politiků a zahraničněpolitickým postojům, včetně kritiky agrese NATO vůči Jugoslávii. Cílem konference bylo informovat veřejnost o postojích SPD k aktuálním vládním návrhům a zdůraznit roli hnutí jako opoziční síly hájící zájmy občanů a národní suverenitu.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prosazuje zprůhlednění financování neziskových organizací (veřejný registr dotací, povinnost zveřejňovat výdaje). Plánuje zrušení koncesionářských poplatků České televize od roku 2027 (dvoufázově).",
+      "**Radim Fiala (SPD)** — Představil nového člena klubu, Mgr. Josefa Nerušila, který nahradil Markétu Šichtařovou.",
+      "**Lucie Šafránková (SPD)** — Navrhuje zastropování minimálního vyměřovacího základu pro živnostníky na 35 % průměrné mzdy.",
+      "**Jan Síla (SPD)** — SPD nepodpoří novelu zákona o pojistném (přesun 7,8 mld. Kč). Kritizuje ministra Válka a prosazuje dobrovolnost u doporučeného očkování.",
+      "**Jindřich Rajchl (SPD)** — Ocenil zřízení vyšetřovací komise ke kauze Dozimetr. Oznámil podání trestního oznámení na Vojtěcha Pšenáka za výhrůžky žhářským útokem.",
+      "**Zuzana Majerová (SPD)** — Navrhuje zakotvení zemských znaků a vlajek. Požaduje revizi plošné inkluze ve školství. Připomněla výročí bombardování Jugoslávie.",
+      "**Marie Pošarová (SPD)** — Varovala před nedostatkem a růstem cen hnojiv kvůli konfliktu v Íránu.",
+      "**Irena Němcová (SPD)** — Prosazuje zrychlené schválení zmrazení platů politiků do roku 2029."
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o tiskovou konferenci. Dominujícím postojem SPD je odmítání vládních kroků v oblasti zvyšování odvodů, kritika zdravotnické politiky ministra Válka a prosazování legislativy zaměřené na „národní suverenitu“ a úspory v politickém sektoru.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radim Fiala",
+        "person_id": "psp:person:5459",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Lucie Šafránková",
+        "person_id": "psp:person:6479",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Síla",
+        "person_id": "psp:person:6783",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jindřich Rajchl",
+        "person_id": "psp:person:7037",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Zuzana Majerová",
+        "person_id": "psp:person:6467",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Marie Pošarová",
+        "person_id": "psp:person:6745",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Irena Němcová",
+        "person_id": "psp:person:7027",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "VZP",
+      "WHO",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Chceme, aby neziskové organizace pobírající veřejné peníze měly povinnost transparentně zveřejňovat své konkrétní výdaje.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:48",
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_00.jpg",
+      "context": "Neziskové organizace (spolky, ústavy, obecně prospěšné společnosti) již nyní podléhají zákonu č. 563/1991 Sb., o účetnictví, a mají povinnost zveřejňovat účetní závěrky ve veřejném rejstříku. Požadavek na detailní zveřejňování všech konkrétních výdajů nad rámec stávajících zákonných povinností je politickým návrhem, nikoliv platnou legislativou."
+    },
+    {
+      "text": "Plánujeme a připravujeme zákon, abychom od roku 2027 zrušili poplatky všem.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/01:45",
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Neexistuje žádný oficiální vládní ani legislativní návrh, který by plošně rušil veškeré poplatky (např. správní, soudní či regulační) od roku 2027; jde o politický příslib opozičního subjektu."
+    },
+    {
+      "text": "Navrhuje, aby se od roku 2026 minimální vyměřovací základ zastavil na 35 % průměrné mzdy a dál už nerostl.",
+      "type": "citation",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/05:09",
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_02.jpg",
+      "context": "Jedná se o politický návrh SPD. Aktuální legislativa (zákon č. 589/1992 Sb.) upravuje minimální vyměřovací základ pro OSVČ postupně směrem nahoru; zastavení na 35 % průměrné mzdy by vyžadovalo novelizaci tohoto zákona."
+    },
+    {
+      "text": "Prosazujeme zrychlené schválení zamrazení platů politiků až do roku 2029.",
+      "type": "citation",
+      "speaker": "Irena Němcová",
+      "affiliation": "SPD",
+      "timestamp": "1/20:40",
+      "screenshot_path": "summaries/screenshots/event_2775_highlight_03.jpg",
+      "context": "Vláda ČR v roce 2024 schválila návrh na úpravu platů ústavních činitelů, který počítá s jejich zmrazením či omezením růstu. Návrh na zmrazení až do roku 2029 je politickým požadavkem SPD, který přesahuje aktuální vládní legislativní záměr."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Jindřich Rajchl (SPD)**\n* **Co:** Podání trestního oznámení na Vojtěcha Pšenáka za zveřejnění adresy bydliště a podněcování ke žhářskému útoku.\n* **Proč:** Jde o přímou výhružku rodině politika, což je vnímáno jako překročení hranic politické debaty.\n* **Čas:** 1/14:03",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "SPD",
+      "timestamp": "1/14:03",
+      "screenshot_path": "summaries/screenshots/event_2775_controversy_00.jpg",
+      "context": "Trestní oznámení je právní úkon, jehož podání je ověřitelným faktem, nicméně pravdivost tvrzení o podněcování ke žhářství a výhružkách musí posoudit orgány činné v trestním řízení. Nelze nezávisle ověřit bez přístupu k policejnímu spisu."
+    },
+    {
+      "statement": "**Zuzana Majerová (SPD)**\n* **Co:** Označení agrese NATO vůči Jugoslávii za „zvěrstvo“ a „humanitární bombardování“.\n* **Proč:** Jde o kontroverzní interpretaci historické události, která je v přímém rozporu s oficiálním postojem české zahraniční politiky a spojenců v NATO.\n* **Čas:** 1/16:07",
+      "speaker": "Zuzana Majerová",
+      "affiliation": "SPD",
+      "timestamp": "1/16:07",
+      "screenshot_path": "summaries/screenshots/event_2775_controversy_01.jpg",
+      "context": "Termín „humanitární bombardování“ je široce používaný publicistický obrat pro intervenci NATO v Jugoslávii v roce 1999. Hodnocení události jako „zvěrstva“ je subjektivní politický názor, který se rozchází s oficiální interpretací tehdejší české vlády a spojenců v NATO, kteří akci zdůvodňovali jako reakci na etnické čistky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

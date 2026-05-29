@@ -3,13 +3,26 @@ import "./globals.css";
 import { SiteHeader } from "./components/SiteHeader";
 import { SiteFooter } from "./components/SiteFooter";
 
+const BASE_URL = "https://snemovna.datatimes.cz";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(BASE_URL),
   title: {
-    default: "PSP VideoArchiv | DataTimes.cz",
-    template: "%s | PSP VideoArchiv",
+    default: "PSP Video Archive | Sněmovna.DataTimes.cz",
+    template: "%s | PSP Video Archive",
   },
   description:
-    "Strukturované souhrny akcí Poslanecké sněmovny ČR — semináře, konference, výbory.",
+    "Strukturované souhrny akcí Poslanecké sněmovny ČR — semináře, konference, výbory. Přepisy a souhrny zpracovány pomocí AI.",
+  icons: { icon: "/videoarchiv/icon.svg" },
+  openGraph: {
+    siteName: "Sněmovna.DataTimes.cz/videoarchiv",
+    locale: "cs_CZ",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@datatimes_cz",
+  },
 };
 
 export default function RootLayout({

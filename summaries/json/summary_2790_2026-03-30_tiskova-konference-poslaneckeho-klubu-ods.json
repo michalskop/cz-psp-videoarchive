@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:27:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2790",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-30T15:45",
+    "end_date": "2026-03-30T16:04",
+    "sources": [
+      "final/event_2790_2026-03-30_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů ODS k aktuálním vládním krokům, kritiky vládní politiky v oblasti ekonomiky, sociálních věcí a zdravotnictví. Hlavním tématem byla nejednotnost vlády Andreje Babiše v otázce řešení vysokých cen pohonných hmot a kritika vládní komunikace.\n\nKromě ekonomických témat se zástupci ODS vyjádřili k legislativním návrhům v sociální oblasti, digitalizaci státní správy a k otázce regulace otevírací doby obchodů o státních svátcích. Cílem bylo představit alternativní návrhy ODS a poukázat na údajnou nekompetentnost a chaos v rozhodování současné vlády.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval chaos ve vládní komunikaci ohledně cen pohonných hmot. Navrhl dočasné snížení spotřební daně o 1,70 Kč na dobu čtyř měsíců. Vyzval premiéra Babiše, aby přestal útočit na média a novináře.",
+      "**Jiří Havránek (ODS)** — Kritizoval zneužívání poslaneckých návrhů k obcházení připomínkového řízení. Upozornil na zpoždění v digitalizaci MPSV. Představil návrh na zrušení zákazu otevírací doby obchodů o státních svátcích.",
+      "**Štěpán Slovák (ODS)** — Kritizoval systém specializačního vzdělávání lékařů. Vyjádřil skepsi k Národní strategii pro vzácná onemocnění. Vyzval vládu, aby nerušila Národní očkovací strategii."
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opoziční agendy. ODS potvrdila svůj záměr prosazovat snížení spotřební daně u paliv a zrušení regulace otevírací doby obchodů. Dominujícím postojem byla ostrá kritika vládní nekoncepčnosti a výzva k návratu k odborné diskuzi namísto politického populismu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD",
+      "STAN",
+      "KDU-ČSL",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo práce a sociálních věcí",
+      "Hospodářská komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Navrhujeme dočasné snížení spotřební daně o 1,70 Kč na dobu čtyř měsíců, což by pro motoristy znamenalo úsporu přes dvě koruny na litr.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/12:17",
+      "screenshot_path": "summaries/screenshots/event_2790_highlight_00.jpg",
+      "context": "Snížení spotřební daně o 1,70 Kč na litr paliva (včetně DPH) odpovídá úspoře přibližně 2,06 Kč. Toto opatření bylo v ČR skutečně realizováno v roce 2022 (zákon č. 132/2022 Sb.) jako reakce na vysoké ceny pohonných hmot."
+    },
+    {
+      "text": "Vracíme se zpátky k tomu, jak to bylo dříve, a navrhujeme zrušení zákazu otevírací doby obchodů o státních svátcích.",
+      "type": "paraphrase",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/15:41",
+      "screenshot_path": "summaries/screenshots/event_2790_highlight_01.jpg",
+      "context": "Zákon č. 223/2016 Sb. o prodejní době v maloobchodě omezuje prodej v provozovnách nad 200 m² o vybraných státních svátcích. Návrhy na jeho zrušení se v Poslanecké sněmovně objevují opakovaně, avšak dosud nebyly úspěšné."
+    },
+    {
+      "text": "Vyzýváme vládu, aby nerušila a neupravovala národní očkovací strategii a nepodléhala tlakům různých ezoterických skupin.",
+      "type": "paraphrase",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/10:01",
+      "screenshot_path": "summaries/screenshots/event_2790_highlight_02.jpg",
+      "context": "Národní imunizační strategie je strategický dokument Ministerstva zdravotnictví ČR. Tvrzení o 'tlacích ezoterických skupin' je politickým hodnocením a nelze jej fakticky ověřit jako objektivní stav, jde o interpretaci vlivu názorových proudů na tvorbu zdravotní politiky."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Přirovnání rétoriky Andreje Babiše vůči novinářům k románu 1984 George Orwella a označení jeho projevů za „desítky minut nenávisti“.\n**Proč:** Jde o silné politické obvinění z autoritářství a podněcování nenávisti vůči médiím, což je v demokratickém systému vysoce citlivé téma.\n**Čas:** 1/04:03",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/04:03",
+      "screenshot_path": "summaries/screenshots/event_2790_controversy_00.jpg",
+      "context": "Jde o subjektivní politickou interpretaci rétoriky Andreje Babiše. Odkaz na 'dvě minuty nenávisti' z románu 1984 je literární metafora, nikoliv faktické tvrzení, které by bylo možné verifikovat pomocí statistických dat."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:31:57",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2784",
+    "name": "Tisková konference předsedů opozičních stran (po hlasování o programu schůze)",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-24T19:12",
+    "end_date": "2026-03-24T19:30",
+    "sources": [
+      "final/event_2784_2026-03-24_tiskova-konference-predsedu-opozicnich-stran-po-hl.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference se konala bezprostředně po hlasování o programu schůze Poslanecké sněmovny (24. 3. 2026). Hlavním tématem byl ostrý nesouhlas opozičních stran s vládními záměry na změnu financování veřejnoprávních médií (Česká televize a Český rozhlas).\n\nCílem konference bylo deklarovat jednotný postoj opozice proti vládnímu návrhu, který opoziční lídři interpretují jako pokus o ovládnutí, „vyhladovění“ a zestátnění médií veřejné služby. Opozice avizovala využití všech dostupných parlamentních nástrojů, včetně obstrukcí a svolávání mimořádných schůzí, aby zabránila prosazení těchto změn.",
+    "main_points": [
+      "**Vít Rakušan (Starostové)** — Označil návrh za největší zásah do svobody médií od roku 1989. Kritizoval nekompetenci ministra kultury a varoval před „cestou na východ“. Potvrdil, že opozice bude obstruovat a využije Senát i Ústavní soud.",
+      "**Martin Kupka (ODS)** — Hovořil o „brutálním a arogantním útoku“ na demokracii. Zdůraznil, že vládní koalice nemá jasný plán a návrh je chaotický. Upozornil na bezpečnostní rizika a nedostatečnou komunikaci vlády.",
+      "**Zdeněk Hřib (Piráti)** — Upozornil na vzorec chování autoritářských režimů (omezování financí samosprávám a ovládnutí médií). Kritizoval snahy o politické ovlivňování obsahu vysílání skrze Rady ČT.",
+      "**Marek Výborný (KDU-ČSL)** — Vyčíslil dopady návrhu (ztráta přes 2 mld. Kč pro ČT a 800 mil. Kč pro ČRo). Varoval před fatálním dopadem na tvorbu a deklaroval připravenost k obstrukcím.",
+      "**Jan Jakob (TOP 09)** — Poukázal na rozpor v komunikaci vládních představitelů a zdůraznil, že návrh je v rozporu s evropským aktem o svobodě médií."
+    ],
+    "outcome": "Opozice se shodla na jednotném postupu proti vládním návrhům. Nebylo přijato žádné formální rozhodnutí o okamžitém svolání mimořádné schůze, ale tato možnost je vnímána jako reálný nástroj, o kterém budou předsedové klubů jednat v nejbližších hodinách či dnech. Panuje konsenzus, že jakýkoliv pokus o „zestátnění“ médií bude blokován všemi dostupnými prostředky.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "Starostové",
+      "ODS",
+      "KDU-ČSL",
+      "Piráti",
+      "TOP 09",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Senát",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tohle je největší zásah proti svobodě médií, který jsme tady od listopadu 1989 zažili.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/00:58",
+      "screenshot_path": "summaries/screenshots/event_2784_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení. Míra ohrožení svobody médií je předmětem politické debaty a nelze ji objektivně změřit jako fakt, přestože v historii ČR existovaly i jiné významné spory o nezávislost médií (např. krize v ČT v roce 2000)."
+    },
+    {
+      "text": "Česká televize by měla přijít o víc jak dvě miliardy korun z rozpočtu a Český rozhlas o bezmála 800 miliónů.",
+      "type": "citation",
+      "speaker": "Marek Výborný",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/07:10",
+      "screenshot_path": "summaries/screenshots/event_2784_highlight_01.jpg",
+      "context": "Čísla odpovídají odhadům dopadů v případě zrušení koncesionářských poplatků, které tvoří hlavní příjem veřejnoprávních médií. Podle výročních zpráv ČT a ČRo za rok 2023 tvoří výnosy z poplatků skutečně většinu jejich rozpočtů (ČT cca 5,7 mld. Kč, ČRo cca 2,2 mld. Kč)."
+    },
+    {
+      "text": "Každý správný režim s autoritářskými sklony vždycky začíná nejprve tím, že se snaží omezit finance pro samosprávy a hned s tím jde ruku v ruce také ovládnutí těch veřejnoprávních médií.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:27",
+      "screenshot_path": "summaries/screenshots/event_2784_highlight_02.jpg",
+      "context": "Tvrzení je politickou interpretací vztahu mezi financováním samospráv a veřejnoprávních médií. Neexistuje žádná obecně uznávaná politologická definice, která by takový postup automaticky klasifikovala jako znak autoritářského režimu; jde o názor na politické priority vlády."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Opozice (všichni řečníci) navrhuje masivní obstrukce a blokování legislativního procesu v Poslanecké sněmovně i Senátu. \n\n* **Proč:** Je to politicky citlivé, protože opozice tím porušuje svůj dřívější slib, že bude obstruovat pouze v „nejdůležitějších a nejnutnějších případech“.",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "1/01:20",
+      "screenshot_path": "summaries/screenshots/event_2784_controversy_00.jpg",
+      "context": "Obstrukce jsou legitimním parlamentním nástrojem opozice. Tvrzení o porušení slibu je subjektivní politické hodnocení, neboť definice „nejdůležitějších a nejnutnějších případů“ je vágní a závisí na politickém posouzení konkrétní opoziční strany."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

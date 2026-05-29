@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:33:44",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2778",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-24T13:01",
+    "end_date": "2026-03-24T13:20",
+    "sources": [
+      "final/event_2778_2026-03-24_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference se konala před zahájením schůze Poslanecké sněmovny. Cílem bylo představit priority opozičního klubu STAN, kritizovat kroky vlády Andreje Babiše a ohlásit konkrétní legislativní návrhy a postoje k projednávaným bodům.\n\nHlavními tématy byla ochrana nezávislosti veřejnoprávních médií, kritika rušení nominačního zákona, chaos kolem nového stavebního zákona, energetická bezpečnost, zdravotnická politika a rozpočtová odpovědnost.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval plánované „zestátnění“ veřejnoprávních médií skrze krácení rozpočtů. Navrhl, aby negativní stanovisko nominačního výboru bylo závazné pro nominace do státních firem.",
+      "**Lukáš Vlček (STAN)** — Označil vládní novelu stavebního zákona za chaotickou a nebezpečnou. Opakovaně vyzval k debatě o energetické bezpečnosti v souvislosti s konfliktem na Blízkém východě.",
+      "**Michaela Šebelová (STAN)** — Odmítla přerozdělení 8 miliard Kč z fondu VZP jako nesystémové. Varovala před ústupky vlády vůči SPD v národní očkovací strategii (HPV).",
+      "**Jan Papajanovský (STAN)** — Kritizoval rozpočtovou nezodpovědnost vlády. Předložil pozměňovací návrh k sociálnímu pojištění OSVČ, který cílí pomoc na řemeslníky místo plošných úlev.",
+      "**Barbora Urbanová (STAN)** — Oznámila blokování zkráceného projednávání trestního zákoníku. Představila balíček „Lex Mareček“ pro ochranu obětí domácího násilí."
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí. Nebylo přijato žádné formální rozhodnutí, ale byl deklarován postoj klubu STAN k nadcházející schůzi sněmovny: opozice bude blokovat vládní návrhy týkající se médií a trestního zákoníku a bude prosazovat vlastní pozměňovací návrhy v oblasti daní a nominací do státních orgánů.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování frází, které však nebránily pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "VZP",
+      "Národní rozpočtová rada",
+      "PAQ Research"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Já to nazvu jedním slovem, je to zestátnění. Ještě jednou, je to zestátnění veřejnoprávních médií.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/01:22",
+      "screenshot_path": "summaries/screenshots/event_2778_highlight_00.jpg",
+      "context": "Tvrzení je interpretací politického návrhu na změnu způsobu volby členů rad veřejnoprávních médií. Zda jde o „zestátnění“, je věcí politického názoru, nikoliv právní definice, neboť návrh se týká obsazování orgánů, nikoliv změny vlastnické struktury médií."
+    },
+    {
+      "text": "V České republice ročně onemocní touto nemocí 750 žen, z čehož 300 žen zemře.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/12:02",
+      "screenshot_path": "summaries/screenshots/event_2778_highlight_01.jpg",
+      "context": "Údaje odpovídají dlouhodobým statistikám Národního onkologického registru (NOR) pro vybraná onkologická onemocnění (např. karcinom děložního čípku). Čísla jsou v souladu s veřejně dostupnými daty ÚZIS o incidenci a mortalitě v ČR."
+    },
+    {
+      "text": "Pětina živnostníků s nejnižšími příjmy odvede průměrně 33 % svého zisku, zatímco ti nejbohatší živnostníci odvedou pouhých 20 %.",
+      "type": "citation",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/15:03",
+      "screenshot_path": "summaries/screenshots/event_2778_highlight_02.jpg",
+      "context": "Tvrzení vychází z analýz daňové progrese u osob samostatně výdělečně činných (OSVČ). Vzhledem k nastavení paušálních výdajů a sociálního pojištění je efektivní daňová sazba u nízkopříjmových OSVČ často vyšší v poměru k zisku než u vysokopříjmových, kteří využívají zastropování odvodů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vít Rakušan (STAN) navrhl, aby negativní stanovisko nominačního výboru bylo závazné pro jmenování do funkcí. Je to politicky citlivé, protože to výrazně omezuje pravomoc vlády jmenovat své kandidáty do dozorčích rad a státních podniků.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/06:03",
+      "screenshot_path": "summaries/screenshots/event_2778_controversy_00.jpg",
+      "context": "Návrh na závaznost stanoviska nominačního výboru je fakticky správný v popisu mechanismu, který by oslabil exekutivní pravomoc vlády při výběru kandidátů. Jde o legislativní návrh směřující k posílení odbornosti na úkor politických nominací, což je v souladu s principy zákona č. 77/1997 Sb., o státním podniku."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

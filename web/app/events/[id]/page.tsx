@@ -25,9 +25,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id } = await params;
   const s = getSummaryById(id);
   if (!s) return {};
+  const description = s.summary.topic.split("\n")[0].slice(0, 200);
   return {
     title: s.event.name,
-    description: s.summary.topic.split("\n")[0].slice(0, 200),
+    description,
+    openGraph: {
+      title: s.event.name,
+      description,
+      type: "article",
+      publishedTime: s.event.start_date,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: s.event.name,
+      description,
+    },
   };
 }
 

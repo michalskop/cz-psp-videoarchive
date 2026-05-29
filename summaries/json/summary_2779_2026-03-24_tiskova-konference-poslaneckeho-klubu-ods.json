@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:33:15",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2779",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-24T13:23",
+    "end_date": "2026-03-24T13:38",
+    "sources": [
+      "final/event_2779_2026-03-24_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána po jednání poslaneckého klubu ODS u příležitosti blížícího se 100. dne vlády Andreje Babiše. Cílem řečníků bylo představit kritické hodnocení dosavadního vládnutí, které označili za arogantní, nekompetentní a ohrožující bezpečnost i demokratické směřování České republiky.\n\nKromě celkového zhodnocení vlády se zástupci ODS zaměřili na konkrétní resortní selhání v oblasti kultury a na bezpečnostní rizika v souvislosti s nedávným teroristickým útokem v Pardubicích.",
+    "main_points": [
+      "**Martin Kupka (předseda ODS)** — Kritizoval 100 dní vlády za aroganci, neplnění slibů a „projídání budoucnosti“ (rozpočtový schodek 310 miliard Kč). Varoval před útokem na nezávislost veřejnoprávních médií a zneužíváním státních prostředků pro podporu Agrofertu.",
+      "**Martin Baxa (stínový ministr kultury)** — Označil řízení Ministerstva kultury za hluboce nekompetentní. Upozornil na rozpočtové škrty přesahující miliardu korun a kritizoval vládní postup v mediální legislativě, zejména plánované zrušení koncesionářských poplatků.",
+      "**Pavel Žáček (poslanec)** — Kritizoval reakci premiéra Babiše na teroristický útok v Pardubicích. Upozornil na krácení rozpočtů bezpečnostních složek (BIS, NÚKIB, NBÚ) a zdůraznil, že finance jsou klíčové pro moderní technologie a prevenci terorismu."
+    ],
+    "outcome": "Opoziční klub ODS se shodl na nutnosti vyvolat debatu o bezpečnostní situaci země na půdě Poslanecké sněmovny. Pokud vláda nebude ochotna věcně reagovat na požadavky opozice ohledně financování bezpečnostních složek a vysvětlení vládních kroků, ODS nevylučuje svolání mimořádné schůze Sněmovny.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Pavel Žáček",
+        "person_id": "psp:person:5226",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo kultury",
+      "BIS",
+      "NÚKIB",
+      "NBÚ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Projídání budoucnosti s rozpočtem, který přináší schodek 310 miliard korun, je jasný důkaz, že vláda Andreje Babiše nejedná v zájmu České republiky.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:01",
+      "screenshot_path": "summaries/screenshots/event_2779_highlight_00.jpg",
+      "context": "Schodek státního rozpočtu pro rok 2021 byl v důsledku pandemie covid-19 skutečně schválen ve výši 320 miliard korun (později novelizován na 500 miliard). Hodnocení, zda jde o „projídání budoucnosti“, je politickým názorem, nikoliv faktickým údajem."
+    },
+    {
+      "text": "Ministerstvo kultury vykazuje velkou nekompetentnost a rozpočtové škrty v kultuře přesahující miliardu korun jsou největším útokem na tuto sféru od roku 1989.",
+      "type": "paraphrase",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/06:32",
+      "screenshot_path": "summaries/screenshots/event_2779_highlight_01.jpg",
+      "context": "Výše rozpočtových škrtů v kultuře je předmětem politické interpretace, neboť závisí na srovnání konkrétních kapitol a investičních výdajů v čase. Tvrzení o „největším útoku od roku 1989“ je subjektivní rétorické vyjádření, které nelze objektivně kvantifikovat."
+    },
+    {
+      "text": "Bezpečnostní informační služba přišla oproti návrhu naší vlády o 300 milionů korun, což přímo ohrožuje naši schopnost využívat moderní technologie a AI k prevenci terorismu.",
+      "type": "citation",
+      "speaker": "Pavel Žáček",
+      "affiliation": "ODS",
+      "timestamp": "1/12:01",
+      "screenshot_path": "summaries/screenshots/event_2779_highlight_02.jpg",
+      "context": "Návrhy rozpočtů zpravodajských služeb jsou součástí neveřejných částí rozpočtové kapitoly Úřadu vlády. Nelze nezávisle ověřit přesnou výši krácení ani přímý dopad na konkrétní technologie bez přístupu k utajovaným přílohám rozpočtu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Změna mediální legislativy a zrušení koncesionářských poplatků**\n- **Kdo:** Martin Baxa (ODS)\n- **Co:** Kritika záměru vládní koalice zrušit koncesionářské poplatky a provést „orbánovsko-slovenskou revizi“ médií.\n- **Proč:** Jde o politicky citlivé téma, které přímo ovlivňuje nezávislost veřejnoprávních médií a jejich financování; opozice to vnímá jako přímý útok na demokracii.",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/08:04",
+      "screenshot_path": "summaries/screenshots/event_2779_controversy_00.jpg",
+      "context": "Debata o financování veřejnoprávních médií je dlouhodobým politickým tématem. Srovnání s maďarským či slovenským modelem je politickou analogií, nikoliv popisem legislativního stavu v ČR, kde koncesionářské poplatky zůstávají v platnosti."
+    },
+    {
+      "statement": "**Bezpečnostní selhání a krácení rozpočtů BIS**\n- **Kdo:** Pavel Žáček (ODS)\n- **Co:** Obvinění premiéra Babiše, že zanedbává bezpečnost státu a krácením rozpočtů BIS (o 300 mil. Kč) ohrožuje schopnost země čelit terorismu.\n- **Proč:** Přímé zpochybnění schopnosti premiéra zajistit bezpečnost občanů v době krize.",
+      "speaker": "Pavel Žáček",
+      "affiliation": "ODS",
+      "timestamp": "1/12:00",
+      "screenshot_path": "summaries/screenshots/event_2779_controversy_01.jpg",
+      "context": "Rozpočtové kapitoly BIS jsou schvalovány v rámci zákona o státním rozpočtu. Tvrzení o ohrožení bezpečnosti státu je politickým hodnocením priorit vlády, nikoliv ověřitelným technickým faktem o schopnosti BIS plnit své úkoly."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

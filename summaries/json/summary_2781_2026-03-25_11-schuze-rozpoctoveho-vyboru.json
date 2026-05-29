@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:31:20",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2781",
+    "name": "11. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-03-25T08:17",
+    "end_date": "2026-03-25T09:02",
+    "sources": [
+      "final/event_2781_2026-03-25_11-schuze-rozpoctoveho-vyboru.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 6,
+    "parts_total": 6,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Účelem jednání 11. schůze Rozpočtového výboru bylo projednání a schválení změn platových řádů tří klíčových institucí: Kanceláře Poslanecké sněmovny, Národního bezpečnostního úřadu (NBÚ) a Nejvyššího kontrolního úřadu (NKÚ). Hlavním bodem všech tří agend bylo plošné navýšení platových tarifů zaměstnanců o 9 % s účinností od 1. dubna 2026, což reaguje na aktuální vládní nařízení a potřebu sjednocení platových podmínek s kolektivními smlouvami a zavedenými mzdovými systémy.",
+    "main_points": [
+      "**Neidentifikovaný řečník (Předseda výboru)** — Řídil jednání, konstatoval autonomii výboru při schvalování platových tabulek jednotlivých kapitol a upozornil na systémové problémy ve veřejné správě.",
+      "**Martin Plíšek (Kancelář Poslanecké sněmovny)** — Představil nový platový řád Kanceláře PS. Změny zahrnují úpravu odměn za pracovní pohotovost (15 % průměrného výdělku) a integraci příloh do hlavního textu. Rozpočtový dopad navýšení tarifů o 9 % činí cca 1,29 mil. Kč měsíčně.",
+      "**Jan Čuřín (Národní bezpečnostní úřad)** — Předložil návrh na 9% navýšení tarifů. Zmínil dílčí úpravy v souvislosti s novelou zákoníku práce (započitatelná praxe, platové výměry).",
+      "**Miroslav Kala (Nejvyšší kontrolní úřad)** — Upozornil na kritickou situaci NKÚ: za tři roky snížení počtu zaměstnanců o 20, zrušení dvou územních odborů a rozpočtové škrty v celkové výši 110 mil. Kč. Uvedl, že mandatorní výdaje (38 mil. Kč) budou pokryty z nespotřebovaných výdajů. Kritizoval tlak Ministerstva financí na propouštění, které podle něj nevede k úsporám, ale k oslabení kvality auditu.",
+      "**Věra Kovářová (Zpravodajka)** — Přednesla zprávy ke všem bodům a návrhy usnesení. V rozpravě zdůraznila potřebu systémové reformy odměňování ve veřejné správě.",
+      "**Poslanci (Ševčík, Wolfová, Činčila, Munzar)** — Diskutovali o problému podhodnocených platových tarifů, které jsou často pod úrovní minimální mzdy, což instituce musí řešit doplatky. Kritizovali paušální způsob zvyšování platů a hromadění nespotřebovaných výdajů ve státní správě (celkem 178 mld. Kč)."
+    ],
+    "outcome": "Výbor schválil všechny tři předložené návrhy změn platových řádů (Kancelář PS, NBÚ, NKÚ) včetně navýšení platových tarifů o 9 % s účinností od 1. dubna 2026. Byla rovněž odsouhlasena pozvánka na příští schůzi výboru.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Kallis“ místo Kala) a občasné technické výpadky v textu, které však nebránily pochopení hlavního obsahu jednání."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Plíšek",
+        "person_id": "psp:person:6251",
+        "affiliation": "Kancelář Poslanecké sněmovny"
+      },
+      {
+        "name": "Jan Čuřín",
+        "person_id": null,
+        "affiliation": "Národní bezpečnostní úřad"
+      },
+      {
+        "name": "Miroslav Kala",
+        "person_id": "psp:person:5298",
+        "affiliation": "Nejvyšší kontrolní úřad"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Kancelář Poslanecké sněmovny",
+      "Národní bezpečnostní úřad",
+      "Nejvyšší kontrolní úřad",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Za poslední tři roky jsme počet zaměstnanců snížili o 20 a náš rozpočet byl každoročně snižován v celkové výši téměř 110 milionů korun.",
+      "type": "citation",
+      "speaker": "Miroslav Kala",
+      "affiliation": "Nejvyšší kontrolní úřad",
+      "timestamp": "4/01:36",
+      "screenshot_path": "summaries/screenshots/event_2781_highlight_00.jpg",
+      "context": "Údaje o počtu zaměstnanců a rozpočtu NKÚ jsou ověřitelné ve výročních zprávách úřadu a zákonu o státním rozpočtu. NKÚ dlouhodobě vykazuje úspory v provozních výdajích, což potvrzují i audity hospodaření úřadu."
+    },
+    {
+      "text": "Státní správa a veřejná správa celkově není konkurenceschopná, pokud nebudou úředníci adekvátně zaplaceni.",
+      "type": "paraphrase",
+      "speaker": "Věra Kovářová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "5/08:03",
+      "screenshot_path": "summaries/screenshots/event_2781_highlight_01.jpg",
+      "context": "Jde o subjektivní politické hodnocení a názor na personální politiku státu. Srovnání platů ve státní správě a soukromém sektoru je předmětem dlouhodobých ekonomických debat, objektivní „konkurenceschopnost“ nelze jednoznačně kvantifikovat."
+    },
+    {
+      "text": "V současné době evidujeme 178 miliard korun v nespotřebovaných výdajích napříč institucemi, dokud se s tím nepohne, tak ten systém je v problémech.",
+      "type": "citation",
+      "speaker": "Věra Kovářová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "5/02:48",
+      "screenshot_path": "summaries/screenshots/event_2781_highlight_02.jpg",
+      "context": "Objem nespotřebovaných výdajů (tzv. nároky z nespotřebovaných výdajů) je sledován Ministerstvem financí ČR v rámci státního závěrečného účtu. Částka 178 miliard odpovídá řádově objemu, který byl v minulých letech reportován v rámci monitoringu státní pokladny."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverze: Propouštění zaměstnanců NKÚ**\n* **Kdo:** Miroslav Kala (Prezident NKÚ)\n* **Co:** Upozornil, že tlak Ministerstva financí na propouštění zaměstnanců NKÚ je kontraproduktivní, nevede k úsporám a oslabuje kontrolní činnost úřadu.\n* **Proč:** Jde o střet mezi vládní rozpočtovou politikou (škrtání) a potřebou odborné kapacity pro kontrolu státních dotací.\n* **Čas:** 4/02:04",
+      "speaker": "Miroslav Kala",
+      "affiliation": "Nejvyšší kontrolní úřad",
+      "timestamp": "4/02:04",
+      "screenshot_path": "summaries/screenshots/event_2781_controversy_00.jpg",
+      "context": "Tvrzení o kontraproduktivitě škrtů je názorovou pozicí prezidenta NKÚ. Dopad na kontrolní činnost je věcí odborného posouzení, přičemž NKÚ je ze zákona č. 166/1993 Sb. nezávislým orgánem, jehož rozpočet schvaluje Poslanecká sněmovna."
+    },
+    {
+      "statement": "**Kontroverze: Nespotřebované výdaje státu**\n* **Kdo:** Věra Kovářová (Poslankyně)\n* **Co:** Upozornila na objem 178 miliard Kč v nespotřebovaných výdajích napříč institucemi, které „leží ladem“.\n* **Proč:** Politicky citlivé téma, protože tyto prostředky by mohly být využity na mandatorní výdaje namísto škrtů v provozu úřadů.\n* **Čas:** 5/08:03",
+      "speaker": "Věra Kovářová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "5/08:03",
+      "screenshot_path": "summaries/screenshots/event_2781_controversy_01.jpg",
+      "context": "Existence vysokých nároků z nespotřebovaných výdajů je fakticky doložitelná z dat MF ČR. Politická interpretace, že tyto prostředky „leží ladem“ a měly by být využity jinak, je předmětem debaty o rozpočtové kázni a efektivitě čerpání státních prostředků."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

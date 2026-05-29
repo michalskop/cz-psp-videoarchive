@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T04:29:45",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2783",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-25",
+    "sources": [
+      "final/event_2783_2026-03-25_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Jednání proběhlo formou tiskové konference poslaneckého klubu Pirátů dne 25. března 2026. Hlavním cílem bylo představení „Manifestu energetické bezpečnosti“, který Piráti vypracovali jako reakci na absenci vládního plánu v oblasti energetické krize, rostoucích cen energií a hrozící inflace.\n\nPiráti kritizují současnou vládu za pasivitu při řešení energetické nestability, která je podle nich umocněna konfliktem na Blízkém východě a závislostí na dovozu fosilních paliv. Manifest obsahuje devět konkrétních bodů rozdělených do tří kategorií: okamžitá pomoc rodinám a průmyslu, kroky, které vláda nesmí činit, a dlouhodobá opatření pro energetickou soběstačnost.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Upozornil na hrozící 10% zdražení potravin a růst cen pohonných hmot. Kritizoval závislost na dovozu ropy a plynu a varoval před dezinformačními kampaněmi zpochybňujícími obnovitelné zdroje.",
+      "**Vendula Svobodová (Piráti)** — Navrhla vrátit lidem prostředky z nadvýběru DPH, zavést příspěvek na dojíždění, snížit DPH na základní potraviny z 12 % na 6 % a obnovit program „Nová zelená úsporám“ v původní podobě.",
+      "**Jiří Hlavenka (Piráti)** — Varoval před omezováním výstavby domácích energetických zdrojů, odmítl obnovení dodávek ruských energií a kritizoval plánovaný výkup minoritního podílu ČEZu státem jako neefektivní.",
+      "**Tereza Nislerová (Piráti)** — Navrhla nulovou DPH na investice do energetické soběstačnosti, zrychlení aukcí na obnovitelné zdroje, zavedení principu „využij nebo ztrať“ pro rezervace v síti a posílení přeshraničních propojení."
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o prezentaci politického programu. Piráti deklarovali, že část návrhů již předložili v paragrafovém znění a budou iniciovat jednání s příslušnými ministry. Konsenzem řečníků je potřeba okamžité vládní akce, která nahradí současný stav „monitorování marží“ konkrétními legislativními kroky.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Jiří Hlavenka",
+        "person_id": null,
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Tereza Nislerová",
+        "person_id": null,
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "ČEZ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Stát vlastní třetí největší řetězec čerpacích stanic a cena nafty se blíží k 50 korunám, což potvrzuje, že závislost na dovozu ropy a plynu je pro nás problém.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:14",
+      "screenshot_path": "summaries/screenshots/event_2783_highlight_00.jpg",
+      "context": "Stát prostřednictvím společnosti ČEPRO provozuje síť čerpacích stanic EuroOil, která je počtem stanic (cca 200) jednou z největších v ČR. Ceny pohonných hmot jsou tržní a závisí na ceně ropy na světových trzích (Brent) a kurzu koruny, nikoliv přímo na vlastnictví stanic státem."
+    },
+    {
+      "text": "Výkup minoritního podílu ČEZu bude stát minimálně 250 miliard, což je obrovská darda, která vyčerpá státní rozpočet, ale nepostaví to jediný watt energie.",
+      "type": "citation",
+      "speaker": "Jiří Hlavenka",
+      "affiliation": "Piráti",
+      "timestamp": "1/09:30",
+      "screenshot_path": "summaries/screenshots/event_2783_highlight_01.jpg",
+      "context": "Odhadovaná cena za výkup minoritních podílů se liší podle tržní kapitalizace ČEZu, částka 250 miliard je expertní odhad, nikoliv oficiální vládní nabídka. Tvrzení, že výkup nepostaví nový watt energie, je fakticky správné, neboť jde o změnu vlastnické struktury, nikoliv o přímou investici do výstavby zdrojů."
+    },
+    {
+      "text": "Vyzýváme vládu, aby snížila DPH u základních potravin, jako je pečivo, zelenina nebo maso, z 12 % na 6 %.",
+      "type": "citation",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:52",
+      "screenshot_path": "summaries/screenshots/event_2783_highlight_02.jpg",
+      "context": "Sazby DPH jsou v ČR upraveny zákonem č. 235/2004 Sb. Od 1. 1. 2024 platí pro potraviny jednotná snížená sazba 12 %. Návrh na snížení na 6 % je politickým požadavkem, který by vyžadoval legislativní změnu zákona a měl by přímý dopad na výpadek příjmů státního rozpočtu."
+    },
+    {
+      "text": "V době, kdy stát zrušil dotace pro domácnosti, je nulové DPH na investice do energetické soběstačnosti nejrychlejší způsob, jak nakopnout investice.",
+      "type": "citation",
+      "speaker": "Tereza Nislerová",
+      "affiliation": "Piráti",
+      "timestamp": "1/12:17",
+      "screenshot_path": "summaries/screenshots/event_2783_highlight_03.jpg",
+      "context": "Dotační programy pro domácnosti (např. Nová zelená úsporám) stále existují a jsou spravovány SFŽP ČR. Zavedení nulové sazby DPH na investice do energetické soběstačnosti by bylo v rozporu s aktuální legislativou EU (směrnice o DPH), která omezuje možnost zavádět nulové sazby u většiny zboží a služeb."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jiří Hlavenka (Piráti)\n**Co:** Odmítnutí výkupu minoritního podílu ČEZu státem.\n**Proč:** Je to kontroverzní, protože vláda tento krok zvažuje jako nástroj pro získání plné kontroly nad energetickou infrastrukturou, zatímco Piráti jej považují za vyhození 250 miliard korun bez přínosu pro energetickou bilanci.\n**Čas:** 1/09:04",
+      "speaker": "Jiří Hlavenka",
+      "affiliation": "Piráti",
+      "timestamp": "1/09:04",
+      "screenshot_path": "summaries/screenshots/event_2783_controversy_00.jpg",
+      "context": "Debata o restrukturalizaci ČEZu je aktuálním politickým tématem. Argument o 'vyhození peněz' bez přínosu pro energetickou bilanci je legitimní ekonomický názor, zatímco vládní argumentace se opírá o strategickou kontrolu nad výrobou elektřiny a cenotvorbou v rámci energetické bezpečnosti státu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
