@@ -6,6 +6,8 @@ import {
   getSummaryById,
   formatDate,
   qualityLabel,
+  pluralCitace,
+  pluralKontroverze,
 } from "@/lib/summaries";
 import { CategoryBadge } from "../../components/CategoryBadge";
 import { QualityBadge } from "../../components/QualityBadge";
@@ -37,19 +39,31 @@ export default async function EventPage({ params }: Props) {
     s.transcription.parts_transcribed,
     s.transcription.parts_total
   );
+  const highlightCount = s.highlights?.length ?? 0;
+  const controversyCount = s.controversial?.length ?? 0;
 
   return (
     <article className="max-w-3xl mx-auto px-4 py-10">
       {/* Header */}
       <header className="mb-8">
         <div className="flex flex-wrap items-center gap-2 mb-3">
-          <span className="font-sans text-sm text-neutral-500">
+          <span className="font-sans text-sm text-muted-foreground">
             {formatDate(s.event.start_date)}
           </span>
           <CategoryBadge category={s.event.classification} />
           <QualityBadge quality={quality} />
+          {highlightCount > 0 && (
+            <span className="font-sans text-xs text-brand-6 border border-brand-6 rounded px-2 py-0.5">
+              {pluralCitace(highlightCount)}
+            </span>
+          )}
+          {controversyCount > 0 && (
+            <span className="font-sans text-xs text-orange-6 border border-orange-6 rounded px-2 py-0.5">
+              {pluralKontroverze(controversyCount)}
+            </span>
+          )}
         </div>
-        <h1 className="font-slab font-bold text-2xl text-midnight leading-snug mb-4">
+        <h1 className="font-slab font-bold text-2xl text-navy-9 leading-snug mb-4">
           {s.event.name}
         </h1>
 
@@ -59,11 +73,11 @@ export default async function EventPage({ params }: Props) {
             {s.entities.speakers.map((sp, i) => (
               <span
                 key={i}
-                className="font-sans text-xs bg-ink-wash border border-border-cream text-neutral-700 px-2 py-1 rounded"
+                className="font-sans text-xs bg-surface-2 border border-border text-foreground px-2 py-1 rounded"
               >
                 {sp.name}
                 {sp.affiliation && (
-                  <span className="text-neutral-400"> · {sp.affiliation}</span>
+                  <span className="text-muted-foreground"> · {sp.affiliation}</span>
                 )}
               </span>
             ))}
@@ -73,10 +87,8 @@ export default async function EventPage({ params }: Props) {
 
       {/* Téma */}
       <section className="mb-8">
-        <h2 className="font-slab font-semibold text-lg text-midnight mb-3">
-          Téma
-        </h2>
-        <div className="font-slab text-base leading-relaxed whitespace-pre-line text-neutral-700">
+        <h2 className="font-slab font-semibold text-lg text-navy-9 mb-3">Téma</h2>
+        <div className="font-slab text-base leading-relaxed whitespace-pre-line text-foreground">
           {s.summary.topic}
         </div>
       </section>
@@ -84,12 +96,13 @@ export default async function EventPage({ params }: Props) {
       {/* Hlavní body */}
       {s.summary.main_points.length > 0 && (
         <section className="mb-8">
-          <h2 className="font-slab font-semibold text-lg text-midnight mb-3">
-            Hlavní body
-          </h2>
+          <h2 className="font-slab font-semibold text-lg text-navy-9 mb-3">Hlavní body</h2>
           <ul className="flex flex-col gap-3">
             {s.summary.main_points.map((point, i) => (
-              <li key={i} className="font-slab text-sm leading-relaxed text-neutral-700 pl-4 border-l-2 border-border-cream">
+              <li
+                key={i}
+                className="font-slab text-sm leading-relaxed text-foreground pl-4 border-l-2 border-border"
+              >
                 <MainPoint text={point} />
               </li>
             ))}
@@ -97,18 +110,21 @@ export default async function EventPage({ params }: Props) {
         </section>
       )}
 
-      {/* Highlights */}
+      {/* Výsledek */}
+      <section className="mb-8">
+        <h2 className="font-slab font-semibold text-lg text-navy-9 mb-3">Výsledek</h2>
+        <div className="font-slab text-base leading-relaxed whitespace-pre-line text-foreground">
+          {s.summary.outcome}
+        </div>
+      </section>
+
+      {/* Výrazné momenty */}
       {s.highlights && s.highlights.length > 0 && (
         <section className="mb-8">
-          <h2 className="font-slab font-semibold text-lg text-midnight mb-4">
-            Výrazné momenty
-          </h2>
+          <h2 className="font-slab font-semibold text-lg text-navy-9 mb-4">Výrazné momenty</h2>
           <div className="flex flex-col gap-5">
             {s.highlights.map((h, i) => (
-              <div
-                key={i}
-                className="border-l-4 border-crimson bg-crimson-tint rounded-r-lg p-4"
-              >
+              <div key={i} className="border-l-4 border-brand-6 bg-brand-0 rounded-r-lg p-4">
                 {h.screenshot_path && (
                   <div className="mb-3 rounded overflow-hidden">
                     <Image
@@ -121,20 +137,22 @@ export default async function EventPage({ params }: Props) {
                     />
                   </div>
                 )}
-                <blockquote className="font-slab text-base leading-relaxed text-midnight mb-2">
+                <blockquote className="font-slab text-base leading-relaxed text-navy-9 mb-2">
                   &ldquo;{h.text}&rdquo;
                 </blockquote>
-                <footer className="font-sans text-xs text-neutral-500 flex flex-wrap items-center gap-2">
-                  <span className="font-medium text-neutral-700">{h.speaker}</span>
+                <footer className="font-sans text-xs text-muted-foreground flex flex-wrap items-center gap-2">
+                  <span className="font-medium text-foreground">{h.speaker}</span>
                   {h.affiliation && <span>· {h.affiliation}</span>}
                   <span className="font-mono">· {h.timestamp}</span>
-                  <span className="px-1.5 py-0.5 bg-white border border-border-cream rounded">
+                  <span className="px-1.5 py-0.5 bg-surface-0 border border-border rounded">
                     {h.type === "citation" ? "citace" : "parafráze"}
                   </span>
                 </footer>
                 {h.context && (
-                  <div className="mt-3 bg-teal-tint border-l-2 border-teal rounded-r p-3 font-sans text-xs text-neutral-700 leading-relaxed">
-                    <span className="font-semibold text-teal uppercase tracking-wide text-[10px] block mb-1">Kontext</span>
+                  <div className="mt-3 bg-teal-0 border-l-2 border-teal-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed">
+                    <span className="font-semibold text-teal-6 uppercase tracking-wide text-[10px] block mb-1">
+                      Kontext
+                    </span>
                     {h.context}
                   </div>
                 )}
@@ -144,10 +162,10 @@ export default async function EventPage({ params }: Props) {
         </section>
       )}
 
-      {/* Kontroverzní body */}
+      {/* Kontroverzní výroky */}
       {s.controversial && s.controversial.length > 0 && (
         <section className="mb-8">
-          <h2 className="font-slab font-semibold text-lg text-midnight mb-4">
+          <h2 className="font-slab font-semibold text-lg text-navy-9 mb-4">
             Kontroverzní výroky
           </h2>
           <div className="flex flex-col gap-5">
@@ -155,7 +173,7 @@ export default async function EventPage({ params }: Props) {
               <section
                 key={i}
                 aria-label="Kontroverzní výrok"
-                className="border border-orange rounded-lg p-4 bg-orange-tint"
+                className="border border-orange-6 rounded-lg p-4 bg-orange-0"
               >
                 {c.screenshot_path && (
                   <div className="mb-3 rounded overflow-hidden">
@@ -169,17 +187,17 @@ export default async function EventPage({ params }: Props) {
                     />
                   </div>
                 )}
-                <p className="font-slab text-base leading-relaxed text-midnight mb-2">
-                  {c.statement}
-                </p>
-                <footer className="font-sans text-xs text-neutral-500 flex flex-wrap items-center gap-2">
-                  <span className="font-medium text-neutral-700">{c.speaker}</span>
+                <ControversialStatement text={c.statement} />
+                <footer className="font-sans text-xs text-muted-foreground flex flex-wrap items-center gap-2 mt-2">
+                  <span className="font-medium text-foreground">{c.speaker}</span>
                   {c.affiliation && <span>· {c.affiliation}</span>}
                   <span className="font-mono">· {c.timestamp}</span>
                 </footer>
                 {c.context && (
-                  <div className="mt-3 bg-white border-l-2 border-navy-purple rounded-r p-3 font-sans text-xs text-neutral-700 leading-relaxed">
-                    <span className="font-semibold text-navy-purple uppercase tracking-wide text-[10px] block mb-1">Faktický kontext</span>
+                  <div className="mt-3 bg-surface-0 border-l-2 border-navy-6 rounded-r p-3 font-sans text-xs text-foreground leading-relaxed">
+                    <span className="font-semibold text-navy-6 uppercase tracking-wide text-[10px] block mb-1">
+                      Faktický kontext
+                    </span>
                     {c.context}
                   </div>
                 )}
@@ -189,24 +207,14 @@ export default async function EventPage({ params }: Props) {
         </section>
       )}
 
-      {/* Výsledek */}
-      <section className="mb-8">
-        <h2 className="font-slab font-semibold text-lg text-midnight mb-3">
-          Výsledek
-        </h2>
-        <div className="font-slab text-base leading-relaxed whitespace-pre-line text-neutral-700">
-          {s.summary.outcome}
-        </div>
-      </section>
-
       {/* Poznámky k přepisu */}
       {s.summary.notes && (
         <section className="mb-8">
-          <div className="border-l-4 border-orange bg-orange-tint rounded-r-lg p-4">
-            <p className="font-sans text-xs font-semibold text-orange uppercase tracking-wide mb-1">
+          <div className="border-l-4 border-orange-6 bg-orange-0 rounded-r-lg p-4">
+            <p className="font-sans text-xs font-semibold text-orange-6 uppercase tracking-wide mb-1">
               Poznámky k přepisu
             </p>
-            <p className="font-sans text-sm text-neutral-700 leading-relaxed">
+            <p className="font-sans text-sm text-foreground leading-relaxed">
               {s.summary.notes}
             </p>
           </div>
@@ -214,21 +222,22 @@ export default async function EventPage({ params }: Props) {
       )}
 
       {/* Meta */}
-      <footer className="border-t border-border-cream pt-4 font-sans text-xs text-neutral-400 flex flex-wrap gap-4">
+      <footer className="border-t border-border pt-4 font-sans text-xs text-muted-foreground flex flex-wrap gap-4">
         <span>Akce č. {s.event.id}</span>
         <span>
           Přepis: {s.transcription.parts_transcribed}/{s.transcription.parts_total} částí (
           {s.transcription.model})
         </span>
         <span>Souhrn: {s.model_hint}</span>
-        <span>Vytvořeno: {new Date(s.created_at).toLocaleDateString("cs-CZ")}</span>
+        <span>
+          Vytvořeno: {new Date(s.created_at).getDate()}. {new Date(s.created_at).getMonth() + 1}. {new Date(s.created_at).getFullYear()}
+        </span>
       </footer>
     </article>
   );
 }
 
 function MainPoint({ text }: { text: string }) {
-  // Bold text between ** ** markers
   const parts = text.split(/(\*\*[^*]+\*\*)/g);
   return (
     <>
@@ -240,5 +249,59 @@ function MainPoint({ text }: { text: string }) {
         )
       )}
     </>
+  );
+}
+
+/**
+ * Renders a controversial statement that may contain markdown bullet points.
+ * Format expected (optional):
+ *   Title line
+ *
+ *   *   **Kdo:** ...
+ *   *   **Co:** ...
+ *   *   **Proč:** ...
+ *   *   **Čas:** ...   ← stripped (shown in footer)
+ */
+function ControversialStatement({ text }: { text: string }) {
+  const lines = text.split("\n");
+  const titleLines: string[] = [];
+  const bullets: { key: string; value: string }[] = [];
+
+  for (const line of lines) {
+    const bulletMatch = line.match(/^\s*\*\s+\*\*([^:*]+):\*\*\s*(.*)/);
+    if (bulletMatch) {
+      const key = bulletMatch[1].trim();
+      if (key === "Čas") continue; // already in footer
+      bullets.push({ key, value: bulletMatch[2].trim() });
+    } else if (!line.trim()) {
+      if (titleLines.length > 0) continue; // skip blank lines after title
+    } else if (bullets.length === 0) {
+      titleLines.push(line);
+    }
+  }
+
+  const title = titleLines.join(" ").trim();
+
+  return (
+    <div>
+      {title && (
+        <p className="font-slab text-base font-semibold leading-snug text-navy-9 mb-2">
+          {title}
+        </p>
+      )}
+      {bullets.length > 0 && (
+        <dl className="font-sans text-sm text-foreground leading-relaxed space-y-1">
+          {bullets.map(({ key, value }, i) => (
+            <div key={i} className="flex gap-2">
+              <dt className="font-semibold flex-shrink-0 text-muted-foreground">{key}:</dt>
+              <dd>{value}</dd>
+            </div>
+          ))}
+        </dl>
+      )}
+      {!title && bullets.length === 0 && (
+        <p className="font-slab text-base leading-relaxed text-foreground">{text}</p>
+      )}
+    </div>
   );
 }

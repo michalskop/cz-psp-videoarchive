@@ -1,31 +1,66 @@
 @import "tailwindcss";
 
-/* ── DataTimes PSP colour palette ────────────────────────────────────────── */
-@theme inline {
-  --color-newsprint: #fdfbf7;
-  --color-ink-wash: #f8f6f0;
-  --color-border-cream: #e8e8dc;
-  --color-midnight: #272a59;
-  --color-crimson: #de1743;
-  --color-crimson-hover: #c5143c;
-  --color-navy-purple: #6267a3;
-  --color-teal: #0e839e;
-  --color-teal-tint: #e5fdfc;
-  --color-orange: #f76800;
-  --color-orange-tint: #fff3e8;
-  --color-crimson-tint: #fff4f6;
-  --color-ink: #1a1a1a;
+/* ── DataTimes palette (canonical from packages/ui/src/palette.ts) ──────── */
+@theme {
+  /* Brand (crimson) */
+  --color-brand-0: #fff4f6;
+  --color-brand-1: #ffb3c0;
+  --color-brand-2: #ff8099;
+  --color-brand-3: #ff4d70;
+  --color-brand-4: #ff1a4a;
+  --color-brand-5: #f01745;
+  --color-brand-6: #de1743;
+  --color-brand-7: #c5143c;
+  --color-brand-8: #a81134;
+  --color-brand-9: #8b0e2b;
 
+  /* Navy / purple */
+  --color-navy-0: #e9ecf4;
+  --color-navy-1: #d2d8e9;
+  --color-navy-2: #bcc4df;
+  --color-navy-3: #a6b0d4;
+  --color-navy-4: #8f9dc9;
+  --color-navy-5: #7889be;
+  --color-navy-6: #6267a3;
+  --color-navy-7: #4c4f8e;
+  --color-navy-8: #2f325c;
+  --color-navy-9: #101432;
+
+  /* Royal */
+  --color-royal-8: #272a59;
+
+  /* Teal */
+  --color-teal-0: #e5fdfc;
+  --color-teal-6: #0e839e;
+  --color-teal-7: #06677d;
+
+  /* Orange */
+  --color-orange-0: #fff3e8;
+  --color-orange-6: #f76800;
+
+  /* Yellow (dots) */
+  --color-yellow-7: #efb704;
+
+  /* Surfaces */
+  --color-surface-0: #ffffff;
+  --color-surface-1: #fdfbf7;
+  --color-surface-2: #f8f6f0;
+  --color-surface-3: #f3f1e9;
+  --color-surface-4: #eeeae2;
+  --color-surface-6: #e8e8dc;
+  --color-surface-7: #d4d4c8;
+
+  /* Semantic aliases */
+  --color-border: #e8e8dc;
+  --color-foreground: #101432;
+  --color-muted-foreground: #6267a3;
+
+  /* Fonts */
   --font-slab: "Roboto Slab", Georgia, serif;
   --font-sans: "Work Sans", system-ui, sans-serif;
 }
 
 body {
-  background-color: var(--color-newsprint);
-  color: var(--color-ink);
-}
-
-/* ── Prose tweaks ────────────────────────────────────────────────────────── */
-strong {
-  font-weight: 600;
+  background-color: var(--color-surface-1);
+  color: var(--color-foreground);
 }

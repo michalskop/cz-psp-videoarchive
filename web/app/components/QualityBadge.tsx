@@ -1,7 +1,7 @@
 const STYLE = {
-  good: { label: "přepis: dobrý", cls: "text-teal border-teal" },
-  partial: { label: "přepis: částečný", cls: "text-orange border-orange" },
-  poor: { label: "přepis: slabý", cls: "text-crimson border-crimson" },
+  good:    { label: "přepis: dobrý",     cls: "text-teal-6 border-teal-6" },
+  partial: { label: "přepis: částečný",  cls: "text-orange-6 border-orange-6" },
+  poor:    { label: "přepis: slabý",     cls: "text-brand-6 border-brand-6" },
 };
 
 export function QualityBadge({ quality }: { quality: "good" | "partial" | "poor" }) {
