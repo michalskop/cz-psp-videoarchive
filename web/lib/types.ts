@@ -72,12 +72,16 @@ export function qualityLabel(
   return "poor";
 }
 
+function isRemoteUrl(path: string | null | undefined): path is string {
+  return typeof path === "string" && path.startsWith("http");
+}
+
 export function firstThumbnail(s: Summary): string | null {
-  return (
-    s.highlights?.[0]?.screenshot_path ??
-    s.controversial?.[0]?.screenshot_path ??
-    null
-  );
+  const candidates = [
+    s.highlights?.[0]?.screenshot_path,
+    s.controversial?.[0]?.screenshot_path,
+  ];
+  return candidates.find(isRemoteUrl) ?? null;
 }
 
 export function pluralCitace(n: number): string {

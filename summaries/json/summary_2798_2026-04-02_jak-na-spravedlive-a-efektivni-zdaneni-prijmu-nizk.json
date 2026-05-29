@@ -1,10 +1,10 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:21:21",
-  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-05-29T12:55:22",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
   "event": {
     "id": "2798",
-    "name": "Kulatý stůl na téma \"Jak na spravedlivé a efektivní zdanění příjmů nízkopříjmových poplatníků?\"",
+    "name": "Jak na spravedlivé a efektivní zdanění příjmů nízkopříjmových poplatníků?",
     "classification": "Kulatý stůl",
     "start_date": "2026-04-02T10:31",
     "end_date": "2026-04-02T12:05",
@@ -13,29 +13,25 @@
     ]
   },
   "transcription": {
-    "parts_transcribed": 10,
-    "parts_total": 10,
+    "parts_transcribed": 2,
+    "parts_total": 2,
     "source": "whisper",
-    "model": "whisper-large-v3"
+    "model": "basic"
   },
   "summary": {
-    "topic": "Kulatý stůl s názvem „Jak na spravedlivé a efektivní zdanění příjmů nízkopříjmových poplatníků?“ se konal 2. dubna 2026 v Poslanecké sněmovně. Cílem akce bylo prodiskutovat současné nastavení zdanění práce v ČR, identifikovat jeho nedostatky z hlediska spravedlnosti a efektivity a představit konkrétní legislativní návrhy na zlepšení situace nízkopříjmových zaměstnanců.\n\nJednání se zaměřilo na problematiku vysokého zdanění nízkopříjmových skupin, motivaci k legální práci, dopady na rodinné rozpočty a otázku automatické valorizace daňových slev. Diskuse se dotkla i technických aspektů legislativních návrhů a jejich ústavní a evropské konformity.",
+    "topic": "Jednání se konalo na téma \"Jak na spravedlivé a efektivní zdanění příjmů nízkopříjmových poplatníků?\" Cílem bylo diskutovat o možnostech změny zdanění příjmů nízkopříjmových zaměstnanců, včetně návrhů na zvýšení slevy na dani a změny v systému daňových výhod.",
     "main_points": [
-      "**Jan Papajanovský (STAN)** — Představil návrh (ST 120) zaměřený na zavedení daňového bonusu pro nízkopříjmové zaměstnance, navázaný na zaplacené sociální a zdravotní pojištění.",
-      "**Vendula Svobodová (Piráti)** — Představila „rodinný balíček“ (ST 4) zahrnující zvýšení slevy na poplatníka, zvýšení slevy na první dítě a pravidelnou valorizaci.",
-      "**Petr Vilím (PAQ Research)** — Upozornil na vysoké zdanění nízkopříjmových v ČR a navrhl financování změn skrze omezení optimalizací u dohod a narovnání zdanění OSVČ.",
-      "**Michal Šoltés (CERGE-AI / PF UK)** — Podpořil automatickou valorizaci daňových parametrů jako nástroj pro snížení politické nejistoty.",
-      "**Ondřej Málek (PF UK)** — Analyzoval návrhy z pohledu ústavního práva a upozornil na rizika diskriminace při rozlišování mezi zaměstnanci a OSVČ."
+      "- **Lucie Sedmihradská (Starostové)** — navrhla změnu slevy na dani na poplatníka pro nízkopříjmové zaměstnance, inspirovanou daňovým zvýhodněním na dítě. Navrhla možnost čerpat slevu i do záporu jako bonus, navázaný na zaplacené sociální a zdravotní pojištění.\n- **Vendula Svobodová (Piráti)** — představila pirátský návrh na rodinný balíček, zahrnující zvýšení slevy na poplatníka na 34 624 Kč, zvýšení daňového zvýhodnění na první vyživované dítě na 22 320 Kč, a zvýšení rodičovského příspěvku na 420 000 Kč.\n- **Petr Vilím (PAQ Research)** — analyzoval současné zdanění práce v Česku a jeho dopady na nízkopříjmové zaměstnance, včetně srovnání s okolními zeměmi.\n- **Michal Šoltés (CERGE-AI a Právnická fakulta UK)** — komentoval návrhy, diskutoval o automatické valorizaci a výhodách a nevýhodách různých přístupů.\n- **Ondřej Málek (Právnická fakulta UK)** — analyzoval návrhy z právního hlediska, včetně otázek ústavní konformity a konformity s evropským právem.\n- **Andrej Málek (KDU-ČSL)** — předložil technický návrh zákona o zdanění příjmů, počítající s daňovým bonusem pro nízkopříjmové skupiny."
     ],
-    "outcome": "Formální hlasování neproběhlo, neboť šlo o odborný kulatý stůl. Dominujícím postojem byla shoda na tom, že současný systém zdanění nízkopříjmových zaměstnanců je neefektivní a nespravedlivý. Účastníci se shodli na potřebě další odborné diskuse, zejména o rozdílech ve zdanění mezi zaměstnanci a OSVČ.",
-    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+    "outcome": "Jednání se zaměřilo na diskusi o různých návrzích na změnu zdanění příjmů nízkopříjmových poplatníků. Nebyl předložen žádný konkrétní závěr nebo rozhodnutí, ale spíše pokračování diskuse a analýz jednotlivých návrhů.",
+    "notes": "- Přepis obsahuje několik neidentifikovaných řečníků, kteří neučinili žádné konkrétní komentáře nebo návrhy.\n- Diskuse se týkala širokého spektra témat, včetně technických návrhů zákonů, analýz dopadů na státní rozpočet, a otázek ústavní a evropské konformity."
   },
   "entities": {
     "speakers": [
       {
-        "name": "Jan Papajanovský",
-        "person_id": "psp:person:7030",
-        "affiliation": "STAN"
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "Starostové"
       },
       {
         "name": "Vendula Svobodová",
@@ -50,80 +46,72 @@
       {
         "name": "Michal Šoltés",
         "person_id": "psp:person:3892",
-        "affiliation": "CERGE-AI / PF UK"
+        "affiliation": "CERGE-AI a Právnická fakulta UK"
       },
       {
         "name": "Ondřej Málek",
         "person_id": null,
-        "affiliation": "PF UK"
+        "affiliation": "Právnická fakulta UK"
       },
       {
-        "name": "Lucie Sedmihradská",
-        "person_id": "psp:person:7042",
-        "affiliation": "STAN"
+        "name": "Andrej Málek",
+        "person_id": null,
+        "affiliation": "KDU-ČSL"
       }
     ],
     "parties": [
-      "STAN",
-      "Piráti"
+      "Starostové",
+      "Piráti",
+      "KDU-ČSL"
     ],
     "institutions": [
-      "Poslanecká sněmovna",
       "PAQ Research",
       "CERGE-AI",
-      "Univerzita Karlova"
+      "Právnická fakulta UK"
     ]
   },
   "highlights": [
     {
-      "text": "Zdanění zaměstnanců s nižšími a vyššími příjmy je v Česku do velké míry rovné, míra progrese je nižší než v zahraničí.",
-      "type": "paraphrase",
+      "text": "Navrhujeme změnu slevy na dani na poplatníka pro nízkopříjmové zaměstnance, inspirovanou daňovým zvýhodněním na dítě.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "Starostové",
+      "timestamp": null,
+      "screenshot_path": null,
+      "context": "Navrhovaná změna slevy na dani na poplatníka pro nízkopříjmové zaměstnance není specifikována. Podobné návrhy se často týkají daňových úlev a dopadů na státní rozpočet."
+    },
+    {
+      "text": "Pirátský návrh zahrnuje zvýšení slevy na poplatníka na 34 624 Kč a zvýšení daňového zvýhodnění na první vyživované dítě na 22 320 Kč.",
+      "type": "citation",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": null,
+      "screenshot_path": null,
+      "context": "Pirátský návrh zahrnuje konkrétní číselné údaje: zvýšení slevy na poplatníka na 34 624 Kč a zvýšení daňového zvýhodnění na první vyživované dítě na 22 320 Kč. Tyto částky lze ověřit v daňových návrzích a materiálech Pirátů."
+    },
+    {
+      "text": "Analyzovali jsme současné zdanění práce v Česku a jeho dopady na nízkopříjmové zaměstnance, včetně srovnání s okolními zeměmi.",
+      "type": "citation",
       "speaker": "Petr Vilím",
       "affiliation": "PAQ Research",
-      "timestamp": "2/08:30",
-      "screenshot_path": "summaries/screenshots/event_2798_highlight_00.jpg",
-      "context": "Český daňový systém je skutečně charakteristický nízkou mírou progrese u zdanění práce, zejména po zrušení superhrubé mzdy v roce 2021. Podle dat OECD patří Česko mezi země s nižší mírou daňové progrese ve srovnání s průměrem vyspělých ekonomik."
-    },
-    {
-      "text": "Automatická valorizace snižuje míru nejistoty pro investice a rozhodování, což je něco, co v ekonomice systematicky chceme.",
-      "type": "citation",
-      "speaker": "Michal Šoltés",
-      "affiliation": "CERGE-AI / PF UK",
-      "timestamp": "4/06:08",
-      "screenshot_path": "summaries/screenshots/event_2798_highlight_01.jpg",
-      "context": "Ekonomická teorie obecně potvrzuje, že předvídatelnost fiskálních parametrů (např. valorizační mechanismy u důchodů či platů) snižuje transakční náklady a nejistotu subjektů. Empirické dopady na investiční rozhodování se však liší podle konkrétního typu valorizované položky a stavu veřejných financí."
-    },
-    {
-      "text": "Vláda k našemu návrhu dala negativní stanovisko, takže bude v prvním čtení zaparkován až do konce funkčního období.",
-      "type": "citation",
-      "speaker": "Jan Papajanovský",
-      "affiliation": "STAN",
-      "timestamp": "9/01:02",
-      "screenshot_path": "summaries/screenshots/event_2798_highlight_02.jpg",
-      "context": "Pokud vláda zaujme k návrhu zákona negativní stanovisko, neznamená to automaticky konec legislativního procesu, ale výrazně se snižuje pravděpodobnost jeho projednání. „Zaparkování“ v prvním čtení je běžnou parlamentní praxí, kdy vládní většina blokuje projednávání opozičních návrhů tím, že je nezařadí na pořad schůze."
+      "timestamp": null,
+      "screenshot_path": null,
+      "context": "Analýza současného zdanění práce v Česku a jeho dopadů na nízkopříjmové zaměstnance může být založena na datech z ČSÚ, MF ČR nebo jiných relevantních institucí. Nelze ověřit bez konkrétních zdrojů."
     }
   ],
   "controversial": [
     {
-      "statement": "**Zdanění tichého vína**\n- **Kdo:** Vendula Svobodová (Piráti)\n- **Co:** Návrh na zavedení spotřební daně na tiché víno.\n- **Proč:** Politicky citlivé téma s dlouhodobým odporem vinařské lobby.\n- **Čas:** 2/04:01",
-      "speaker": "Vendula Svobodová",
-      "affiliation": "Piráti",
-      "timestamp": "2/05:49",
-      "screenshot_path": "summaries/screenshots/event_2798_controversy_00.jpg",
-      "context": "Tiché víno je v ČR v současnosti osvobozeno od spotřební daně (nulová sazba dle zákona č. 353/2003 Sb., o spotřebních daních). Návrhy na zavedení této daně jsou dlouhodobě předmětem politických debat, přičemž hlavními argumenty proti jsou podpora vinařského sektoru a administrativní náročnost."
-    },
-    {
-      "statement": "**Narovnání zdanění OSVČ a zaměstnanců**\n- **Kdo:** Petr Vilím (PAQ Research)\n- **Co:** Návrh na omezení paušálních výdajů a narovnání zdanění OSVČ.\n- **Proč:** Vysoce citlivé téma narážející na odpor podnikatelů a ústavní limity.\n- **Čas:** 4/04:00",
-      "speaker": "Petr Vilím",
-      "affiliation": "PAQ Research",
-      "timestamp": "4/04:00",
-      "screenshot_path": "summaries/screenshots/event_2798_controversy_01.jpg",
-      "context": "Rozdíly v efektivním zdanění zaměstnanců a OSVČ jsou dány především výdajovými paušály a odlišným odvodovým zatížením (sociální a zdravotní pojištění). Úprava těchto parametrů je politicky citlivá a naráží na odpor podnikatelských svazů, přičemž jakékoli změny musí respektovat ústavní principy rovnosti a zákazu diskriminace."
+      "statement": "- **Kdo:** Lucie Sedmihradská (Starostové)\n- **Co:** Návrh na změnu slevy na dani na poplatníka pro nízkopříjmové zaměstnance, možnost čerpat slevu i do záporu jako bonus.\n- **Proč je to kontroverzní:** Tento návrh může být považován za kontroverzní, protože mění stávající systém zdanění a mohl by mít významné dopady na státní rozpočet a nízkopříjmové skupiny.\n- **Čas:** 1/čas neznačeno",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "Starostové",
+      "timestamp": null,
+      "screenshot_path": null,
+      "context": "Návrh na změnu slevy na dani na poplatníka pro nízkopříjmové zaměstnance a možnost čerpat slevu i do záporu jako bonus je diskutabilní. Takové změny mají dopady na státní rozpočet a nízkopříjmové skupiny. Více informací by poskytly konkrétní analýzy a návrhy."
     }
   ],
   "quality": {
-    "transcript_quality": "partial",
-    "unintelligible_parts": true
+    "transcript_quality": "good",
+    "unintelligible_parts": false
   },
   "extras": null
 }

@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:29:12",
-  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-05-29T13:09:52",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
   "event": {
     "id": "2786",
     "name": "Tisková konference poslaneckého klubu TOP 09",
     "classification": "Tiskové konference",
-    "start_date": "2026-03-26T10:00",
-    "end_date": "2026-03-26T10:29",
+    "start_date": "2026-03-26",
+    "end_date": "2026-03-26",
     "sources": [
       "final/event_2786_2026-03-26_tiskova-konference-poslaneckeho-klubu-top-09.md"
     ]
@@ -19,16 +19,16 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána u příležitosti 100 dnů vlády Andreje Babiše. Cílem představitelů TOP 09 bylo bilancovat dosavadní vládní působení, které označili za „100 dní chaosu a mezinárodní ostudy“.\n\nHlavním motivem vystoupení byla kritika směřování České republiky směrem na východ, rozvratu státní správy, střetu zájmů premiéra a členů vlády, ohrožení nezávislosti veřejnoprávních médií a nezodpovědné rozpočtové politiky. Strana zároveň představila své alternativní návrhy a oznámila záměr iniciovat mimořádnou schůzi Poslanecké sněmovny k aktuálním kauzám.",
+    "topic": "Tisková konference TOP 09 u příležitosti 100 dní vlády Andreje Babiše.",
     "main_points": [
-      "**Matěj Ondřej Havel (předseda TOP 09)** — Kritika 100 dnů vlády jako „řízeného úpadku státu“. Varování před odklonem od západních hodnot a koketováním s hnutím MAGA a Viktorem Orbánem. Návrh na ústavní ukotvení členství v NATO a EU. Oznámení záměru svolat mimořádnou schůzi Sněmovny kvůli kauzám poradců (zejména poradkyně ministra Juchelky). Kritika deficitu státního rozpočtu 310 miliard korun.",
-      "**Břetislav Rychlík (senátor)** — Ostrá kritika útoků na veřejnoprávní média a plánovaného omezování zahraničního vysílání Českého rozhlasu. Varování před „mocenskými zásahy“ do demokratických struktur po vzoru Slovenska a Maďarska. Zdůraznění role médií jako kontrolního mechanismu moci.",
-      "**Kateřina Pastorková (místopředsedkyně TOP 09)** — Důraz na bezpečnost jako prioritu mladé generace. Obhajoba cíle 5 % HDP na obranu. Představení iniciativy „62 000 odhodlaných“ pro zapojení nových lidí do politiky.",
-      "**Ondřej Müller (místopředseda TOP 09)** — Kritika vnímání státu jako „kořisti“ (vysávání rozpočtu dotacemi pro Agrofert). Varování před zadlužováním budoucích generací (dluhopisy do roku 2040). Kritika rušení nominačního zákona a návratu k praktikám „kádrových posudků“.",
-      "**Lukáš Otys (místopředseda TOP 09)** — Kritika podnikatelského prostředí: byrokracie, návrat EET a nejistota. Varování před zákonem o odčerpání nevysvětleného majetku, který podle něj narušuje vlastnické právo. Apel na vytvoření koncepčního plánu pro zahraniční pracovní sílu."
+      "- Matěj Ondřej Havel: Kritika vlády za chaos, mezinárodní ostudu a nebezpečný posun směrem na východ.",
+      "- Břetislav Rychlík: Varování před změnou financování veřejnoprávních médií.",
+      "- Kateřina Pastorková: Důležitost bezpečnosti a iniciativa 62 000 odhodlaných.",
+      "- Ondřej Müller: Kritika vlády za nedostatečnou odpovědnost a ekonomické řízení.",
+      "- Lukáš Otyse: Potřeba stabilního a předvídatelného prostředí pro podnikání."
     ],
-    "outcome": "TOP 09 vyjádřila vládě nedůvěru a deklarovala, že bude nadále plnit roli opozice nabízející alternativní řešení. Klíčovým praktickým výstupem je zahájení procesu svolání mimořádné schůze Poslanecké sněmovny, pro kterou bude strana hledat podporu u ostatních opozičních subjektů.",
-    "notes": null
+    "outcome": "TOP 09 kritizuje vládu a oznamuje záměr svolat mimořádnou schůzi Poslanecké sněmovny.",
+    "notes": "Přepis může obsahovat chyby a nejasnosti."
   },
   "entities": {
     "speakers": [
@@ -53,71 +53,56 @@
         "affiliation": "TOP 09"
       },
       {
-        "name": "Lukáš Otys",
+        "name": "Lukáš Otyse",
         "person_id": null,
         "affiliation": "TOP 09"
       }
     ],
     "parties": [
-      "TOP 09",
-      "ANO",
-      "SPD",
-      "Motoristé"
+      "TOP 09"
     ],
     "institutions": [
       "Poslanecká sněmovna",
-      "Senát",
-      "Agrofert",
-      "Český rozhlas",
-      "NATO",
-      "Evropská unie"
+      "Senát"
     ]
   },
   "highlights": [
     {
-      "text": "100 dní, 100 průšvihů, 0 dní naší důvěry.",
+      "text": "100 dní vlády Andreje Babiše z našeho pohledu je 100 dní chaosu, mezinárodní ostudy – bohužel mezinárodní ostudy –, zrazování spojenců a nebezpečného posunu České republiky směrem na východ.",
       "type": "citation",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
-      "timestamp": "1/00:54",
-      "screenshot_path": "summaries/screenshots/event_2786_highlight_00.jpg",
-      "context": "Jde o politickou rétorickou figuru, která hodnotí subjektivní důvěru v kabinet. Objektivní faktografické ověření 'průšvihů' není možné, neboť jde o politické hodnocení vládních kroků."
+      "timestamp": "1/00:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_highlight_00.jpg",
+      "context": "Tvrzení o 100 dnech chaosu a mezinárodní ostudy je subjektivní hodnocení. Nelze nezávisle ověřit."
     },
     {
-      "text": "Deficit ve výši 310 miliard korun pokládáme za naprosté harakiri, které má potenciál bankrotu státu.",
+      "text": "Likvidace médií veřejné služby neprospěje ani soukromým vysílatelům.",
       "type": "citation",
-      "speaker": "Matěj Ondřej Havel",
+      "speaker": "Břetislav Rychlík",
       "affiliation": "TOP 09",
-      "timestamp": "1/05:32",
-      "screenshot_path": "summaries/screenshots/event_2786_highlight_01.jpg",
-      "context": "Deficit státního rozpočtu je reálný údaj, jehož výše je schvalována zákonem o státním rozpočtu. Označení za 'harakiri' či 'bankrot' je politická interpretace; dle metodiky MF ČR a mezinárodních ratingových agentur se ČR dlouhodobě nenachází v platební neschopnosti."
+      "timestamp": "1/14:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_highlight_01.jpg",
+      "context": "Tvrzení o likvidaci médií veřejné služby a jejím dopadu na soukromé vysílatele je subjektivní názor. Dopad na soukromé vysílatele nelze předem určit a je otázkou budoucího vývoje."
     },
     {
-      "text": "Vláda se ke státu skutečně chová jako ke kořisti, kterou je potřeba vysát, rozdělit a vytěžit.",
+      "text": "Pro naši generaci je bezpečnost na prvním místě.",
       "type": "citation",
-      "speaker": "Ondřej Müller",
+      "speaker": "Kateřina Pastorková",
       "affiliation": "TOP 09",
-      "timestamp": "1/18:02",
-      "screenshot_path": "summaries/screenshots/event_2786_highlight_02.jpg",
-      "context": "Toto tvrzení je subjektivním politickým hodnocením vládní politiky. Nelze jej faktograficky ověřit jako pravdivé či nepravdivé, neboť jde o metaforické vyjádření kritiky rozpočtové odpovědnosti."
+      "timestamp": "1/16:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_highlight_02.jpg",
+      "context": "Nelze ověřit, jaké priority má pro TOP 09 generace, které jsou zmiňovány."
     }
   ],
   "controversial": [
     {
-      "statement": "**Kdo:** Matěj Ondřej Havel (TOP 09)\n*   **Co:** Označil deficit státního rozpočtu ve výši 310 miliard korun za „naprosté harakiri“.\n*   **Proč:** Jde o silné vyjádření zpochybňující finanční stabilitu státu a schopnost vlády hospodařit, což je politicky citlivé téma v kontextu státního dluhu.\n*   **Čas:** 1/04:03",
+      "statement": "100 dní, 100 průšvihů, 0 dní naší důvěry",
       "speaker": "Matěj Ondřej Havel",
       "affiliation": "TOP 09",
-      "timestamp": "1/04:03",
-      "screenshot_path": "summaries/screenshots/event_2786_controversy_00.jpg",
-      "context": "Deficit 310 miliard korun odpovídá schválenému rozpočtu pro daný rok. Termín 'bankrot státu' je ekonomicky zavádějící, neboť ČR má stále přístup na finanční trhy a její zadlužení k HDP se pohybuje pod průměrem zemí EU."
-    },
-    {
-      "statement": "**Kdo:** Břetislav Rychlík (senátor, TOP 09)\n*   **Co:** Přirovnal současné mocenské zásahy vlády k situaci v Maďarsku a na Slovensku a zmínil „likvidaci médií veřejné služby“.\n*   **Proč:** Přirovnání k neliberálním režimům je v českém politickém diskurzu vysoce kontroverzní a vyvolává silné reakce vládní koalice.\n*   **Čas:** 1/12:00",
-      "speaker": "Břetislav Rychlík",
-      "affiliation": "TOP 09",
-      "timestamp": "1/12:00",
-      "screenshot_path": "summaries/screenshots/event_2786_controversy_01.jpg",
-      "context": "Srovnání s Maďarskem a Slovenskem v oblasti médií je politický názor. Stav svobody médií v ČR je pravidelně monitorován organizací Reportéři bez hranic (Index svobody tisku), přičemž v současnosti nejsou evidovány zákonné kroky směřující k likvidaci médií veřejné služby."
+      "timestamp": "1/00:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2786_controversy_00.jpg",
+      "context": "Tvrzení o 100 průšvihech za 100 dní je subjektivní a nelze jej nezávisle ověřit."
     }
   ],
   "quality": {

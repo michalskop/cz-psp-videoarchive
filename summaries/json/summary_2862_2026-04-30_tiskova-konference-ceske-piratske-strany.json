@@ -1,0 +1,102 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:10:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2862",
+    "name": "Tisková konference České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-30T09:10",
+    "end_date": "2026-04-30T09:22",
+    "sources": [
+      "final/event_2862_2026-04-30_tiskova-konference-ceske-piratske-strany.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána zástupci České pirátské strany (Zdeněk Hřib, Veronika Kovářová, Olga Richterová) za účelem kritiky vládní novely stavebního zákona a zákona o podpoře bydlení. Piráti označili vládní návrhy za nekvalitní „paskvily“, které neřeší bytovou krizi, ale naopak ohrožují kvalitu života občanů a stabilitu úřadů.\n\nCílem konference bylo prezentovat pirátské pozměňovací návrhy, upozornit na údajné střety zájmů ministryně pro místní rozvoj Zuzany Mrázové a vyzvat k její rezignaci či odvolání premiérem Andrejem Babišem.",
+    "main_points": [
+      "**Zdeněk Hřib (předseda Pirátů)** — Kritizoval novelu stavebního zákona jako „nezodpovědný experiment“. Uvedl, že až 70 % úředníků hrozí odchodem. Obvinil ministryni Mrázovou ze zneužívání systému startovacích bytů a z vlastnictví černé stavby. Vyzval k její rezignaci.",
+      "**Veronika Kovářová (poslankyně)** — Varovala, že novela stavebního zákona opomíjí veřejný zájem a staví soukromé podnikání na roveň ochraně zdraví. Představila pozměňovací návrhy pro rychlejší a předvídatelnější výstavbu.",
+      "**Olga Richterová (předsedkyně klubu)** — Kritizovala vládní zásahy do zákona o podpoře bydlení. Navrhla zvýšení limitů pro vstup do systému podpory, aktualizaci výpočtu nákladů na bydlení a posílení pravomocí obcí.",
+      "**Témata mimo řečníky** — Kritika vládního návrhu na úpravu rozpočtových pravidel (tzv. „dluhová brzda“), který označili za „bianco šek“ k zadlužování státu."
+    ],
+    "outcome": "Piráti deklarovali, že budou v rámci nadcházející schůze Poslanecké sněmovny aktivně prosazovat své pozměňovací návrhy ke stavebnímu zákonu a zákonu o podpoře bydlení. Zároveň hodlají pokračovat v politickém tlaku na ministryni Mrázovou v souvislosti s jejími kauzami a v opozici vůči vládním rozpočtovým změnám.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se fráze. Části textu jsou nesrozumitelné, což ztěžuje interpretaci některých konkrétních obvinění."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo pro místní rozvoj"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Až 70 % úředníků hrozí, že skončí v souvislosti s novelou, což povede na místo zrychlení zcela zjevně ke zpomalení stavebního řízení.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_highlight_00.jpg",
+      "context": "Tvrzení o 70 % úředníků je spekulativní odhad. Podle dat MMR a Svazu měst a obcí ČR sice existují obavy z odchodu části úředníků kvůli přechodu na státní stavební správu, ale konkrétní procentuální dopad na rychlost řízení nelze v tuto chvíli exaktně doložit."
+    },
+    {
+      "text": "Novela zákona dává na stejnou úroveň ochranu zdraví obyvatel jako soukromé podnikání, nikdo nebude muset řešit hluk a kvalitu života.",
+      "type": "citation",
+      "speaker": "Veronika Kovářová",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_highlight_01.jpg",
+      "context": "Jde o interpretaci legislativního záměru. Novela stavebního zákona skutečně mění procesní postavení dotčených orgánů, nicméně ochrana veřejného zdraví zůstává ukotvena v zákoně č. 258/2000 Sb., o ochraně veřejného zdraví, který nadále platí."
+    },
+    {
+      "text": "Vláda se svými změnami chce vykašlat na milion a půl lidí, kterým hrozí ztráta bydlení.",
+      "type": "paraphrase",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:22",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_highlight_02.jpg",
+      "context": "Číslo 1,5 milionu lidí vychází z odhadů organizací zabývajících se bytovou nouzí (např. Platforma pro sociální bydlení), které zahrnují osoby v bytové nouzi či ohrožené ztrátou bydlení. Jde o politickou interpretaci vládní politiky v oblasti sociálního bydlení."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Výzva k rezignaci ministryně Zuzany Mrázové a obvinění ze zneužívání startovacích bytů a černé stavby.",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2862_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Obvinění ze zneužívání bytů a černé stavby jsou politická tvrzení, která vyžadují důkazy v rámci správního nebo trestního řízení; v současnosti neexistuje pravomocné rozhodnutí soudu či kontrolního orgánu, které by tato obvinění potvrzovalo."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

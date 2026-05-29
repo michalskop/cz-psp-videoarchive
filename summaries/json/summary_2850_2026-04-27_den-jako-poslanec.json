@@ -1,0 +1,137 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:04:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2850",
+    "name": "Den jako poslanec",
+    "classification": "Ostatní",
+    "start_date": "2026-04-27T09:05",
+    "end_date": "2026-04-27T14:54",
+    "sources": [
+      "final/event_2850_2026-04-27_den-jako-poslanec.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 36,
+    "parts_total": 36,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 18. schůze Žákovské a studentské poslanecké sněmovny se konalo 27. dubna 2026 v prostorách Poslanecké sněmovny Parlamentu ČR. Hlavním tématem byla „Příprava na krizové situace“, konkrétně projednávání fiktivního návrhu zákona o obnově povinné vojenské služby a branné přípravě žáků středních škol.\n\nCílem akce bylo umožnit studentům vyzkoušet si legislativní proces, prezentační dovednosti a kritickou diskuzi o společensky citlivých tématech v autentickém prostředí. Studenti vystupovali v rolích poslanců, zatímco přítomní skuteční politici plnili roli mentorů a ministrů.",
+    "main_points": [
+      "**Ondřej Matěj Havel (ministr)** — Zdůraznil význam bezpečnosti jako základní funkce státu a nutnost připravenosti na krizové situace.",
+      "**Pan Pekař (Univerzita obrany)** — Vojenský psycholog, který zdůraznil, že armáda je „přívěskem politiky“ a její hlavní funkcí je prevence. Argumentoval, že dobrovolná služba je kvalitnější než povinná.",
+      "**Marek Výborný (ministr)** — Přiblížil historické souvislosti sálu a pravidla parlamentního jednání.",
+      "**Robert Králíček (ministr)** — Upozornil na poddimenzovanost bezpečnostních složek a varoval před odčerpáním personálu z policie a hasičů.",
+      "**Jan Berky (ministr)** — Vysvětlil legislativní proces a upozornil na nutnost souladu nového zákona se školským zákonem.",
+      "**Miroslav Krejčí (ministr)** — Diskutoval o možnostech zapojení armády do výuky na školách.",
+      "**Olga Richterová (poslankyně)** — Sdílela zkušenosti s aktivním občanstvím a vysvětlila fungování poslaneckých klubů.",
+      "**Studentské kluby** — Předložily řadu pozměňovacích návrhů, včetně zkrácení výcviku, zavedení dobrovolnosti a kritiky vázání maturitní zkoušky na vojenský kurz."
+    ],
+    "outcome": "Po rozsáhlé rozpravě a hlasování o pozměňovacích návrzích (včetně schválení návrhu na dobrovolnost služby a úpravy financování) byl zákon jako celek v závěrečném hlasování **neschválen**. Předsedající konstatoval, že se tak stalo teprve podruhé v historii těchto studentských konferencí.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Části záznamu (zejména v závěru) trpěly sníženou srozumitelností kvůli překrývání hlasů."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ondřej Matěj Havel",
+        "person_id": null,
+        "affiliation": "ministr"
+      },
+      {
+        "name": "Pan Pekař",
+        "person_id": null,
+        "affiliation": "Univerzita obrany"
+      },
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "ministr"
+      },
+      {
+        "name": "Robert Králíček",
+        "person_id": "psp:person:6509",
+        "affiliation": "ministr"
+      },
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": "ministr"
+      },
+      {
+        "name": "Miroslav Krejčí",
+        "person_id": "psp:person:7016",
+        "affiliation": "ministr"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "poslankyně"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "Piráti",
+      "ANO",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna Parlamentu ČR",
+      "Univerzita obrany"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Země, která není ochotna se bránit, si nezaslouží svobodu.",
+      "type": "citation",
+      "speaker": "Marek Benda",
+      "affiliation": "předseda vlády",
+      "timestamp": "7/06:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2850_highlight_00.jpg",
+      "context": "Jde o subjektivní politický názor a hodnotový soud, který nelze fakticky ověřit. Výrok reflektuje klasickou politologickou tezi o nutnosti vlastní obranyschopnosti státu."
+    },
+    {
+      "text": "Bezpečnost nelze outsourcovat. Stejně jako žádnou jinou zodpovědnost.",
+      "type": "citation",
+      "speaker": "Pan Pekař",
+      "affiliation": "Univerzita obrany",
+      "timestamp": "3/05:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2850_highlight_01.jpg",
+      "context": "Jde o politicko-filozofické tvrzení o suverenitě státu. Z hlediska mezinárodního práva a smluv (např. Severoatlantická smlouva) je bezpečnost sdílenou odpovědností, nikoliv čistě outsourcingem."
+    },
+    {
+      "text": "Politika je týmový sport, ale pro vrcholové sportovce.",
+      "type": "citation",
+      "speaker": "Jan Berky",
+      "affiliation": "ministr",
+      "timestamp": "31/08:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2850_highlight_02.jpg",
+      "context": "Metaforické vyjádření hodnotící nároky na výkon politické funkce. Nelze fakticky ověřit, jde o subjektivní názor na povahu politické práce."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Miroslav Krejčí (ministr) navrhl, že pokud by byl kurz dobrovolný, žáci, kteří se nepřihlásí, by museli chodit do školy i přes letní prázdniny. Vyvolalo to negativní reakci studentů jako nátlak.",
+      "speaker": "Miroslav Krejčí",
+      "affiliation": "ministr",
+      "timestamp": "18/06:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2850_controversy_00.jpg",
+      "context": "Tvrzení o návrhu ministra je ověřitelné zápisy z jednání či tiskovými zprávami MŠMT. Hodnocení studentů jako 'nátlak' je subjektivní interpretací, kterou nelze fakticky potvrdit ani vyvrátit."
+    },
+    {
+      "statement": "Miroslav Krejčí (ministr) přiznal, že se za 6 měsíců ve sněmovně nikdy necítil zbytečnější kvůli pomalému legislativnímu procesu.",
+      "speaker": "Miroslav Krejčí",
+      "affiliation": "ministr",
+      "timestamp": "34/04:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2850_controversy_01.jpg",
+      "context": "Jde o subjektivní vyjádření pocitů politika. Rychlost legislativního procesu je objektivně měřitelná (např. průměrná doba projednávání zákona v Poslanecké sněmovně dle dat Parlamentu ČR), ale pocit 'zbytečnosti' je ryze osobní."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

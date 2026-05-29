@@ -1,50 +1,52 @@
-Zde je strukturované shrnutí semináře „Může za sucho CO2? Kolik nás bude stát Green Deal?“, konaného 30. března 2026 v Poslanecké sněmovně.
+## Téma a účel jednání
 
-### 1. Téma a účel jednání
-Seminář se zaměřil na kritickou analýzu vlivu oxidu uhličitého (CO2) na klimatické změny, se zvláštním důrazem na problematiku sucha a ekonomické dopady politiky Green Deal. Cílem akce bylo zpochybnit dominantní narativ o CO2 jako hlavní příčině klimatických změn a nabídnout alternativní pohledy založené na geologických cyklech, vlivu sluneční aktivity a lokálním hospodaření s krajinou.
+Jednání se konalo pod názvem "Může za sucho CO2? Kolik nás bude stát Green Deal?" a jeho cílem bylo diskutovat o možných příčinách sucha a dopadech Green Dealu na ekonomiku a životní prostředí.
 
-Jednání se snažilo propojit vědecké poznatky z oblasti klimatologie a hydrologie s praktickými zkušenostmi zástupců obcí v blízkosti národních parků a kritickým pohledem na energetickou politiku EU. Seminář sloužil jako platforma pro diskuzi o dopadech environmentální legislativy na českou ekonomiku, energetickou bezpečnost a lokální ekosystémy.
+## Hlavní body
 
-### 2. Hlavní body
-*   **Libor Vondráček (poslanec, Svobodní)** — Organizátor semináře; zdůraznil potřebu zdravého rozumu v energetické politice a kritizoval dekarbonizační fondy EU, které podle něj připravují státní rozpočet o prostředky.
-*   **Pavel Kalenda (Clintel)** — Prezentoval geologický pohled na klima; argumentoval, že CO2 není primárním řídícím prvkem teploty, ale že teplota řídí koncentraci CO2. Poukázal na 60leté a tisícileté cykly excentricity Jupitera jako zásadní faktory ovlivňující klima a sluneční aktivitu.
-*   **Jan Pokorný (ENKI)** — Zaměřil se na evapotranspiraci a roli vegetace; tvrdil, že sucho v krajině je způsobeno nevhodným hospodařením (odvodňování, zastavování ploch), nikoliv CO2. Zdůraznil, že stromy fungují jako přirozená klimatizace.
-*   **Petra Hesslerová (ENKI)** — Představila metodu termovizního snímkování krajiny; demonstrovala, jak zastavěné plochy (supermarkety, sklady) generují obrovské množství tepelné energie, což vede k lokálnímu přehřívání a vysychání.
-*   **Tomáš Hudos (spolupracovník T. Fiersta)** — Analyzoval data o osvitu a teplotách; potvrdil nárůst příkonu sluneční energie v posledních dekádách a pokles skleníkového efektu v důsledku úbytku oblačnosti a vodní páry.
-*   **Michal Janda** — Kritizoval matematické modely IPCC jako nespolehlivé a politicky motivované; označil Green Deal za byznys, který likviduje evropský průmysl a odvádí peníze od občanů k vybraným technologickým skupinám.
-*   **Jiřina Králíková (starostka Strážného)** — Popsala negativní zkušenosti obcí v Národním parku Šumava; kritizovala bezzásahový režim, který vede k rozpadu lesů, a byrokratický přístup správy parku, který ignoruje potřeby místních obyvatel.
-*   **Milan Dařina (České Švýcarsko)** — Varoval před bezpečnostními riziky bezzásahového režimu; poukázal na katastrofální požár v Českém Švýcarsku jako přímý důsledek ponechání suché biomasy v krajině.
-*   **Milan Smutný (Realistická energetika a ekologie)** — Kritizoval německý model energetické transformace jako ekonomicky neudržitelný a destruktivní pro průmysl; varoval před vysokými náklady na větrnou energetiku a stabilitu sítě.
-*   **Martin Weiss (náměstek MŽP)** — Připustil složitost byrokratické zátěže Green Dealu; zdůraznil snahu ministerstva o racionálnější přístup, přestože je vázáno evropskou legislativou.
+- **Pavel Kalenda (Klintel)** — Představil združení Klimtel a jeho výzkum týkající se klimatické inteligence. Ukázal graf koncentrace CO2 za posledních 550 milionů let a vysvětlil, že cykly sucha a záplav jsou ovlivňovány Jupiterem.
+- **Jan Pokorný (ENKI)** — Představil vlastní výzkum týkající se vlivu vegetace na mikroklima a předložil termovizní snímky, které ukazují teplotní rozdíly mezi lesy a okolními plochami.
+- **Petra Hesslerová (ENKI)** — Představila termovizní snímky a vysvětlila, že zastavěné plochy a bezvegetační plochy generují teplo.
+- **Tomáš Hudos** — Představil analýzu dat z dlouhodobého měření osvitu a teplot v jižních Čechách.
+- **Jiřina Králiková (starostka městice Strážný)** — Diskutovala o ochraně přírody v Národním parku Šumava a potřebách obyvatel.
+- **Milan Dařina (předseda svazku obcí, místostarosta obce)** — Sdílel zkušenosti obcí s dopady sucha a změn v krajině.
+- **Jan Zeman** — Kritizoval systém emisních povolenek.
+- **Pan náměstek z Ministerstva životního prostředí** — Odpovídal na dotazy týkající se financování projektů a priority ministerstva.
+- **Profesor Turánek** — Diskutoval o vlivu větrných elektráren na životní prostředí.
+- **Milan Smutný** — Varoval před dopadem Green Dealu na ekonomiku a kritizoval zelenou lobby.
+- **Martin Weiss** — Prezentoval dopad Green Dealu na Českou republiku a potřebu systémového řešení pro sucho.
 
-### 3. Výsledek / závěr
-Jednání nevedlo k formálnímu hlasování, ale vyústilo v silný konsenzus mezi řečníky a přítomnými o nutnosti přehodnotit současnou environmentální politiku. Dominující postoj volal po:
-*   Revizi zákona č. 114/1992 Sb. (o ochraně přírody a krajiny) ve prospěch vodohospodářských funkcí krajiny.
-*   Zastavení plošné bezzásahovosti v národních parcích.
-*   Důrazu na energetickou bezpečnost a dostupnost cen energií pro průmysl.
-*   Změně dotační politiky směrem k podpoře lokálních opatření pro zadržování vody v krajině.
+## Výsledek / závěr
 
-### 4. Poznámky
-Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze). Části týkající se technických dat o emisích a energetických výpočtech byly místy nesrozumitelné, ale hlavní argumentační linie řečníků zůstala zachována.
+Jednání bylo zaměřeno na diskusi o suchu, klimatických změnách a dopadech Green Dealu. Přítomní odborníci a zástupci obcí sdíleli své názory a zkušenosti týkající se těchto témat. Byla zdůrazněna potřeba komplexního přístupu k řešení problémů sucha a změny klimatu.
 
----
+## Poznámky
+
+- Části přepisu mohou být neúplné nebo obsahovat chyby.
+- Někteří řečníci nebyli identifikováni.
 
 ## Doplňující otázky
-*   **Kontroverzní návrh:** Milan Smutný navrhl, aby stát vytvořil „státního obchodníka s energií“, který by nakupoval elektřinu z českých zdrojů za výrobní náklady a prodával ji občanům za ceny kolem 2 Kč/kWh.
-    *   **Proč:** Jde o zásadní zásah do tržního prostředí, který by mohl být v rozporu s pravidly EU o veřejné podpoře a vnitřním trhu s energií.
-    *   **Čas:** 20/06:03
 
----
+- **Kdo:** Milan Smutný
+- **Co přesně:** Varoval před dopadem Green Dealu na ekonomiku a kritizoval zelenou lobby.
+- **Proč je to kontroverzní:** Green Deal je politicky citlivé téma, neboť zahrnuje radikální změny v energetice a ekonomice.
+- **Čas:** 3/bez časové značky
 
 ## Klíčové citace pro veřejnost
-*   **Text:** „Za posledních 10 let byla celková těžba v Národním parku Šumava přes 2 miliony kubíků a tržby skoro 3 miliardy korun, přesto se tvrdí, že se tam nezasahuje.“ (Parafráze)
-    *   **Řečník:** Jiřina Králíková (starostka Strážného) | **Čas:** 14/08:01
-*   **Text:** „Německý nejvyšší kontrolní úřad řekl, že jejich energetická transformace je škodná pro životní prostředí.“ (Citace)
-    *   **Řečník:** Milan Smutný (Realistická energetika a ekologie) | **Čas:** 20/04:02
-*   **Text:** „Pokud budeme udržovat krajinu v ohromných lánech, tak nám voda bude odtékat pořád, musíme změnit strukturu pěstovaných plodin.“ (Parafráze)
-    *   **Řečník:** Miroslav Ušatý (starosta Albrechtic nad Vltavou) | **Čas:** 19/04:08
 
----
+1. **Text:** "Koncentrace CO2 byla v historii Země mnohokrát vyšší než dnes."
+   - **Řečník:** Pavel Kalenda (Klintel)
+   - **Čas:** 1/bez časové značky
+
+2. **Text:** "Lesy vypařují vodu a ovlivňují tak mikroklima."
+   - **Řečník:** Jan Pokorný (ENKI)
+   - **Čas:** 1/bez časové značky
+
+3. **Text:** "Green Deal může mít významný dopad na ekonomiku."
+   - **Řečník:** Milan Smutný
+   - **Čas:** 3/bez časové značky
+
+## JSON výstup
 
 ```json
 {
@@ -52,81 +54,87 @@ Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá sl
   "created_at": null,
   "model_hint": null,
   "event": {
-    "id": "21894",
-    "name": "Seminář „Může za sucho CO2? Kolik nás bude stát Green Deal?“",
+    "id": "2789",
+    "name": "Může za sucho CO2?",
     "classification": "Seminář",
-    "start_date": "2026-03-30",
-    "end_date": "2026-03-30",
+    "start_date": "2026-03-30T15:13",
+    "end_date": "2026-03-30T19:23",
     "sources": []
   },
   "transcription": {
-    "parts_transcribed": 26,
-    "parts_total": 26,
+    "parts_transcribed": 3,
+    "parts_total": 3,
     "source": "whisper",
-    "model": "whisper-large-v3"
+    "model": "různé modely"
   },
   "summary": {
-    "topic": "Seminář se zaměřil na kritickou analýzu vlivu oxidu uhličitého (CO2) na klimatické změny, se zvláštním důrazem na problematiku sucha a ekonomické dopady politiky Green Deal. Cílem akce bylo zpochybnit dominantní narativ o CO2 jako hlavní příčině klimatických změn a nabídnout alternativní pohledy založené na geologických cyklech, vlivu sluneční aktivity a lokálním hospodaření s krajinou.\n\nJednání se snažilo propojit vědecké poznatky z oblasti klimatologie a hydrologie s praktickými zkušenostmi zástupců obcí v blízkosti národních parků a kritickým pohledem na energetickou politiku EU. Seminář sloužil jako platforma pro diskuzi o dopadech environmentální legislativy na českou ekonomiku, energetickou bezpečnost a lokální ekosystémy.",
+    "topic": "Jednání se konalo pod názvem \"Může za sucho CO2? Kolik nás bude stát Green Deal?\" a jeho cílem bylo diskutovat o možných příčinách sucha a dopadech Green Dealu na ekonomiku a životní prostředí.",
     "main_points": [
-      "**Libor Vondráček (poslanec, Svobodní)** — Organizátor semináře; zdůraznil potřebu zdravého rozumu v energetické politice a kritizoval dekarbonizační fondy EU, které podle něj připravují státní rozpočet o prostředky.",
-      "**Pavel Kalenda (Clintel)** — Prezentoval geologický pohled na klima; argumentoval, že CO2 není primárním řídícím prvkem teploty, ale že teplota řídí koncentraci CO2. Poukázal na 60leté a tisícileté cykly excentricity Jupitera jako zásadní faktory ovlivňující klima a sluneční aktivitu.",
-      "**Jan Pokorný (ENKI)** — Zaměřil se na evapotranspiraci a roli vegetace; tvrdil, že sucho v krajině je způsobeno nevhodným hospodařením (odvodňování, zastavování ploch), nikoliv CO2. Zdůraznil, že stromy fungují jako přirozená klimatizace.",
-      "**Petra Hesslerová (ENKI)** — Představila metodu termovizního snímkování krajiny; demonstrovala, jak zastavěné plochy (supermarkety, sklady) generují obrovské množství tepelné energie, což vede k lokálnímu přehřívání a vysychání.",
-      "**Tomáš Hudos (spolupracovník T. Fiersta)** — Analyzoval data o osvitu a teplotách; potvrdil nárůst příkonu sluneční energie v posledních dekádách a pokles skleníkového efektu v důsledku úbytku oblačnosti a vodní páry.",
-      "**Michal Janda** — Kritizoval matematické modely IPCC jako nespolehlivé a politicky motivované; označil Green Deal za byznys, který likviduje evropský průmysl a odvádí peníze od občanů k vybraným technologickým skupinám.",
-      "**Jiřina Králíková (starostka Strážného)** — Popsala negativní zkušenosti obcí v Národním parku Šumava; kritizovala bezzásahový režim, který vede k rozpadu lesů, a byrokratický přístup správy parku, který ignoruje potřeby místních obyvatel.",
-      "**Milan Dařina (České Švýcarsko)** — Varoval před bezpečnostními riziky bezzásahového režimu; poukázal na katastrofální požár v Českém Švýcarsku jako přímý důsledek ponechání suché biomasy v krajině.",
-      "**Milan Smutný (Realistická energetika a ekologie)** — Kritizoval německý model energetické transformace jako ekonomicky neudržitelný a destruktivní pro průmysl; varoval před vysokými náklady na větrnou energetiku a stabilitu sítě.",
-      "**Martin Weiss (náměstek MŽP)** — Připustil složitost byrokratické zátěže Green Dealu; zdůraznil snahu ministerstva o racionálnější přístup, přestože je vázáno evropskou legislativou."
+      "- **Pavel Kalenda (Klintel)** — Představil združení Klimtel a jeho výzkum týkající se klimatické inteligence. Ukázal graf koncentrace CO2 za posledních 550 milionů let a vysvětlil, že cykly sucha a záplav jsou ovlivňovány Jupiterem.",
+      "- **Jan Pokorný (ENKI)** — Představil vlastní výzkum týkající se vlivu vegetace na mikroklima a předložil termovizní snímky, které ukazují teplotní rozdíly mezi lesy a okolními plochami.",
+      "- **Petra Hesslerová (ENKI)** — Představila termovizní snímky a vysvětlila, že zastavěné plochy a bezvegetační plochy generují teplo.",
+      "- **Tomáš Hudos** — Představil analýzu dat z dlouhodobého měření osvitu a teplot v jižních Čechách.",
+      "- **Jiřina Králiková (starostka městice Strážný)** — Diskutovala o ochraně přírody v Národním parku Šumava a potřebách obyvatel.",
+      "- **Milan Dařina (předseda svazku obcí, místostarosta obce)** — Sdílel zkušenosti obcí s dopady sucha a změn v krajině.",
+      "- **Jan Zeman** — Kritizoval systém emisních povolenek.",
+      "- **Pan náměstek z Ministerstva životního prostředí** — Odpovídal na dotazy týkající se financování projektů a priority ministerstva.",
+      "- **Profesor Turánek** — Diskutoval o vlivu větrných elektráren na životní prostředí.",
+      "- **Milan Smutný** — Varoval před dopadem Green Dealu na ekonomiku a kritizoval zelenou lobby.",
+      "- **Martin Weiss** — Prezentoval dopad Green Dealu na Českou republiku a potřebu systémového řešení pro sucho."
     ],
-    "outcome": "Jednání nevedlo k formálnímu hlasování, ale vyústilo v silný konsenzus mezi řečníky a přítomnými o nutnosti přehodnotit současnou environmentální politiku. Dominující postoj volal po:\n* Revizi zákona č. 114/1992 Sb. (o ochraně přírody a krajiny) ve prospěch vodohospodářských funkcí krajiny.\n* Zastavení plošné bezzásahovosti v národních parcích.\n* Důrazu na energetickou bezpečnost a dostupnost cen energií pro průmysl.\n* Změně dotační politiky směrem k podpoře lokálních opatření pro zadržování vody v krajině.",
-    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze). Části týkající se technických dat o emisích a energetických výpočtech byly místy nesrozumitelné, ale hlavní argumentační linie řečníků zůstala zachována."
+    "outcome": "Jednání bylo zaměřeno na diskusi o suchu, klimatických změnách a dopadech Green Dealu. Přítomní odborníci a zástupci obcí sdíleli své názory a zkušenosti týkající se těchto témat. Byla zdůrazněna potřeba komplexního přístupu k řešení problémů sucha a změny klimatu.",
+    "notes": "- Části přepisu mohou být neúplné nebo obsahovat chyby.\n- Někteří řečníci nebyli identifikováni."
   },
   "entities": {
     "speakers": [
-      {"name": "Libor Vondráček", "person_id": null, "affiliation": "Poslanec, Svobodní"},
-      {"name": "Pavel Kalenda", "person_id": null, "affiliation": "Clintel"},
+      {"name": "Pavel Kalenda", "person_id": null, "affiliation": "Klintel"},
       {"name": "Jan Pokorný", "person_id": null, "affiliation": "ENKI"},
       {"name": "Petra Hesslerová", "person_id": null, "affiliation": "ENKI"},
-      {"name": "Tomáš Hudos", "person_id": null, "affiliation": "spolupracovník T. Fiersta"},
-      {"name": "Michal Janda", "person_id": null, "affiliation": null},
-      {"name": "Jiřina Králíková", "person_id": null, "affiliation": "Starostka Strážného"},
-      {"name": "Milan Dařina", "person_id": null, "affiliation": "České Švýcarsko"},
-      {"name": "Milan Smutný", "person_id": null, "affiliation": "Realistická energetika a ekologie"},
-      {"name": "Martin Weiss", "person_id": null, "affiliation": "Ministerstvo životního prostředí"}
+      {"name": "Tomáš Hudos", "person_id": null, "affiliation": null},
+      {"name": "Jiřina Králiková", "person_id": null, "affiliation": "starostka městice Strážný"},
+      {"name": "Milan Dařina", "person_id": null, "affiliation": "předseda svazku obcí, místostarosta obce"},
+      {"name": "Jan Zeman", "person_id": null, "affiliation": null},
+      {"name": "Pan náměstek z Ministerstva životního prostředí", "person_id": null, "affiliation": "Ministerstvo životního prostředí"},
+      {"name": "Profesor Turánek", "person_id": null, "affiliation": null},
+      {"name": "Milan Smutný", "person_id": null, "affiliation": null},
+      {"name": "Martin Weiss", "person_id": null, "affiliation": null}
     ],
-    "parties": ["Svobodní"],
-    "institutions": ["Poslanecká sněmovna", "Ministerstvo životního prostředí", "ENKI", "Clintel"]
+    "parties": [],
+    "institutions": ["Klintel", "ENKI", "Ministerstvo životního prostředí"]
   },
   "highlights": [
     {
-      "text": "Za posledních 10 let byla celková těžba v Národním parku Šumava přes 2 miliony kubíků a tržby skoro 3 miliardy korun, přesto se tvrdí, že se tam nezasahuje.",
-      "type": "paraphrase",
-      "speaker": "Jiřina Králíková",
-      "affiliation": "Starostka Strážného",
-      "timestamp": "14/08:01"
+      "text": "Koncentrace CO2 byla v historii Země mnohokrát vyšší než dnes.",
+      "type": "citation",
+      "speaker": "Pavel Kalenda",
+      "affiliation": "Klintel",
+      "timestamp": "1/bez časové značky",
+      "screenshot_path": null
     },
     {
-      "text": "Německý nejvyšší kontrolní úřad řekl, že jejich energetická transformace je škodná pro životní prostředí.",
+      "text": "Lesy vypařují vodu a ovlivňují tak mikroklima.",
+      "type": "citation",
+      "speaker": "Jan Pokorný",
+      "affiliation": "ENKI",
+      "timestamp": "1/bez časové značky",
+      "screenshot_path": null
+    },
+    {
+      "text": "Green Deal může mít významný dopad na ekonomiku.",
       "type": "citation",
       "speaker": "Milan Smutný",
-      "affiliation": "Realistická energetika a ekologie",
-      "timestamp": "20/04:02"
-    },
-    {
-      "text": "Pokud budeme udržovat krajinu v ohromných lánech, tak nám voda bude odtékat pořád, musíme změnit strukturu pěstovaných plodin.",
-      "type": "paraphrase",
-      "speaker": "Miroslav Ušatý",
-      "affiliation": "Starosta Albrechtic nad Vltavou",
-      "timestamp": "19/04:08"
+      "affiliation": null,
+      "timestamp": "3/bez časové značky",
+      "screenshot_path": null
     }
   ],
   "controversial": [
     {
-      "statement": "Milan Smutný navrhl, aby stát vytvořil „státního obchodníka s energií“, který by nakupoval elektřinu z českých zdrojů za výrobní náklady a prodával ji občanům za ceny kolem 2 Kč/kWh.",
+      "statement": "- **Kdo:** Milan Smutný\n- **Co přesně:** Varoval před dopadem Green Dealu na ekonomiku a kritizoval zelenou lobby.\n- **Proč je to kontroverzní:** Green Deal je politicky citlivé téma, neboť zahrnuje radikální změny v energetice a ekonomice.\n- **Čas:** 3/bez časové značky",
       "speaker": "Milan Smutný",
-      "affiliation": "Realistická energetika a ekologie",
-      "timestamp": "20/06:03"
+      "affiliation": null,
+      "timestamp": "3/bez časové značky",
+      "screenshot_path": null
     }
   ],
   "quality": {

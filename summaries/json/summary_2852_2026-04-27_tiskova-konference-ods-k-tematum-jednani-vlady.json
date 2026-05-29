@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:07:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2852",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-27T15:36",
+    "end_date": "2026-04-27T16:10",
+    "sources": [
+      "final/event_2852_2026-04-27_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 4,
+    "parts_total": 4,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS byla svolána za účelem kritiky aktuálních kroků vlády Andreje Babiše, a to zejména v oblastech ekonomiky, energetiky, obranných výdajů a střetu zájmů premiéra. ODS představila svou oponentní činnost, varovala před riziky spojenými s vládní rozpočtovou politikou a prezentovala vlastní návrhy na řešení dopadů geopolitické krize na českou ekonomiku.\n\nCílem vystoupení bylo rovněž vymezit se vůči stylu komunikace premiéra Babiše, který podle řečníků vykazuje autoritářské rysy, a informovat o přípravách na nadcházející senátní volby, kde ODS plánuje koordinovanou spolupráci s dalšími stranami proti politice „babišismu“.",
+    "main_points": [
+      "**Neidentifikovaný řečník (ODS)** — Kritizoval premiéra za zpochybňování veřejnoprávních médií a snahu o monopol na pravdu. Představil sedm bodů pro pomoc ekonomice a varoval před plošnou aplikací jedu Stutox 2.",
+      "**Petr Beník (ODS)** — Zpochybnil posudek společnosti Portos ke střetu zájmů Andreje Babiše. Vyzval SZIF k zastavení vyplácení dotací holdingu Agrofert kvůli právní nejistotě.",
+      "**Jiří Havránek (ODS)** — Kritizoval státní závěrečný účet a varoval před rozpočtovými schodky nad 300–400 miliard korun. Odsoudil odmítání oponentních návrhů ODS.",
+      "**Obranné výdaje** — ODS odmítá kritiku plnění závazků vůči NATO; uvádí, že za minulé vlády dosáhla výdajů 2,01 % HDP a plánovala 2,34 %.",
+      "**Senátní volby** — ODS oznámila přípravu kandidátů na květen a strategii spolupráce s dalšími stranami proti politice Andreje Babiše."
+    ],
+    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale politickým prohlášením. ODS se shodla na pokračování opoziční oponentury vůči vládě, zejména v otázkách rozpočtové odpovědnosti a střetu zájmů. Dominujícím postojem je potřeba koordinace demokratických sil v nadcházejících senátních volbách a důraz na dodržování mezinárodních závazků v obraně.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (zejména v části 2/4 a 3/4), kde dochází k výpadkům slov či opakování nesmyslných shluků hlásek. Kontext byl však z okolního textu rekonstruovatelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Petr Beník",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "KDU-ČSL",
+      "TOP 09",
+      "STAN"
+    ],
+    "institutions": [
+      "NATO",
+      "SZIF",
+      "Evropská komise",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda se rozhodla seškrtat výdaje na obranu, tak bohužel zasáhlo i do hodnocení plnění našeho závazku.",
+      "type": "paraphrase",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "ODS",
+      "timestamp": "4/01:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. ČR se zákonem č. 214/2022 Sb. zavázala k výdajům na obranu ve výši 2 % HDP, což vláda v rozpočtech na roky 2024 a 2025 dodržuje. Výdaje na obranu v absolutních číslech meziročně neklesají."
+    },
+    {
+      "text": "Státní zemědělský a intervenční fond by se měl zdržet vyplácení všech podpor, neboť hrozí velké hospodářské škody.",
+      "type": "citation",
+      "speaker": "Petr Beník",
+      "affiliation": "ODS",
+      "timestamp": "3/01:14",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_highlight_01.jpg",
+      "context": "Jedná se o politický názor či návrh opatření, nikoliv o ověřitelný fakt. Zastavení vyplácení všech podpor SZIF by vyžadovalo legislativní změnu a pravděpodobně by vedlo k právním sporům s příjemci dotací na základě již uzavřených smluv."
+    },
+    {
+      "text": "Do budoucích let si zvykneme na schodky, které budou výrazně nad 300 miliard korun, spíše ke 400 miliardám.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "2/03:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_highlight_02.jpg",
+      "context": "Jde o politický odhad budoucího vývoje státního rozpočtu. Podle aktuálního Konvergenčního programu ČR a střednědobého výhledu MF ČR se vláda snaží deficit snižovat pod 3 % HDP, nicméně reálná čísla závisí na budoucích rozpočtových zákonech a ekonomické situaci."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Srovnání premiéra Babiše s autoritáři: Řečník uvedl, že premiér dává najevo, že jedinou pravdu lidé uslyší z jeho projevů, což připomíná chování autoritářů v režimech vzdálených demokracii.",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "ODS",
+      "timestamp": "1/06:37",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2852_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní politické hodnocení stylu komunikace a politické kultury, které nelze objektivně změřit ani potvrdit jako fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

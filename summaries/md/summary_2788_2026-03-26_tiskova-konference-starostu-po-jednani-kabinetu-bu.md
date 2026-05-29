@@ -1,56 +1,26 @@
-Zde je strukturované shrnutí tiskové konference hnutí STAN po jednání „Kabinetu budoucnosti“.
+## Téma a účel jednání
 
-### 1. Téma a účel jednání
-Tisková konference byla svolána jako výroční zasedání stínové vlády hnutí STAN („Kabinet budoucnosti“) po 100 dnech vlády Andreje Babiše. Cílem bylo zhodnotit dosavadní působení kabinetu, které řečníci označili za „100 dní absolutní nezodpovědnosti“, a představit opoziční kritiku v oblastech justice, veřejnoprávních médií, zahraniční politiky, bezpečnosti a sociálních agend.
+Tisková konference Starostů po jednání stínové vlády kabinetu budoucnosti se zaměřila na aktuální politické dění v České republice, zejména na kroky vlády Andreje Babiše. Cílem konference bylo informovat veřejnost o stanovisku opozice k aktuálním událostem a představit návrhy a argumenty strany Starostové.
 
-Hnutí STAN se vymezilo proti vládnímu přístupu k institucím, který označilo za snahu o „privatizaci státu“, a deklarovalo připravenost k aktivní opoziční práci, včetně iniciace mimořádných schůzí Poslanecké sněmovny.
+## Hlavní body
 
-### 2. Hlavní body
-*   **Vít Rakušan (předseda STAN):**
-    *   Kritizoval útoky vlády na veřejnoprávní média, které označil za diletantské a nebezpečné pro svobodu vyjadřování.
-    *   Varoval před oslabováním zahraničněpolitických vazeb na Západ a příklonem k režimům v Rusku a Číně.
-    *   Upozornil na neplnění závazku 2 % HDP na obranu a označil ČR za „černého pasažéra“ v NATO.
-    *   Komentoval své opakované nezvolení místopředsedou Sněmovny jako „vyznamenání“ a důkaz, že se ho vláda bojí.
-*   **Petr Kulhánek (stínový ministr pro místní rozvoj):**
-    *   Kritizoval destrukci systému na MMR, zejména personální výměny (odchod Tomáše Hudečka, Evy Pavlíkové) a rušení odborných agend.
-    *   Varoval před zastavením digitalizace stavebního řízení a označil vládní novelu stavebního zákona za „legislativní paskvil“.
-    *   Upozornil na zánik Agentury pro sociální začleňování a zastavení programů dostupného nájemního bydlení.
-*   **Lukáš Vlček (stínový ministr průmyslu):**
-    *   Zdůraznil negativní dopad neplnění obranných závazků na český obranný průmysl a jeho mezinárodní reputaci.
-    *   Kritizoval absenci vládního plánu pro řešení energetické a hrozící globální ekonomické krize.
-*   **Jana Krutáková (stínová ministryně životního prostředí):**
-    *   Kritizovala změny v programu „Nová zelená úsporám“, zejména snížení alokace na 4 miliardy Kč a přechod na komerční úvěry, které jsou pro nízkopříjmové domácnosti nedostupné.
-    *   Navrhla, aby úvěry administrovala Národní rozvojová banka a aby podpora zahrnovala i bytový fond obcí.
-*   **Michaela Šebelová (stínová ministryně zdravotnictví):**
-    *   Varovala před omezováním Národní očkovací strategie a propagace očkování (včetně HPV vakcín), což označila za ohrožení veřejného zdraví.
-    *   Upozornila na rizika spojená s projektem výstavby nové „supernemocnice“ v Praze (Letňany), zejména na možný odliv odborníků z jiných zařízení.
+* **Vít Rakušan (Starostové)**: Kritizoval vládu Andreje Babiše za její kroky, které považuje za ohrožení demokracie, justice a svobodných médií. Zmínil útok na veřejnoprávní média, zpochybňování očkování a oslabování zahraničněpolitických vazeb.
+* **Petr Kulhánek (Starostové)**: Hovořil o situaci na ministerstvu pro místní rozvoj, kde probíhá destrukce celého systému. Zmínil personální výměny, zrušení některých agend a projekty, které jsou zastaveny nebo zrušeny.
+* **Lukáš Vlček (Starostové)**: Seznámil s výsledky svého jednání ve Spojených státech na Parlamentním shromáždění NATO. Zmínil potřebu spolupráce na otázkách obrany a bezpečnosti a kritizoval vládu za to, že neplní své závazky v oblasti obrany.
+* **Janá Krutáková (Starostové)**: Hovořila o programu Nová zelená úsporám a kritizovala vládu za změny v dotačním titulu. Zmínila potřebu podpory nízkopříjmových domácností a obcí.
+* **Michaela Šebelová (Starostové)**: Seznámila s aktuální situací v oblasti zdravotnictví, zejména s otázkou Národní očkovací strategie. Kritizovala vládu za to, že neplní své závazky v oblasti propagace očkování.
 
-### 3. Výsledek / závěr
-Hnutí STAN se shodlo na prioritě svolání mimořádné schůze Sněmovny k tématu veřejnoprávních médií. V otázce kandidatury Víta Rakušana na místopředsedu Sněmovny proběhne v pondělí jednání poslaneckého klubu, kde se rozhodne o dalším postupu. Hnutí odmítlo autokratické rozhodování a zdůraznilo, že o personálních otázkách bude rozhodnuto kolektivně.
+## Výsledek / závěr
 
-### 4. Poznámky
-Přepis obsahuje občasné chyby v diakritice a drobné stylistické nedokonalosti způsobené automatickým přepisem, které však nemají vliv na srozumitelnost obsahu.
+Tisková konference Starostů byla zaměřena na kritiku vlády Andreje Babiše a představení návrhů a argumentů opozice. Řečníci se shodli na tom, že vláda ohrožuje demokracii, justici a svobodná média. Konference byla zakončena otevřením prostoru pro dotazy novinářů.
 
----
+## Poznámky
 
-## Doplňující otázky
-*   **Kontroverzní návrh:** Vít Rakušan (STAN) navrhl, aby se opozice nesnažila jen o „technickou“ spolupráci se Slovenskem, ale aby se orientovala na strategické partnery v EU (Dánsko, Itálie, Německo) namísto „populistů a národovců“.
-    *   **Proč:** Jde o přímý útok na zahraničněpolitickou orientaci současné vlády a její snahu o obnovu mezivládních konzultací se Slovenskem (Robert Fico).
-    *   **Čas:** 1/38:03
-
----
-
-## Klíčové citace pro veřejnost
-*   **Text:** „Výdaje na naši obranu, na bezpečnost. Stokrát mohou čarovat s čísly. Ale ať počítá, jak počítá, tak jí to vyjde, že ani ta 2 % podílu na HDP výdajů na obranu nejsou zajištěna.“ (parafráze)
-    *   **Řečník:** Vít Rakušan (STAN), **Čas:** 1/04:03
-*   **Text:** „To, co se odehraje 1. dubna, je další krok v této devastaci, protože bude sloučena agenda bydlení s Agenturou pro sociální začleňování, čímž vlastně agentura de facto zanikne.“ (citace)
-    *   **Řečník:** Petr Kulhánek (STAN), **Čas:** 1/08:00
-*   **Text:** „Pro letošní rok vláda alokuje částku pouhé čtyři miliardy korun, což je v porovnání s podporou velkých podniků poměrně malá částka.“ (parafráze)
-    *   **Řečník:** Jana Krutáková (STAN), **Čas:** 1/18:05
-
----
+* Část přepisu nebyla poskytnuta.
+* Některé části přepisu byly nesrozumitelné.
 
 ## JSON výstup
+
 ```json
 {
   "schema_version": "2",
@@ -60,8 +30,8 @@ Přepis obsahuje občasné chyby v diakritice a drobné stylistické nedokonalos
     "id": "2788",
     "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
     "classification": "Tiskové konference",
-    "start_date": "2026-03-26T11:07",
-    "end_date": "2026-03-26T11:49",
+    "start_date": "2026-03-26",
+    "end_date": null,
     "sources": []
   },
   "transcription": {
@@ -71,59 +41,45 @@ Přepis obsahuje občasné chyby v diakritice a drobné stylistické nedokonalos
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána jako výroční zasedání stínové vlády hnutí STAN („Kabinet budoucnosti“) po 100 dnech vlády Andreje Babiše. Cílem bylo zhodnotit dosavadní působení kabinetu, které řečníci označili za „100 dní absolutní nezodpovědnosti“, a představit opoziční kritiku v oblastech justice, veřejnoprávních médií, zahraniční politiky, bezpečnosti a sociálních agend.\n\nHnutí STAN se vymezilo proti vládnímu přístupu k institucím, který označilo za snahu o „privatizaci státu“, a deklarovalo připravenost k aktivní opoziční práci, včetně iniciace mimořádných schůzí Poslanecké sněmovny.",
+    "topic": "Tisková konference Starostů po jednání stínové vlády kabinetu budoucnosti se zaměřila na aktuální politické dění v České republice, zejména na kroky vlády Andreje Babiše.",
     "main_points": [
-      "**Vít Rakušan (předseda STAN)** — Kritizoval útoky vlády na veřejnoprávní média, varoval před oslabováním zahraničněpolitických vazeb na Západ a neplněním závazku 2 % HDP na obranu.",
-      "**Petr Kulhánek (stínový ministr pro místní rozvoj)** — Upozornil na destrukci systému na MMR, zastavení digitalizace stavebního řízení a zánik Agentury pro sociální začleňování.",
-      "**Lukáš Vlček (stínový ministr průmyslu)** — Zdůraznil negativní dopad neplnění obranných závazků na český průmysl a kritizoval absenci vládního plánu pro řešení energetické krize.",
-      "**Jana Krutáková (stínová ministryně životního prostředí)** — Kritizovala změny v programu „Nová zelená úsporám“ a navrhla zapojení Národní rozvojové banky.",
-      "**Michaela Šebelová (stínová ministryně zdravotnictví)** — Varovala před omezováním Národní očkovací strategie a riziky spojenými s projektem nové „supernemocnice“ v Praze."
+      "**Vít Rakušan (Starostové)**: Kritizoval vládu Andreje Babiše za její kroky, které považuje za ohrožení demokracie, justice a svobodných médií.",
+      "**Petr Kulhánek (Starostové)**: Hovořil o situaci na ministerstvu pro místní rozvoj, kde probíhá destrukce celého systému.",
+      "**Lukáš Vlček (Starostové)**: Seznámil s výsledky svého jednání ve Spojených státech na Parlamentním shromáždění NATO.",
+      "**Janá Krutáková (Starostové)**: Hovořila o programu Nová zelená úsporám a kritizovala vládu za změny v dotačním titulu.",
+      "**Michaela Šebelová (Starostové)**: Seznámila s aktuální situací v oblasti zdravotnictví, zejména s otázkou Národní očkovací strategie."
     ],
-    "outcome": "Hnutí STAN se shodlo na prioritě svolání mimořádné schůze Sněmovny k tématu veřejnoprávních médií. V otázce kandidatury Víta Rakušana na místopředsedu Sněmovny proběhne v pondělí jednání poslaneckého klubu, kde se rozhodne o dalším postupu.",
-    "notes": null
+    "outcome": "Tisková konference Starostů byla zaměřena na kritiku vlády Andreje Babiše a představení návrhů a argumentů opozice.",
+    "notes": "Část přepisu nebyla poskytnuta. Některé části přepisu byly nesrozumitelné."
   },
   "entities": {
     "speakers": [
-      {"name": "Vít Rakušan", "person_id": null, "affiliation": "STAN"},
-      {"name": "Petr Kulhánek", "person_id": null, "affiliation": "STAN"},
-      {"name": "Lukáš Vlček", "person_id": null, "affiliation": "STAN"},
-      {"name": "Jana Krutáková", "person_id": null, "affiliation": "STAN"},
-      {"name": "Michaela Šebelová", "person_id": null, "affiliation": "STAN"}
+      {"name": "Vít Rakušan", "person_id": null, "affiliation": "Starostové"},
+      {"name": "Petr Kulhánek", "person_id": null, "affiliation": "Starostové"},
+      {"name": "Lukáš Vlček", "person_id": null, "affiliation": "Starostové"},
+      {"name": "Janá Krutáková", "person_id": null, "affiliation": "Starostové"},
+      {"name": "Michaela Šebelová", "person_id": null, "affiliation": "Starostové"}
     ],
-    "parties": ["STAN", "SPD", "ODS", "TOP 09"],
-    "institutions": ["Poslanecká sněmovna", "NATO", "Ministerstvo pro místní rozvoj", "Národní rozvojová banka"]
+    "parties": ["Starostové"],
+    "institutions": ["Poslanecká sněmovna", "Ministerstvo pro místní rozvoj", "Parlamentní shromáždění NATO"]
   },
   "highlights": [
     {
-      "text": "Výdaje na naši obranu, na bezpečnost. Stokrát mohou čarovat s čísly. Ale ať počítá, jak počítá, tak jí to vyjde, že ani ta 2 % podílu na HDP výdajů na obranu nejsou zajištěna.",
-      "type": "paraphrase",
+      "text": "Vít Rakušan: 'Vláda Andreje Babiše ohrožuje demokracii, justici a svobodná média.'",
+      "type": "citation",
       "speaker": "Vít Rakušan",
-      "affiliation": "STAN",
-      "timestamp": "1/04:03"
+      "affiliation": "Starostové",
+      "timestamp": "1/02:00"
     },
     {
-      "text": "To, co se odehraje 1. dubna, je další krok v této devastaci, protože bude sloučena agenda bydlení s Agenturou pro sociální začleňování, čímž vlastně agentura de facto zanikne.",
+      "text": "Petr Kulhánek: 'Destrukce celého systému na ministerstvu pro místní rozvoj.'",
       "type": "citation",
       "speaker": "Petr Kulhánek",
-      "affiliation": "STAN",
-      "timestamp": "1/08:00"
-    },
-    {
-      "text": "Pro letošní rok vláda alokuje částku pouhé čtyři miliardy korun, což je v porovnání s podporou velkých podniků poměrně malá částka.",
-      "type": "paraphrase",
-      "speaker": "Jana Krutáková",
-      "affiliation": "STAN",
-      "timestamp": "1/18:05"
+      "affiliation": "Starostové",
+      "timestamp": "1/10:03"
     }
   ],
-  "controversial": [
-    {
-      "statement": "Vít Rakušan (STAN) navrhl, aby se opozice nesnažila jen o „technickou“ spolupráci se Slovenskem, ale aby se orientovala na strategické partnery v EU (Dánsko, Itálie, Německo) namísto „populistů a národovců“.",
-      "speaker": "Vít Rakušan",
-      "affiliation": "STAN",
-      "timestamp": "1/38:03"
-    }
-  ],
+  "controversial": [],
   "quality": {
     "transcript_quality": "good",
     "unintelligible_parts": false

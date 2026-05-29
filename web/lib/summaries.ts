@@ -16,12 +16,34 @@ function readSummariesDir(): string[] {
   }
 }
 
+function normalizeSummary(raw: unknown): Summary | null {
+  if (!raw || typeof raw !== "object") return null;
+  const d = raw as Record<string, unknown>;
+  if (!d.event || typeof d.event !== "object") return null;
+
+  // main_points: LLM sometimes returns [{speaker: text}, ...] instead of [string]
+  const summary = d.summary as Record<string, unknown> | undefined;
+  if (summary && Array.isArray(summary.main_points)) {
+    summary.main_points = summary.main_points.map((p: unknown) => {
+      if (typeof p === "string") return p;
+      if (p && typeof p === "object") {
+        return Object.entries(p as Record<string, string>)
+          .map(([k, v]) => `**${k}** — ${v}`)
+          .join("\n");
+      }
+      return String(p);
+    });
+  }
+
+  return d as unknown as Summary;
+}
+
 export function getAllSummaries(): Summary[] {
   return readSummariesDir()
     .map((f) => {
       try {
         const raw = fs.readFileSync(path.join(SUMMARIES_DIR, f), "utf-8");
-        return JSON.parse(raw) as Summary;
+        return normalizeSummary(JSON.parse(raw));
       } catch {
         return null;
       }
@@ -41,12 +63,14 @@ export function getSummaryById(id: string): Summary | null {
   if (!match) return null;
   try {
     const raw = fs.readFileSync(path.join(SUMMARIES_DIR, match), "utf-8");
-    return JSON.parse(raw) as Summary;
+    return normalizeSummary(JSON.parse(raw));
   } catch {
     return null;
   }
 }
 
 export function getAllIds(): string[] {
-  return getAllSummaries().map((s) => s.event.id);
+  return getAllSummaries()
+    .filter((s) => s.event.id != null)
+    .map((s) => String(s.event.id));
 }

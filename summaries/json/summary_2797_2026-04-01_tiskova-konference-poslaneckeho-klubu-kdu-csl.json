@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:25:07",
-  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-05-29T13:01:43",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
   "event": {
     "id": "2797",
     "name": "Tisková konference poslaneckého klubu KDU-ČSL",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-01T08:05",
-    "end_date": "2026-04-01T08:26",
+    "start_date": "2026-04-01",
+    "end_date": null,
     "sources": [
       "final/event_2797_2026-04-01_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
     ]
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem kritiky současné vládní politiky (vláda Andreje Babiše) v oblasti zahraničních vztahů, energetické krize a sociální podpory rodin. Představitelé KDU-ČSL vyjádřili znepokojení nad zahraničněpolitickou orientací vlády, zejména ve vztahu k Maďarsku a Slovensku, a představili své návrhy na pomoc domácnostem s rostoucími cenami energií a pohonných hmot.\n\nDalším klíčovým tématem byla situace kolem veřejnoprávních médií a nadcházející volba členů Rady České televize, kde KDU-ČSL kritizuje netransparentnost a personální nominace vládní koalice.",
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se zaměřila na aktuální politické otázky, včetně reakce na chování maďarského ministra zahraničí Pétera Szijjártóa, růst cen energií a pohonných hmot, a otázky financování veřejnoprávních médií.",
     "main_points": [
-      "**Marek Výborný (KDU-ČSL)** — Kritizoval vládu za pasivitu vůči maďarskému ministrovi Szijjártóovi, kterého označil za „kremelskou spojku“. Varoval před vytvářením „Uherské trojky“ a vyzval k regulaci marží pohonných hmot skrze státní podnik Čepro.",
-      "**Marian Jurečka (KDU-ČSL)** — Představil balíček „Rodiče+“ (zvýšení rodičáku a slev na děti), který vláda odmítla. Kritizoval nedostatek flexibility vládních opatření pro rodiny.",
-      "**František Talíř (KDU-ČSL)** — Kritizoval chaos v komunikaci vlády ohledně financování médií a zpochybnil integritu kandidátů do Rady ČT, kteří se podíleli na rozpuštění dozorčí komise."
+      "- Marek Výborný (KDU-ČSL): Kritizoval chování maďarského ministra zahraničí Pétera Szijjártóa, který se chová jako 'kremelská spojka'. Vyzval ministra zahraničí Petra Macinku, aby se jasně vyjádřil k této záležitosti. Zmínil potřebu řešit růst cen energií a pohonných hmot, včetně možnosti regulace marží. Představil návrhy KDU-ČSL na pomoc rodinám, včetně zvýšení rodičáku a slevy na děti.",
+      "- Marian Jurečka (KDU-ČSL): Představil balíček opatření 'Rodiče+' na podporu rodin. Zmínil, že vláda odmítla jejich návrhy, které měly pomoci rodinám s dětmi.",
+      "- František Talíř (KDU-ČSL): Sešel s kritikou chování vlády kolem financování veřejnoprávních médií. Zmínil, že KDU-ČSL připraví alternativní řešení pro financování veřejnoprávních médií."
     ],
-    "outcome": "KDU-ČSL se vymezila jako konstruktivní opozice, která má připravená řešení, jež vláda ignoruje. Strana bude v nadcházejících týdnech v Poslanecké sněmovně úporně prosazovat své návrhy formou pozměňovacích návrhů a bude aktivně vystupovat proti personálním nominacím do Rady ČT.",
-    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné stylistické nedokonalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+    "outcome": "Bylo zdůrazněno, že KDU-ČSL bude i nadále aktivně působit v otázkách podpory rodin, řešení cen energií a pohonných hmot, a hájit zájmy občanů v otázkách financování veřejnoprávních médií.",
+    "notes": "- Konference se konala v době zvýšeného napětí kvůli chování maďarského ministra zahraničí a kvůli růstu cen.- KDU-ČSL se snaží prosazovat své návrhy a hájit zájmy občanů."
   },
   "entities": {
     "speakers": [
@@ -47,60 +47,49 @@
       }
     ],
     "parties": [
-      "KDU-ČSL",
-      "ANO"
+      "KDU-ČSL"
     ],
     "institutions": [
-      "Poslanecká sněmovna",
-      "Česká televize",
-      "Čepro"
+      "Poslanecká sněmovna"
     ]
   },
   "highlights": [
     {
-      "text": "Maďarsko a ministr Szijjártó se chová fakticky jako kremelská spojka a od toho je potřeba se jednoznačně distancovat.",
+      "text": "My jsme jako vláda, ve které seděl i kolega Marian Jurečka i já osobně, jsme vždycky s velkou pečlivostí se snažili využívat tento legitimní nástroj k tomu, abychom dokázali oslabit stranu agresora, Rusko.",
       "type": "citation",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/01:29",
-      "screenshot_path": "summaries/screenshots/event_2797_highlight_00.jpg",
-      "context": "Jde o politické hodnocení zahraniční politiky Maďarska, které dlouhodobě udržuje úzké ekonomické a diplomatické vztahy s Ruskem i po invazi na Ukrajinu. Výrok nelze fakticky ověřit jako objektivní pravdu, neboť jde o interpretaci postojů maďarské vlády v rámci EU a NATO."
+      "timestamp": "1/01:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit."
     },
     {
-      "text": "Státní řetězec Čepro může už dnes de facto z hodiny na hodinu rozhodnutím ministryně financí pracovat s maržemi a tím regulovat cenu pohonných hmot.",
-      "type": "paraphrase",
-      "speaker": "Marek Výborný",
-      "affiliation": "KDU-ČSL",
-      "timestamp": "1/04:30",
-      "screenshot_path": "summaries/screenshots/event_2797_highlight_01.jpg",
-      "context": "Čepro je státní podnik, jehož jediným akcionářem je stát zastoupený Ministerstvem financí ČR. Ačkoliv ministerstvo může ovlivňovat strategii podniku, přímá regulace cen pohonných hmot na čerpacích stanicích EuroOil prostřednictvím marží podléhá zákonu o cenách a pravidlům hospodářské soutěže, což proces fakticky komplikuje."
-    },
-    {
-      "text": "Vláda smete opatření, která neznamenají korunu navíc, ale znamenají větší podporu a flexibilitu v rozhodování rodin.",
+      "text": "My jsme tady navrhovali zvýšení rodičáku od 1. července tohoto roku. Je to stihnutelné, je to realizovatelné a vláda sama v připomínkách k našemu návrhu říká, my to uděláme, uděláme to úplně stejných parametrech, jako navrhují lidovci, akorát o půl roku později.",
       "type": "citation",
       "speaker": "Marian Jurečka",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/07:24",
-      "screenshot_path": "summaries/screenshots/event_2797_highlight_02.jpg",
-      "context": "Tvrzení je politickou rétorikou hodnotící legislativní proces. Nelze nezávisle ověřit, zda konkrétní zamítnutá opatření nemají žádný dopad na státní rozpočet, neboť i administrativní změny či daňové úlevy mají obvykle přímé či nepřímé fiskální důsledky."
+      "timestamp": "1/06:27",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_highlight_01.jpg",
+      "context": "Vláda skutečně navrhla zvýšení rodičovského příspěvku, avšak s účinností od 1. ledna 2025. Lidovci navrhovali účinnost od 1. července 2024."
+    },
+    {
+      "text": "Pokud si nakonec vláda na sílu protlačí změnu financování, tak my přijdeme s alternativou, která bude garantovat jak stabilitu, tak nezávislost těchto institucí.",
+      "type": "citation",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/09:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit."
     }
   ],
   "controversial": [
     {
-      "statement": "**Marek Výborný (KDU-ČSL)** označil maďarského ministra zahraničí Szijjártóa za „kremelskou spojku“. Je to kontroverzní kvůli ostrému diplomatickému výpadu vůči spojenci ve V4.",
+      "statement": "- Marek Výborný (KDU-ČSL): 'Vyzývám vládu České republiky, vyzývám ministra zahraničí Petra Macinku, aby se jasně a srozumitelně dokázali vyjádřit k tomu, co předvádí maďarská vláda, maďarský ministr zahraničí Szijjártó.'",
       "speaker": "Marek Výborný",
       "affiliation": "KDU-ČSL",
-      "timestamp": "1/01:00",
-      "screenshot_path": "summaries/screenshots/event_2797_controversy_00.jpg",
-      "context": "Maďarsko je členem EU a NATO, stejně jako ČR. Označení za „kremelskou spojku“ je subjektivní politickou kritikou maďarského postoje k sankcím vůči Rusku a energetické spolupráci, nikoliv právně definovaným statusem."
-    },
-    {
-      "statement": "**František Talíř (KDU-ČSL)** zpochybnil integritu kandidátů do Rady ČT (Bradáč, Veselý, Matocha, Šlégr) kvůli jejich podílu na rozpuštění dozorčí komise ČT. Je to politicky citlivé kvůli střetu o nezávislost médií.",
-      "speaker": "František Talíř",
-      "affiliation": "KDU-ČSL",
-      "timestamp": "1/10:00",
-      "screenshot_path": "summaries/screenshots/event_2797_controversy_01.jpg",
-      "context": "Rozpuštění dozorčí komise ČT v roce 2020 bylo předmětem rozsáhlé veřejné i politické debaty o nezávislosti veřejnoprávních médií. Role zmíněných kandidátů v tomto procesu je doložitelná z veřejných zápisů z jednání Rady ČT, jejich interpretace jako „zpochybnění integrity“ je však věcí politického názoru."
+      "timestamp": "1/21:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2797_controversy_00.jpg",
+      "context": "Marek Výborný vyzval ministra zahraničí Petra Macinku k vyjádření k aktivitám maďarské vlády a ministra zahraničí Szijjártóa. Konkrétní reakce Petra Macinky není v dostupných zdrojích uvedena."
     }
   ],
   "quality": {

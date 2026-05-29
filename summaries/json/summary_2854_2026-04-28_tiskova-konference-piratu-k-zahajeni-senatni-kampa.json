@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:07:07",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2854",
+    "name": "Tisková konference Pirátů k zahájení senátní kampaně Adély Šípové",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-28T13:30",
+    "end_date": "2026-04-28T13:41",
+    "sources": [
+      "final/event_2854_2026-04-28_tiskova-konference-piratu-k-zahajeni-senatni-kampa.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 2,
+    "parts_total": 2,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem oficiálního zahájení senátní kampaně Adély Šípové, která obhajuje svůj mandát v obvodu Kladno a Praha-západ. Cílem akce bylo představit širokou koaliční podporu kandidátky napříč demokratickým politickým spektrem (Piráti, STAN, TOP 09, Zelení) a zdůraznit její dosavadní práci v Senátu.\n\nHlavními tématy konference byla kontinuita v prosazování právního státu, boj proti dluhovým pastem, dostupnost bydlení a ochrana demokratických hodnot v regionu i na celostátní úrovni.",
+    "main_points": [
+      "**Neidentifikovaný řečník (Piráti)** — Představil Adélu Šípovou jako kandidátku koalice, která rozumí problémům běžných lidí a zároveň hájí právní stát. Zdůraznil její šestiletou zkušenost v Senátu a ukotvenost v regionu.",
+      "**Barbora Urbanová (STAN)** — Poděkovala za dosavadní spolupráci, zejména v oblasti boje proti domácímu a sexualizovanému násilí. Vyjádřila podporu za středočeské starosty.",
+      "**Kateřina Pastorková (TOP 09)** — Vyjádřila plnou podporu kandidátce s důrazem na její kompetentnost a odbornost. Zdůraznila potřebu posílení ženského hlasu v české politice.",
+      "**Gabriela Svárovská (Strana zelených)** — Uvedla, že podpora Šípové je pro Zelené radostí, nikoliv kompromisem. Vyzdvihla její aktivní zapojení do řešení místních problémů v Kladně a práci na klíčových agendách.",
+      "**Neidentifikovaný řečník (Senátor)** — Vyzdvihl osobní spolupráci se Šípovou v Senátu, kde sdílejí identické hodnoty a hlasovací postoje.",
+      "**Adéla Šípová (kandidátka do Senátu)** — Představila tři priority: 1. Spravedlnost (princip jednoho exekutora), 2. Dostupné bydlení, 3. Kvalita života v regionu. Senát označila za pojistku demokracie.",
+      "Zástupci stran potvrdili, že jednání o podpoře kandidátů v dalších 26 senátních obvodech stále probíhají."
+    ],
+    "outcome": "Jednání potvrdilo širokou koaliční shodu na podpoře Adély Šípové pro nadcházející senátní volby. Nebyla přijata žádná formální usnesení, šlo o deklaraci politické vůle a představení priorit kampaně. Konsenzus mezi zúčastněnými stranami je postaven na podpoře stávající senátorky jakožto záruky stability a odbornosti.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a useknutá slova, které však nebrání pochopení obsahu. Části textu jsou lehce repetitivní v důsledku automatického přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Adéla Šípová",
+        "person_id": "psp:person:6679",
+        "affiliation": "Senát ČR"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Kateřina Pastorková",
+        "person_id": null,
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Gabriela Svárovská",
+        "person_id": "psp:person:7049",
+        "affiliation": "Strana zelených"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "STAN",
+      "TOP 09",
+      "Strana zelených"
+    ],
+    "institutions": [
+      "Senát ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V době chaosu je klidná a odpovědná instituce důležitější než kdy dřív.",
+      "type": "paraphrase",
+      "speaker": "Adéla Šípová",
+      "affiliation": "Senát ČR",
+      "timestamp": "1/07:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení role institucí, které nelze fakticky ověřit jako pravdivé či nepravdivé. Hodnocení stavu společnosti jako „chaosu“ je věcí politické interpretace."
+    },
+    {
+      "text": "Budu dál prosazovat princip jednoho exekutora, aby se lidé měli šanci dostat ze dna a dluhových pastí.",
+      "type": "citation",
+      "speaker": "Adéla Šípová",
+      "affiliation": "Senát ČR",
+      "timestamp": "1/08:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_highlight_01.jpg",
+      "context": "Princip „jeden exekutor na jednoho dlužníka“ (teritorialita exekutorů) je dlouhodobým tématem politických debat. V ČR zatím nebyl zákonem zaveden; návrhy na jeho implementaci jsou předmětem legislativního procesu a odborných sporů mezi Exekutorskou komorou ČR a zastánci reformy."
+    },
+    {
+      "text": "My konkrétně za Piráty, pokud vím, budeme mít dohody se všemi parlamentními stranami ze sněmovny, tedy z toho demokratického bloku.",
+      "type": "citation",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "Piráti",
+      "timestamp": "2/00:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_highlight_02.jpg",
+      "context": "Tvrzení o dohodách se všemi stranami „demokratického bloku“ je politickým prohlášením o vyjednávací strategii. Vzhledem k proměnlivosti koaličních a opozičních vztahů nelze nezávisle ověřit existenci všech konkrétních dohod bez přístupu k interním stranickým dokumentům."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zmínka o „ústavní stížnosti na vatikánskou smlouvu“ a „ratifikaci Istanbulské úmluvy“.\n\n* **Kdo:** Gabriela Svárovská (Strana zelených)\n* **Proč:** Tato témata jsou v české společnosti dlouhodobě polarizující a vyvolávají silné reakce konzervativních voličů i části politického spektra.\n* **Čas:** 1/04:02",
+      "speaker": "Gabriela Svárovská",
+      "affiliation": "Strana zelených",
+      "timestamp": "1/04:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2854_controversy_00.jpg",
+      "context": "Istanbulská úmluva byla v lednu 2024 Senátem ČR zamítnuta, proces ratifikace je tedy ukončen. Vatikánská smlouva (Smlouva mezi ČR a Svatým stolcem) nebyla v roce 2003 Poslaneckou sněmovnou schválena a od té doby nebyla znovu ratifikována; ústavní stížnosti v těchto věcech jsou historicky doložitelným faktem v rámci politických debat."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

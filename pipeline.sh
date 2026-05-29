@@ -28,7 +28,7 @@ $PYTHON transcribe.py --order knowledge >> "$LOG" 2>&1 || log "transcribe.py exi
 
 # 3 — Summarize: process transcribed events not yet summarised
 log "--- summarize.py ---"
-$PYTHON summarize.py >> "$LOG" 2>&1 || log "summarize.py exited non-zero (may be ok)"
+$PYTHON summarize.py --model gemini-3.1-flash-lite >> "$LOG" 2>&1 || log "summarize.py exited non-zero (may be ok)"
 
 # 4 — Upload screenshots to B2 and rewrite JSON paths
 log "--- upload_screenshots.py ---"

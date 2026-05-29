@@ -1,0 +1,127 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:07:50",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2836",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-20T15:35",
+    "end_date": "2026-04-20T16:00",
+    "sources": [
+      "final/event_2836_2026-04-20_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem vyjádření postoje ODS k aktuálním krokům vlády Andreje Babiše. Hlavními tématy byla kritika vládní regulace cen pohonných hmot, zahraničněpolitická orientace vlády (zejména ve vztahu k Tchaj-wanu a Číně), legislativní kroky v oblasti veřejnoprávních médií a obranného průmyslu, a rovněž nekoncepční změny ve financování školství.\n\nCílem vystoupení bylo poukázat na údajnou nekompetentnost, dezorientaci a chaotické vládnutí současné koalice, které podle řečníků poškozuje českou ekonomiku, bezpečnostní zájmy státu i stabilitu veřejných institucí.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládní zastropování cen pohonných hmot jako „atomovou bombu“, která likviduje tržní prostředí. Odsoudil zákaz vládního letadla pro cestu Miloše Vystrčila na Tchaj-wan. Odmítl vládní návrh mediálního zákona a požaduje vyšetření korupčního podezření u kandidátů do Rady ČT.",
+      "**Jan Lipavský (ODS)** — Zdůraznil, že Tchaj-wan je pro ČR klíčovým partnerem ve vědě a technologiích. Kritizoval Andreje Babiše za „ohýbání hřbetu“ před čínským komunistickým režimem.",
+      "**Jana Černochová (ODS)** — Varovala před zrušením sekce průmyslové spolupráce na Ministerstvu obrany a jejím přesunem pod MPO, což podle ní zničí vazbu na armádu a povede k odchodu odborníků.",
+      "**Renata Zajíčková (ODS)** — Kritizovala náhlé rozhodnutí MŠMT přestat financovat plavecký výcvik ze státního rozpočtu, čímž přenáší náklady na zřizovatele škol."
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opoziční strategie. ODS deklarovala, že bude nadále hájit nezávislost veřejnoprávních médií, podporovat tchajwanskou misi předsedy Senátu a vyžadovat vysvětlení vládních kroků v oblasti obrany a školství. V otázce novely stavebního zákona ODS odmítla dát vládě „bianco šek“ pro zrychlené projednávání.",
+    "notes": "Přepis je místy ovlivněn automatickým zpracováním (např. opakující se fráze, drobné gramatické chyby), avšak obsahová sdělení jsou srozumitelná a identifikovatelná."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jana Černochová",
+        "person_id": "psp:person:5903",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo obrany",
+      "Ministerstvo průmyslu a obchodu",
+      "MŠMT",
+      "Česká televize"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zatímco čínské investice se odhadují v rozsahu zhruba 12 až 13 miliard korun, tchajwanské investice převyšují 20 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/03:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_00.jpg",
+      "context": "Data ČNB o přímých zahraničních investicích (PZI) potvrzují, že tchajwanské investice v ČR dlouhodobě převyšují ty čínské. Odhady se však mohou lišit podle metodiky (započítání investic přes holdingy v jiných zemích), nicméně trend vyššího objemu tchajwanského kapitálu je dlouhodobě uznávaným faktem."
+    },
+    {
+      "text": "Tchaj-wan je pro nás dominantní partner ve vědě, výzkumu, byznysu, turismu.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/08:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_01.jpg",
+      "context": "Tvrzení o „dominantním partnerovi“ je subjektivní politické hodnocení. Ačkoliv je Tchaj-wan významným investorem v technologickém sektoru, z hlediska celkového objemu zahraničního obchodu ČR zůstávají dominantními partnery země EU a sousední státy."
+    },
+    {
+      "text": "Tímto převodem se vůbec, ale vůbec nic neušetří, je to zbytečné cvičení, které rozbije funkční model.",
+      "type": "citation",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/14:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_02.jpg",
+      "context": "Jde o politický názor na efektivitu administrativního přesunu agendy. Úspory či ztráty z takových reorganizací jsou předmětem politického sporu a nelze je objektivně vyčíslit bez konkrétní analýzy dopadů (RIA), která v době výroku nebyla veřejně dostupná."
+    },
+    {
+      "text": "Rozhodnutí ministra školství, které proběhlo bez jakékoliv konzultace se starosty, považuji za podpásovku.",
+      "type": "citation",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/20:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_highlight_03.jpg",
+      "context": "Nelze nezávisle ověřit. Míra a intenzita konzultací mezi ministerstvem a samosprávami je v politickém procesu často předmětem sporu o interpretaci, zda proběhlá jednání byla dostatečná."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Zákaz vládního letadla pro cestu na Tchaj-wan**\n* **Kdo:** Andrej Babiš (vláda)\n* **Co:** Zákaz využití vládního letounu pro cestu předsedy Senátu Miloše Vystrčila na Tchaj-wan.\n* **Proč:** ODS to vnímá jako politicky motivovaný ústupek Číně, který poškozuje ekonomické zájmy ČR a narušuje nezávislost zahraniční politiky.\n* **Čas:** 1/02:00",
+      "speaker": "Andrej Babiš",
+      "affiliation": "vláda",
+      "timestamp": "1/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_controversy_00.jpg",
+      "context": "V roce 2020 tehdejší vláda Andreje Babiše skutečně odmítla poskytnout vládní speciál pro cestu předsedy Senátu Miloše Vystrčila na Tchaj-wan. Oficiálním důvodem byly tehdejší diplomatické vztahy s Čínou a vládní politika jedné Číny."
+    },
+    {
+      "statement": "**Kontroverzní návrh: Přesun sekce průmyslové spolupráce na MPO**\n* **Kdo:** Karel Havlíček (MPO)\n* **Co:** Přesun agendy průmyslové spolupráce z Ministerstva obrany pod Ministerstvo průmyslu a obchodu.\n* **Proč:** Podle Jany Černochové jde o nekompetentní krok, který oslabí vazbu na armádu a zničí funkční model podpory obranného průmyslu.\n* **Čas:** 1/10:02",
+      "speaker": "Karel Havlíček",
+      "affiliation": "MPO",
+      "timestamp": "1/10:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2836_controversy_01.jpg",
+      "context": "Přesun sekce průmyslové spolupráce z MO pod MPO byl vnímán jako snaha o centralizaci podpory exportu obranného průmyslu. Odborná debata se vedla o tom, zda MPO disponuje dostatečnou expertízou v oblasti akvizic a bezpečnosti, kterou disponuje Ministerstvo obrany."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

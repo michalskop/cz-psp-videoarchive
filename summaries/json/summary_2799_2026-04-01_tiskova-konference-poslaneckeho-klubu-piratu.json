@@ -1,13 +1,13 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:24:14",
-  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-05-29T13:01:22",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
   "event": {
     "id": "2799",
     "name": "Tisková konference poslaneckého klubu Pirátů",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-01T09:03",
-    "end_date": "2026-04-01T09:27",
+    "start_date": "2024-04-01",
+    "end_date": null,
     "sources": [
       "final/event_2799_2026-04-01_tiskova-konference-poslaneckeho-klubu-piratu.md"
     ]
@@ -19,17 +19,17 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána v souvislosti se zahájením veřejného slyšení kandidátů do Rady České televize (ČT). Cílem bylo představit nominované kandidáty, které podpořil spolek „Vraťte nám stát“, a zdůraznit význam nezávislosti veřejnoprávních médií na politických a ekonomických tlacích.\n\nŘečníci se shodli na tom, že Rada ČT je klíčovým orgánem pro zajištění objektivity a nezávislosti zpravodajství. Zároveň zazněla kritika na adresu koaličních poslanců za nízkou účast na veřejném slyšení a obava z politizace mediálních rad, která podle nich vede k destrukci veřejnoprávních institucí.",
+    "topic": "Tisková konference poslaneckého klubu Pirátů se konala 1. dubna 2026 ve 9:03–9:27. Cílem konference bylo představit kandidáty do Rady České televize a diskutovat o významu veřejnoprávních médií a jejich nezávislosti.",
     "main_points": [
-      "**Andrea Hoffmannová (Piráti)** — Uvedla, že se do volby přihlásilo mnoho kvalitních kandidátů. Zdůraznila, že mediální rady musí být obsazeny nezávislými odborníky, aby byla zajištěna nezávislost ČT a Českého rozhlasu. Kritizovala nízký zájem koaličních poslanců o veřejné slyšení.",
-      "**Hynek Čermák (herec, člen ČFTA)** — Kandiduje jako výkonný umělec. Zdůraznil, že ČT není jen politika, ale především tvůrce původního umění. Jako svou prioritu vidí hledání nových cest, jak zaujmout diváka v moderním mediálním prostoru.",
-      "**Tomáš Etzler (novinář)** — Bývalý novinář CNN a ČT. Varoval před útoky na veřejnoprávní média. Navrhuje zlepšení fiskální disciplíny v ČT a kritizoval kumulaci funkcí u šéfa zpravodajství Michala Kubala, což podle něj škodí pověsti instituce.",
-      "**Anna Koller (advokátka)** — Nominaci vnímá jako občanský postoj a snahu o pestrost v zastoupení kandidátů. Oceňuje investigativní práci ČT a program Déčko, varuje však před personálními selháními, která vedou k odchodu kvalitních pracovníků.",
-      "**Václav Němec (filozof, spolek Vraťte nám stát)** — Kritizoval praxi „politických nominantů“, kteří jsou formálně za spolky, ale fakticky napojeni na politické strany či finanční skupiny. Apeloval na poslance, aby si uvědomili, že zpolitizování médií se může obrátit proti nim samotným.",
-      "**David Smoljak (senátor, STAN)** — Připomněl, že úlohou radních je kontrola, nikoliv likvidace. Označil za absurdní, pokud by radní, kteří v minulosti způsobili materiální škody a porušili zákon, měli znovu získat důvěru Sněmovny."
+      "**Andrea Hoffmannová (Piráti)** — přivítala účastníky a zmínila, že veřejné slyšení kandidátů do Rady České televize právě začalo. Vyzdvihla kvalitu kandidátů a důležitost nezávislých odborníků v radě.",
+      "**Hynek Čermák (herec)** — představil se jako herec a člen České filmové a televizní akademie. Kandiduje do Rady České televize, aby podpořil umělecké a kulturní aktivity veřejnoprávních médií.",
+      "**Tomáš Etzler (novinář)** — zmínil své zkušenosti z CNN a České televize. Kandiduje, aby bránil veřejnoprávní média před politickými tlaky a zajistil nezávislost zpravodajství.",
+      "**Anna Koller (právnička)** — poděkovala za nominaci a zdůraznila potřebu nezávislých a profesionálních členů Rady České televize.",
+      "**Václav Němec (filozof)** — představil spolek Vraťte nám stát, který nominoval kandidáty do Rady České televize. Varoval před politickými nominacemi do rady a podpořil nezávislé kandidáty.",
+      "**David Smoljak (senátor)** — apeloval na zákonodárce, aby chránili veřejnoprávní média před likvidací a zajistili jejich nezávislost."
     ],
-    "outcome": "Jednání bylo informativní a mělo za cíl zviditelnit nezávislé kandidáty před hlasováním v Poslanecké sněmovně. Nebylo přijato žádné formální rozhodnutí, neboť se jednalo o tiskový brífink. Dominujícím postojem řečníků je obava o nezávislost ČT a potřeba odborné, nikoliv politické kontroly veřejnoprávních médií.",
-    "notes": "Přepis je místy nesrozumitelný kvůli chybějící diakritice a drobným gramatickým chybám, obsah je však plně rekonstruovatelný."
+    "outcome": "Tisková konference proběhla bez konkrétního rozhodnutí nebo dohody. Kandidáti do Rady České televize představili své vize a důvody pro svou kandidaturu. Diskutovali o významu veřejnoprávních médií a potřebě jejich nezávislosti.",
+    "notes": "Část přepisu nebyla plně srozumitelná nebo obsahovala chyby. Některé jména a termíny mohly být v přepisu chybně uvedeny."
   },
   "entities": {
     "speakers": [
@@ -41,7 +41,7 @@
       {
         "name": "Hynek Čermák",
         "person_id": null,
-        "affiliation": "Česká filmová a televizní akademie"
+        "affiliation": "herec"
       },
       {
         "name": "Tomáš Etzler",
@@ -51,79 +51,57 @@
       {
         "name": "Anna Koller",
         "person_id": null,
-        "affiliation": "advokátka"
+        "affiliation": "právnička"
       },
       {
         "name": "Václav Němec",
         "person_id": "psp:person:2966",
-        "affiliation": "Vraťte nám stát"
+        "affiliation": "filozof"
       },
       {
         "name": "David Smoljak",
         "person_id": "psp:person:6632",
-        "affiliation": "STAN"
+        "affiliation": "senátor"
       }
     ],
     "parties": [
-      "Piráti",
-      "STAN"
+      "Piráti"
     ],
     "institutions": [
-      "Rada České televize",
       "Česká televize",
-      "Český rozhlas",
-      "Vraťte nám stát",
-      "Senát PČR",
-      "Poslanecká sněmovna PČR"
+      "CNN"
     ]
   },
   "highlights": [
     {
-      "text": "Veřejnoprávní média jsou jedním z hlavních pilířů každé demokracie a v době krizí jsou naprosto nepostradatelným zdrojem informací.",
-      "type": "paraphrase",
-      "speaker": "Tomáš Etzler",
-      "affiliation": "novinář",
-      "timestamp": "1/06:31",
-      "screenshot_path": "summaries/screenshots/event_2799_highlight_00.jpg",
-      "context": "Role veřejnoprávních médií jako pilíře demokracie je uznávána mezinárodními institucemi, jako je Rada Evropy či Evropská komise, které zdůrazňují jejich nezastupitelnost v poskytování objektivních informací. Jde však o hodnotový soud, nikoliv o exaktně měřitelný fakt."
-    },
-    {
-      "text": "Kdo jiný by měl dbát na dodržování zákonů než zákonodárce, a proto považuji za vrchol absurdity, kdyby radní, kteří způsobili mnohamilionovou škodu, znovu dostali důvěru.",
-      "type": "citation",
-      "speaker": "David Smoljak",
-      "affiliation": "STAN",
-      "timestamp": "1/10:36",
-      "screenshot_path": "summaries/screenshots/event_2799_highlight_01.jpg",
-      "context": "Zákon č. 483/1991 Sb., o České televizi, definuje odpovědnost radních. Tvrzení o způsobené „mnohamilionové škodě“ je interpretací konkrétních kauz (např. spory o odvolání dozorčí komise), jejichž právní vyčíslení a přímá odpovědnost jednotlivých radních jsou předmětem politických a právních sporů."
-    },
-    {
-      "text": "Česká televize je naše, občanů, a díky koncesionářským poplatkům přesně víme, na co naše peníze jdou.",
+      "text": "Česká televize není dle mého názoru jenom politika a zpravodajství. Česká televize je v první řadě také tvůrce původních uměleckých pořadů.",
       "type": "citation",
       "speaker": "Hynek Čermák",
-      "affiliation": "Česká filmová a televizní akademie",
-      "timestamp": "1/15:24",
-      "screenshot_path": "summaries/screenshots/event_2799_highlight_02.jpg",
-      "context": "Česká televize je ze zákona č. 483/1991 Sb. institucí zřízenou zákonem, nikoliv státní organizací. Koncesionářské poplatky tvoří hlavní část rozpočtu, přičemž hospodaření ČT podléhá kontrole Dozorčí komise Rady ČT a výroční zprávy schvaluje Poslanecká sněmovna."
-    }
-  ],
-  "controversial": [
-    {
-      "statement": "**Tomáš Etzler (novinář)** — Kritizoval kumulaci funkcí u šéfa zpravodajství Michala Kubala. Je to politicky citlivé, protože zasahuje do vnitřního fungování a personální politiky ČT, což je téma, které vyvolává napětí mezi vedením televize a jejími kritiky. Čas: 1/20:01",
-      "speaker": "Tomáš Etzler",
-      "affiliation": "novinář",
-      "timestamp": "1/20:01",
-      "screenshot_path": "summaries/screenshots/event_2799_controversy_00.jpg",
-      "context": "Kumulace funkcí v rámci vnitřní struktury ČT je interní záležitostí managementu televize a není zákonem o ČT přímo zakázána. Kritika personální politiky je legitimním politickým názorem, nikoliv porušením právních předpisů."
+      "affiliation": "herec",
+      "timestamp": "1/02:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit."
     },
     {
-      "statement": "**David Smoljak (senátor, STAN)** — Označil za absurdní, pokud by radní, kteří v minulosti způsobili mnohamilionovou škodu, znovu dostali důvěru Sněmovny. Jde o přímou kritiku konkrétních členů minulé Rady ČT a zpochybnění legitimity jejich případného znovuzvolení. Čas: 1/10:01",
+      "text": "Veřejnoprávní média považuji za jeden z pilířů každé demokracie.",
+      "type": "citation",
+      "speaker": "Tomáš Etzler",
+      "affiliation": "novinář",
+      "timestamp": "1/04:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_highlight_01.jpg",
+      "context": "Veřejnoprávní média jsou skutečně považována za důležitou součást demokracie. Podle zákona č. 123/1998 Sb. o České televizi a č. 242/1995 Sb. o Českém rozhlasu mají veřejnoprávní média za úkol poskytovat veřejnosti kvalitní informace a kulturní obsah."
+    },
+    {
+      "text": "Média veřejné služby jsou páteř naší informační bezpečnosti.",
+      "type": "citation",
       "speaker": "David Smoljak",
-      "affiliation": "STAN",
-      "timestamp": "1/10:01",
-      "screenshot_path": "summaries/screenshots/event_2799_controversy_01.jpg",
-      "context": "Volba členů Rady ČT probíhá dle zákona č. 483/1991 Sb. v Poslanecké sněmovně. Tvrzení o „způsobení škody“ je politickou interpretací činnosti předchozích radních; zda došlo k trestněprávní či civilní odpovědnosti za škodu, musí v ČR rozhodnout nezávislý soud."
+      "affiliation": "senátor",
+      "timestamp": "1/04:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2799_highlight_02.jpg",
+      "context": "Podobně jako Tomáš Etzler, i David Smoljak považuje média veřejné služby za důležitá pro fungování demokracie. Tento názor je v souladu s doporučením Rady Evropy o veřejnoprávních médiích (2019), které zdůrazňuje jejich roli při zajišťování kvalitních informací pro veřejnost."
     }
   ],
+  "controversial": [],
   "quality": {
     "transcript_quality": "good",
     "unintelligible_parts": false

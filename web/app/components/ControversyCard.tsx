@@ -26,7 +26,7 @@ export function ControversyCard({ item, eventName, category, date }: Props) {
       <div className="flex flex-col flex-1 min-w-0">
 
         {/* Screenshot */}
-        {item.screenshot_path && (
+        {item.screenshot_path?.startsWith("http") && (
           <div className="w-full aspect-[16/9] overflow-hidden bg-surface-3">
             <Image
               src={item.screenshot_path}
@@ -117,7 +117,7 @@ function parseStatement(text: string): {
   const bullets: { key: string; value: string }[] = [];
 
   for (const line of lines) {
-    const m = line.match(/^\s*\*\s+\*\*([^:*]+):\*\*\s*(.*)/);
+    const m = line.match(/^\s*(?:\*\s+)?\*\*([^:*]+):\*\*\s*(.*)/);
     if (m) {
       const key = m[1].trim();
       if (key === "Čas") continue;

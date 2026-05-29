@@ -21,7 +21,7 @@ export function HighlightCard({ highlight, eventName, category, date }: Props) {
       <div className="flex flex-col flex-1 min-w-0">
 
         {/* Screenshot */}
-        {highlight.screenshot_path && (
+        {highlight.screenshot_path?.startsWith("http") && (
           <div className="w-full aspect-[16/9] overflow-hidden bg-surface-3">
             <Image
               src={highlight.screenshot_path}

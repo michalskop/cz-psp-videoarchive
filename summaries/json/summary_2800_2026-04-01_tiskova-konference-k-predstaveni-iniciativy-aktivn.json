@@ -1,12 +1,12 @@
 {
   "schema_version": "2",
-  "created_at": "2026-05-29T04:23:40",
-  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-05-29T13:01:01",
+  "model_hint": "meta-llama/llama-4-scout-17b-16e-instruct",
   "event": {
     "id": "2800",
     "name": "Tisková konference k představení iniciativy Aktivní Sněmovna",
     "classification": "Tiskové konference",
-    "start_date": "2026-04-01T10:04",
+    "start_date": "2026-04-01",
     "end_date": "2026-04-01T10:23",
     "sources": [
       "final/event_2800_2026-04-01_tiskova-konference-k-predstaveni-iniciativy-aktivn.md"
@@ -19,14 +19,14 @@
     "model": null
   },
   "summary": {
-    "topic": "Tisková konference byla svolána za účelem představení iniciativy „Aktivní Sněmovna“, jejímž cílem je motivovat poslance, zaměstnance Kanceláře Poslanecké sněmovny i veřejnost ke zdravějšímu životnímu stylu, pohybu a prevenci. Zároveň má iniciativa sloužit jako nástroj pro zlepšení mezilidských vztahů a komunikace mezi jednotlivými politickými kluby napříč spektrem.\n\nHlavním bodem dubnového programu je výzva „Veggie Challenge“, která spočívá v rozšíření nabídky stravování v prostorách Sněmovny o rostlinné alternativy. Iniciativa se však zaměřuje i na další aktivity, jako jsou sportovní turnaje, podpora sportovního vyžití v budově Sněmovny a budování neformálních vazeb mezi zákonodárci.",
+    "topic": "Tisková konference byla uspořádána za účelem představení iniciativy \"Aktivní Sněmovna\" a jejího dubnového projektu \"Veggie Challenge\". Cílem této iniciativy je podpořit zdravější životní styl, pohyb a prevenci mezi poslanci a zaměstnanci Poslanecké sněmovny.",
     "main_points": [
-      "**Patrik Nacher (ANO, 1. místopředseda PSP):** Iniciátor projektu „Aktivní Sněmovna“. Zdůraznil, že cílem je jít příkladem společnosti a „obrousit hrany“ mezi politiky prostřednictvím společných aktivit (sport, stravování). Uvedl, že Veggie Challenge není o zákazu masa, ale o rozšíření nabídky a obzoru. Zmínil plány na fotbalový tým a handbike trenažéry.",
-      "**Michal Zuna (TOP 09, poslanec):** Podpořil iniciativu jako prostor, kde lze najít shodu napříč politickým spektrem. Uvedl, že i přes náročnost poslanecké práce je možné najít čas na sport a zdravější stravování. Ocenil, že projekt není veden „přehnaným aktivismem“, ale racionálním přístupem.",
-      "**Martin Plíšek (vedoucí Kanceláře PSP):** Potvrdil, že od 1. dubna bude v gastronomických zařízeních Sněmovny denně k dispozici minimálně jedno plnohodnotné rostlinné jídlo navíc. Uvedl, že zařízení reagují na poptávku strávníků a dlouhodobě dbají na nutriční vyváženost.",
-      "**Linda Maruščáková (ProVeg):** Partnerka projektu. Vyzdvihla zdravotní benefity rostlinné stravy a ocenila, že se Sněmovna stává příkladem pro další veřejné instituce. Zmínila proběhlé workshopy pro kuchařský personál Sněmovny."
+      "- Patrik Nacher (Poslanecká sněmovna) — Představil iniciativu \"Aktivní Sněmovna\" a projekt \"Veggie Challenge\".",
+      "- Michal Zuna (TOP 09) — Souhlasil s Patrikem Nacherem, že zdravý životní styl a sport mohou být témata, na kterých se poslanci mohou shodnout napříč politickým spektrem.",
+      "- Martina Plíška (Kancelář Poslanecké sněmovny) — Informoval o zapojení Kanceláře Poslanecké sněmovny do projektu \"Veggie Challenge\".",
+      "- Linda Maruščáková (ProVeg) — Zmínila, že projekt \"Veggie Challenge\" podporuje větší zařazení rostlinné stravy do každodenních jídelníčků."
     ],
-    "outcome": "Nebyla přijímána žádná legislativní rozhodnutí. Konsenzem zúčastněných je pokračování v projektu „Aktivní Sněmovna“, přičemž v dubnu proběhne „Veggie Challenge“ (rozšíření jídelníčku) a v červnu se plánují sportovní aktivity (handbike trenažéry, fotbal). Cílem je dlouhodobé zlepšování atmosféry v Poslanecké sněmovně skrze neformální setkávání.",
+    "outcome": "Tisková konference byla úspěšně uspořádána a představila iniciativu \"Aktivní Sněmovna\" a projekt \"Veggie Challenge\". Bylo dohodnuto, že projekt \"Veggie Challenge\" bude probíhat po celý duben a nabídne veganské varianty jídla ve všech provozech Poslanecké sněmovny.",
     "notes": null
   },
   "entities": {
@@ -34,7 +34,7 @@
       {
         "name": "Patrik Nacher",
         "person_id": "psp:person:6487",
-        "affiliation": "ANO"
+        "affiliation": "Poslanecká sněmovna"
       },
       {
         "name": "Michal Zuna",
@@ -42,7 +42,7 @@
         "affiliation": "TOP 09"
       },
       {
-        "name": "Martin Plíšek",
+        "name": "Martina Plíška",
         "person_id": "psp:person:6251",
         "affiliation": "Kancelář Poslanecké sněmovny"
       },
@@ -50,11 +50,6 @@
         "name": "Linda Maruščáková",
         "person_id": null,
         "affiliation": "ProVeg"
-      },
-      {
-        "name": "Radek Bartoníček",
-        "person_id": null,
-        "affiliation": "Aktuálně.cz"
       }
     ],
     "parties": [
@@ -64,47 +59,42 @@
     "institutions": [
       "Poslanecká sněmovna",
       "Kancelář Poslanecké sněmovny",
-      "ProVeg",
-      "Aktuálně.cz"
+      "ProVeg"
     ]
   },
   "highlights": [
     {
       "text": "Cílem je, za prvé, my když říkáme, a mluvíme o zdravém životním stylu, pohybu, sportu, tak bysme měli jít příkladem.",
-      "type": "paraphrase",
+      "type": "citation",
       "speaker": "Patrik Nacher",
-      "affiliation": "ANO",
-      "timestamp": "1/04:42",
-      "screenshot_path": "summaries/screenshots/event_2800_highlight_00.jpg",
-      "context": "Jde o subjektivní politické vyjádření hodnotového postoje. Nelze fakticky ověřit, zda je osobní příklad politiků v oblasti sportu a zdravého životního stylu přímo úměrný kvalitě jejich legislativní práce."
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "4/02:04",
+      "context": "Nelze nezávisle ověřit."
     },
     {
       "text": "Od 1. dubna bude ve všech provozech každý den k dispozici navíc jedno plnohodnotné rostlinné jídlo.",
       "type": "citation",
-      "speaker": "Martin Plíšek",
+      "speaker": "Martina Plíška",
       "affiliation": "Kancelář Poslanecké sněmovny",
-      "timestamp": "1/09:18",
-      "screenshot_path": "summaries/screenshots/event_2800_highlight_01.jpg",
-      "context": "Toto je administrativní rozhodnutí Kanceláře Poslanecké sněmovny o provozu sněmovních stravovacích zařízení. Ověřitelnost závisí na interním provozním řádu jídelen a restaurací v budovách Parlamentu ČR."
+      "timestamp": "10/06:04",
+      "context": "Kancelář Poslanecké sněmovny oznámila, že od 1. dubna bude ve všech provozech každý den k dispozici jedno plnohodnotné rostlinné jídlo. Nelze ověřit, zda tato informace je aktuální nebo zda se jedná o trvalou změnu."
     },
     {
-      "text": "Jídlo a sport jsou jedna z mála témat, na kterých se shodneme asi napříč politickým spektrem, možná více než nad zněním celé řady zákonů.",
-      "type": "paraphrase",
-      "speaker": "Michal Zuna",
-      "affiliation": "TOP 09",
-      "timestamp": "1/07:17",
-      "screenshot_path": "summaries/screenshots/event_2800_highlight_02.jpg",
-      "context": "Jde o subjektivní politické hodnocení atmosféry v Poslanecké sněmovně. Nelze nezávisle ověřit, zda existuje shoda napříč politickým spektrem v otázkách stravování, neboť se nejedná o hlasování o legislativních návrzích."
+      "text": "My si velmi vážíme toho, že tato aktivita probíhá právě na půdě Poslanecké sněmovny, protože Poslanecká sněmovna je samozřejmě velkou veřejnou institucí, která je velmi viditelná a může nastavovat krásný příklad ostatním institucím.",
+      "type": "citation",
+      "speaker": "Linda Maruščáková",
+      "affiliation": "ProVeg",
+      "timestamp": "12/10:06",
+      "context": "ProVeg je organizace, která se zasazuje o rostlinnou stravu. Poslanecká sněmovna je skutečně významnou veřejnou institucí, která může ovlivňovat veřejné mínění a nastavovat příklady."
     }
   ],
   "controversial": [
     {
-      "statement": "Radek Bartoníček (Aktuálně.cz) konfrontoval Patrika Nachera s otázkou, zda je řešení stravy podstatnější než aktuální politické problémy (např. volba radních ČT nebo celková atmosféra ve Sněmovně). Bartoníček kritizoval, že se politici věnují „vegetariánské stravě“, zatímco Sněmovna podle něj funguje nejhůře za posledních pět let a volba radních ČT vyvolává pochybnosti.",
-      "speaker": "Radek Bartoníček",
-      "affiliation": "Aktuálně.cz",
-      "timestamp": "1/12:44",
-      "screenshot_path": "summaries/screenshots/event_2800_controversy_00.jpg",
-      "context": "Hodnocení kvality fungování Sněmovny je subjektivní politickou kritikou novináře. Volba radních České televize probíhá podle zákona č. 483/1991 Sb., o České televizi, a procesní kritika této volby je legitimním tématem veřejné debaty."
+      "statement": "Kdo: Radek Bartoníček (Aktuálně.cz)\nCo přesně: Zeptal se na podstatu toho, aby Poslanecká sněmovna fungovala zdravě a zda iniciativa \"Aktivní Sněmovna\" není jenom povrchní.\nProč je to kontroverzní: Tato otázka je kontroverzní, protože se dotýká vnímání fungování Poslanecké sněmovny a účinnosti iniciativy \"Aktivní Sněmovna\".\nČas: 14/03:04",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": null,
+      "context": "Otázka Radka Bartoníčka se dotýká vnímání fungování Poslanecké sněmovny a účinnosti iniciativy \"Aktivní Sněmovna\". Aktuálně.cz je zpravodajský server, který informuje o aktuálním dění v ČR."
     }
   ],
   "quality": {

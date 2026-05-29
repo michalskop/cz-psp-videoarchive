@@ -1,0 +1,118 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-29T05:10:03",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2863",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-04-30T10:59",
+    "end_date": "2026-04-30T11:11",
+    "sources": [
+      "final/event_2863_2026-04-30_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů stínové vlády hnutí STAN k aktuálním legislativním a politickým tématům. Hlavními body byly kritika nového stavebního zákona, varování před vládní novelou zákona o rozpočtové odpovědnosti a kauza vymáhání dotací u subjektů spojených s koncernem Agrofert.\n\nCílem vystoupení bylo vyvinout politický tlak na vládu, konkrétně na ministryni pro místní rozvoj, a informovat veřejnost o legislativních rizicích, která hnutí STAN vnímá v souvislosti s vládními návrhy.",
+    "main_points": [
+      "**Lukáš Vlček (STAN, stínový ministr průmyslu a obchodu)** — Vyzval k rezignaci ministryni pro místní rozvoj kvůli „amatérismu, aroganci a chaosu“ při prosazování nového stavebního zákona. Kritizoval rozsah návrhu a absenci odborné debaty. Upozornil na možný střet zájmů ministryně v souvislosti s legalizací černých staveb.",
+      "**Lucie Sedmihradská (STAN, stínová ministryně financí)** — Kritizovala novelu zákona o rozpočtové odpovědnosti, která podle ní otevírá cestu ke „skrytému a nekontrolovanému zadlužení“ ČR. Odmítla rušení povinnosti ministra financí skládat účty sněmovně třikrát ročně a vyjádřila pochybnosti o efektivitě EET 2.0.",
+      "**Tomáš Dubský (STAN, stínový ministr zemědělství)** — Kritizoval rozhodnutí generálního ředitele SZIF nevymáhat neoprávněně vyplacené dotace pro Agrofert. Požaduje, aby o dotacích rozhodoval soud, nikoliv generální ředitel, a kritizoval ministra zemědělství za lobbing ve prospěch velkých agropodniků."
+    ],
+    "outcome": "Jednání nevedlo k formálnímu rozhodnutí, ale vyústilo v jasné politické zadání pro poslance hnutí STAN:\n* Pokračovat v tlaku na odvolání ministryně pro místní rozvoj.\n* Ve třetím čtení zákona o rozpočtové odpovědnosti se pokusit zkomplikovat vládní návrhy vedoucí k zadlužování.\n* Zařadit kauzu vymáhání dotací SZIF na jednání zemědělského výboru Poslanecké sněmovny.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „paní ministrině Zikyn“ pravděpodobně odkazuje na ministryni, „paní ministrně Mrázová“). Text je místy nesouvislý v důsledku automatického přepisu, ale hlavní argumentační linie jsou srozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Tomáš Dubský",
+        "person_id": "psp:person:6728",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Alžběta Kabrdová",
+        "person_id": null,
+        "affiliation": "Česká televize"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo pro místní rozvoj",
+      "Ministerstvo financí",
+      "SZIF",
+      "Agrofert",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "To, co navrhuje ministerstvo financí, prakticky znamená konec pravidel a povede k situaci, kdy se národní rozpočtová pravidla stanou méně přísná než ta evropská.",
+      "type": "paraphrase",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/04:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_highlight_00.jpg",
+      "context": "Tvrzení se týká novely zákona o rozpočtové odpovědnosti. Zda jsou národní pravidla přísnější či volnější než evropská (Pakt stability a růstu), je předmětem odborné debaty mezi Národní rozpočtovou radou a Ministerstvem financí ČR; nelze jednoznačně potvrdit bez analýzy konkrétního znění návrhu."
+    },
+    {
+      "text": "Nedělá to paní ministryně trochu sama pro sebe, aby si zlegalizovala svoji černou stavbu?",
+      "type": "citation",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_highlight_01.jpg",
+      "context": "Jde o politickou rétoriku spojující legislativní proces s osobní kauzou ministryně. Zda konkrétní ustanovení stavebního zákona slouží k legalizaci soukromé stavby, je předmětem politického sporu a nelze to nezávisle ověřit jako fakt."
+    },
+    {
+      "text": "My jako starostové jednoznačně říkáme, že by se neoprávněně vyplacené dotace měly vymáhat a o jejich oprávněnosti má rozhodnout soud, nikoli generální ředitel.",
+      "type": "paraphrase",
+      "speaker": "Tomáš Dubský",
+      "affiliation": "STAN",
+      "timestamp": "1/08:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_highlight_02.jpg",
+      "context": "Vymáhání dotací se řídí zákonem č. 218/2000 Sb., o rozpočtových pravidlech. O oprávněnosti dotací a případných odvodech za porušení rozpočtové kázně rozhodují finanční úřady v rámci správního řízení, nikoliv soudy v první instanci; soudy přezkoumávají rozhodnutí až v rámci správního soudnictví."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Lukáš Vlček (STAN)\n**Co:** Výzva k okamžité rezignaci ministryně pro místní rozvoj.\n**Proč:** Politicky citlivé, neboť přímo útočí na integritu člena vlády a spojuje legislativní proces (stavební zákon) s osobními kauzami ministryně (černé stavby).\n**Čas:** 1/01:10",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/01:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_controversy_00.jpg",
+      "context": "Výzva k rezignaci je politickým aktem, nikoliv faktickým tvrzením. Spojení legislativy s osobní kauzou je interpretací opozičního politika a nelze jej fakticky verifikovat."
+    },
+    {
+      "statement": "**Kdo:** Lukáš Vlček (STAN)\n**Co:** Podpora úvahy o kompetenční žalobě prezidenta Pavla proti vládě v případě bránění účasti na summitu NATO.\n**Proč:** Jde o ústavní spor mezi prezidentem a vládou, který je vnímán jako vyhrocení vztahů mezi ústavními činiteli.\n**Čas:** 1/10:05",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/10:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2863_controversy_01.jpg",
+      "context": "Ústavní pravomoci prezidenta a vlády v oblasti zahraniční politiky definuje Ústava ČR (zejména čl. 63). Kompetenční žaloba je právní nástroj, o jehož podání rozhoduje Ústavní soud; tvrzení o 'úvaze' je politickým vyjádřením postoje poslance."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
