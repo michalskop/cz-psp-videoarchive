@@ -1,14 +1,16 @@
 import Image from "next/image";
 import type { HighlightItem } from "@/lib/types";
+import { formatDate } from "@/lib/types";
 import { PspLogotype } from "./PspLogotype";
 
 interface Props {
   highlight: HighlightItem;
   eventName: string;
   category: string;
+  date: string;
 }
 
-export function HighlightCard({ highlight, eventName, category }: Props) {
+export function HighlightCard({ highlight, eventName, category, date }: Props) {
   return (
     /* Outer wrapper: left crimson strip + newsprint background, shadow for depth */
     <div className="flex rounded-lg overflow-hidden shadow-md bg-surface-1 max-w-xl">
@@ -41,10 +43,15 @@ export function HighlightCard({ highlight, eventName, category }: Props) {
             </span>
           </div>
 
-          {/* Event name */}
-          <p className="font-slab text-sm font-semibold text-navy-9 leading-snug">
-            {eventName}
-          </p>
+          {/* Date + event name */}
+          <div>
+            <p className="font-sans text-xs text-muted-foreground mb-0.5">
+              {formatDate(date)}
+            </p>
+            <p className="font-slab text-sm font-semibold text-navy-9 leading-snug">
+              {eventName}
+            </p>
+          </div>
 
           {/* Quote */}
           <div className="relative">

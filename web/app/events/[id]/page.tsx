@@ -130,6 +130,7 @@ export default async function EventPage({ params }: Props) {
                   highlight={h}
                   eventName={s.event.name}
                   category={s.event.classification}
+                  date={s.event.start_date}
                 />
                 {/* Type tag + context outside the card */}
                 <div className="flex flex-wrap items-start gap-2 pl-1.5">

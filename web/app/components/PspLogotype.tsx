@@ -9,15 +9,16 @@ interface Props {
   size?: "xs" | "sm" | "md" | "lg";
 }
 
-/** Universal logotype: snemovna.DataTimes.cz/videoarchiv */
+/** Universal logotype: Snemovna.DataTimes.cz/videoarchiv */
 export function PspLogotype({ size = "md" }: Props) {
   return (
     <span className={`font-bold tracking-tight leading-none ${SIZE[size]}`}>
-      <span className="text-brand-6">snemovna</span>
+      <span className="text-brand-6">Snemovna</span>
       <span className="text-yellow-7">.</span>
       <span className="text-navy-9">DataTimes</span>
       <span className="text-yellow-7">.</span>
-      <span className="text-navy-9">cz/videoarchiv</span>
+      <span className="text-navy-9">cz</span>
+      <span className="text-navy-6">/videoarchiv</span>
     </span>
   );
 }
