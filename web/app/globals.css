@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+/* ── DataTimes PSP colour palette ────────────────────────────────────────── */
+@theme inline {
+  --color-newsprint: #fdfbf7;
+  --color-ink-wash: #f8f6f0;
+  --color-border-cream: #e8e8dc;
+  --color-midnight: #272a59;
+  --color-crimson: #de1743;
+  --color-crimson-hover: #c5143c;
+  --color-navy-purple: #6267a3;
+  --color-teal: #0e839e;
+  --color-teal-tint: #e5fdfc;
+  --color-orange: #f76800;
+  --color-orange-tint: #fff3e8;
+  --color-crimson-tint: #fff4f6;
+  --color-ink: #1a1a1a;
+
+  --font-slab: "Roboto Slab", Georgia, serif;
+  --font-sans: "Work Sans", system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--color-newsprint);
+  color: var(--color-ink);
+}
+
+/* ── Prose tweaks ────────────────────────────────────────────────────────── */
+strong {
+  font-weight: 600;
+}

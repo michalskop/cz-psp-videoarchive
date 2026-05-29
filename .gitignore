@@ -22,7 +22,8 @@ metadata.json.tmp
 # ── Summaries: JSON + MD tracked; screenshots served from B2 ─────────────────
 # summaries/json/     ← publish (structured data for the web app)
 # summaries/md/       ← publish (human-readable)
-summaries/screenshots/  # served from Backblaze B2 (cz-psp-videoarchive bucket)
+# Screenshots served from Backblaze B2 (cz-psp-videoarchive bucket)
+summaries/screenshots/
 
 # ── Secrets and environment ───────────────────────────────────────────────────
 .env
