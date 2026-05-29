@@ -1,0 +1,13 @@
+# PSP Video Archive — local pipeline cron jobs
+# Install with:  crontab crontab.txt
+# Append to existing crontab:  crontab -l > /tmp/ct && cat crontab.txt >> /tmp/ct && crontab /tmp/ct
+#
+# Adjust the path to match your local checkout if different.
+
+PIPELINE=/home/michal/dev/psp/videoarchive/pipeline.sh
+
+# Full pipeline: sync → transcribe → summarize → upload → git push
+# Runs at 02:00 and 14:00 every day.
+# Transcription is the bottleneck; twice a day covers new events by morning.
+0  2 * * * bash $PIPELINE
+0 14 * * * bash $PIPELINE
