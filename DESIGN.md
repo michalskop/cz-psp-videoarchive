@@ -210,5 +210,5 @@ When asking an AI to build or extend components, use these reference phrases:
 
 ---
 
-*Canonical upstream: `/home/michal/dev/mahdalova-skop/DESIGN.md`*  
+*Canonical upstream: [mahdalova-skop/DESIGN.md](https://github.com/michalskop/mahdalova-skop/blob/main/DESIGN.md)*  
 *PSP-specific tokens and components defined here take precedence for this project.*
