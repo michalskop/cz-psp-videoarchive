@@ -20,12 +20,29 @@ export const metadata: Metadata = {
   },
 };
 
+const CANONICAL = "https://snemovna.datatimes.cz/digest";
+
 export default function HomePage() {
   const all = getAllSummaries();
   const recent = all.slice(0, 10);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": ["WebSite", "Dataset"],
+    "name": "Sněmovna Digest",
+    "description": "Strukturované souhrny akcí Poslanecké sněmovny ČR — semináře, konference, výbory. Přepisy a souhrny zpracovány pomocí AI.",
+    "url": CANONICAL,
+    "inLanguage": "cs",
+    "creator": { "@type": "Organization", "name": "DataTimes / Mahdalová & Škop" },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "temporalCoverage": "2026/..",
+    "about": { "@type": "GovernmentOrganization", "name": "Poslanecká sněmovna Parlamentu ČR" },
+  };
+
   return (
-    <div className="max-w-5xl mx-auto px-4 py-10">
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <div className="max-w-5xl mx-auto px-4 py-10">
       <header className="mb-10">
         <h1 className="font-slab font-bold text-3xl text-navy-9 mb-3">
           Sněmovna Digest
@@ -100,5 +117,6 @@ export default function HomePage() {
         )}
       </section>
     </div>
+    </>
   );
 }

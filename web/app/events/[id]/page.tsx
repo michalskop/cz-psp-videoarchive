@@ -96,8 +96,32 @@ export default async function EventPage({ params }: Props) {
   const highlightCount = s.highlights?.length ?? 0;
   const controversyCount = s.controversial?.length ?? 0;
 
+  const CANONICAL = "https://snemovna.datatimes.cz/digest";
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": ["Event", "Article"],
+    "name": s.event.name,
+    "startDate": s.event.start_date,
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",
+      "name": "Poslanecká sněmovna Parlamentu ČR",
+      "address": { "@type": "PostalAddress", "addressLocality": "Praha", "addressCountry": "CZ" },
+    },
+    "organizer": { "@type": "GovernmentOrganization", "name": "Poslanecká sněmovna" },
+    "description": s.summary.topic.split("\n")[0].slice(0, 200),
+    "about": s.event.classification,
+    "url": `${CANONICAL}/events/${s.event.id}`,
+    ...(s.entities.speakers.length > 0 && {
+      "performer": s.entities.speakers.map((sp) => ({ "@type": "Person", "name": sp.name })),
+    }),
+    ...(s.event.sources.length > 0 && { "isBasedOn": s.event.sources[0] }),
+  };
+
   return (
     <article className="max-w-3xl mx-auto px-4 py-10">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       {/* Header */}
       <header className="mb-8">
         <div className="flex flex-wrap items-center gap-2 mb-3">
