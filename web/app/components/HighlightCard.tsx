@@ -38,7 +38,7 @@ export function HighlightCard({ highlight, eventName, category, date }: Props) {
         <div className="px-5 pt-4 pb-5 flex flex-col gap-3">
           {/* Category badge */}
           <div>
-            <span className="inline-block bg-brand-6 text-surface-0 font-sans font-bold text-[10px] uppercase tracking-widest px-2.5 py-1 rounded-badge-sm">
+            <span className="inline-block bg-brand-6 text-surface-0 font-sans font-bold text-[10px] uppercase tracking-widest px-2.5 py-1 rounded-badge-sm leading-none">
               {category}
             </span>
           </div>

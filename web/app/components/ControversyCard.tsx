@@ -43,7 +43,7 @@ export function ControversyCard({ item, eventName, category, date }: Props) {
         <div className="px-5 pt-4 pb-5 flex flex-col gap-3">
           {/* Badge */}
           <div>
-            <span className="inline-block bg-orange-6 text-surface-0 font-sans font-bold text-[10px] uppercase tracking-widest px-2.5 py-1 rounded-badge-sm">
+            <span className="inline-block bg-orange-6 text-surface-0 font-sans font-bold text-[10px] uppercase tracking-widest px-2.5 py-1 rounded-badge-sm leading-none">
               Kontroverze · {category}
             </span>
           </div>

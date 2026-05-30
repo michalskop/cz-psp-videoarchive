@@ -15,14 +15,37 @@ export function ShareableCard({ filename = "karta", children }: Props) {
 
   const capture = useCallback(async () => {
     if (!cardRef.current) return null;
+
+    // Pre-fetch remote images as blob URLs so html2canvas can read them
+    // (avoids CORS taint on the canvas).
+    const imgs = Array.from(cardRef.current.querySelectorAll<HTMLImageElement>("img"));
+    const restores: Array<() => void> = [];
+    await Promise.allSettled(
+      imgs.map(async (img) => {
+        const src = img.getAttribute("src");
+        if (!src || src.startsWith("data:") || src.startsWith("blob:")) return;
+        try {
+          const res = await fetch(src, { mode: "cors", cache: "force-cache" });
+          if (!res.ok) return;
+          const blobUrl = URL.createObjectURL(await res.blob());
+          img.setAttribute("src", blobUrl);
+          await new Promise<void>((r) => { img.onload = () => r(); img.onerror = () => r(); });
+          restores.push(() => { img.setAttribute("src", src); URL.revokeObjectURL(blobUrl); });
+        } catch { /* leave as-is */ }
+      })
+    );
+
     const { default: html2canvas } = await import("html2canvas");
-    return html2canvas(cardRef.current, {
+    const canvas = await html2canvas(cardRef.current, {
       scale: 2,
-      useCORS: true,
-      allowTaint: true,
+      useCORS: false,
+      allowTaint: false,
       backgroundColor: null,
       logging: false,
     });
+
+    restores.forEach((r) => r());
+    return canvas;
   }, []);
 
   const handleCopy = async () => {
@@ -71,7 +94,7 @@ export function ShareableCard({ filename = "karta", children }: Props) {
 
   return (
     <div className="flex flex-col gap-2">
-      <div ref={cardRef}>{children}</div>
+      <div ref={cardRef} className="w-fit self-start">{children}</div>
       <div className="flex gap-2 ml-1">
         {canCopy && (
           <button
