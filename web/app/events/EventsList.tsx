@@ -145,7 +145,7 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
                       <Link
                         key={s.event.id}
                         href={`/events/${s.event.id}`}
-                        className="flex gap-3 bg-surface-0 border border-border rounded-badge-lg p-4 hover:border-brand-6 transition-colors group"
+                        className="flex gap-3 bg-surface-0 border border-border rounded-badge-lg p-4 hover:border-brand-6 hover:shadow-md transition-all group"
                       >
                         {thumb && (
                           <div className="flex-shrink-0 w-24 h-16 rounded-badge overflow-hidden bg-surface-3">

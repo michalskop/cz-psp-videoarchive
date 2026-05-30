@@ -17,7 +17,7 @@ export function ControversyCard({ item, eventName, category, date }: Props) {
   return (
     <div
       aria-label="Kontroverzní výrok"
-      className="flex rounded-badge-lg overflow-hidden shadow-md bg-surface-1 max-w-xl"
+      className="flex rounded-badge-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow bg-surface-1 max-w-xl"
     >
       {/* Left orange strip */}
       <div className="w-1.5 flex-shrink-0 bg-orange-6" />

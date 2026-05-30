@@ -13,7 +13,7 @@ interface Props {
 export function HighlightCard({ highlight, eventName, category, date }: Props) {
   return (
     /* Outer wrapper: left crimson strip + newsprint background, shadow for depth */
-    <div className="flex rounded-badge-lg overflow-hidden shadow-md bg-surface-1 max-w-xl">
+    <div className="flex rounded-badge-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow bg-surface-1 max-w-xl">
       {/* Left crimson strip */}
       <div className="w-1.5 flex-shrink-0 bg-brand-6" />
 
