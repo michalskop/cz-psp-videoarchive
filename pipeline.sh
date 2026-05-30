@@ -71,6 +71,14 @@ else
         -m "Auto: new summaries $(date '+%Y-%m-%d')" >> "$LOG" 2>&1
     git push >> "$LOG" 2>&1
     log "Pushed $NEW new/updated summary JSON(s)"
+
+    # 6 — Rebuild and redeploy web site (only when there are new summaries)
+    log "--- vercel deploy ---"
+    cd "$DIR/web"
+    NEXT_PUBLIC_BASE_PATH=/digest npx vercel build --prod >> "$LOG" 2>&1
+    npx vercel deploy --prebuilt --prod >> "$LOG" 2>&1
+    cd "$DIR"
+    log "Web site redeployed"
 fi
 
 log "=== Pipeline done ==="
