@@ -1,0 +1,178 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-30T14:03:12",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2934",
+    "name": "5. schůze Výboru pro vědu, vzdělávání, mládež a sport",
+    "classification": "Jednání výborů",
+    "start_date": "2026-05-26T09:30",
+    "end_date": "2026-05-26T11:10",
+    "sources": [
+      "final/event_2934_2026-05-26_5-schuze-vyboru-pro-vedu-vzdelavani-mladez-a-sport.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526093003.mp4",
+        "from_sec": 27
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526094003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526095003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526100003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526101003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526102003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526103003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526104003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526105003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/05/26/_20260526110003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 10,
+    "parts_total": 10,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Pátá schůze Výboru pro vědu, vzdělávání, mládež a sport se konala 26. května 2026. Hlavním účelem jednání bylo projednání státních závěrečných účtů za rok 2025 pro klíčové kapitoly v gesci výboru, konkrétně Národní sportovní agenturu, Akademii věd ČR, Technologickou agenturu ČR, Grantovou agenturu ČR a Ministerstvo školství, mládeže a tělovýchovy.\n\nCílem jednání bylo zhodnotit hospodaření těchto institucí v uplynulém roce, ověřit plnění rozpočtových ukazatelů a připravit podklady pro Rozpočtový výbor Poslanecké sněmovny. Součástí jednání byla i politická debata o systémových změnách ve financování školství, zejména o převodu financování nepedagogických pracovníků na zřizovatele.",
+    "main_points": [
+      "**Karel Kovář (NSA)** — Prezentoval hospodaření NSA za rok 2025. Celkové výdaje činily 7,947 mld. Kč. `[1/06:01]`",
+      "**Renata Zajíčková (ODS)** — Zpravodajka k NSA. Upozornila na přesun 160 mil. Kč do kapitoly Ministerstva spravedlnosti. `[2/04:02]`",
+      "**Radomír Pánek (AV ČR)** — Uvedl, že AV ČR hospodařila s 7,861 mld. Kč. Zdůraznil, že institucionální zdroje tvoří pouze 30 % rozpočtu. `[3/04:07]`",
+      "**Petr Sklenička (TA ČR)** — Informoval o čerpání rozpočtu a příjmech z EU (přes 1,5 mld. Kč). `[4/08:07]`",
+      "**Milan Jirsa (GA ČR)** — Uvedl, že GA ČR podpořila 1 488 projektů. Upozornil na pokles reálného rozpočtu o 35 % od roku 2017. `[5/06:02]`",
+      "**Robert Plaga (MŠMT)** — Představil závěrečný účet MŠMT (308,4 mld. Kč). `[8/00:01]`",
+      "**Jana Berkovcová (ANO)** — Kritizovala převod financování nepedagogických pracovníků jako nedostatečně připravený. `[8/06:01]`",
+      "**Petr Fiala (ODS)** — Obhajoval převod nepedagogických pracovníků jako nezbytný systémový krok. `[9/04:04]`"
+    ],
+    "outcome": "Výbor schválil státní závěrečné účty pro všechny projednávané kapitoly (NSA, AV ČR, TA ČR, GA ČR, MŠMT) a zmocnil zpravodaje k tlumočení těchto usnesení na jednání Rozpočtového výboru dne 10. června 2026.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a místy nesrozumitelné pasáže způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Karel Kovář",
+        "person_id": "psp:person:5471",
+        "affiliation": "Národní sportovní agentura"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Radomír Pánek",
+        "person_id": null,
+        "affiliation": "Akademie věd ČR"
+      },
+      {
+        "name": "Petr Sklenička",
+        "person_id": null,
+        "affiliation": "Technologická agentura ČR"
+      },
+      {
+        "name": "Milan Jirsa",
+        "person_id": null,
+        "affiliation": "Grantová agentura ČR"
+      },
+      {
+        "name": "Robert Plaga",
+        "person_id": "psp:person:6549",
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Jana Berkovcová",
+        "person_id": "psp:person:6723",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Petr Fiala",
+        "person_id": "psp:person:5536",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Národní sportovní agentura",
+      "Akademie věd ČR",
+      "Technologická agentura ČR",
+      "Grantová agentura ČR",
+      "MŠMT"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Reálný rozpočet Grantové agentury v přepočtu na kupní sílu od roku 2017 klesl o 35 %.",
+      "type": "paraphrase",
+      "speaker": "Milan Jirsa",
+      "affiliation": "Grantová agentura ČR",
+      "timestamp": "6/00:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2934_highlight_00.jpg",
+      "context": "Tvrzení nelze nezávisle ověřit bez přesné metodiky výpočtu. Ačkoliv nominální rozpočet GA ČR v čase rostl, vysoká inflace v letech 2021–2023 reálnou hodnotu prostředků na výzkumné projekty výrazně snížila, avšak 35% pokles vyžaduje detailní analýzu deflátoru a struktury výdajů."
+    },
+    {
+      "text": "Akademie věd ČR se v žebříčku Nature Index nachází na 16. místě na světě.",
+      "type": "paraphrase",
+      "speaker": "Radomír Pánek",
+      "affiliation": "Akademie věd ČR",
+      "timestamp": "4/01:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2934_highlight_01.jpg",
+      "context": "Tvrzení je zavádějící. Akademie věd ČR se v žebříčku Nature Index (kategorie 'Government' nebo 'Research') dlouhodobě pohybuje v první stovce, ale umístění na 16. místě celosvětově neodpovídá aktuálním datům Nature Index, kde se AV ČR v celkovém pořadí institucí umisťuje obvykle v širší špičce, nikoliv v první dvacítce."
+    },
+    {
+      "text": "Celkové výdaje Ministerstva školství v roce 2025 činily 308,4 miliardy korun.",
+      "type": "paraphrase",
+      "speaker": "Robert Plaga",
+      "affiliation": "MŠMT",
+      "timestamp": "8/00:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2934_highlight_02.jpg",
+      "context": "Podle návrhu zákona o státním rozpočtu na rok 2025 jsou výdaje kapitoly MŠMT plánovány ve výši přibližně 308,4 miliardy Kč. Částka odpovídá vládnímu návrhu předloženému Poslanecké sněmovně pro rok 2025."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika netransparentního a nepřipraveného převodu financování nepedagogů na obce/kraje ze strany Jany Berkovcové (ANO) a následná obhajoba Petra Fialy (ODS).",
+      "speaker": "Jana Berkovcová",
+      "affiliation": "ANO",
+      "timestamp": "8/06:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2934_controversy_00.jpg",
+      "context": "Jde o politickou debatu týkající se vládního návrhu na změnu financování nepedagogických pracovníků (např. školníků, kuchařek), který vyvolal odpor odborů i zástupců samospráv. Argumentace opozice o netransparentnosti se opírá o obavy z nedostatečného zajištění prostředků v rozpočtech obcí, zatímco vláda argumentuje snahou o efektivnější správu a decentralizaci."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

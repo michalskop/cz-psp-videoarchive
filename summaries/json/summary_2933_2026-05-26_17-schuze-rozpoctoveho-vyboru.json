@@ -1,0 +1,160 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-30T14:03:35",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2933",
+    "name": "17. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-05-26T09:00",
+    "end_date": "2026-05-26T10:24",
+    "sources": [
+      "final/event_2933_2026-05-26_17-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526090003.mp4",
+        "from_sec": 42
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526091003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526092003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526093003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526094003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526095003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526100003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526101003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/05/26/_20260526102003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 9,
+    "parts_total": 9,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 17. schůze Rozpočtového výboru bylo zaměřeno na projednání státních závěrečných účtů za rok 2025 a návrhů rozpočtů na rok 2027 pro několik kapitol státního rozpočtu. Cílem bylo posoudit hospodaření jednotlivých institucí v uplynulém roce a schválit rozpočtové parametry pro rok 2027 v souladu se střednědobými výhledy a dohodami s Ministerstvem financí.\n\nProjednávané kapitoly zahrnovaly Senát Parlamentu ČR, Kancelář prezidenta republiky, Český statistický úřad, Úřad Národní rozpočtové rady, Nejvyšší kontrolní úřad, Ústavní soud a Kancelář veřejného ochránce práv.",
+    "main_points": [
+      "**Radek Jiránek (Senát)** – Prezentoval závěrečný účet kapitoly 303 za rok 2025 a návrh rozpočtu na rok 2027 (výdaje 773,4 mil. Kč). `[1/04:00]`",
+      "**Milan Vašina (Kancelář prezidenta republiky)** – Představil závěrečný účet kapitoly 301 za rok 2025 a návrh rozpočtu na rok 2027 (výdaje 425,4 mil. Kč). `[3/00:01]`",
+      "**Marek Rojíček (ČSÚ)** – Informoval o hospodaření kapitoly 345 za rok 2025 (výdaje 1,34 mld. Kč) a upozornil na podfinancovanost provozních výdajů. `[4/04:08]`",
+      "**Petr Musil (Národní rozpočtová rada)** – Prezentoval závěrečný účet kapitoly 359 za rok 2025 a návrh rozpočtu na rok 2027 (výdaje 26,7 mil. Kč). `[5/02:05]`",
+      "**Jan Málek (NKÚ)** – Představil návrh rozpočtu kapitoly 381 na rok 2027 (výdaje 716,3 mil. Kč) zahrnující investice do spisové služby. `[7/00:01]`",
+      "**Vlastimil Göttinger (Ústavní soud)** – Představil rozpočet kapitoly 358 na rok 2027 (výdaje 251,9 mil. Kč) včetně opravy střechy. `[7/06:01]`",
+      "**Vendula Svobodová (poslankyně)** – Zastoupila Kancelář veřejného ochránce práv (kapitola 309) s návrhem rozpočtu 222,8 mil. Kč. `[9/00:01]`"
+    ],
+    "outcome": "Výbor schválil všechna předložená usnesení ke státním závěrečným účtům za rok 2025 i k návrhům rozpočtů na rok 2027 pro všechny projednávané kapitoly. Všechny návrhy byly v souladu se stanovisky Ministerstva financí. Výbor rovněž odsouhlasil termín příští schůze na 10. června 2026.",
+    "notes": "Záznam obsahuje technické chyby (chybějící diakritika, useknutá slova). V části 8 a 9 proběhlo projednání bodu 10 (Kancelář veřejného ochránce práv) bez přítomnosti zástupců instituce, což bylo výborem odsouhlaseno."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Radek Jiránek",
+        "person_id": null,
+        "affiliation": "Senát Parlamentu ČR"
+      },
+      {
+        "name": "Milan Vašina",
+        "person_id": "psp:person:1777",
+        "affiliation": "Kancelář prezidenta republiky"
+      },
+      {
+        "name": "Marek Rojíček",
+        "person_id": "psp:person:6645",
+        "affiliation": "Český statistický úřad"
+      },
+      {
+        "name": "Petr Musil",
+        "person_id": "psp:person:6859",
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Jan Málek",
+        "person_id": "psp:person:6385",
+        "affiliation": "Nejvyšší kontrolní úřad"
+      },
+      {
+        "name": "Vlastimil Göttinger",
+        "person_id": null,
+        "affiliation": "Ústavní soud"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "Rozpočtový výbor"
+    ],
+    "institutions": [
+      "Senát",
+      "Kancelář prezidenta republiky",
+      "ČSÚ",
+      "Národní rozpočtová rada",
+      "NKÚ",
+      "Ústavní soud",
+      "Veřejný ochránce práv"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Skutečně čerpané provozní výdaje za rok 2025 činily zhruba 118 000 Kč na jednoho zaměstnance, což je druhá nejnižší hodnota ze všech rozpočtových kapitol.",
+      "type": "paraphrase",
+      "speaker": "Marek Rojíček",
+      "affiliation": "ČSÚ",
+      "timestamp": "4/09:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2933_highlight_00.jpg",
+      "context": "Údaj vychází z vnitřních rozpočtových dat ČSÚ. Srovnání provozních výdajů na zaměstnance napříč kapitolami státního rozpočtu je ověřitelné prostřednictvím dokumentů v Informačním systému státní pokladny (ISSP), nicméně metodika výpočtu „provozních výdajů“ se může mezi jednotlivými resorty lišit."
+    },
+    {
+      "text": "Ústavní soud se pro rok 27 těchto ambicí vzdává, protože v rozpočtu tyto peníze chybí, není je tam kde najít.",
+      "type": "citation",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "8/01:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2933_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Rozpočtové kapitoly pro rok 2027 jsou v procesu plánování a konkrétní rozhodnutí Ústavního soudu o odstoupení od technologických investic v tomto časovém horizontu nejsou veřejně dostupná v oficiálních rozpočtových dokumentech."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Poslankyně Vendula Svobodová upozornila, že Ústavní soud se pro rok 2027 vzdává ambicí na zavádění AI technologií do své agendy z důvodu nedostatku finančních prostředků v rozpočtu. `[8/01:15]`",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "8/01:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2933_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Neexistuje veřejně dostupný zápis nebo oficiální stanovisko Ústavního soudu, které by potvrzovalo rezignaci na implementaci AI technologií z důvodu nedostatku prostředků pro rok 2027."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-30T14:03:55",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2939",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-26T12:21",
+    "end_date": "2026-05-26T12:37",
+    "sources": [
+      "final/event_2939_2026-05-26_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5339_video-psp-2026526-1221-23-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se konala před zahájením jednání Poslanecké sněmovny. Hlavním cílem bylo představit kritický postoj strany k vládnímu návrhu novely stavebního zákona, který lidovci považují za nepřipravený a kontraproduktivní. Kromě stavebního zákona se řečníci vyjádřili k aktuálnímu stanovisku Evropské komise ohledně dotací pro společnost Agrofert a k plánovanému postupu opozice při projednávání programu schůze sněmovny.",
+    "main_points": [
+      "**Jan Grolich (KDU-ČSL)** – Kritizoval vládní návrh stavebního zákona jako „šitý horkou jehlou“, který povede ke zpomalení stavebního řízení a personálnímu poddimenzování úřadů. Vyzval premiéra k pozastavení dotací pro Agrofert do vyřešení střetu zájmů. `[1/00:45]`",
+      "**Václav Plátenek (KDU-ČSL)** – Upozornil na zúžení definice přístupnosti staveb v novém zákoně, což diskriminuje seniory a osoby se zdravotním postižením. Představil pozměňovací návrh, který vrací širokou definici přístupnosti v souladu s mezinárodními závazky. `[1/02:00]`",
+      "**Marie Kršková (KDU-ČSL)** – Kritizovala oslabení role obcí v novele. Navrhuje, aby výjimky z územního plánování schvalovala zastupitelstva veřejně, nikoliv rady obcí neveřejně, což považuje za netransparentní. `[1/05:15]`",
+      "**Bohuslav Němec (KDU-ČSL)** – Označil návrh za „amnestii pro černé stavby“ kvůli institutu „zásahu nepřiměřeného přínosu“. Představil návrh na zrušení poplatků za vynětí ze zemědělského půdního fondu v prolukách, což má zlevnit výstavbu. `[1/07:30]`",
+      "**Marian Jurečka (KDU-ČSL)** – Zkritizoval personální nestabilitu na Ministerstvu pro místní rozvoj. Představil návrh na motivaci majitelů investičních bytů k jejich uvolnění na trh pro dlouhodobé bydlení. `[1/09:30]`",
+      "**František Talíř (KDU-ČSL)** – Oznámil záměr opozice zařadit na program schůze bod o nezávislosti veřejnoprávních médií v reakci na návrh Patrika Nachera (ANO) ohledně financování ČT a ČRo. `[1/13:00]`"
+    ],
+    "outcome": "KDU-ČSL se jako opoziční strana hodlá aktivně bránit vládním návrhům prostřednictvím série pozměňovacích návrhů. Strana potvrdila podporu pro paní Urbanovou (STAN) na post místopředsedkyně Sněmovny. V otázce volby členů Rady České televize lidovci vítají odklad volby, neboť vnímají pochybnosti vládní koalice ohledně některých kandidátů jako legitimní.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze (např. „Představující se na návrhy“), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Grolich",
+        "person_id": "psp:person:6669",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Václav Plátenek",
+        "person_id": "psp:person:7036",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marie Kršková",
+        "person_id": "psp:person:7018",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Bohuslav Němec",
+        "person_id": "psp:person:7028",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "STAN",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Agrofert",
+      "Ministerstvo pro místní rozvoj",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My potřebujeme, aby premiér pozastavil vyplácení těchto dotací do doby, než si tento svůj osobní problém vyřeší.",
+      "type": "paraphrase",
+      "speaker": "Jan Grolich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/00:22",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2939_highlight_00.jpg",
+      "context": "Vyplácení dotací je vázáno zákonem č. 218/2000 Sb., o rozpočtových pravidlech. Premiér nemá zákonnou pravomoc jednostranně pozastavit vyplácení dotací na základě osobního problému bez naplnění zákonných důvodů pro zastavení plateb."
+    },
+    {
+      "text": "To, co předvedla tato vláda tímhle návrhem, je, že to dělá na úkor těch nejslabších v té společnosti, jako jsou třeba zdravotně postižení nebo senioři.",
+      "type": "citation",
+      "speaker": "Václav Plátenek",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/03:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2939_highlight_01.jpg",
+      "context": "Toto tvrzení je politickou interpretací dopadů vládních úsporných opatření (např. konsolidační balíček). Dopady na zranitelné skupiny jsou předmětem odborných analýz, přičemž vláda argumentuje nutností udržitelnosti veřejných financí, zatímco opozice zdůrazňuje sociální dopady."
+    },
+    {
+      "text": "Novela jako celek posiluje postavení investorů a obcím bere část prostoru, aby mohly chránit kvalitní podmínky pro život svých občanů.",
+      "type": "citation",
+      "speaker": "Marie Kršková",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/05:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2939_highlight_02.jpg",
+      "context": "Jde o hodnocení dopadů novely stavebního zákona (č. 283/2021 Sb.). Otázka vyváženosti práv investorů a samospráv je dlouhodobým předmětem legislativního sporu; míra omezení pravomocí obcí je subjektivním výkladem konkrétních ustanovení zákona."
+    },
+    {
+      "text": "Stavební zákon přechází z režimu zakázáno do režimu necháme se přesvědčit, je to vlastně taková amnestie pro ty, co mají rádi adrenalin.",
+      "type": "citation",
+      "speaker": "Bohuslav Němec",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/08:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2939_highlight_03.jpg",
+      "context": "Výrok je metaforickým popisem změn v povolovacích procesech. Nový stavební zákon skutečně mění přístup k tzv. fikcím souhlasu a procesním lhůtám, což kritici interpretují jako oslabení kontroly, zatímco zastánci jako zrychlení výstavby."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverze: „Legalizace černých staveb“**\n- **Kdo:** Bohuslav Němec (KDU-ČSL)\n- **Co:** Označil vládní návrh za „amnestii pro černé stavby“ a uvedl, že zákon přechází z režimu „zakázáno“ do režimu „necháme se přesvědčit“.\n- **Proč:** Jde o přímé napadení vládní legislativy, která má podle opozice umožnit legalizaci nelegálních staveb skrze institut „zásahu nepřiměřeného přínosu“.\n- **Čas:** 1/08:00",
+      "speaker": "Bohuslav Němec",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/08:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2939_controversy_00.jpg",
+      "context": "Debata se týká přechodných ustanovení nového stavebního zákona. Kritika „amnestie“ míří na procesy dodatečného povolování staveb; zda jde o faktickou amnestii, či o procesní zjednodušení, je předmětem právního výkladu jednotlivých paragrafů zákona."
+    },
+    {
+      "statement": "**Kontroverze: „Ohrožení nezávislosti médií“**\n- **Kdo:** František Talíř (KDU-ČSL)\n- **Co:** Obvinil vládní koalici z pokrytectví, kdy ústně deklaruje nezávislost médií, ale fakticky podniká kroky k jejímu ohrožení (např. návrh Patrika Nachera na změnu financování).\n- **Proč:** Politicky citlivé téma nezávislosti veřejnoprávních institucí, které vyvolává střety mezi koalicí a opozicí.\n- **Čas:** 1/13:00",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/13:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2939_controversy_01.jpg",
+      "context": "Návrhy na změnu financování či volby orgánů veřejnoprávních médií jsou legitimním politickým tématem. Nelze nezávisle ověřit záměr „ohrozit nezávislost“, neboť jde o interpretaci politických kroků, které jsou vnímány buď jako reforma, nebo jako politický tlak na média."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

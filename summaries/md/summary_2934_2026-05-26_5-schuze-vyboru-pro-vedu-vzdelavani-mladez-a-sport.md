@@ -1,142 +1,52 @@
-<thought>*   Event: 5th meeting of the Committee for Science, Education, Youth, and Sport.
-    *   Date: 2026-05-26.
-    *   Key topics: Final accounts for 2025 for several agencies (NSA, AV ČR, TA ČR, GAČR) and the Ministry of Education (MŠMT).
-    *   Key figures:
-        *   NSA: Expenditure ~7.9bn CZK.
-        *   AV ČR: Expenditure ~7.86bn CZK; 30% institutional funding (critique of low funding compared to DE/FR).
-        *   TA ČR: Revenue ~1.5bn CZK (exceeded plan).
-        *   GAČR: Expenditure ~4.65bn CZK; real budget down 35% since 2017.
-        *   MŠMT: Expenditure ~308.4bn CZK.
-    *   Main conflict: Transfer of non-pedagogical staff funding to founders (municipalities/regions). Berkovcová vs. Fiala/Plaga. Plaga admits communication failure.
-
-    *   *Téma a účel jednání:* Review of final accounts for 2025 for science and sports agencies and the Ministry of Education.
-    *   *Hlavní body:*
-        *   Chairman (Presiding): Agenda, voting, scheduling.
-        *   Karel Kovář (NSA): 7.9bn expenditure, 102.57% utilization.
-        *   Renata Zajíčková (MP): Budget shift (160m to Justice), request for transparency.
-        *   Radomír Pánek (AV ČR): 7.86bn expenditure, 30% institutional funding (too low).
-        *   Petr Sklenička (TA ČR): 1.5bn revenue, 5,010 projects.
-        *   Stanislav Friedrich (MP): Approval of TA ČR account.
-        *   Milan Jirsa (GAČR): 4.65bn expenditure, 18.5% new projects funded, real budget down 35%.
-        *   Miroslav Krejčí (MP): Approval of GAČR account.
-        *   Robert Plaga (Minister): 308.4bn expenditure, 158bn for salaries.
-        *   Jan Berka (MP): Review of MŠMT spending (integration, prevention).
-        *   Berkovcová (MP): Criticism of non-pedagogical staff funding transfer.
-        *   Fiala (MP): Defense of the transfer process.
-        *   Hofmanová (MP): Vítkovice school context.
-        *   Gregor (MP): Critique of Hofmanová's claim.
-        *   Křeček (Director): "Prstenec" funding (1.5bn spent vs 630m budgeted).
-
-    *   *Výsledek:* Most accounts approved. Next meeting June 10.
-    *   *Poznámky:* Some transcription errors (numbers like 25 billion vs 25 million for NSA income).
-
-    *   *Controversial:* Non-pedagogical staff funding.
-        *   Who: Berkovcová, Fiala, Plaga.
-        *   What: Sudden transfer of funding to municipalities without impact analysis.
-        *   Why: Budget uncertainty for schools/towns.
-        *   Time: 8/00:00 onwards.
-
-    *   *Quotes:*
-        *   AV ČR institutional funding (30% vs 80-85%).
-        *   GAČR real budget decrease (35%).
-        *   MŠMT salary spending (158bn for 283k people).
-
-    *   Fill in `event`, `transcription`, `summary`, `entities`, `highlights`, `controversial`, `quality`.</thought># Shrnutí jednání Výboru pro vědu, vzdělávání, mládež a sport
-
 ## 1. Téma a účel jednání
-Jednání bylo věnováno projednání a schvalování závěrečných účtů za rok 2025 u několika klíčových institucí a agentur v oblasti vědy, sportu a vzdělání. Cílem bylo posoudit hospodaření Národní sportovní agentury (NSA), Akademie věd ČR (AV ČR), Technologické agentury ČR (TA ČR), Grantové agentury ČR (GAČR) a Ministerstva školství, mládeže a sportu (MŠMT).
 
-Kromě formálního schvalování čísel se výbor zaměřil na systémové problémy financování české vědy, efektivitu grantových programů a kontroverzní změny v financování nepedagogického personálu ve školství.
+Pátá schůze Výboru pro vědu, vzdělávání, mládež a sport se konala 26. května 2026. Hlavním účelem jednání bylo projednání státních závěrečných účtů za rok 2025 pro klíčové kapitoly v gesci výboru, konkrétně Národní sportovní agenturu, Akademii věd ČR, Technologickou agenturu ČR, Grantovou agenturu ČR a Ministerstvo školství, mládeže a tělovýchovy.
+
+Cílem jednání bylo zhodnotit hospodaření těchto institucí v uplynulém roce, ověřit plnění rozpočtových ukazatelů a připravit podklady pro Rozpočtový výbor Poslanecké sněmovny. Součástí jednání byla i politická debata o systémových změnách ve financování školství, zejména o převodu financování nepedagogických pracovníků na zřizovatele.
+
+---
 
 ## 2. Hlavní body
 
-**Předseda výboru (neidentifikovaný)**
-- Zajišťoval průběh jednání, schvaloval program a koordinoval hlasování nad usneseními.
-- Informoval o termínu projednávání usnesení v rozpočtovém výboru (10. června v 10:00).
-- Řešil administrativní otázky ohledně formy pozvánek (papírové vs. digitální).
+*   **Karel Kovář (předseda Národní sportovní agentury)** — Prezentoval hospodaření NSA za rok 2025. Celkové výdaje činily 7,947 mld. Kč (102,57 % rozpočtu). Upozornil na vysoký převis poptávky u investičních dotací a realizaci 114 kontrol dotací v objemu 769 mil. Kč. `[1/06:01]`
+*   **Renata Zajíčková (ODS)** — Zpravodajka k NSA. Upozornila na přesun 160 mil. Kč z kapitoly NSA do kapitoly Ministerstva spravedlnosti (nález Ústavního soudu). Navrhla usnesení požadující transparentnější evidenci toků peněz ke sportovním svazům a regionům. `[2/04:02]`
+*   **Radomír Pánek (předseda Akademie věd ČR)** — Uvedl, že AV ČR hospodařila s 7,861 mld. Kč. Zdůraznil, že institucionální zdroje tvoří pouze 30 % rozpočtu, což považuje za problém české vědy. Zmínil založení platformy *Science for Policy* a akciové společnosti pro komercializaci výsledků. `[3/04:07]`
+*   **Petr Sklenička (předseda Technologické agentury ČR)** — Informoval o čerpání rozpočtu a příjmech z EU (přes 1,5 mld. Kč). Agentura administrovala 5 010 projektů a vyhlásila 16 soutěží. `[4/08:07]`
+*   **Milan Jirsa (předseda Grantové agentury ČR)** — Uvedl, že GA ČR podpořila 1 488 projektů s výdaji 4,648 mld. Kč. Upozornil, že reálný rozpočet agentury v kupní síle od roku 2017 klesl o 35 %. `[5/06:02]`
+*   **Robert Plaga (ministr školství)** — Představil závěrečný účet MŠMT. Celkové výdaje činily 308,4 mld. Kč. Obhájil systémové změny ve financování regionálního školství a vyjádřil ochotu k dalším efektivizačním krokům. `[8/00:01]`
+*   **Jana Berkovcová (ANO)** — Kritizovala způsob převodu financování nepedagogických pracovníků na zřizovatele jako „bezprecedentní“ a „nedostatečně připravený“. `[8/06:01]`
+*   **Petr Fiala (ODS)** — Obhajoval převod nepedagogických pracovníků jako nezbytný systémový krok, který byl dlouhodobě diskutován a v praxi funguje. `[9/04:04]`
 
-**Karel Kovář (Národní sportovní agentura)**
-- Prezentoval závěrečný účet 2025: výdaje 7 908 995 000 Kč, celkové vyčerpání na 102,57 %.
-- Rozdělení prostředků: rozvoj sportu (4,9 mld. Kč), reprezentace a talentovaná mládež (2,283 mld. Kč), významné akce (537 mil. Kč).
-- Uvedl průměrné platy: zaměstnanci v pracovním poměru 50 712 Kč, služební místa 58 491 Kč.
-- Informoval o provedení 114 kontrol dotací v objemu 769 milionů Kč. `[1/04:00]`
-
-**Poslankyně Renata Zajíčková**
-- Upozornila na přesun 160 milionů Kč z rozvoje sportu na platy soudců (nález Ústavního soudu).
-- Navrhla do usnesení požadavek na transparentnější evidenci prostředků poskytovaných NSA regionům a svazům (návrh však nebyl přijat). `[1/08:00]`
-
-**Radomír Pánek (Akademie věd ČR)**
-- Uvedl, že konečný rozpočet AV ČR za rok 2025 činil 7 868 000 000 Kč (čerpáno 7 861 000 000 Kč).
-- Tvrdil, že institucionální financování tvoří pouze 30 % celkových výnosů institucí (21 mld. Kč), což je výrazně méně než v Německu či Francii (80–85 %), což označil za hlavní problém české vědy.
-- Zmínil založení platformy Science for Policy a ERC inkubátoru. `[1/15:00]`
-
-**Petr Sklenička (Technologická agentura ČR)**
-- Informoval o čerpání institucionální podpory: schváleno 203 mil. Kč, čerpáno 238,5 mil. Kč.
-- K 31. prosinci podpořila agentura celkem 5 010 projektů. `[5/00:00]`
-
-**Stanislav Friedrich (poslanec, spravodaj)**
-- Potvrdil, že prostředky státního rozpočtu pro TA ČR byly použity v souladu s určením a navrhl souhlas se závěrečným účtem. `[5/02:00]`
-
-**Milan Jirsa (Grantová agentura ČR)**
-- V roce 2025 bylo financováno 1 500 projektů, přičemž nové standardní projekty byly schváleny pouze v 18,5 % případů.
-- Celkové výdaje činily 4,648 mld. Kč.
-- Upozornil, že zatímco nominální rozpočet od roku 2017 vzrostl o 14 %, reálný rozpočet (kupní síla) klesl o 35 %. `[6/00:00]`
-
-**Robert Plaga (ministr školství)**
-- Prezentoval rozpočet MŠMT: celkové výdaje 308,4 mld. Kč, z toho 201,9 mld. Kč na regionální vzdělávání.
-- Uvedl, že na platy a personální náklady bylo vynaloženo 158 mld. Kč pro 283 000 lidí.
-- Přiznal chybu v komunikaci ohledně převodu financování nepedagogického personálu na zřizovatele. `[7/05:00]`
-
-**Jan Berka (poslanec, spravodaj)**
-- Kvaroval nízké vyčerpání prostředků na integraci cizinců (40 mil. z 55,5 mil. Kč) a sociální prevenci.
-- Dotazoval se na prevenci digitálních závislostí u dětí. `[8/02:00]`
-
-**Poslankyně Berkovcová**
-- Ostře kritizovala způsob převodu financování nepedagogického personálu na zřizovatele, který označila za „bombu“, provedenou bez analýzy dopadů a v době schvalování obecních rozpočů. `[8/04:00]`
-
-**Poslanec Fiala (bývalý premiér)**
-- Obhájil proces převodu nepedagogického personálu, tvrdil, že příprava trvala rok a proběhla v diskuzích s řediteli a zřizovateli. `[9/02:00]`
-
-**Poslankyně Hofmanová**
-- Uvedla, že přestože byla komunikace při převodu nepedagogů špatná a zřizovatelé byli zmatení, samotné rozhodnutí o převodu bylo správné. `[10/01:00]`
-
-**Poslanec Gregor**
-- Zpochybnil zásluhy poslankyně Hofmanové při organizaci školství ve Vítkovicích a zdůraznil roli místních úředníků a ředitelů. `[10/02:00]`
-
-**Ředitel Křeček**
-- Vysvětlil financování programu „Prstenec 2“ (program 640), kde bylo v loňském roce vydáno 1,5 mld. Kč navzdory rozpočtu 630 mil. Kč díky využití úspor. `[10/04:00]`
+---
 
 ## 3. Výsledek / závěr
-Výbor schválil závěrečné účty za rok 2025 pro Národní sportovní agenturu, Akademii věd ČR, Technologickou agenturu ČR, Grantovou agenturu ČR a Ministerstvo školství, mládeže a sportu. Návrh poslankyně Zajíčkové na zvýšení transparentnosti evidence dotací NSA nebyl přijat. Další schůze výboru byla stanovena na 10. června 2026 v 10:00.
+
+Výbor schválil státní závěrečné účty pro všechny projednávané kapitoly (NSA, AV ČR, TA ČR, GA ČR, MŠMT) a zmocnil zpravodaje k tlumočení těchto usnesení na jednání Rozpočtového výboru dne 10. června 2026. Návrh usnesení Renaty Zajíčkové na transparentnější evidenci dotací v NSA nebyl přijat (7 pro, 11 se zdrželo).
+
+---
 
 ## 4. Poznámky
-V přepisu dochází k několika rozporům v číslech (např. u příjmů NSA v části 1 je zmíněna částka 25 miliard, zatímco v prezentaci Karla Kováře 8 milionů; pravděpodobně jde o chybu v automatickém přepisu).
+
+Přepis obsahuje četné technické chyby, opakující se fráze („Představující se na výboru...“) a místy nesrozumitelné pasáže způsobené automatickým přepisem. Časové značky a jména řečníků byly identifikovány na základě kontextu.
 
 ---
 
 ## Doplňující otázky
 
-- **Kontroverzní téma: Převod financování nepedagogického personálu**
-  - **Kdo:** Poslankyně Berkovcová, Poslanec Fiala, Ministr Robert Plaga.
-  - **Co přesně:** Diskuse o změně způsobu financování nepedagogických pracovníků ve školách, kdy byla zodpovědnost a financování přesunuto z ministerstva na zřizovatele (obce a kraje).
-  - **Proč je to kontroverzní:** Opozice (Berkovcová) tvrdí, že změna byla oznámena pozdě, bez analýzy dopadů a s nedostatečným finančním krytím, což vyvolalo chaos v rozpočtech obcí. Ministr Plaga přiznal chybu v komunikaci, zatímco poslanec Fiala proces bránil jako řádně připravený.
-  - **Čas:** `8/04:00` až `10/02:00`
+*   **Kontroverze: Převod financování nepedagogických pracovníků**
+    *   **Kdo:** Jana Berkovcová (ANO) vs. Petr Fiala (ODS) a Robert Plaga (ministr).
+    *   **Co:** Kritika netransparentního a nepřipraveného převodu financování nepedagogů na obce/kraje.
+    *   **Proč:** Politicky citlivé téma, které způsobilo rozpočtovou nejistotu v obcích a školách.
+    *   **Čas:** 8/06:01, 9/04:04.
 
 ---
 
 ## Klíčové citace pro veřejnost
 
-- **Text:** „Institucionální financování tvoří pouze 30 % celkových výnosů institucí, zatímco v Německu či Francii je to 80 až 85 %, což je hlavní problém české vědy.“ (parafráze)
-- **Řečník:** Radomír Pánek (Akademie věd ČR)
-- **Čas:** `1/15:00`
-
-- **Text:** „Nominální rozpočet GAČR od roku 2017 vzrostl o 14 %, ale reálný rozpočet, tedy kupní síla, klesl o 35 %.“ (parafráze)
-- **Řečník:** Milan Jirsa (Grantová agentura ČR)
-- **Čas:** `6/02:00`
-
-- **Text:** „Na platy a personální náklady v rámci MŠMT bylo vynaloženo 158 miliard korun pro 283 000 lidí.“ (parafráze)
-- **Řečník:** Robert Plaga (Ministerstvo školství, mládeže a sportu)
-- **Čas:** `7/05:00`
+*   „Reálný rozpočet Grantové agentury v přepočtu na kupní sílu od roku 2017 klesl o 35 %.“ (Parafráze, Milan Jirsa, GA ČR, 6/00:01)
+*   „Akademie věd ČR se v žebříčku Nature Index nachází na 16. místě na světě.“ (Parafráze, Radomír Pánek, AV ČR, 4/02:07)
+*   „Celkové výdaje Ministerstva školství v roce 2025 činily 308,4 miliardy korun.“ (Parafráze, Robert Plaga, MŠMT, 8/00:01)
+*   „Institucionální prostředky v roce 2025 představovaly pouze 3,11 % objemu prostředků Grantové agentury.“ (Parafráze, Milan Jirsa, GA ČR, 6/00:01)
 
 ---
 
@@ -162,9 +72,69 @@ V přepisu dochází k několika rozporům v číslech (např. u příjmů NSA v
     "model": "whisper-large-v3"
   },
   "summary": {
-    "topic": "Jednání bylo věnováno projednání a schvalování závěrečných účtů za rok 2025 u několika klíčových institucí a agentur v oblasti vědy, sportu a vzdělání. Cílem bylo posoudit hospodaření Národní sportovní agentury (NSA), Akademie věd ČR (AV ČR), Technologické agentury ČR (TA ČR), Grantové agentury ČR (GAČR) a Ministerstva školství, mládeže a sportu (MŠMT).\n\nKromě formálního schvalování čísel se výbor zaměřil na systémové problémy financování české vědy, efektivitu grantových programů a kontroverzní změny v financování nepedagogického personálu ve školství.",
+    "topic": "Pátá schůze Výboru pro vědu, vzdělávání, mládež a sport se konala 26. května 2026. Hlavním účelem jednání bylo projednání státních závěrečných účtů za rok 2025 pro klíčové kapitoly v gesci výboru, konkrétně Národní sportovní agenturu, Akademii věd ČR, Technologickou agenturu ČR, Grantovou agenturu ČR a Ministerstvo školství, mládeže a tělovýchovy.\n\nCílem jednání bylo zhodnotit hospodaření těchto institucí v uplynulém roce, ověřit plnění rozpočtových ukazatelů a připravit podklady pro Rozpočtový výbor Poslanecké sněmovny. Součástí jednání byla i politická debata o systémových změnách ve financování školství, zejména o převodu financování nepedagogických pracovníků na zřizovatele.",
     "main_points": [
-      "**Předseda výboru (neidentifikovaný)**\n- Zajišťoval průběh jednání, schvaloval program a koordinoval hlasování nad usneseními.\n- Informoval o termínu projednávání usnesení v rozpočtovém výboru (10. června v 10:00).\n- Řešil administrativní otázky ohledně formy pozvánek (papírové vs. digitální).",
-      "**Karel Kovář (Národní sportovní agentura)**\n- Prezentoval závěrečný účet 2025: výdaje 7 908 995 000 Kč, celkové vyčerpání na 102,57 %.\n- Rozdělení prostředků: rozvoj sportu (4,9 mld. Kč), reprezentace a talentovaná mládež (2,283 mld. Kč), významné akce (537 mil. Kč).\n- Uvedl průměrné platy: zaměstnanci v pracovním poměru 50 712 Kč, služební místa 58 491 Kč.\n- Informoval o provedení 114 kontrol dotací v objemu 769 milionů Kč. `[1/04:00]`",
-      "**Poslankyně Renata Zajíčková**\n- Upozornila na přesun 160 milionů Kč z rozvoje sportu na platy soudců (nález Ústavního soudu).\n- Navrhla do usnesení požadavek na transparentnější evidenci prostředků poskytovaných NSA regionům a svazům (návrh však nebyl přijat). `[1/08:00]`",
-      "**Radomír Pánek (Akademie věd ČR)**\n- Uvedl, že konečný rozpo
+      "**Karel Kovář (NSA)** — Prezentoval hospodaření NSA za rok 2025. Celkové výdaje činily 7,947 mld. Kč. `[1/06:01]`",
+      "**Renata Zajíčková (ODS)** — Zpravodajka k NSA. Upozornila na přesun 160 mil. Kč do kapitoly Ministerstva spravedlnosti. `[2/04:02]`",
+      "**Radomír Pánek (AV ČR)** — Uvedl, že AV ČR hospodařila s 7,861 mld. Kč. Zdůraznil, že institucionální zdroje tvoří pouze 30 % rozpočtu. `[3/04:07]`",
+      "**Petr Sklenička (TA ČR)** — Informoval o čerpání rozpočtu a příjmech z EU (přes 1,5 mld. Kč). `[4/08:07]`",
+      "**Milan Jirsa (GA ČR)** — Uvedl, že GA ČR podpořila 1 488 projektů. Upozornil na pokles reálného rozpočtu o 35 % od roku 2017. `[5/06:02]`",
+      "**Robert Plaga (MŠMT)** — Představil závěrečný účet MŠMT (308,4 mld. Kč). `[8/00:01]`",
+      "**Jana Berkovcová (ANO)** — Kritizovala převod financování nepedagogických pracovníků jako nedostatečně připravený. `[8/06:01]`",
+      "**Petr Fiala (ODS)** — Obhajoval převod nepedagogických pracovníků jako nezbytný systémový krok. `[9/04:04]`"
+    ],
+    "outcome": "Výbor schválil státní závěrečné účty pro všechny projednávané kapitoly (NSA, AV ČR, TA ČR, GA ČR, MŠMT) a zmocnil zpravodaje k tlumočení těchto usnesení na jednání Rozpočtového výboru dne 10. června 2026.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a místy nesrozumitelné pasáže způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {"name": "Karel Kovář", "person_id": null, "affiliation": "Národní sportovní agentura"},
+      {"name": "Renata Zajíčková", "person_id": null, "affiliation": "ODS"},
+      {"name": "Radomír Pánek", "person_id": null, "affiliation": "Akademie věd ČR"},
+      {"name": "Petr Sklenička", "person_id": null, "affiliation": "Technologická agentura ČR"},
+      {"name": "Milan Jirsa", "person_id": null, "affiliation": "Grantová agentura ČR"},
+      {"name": "Robert Plaga", "person_id": null, "affiliation": "MŠMT"},
+      {"name": "Jana Berkovcová", "person_id": null, "affiliation": "ANO"},
+      {"name": "Petr Fiala", "person_id": null, "affiliation": "ODS"}
+    ],
+    "parties": ["ODS", "ANO"],
+    "institutions": ["Národní sportovní agentura", "Akademie věd ČR", "Technologická agentura ČR", "Grantová agentura ČR", "MŠMT"]
+  },
+  "highlights": [
+    {
+      "text": "Reálný rozpočet Grantové agentury v přepočtu na kupní sílu od roku 2017 klesl o 35 %.",
+      "type": "paraphrase",
+      "speaker": "Milan Jirsa",
+      "affiliation": "Grantová agentura ČR",
+      "timestamp": "6/00:01"
+    },
+    {
+      "text": "Akademie věd ČR se v žebříčku Nature Index nachází na 16. místě na světě.",
+      "type": "paraphrase",
+      "speaker": "Radomír Pánek",
+      "affiliation": "Akademie věd ČR",
+      "timestamp": "4/02:07"
+    },
+    {
+      "text": "Celkové výdaje Ministerstva školství v roce 2025 činily 308,4 miliardy korun.",
+      "type": "paraphrase",
+      "speaker": "Robert Plaga",
+      "affiliation": "MŠMT",
+      "timestamp": "8/00:01"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika netransparentního a nepřipraveného převodu financování nepedagogů na obce/kraje ze strany Jany Berkovcové (ANO) a následná obhajoba Petra Fialy (ODS).",
+      "speaker": "Jana Berkovcová",
+      "affiliation": "ANO",
+      "timestamp": "8/06:01"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
+```
