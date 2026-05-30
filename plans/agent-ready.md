@@ -28,17 +28,17 @@ Explicitly allows: GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot, anthropic-ai
 Already created at `web/public/robots.txt`.
 
 ### ✅ `/SKILL.md`
-Full capability and data format reference for agents. Already created at repo root `SKILL.md`.  
-Copy or symlink to `web/public/SKILL.md` so it's served at the root URL.
+Full capability and data format reference for agents. Created at repo root `SKILL.md` and copied to `web/public/SKILL.md` — served at `/digest/SKILL.md`.
 
-### `/sitemap.xml`
+### ⬜ `/sitemap.xml`
 Generated at Next.js build time from all `summaries/json/*.json` files.  
-Include: `/events/[id]`, `/speakers/[id]`, `/events`, `/speakers`.  
-Add `<lastmod>` from `summary.created_at`.
+Include: `/events/[id]`, `/events`, homepage.  
+Add `<lastmod>` from `summary.created_at`.  
+**High priority — directly improves isitagentready.com score.**
 
 ---
 
-## Layer 2 — Structured Data / JSON-LD (per page)
+## Layer 2 — Structured Data / JSON-LD (per page) ⬜ HIGH PRIORITY (isitagentready.com)
 
 Add `<script type="application/ld+json">` blocks to every page. This is how AI search engines classify pages as structured data sources rather than blog posts.
 
@@ -174,13 +174,20 @@ When live: update `mcp_url` in `/.well-known/mcp-server-card.json`.
 
 ## Layer 6 — Validation & submission
 
-- [ ] Run https://isitagentready.com/ against the deployed URL
+- [x] Run https://isitagentready.com/ — currently **50%** (2026-05-30)
 - [ ] Validate JSON-LD: https://validator.schema.org/
-- [ ] Test `llms.txt` is reachable and parses correctly
-- [ ] Test `.well-known/mcp-server-card.json` returns valid JSON with correct Content-Type
+- [x] Test `llms.txt` is reachable — ✅ `/digest/llms.txt`
+- [x] Test `.well-known/mcp-server-card.json` returns valid JSON — ✅
 - [ ] Submit sitemap to Google Search Console
 - [ ] Submit sitemap to Bing Webmaster Tools
 - [ ] Submit MCP URL to Glama.ai (Phase 5)
+
+### What moves isitagentready.com score (currently 50%)
+The likely missing checks (based on common scoring criteria):
+1. **`/sitemap.xml`** — almost certainly checked ⬜
+2. **JSON-LD structured data** on pages — almost certainly checked ⬜
+3. **`/llms-full.txt`** (full content variant) — may be checked ⬜
+4. **canonical `<link rel="canonical">`** — verify present ⬜
 
 ---
 

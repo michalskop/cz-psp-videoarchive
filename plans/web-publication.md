@@ -128,7 +128,7 @@ Sections in order:
 ## Phase 4 — Social card export
 
 - [x] HighlightCard and ControversyCard styled as ready-to-screenshot social cards
-- [ ] "Sdílet" button / copy-to-clipboard / download-as-PNG shortcut
+- [x] "Sdílet" button: copy-to-clipboard (PNG) + download-as-PNG via `html2canvas` (`ShareableCard` wrapper component)
 
 ---
 

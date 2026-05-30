@@ -14,6 +14,7 @@ import { QualityBadge } from "../../components/QualityBadge";
 import { HighlightCard } from "../../components/HighlightCard";
 import { ControversyCard } from "../../components/ControversyCard";
 import { RenderMd } from "../../components/RenderMd";
+import { ShareableCard } from "../../components/ShareCardButton";
 
 function VideoLink({
   url,
@@ -191,12 +192,14 @@ export default async function EventPage({ params }: Props) {
               const vlink = videoDeepLink(s.event.video_parts, h.timestamp);
               return (
                 <div key={i} className="flex flex-col gap-2">
-                  <HighlightCard
-                    highlight={h}
-                    eventName={s.event.name}
-                    category={s.event.classification}
-                    date={s.event.start_date}
-                  />
+                  <ShareableCard filename={`citace-${s.event.id}-${i + 1}`}>
+                    <HighlightCard
+                      highlight={h}
+                      eventName={s.event.name}
+                      category={s.event.classification}
+                      date={s.event.start_date}
+                    />
+                  </ShareableCard>
                   {/* Type tag + optional video link */}
                   <div className="flex flex-wrap items-center gap-2 ml-1.5">
                     <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded-badge text-muted-foreground">
@@ -233,12 +236,14 @@ export default async function EventPage({ params }: Props) {
               const vlink = videoDeepLink(s.event.video_parts, c.timestamp);
               return (
                 <div key={i} className="flex flex-col gap-2">
-                  <ControversyCard
-                    item={c}
-                    eventName={s.event.name}
-                    category={s.event.classification}
-                    date={s.event.start_date}
-                  />
+                  <ShareableCard filename={`kontroverze-${s.event.id}-${i + 1}`}>
+                    <ControversyCard
+                      item={c}
+                      eventName={s.event.name}
+                      category={s.event.classification}
+                      date={s.event.start_date}
+                    />
+                  </ShareableCard>
                   {vlink && c.timestamp && (
                     <div className="ml-1.5">
                       <VideoLink url={vlink} timestamp={c.timestamp} />
