@@ -1,7 +1,24 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { getAllSummaries, formatDate, firstThumbnail } from "@/lib/summaries";
 import { CategoryBadge } from "./components/CategoryBadge";
+
+export const metadata: Metadata = {
+  title: "Sněmovna Digest | Sněmovna.DataTimes.cz",
+  description:
+    "Strukturované souhrny akcí Poslanecké sněmovny ČR — semináře, konference, výbory. Přepisy a souhrny zpracovány pomocí AI.",
+  openGraph: {
+    title: "Sněmovna Digest — Přepisy a souhrny akcí PSP",
+    description:
+      "Strukturované souhrny akcí Poslanecké sněmovny ČR — semináře, konference, výbory. Přepisy a souhrny zpracovány pomocí AI.",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Sněmovna Digest — Přepisy a souhrny akcí PSP",
+  },
+};
 
 export default function HomePage() {
   const all = getAllSummaries();
@@ -21,7 +38,7 @@ export default function HomePage() {
         <div className="mt-4">
           <Link
             href="/events"
-            className="inline-block bg-brand-6 text-surface-0 font-sans font-medium text-sm px-4 py-2 rounded hover:bg-brand-7 transition-colors"
+            className="inline-block bg-brand-6 text-surface-0 font-sans font-medium text-sm px-4 py-2 rounded-badge hover:bg-brand-7 transition-colors"
           >
             Všechny akce →
           </Link>
@@ -39,10 +56,10 @@ export default function HomePage() {
               <Link
                 key={s.event.id}
                 href={`/events/${s.event.id}`}
-                className="flex gap-3 bg-surface-0 border border-border rounded-lg p-4 hover:border-brand-6 transition-colors group"
+                className="flex gap-3 bg-surface-0 border border-border rounded-badge-lg p-4 hover:border-brand-6 hover:shadow-md transition-all group"
               >
                 {thumb && (
-                  <div className="flex-shrink-0 w-24 h-16 rounded overflow-hidden bg-surface-3">
+                  <div className="flex-shrink-0 w-24 h-16 rounded-badge overflow-hidden bg-surface-3">
                     <Image
                       src={thumb}
                       alt=""
