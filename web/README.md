@@ -31,6 +31,11 @@ and deploys to GitHub Pages.
 
 For production (Stage 2 Vercel), set `NEXT_PUBLIC_BASE_PATH=/digest`.
 
+## Design
+
+Design system is documented in the parent project:
+[legislature-dashboard/docs/design.md](https://github.com/michalskop/legislature-dashboard/blob/main/docs/design.md#sněmovna-digest-digest)
+
 ## Stack
 
 - Next.js App Router, `output: "export"` (static)
