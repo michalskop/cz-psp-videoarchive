@@ -4,6 +4,7 @@ import "./globals.css";
 import { SiteHeader } from "./components/SiteHeader";
 import { SiteFooter } from "./components/SiteFooter";
 import { MatomoScript, MatomoNoscript } from "./components/MatomoScript";
+import { WebMCP } from "./components/WebMCP";
 
 const BASE_URL = "https://snemovna.datatimes.cz";
 const MATOMO = { url: "//matomo.kohovolit.eu/", siteId: "2" };
@@ -48,6 +49,7 @@ export default function RootLayout({
         <Suspense>
           <MatomoScript {...MATOMO} />
         </Suspense>
+        <WebMCP />
       </body>
     </html>
   );

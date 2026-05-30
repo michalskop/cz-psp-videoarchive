@@ -12,33 +12,44 @@ Goal: make the Sněmovna Digest fully discoverable and usable by AI agents — f
 
 ## Layer 1 — Discovery (static, deploy with the site)
 
-These files go in `web/public/` and are served at the root domain.
+Root-domain files (`snemovna.datatimes.cz/...`) live in `legislature-dashboard/apps/cz-psp/public/`.  
+Digest-scoped files (`snemovna.datatimes.cz/digest/...`) live in `web/public/`.  
+See `web/public/.well-known/README.md` and `legislature-dashboard/apps/cz-psp/public/.well-known/README.md` for ownership map.
 
-### ✅ `/.well-known/mcp-server-card.json`
-Auto-discovery card per SEP-2127. Already created at `web/public/.well-known/mcp-server-card.json`.  
-Update `site_url` and `data_url` when the real domain is known.  
-`mcp_url` is `null` until a live MCP server exists (Phase 4 below).
+### ✅ `/.well-known/mcp/server-card.json`
+MCP Server Card per SEP-1649 (new canonical path). Lives in `legislature-dashboard/apps/cz-psp/public/.well-known/mcp/server-card.json`.  
+Uses `serverInfo.name` nested format required by SEP-1649 checker.  
+`transport: null` until a live MCP server exists (Layer 5 below).  
+Old path `/.well-known/mcp-server-card.json` kept at `/digest/.well-known/mcp-server-card.json` for backward compat.
+
+### ✅ `/.well-known/api-catalog`
+RFC 9727 API catalog. Lives in `legislature-dashboard/apps/cz-psp/public/.well-known/api-catalog`.  
+References digest's `summary.schema.json`, `llms.txt`, and planned `/api/events.json`.
 
 ### ✅ `/llms.txt`
-Structured cheat sheet for answer engines. Already created at `web/public/llms.txt`.  
+Structured cheat sheet for answer engines. `web/public/llms.txt` → served at `/digest/llms.txt`.  
 Keep in sync with actual routes and data format as the site evolves.
 
 ### ✅ `/robots.txt`
 Explicitly allows: GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot, anthropic-ai.  
-Already created at `web/public/robots.txt`.
+`web/public/robots.txt` — references `/digest/sitemap.xml`.
 
 ### ✅ `/SKILL.md`
-Full capability and data format reference for agents. Created at repo root `SKILL.md` and copied to `web/public/SKILL.md` — served at `/digest/SKILL.md`.
+Full capability and data format reference for agents. `web/public/SKILL.md` → served at `/digest/SKILL.md`.
 
-### ⬜ `/sitemap.xml`
-Generated at Next.js build time from all `summaries/json/*.json` files.  
-Include: `/events/[id]`, `/events`, homepage.  
-Add `<lastmod>` from `summary.created_at`.  
-**High priority — directly improves isitagentready.com score.**
+### ✅ `/sitemap.xml`
+`web/app/sitemap.ts` — generated at build time from all summary JSONs.  
+Covers homepage, `/events`, and all `/events/[id]` pages with `<lastmod>` from `created_at`.  
+Served at `/digest/sitemap.xml`, referenced in `robots.txt`.
+
+### ✅ `/auth.md`
+Explicit "no authentication required" declaration for AI agents.  
+Lives in `legislature-dashboard/apps/cz-psp/public/auth.md` → served at root `snemovna.datatimes.cz/auth.md`.  
+States all digest endpoints are publicly accessible; no API key or registration needed.
 
 ---
 
-## Layer 2 — Structured Data / JSON-LD (per page) ⬜ HIGH PRIORITY (isitagentready.com)
+## Layer 2 — Structured Data / JSON-LD (per page) ✅
 
 Add `<script type="application/ld+json">` blocks to every page. This is how AI search engines classify pages as structured data sources rather than blog posts.
 
@@ -172,28 +183,47 @@ When live: update `mcp_url` in `/.well-known/mcp-server-card.json`.
 
 ---
 
-## Layer 6 — Validation & submission
+## Layer 6 — WebMCP (browser-embedded agent tools) ✅
 
-- [x] Run https://isitagentready.com/ — currently **50%** (2026-05-30)
+Exposes site tools to browser-embedded AI agents via `navigator.modelContext.provideContext()` (Chrome experimental, WebMCP spec).
+
+Component: `web/app/components/WebMCP.tsx` — loaded in `web/app/layout.tsx` (all pages).  
+Graceful no-op if API unavailable.
+
+### Tools exposed
+
+| Tool | Input | Output |
+|------|-------|--------|
+| `list_events` | `category?`, `limit?` | Array of event stubs from `/digest/api/events.json` |
+| `get_event_summary` | `id` | JSON-LD structured data extracted from event page |
+
+### Static API required
+`web/app/api/events.json/route.ts` — generated at build time.  
+Returns: `[{ id, name, date, category, quality, topic, highlights, controversies, url }]`  
+Served at `/digest/api/events.json`.
+
+---
+
+## Layer 7 — Validation & submission
+
+- [x] Run https://isitagentready.com/ — **64%** (2026-05-31, up from 50%)
 - [ ] Validate JSON-LD: https://validator.schema.org/
-- [x] Test `llms.txt` is reachable — ✅ `/digest/llms.txt`
-- [x] Test `.well-known/mcp-server-card.json` returns valid JSON — ✅
+- [x] Test `llms.txt` reachable ✅
+- [x] Test `.well-known/mcp/server-card.json` valid JSON ✅
 - [ ] Submit sitemap to Google Search Console
 - [ ] Submit sitemap to Bing Webmaster Tools
-- [ ] Submit MCP URL to Glama.ai (Phase 5)
+- [ ] Submit MCP URL to Glama.ai (Layer 5)
 
-### What moves isitagentready.com score (currently 50%)
-The likely missing checks (based on common scoring criteria):
-1. **`/sitemap.xml`** — almost certainly checked ⬜
-2. **JSON-LD structured data** on pages — almost certainly checked ⬜
-3. **`/llms-full.txt`** (full content variant) — may be checked ⬜
-4. **canonical `<link rel="canonical">`** — verify present ⬜
+### Remaining isitagentready.com gaps (64% → ?)
+- **DNS-AID** — blocked: DNS provider doesn't support HTTPS/SVCB record types ⬜
+- **OAuth/OIDC, auth.md** — not applicable (fully public read-only site) ✅ handled by `/auth.md`
+- **WebMCP** — implemented ✅
 
 ---
 
 ## Implementation order
 
-1. **With Phase 1 (MVP site launch):** Layers 1–3 — discovery files, JSON-LD, semantic HTML
-2. **With Phase 2 (speaker index):** Layer 4 — static API JSON endpoints  
+1. **With Phase 1 (MVP site launch):** Layers 1–3 — discovery files, JSON-LD, semantic HTML ✅
+2. **With Phase 2 (speaker index):** Layer 4 — static API JSON endpoints (partially done: `/api/events.json`)
 3. **With Phase 3 (search):** Layer 5 (MCP search tool, requires Vercel)
-4. **Ongoing:** Layer 6 validation after each deploy
+4. **Ongoing:** Layer 7 validation after each deploy
