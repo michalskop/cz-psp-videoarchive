@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-05-30T02:27:14",
+  "model_hint": "gemma-4-31b-it",
+  "event": {
+    "id": "2954",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-05-29T08:40",
+    "end_date": "2026-05-29T08:59",
+    "sources": [
+      "final/event_2954_2026-05-29_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5358_video-psp-2026529-840-53-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána k vyjádření postoje Pirátů k projednávanému **zákonu o podpoře bydlení** (v rámci reformy „Bydlení pro život“), který se nachází ve třetím čtení. Hlavním cílem bylo kritika vládního přístupu k tomuto zákonu, který Piráti vnímají jako „osekaný“ a vykostěný z původních preventivních prvků.\n\nKromě hlavního tématu bydlení řečily zástupci strany také svůj postoj k **stavebnímu zákonu** a reagovali na aktuální bezpečnostní situaci v **Rumunsku** v souvislosti s ruskými drony.",
+    "main_points": [
+      "**Olga Richterová (místopředsedkyně Pirátů)** — [1/00:30] Zdůraznila, že původním smyslem zákona o podpoře bydlení měla být **prevence**, aby lidé nekončili na ulici nebo ubytovnách, nikoliv pouze poskytování sociální dávky v krajní nouzi. Navrhovaný systém zahrnoval kontaktní místa bydlení v obcích s rozšířenou působností, asistenci bydlení a systém garancí pro majitele bytů, což by mělo uvolnit tisíce prázdných bytů na trh. Odkázala na více než 70 pilotních projektů a odborné výpočty (např. ekonoma Daniela Münicha), které potvrzují, že investice do prevence se státu finančně vrátí. Uvedla, že Piráti předložili pozměňovací návrhy (konkrétně návrhy Veroniky Kovářové), které by mohly pomoci rozšířit skupinu lidí s přístupem k pomoci.",
+      "**Lenka Martinková Španihlová (poslankyně Pirátů)** — [1/03:00] Upozornila na rozdíl v rozsahu pomoci: Zatímco **1,6 milionu lidí** je v ČR ohroženo ztrátou bydlení, vládní návrh počítá s pomocí pouze pro **180 000 obyvatel**, kteří jsou již v bytové nouzi. Kritizovala vládní kroky jako celkovou neschopnost: chaos s tzv. „super dávkou“, nestavba bytů, na které byly zajištěny peníze, a zrušení Agentury pro sociální začleňování. Ostře kritizovala plán, podle kterého by finální přidělování bytů měl provádět **Úřad práce**. Argumentovala, že Úřad práce je přetížený, nemá odbornost na bytovou politiku a není složen ze sociálních pracovníků, což může celý systém zablokovat.",
+      "**Zdeněk Hřib (předseda Pirátů)** — [1/05:00] **Ekonomické dopady:** Uvedl, že situace, kdy lidé propadají do bytové nouze, stojí stát přibližně **4 miliardy korun ročně**. **Efektivita prevence:** Podle analýz by se preventivní opatření zaplatila sama za **5 let**. Data z pilotních projektů ukazují, že 80–90 % rodin si díky včasné pomoci bydlení dlouhodobě udrží. **Prázdné byty:** V ČR existuje 100–200 tisíc prázdných bytů; systém garancí pro majitele by mohl zajistit až **3 000 nových nájemních bytů**. **Stavební zákon:** Nazval vládní návrh „tisícistránkovým legislativním paskvilem“ a „babišovským chaosem“. Piráti navrhují změny v oblasti výsadby stromů, modrozelené infrastruktury a zón zrychlené výstavby bydlení. **Bezpečnost (Rumunsko):** V reakci na pád ruského dronu v Rumunsku navrhl vytvoření účinné protidronové obrany na východní hranici EU, financované ze společných evropských prostředků, aby menší státy nenesly ekonomickou zátěž ruských provokací. **Akční plán:** Zmínil spuštění webu `bydleni.pirati.cz` s desetistupňovým plánem na řešení dostupnosti bydlení."
+    ],
+    "outcome": "Poslanecký klub Pirátů oznámil, že **vládní verzi zákona o podpoře bydlení nepodpoří**. Hlavním důvodem je přesun kompetencí pro přidělování bytů na Úřady práce, což vnímají jako kritickou chybu, která znemožní funkčnost celého systému. I v případě přijetí některých jejich pozměňovacích návrhů zůstává tento bod nepřekonatelnou překážkou.",
+    "notes": "Přepis je v obecně srozumitelném stavu, s drobnými chybami v přepsaných jménech (např. „Španihelová“ vs „Martinková Španihlová“), které byly v shrnutí sjednoceny."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Lenka Martinková Španihlová",
+        "person_id": "psp:person:7023",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Úřad práce",
+      "Agentura pro sociální začleňování"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V České republice je dnes ztrátou bydlení ohroženo 1,6 milionu lidí. Návrh vlády nyní počítá s pomocí jen pro 180 000 obyvatel.",
+      "type": "paraphrase",
+      "speaker": "Lenka Martinková Španihlová",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2954_highlight_00.jpg",
+      "context": "Číslo 1,6 milionu lidí v ohrožení ztrátou bydlení neodpovídá oficiálním statistikám ČSÚ o bezdomovectví; pravděpodobně jde o odhad založený na poměru příjmů a nákladů na bydlení. Rozsah vládní pomoci (180 000 osob) je vázán na konkrétní návrh legislativy, který lze ověřit v textu daného vládního návrhu."
+    },
+    {
+      "text": "Situace, kdy se lidé dostávají do bytové nouze, stojí zhruba čtyři miliardy korun ročně.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2954_highlight_01.jpg",
+      "context": "Jde o ekonomický odhad nákladů na řešení následků bytové nouze (např. zdravotní péče, krizové ubytování). Tato konkrétní částka není uvedena v oficiálních rozpočtových datech MF ČR jako samostatná položka a nelze ji tedy univerzálně ověřit."
+    },
+    {
+      "text": "Máme spočítáno, že ta opatření by se zaplatila sama za pět let.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:37",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2954_highlight_02.jpg",
+      "context": "Jde o predikci založenou na interních výpočtech mluvčího, nikoliv o ověřený finanční plán státu. Nelze nezávisle ověřit bez znalosti konkrétního ekonomického modelu, který byl pro tento výpočet použit."
+    },
+    {
+      "text": "Systém garancí pro majitele měl motivovat vlastníky, aby [prázdné byty] pustili na trh... mohlo by to zajistit až 3000 nových nájemních bytů.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2954_highlight_03.jpg",
+      "context": "Výrok popisuje navrhovaný mechanismus stimulace trhu s bydlením. Počet 3 000 bytů je odhadovaným potenciálem nebo cílem navrhovaného opatření, nikoliv doložitelným faktem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "- **Kontroverzní výrok:**\n  - **Kdo:** Zdeněk Hřib (Piráti)\n  - **Co přesně:** Obvinil ministryni Mrázovou z pokrytectví, že do médií „fňuká“ o těžkém životě, zatímco údajně zneužívala byt určený pro lidi v nouzi, létala na exotické dovolené a nyní „okupuje apartmán u Pařížské za erární peníze“.\n  - **Proč je to kontroverzní:** Jde o velmi osobní a agresivní útok na členku vlády, který přesahuje věcnou diskusi o zákoně a míří do oblasti osobního životního stylu a morality.\n  - **Čas:** `1/09:00`",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/09:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2954_controversy_00.jpg",
+      "context": "Jde o osobní obvinění a subjektivní tvrzení, která nejsou podložena veřejně dostupnými důkazy, judikáty nebo zprávami kontrolních orgánů. Nelze nezávisle ověřit."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
