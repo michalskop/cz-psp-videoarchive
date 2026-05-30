@@ -87,7 +87,7 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
         <div className="flex flex-wrap gap-2">
           <button
             onClick={() => setActiveCategories(new Set(categories))}
-            className={`px-3 py-1 rounded text-xs font-sans font-medium transition-colors ${
+            className={`px-3 py-1 rounded-badge text-xs font-sans font-medium transition-colors ${
               allActive
                 ? "bg-navy-9 text-surface-0"
                 : "bg-surface-2 text-muted-foreground hover:bg-surface-3"
@@ -102,7 +102,7 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
               <button
                 key={cat}
                 onClick={() => toggleCategory(cat)}
-                className={`px-3 py-1 rounded text-xs font-sans font-medium transition-colors ${
+                className={`px-3 py-1 rounded-badge text-xs font-sans font-medium transition-colors ${
                   isOn
                     ? "bg-brand-6 text-surface-0"
                     : "bg-surface-2 text-muted-foreground line-through opacity-50 hover:opacity-75"
@@ -128,7 +128,7 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
                   <h2 className="font-slab font-bold text-base text-navy-9 group-hover:text-brand-6 transition-colors">
                     {label}
                   </h2>
-                  <span className="font-sans text-xs text-muted-foreground bg-surface-2 border border-border rounded px-2 py-0.5">
+                  <span className="font-sans text-xs text-muted-foreground bg-surface-2 border border-border rounded-badge px-2 py-0.5">
                     {items.length}
                   </span>
                 </div>
@@ -145,10 +145,10 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
                       <Link
                         key={s.event.id}
                         href={`/events/${s.event.id}`}
-                        className="flex gap-3 bg-surface-0 border border-border rounded-lg p-4 hover:border-brand-6 transition-colors group"
+                        className="flex gap-3 bg-surface-0 border border-border rounded-badge-lg p-4 hover:border-brand-6 transition-colors group"
                       >
                         {thumb && (
-                          <div className="flex-shrink-0 w-24 h-16 rounded overflow-hidden bg-surface-3">
+                          <div className="flex-shrink-0 w-24 h-16 rounded-badge overflow-hidden bg-surface-3">
                             <Image
                               src={thumb}
                               alt=""
@@ -177,7 +177,7 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
                               {s.entities.speakers.slice(0, 4).map((sp, i) => (
                                 <span
                                   key={i}
-                                  className="font-sans text-xs bg-surface-2 text-muted-foreground px-2 py-0.5 rounded"
+                                  className="font-sans text-xs bg-surface-2 text-muted-foreground px-2 py-0.5 rounded-badge"
                                 >
                                   {sp.name}
                                 </span>

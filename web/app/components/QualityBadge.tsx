@@ -7,7 +7,7 @@ const STYLE = {
 export function QualityBadge({ quality }: { quality: "good" | "partial" | "poor" }) {
   const { label, cls } = STYLE[quality];
   return (
-    <span className={`inline-block px-2 py-0.5 border rounded text-xs font-sans ${cls}`}>
+    <span className={`inline-block px-2 py-0.5 border rounded-badge text-xs font-sans ${cls}`}>
       {label}
     </span>
   );

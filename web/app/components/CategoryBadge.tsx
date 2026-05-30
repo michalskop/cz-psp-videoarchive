@@ -10,7 +10,7 @@ const BADGE_STYLES: Record<string, string> = {
 export function CategoryBadge({ category }: { category: string }) {
   const style = BADGE_STYLES[category] ?? "bg-surface-6 text-foreground";
   return (
-    <span className={`inline-block px-2 py-0.5 rounded text-xs font-sans font-medium ${style}`}>
+    <span className={`inline-block px-2 py-0.5 rounded-badge text-xs font-sans font-medium ${style}`}>
       {category}
     </span>
   );

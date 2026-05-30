@@ -17,7 +17,7 @@ export function ControversyCard({ item, eventName, category, date }: Props) {
   return (
     <div
       aria-label="Kontroverzní výrok"
-      className="flex rounded-lg overflow-hidden shadow-md bg-surface-1 max-w-xl"
+      className="flex rounded-badge-lg overflow-hidden shadow-md bg-surface-1 max-w-xl"
     >
       {/* Left orange strip */}
       <div className="w-1.5 flex-shrink-0 bg-orange-6" />
@@ -43,7 +43,7 @@ export function ControversyCard({ item, eventName, category, date }: Props) {
         <div className="px-5 pt-4 pb-5 flex flex-col gap-3">
           {/* Badge */}
           <div>
-            <span className="inline-block bg-orange-6 text-surface-0 font-sans font-bold text-[10px] uppercase tracking-widest px-2.5 py-1 rounded-sm">
+            <span className="inline-block bg-orange-6 text-surface-0 font-sans font-bold text-[10px] uppercase tracking-widest px-2.5 py-1 rounded-badge-sm">
               Kontroverze · {category}
             </span>
           </div>

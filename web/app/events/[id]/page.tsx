@@ -34,7 +34,7 @@ function VideoLink({
         target="_blank"
         rel="noopener noreferrer"
         title="Přejít na videozáznam v archivu Poslanecké sněmovny"
-        className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full border border-border text-muted-foreground hover:border-teal-6 hover:text-teal-6 font-sans text-xs transition-colors whitespace-nowrap"
+        className="inline-flex items-center gap-1.5 px-3 py-1 rounded-badge border border-border text-muted-foreground hover:border-teal-6 hover:text-teal-6 font-sans text-xs transition-colors whitespace-nowrap"
       >
         ▶&nbsp;Záznam · část&nbsp;{part},&nbsp;{time}
       </a>
@@ -46,7 +46,7 @@ function VideoLink({
       target="_blank"
       rel="noopener noreferrer"
       title="Přejít na videozáznam v archivu Poslanecké sněmovny"
-      className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-teal-0 border border-teal-6 text-teal-7 hover:bg-teal-6 hover:text-white font-sans text-xs font-semibold transition-colors whitespace-nowrap"
+      className="inline-flex items-center gap-1.5 px-3 py-1 rounded-badge bg-teal-0 border border-teal-6 text-teal-7 hover:bg-teal-6 hover:text-white font-sans text-xs font-semibold transition-colors whitespace-nowrap"
     >
       ▶&nbsp;Záznam · část&nbsp;{part},&nbsp;{time}
     </a>
@@ -106,12 +106,12 @@ export default async function EventPage({ params }: Props) {
           <CategoryBadge category={s.event.classification} />
           <QualityBadge quality={quality} />
           {highlightCount > 0 && (
-            <span className="font-sans text-xs text-brand-6 border border-brand-6 rounded px-2 py-0.5">
+            <span className="font-sans text-xs text-brand-6 border border-brand-6 rounded-badge px-2 py-0.5">
               {pluralCitace(highlightCount)}
             </span>
           )}
           {controversyCount > 0 && (
-            <span className="font-sans text-xs text-orange-6 border border-orange-6 rounded px-2 py-0.5">
+            <span className="font-sans text-xs text-orange-6 border border-orange-6 rounded-badge px-2 py-0.5">
               {pluralKontroverze(controversyCount)}
             </span>
           )}
@@ -126,7 +126,7 @@ export default async function EventPage({ params }: Props) {
             {s.entities.speakers.map((sp, i) => (
               <span
                 key={i}
-                className="font-sans text-xs bg-surface-2 border border-border text-foreground px-2 py-1 rounded"
+                className="font-sans text-xs bg-surface-2 border border-border text-foreground px-2 py-1 rounded-badge"
               >
                 {sp.name}
                 {sp.affiliation && (
@@ -199,7 +199,7 @@ export default async function EventPage({ params }: Props) {
                   />
                   {/* Type tag + optional video link */}
                   <div className="flex flex-wrap items-center gap-2 ml-1.5">
-                    <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded text-muted-foreground">
+                    <span className="font-sans text-xs px-1.5 py-0.5 bg-surface-2 border border-border rounded-badge text-muted-foreground">
                       {h.type === "citation" ? "citace" : "parafráze"}
                     </span>
                     {vlink && h.timestamp && (
