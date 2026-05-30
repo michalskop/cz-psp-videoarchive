@@ -15,10 +15,31 @@ import { HighlightCard } from "../../components/HighlightCard";
 import { ControversyCard } from "../../components/ControversyCard";
 import { RenderMd } from "../../components/RenderMd";
 
-function VideoLink({ url, timestamp }: { url: string; timestamp: string }) {
+function VideoLink({
+  url,
+  timestamp,
+  subtle = false,
+}: {
+  url: string;
+  timestamp: string;
+  subtle?: boolean;
+}) {
   const slash = timestamp.indexOf("/");
   const part = slash >= 0 ? timestamp.slice(0, slash) : timestamp;
   const time = slash >= 0 ? timestamp.slice(slash + 1) : timestamp;
+  if (subtle) {
+    return (
+      <a
+        href={url}
+        target="_blank"
+        rel="noopener noreferrer"
+        title="Přejít na videozáznam v archivu Poslanecké sněmovny"
+        className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full border border-border text-muted-foreground hover:border-teal-6 hover:text-teal-6 font-sans text-xs transition-colors whitespace-nowrap"
+      >
+        ▶&nbsp;Záznam · část&nbsp;{part},&nbsp;{time}
+      </a>
+    );
+  }
   return (
     <a
       href={url}
@@ -141,8 +162,8 @@ export default async function EventPage({ params }: Props) {
                 >
                   <RenderMd text={cleanText} className="space-y-1" />
                   {vlink && timestamp && (
-                    <div className="mt-2">
-                      <VideoLink url={vlink} timestamp={timestamp} />
+                    <div className="mt-1">
+                      <VideoLink url={vlink} timestamp={timestamp} subtle />
                     </div>
                   )}
                 </li>

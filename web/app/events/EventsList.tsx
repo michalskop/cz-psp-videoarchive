@@ -27,11 +27,24 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
     [summaries]
   );
 
-  const [activeCategory, setActiveCategory] = useState<string | null>(null);
+  const [activeCategories, setActiveCategories] = useState<Set<string>>(
+    () => new Set(summaries.map((s) => s.event.classification))
+  );
 
-  const filtered = activeCategory
-    ? summaries.filter((s) => s.event.classification === activeCategory)
-    : summaries;
+  const allActive = categories.every((c) => activeCategories.has(c));
+
+  const toggleCategory = (cat: string) => {
+    setActiveCategories((prev) => {
+      const next = new Set(prev);
+      if (next.has(cat)) next.delete(cat);
+      else next.add(cat);
+      return next;
+    });
+  };
+
+  const filtered = allActive
+    ? summaries
+    : summaries.filter((s) => activeCategories.has(s.event.classification));
 
   const groups = useMemo(() => {
     const map = new Map<string, Summary[]>();
@@ -70,28 +83,29 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
           Archiv akcí PSP
         </h1>
 
-        {/* Category filter */}
+        {/* Category filter — click to hide/show a category */}
         <div className="flex flex-wrap gap-2">
           <button
-            onClick={() => setActiveCategory(null)}
+            onClick={() => setActiveCategories(new Set(categories))}
             className={`px-3 py-1 rounded text-xs font-sans font-medium transition-colors ${
-              activeCategory === null
+              allActive
                 ? "bg-navy-9 text-surface-0"
                 : "bg-surface-2 text-muted-foreground hover:bg-surface-3"
             }`}
           >
-            Vše ({summaries.length})
+            Vše ({filtered.length})
           </button>
           {categories.map((cat) => {
+            const isOn = activeCategories.has(cat);
             const count = summaries.filter((s) => s.event.classification === cat).length;
             return (
               <button
                 key={cat}
-                onClick={() => setActiveCategory(activeCategory === cat ? null : cat)}
+                onClick={() => toggleCategory(cat)}
                 className={`px-3 py-1 rounded text-xs font-sans font-medium transition-colors ${
-                  activeCategory === cat
+                  isOn
                     ? "bg-brand-6 text-surface-0"
-                    : "bg-surface-2 text-muted-foreground hover:bg-surface-3"
+                    : "bg-surface-2 text-muted-foreground line-through opacity-50 hover:opacity-75"
                 }`}
               >
                 {cat} ({count})
