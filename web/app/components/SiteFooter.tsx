@@ -24,6 +24,8 @@ function FooterLink({ href, children }: { href: string; children: React.ReactNod
   );
 }
 
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export function SiteFooter() {
   return (
     <footer className="w-full border-t border-border bg-surface-0 mt-auto">
@@ -39,9 +41,9 @@ export function SiteFooter() {
         </div>
 
         <FooterSection title="Data">
-          <FooterLink href="/llms.txt">llms.txt</FooterLink>
-          <FooterLink href="/summary.schema.json">JSON schéma</FooterLink>
-          <FooterLink href="/SKILL.md">SKILL.md</FooterLink>
+          <FooterLink href={`${BASE}/llms.txt`}>llms.txt</FooterLink>
+          <FooterLink href={`${BASE}/summary.schema.json`}>JSON schéma</FooterLink>
+          <FooterLink href={`${BASE}/SKILL.md`}>SKILL.md</FooterLink>
         </FooterSection>
 
         <FooterSection title="Projekty">
