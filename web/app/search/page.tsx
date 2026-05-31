@@ -2,11 +2,11 @@
 
 import { useState, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
-import type { Metadata } from "next";
 
 // Pagefind is a static asset generated at build time — not a bundled module.
 // webpackIgnore tells the bundler to skip it and let the browser resolve it at runtime.
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+const LOAD_TIMEOUT = 10;
 
 interface PFResult {
   url: string;
@@ -19,6 +19,8 @@ export default function SearchPage() {
   const [results, setResults] = useState<PFResult[]>([]);
   const [loading, setLoading] = useState(false);
   const [ready, setReady] = useState(false);
+  const [countdown, setCountdown] = useState(LOAD_TIMEOUT);
+  const [timedOut, setTimedOut] = useState(false);
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const pf = useRef<any>(null);
 
@@ -36,11 +38,22 @@ export default function SearchPage() {
         await pf.current.init();
         setReady(true);
       } catch {
-        // Not available in dev mode or before first build
+        setTimedOut(true);
       }
     };
     load();
   }, []);
+
+  // Countdown while loading, stops when ready or timed out
+  useEffect(() => {
+    if (ready || timedOut) return;
+    if (countdown <= 0) {
+      setTimedOut(true);
+      return;
+    }
+    const t = setTimeout(() => setCountdown((c) => c - 1), 1000);
+    return () => clearTimeout(t);
+  }, [countdown, ready, timedOut]);
 
   const runSearch = useCallback(async (q: string) => {
     if (!pf.current || !q.trim()) {
@@ -73,15 +86,21 @@ export default function SearchPage() {
         type="search"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        placeholder={ready ? "Hledat v souhrnnech akcí PSP…" : "Načítání vyhledávání…"}
+        placeholder={ready ? "Hledat v souhrnnech akcí PSP…" : "Načítání…"}
         disabled={!ready}
-        className="w-full font-sans text-base border border-border rounded-lg px-4 py-2.5 mb-6 focus:outline-none focus:ring-2 focus:ring-teal-6 bg-surface-0 text-foreground placeholder:text-muted-foreground disabled:opacity-50"
+        className="w-full font-sans text-base border border-border rounded-lg px-4 py-2.5 mb-4 focus:outline-none focus:ring-2 focus:ring-teal-6 bg-surface-0 text-foreground placeholder:text-muted-foreground disabled:opacity-50"
         autoFocus
       />
 
-      {!ready && (
+      {!ready && !timedOut && (
         <p className="font-sans text-sm text-muted-foreground">
-          Vyhledávání je dostupné na produkčním webu po sestavení.
+          Načítání vyhledávání… {countdown}
+        </p>
+      )}
+
+      {timedOut && !ready && (
+        <p className="font-sans text-sm text-muted-foreground">
+          Vyhledávání není k dispozici.
         </p>
       )}
 
@@ -95,7 +114,7 @@ export default function SearchPage() {
         </p>
       )}
 
-      <div className="flex flex-col gap-3">
+      <div className="flex flex-col gap-3 mt-2">
         {results.map((r) => (
           <Link
             key={r.url}
