@@ -19,7 +19,7 @@ const LOAD_TIMEOUT = 10;
 
 interface PFResult {
   url: string;
-  meta: { title?: string };
+  meta: { title?: string; date?: string };
   excerpt: string;
 }
 
@@ -130,9 +130,12 @@ export default function SearchPage() {
             href={toHref(r.url)}
             className="block p-4 rounded-lg border border-border hover:border-teal-6 hover:shadow-md transition-all bg-surface-0"
           >
-            <h2 className="font-slab font-semibold text-navy-9 mb-1.5 leading-snug">
+            <h2 className="font-slab font-semibold text-navy-9 leading-snug">
               {r.meta.title ?? "Akce"}
             </h2>
+            {r.meta.date && (
+              <p className="font-sans text-xs text-muted-foreground mt-0.5 mb-1.5">{r.meta.date}</p>
+            )}
             <p
               className="font-sans text-sm text-foreground leading-relaxed search-excerpt"
               dangerouslySetInnerHTML={{ __html: r.excerpt }}

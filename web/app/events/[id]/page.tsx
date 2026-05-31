@@ -122,6 +122,9 @@ export default async function EventPage({ params }: Props) {
   return (
     <article data-pagefind-body className="max-w-3xl mx-auto px-4 py-10">
       <script type="application/ld+json" data-pagefind-ignore dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <time data-pagefind-meta="date" dateTime={s.event.start_date} className="sr-only">
+        {formatDate(s.event.start_date)}
+      </time>
       {/* Header */}
       <header data-pagefind-ignore className="mb-8">
         <div className="flex flex-wrap items-center gap-2 mb-3">
