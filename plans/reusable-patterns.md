@@ -135,7 +135,7 @@ curl -X PATCH "https://api.vercel.com/v9/projects/YOUR_PROJECT_ID" \
 
 ```bash
 NEXT_PUBLIC_BASE_PATH=/your-path npx vercel build --prod
-npx vercel deploy --prebuilt --prod
+npx vercel deploy --prebuilt --prod --archive=tgz
 ```
 
 If your site is at the root (no basePath), omit `NEXT_PUBLIC_BASE_PATH`.
@@ -169,7 +169,7 @@ if ! git diff --cached --quiet; then
 
     cd "$DIR/web"
     NEXT_PUBLIC_BASE_PATH=/your-path npx vercel build --prod
-    npx vercel deploy --prebuilt --prod
+    npx vercel deploy --prebuilt --prod --archive=tgz
     cd "$DIR"
 fi
 ```

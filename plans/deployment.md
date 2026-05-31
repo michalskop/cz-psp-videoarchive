@@ -38,7 +38,7 @@ Live at `https://michalskop.github.io/cz-psp-videoarchive/` — kept as smoke-te
 
 ```bash
 NEXT_PUBLIC_BASE_PATH=/digest npx vercel build --prod
-npx vercel deploy --prebuilt --prod
+npx vercel deploy --prebuilt --prod --archive=tgz
 ```
 
 Both steps run automatically from `pipeline.sh` whenever new summaries are committed (see below).
