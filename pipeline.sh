@@ -75,7 +75,7 @@ else
     # 6 — Rebuild and redeploy web site (only when there are new summaries)
     log "--- vercel deploy ---"
     cd "$DIR/web"
-    NEXT_PUBLIC_BASE_PATH=/digest npx vercel build --prod >> "$LOG" 2>&1
+    NEXT_PUBLIC_BASE_PATH=/digest NEXT_PUBLIC_ASSET_PREFIX=https://cz-psp-videoarchive-michalskops-projects.vercel.app npx vercel build --prod >> "$LOG" 2>&1
     npx vercel deploy --prebuilt --prod --archive=tgz >> "$LOG" 2>&1
     cd "$DIR"
     log "Web site redeployed"

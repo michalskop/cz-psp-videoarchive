@@ -37,7 +37,7 @@ Live at `https://michalskop.github.io/cz-psp-videoarchive/` — kept as smoke-te
 ### Deploy command (run from `web/`)
 
 ```bash
-NEXT_PUBLIC_BASE_PATH=/digest npx vercel build --prod
+NEXT_PUBLIC_BASE_PATH=/digest NEXT_PUBLIC_ASSET_PREFIX=https://cz-psp-videoarchive-michalskops-projects.vercel.app npx vercel build --prod
 npx vercel deploy --prebuilt --prod --archive=tgz
 ```
 
