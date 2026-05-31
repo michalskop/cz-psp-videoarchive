@@ -6,6 +6,15 @@ import Link from "next/link";
 // Pagefind is a static asset generated at build time — not a bundled module.
 // webpackIgnore tells the bundler to skip it and let the browser resolve it at runtime.
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
+// Pagefind records file paths (e.g. /digest/events/2884.html or /events/2884.html).
+// Next.js Link with basePath automatically prepends BASE, so we strip any existing
+// BASE prefix and the .html extension before passing to Link.
+function toHref(url: string): string {
+  let href = url.replace(/\.html$/, "");
+  if (BASE && href.startsWith(BASE + "/")) href = href.slice(BASE.length);
+  return href;
+}
 const LOAD_TIMEOUT = 10;
 
 interface PFResult {
@@ -118,7 +127,7 @@ export default function SearchPage() {
         {results.map((r) => (
           <Link
             key={r.url}
-            href={r.url}
+            href={toHref(r.url)}
             className="block p-4 rounded-lg border border-border hover:border-teal-6 hover:shadow-md transition-all bg-surface-0"
           >
             <h2 className="font-slab font-semibold text-navy-9 mb-1.5 leading-snug">
