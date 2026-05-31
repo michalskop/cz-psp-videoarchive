@@ -25,9 +25,14 @@ export default function SearchPage() {
   useEffect(() => {
     const load = async () => {
       try {
+        // Construct an absolute URL using the page's own origin so pagefind.js
+        // loads same-origin. Without this, the import() in a cross-origin classic
+        // script resolves against the script's CDN origin, making the pagefind
+        // WebWorker cross-origin — which browsers block.
+        const origin = window.location.origin;
         // eslint-disable-next-line @typescript-eslint/ban-ts-comment
         // @ts-ignore
-        pf.current = await import(/* webpackIgnore: true */ `${BASE}/pagefind/pagefind.js`);
+        pf.current = await import(/* webpackIgnore: true */ `${origin}${BASE}/pagefind/pagefind.js`);
         await pf.current.init();
         setReady(true);
       } catch {
