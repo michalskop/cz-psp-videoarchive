@@ -248,6 +248,7 @@ Served at `/digest/api/events.json`.
 ## Implementation order
 
 1. **Phase 1 (MVP):** Layers 1–3 ✅
-2. **Phase 2 (speaker index):** Layer 4 remainder — `/api/speakers.json`, `/summaries/[id].json`
-3. **Phase 3 (search):** Layer 5 — live MCP server (requires Vercel Functions)
-4. **Ongoing:** Layer 7 validation after each deploy
+2. **Phase 3 (search):** Pagefind client-side full-text search ✅ — see `web-publication.md` Phase 3
+3. **Phase 2 (speaker index):** Layer 4 remainder — `/api/speakers.json`, `/summaries/[id].json`
+4. **Phase 5 (live MCP):** Layer 5 — live MCP server with `search_events` tool (requires Vercel Functions)
+5. **Ongoing:** Layer 7 validation after each deploy

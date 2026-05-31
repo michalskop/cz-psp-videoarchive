@@ -41,6 +41,8 @@ NEXT_PUBLIC_BASE_PATH=/digest NEXT_PUBLIC_ASSET_PREFIX=https://cz-psp-videoarchi
 npx vercel deploy --prebuilt --prod --archive=tgz
 ```
 
+`--archive=tgz` bundles all output into a single tarball upload — avoids the Vercel free tier 5000 file/day upload limit (the site exports ~2100+ files).
+
 Both steps run automatically from `pipeline.sh` whenever new summaries are committed (see below).
 
 ### Proxy setup in legislature-dashboard
@@ -83,3 +85,7 @@ When full-text search (Pagefind) or a live MCP server is added:
 | 401 on deployment URL | SSO protection enabled by default | Disabled via REST API |
 | `next build` not accepted as custom build command | Vercel requires full command | Use `npm run build` |
 | B2 images missing from html2canvas screenshots | B2 had no CORS rules | Run `set_b2_cors.py` once; CORS now configured |
+| CSS / JS 404 on production | `assetPrefix=/digest` → Vercel CDN special-cases `_next/static/` and bypasses `vercel.json` rewrites | Set `NEXT_PUBLIC_ASSET_PREFIX=https://cz-psp-videoarchive-michalskops-projects.vercel.app` — browser fetches assets directly from CDN |
+| Pagefind search broken on production | `import("/digest/pagefind/pagefind.js")` in a cross-origin classic script resolves against CDN origin → cross-origin Worker blocked by browser | Use `window.location.origin` to build the import URL, forcing same-origin load |
+| Search results URL: `/digest/digest/events/2884.html` | Pagefind records raw file path incl. basePath prefix; Next.js `<Link>` then adds basePath again | `toHref()` in search page strips existing BASE prefix and `.html` extension before passing to `<Link>` |
+| Too many upload requests (Vercel free tier) | Static export has ~2100+ files; free tier allows 5000 uploads/day | `--archive=tgz` on `vercel deploy` bundles everything into one tarball |

@@ -18,6 +18,7 @@
 - [x] `summary.schema.json` committed — schema contract between pipeline and web app
 - [x] Next.js scaffold: TypeScript, Tailwind v4, App Router, `output: "export"`
 - [x] Vercel project created, linked, SSO disabled, rootDirectory=null (see `plans/deployment.md`)
+- [x] Custom 404 page (`app/not-found.tsx`) — Czech "Stránka nebyla nalezena" with back link
 
 ---
 
@@ -88,11 +89,33 @@
 
 ---
 
-## Phase 3 — Search ⬜
+## Phase 3 — Search ✅ DONE
 
-- [ ] Client-side full-text search via [Pagefind](https://pagefind.app/) (preferred — handles Czech diacritics, build-time index) or Fuse.js
-- Index: event name + topic + main_points + speaker names
-- Enables: `search_events` MCP tool (see `plans/agent-ready.md` Layer 5)
+Full-text search via [Pagefind](https://pagefind.app/) — build-time index, browser-side WebAssembly query, no server required.
+
+### How it works
+
+1. `next build` exports static HTML to `out/`; event pages have `data-pagefind-body` on `<article>`, title in `data-pagefind-meta="title"`, boilerplate marked `data-pagefind-ignore`.
+2. `npx pagefind --site out` crawls the HTML and writes `out/pagefind/` (JS + WASM + compressed index shards).
+3. `pagefind/` is deployed alongside the site (included in Vercel prebuilt output).
+4. `app/search/page.tsx` dynamically imports `pagefind.js` at runtime using `window.location.origin` to ensure same-origin loading (required for pagefind's WebWorker).
+
+### Key implementation notes
+
+- **Same-origin load:** `import(`${window.location.origin}${BASE}/pagefind/pagefind.js`)` — avoids cross-origin Worker block when JS bundles load from a CDN domain different from the page origin.
+- **URL normalisation:** pagefind records raw file paths (e.g. `/digest/events/2884.html`). The search page strips any existing BASE prefix and `.html` extension via `toHref()` before passing to `<Link>`, which then re-adds the basePath once.
+- **Loading UX:** 10-second countdown while pagefind initialises; "Vyhledávání není k dispozici." on timeout.
+- **Czech:** Pagefind has no Czech stemmer but still matches diacritics correctly; noted in build output.
+
+### Files
+
+| File | Purpose |
+|------|---------|
+| `web/app/search/page.tsx` | Search UI: input, results, countdown |
+| `web/app/components/SiteHeader.tsx` | "Hledat" nav link added |
+| `web/app/globals.css` | `.search-excerpt mark { … }` highlight style |
+| `web/package.json` | `"build": "next build && npx pagefind --site out"` |
+| `web/app/events/[id]/page.tsx` | `data-pagefind-body`, `data-pagefind-meta`, `data-pagefind-ignore` attributes |
 
 ---
 
