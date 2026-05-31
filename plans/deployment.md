@@ -1,83 +1,85 @@
-# Deployment Plan
+# Deployment Plan — Sněmovna Digest
 
-**Production target:** `snemovna.datatimes.cz/digest`  
-**Architecture:** Option B — standalone Next.js app in this repo (`web/`), separate from the datatimes turborepo. Shares design system via DESIGN.md; no shared npm packages initially.
-
----
-
-## Stage 1 — GitHub Pages (testing) ✅ DONE
-
-Live at `https://michalskop.github.io/cz-psp-videoarchive/`
-
-### Setup
-- [x] `web/next.config.ts` — env-controlled `basePath` and `assetPrefix` (`NEXT_PUBLIC_BASE_PATH`)
-- [x] `output: "export"`, `images: { unoptimized: true }`
-- [x] `.github/workflows/deploy.yml`:
-  - Node 24, `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true`
-  - Copies `summaries/json/*.json`, `summary.schema.json`, `SKILL.md` to `web/public/`
-  - Builds with `NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}`
-  - Deploys via `actions/upload-pages-artifact@v3` + `actions/deploy-pages@v4`
-- [x] GitHub repo Settings → Pages: source = GitHub Actions
-
-### Known limitations on GitHub Pages
-- No server-side rendering (static export only — already planned)
-- No server-side request logs → bots/AI crawlers not tracked (see bot tracking section in `web-publication.md`)
-- `robots.txt` and `llms.txt` use production canonical URLs, not the GitHub Pages URL
-- B2 screenshot URLs work fine (absolute)
-
-### Pipeline automation
-- [x] `pipeline.sh` — full local pipeline: sync → transcribe → summarize → upload_screenshots → git push
-- [x] `crontab.txt` — twice daily at 02:00 and 14:00
+**Production URL:** `snemovna.datatimes.cz/digest`  
+**Architecture:** Standalone Next.js static export in this repo (`web/`), deployed to Vercel,
+proxied through the `legislature-dashboard` (snemovna.datatimes.cz) Next.js app.
 
 ---
 
-## Stage 2 — Vercel production ⬜ TODO
+## Stage 1 — GitHub Pages ✅ DONE (testing only)
 
-Move to `snemovna.datatimes.cz/digest` once Stage 1 is validated.
+Live at `https://michalskop.github.io/cz-psp-videoarchive/` — kept as smoke-test target.
 
-### This repo on Vercel
-1. Create a new Vercel project pointing at this repo, root directory `web/`.
-2. Set environment variable: `NEXT_PUBLIC_BASE_PATH=/digest`
-3. Vercel project domain: assign a temporary Vercel URL (e.g. `psp-videoarchiv.vercel.app`) for initial smoke test.
+- `web/next.config.ts` — env-controlled `basePath`/`assetPrefix` via `NEXT_PUBLIC_BASE_PATH`
+- `.github/workflows/deploy.yml` — builds with repo-name basePath, deploys via Pages actions
+- GitHub repo Settings → Pages: source = GitHub Actions
 
-### Rewrite on the snemovna project
-In the datatimes turborepo, add a rewrite to the `snemovna` Vercel project config so `/videoarchiv/*` proxies to this repo's Vercel deployment:
+**Limitation:** GitHub Pages build runs on GitHub's servers, which don't have access to `summaries/json/` (data is local). Only works because the workflow copies summaries from the repo before building. Does not support auto-deploy from `pipeline.sh`.
 
-```json
-// vercel.json in the snemovna app
-{
-  "rewrites": [
-    {
-      "source": "/digest/:path*",
-      "destination": "https://psp-videoarchiv.vercel.app/digest/:path*"
-    }
-  ]
-}
+---
+
+## Stage 2 — Vercel production ✅ DONE
+
+### How it works
+
+1. **Data is local** — `summaries/json/*.json` exist only on the pipeline machine (committed to git, but Vercel's build environment doesn't have them when triggered from GitHub because of timing).
+2. **Prebuilt deploy** — build runs locally where data is available, then the `.vercel/output/` artifact is pushed to Vercel.
+
+### Vercel project setup
+
+- **Project name:** `cz-psp-videoarchive` (`prj_4Wp0uSWHcB83D7hF0ekdgZflDh9N`)
+- **Team:** `michalskops-projects` (`team_ztUFJehWnHDEkqMHTFC6vfPf`)
+- **rootDirectory:** `null` (set via REST API — do NOT set to `web/` in dashboard, it causes double-path bug with prebuilt deploys)
+- **SSO protection:** disabled (set via REST API)
+- **`web/vercel.json`:** rewrites `/digest/:path*` → `/:path*` so static files are found at correct paths
+- **`web/.vercelignore`:** excludes `node_modules`, `.next`, `out`, `coverage`
+
+### Deploy command (run from `web/`)
+
+```bash
+NEXT_PUBLIC_BASE_PATH=/digest npx vercel build --prod
+npx vercel deploy --prebuilt --prod
 ```
 
-### DNS / domain
-No new DNS record needed — `snemovna.datatimes.cz` already resolves. The rewrite handles routing.
+Both steps run automatically from `pipeline.sh` whenever new summaries are committed (see below).
 
-### Switch canonical URLs
-Once the rewrite is live and tested, update GitHub Actions workflow:
-- `NEXT_PUBLIC_BASE_PATH=/digest` (instead of repo-name value)
-- `SKILL.md`, `llms.txt`, `.well-known/mcp-server-card.json`, `web/public/robots.txt` — already use production URL ✓
+### Proxy setup in legislature-dashboard
 
-### Bot/AI tracking benefit
-Vercel logs all HTTP requests server-side. Use Matomo Log Analytics against Vercel logs to track GPTBot, ClaudeBot, PerplexityBot, etc. by user-agent string.
+`legislature-dashboard/apps/cz-psp/next.config.ts` — `rewrites()`:
+```typescript
+const DIGEST_ORIGIN = process.env.DIGEST_ORIGIN ?? "https://cz-psp-videoarchive-michalskops-projects.vercel.app";
+// source: "/digest" and "/digest/:path*" → DIGEST_ORIGIN equivalents
+```
+
+The Vercel deployment URL (`cz-psp-videoarchive-michalskops-projects.vercel.app`) is the stable alias for the production deployment.
+
+### Auto-deploy from pipeline
+
+`pipeline.sh` step 6 — runs only when new summaries were committed:
+```bash
+cd "$DIR/web"
+NEXT_PUBLIC_BASE_PATH=/digest npx vercel build --prod
+npx vercel deploy --prebuilt --prod
+cd "$DIR"
+```
 
 ---
 
-## Stage 3 — Vercel with Pagefind / API routes (Phase 3+)
+## Stage 3 — Vercel with Pagefind / MCP server (Phase 3+) ⬜
 
-When full-text search (Pagefind) or MCP server tools are added:
-- Pagefind: runs at build time, works fine on Vercel static export
-- MCP server tools: require Vercel Edge Functions — switch from `output: 'export'` to standard Next.js SSR/Edge on Vercel; GitHub Pages will no longer work for those routes (static export of other pages still fine)
+When full-text search (Pagefind) or a live MCP server is added:
+
+- **Pagefind:** runs at build time, compatible with current static export + prebuilt deploy
+- **MCP server tools:** require server-side execution (Vercel Functions / Fluid Compute). Switch from `output: "export"` to standard Next.js on Vercel. GitHub Pages fallback stops working for those routes. Consider Cloudflare Workers as an alternative to keep static export.
 
 ---
 
-## Design system sharing with datatimes turborepo
+## Known issues / gotchas
 
-For now: copy relevant tokens and components from the turborepo manually, guided by `DESIGN.md` in this repo.
-
-Later option: publish the shared UI package from the datatimes turborepo to npm (private or public) and import here as a dependency. This removes the copy-paste step but adds a release workflow.
+| Issue | Root cause | Fix applied |
+|-------|-----------|-------------|
+| `rootDirectory: web` doubles path on prebuilt deploy | Vercel appends rootDirectory to CWD | Set rootDirectory=null via REST API |
+| Build fails on Vercel GitHub integration | `summaries/json/` not available at Vercel build time | Use prebuilt deploy workflow |
+| 401 on deployment URL | SSO protection enabled by default | Disabled via REST API |
+| `next build` not accepted as custom build command | Vercel requires full command | Use `npm run build` |
+| B2 images missing from html2canvas screenshots | B2 had no CORS rules | Run `set_b2_cors.py` once; CORS now configured |

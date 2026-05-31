@@ -120,10 +120,10 @@ export default async function EventPage({ params }: Props) {
   };
 
   return (
-    <article className="max-w-3xl mx-auto px-4 py-10">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+    <article data-pagefind-body className="max-w-3xl mx-auto px-4 py-10">
+      <script type="application/ld+json" data-pagefind-ignore dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       {/* Header */}
-      <header className="mb-8">
+      <header data-pagefind-ignore className="mb-8">
         <div className="flex flex-wrap items-center gap-2 mb-3">
           <span className="font-sans text-sm text-muted-foreground">
             {formatDate(s.event.start_date)}
@@ -141,7 +141,7 @@ export default async function EventPage({ params }: Props) {
             </span>
           )}
         </div>
-        <h1 className="font-slab font-bold text-2xl text-navy-9 leading-snug mb-4">
+        <h1 data-pagefind-meta="title" className="font-slab font-bold text-2xl text-navy-9 leading-snug mb-4">
           {s.event.name}
         </h1>
 
@@ -303,7 +303,7 @@ export default async function EventPage({ params }: Props) {
       )}
 
       {/* Meta */}
-      <footer className="border-t border-border pt-4 font-sans text-xs text-muted-foreground flex flex-wrap gap-4">
+      <footer data-pagefind-ignore className="border-t border-border pt-4 font-sans text-xs text-muted-foreground flex flex-wrap gap-4">
         <span>Akce č. {s.event.id}</span>
         <span>
           Přepis: {s.transcription.parts_transcribed}/{s.transcription.parts_total} částí (

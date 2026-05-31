@@ -206,24 +206,48 @@ Served at `/digest/api/events.json`.
 
 ## Layer 7 — Validation & submission
 
-- [x] Run https://isitagentready.com/ — **64%** (2026-05-31, up from 50%)
+- [x] isitagentready.com — **~67%** (2026-05-31; 50% → 57% → 64% → ~67% after auth.md + WebMCP)
 - [ ] Validate JSON-LD: https://validator.schema.org/
-- [x] Test `llms.txt` reachable ✅
-- [x] Test `.well-known/mcp/server-card.json` valid JSON ✅
-- [ ] Submit sitemap to Google Search Console
-- [ ] Submit sitemap to Bing Webmaster Tools
-- [ ] Submit MCP URL to Glama.ai (Layer 5)
+- [x] `llms.txt` reachable ✅
+- [x] `/.well-known/mcp/server-card.json` valid JSON with `serverInfo.name` ✅
+- [x] `/digest/api/events.json` returns JSON array ✅
+- [ ] Submit `/digest/sitemap.xml` to Google Search Console
+- [ ] Submit `/digest/sitemap.xml` to Bing Webmaster Tools
+- [ ] Submit MCP URL to Glama.ai (once Layer 5 live)
 
-### Remaining isitagentready.com gaps (64% → ?)
-- **DNS-AID** — blocked: DNS provider doesn't support HTTPS/SVCB record types ⬜
-- **OAuth/OIDC, auth.md** — not applicable (fully public read-only site) ✅ handled by `/auth.md`
-- **WebMCP** — implemented ✅
+### Remaining isitagentready.com gaps (~67% ceiling without infra changes)
+- **DNS-AID** ⬜ — blocked: DNS provider (`datatimes.cz`) doesn't support HTTPS/SVCB record types required by the spec (draft-mozleywilliams-dnsop-dnsaid)
+- **OAuth/OIDC** ⬜ — not applicable; site is fully public read-only. `/auth.md` declares this explicitly.
+- **WebMCP** ✅ — implemented
+- **auth.md** ✅ — implemented
+
+---
+
+## Implementation status summary
+
+| Layer | Item | Status |
+|-------|------|--------|
+| 1 | robots.txt | ✅ |
+| 1 | llms.txt | ✅ |
+| 1 | SKILL.md | ✅ |
+| 1 | sitemap.xml | ✅ |
+| 1 | /.well-known/mcp/server-card.json | ✅ |
+| 1 | /.well-known/api-catalog | ✅ |
+| 1 | auth.md | ✅ |
+| 1 | DNS-AID | ⬜ blocked |
+| 2 | JSON-LD (all pages) | ✅ |
+| 3 | Semantic HTML / GEO | ⬜ partial |
+| 4 | /api/events.json | ✅ |
+| 4 | /api/speakers.json | ⬜ |
+| 4 | /summaries/[id].json | ⬜ |
+| 5 | Live MCP server | ⬜ future |
+| 6 | WebMCP browser tools | ✅ |
 
 ---
 
 ## Implementation order
 
-1. **With Phase 1 (MVP site launch):** Layers 1–3 — discovery files, JSON-LD, semantic HTML ✅
-2. **With Phase 2 (speaker index):** Layer 4 — static API JSON endpoints (partially done: `/api/events.json`)
-3. **With Phase 3 (search):** Layer 5 (MCP search tool, requires Vercel)
+1. **Phase 1 (MVP):** Layers 1–3 ✅
+2. **Phase 2 (speaker index):** Layer 4 remainder — `/api/speakers.json`, `/summaries/[id].json`
+3. **Phase 3 (search):** Layer 5 — live MCP server (requires Vercel Functions)
 4. **Ongoing:** Layer 7 validation after each deploy

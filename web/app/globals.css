@@ -69,3 +69,12 @@ body {
   background-color: var(--color-surface-1);
   color: var(--color-foreground);
 }
+
+/* Pagefind search result excerpts — highlight matched terms */
+.search-excerpt mark {
+  background-color: var(--color-teal-0);
+  color: var(--color-teal-7);
+  border-radius: 2px;
+  padding: 0 2px;
+  font-weight: 600;
+}

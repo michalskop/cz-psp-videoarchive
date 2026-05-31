@@ -15,6 +15,12 @@ export function SiteHeader() {
           >
             Akce
           </Link>
+          <Link
+            href="/search"
+            className="px-3 py-1.5 rounded text-muted-foreground hover:text-foreground hover:bg-surface-2 transition-colors"
+          >
+            Hledat
+          </Link>
         </nav>
       </div>
     </header>
