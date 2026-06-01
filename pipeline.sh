@@ -45,8 +45,9 @@ $PYTHON sync.py >> "$LOG" 2>&1 || { log "sync.py failed"; exit 1; }
 log "After sync: $(counts)"
 
 # 2 — Transcribe: prefer knowledge-order categories; skip already-done
+# Uses Groq API (no local model required). GROQ_API_KEY must be in .env or environment.
 log "--- transcribe.py ---"
-$PYTHON transcribe.py --order knowledge >> "$LOG" 2>&1 || log "transcribe.py exited non-zero (may be ok)"
+$PYTHON transcribe.py --preset groq-large-v3 --order knowledge >> "$LOG" 2>&1 || log "transcribe.py exited non-zero (may be ok)"
 log "After transcribe: $(counts)"
 
 # 3 — Summarize: process transcribed events not yet summarised
