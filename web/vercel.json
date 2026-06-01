@@ -1,5 +1,4 @@
 {
-  "github": { "enabled": false },
   "rewrites": [
     { "source": "/digest/:path*", "destination": "/:path*" }
   ]
