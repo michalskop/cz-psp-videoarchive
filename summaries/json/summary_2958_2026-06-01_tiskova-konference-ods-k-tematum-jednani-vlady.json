@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-01T22:57:47",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2958",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-01",
+    "sources": [
+      "final/event_2958_2026-06-01_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5363_video-psp-202661-1531-17-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po pondělním jednání vlády. Hlavním účelem bylo vyjádření opozičního postoje k aktuálním vládním krokům, kritika premiéra Andreje Babiše a jeho kabinetu, a představení vlastních návrhů v oblastech energetiky a volebního práva.\n\nPředstavitelé ODS se zaměřili na kritiku hospodaření vlády, údajné střety zájmů premiéra, otázku financování veřejnoprávních médií a plánované změny v agendách protidrogové politiky a ochrany lidských práv.",
+    "main_points": [
+      "**Martin Kubka (ODS)** — Kritizoval výrok premiéra Babiše, že „není v pohodě“, a označil jej za varovný signál. Dále napadl vládní záměr zrušit koncesionářské poplatky, což označil za ekonomický analfabetismus. Vyzval k prověření střetu zájmů premiéra a zaslal 15 otázek nejvyšší státní tajemnici Zuzaně Bricknerové. `[1/01:00]`",
+      "**Tomáš Portlík (ODS)** — Představil návrh na rozšíření počtu odběrných míst pro energetická společenství z 11 na 60. Cílem je snížit administrativní zátěž pro obce, které budují fotovoltaické zdroje. `[1/04:01]`",
+      "**Lucie Bartošová (ODS)** — Vyjádřila se k vládnímu nesouhlasu s volebním právem od 16 let v komunálních volbách. ODS podle ní téma vnitřně diskutuje a považuje za nutné vést širší celospolečenskou debatu. `[1/06:05]`",
+      "**Tematické body** — Kritika vládního záměru roztříštit agendu protidrogové politiky a ochrany lidských práv mezi jednotlivá ministerstva, což podle ODS povede k oslabení státu a nárůstu černého trhu."
+    ],
+    "outcome": "Jednání nemělo charakter formálního hlasování, šlo o prezentaci opozičního postoje. ODS deklarovala, že bude nadále vyžadovat odpovědi na otázky ohledně dotací premiéra a bude prosazovat odborný přístup v protidrogové politice namísto plošných zákazů.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen a místy nesrozumitelné pasáže způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kubka",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Tomáš Portlík",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Lucie Bartošová",
+        "person_id": "psp:person:6989",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud tato vláda zruší koncesionářské poplatky, zaplatíte to úplně všichni, zaplatíme to úplně všichni, kteří v České republice platíme daně a k tomu navíc musíme připočíst úroky.",
+      "type": "paraphrase",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2958_highlight_00.jpg",
+      "context": "Financování České televize a Českého rozhlasu ze státního rozpočtu (místo poplatků) by znamenalo přímou závislost na rozhodování vlády a parlamentu o výši dotací. Náklady by byly hrazeny z daňových výnosů, což by zvýšilo nároky na státní rozpočet, přičemž zmínka o „úrocích“ je metaforou pro budoucí rozpočtové deficity či nutnost úspor v jiných kapitolách."
+    },
+    {
+      "text": "Chceme rozšířit počet aktivních zákazníků z 11 na 60, aby obce, které dělají fotovoltaiku, měly příjemnější administrativu.",
+      "type": "paraphrase",
+      "speaker": "Tomáš Portlík",
+      "affiliation": "ODS",
+      "timestamp": "1/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2958_highlight_01.jpg",
+      "context": "Tvrzení se pravděpodobně týká pravidel pro komunitní energetiku a sdílení elektřiny (např. novela energetického zákona, tzv. Lex OZE). Zvýšení limitu počtu účastníků v energetickém společenství je klíčovým bodem pro zjednodušení administrativy obcí a bytových domů při provozu fotovoltaických elektráren."
+    },
+    {
+      "text": "Vláda dnes projednala téma voleb od 16 let a dala k tomu nesouhlasné stanovisko, my v ODS považujeme za důležité, aby se k tomu vedla debata.",
+      "type": "paraphrase",
+      "speaker": "Lucie Bartošová",
+      "affiliation": "ODS",
+      "timestamp": "1/06:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2958_highlight_02.jpg",
+      "context": "Vláda ČR skutečně v minulosti zaujala k návrhům na snížení věkové hranice pro volební právo na 16 let (např. u voleb do zastupitelstev obcí a krajů) negativní stanovisko. Debata o tomto tématu probíhá v rámci odborné i politické veřejnosti, legislativní změna by vyžadovala úpravu Ústavy ČR."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Martin Kubka (ODS) obvinil premiéra Andreje Babiše z „ekonomického analfabetismu“ a „podvodného“ jednání v souvislosti se slibem zrušení koncesionářských poplatků.",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2958_controversy_00.jpg",
+      "context": "Jde o politickou rétoriku a hodnotící úsudek řečníka, nikoliv o fakticky ověřitelné tvrzení. „Ekonomický analfabetismus“ je subjektivní politické označení, nikoliv ekonomický termín."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,265 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-01T22:57:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2956",
+    "name": "Kontinuita a rozvoj: Strategické kroky pro stabilní a kvalitní školství",
+    "classification": "Konference",
+    "start_date": "2026-06-01T14:05",
+    "end_date": "2026-06-01T18:15",
+    "sources": [
+      "final/event_2956_2026-06-01_kontinuita-a-rozvoj-strategicke-kroky-pro-stabilni.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601140007.mp4",
+        "from_sec": 321
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601141005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601142007.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601143001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601144001.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601145006.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601150006.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601151002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601152002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601153001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601154001.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601155001.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601160001.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601161001.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601162001.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601163001.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601164005.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601165005.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601170005.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601171003.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601172007.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601173006.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601174005.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601175005.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601180006.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/01/_20260601181006.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 26,
+    "parts_total": 26,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na kritickou analýzu současného stavu českého školství, které řečníci označili za systém v hluboké krizi. Hlavním cílem bylo pojmenovat příčiny úpadku vzdělávání, mezi něž patří zejména přechod od znalostního školství ke kompetenčnímu, plošná inkluze, ideologizace výuky a vliv nadnárodních neziskových organizací.\n\nÚčastníci hledali cesty k rehabilitaci vědění a návratu k tradičním hodnotám. Seminář sloužil jako platforma pro formulaci strategických kroků, které by měly vést k obnově suverenity českého vzdělávacího systému, posílení role učitele a zajištění kvalitního vzdělávání jako veřejného statku.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Cílem školství má být vzdělávání a výchova k mravním hodnotám. Kritizoval „učení kompetencí“ jako degenerativní proces. `[1/06:00]`",
+      "**Zuzana Majerová (Trikolora/SPD)** — Navrhla zrušení plošné inkluze, odideologizování škol a návrat k osnovám. Varovala před vlivem politických neziskovek. `[2/02:01]`",
+      "**Ivo Strejček (analytik)** — Kritizoval kompetenční školství jako měřitelně tristní. Navrhl audit neziskových organizací a rehabilitaci role učitele. `[3/04:02]`",
+      "**Aleš Dvořák (pedagog)** — Navrhl obnovu školských úřadů na úrovni okresů jako odborného garanta a návrat k jednotné maturitě. `[5/08:10]`",
+      "**Andrea Roskovcová (pedagožka)** — Navrhla standardizaci jádrového učiva pro každý předmět, aby každá škola garantovala stejné minimum znalostí. `[7/06:15]`",
+      "**Michal Semín (pedagog)** — Varoval před odnárodňováním výuky a kosmopolitním duchem kompetenčního vzdělávání. `[16/08:00]`",
+      "**Jiří Vaca (pedagog)** — Navrhl zařadit do RVP průřezové téma „výchova k vnitřní suverenitě“ jako obranu proti manipulaci algoritmy. `[19/02:00]`",
+      "**Petr Vrána (ředitel ZŠ)** — Upozornil na kognitivní úpadek žáků a navrhl zákaz mobilů ve školách. `[20/06:04]`",
+      "**Eva Kaprálová (ředitelka ZŠ)** — Obhajovala menší třídy a školy jako prostor pro individuální přístup a komunitní soudržnost. `[22/08:07]`"
+    ],
+    "outcome": "Jednání vyústilo v konsenzus o nutnosti zásadní reformy, která se odkloní od kompetenčního modelu směrem k jasně definovanému znalostnímu základu. Organizátoři se dohodli na vytvoření **memoranda**, které shrne identifikované problémy a legislativní návrhy. Seminář má pokračovat na podzim za účasti širší politické reprezentace.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, opakující se fráze), které byly pro účely shrnutí ignorovány. Části 15 a 16 obsahují výpadky záznamu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Zuzana Majerová",
+        "person_id": "psp:person:6467",
+        "affiliation": "Trikolora/SPD"
+      },
+      {
+        "name": "Ivo Strejček",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Aleš Dvořák",
+        "person_id": "psp:person:1117",
+        "affiliation": null
+      },
+      {
+        "name": "Andrea Roskovcová",
+        "person_id": null,
+        "affiliation": "Spolek Svatopluk"
+      },
+      {
+        "name": "Michal Semín",
+        "person_id": "psp:person:6383",
+        "affiliation": "Spolek Svatopluk"
+      },
+      {
+        "name": "Jiří Vaca",
+        "person_id": "psp:person:181",
+        "affiliation": null
+      },
+      {
+        "name": "Petr Vrána",
+        "person_id": "psp:person:6490",
+        "affiliation": null
+      },
+      {
+        "name": "Eva Kaprálová",
+        "person_id": null,
+        "affiliation": "PRO"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "Trikolora",
+      "PRO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Spolek Svatopluk",
+      "OECD",
+      "Evropská unie"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Základní problém je v tom, že vzdělávání založené na získávání kompetencí opouští náročnost, což má pro děti a mládež dlouhodobé tragické následky.",
+      "type": "paraphrase",
+      "speaker": "Zuzana Majerová",
+      "affiliation": "Trikolora/SPD",
+      "timestamp": "2/08:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2956_highlight_00.jpg",
+      "context": "Jde o subjektivní hodnotový soud o pedagogickém směru (tzv. kompetenční model). Odborná diskuse o vyváženosti znalostí a kompetencí v Rámcových vzdělávacích programech (RVP) probíhá dlouhodobě, ale tvrzení o „tragických následcích“ je interpretací, nikoliv ověřitelným faktem."
+    },
+    {
+      "text": "46 % žáků v páté třídě odchází na druhý stupeň a mají minimální nebo žádné znalosti ve čtení.",
+      "type": "citation",
+      "speaker": "Ivo Strejček",
+      "affiliation": null,
+      "timestamp": "4/07:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2956_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Data z mezinárodních šetření (např. PIRLS nebo PISA) či národní testování ČŠI ukazují na určité procento žáků s nízkou úrovní čtenářské gramotnosti, ale hodnota 46 % neodpovídá oficiálním statistikám České školní inspekce."
+    },
+    {
+      "text": "Dnešní děti v deváté třídě nejsou schopny nad psaným textem udržet pozornost déle než 40 vteřin.",
+      "type": "citation",
+      "speaker": "Ivo Strejček",
+      "affiliation": null,
+      "timestamp": "5/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2956_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Neexistuje žádná oficiální studie či statistika, která by plošně potvrzovala schopnost udržet pozornost u žáků 9. tříd v délce přesně 40 sekund; jde o generalizované tvrzení bez opory v empirických datech."
+    },
+    {
+      "text": "Nejlepší obranou proti reklamní, korporátní a politické manipulaci je sociální vazba.",
+      "type": "citation",
+      "speaker": "Jiří Vaca",
+      "affiliation": null,
+      "timestamp": "20/01:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2956_highlight_03.jpg",
+      "context": "Jde o sociologický názor či tezi, kterou nelze fakticky potvrdit ani vyvrátit. Vliv sociálních vazeb na odolnost vůči manipulaci je předmětem odborných debat v psychologii a sociologii, nikoliv exaktně měřitelný fakt."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kontroverzní návrh:** Zrušení plošné inkluze a návrat k segregovanému speciálnímu školství.\n  * **Kdo:** Zuzana Majerová a Eva Kaprálová.\n  * **Proč:** Je to politicky citlivé, protože jde o rozpor s aktuálními inkluzivními trendy a legislativou EU, což vyvolává odpor u zastánců integrace.\n  * **Čas:** 2/06:04",
+      "speaker": "Zuzana Majerová, Eva Kaprálová",
+      "affiliation": null,
+      "timestamp": "2/06:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2956_controversy_00.jpg",
+      "context": "Současná legislativa (školský zákon č. 561/2004 Sb.) vychází z principu inkluzivního vzdělávání. Návrh na návrat k segregovanému školství je politickým programovým bodem, který by vyžadoval zásadní novelizaci zákona a změnu státní vzdělávací politiky."
+    },
+    {
+      "statement": "* **Kontroverzní návrh:** Zákaz sociálních sítí pro osoby mladší 16 let.\n  * **Kdo:** Petr Vrána.\n  * **Proč:** Jde o zásah do osobních svobod a digitálních práv, který by vyžadoval rozsáhlou státní regulaci internetu.\n  * **Čas:** 22/02:03",
+      "speaker": "Petr Vrána",
+      "affiliation": null,
+      "timestamp": "22/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2956_controversy_01.jpg",
+      "context": "Zákaz sociálních sítí pro osoby mladší 16 let je v současnosti předmětem politických debat v mnoha zemích (např. Austrálie, USA). V ČR by takové opatření vyžadovalo legislativní úpravu a pravděpodobně by naráželo na evropskou legislativu (GDPR, Akt o digitálních službách)."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
