@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-02T19:07:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2966",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-02T12:58",
+    "end_date": "2026-06-02T13:14",
+    "sources": [
+      "final/event_2966_2026-06-02_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5371_video-psp-202662-1258-44-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí Starostové a nezávislí (STAN) se konala dne 2. června 2026 před zahájením jednání Poslanecké sněmovny. Cílem konference bylo představit postoje hnutí k aktuálním legislativním bodům, které mají být v daném týdnu projednávány.\n\nHlavními tématy byly kritika vládního návrhu stavebního zákona, postoj k znovuzavedení EET, podpora navýšení rodičovského příspěvku včetně návrhu na jeho valorizační mechanismus, podpora senátní novely zákona o správě voleb a představení nominací na státní vyznamenání.",
+    "main_points": [
+      "**Lukáš Vlček (STAN)** — Kritizoval stavební zákon (tisk č. 67), který označil za „legislativní paskvil“ a „lex developer“. Upozornil na chaos v dokumentaci a nedostatečnou komunikaci s odborníky. Odmítl znovuzavedení EET jako byrokratickou zátěž. `[1/01:00]`",
+      "**Pavla Pivoňka Vaňková (STAN)** — Vyjádřila podporu navýšení rodičovského příspěvku. Navrhla zavedení automatického valorizačního mechanismu při kumulované inflaci nad 5 %. Zkritizovala hnutí ANO za pokrytectví v přístupu k podmínkám navýšení příspěvku. `[1/04:11]`",
+      "**Karel Dvořák (STAN)** — Podpořil senátní novelu zákona o správě voleb, včetně zavedení QR kódů pro nevidomé. Představil nominace hnutí STAN na státní vyznamenání (např. Mikuláš Kroupa, Kurt Gebauer, Vojtěch Cepl). `[1/10:00]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale tiskovým brífinkem. Konsenzem klubu STAN je konstruktivní přístup k vládním návrhům v oblastech, kde je to možné (např. rodičovský příspěvek, správa voleb), při současné ostré kritice legislativních procesů u stavebního zákona a EET. Klub potvrdil, že nebude k rodičovskému příspěvku vystupovat s přednostními právy, aby umožnil hladký průběh schůze.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vidíme ohromnou absurditu, vidíme prvotní tisk, který má 850 stran a hned na to komplexní pozměňující návrh, který má 1073 stran.",
+      "type": "paraphrase",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/01:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2966_highlight_00.jpg",
+      "context": "Rozsah sněmovních tisků je veřejně dostupný v systému digitálního archivu Poslanecké sněmovny (sps.psp.cz). Počet stran se liší dle formátování a příloh, tvrzení o rozsahu je tedy technicky ověřitelné nahlédnutím do konkrétního tisku."
+    },
+    {
+      "text": "Navrhujeme valorizační mechanismus, aby rodičovský příspěvek rostl automaticky při kumulované inflaci nad 5 %.",
+      "type": "paraphrase",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "1/06:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2966_highlight_01.jpg",
+      "context": "Jedná se o politický návrh legislativní změny. V současné době zákon o státní sociální podpoře (č. 117/1995 Sb.) automatický valorizační mechanismus vázaný na inflaci u rodičovského příspěvku neobsahuje; jeho zavedení je předmětem politické debaty."
+    },
+    {
+      "text": "Česká republika má z evropských států jeden z nejnižších rozsahů šedé ekonomiky, tedy ambice EET je lichá a naivní.",
+      "type": "paraphrase",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/03:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2966_highlight_02.jpg",
+      "context": "Podle dat Evropské komise a studií (např. Friedrich Schneider) se podíl šedé ekonomiky v ČR dlouhodobě pohybuje pod průměrem EU. Tvrzení o „lichosti“ EET je však subjektivní politické hodnocení, nikoliv fakt, neboť efektivita EET jako nástroje proti šedé ekonomice je předmětem odborných sporů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika stavebního zákona (Lukáš Vlček, STAN): Zákon je „legislativní paskvil“, „lex developer“, neprofesionálně připravený, s obrovským chaosem v dokumentaci. Je to kontroverzní, protože jde o přímý útok na vládní legislativní prioritu.",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/01:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2966_controversy_00.jpg",
+      "context": "Označení „legislativní paskvil“ nebo „lex developer“ jsou subjektivní politické hodnotící soudy. Kvalita legislativního procesu a chaos v dokumentaci jsou předmětem kritiky opozice i části odborné veřejnosti, nelze však objektivně změřit jako fakt."
+    },
+    {
+      "statement": "Obvinění hnutí ANO z pokrytectví (Pavla Pivoňka Vaňková, STAN): Hnutí ANO v minulosti kritizovalo omezení navýšení rodičovského příspěvku pouze pro nově narozené děti jako diskriminační, nyní však vládní návrh obsahuje stejný princip. Je to kontroverzní, protože jde o přímou politickou konfrontaci.",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "1/06:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2966_controversy_01.jpg",
+      "context": "Historické postoje hnutí ANO k rodičovskému příspěvku jsou dohledatelné v zápisech z jednání Sněmovny a tiskových zprávách. Zda je současný vládní návrh fakticky identický s minulými návrhy, závisí na konkrétním znění paragrafů a přechodných ustanovení daných zákonů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

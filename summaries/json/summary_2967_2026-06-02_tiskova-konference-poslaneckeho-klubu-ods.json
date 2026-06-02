@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-02T19:07:06",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2967",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-02T13:20",
+    "end_date": "2026-06-02T13:39",
+    "sources": [
+      "final/event_2967_2026-06-02_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5372_video-psp-202662-1320-20-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny. Hlavním cílem bylo představit postoje ODS k aktuální bezpečnostní situaci (ruské útoky na Ukrajinu), kritizovat vládní kroky v oblasti lidskoprávní a protidrogové agendy a vymezit se vůči vládnímu přístupu k veřejnoprávním médiím a legislativním procesům.\n\nOpoziční klub ODS rovněž deklaroval snahu o návrat ke korektnímu parlamentnímu dialogu, přičemž zdůraznil, že bude nadále věcně oponovat vládním návrhům, které považuje za škodlivé či nekompetentní.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Vyzval k obnovení pravidelných jednání ústavních činitelů a svolání předsedů sněmovních stran k zahraniční politice a obraně. Kritizoval „nemastný, neslaný“ postoj vlády k muniční iniciativě pro Ukrajinu. Odsoudil roztříštění lidskoprávní a protidrogové agendy mezi více ministerstev a označil mediální novelu za mrtvou. `[1/02:04]`",
+      "**Jan Lipavský (ODS)** — Podpořil výzvu k dialogu mezi předsedy stran. K programu sněmovny uvedl, že ODS podpoří navýšení rodičovského příspěvku, ale bude žádat záruky ohledně financování. Kritizoval vládní návrh na odklad spisových služeb a avizoval věcnou kritiku vládního návrhu EET. `[1/06:00]`",
+      "**Štěpán Slovák (ODS)** — Ostrá kritika vládní protidrogové politiky. Představil sněmovní tisk č. 208, který má navrátit protidrogovou agendu pod Úřad vlády, neboť Ministerstvo zdravotnictví podle něj nemá kapacity na její meziresortní řízení. `[1/10:07]`",
+      "**Jiří Havránek (ODS)** — Vyjádřil se k atmosféře ve Sněmovně. Uvedl, že současná situace je důsledkem dlouhodobého pošlapávání zvyklostí vládní koalicí. Zdůraznil, že ODS nebude hlasovat pro kandidáty vládní koalice, u nichž existuje podezření z korupčního jednání. `[1/14:04]`"
+    ],
+    "outcome": "Formální výsledek jednání nebyl stanoven, neboť šlo o tiskovou konferenci. Konsenzem klubu ODS je pokračování v důsledné, ale věcné opoziční práci. Strana trvá na dodržování parlamentních pravidel a odmítá podpořit kontroverzní vládní kandidáty do sněmovních orgánů.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a fragmenty vět způsobené automatickým přepisem. Některé pasáže jsou stylisticky nesouvislé."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "STAN",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NATO",
+      "Úřad vlády",
+      "Ministerstvo zdravotnictví",
+      "Ministerstvo práce a sociálních věcí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Jednotný hlas v oblasti zahraniční politiky a obrany je nezbytně nutná věc pro to, abychom zabránili dalším vážným škodám.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2967_highlight_00.jpg",
+      "context": "Jde o politický názor na směřování zahraniční a bezpečnostní politiky státu. Otázka míry suverenity versus jednotného postupu v rámci EU a NATO je předmětem dlouhodobé politické debaty a nelze ji fakticky verifikovat jako pravdivou či nepravdivou."
+    },
+    {
+      "text": "Představujeme náš legislativní návrh, sněmovní tisk číslo 208, který vrací protidrogovou agendu zpět pod Úřad vlády.",
+      "type": "citation",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/11:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2967_highlight_01.jpg",
+      "context": "Existenci sněmovního tisku lze ověřit v systému parlamentní dokumentace (psp.cz). Návrh na přesun protidrogové agendy pod Úřad vlády je konkrétní legislativní krok, který lze dohledat v databázi projednávaných zákonů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Štěpán Slovák (ODS)** — „Za tři kytky uplotu zavřeme tu holotu. To je nová protidrogová politika pana předsedy vlády Andreje Babiše.“\n\n**Proč je to kontroverzní:** Jde o silně expresivní a dehonestující vyjádření na adresu premiéra, které zlehčuje vážnost protidrogové problematiky a používá útočnou politickou rétoriku.",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/10:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2967_controversy_00.jpg",
+      "context": "Výrok je expresivní politickou kritikou, nikoliv faktickým tvrzením. Trestní sazby za držení omamných látek upravuje zákon č. 40/2009 Sb., trestní zákoník, a nařízení vlády č. 467/2009 Sb., přičemž držení malého množství pro vlastní potřebu není v ČR klasifikováno jako trestný čin, ale jako přestupek."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

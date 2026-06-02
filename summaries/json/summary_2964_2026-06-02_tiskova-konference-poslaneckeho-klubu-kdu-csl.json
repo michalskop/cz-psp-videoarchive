@@ -1,0 +1,94 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-02T19:08:05",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2964",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-02T12:22",
+    "end_date": "2026-06-02T12:30",
+    "sources": [
+      "final/event_2964_2026-06-02_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5369_video-psp-202662-1222-8-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se zaměřila na vyjádření podpory vládnímu návrhu na zvýšení rodičovského příspěvku, který je projednáván na mimořádné schůzi Poslanecké sněmovny. Lidovci zdůraznili, že jde o jejich dlouhodobou prioritu, kterou v minulosti prosazovali v rámci vlastního balíčku „Rodiče+“.\n\nCílem konference bylo deklarovat konstruktivní přístup opoziční strany k vládním návrhům, ocenit zlepšenou komunikaci mezi koalicí a opozicí a představit další dílčí úpravy, které KDU-ČSL plánuje v legislativním procesu prosazovat. Kromě rodičovského příspěvku se řečníci dotkli i otázky státních dotací pro firmy Andreje Babiše a celkové atmosféry v Poslanecké sněmovně.",
+    "main_points": [
+      "**Marian Jurečka (KDU-ČSL)** — Vyjádřil podporu zvýšení rodičovského příspěvku. Upozornil, že vláda převzala řešení, které dříve odmítala. Představil priority klubu: zvýšení příspěvku na 400 000 Kč (pro vícerčata 800 000 Kč). Ocenil spolupráci s ministrem Juchelkou na úpravách „superdávky“ a normativů nákladů na bydlení. Plánuje navrhovat vyšší pracovní bonusy pro pracující a větší flexibilitu čerpání otcovské dovolené. `[1/00:20]`",
+      "**Neidentifikovaný řečník (KDU-ČSL)** — Potvrdil, že lidovci budou k mimořádné schůzi přistupovat věcně a racionálně. Uvedl, že vládní koalice se v komunikaci s opozicí výrazně zlepšila. K otázce dotací pro firmy Andreje Babiše zdůraznil nutnost péče řádného hospodáře a předběžné opatrnosti, dokud nebude situace vyjasněna. `[1/04:02]`"
+    ],
+    "outcome": "Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci. Dominujícím postojem KDU-ČSL je podpora vládního návrhu na zvýšení rodičovského příspěvku, přičemž strana hodlá v rámci legislativního procesu načíst vlastní pozměňovací návrhy (např. flexibilita čerpání, úpravy u dětských skupin). Lidovci deklarovali ochotu k věcné a racionální debatě bez zbytečných obstrukcí.",
+    "notes": "Přepis obsahuje značné množství chyb v diakritice, useknutých slov a opakujících se nesmyslných frází (např. „Tisková konference poslaneckého klubu KDU-ČSL je v češtině...“). Části textu jsou díky těmto artefaktům obtížně srozumitelné, nicméně hlavní politické postoje jsou z kontextu patrné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo práce a sociálních věcí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My jako lidovci budeme k dnešní mimořádné schůzi přistupovat velmi věcně a racionálně.",
+      "type": "paraphrase",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2964_highlight_00.jpg",
+      "context": "Jde o subjektivní politické prohlášení o záměru, které nelze fakticky ověřit. Hodnocení „věcnosti a racionality“ je závislé na úhlu pohledu jednotlivých politických aktérů."
+    },
+    {
+      "text": "Chceme zvýšení rodičovského příspěvku na 400 000 Kč a pro vícerčata na 800 000 Kč.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/00:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2964_highlight_01.jpg",
+      "context": "Tento návrh odpovídá vládnímu záměru, který byl následně legislativně ukotven. Od 1. ledna 2024 došlo k navýšení rodičovského příspěvku na 350 000 Kč (u vícerčat na 525 000 Kč), přičemž debata o dalším navyšování je součástí politického programu koalice."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Marian Jurečka (KDU-ČSL)\n**Co:** Návrh na pozastavení dotací pro firmy Andreje Babiše (tzv. Agrofert/Fidim) do doby vyjasnění situace s Evropskou komisí.\n**Proč:** Jde o politicky citlivé téma střetu zájmů a nakládání se státními prostředky, které je předmětem dlouhodobých sporů mezi vládní koalicí a hnutím ANO.\n**Čas:** 1/05:30",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/05:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2964_controversy_00.jpg",
+      "context": "Otázka střetu zájmů Andreje Babiše a čerpání dotací byla předmětem auditů Evropské komise. Evropská komise v roce 2022 definitivně uzavřela, že holding Agrofert neměl nárok na dotace v důsledku střetu zájmů tehdejšího premiéra; otázka pozastavení dalších dotací je předmětem politické debaty a právních výkladů o pravidlech čerpání z fondů EU a národních zdrojů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
