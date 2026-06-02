@@ -1,0 +1,103 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-02T13:41:37",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2962",
+    "name": "Tisková konference poslaneckého klubu Motoristé sobě",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-02T11:40",
+    "end_date": "2026-06-02T11:59",
+    "sources": [
+      "final/event_2962_2026-06-02_tiskova-konference-poslaneckeho-klubu-motoriste-so.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5367_video-psp-202662-1140-40-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení nového poslance klubu Motoristé sobě, Libora Formana, který ve sněmovně nahradil Karla Berana. Karel Beran byl vládou vyslán na post vedoucího stálé mise při OSN v Ženevě.\n\nKromě personální obměny se zástupci strany vyjádřili k aktuální politické situaci, konkrétně k projednávání rodičovského příspěvku, přípravám na summit NATO v Ankaře, obstrukcím v Poslanecké sněmovně a plánům pro nadcházející komunální volby v Praze, Brně a Ostravě.",
+    "main_points": [
+      "**Neidentifikovaný řečník (předseda klubu/ministr)** — Představil Libora Formana jako nového poslance a poděkoval odcházejícímu Karlu Beranovi za práci v klubu a za jeho novou diplomatickou roli v Ženevě. `[1/02:06]`\n\nK rodičovskému příspěvku: Strana se přiklání k fiskálně odpovědnější variantě ministra Juchelky, neboť státní rozpočet je pod velkým tlakem. `[1/08:00]`\n\nK summitu NATO v Ankaře: Mandát bude doladěn až po druhém formálním zasedání ministrů obrany v červnu. Zmínil vklad motoristů do koncepce armády v podobě dobrovolného tříměsíčního výcviku. `[1/10:12]`\n\nK obstrukcím: Situaci označil za „zablokování sněmovny“ bez reálného základu. Pokud opozice nezmění přístup, vládní většina je připravena využít jednací řád k „restartu“ sněmovny a prosazení legislativy. `[1/12:01]`\n\nKe komunálním volbám: Prioritou jsou Praha, Brno a Ostrava; lídry kandidátek představí v blízké době. `[1/16:03]`",
+      "**Libor Forman (poslanec, Motoristé sobě)** — Bývalý zastupitel a předseda finančního výboru v Jihlavě. `[1/04:01]`\n\nDeklaroval, že se chce zaměřit na silnou kontrolu výdajů státu, zejména ve výboru pro obranu a hospodářském výboru, kde bude působit. `[1/04:01]`\n\nZdůraznil potřebu efektivity při nakládání s veřejnými prostředky a uvedl, že v těchto výborech bude „přísným kontrolorem“. `[1/06:10]`"
+    ],
+    "outcome": "Jednání bylo informativního charakteru. Nebylo přijato žádné formální rozhodnutí, pouze deklarována připravenost vládní koalice řešit zablokovanou situaci v Poslanecké sněmovně pomocí nástrojů jednacího řádu, pokud opozice neumožní věcnou debatu o zákonech.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a useknutá slova (např. „finan“ místo „finance“), které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "Motoristé sobě"
+      },
+      {
+        "name": "Libor Forman",
+        "person_id": null,
+        "affiliation": "Motoristé sobě"
+      }
+    ],
+    "parties": [
+      "Motoristé sobě",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "OSN",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Chci, aby peníze, které budou vynakládány převážně v hospodářském výboru a ve výboru pro obranu, nebyly vyhazovány do jakéhosi kanálu, ale byly vynakládány velice efektivně.",
+      "type": "paraphrase",
+      "speaker": "Libor Forman",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/05:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2962_highlight_00.jpg",
+      "context": "Jde o subjektivní politický názor na efektivitu vynakládání veřejných prostředků. Efektivita výdajů v rámci rozpočtových kapitol podléhá kontrole Nejvyššího kontrolního úřadu (NKÚ), nikoliv přímo výborů, které se zabývají legislativním procesem a rozpočtovými prioritami."
+    },
+    {
+      "text": "V tuto chvíli už nejde o obstrukce, protože obstrukce jsou legitimním nástrojem opozice, ale jde o zablokování sněmovny.",
+      "type": "citation",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/09:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2962_highlight_01.jpg",
+      "context": "Rozlišení mezi „obstrukcí“ a „zablokováním“ není v Jednacím řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.) právně definováno. Jde o politickou interpretaci intenzity využití procesních práv opozice, přičemž hranice mezi legitimním projevem a paralýzou instituce je předmětem dlouhodobých politických sporů."
+    },
+    {
+      "text": "Pokud to bude potřeba, tak budeme hledat spolu s legislativou takové cesty, abychom mohli projednávat jednotlivé zákony ve třech čteních tak, jak se sluší a patří.",
+      "type": "citation",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/14:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2962_highlight_02.jpg",
+      "context": "Legislativní proces ve třech čteních je standardně zakotven v Jednacím řádu Poslanecké sněmovny (§ 86 a násl. zákona č. 90/1995 Sb.). Změna pravidel pro projednávání zákonů by vyžadovala novelizaci tohoto zákona, což je proces, který vyžaduje shodu v rámci legislativního procesu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Předseda klubu (Motoristé sobě)\n\n**Co:** Označil jednání opozice za „zablokování sněmovny“ a nikoliv za legitimní obstrukce. Pohrozil využitím „práv a možností, které dává jednací řád“ k restartu sněmovny.\n\n**Proč:** Jde o politicky citlivé téma, neboť naznačuje možnost omezení opozičních práv vládní většinou, což je v parlamentní demokracii vysoce kontroverzní krok.\n\n**Čas:** `1/12:01`",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/12:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2962_controversy_00.jpg",
+      "context": "Tvrzení o „zablokování sněmovny“ je politickým hodnocením situace. Možnost omezení opozičních práv je v rámci parlamentní demokracie vysoce citlivá, neboť jakékoli zásahy do Jednacího řádu musí být v souladu s ústavními principy a právy menšiny na vyjádření názoru."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

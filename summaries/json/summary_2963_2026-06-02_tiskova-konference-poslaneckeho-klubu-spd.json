@@ -1,0 +1,123 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-02T13:41:07",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2963",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-02T12:00",
+    "end_date": "2026-06-02T12:21",
+    "sources": [
+      "final/event_2963_2026-06-02_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5368_video-psp-202662-120-36-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD se zaměřila na představení legislativních priorit vládní koalice v Poslanecké sněmovně. Hlavními tématy byly úpravy sociálních dávek, změny v trestním právu, otázka státní suverenity v měnové politice a výdaje na obranu.\n\nCílem konference bylo informovat veřejnost o konkrétních návrzích, jako je zvýšení rodičovského příspěvku, zrušení koncesionářských poplatků, zavedení trestnosti manipulace s nápoji a zveřejňování národnosti pachatelů trestných činů. SPD rovněž zdůraznila svůj odmítavý postoj k přijetí eura a podporu ukotvení práva na platbu v hotovosti v ústavě.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Zvýšení rodičovského příspěvku na 400 000 Kč od 2027, zavedení výjimky z EET pro malé živnostníky, návrh zákona o referendu, zrušení koncesionářských poplatků, zavedení nového trestného činu manipulace s nápoji a zachování české koruny. `[1/00:00]`",
+      "**Lucie Šafránková (SPD)** — Rodičovský příspěvek jako investice do budoucnosti, snaha o rozšíření na všechny rodiče dětí do 3 let a plánované obnovení slev na manžela/manželku. `[1/06:00]`",
+      "**Jindřich Reichl (SPD)** — Podpora zveřejňování národnosti pachatelů trestných činů, kritika kriminality cizinců. `[1/08:01]`",
+      "**Irena Němcová (SPD)** — Důraz na zachování české koruny jako otázky suverenity. `[1/12:07]`"
+    ],
+    "outcome": "Jednání potvrdilo shodu v rámci vládní koalice na prioritách, jako je zvýšení rodičovského příspěvku, zrušení koncesionářských poplatků a zveřejňování národnosti pachatelů. SPD deklaruje, že v tomto volebním období nebude přijato euro. V otázce obranných výdajů trvá SPD na stropu 2 % HDP.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova. Části textu jsou nesrozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Lucie Šafránková",
+        "person_id": "psp:person:6479",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jindřich Reichl",
+        "person_id": "psp:person:4435",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Irena Němcová",
+        "person_id": "psp:person:7027",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zvýšení rodičovského příspěvku z 350 000 na 400 000 Kč od 1. 1. 2027 je jednou z našich hlavních priorit.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2963_highlight_00.jpg",
+      "context": "Rodičovský příspěvek byl naposledy navýšen na 350 000 Kč zákonem č. 252/2023 Sb. s účinností od 1. 1. 2024. Návrh na další zvýšení na 400 000 Kč od roku 2027 je politickým programovým cílem SPD, nikoliv platnou legislativou."
+    },
+    {
+      "text": "SPD zásadně odmítá euro a chceme zachovat českou korunu, během naší vlády nebude přijato.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/13:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2963_highlight_01.jpg",
+      "context": "Česká republika se při vstupu do EU zavázala k přijetí eura, avšak neexistuje žádný stanovený termín. Rozhodnutí o přijetí eura je v kompetenci vlády a vyžaduje souhlas obou komor Parlamentu ČR; SPD dlouhodobě prosazuje zachování koruny jako součást svého programu."
+    },
+    {
+      "text": "Podporujeme zveřejňování státní příslušnosti pachatelů trestných činů, občané na to mají plné právo.",
+      "type": "paraphrase",
+      "speaker": "Jindřich Reichl",
+      "affiliation": "SPD",
+      "timestamp": "1/08:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2963_highlight_02.jpg",
+      "context": "Zveřejňování státní příslušnosti pachatelů není v ČR zákonem zakázáno, ale Policie ČR a soudy postupují v souladu se zákonem č. 141/1961 Sb. (trestní řád) a zásadou presumpce neviny. Požadavek na systematické zveřejňování je politickým návrhem, který naráží na ochranu osobních údajů (GDPR)."
+    },
+    {
+      "text": "Naším cílem je úplné zrušení koncesionářských poplatků České televize a Českého rozhlasu od 1. 1. 2027 všem.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/12:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2963_highlight_03.jpg",
+      "context": "Koncesionářské poplatky jsou upraveny zákonem č. 348/2005 Sb. (o rozhlasových a televizních poplatcích). Jejich zrušení by vyžadovalo legislativní změnu, která by zásadně změnila model financování veřejnoprávních médií; jde o programový cíl SPD, nikoliv o platný právní stav."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jindřich Reichl (SPD)\n**Co:** Prohlášení, že ukrajinští migranti ovládají organizovaný zločin a vylákávají peníze z důchodců.\n**Proč:** Výrok je kontroverzní kvůli paušalizaci kriminality na konkrétní národnostní skupinu, což může vyvolávat společenské napětí.\n**Čas:** 1/10:00",
+      "speaker": "Jindřich Reichl",
+      "affiliation": "SPD",
+      "timestamp": "1/10:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2963_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Oficiální statistiky Policie ČR ani zprávy o extremismu a kriminalitě cizinců (MV ČR) nepotvrzují, že by ukrajinští migranti jako skupina ovládali organizovaný zločin v ČR. Paušalizace kriminality na národnostní skupinu není podložena objektivními daty."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

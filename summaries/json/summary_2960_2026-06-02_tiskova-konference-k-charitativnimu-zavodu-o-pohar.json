@@ -1,0 +1,114 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-02T13:42:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2960",
+    "name": "Tisková konference k Charitativnímu závodu o pohár 1. místopředsedy PS pana Patrika Nachera na handbike trenažéru",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-02T10:53",
+    "end_date": "2026-06-02T11:07",
+    "sources": [
+      "final/event_2960_2026-06-02_tiskova-konference-k-charitativnimu-zavodu-o-pohar.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5365_video-psp-202662-1053-32-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se týkalo oznámení 5. ročníku charitativního závodu na handbike trenažéru, který pořádá 1. místopředseda Poslanecké sněmovny (PS) Patrik Nacher ve spolupráci s organizací Cesta za snem. Cílem akce je podpora konkrétní osoby – Agáty, která se potýká s následky dětské mozkové obrny.\n\nKromě charitativního rozměru, jehož cílem je vybrat finanční prostředky na speciální ortézy nehrazené pojišťovnou, má akce za cíl podpořit sportovní aktivitu poslanců a zaměstnanců sněmovny a zlepšit mezilidské vztahy napříč politickým spektrem.",
+    "main_points": [
+      "**Patrik Nacher (ANO)** — Organizátor akce. Závod probíhá formou soutěže mezi poslaneckými kluby a jednotlivci. Výzva k finanční podpoře prostřednictvím QR kódů platí i pro ty, kteří se aktivně nezapojí. `[1/02:03]`",
+      "**Michaela Šebelová (STAN)** — Potvrdila, že klub STAN vyhrál minulé 4 ročníky. Jako fyzioterapeutka ocenila výběr Agáty jako příjemkyně pomoci. `[1/04:05]`",
+      "**Kronost Taršová (Piráti)** — Vyjádřila podporu akci, ocenila spojení sportu a charity. `[1/06:04]`",
+      "**Štěpán Slovák (SPD)** — Potvrdil podporu klubu, a to jak aktivní účastí, tak finančním příspěvkem. `[1/08:21]`",
+      "**Matěj Plišek (Kancelář PS)** — Vyjádřil podporu za zaměstnance sněmovny, zdůraznil zlepšení vztahů mezi poslanci a zaměstnanci. `[1/08:21]`",
+      "**Zástupce organizace Cesta za snem** — Poděkoval za dlouhodobou spolupráci a možnost pomoci Agátě. `[1/10:05]`"
+    ],
+    "outcome": "Akce byla oficiálně zahájena. Účastníci vyzvali kolegy z ostatních klubů k maximálnímu zapojení a finanční podpoře. Vyhlášení výsledků závodu a celkové vybrané částky proběhne v pátek.",
+    "notes": "Přepis obsahuje četné chyby v přepisu jmen, které byly v textu opraveny na základě kontextu. V závěru přepisu se objevují opakující se halucinace, které nemají věcný význam."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Kronost Taršová",
+        "person_id": null,
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Matěj Plišek",
+        "person_id": null,
+        "affiliation": "Kancelář PS"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "STAN",
+      "Piráti",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Cesta za snem"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tentokrát budeme vybírat peníze pro Agátu, která od narození se potýká s následky dětské mozkové obrny.",
+      "type": "paraphrase",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/01:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2960_highlight_00.jpg",
+      "context": "Jde o osobní sdělení o charitativní sbírce v rámci parlamentní akce. Faktická správnost diagnózy konkrétní osoby je v tomto kontextu věcí soukromí a nelze ji nezávisle ověřit."
+    },
+    {
+      "text": "Jsem ráda, že byla vybrána právě Agátka, že je motivovaná k tomu, aby se aktivně ještě více trénovala, než je to možné.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/05:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2960_highlight_01.jpg",
+      "context": "Jde o vyjádření podpory a osobního názoru na motivaci konkrétní osoby. Faktograficky nelze ověřit míru motivace nebo intenzitu tréninku jednotlivce."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Patrik Nacher (ANO) otevřeně vyzval kolegy, aby se „nevymlouvali“ na to, že se nechtějí zpotit nebo mají nevhodné oblečení, a aby přispěli i pasivně.",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/12:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2960_controversy_00.jpg",
+      "context": "Tento výrok je doložitelný ze stenografického záznamu jednání Poslanecké sněmovny. Jde o procedurální výzvu k účasti na charitativní akci, která nemá právní ani legislativní dopad."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-02T13:42:04",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2961",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-02T11:20",
+    "end_date": "2026-06-02T11:39",
+    "sources": [
+      "final/event_2961_2026-06-02_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5366_video-psp-202662-1120-0-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny. Cílem bylo představit postoje TOP 09 k aktuálním politickým tématům, včetně odmítnutí jejich návrhu na volební právo od 16 let v komunálních volbách, kritiky vládního záměru prodat společnost Explosia a odmítavého postoje k znovuzavedení elektronické evidence tržeb (EET-2).\n\nZástupci strany se rovněž vyjádřili k parlamentní kultuře, nutnosti dohod mezi koalicí a opozicí a k otázce přijetí eura, kterou TOP 09 dlouhodobě prosazuje jako ekonomicky výhodný krok.",
+    "main_points": [
+      "**Matěj Ondřej Havel (předseda TOP 09)** — Kritizoval vládu za odmítnutí návrhu na volební právo od 16 let v komunálních volbách; argumentoval, že mladí lidé jsou informačně gramotní a nesou důsledky vládní politiky. Dále se postavil proti prodeji společnosti Explosia a zdůraznil ekonomické ztráty spojené s absencí eura. `[1/01:10]`",
+      "**Jan Jakob (předseda poslaneckého klubu TOP 09)** — Označil vládní návrh na EET-2 za zbytečný a potenciálně protiústavní. Oznámil podání pozměňovacího návrhu a zdůraznil potřebu elementárních dohod mezi koalicí a opozicí pro fungování sněmovny. `[1/06:01]`",
+      "**Martin Leška (člen předsednictva TOP 09)** — Kritizoval vládní škrty v dopravní infrastruktuře a podpořil racionální debatu o přijetí eura, přičemž odmítl emocionální argumenty o ztrátě národní identity. `[1/08:13]`"
+    ],
+    "outcome": "Nebyla přijata žádná formální rozhodnutí, neboť se jednalo o tiskovou konferenci. Dominujícím postojem TOP 09 je ochota k parlamentnímu dialogu při zachování opoziční role a odmítání vládních kroků, které považují za nebezpečné (prodej Explosie) nebo neefektivní (EET-2). Strana deklarovala, že nebude obstruovat, pokud bude vládní koalice ochotna k elementárním dohodám.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky textu, které však nebrání pochopení hlavních argumentů řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Martin Leška",
+        "person_id": "psp:person:4074",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Každá česká domácnost tratí více než 10 000 Kč ročně na tom, že euro nemáme.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/13:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2961_highlight_00.jpg",
+      "context": "Tvrzení vychází z odhadů některých ekonomů (např. analýzy pro Hospodářskou komoru či vybrané bankovní domy), které pracují s náklady na konverzi měn a kurzovým rizikem. Jde o teoretický modelový výpočet, nikoliv o exaktně měřitelný fakt, a ekonomická obec se v hodnocení přínosů či nákladů přijetí eura dlouhodobě neshodne."
+    },
+    {
+      "text": "My jako TOP 09 tento návrh [EET-2] považujeme za zcela zbytečný, podnikatelům, zejména těm poctivým, ztíží jejich práci.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2961_highlight_01.jpg",
+      "context": "Jde o politický názor a hodnotové vyjádření postoje strany. Efektivita a administrativní zátěž EET jsou předmětem dlouhodobého politického sporu; zatímco zastánci zdůrazňují narovnání podnikatelského prostředí, odpůrci poukazují na náklady na pořízení techniky a byrokracii."
+    },
+    {
+      "text": "Národní velikáni nejsou definováni tím, že je máme vyobrazené na nějakém oběživu, ale svým místem v historii a kultuře národa.",
+      "type": "citation",
+      "speaker": "Martin Leška",
+      "affiliation": "TOP 09",
+      "timestamp": "1/11:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2961_highlight_02.jpg",
+      "context": "Toto je filozofické a hodnotové tvrzení, které nelze faktograficky ověřit. Definice „národního velikána“ je subjektivní a závislá na kulturním a historickém diskurzu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vládní koalice plánuje znovuzavedení elektronické evidence tržeb (EET-2), což TOP 09 považuje za protiústavní a neefektivní krok, který zatíží podnikatele.",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2961_controversy_00.jpg",
+      "context": "V současné době neexistuje vládní návrh na znovuzavedení EET v původní podobě. Tvrzení o protiústavnosti je právní interpretací, kterou v minulosti řešil Ústavní soud (nález Pl. ÚS 26/16), jenž systém EET jako celek nezrušil, ačkoliv některé jeho části zrušil z důvodu nepřiměřenosti."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
