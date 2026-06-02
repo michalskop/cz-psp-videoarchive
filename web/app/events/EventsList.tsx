@@ -27,24 +27,38 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
     [summaries]
   );
 
-  const [activeCategories, setActiveCategories] = useState<Set<string>>(
-    () => new Set(summaries.map((s) => s.event.classification))
-  );
+  // Filter state: 'all' = neutral (no explicit selection), 'filter' = explicit on/off per category
+  const [filterMode, setFilterMode] = useState<"all" | "filter">("all");
+  const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set());
 
-  const allActive = categories.every((c) => activeCategories.has(c));
-
-  const toggleCategory = (cat: string) => {
-    setActiveCategories((prev) => {
-      const next = new Set(prev);
-      if (next.has(cat)) next.delete(cat);
-      else next.add(cat);
-      return next;
-    });
+  const clickCategory = (cat: string) => {
+    if (filterMode === "all") {
+      // Enter filter mode: only this category is on, all others off
+      setFilterMode("filter");
+      setSelectedCategories(new Set([cat]));
+    } else {
+      setSelectedCategories((prev) => {
+        const next = new Set(prev);
+        if (next.has(cat)) next.delete(cat);
+        else next.add(cat);
+        return next;
+      });
+    }
   };
 
-  const filtered = allActive
-    ? summaries
-    : summaries.filter((s) => activeCategories.has(s.event.classification));
+  const clickAll = () => {
+    setFilterMode("all");
+    setSelectedCategories(new Set());
+  };
+
+  // neutral = part of "all" mode; on = explicitly selected; off = explicitly excluded
+  const catState = (cat: string): "neutral" | "on" | "off" =>
+    filterMode === "all" ? "neutral" : selectedCategories.has(cat) ? "on" : "off";
+
+  const filtered =
+    filterMode === "all"
+      ? summaries
+      : summaries.filter((s) => selectedCategories.has(s.event.classification));
 
   const groups = useMemo(() => {
     const map = new Map<string, Summary[]>();
@@ -83,29 +97,31 @@ export function EventsList({ summaries }: { summaries: Summary[] }) {
           Archiv akcí PSP
         </h1>
 
-        {/* Category filter — click to hide/show a category */}
+        {/* Category filter: All (neutral mode) | On (explicitly included) | Off (excluded) */}
         <div className="flex flex-wrap gap-2">
           <button
-            onClick={() => setActiveCategories(new Set(categories))}
+            onClick={clickAll}
             className={`px-3 py-1 rounded-badge text-xs font-sans font-medium transition-colors ${
-              allActive
+              filterMode === "all"
                 ? "bg-navy-9 text-surface-0"
                 : "bg-surface-2 text-muted-foreground hover:bg-surface-3"
             }`}
           >
-            Vše ({filtered.length})
+            Vše ({summaries.length})
           </button>
           {categories.map((cat) => {
-            const isOn = activeCategories.has(cat);
+            const state = catState(cat);
             const count = summaries.filter((s) => s.event.classification === cat).length;
             return (
               <button
                 key={cat}
-                onClick={() => toggleCategory(cat)}
-                className={`px-3 py-1 rounded-badge text-xs font-sans font-medium transition-colors ${
-                  isOn
-                    ? "bg-brand-6 text-surface-0"
-                    : "bg-surface-2 text-muted-foreground line-through opacity-50 hover:opacity-75"
+                onClick={() => clickCategory(cat)}
+                className={`px-3 py-1 rounded-badge text-xs font-sans font-medium transition-all ${
+                  state === "on"
+                    ? "bg-brand-6 text-surface-0 border border-brand-6"
+                    : state === "off"
+                    ? "border border-border text-muted-foreground opacity-40 line-through hover:opacity-60"
+                    : "border border-border bg-surface-0 text-foreground hover:bg-surface-2"
                 }`}
               >
                 {cat} ({count})
