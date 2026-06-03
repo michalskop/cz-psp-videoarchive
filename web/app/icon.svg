@@ -2,7 +2,7 @@
   <!-- Badge shape — rounded except top-right corner -->
   <path
     d="M36 8 H120 V92 Q120 120 92 120 H36 Q8 120 8 92 V36 Q8 8 36 8 Z"
-    fill="#c5143c"
+    fill="#de1743"
   />
   <!-- S overflowing the badge for max legibility at small sizes -->
   <text
