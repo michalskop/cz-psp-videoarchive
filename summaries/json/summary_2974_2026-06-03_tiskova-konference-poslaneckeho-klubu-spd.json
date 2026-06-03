@@ -1,0 +1,96 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-03T19:03:49",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2974",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-03T15:29",
+    "end_date": "2026-06-03T15:44",
+    "sources": [
+      "final/event_2974_2026-06-03_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5381_video-psp-202663-1529-47-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD byla svolána v reakci na nepravomocný rozsudek samosoudkyně, která uložila hnutí SPD pokutu ve výši 3 miliony Kč za obsah dvou předvolebních plakátů. Cílem konference bylo prezentovat postoj hnutí k tomuto rozhodnutí, které předseda SPD Tomio Okamura označil za útok na svobodu slova a pokus o ovlivnění politické kampaně.\n\nHnutí SPD se proti rozsudku hodlá odvolat k městskému soudu a v případě potřeby je připraveno dojít až k Ústavnímu soudu. SPD argumentuje, že plakáty pouze pojmenovávaly reálné společenské problémy a nebyly vedeny rasovými pohnutkami.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prezentoval nesouhlas s rozsudkem samosoudkyně, která uložila hnutí SPD pokutu 3 miliony Kč za dva typy předvolebních plakátů:\n    * Plakát „Stop migračnímu paktu EU“ a „Nedostatky ve zdravotnictví nevyřeší chirurgové z dovozu“.\n    * Plakát „Podpora pouze pro rodiny, kde děti plní školní docházku“ (s doprovodným textem o neplnění školní docházky).\n    * Argumentuje, že fotografie na druhém plakátu pochází z učebnice pro 7. ročník ZŠ.\n    * Tvrdí, že soudkyně se snažila diktovat způsob vedení politické kampaně a rozsudek byl připraven předem.\n    * Zdůraznil, že jemu osobně hrozí za stejné plakáty trest odnětí svobody v délce tří let.\n    * Uvedl, že nová vládní koalice s účastí SPD na svém prvním zasedání odmítla implementaci migračního paktu EU, čímž podle něj zabránila přerozdělování migrantů v ČR. `[1/00:30]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nikoliv rozhodovacím orgánem. Hnutí SPD deklarovalo svůj další právní postup, kterým je podání odvolání k městskému soudu a následně případně k Ústavnímu soudu. Hnutí trvá na tom, že obsah plakátů je legitimním vyjádřením politického názoru a odmítá nařčení z podněcování nenávisti.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Městský soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Za tyto plakáty uložila samosoudkyně SPD pokutu 3 miliony Kč a mně osobně hrozí za stejné plakáty tři roky vězení.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/01:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2974_highlight_00.jpg",
+      "context": "Trestní stíhání Tomia Okamury v souvislosti s volebními plakáty SPD probíhá (obvinění z hanobení národa, rasy, etnické či jiné skupiny osob). Výše trestu odnětí svobody je v trestním zákoníku (§ 355) stanovena v rozmezí až tří let, nicméně výrok o „hrozbě“ je právní kvalifikací, nikoliv jistým výsledkem soudu."
+    },
+    {
+      "text": "SPD se proti rozsudku odvolá k městskému soudu a jsme připraveni pokračovat až k Ústavnímu soudu.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2974_highlight_01.jpg",
+      "context": "Právo na odvolání proti rozsudku soudu prvního stupně je zakotveno v trestním řádu (zákon č. 141/1961 Sb.). Možnost podat ústavní stížnost k Ústavnímu soudu je přípustná až po vyčerpání všech procesních prostředků k ochraně práva."
+    },
+    {
+      "text": "Na prvním zasedání vlády jsme odmítli implementaci migračního paktu, tak si myslím, že můžeme dál zachovávat bezpečnou Českou republiku.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/04:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2974_highlight_02.jpg",
+      "context": "Tvrzení je zavádějící. ČR se jako členský stát EU na přijetí migračního paktu podílela a v rámci Rady EU pro něj hlasovala (resp. se zdržela, což není totéž co odmítnutí). Implementace paktu je pro členské státy závazná na základě unijního práva."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Tomio Okamura (SPD).\n**Co:** Obvinění samosoudkyně, že měla rozsudek připravený předem a že se snažila ovlivnit politické dění v ČR tím, že „kázala, jak má probíhat politická kampaň“.\n**Proč:** Zpochybňování nezávislosti a objektivity soudní moci je politicky citlivé a může být vnímáno jako útok na principy právního státu.\n**Čas:** 1/02:30",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/02:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2974_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Tvrzení o předem připraveném rozsudku je subjektivním hodnocením řečníka a představuje kritiku rozhodovací činnosti konkrétního soudce, což je v rámci politické debaty legitimní, avšak fakticky neprokázané tvrzení."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
