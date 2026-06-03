@@ -1,33 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#c5143c" />
-      <stop offset="100%" stop-color="#101432" />
-    </linearGradient>
-  </defs>
-  <!-- Same badge shape as snemovna, letter S (Sněmovna brand) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" overflow="visible">
+  <!-- Badge shape — rounded except top-right corner -->
   <path
     d="M36 8 H120 V92 Q120 120 92 120 H36 Q8 120 8 92 V36 Q8 8 36 8 Z"
-    fill="url(#g)"
+    fill="#c5143c"
   />
+  <!-- S overflowing the badge for max legibility at small sizes -->
   <text
     x="64" y="70"
     text-anchor="middle"
     dominant-baseline="middle"
     font-family="Roboto Slab, ui-serif, Georgia, serif"
-    font-size="84"
+    font-size="128"
     font-weight="700"
-    fill="#efb704"
+    fill="#ffffff"
   >S</text>
-  <!-- Small "v" subscript to mark videoarchiv -->
-  <text
-    x="104" y="106"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    font-family="Roboto Slab, ui-serif, Georgia, serif"
-    font-size="28"
-    font-weight="700"
-    fill="#efb704"
-    opacity="0.85"
-  >v</text>
 </svg>
