@@ -1,0 +1,101 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-03T14:10:20",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2971",
+    "name": "TK poslaneckého klubu Pirátů - po projednání ST 82",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-03T13:21",
+    "end_date": "2026-06-03T13:33",
+    "sources": [
+      "final/event_2971_2026-06-03_tk-poslaneckeho-klubu-piratu-po-projednani-st-82.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5378_video-psp-202663-1321-16-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference Pirátů se konala v reakci na projednávání zákona o podpoře v bydlení (ST 82) v Poslanecké sněmovně. Cílem konference bylo prezentovat postoj Pirátské strany k vládnímu návrhu, který podle nich zákon výrazně oslabil a „osekal“.\n\nPiráti kritizují zejména přesun agendy na přetížené úřady práce, což považují za nekoncepční krok, který odradí obce od aktivního zapojení do systému. Zároveň informovali o třech svých pozměňovacích návrzích, které se podařilo prosadit, a zdůraznili potřebu systémového řešení bytové krize inspirovaného zahraničními modely (např. Vídeň, Kodaň), nikoliv pouze spoléháním na volný trh.",
+    "main_points": [
+      "**Olga Richtrová (Piráti)** — Kritizovala vládní verzi zákona za to, že neřeší bytovou nouzi 1,6 milionu lidí v ČR. Upozornila na riziko přetížení úřadů práce, které mají nově agendu spravovat. Přestože Piráti prosadili tři pozměňovací návrhy, nakonec hlasovali proti zákonu jako celku, protože jej považují za nepromyšlený a nepodložený daty. `[02:05]`",
+      "**Veronika Kovářová (Piráti)** — Detailně popsala tři prosazené pozměňovací návrhy:\n    * Rozšíření okruhu osob s nárokem na podporu o více než 400 000 lidí.\n    * Snížení limitu pro přístup k podpoře (na polovinu životního minima), aby na pomoc dosáhli i lidé v extrémní chudobě.\n    * Umožnění zřizování kontaktních míst pro bydlení i městským částem. `[04:12]`",
+      "**Zdeněk Hřib (Piráti)** — Představil symbolickou „klíčenku“ k bytu v Bílině jako kritiku vládní nečinnosti. Zdůraznil, že bydlení není komodita jako „rohlíky“ a vyžaduje veřejné investice a silné obce. Kritizoval ideologický přístup ODS, která podle něj ignoruje data a úspěšné zahraniční příklady. `[06:05]`"
+    ],
+    "outcome": "Zákon o podpoře v bydlení byl v Poslanecké sněmovně projednán a schválen v osekané podobě. Piráti se podíleli na úpravě zákona prostřednictvím tří pozměňovacích návrhů, které rozšířily okruh příjemců pomoci a kompetence obcí, nicméně jako celek zákon nepodpořili kvůli obavám z nefunkčního přesunu agendy na úřady práce.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, nedokončené věty a opakující se nesmyslné fráze (např. „Představující se na nápadu...“), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Olga Richtrová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ODS",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Úřad práce"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V ČR je 1,6 milionu lidí v ohrožení bytovou nouzí, tak si myslíme, že to je opravdu velký úspěch a velice důležité.",
+      "type": "paraphrase",
+      "speaker": "Olga Richtrová",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2971_highlight_00.jpg",
+      "context": "Údaj o 1,6 milionu lidí v bytové nouzi vychází z analýz Ministerstva práce a sociálních věcí (MPSV) a neziskových organizací (např. Platforma pro sociální bydlení). Číslo zahrnuje nejen lidi bez domova, ale i osoby žijící v nevyhovujících podmínkách, předražených ubytovnách nebo v domácnostech s extrémními náklady na bydlení."
+    },
+    {
+      "text": "Potřebujete 15 čistých platů ročních k tomu, abyste si mohli jako průměrný člověk koupit průměrný byt.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2971_highlight_01.jpg",
+      "context": "Tvrzení odpovídá dlouhodobým datům o dostupnosti bydlení v ČR. Podle statistik ČSÚ a analýz bankovních domů (např. Deloitte Real Index) se v posledních letech poměr ceny bytu k ročnímu příjmu domácnosti v ČR pohybuje mezi 12 až 15 násobkem, v Praze je tento poměr i výrazně vyšší."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Zdeněk Hřib (Piráti)\n**Co:** Hřib označil představitele hnutí ANO za „uznané lháře“ a kritizoval Andreje Babiše za střet zájmů a porušování vlastního etického kodexu hnutí.\n**Proč:** Jde o vyhrocenou politickou rétoriku v reakci na předchozí sněmovní debatu, kde byla Olga Richtrová označena za lhářku. Hřib tímto útočí na integritu opozičního hnutí ANO.\n**Čas:** 1/08:06",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2971_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní politické hodnocení a rétorický útok, nikoliv o faktické tvrzení, které by bylo možné verifikovat pomocí objektivních dat či právních norem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
