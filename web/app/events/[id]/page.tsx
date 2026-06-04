@@ -8,7 +8,7 @@ import {
   pluralCitace,
   pluralKontroverze,
 } from "@/lib/summaries";
-import { videoDeepLink, parseMainPointTimestamp } from "@/lib/types";
+import { videoDeepLink, parseMainPointTimestamp, firstThumbnail } from "@/lib/types";
 import { CategoryBadge } from "../../components/CategoryBadge";
 import { QualityBadge } from "../../components/QualityBadge";
 import { HighlightCard } from "../../components/HighlightCard";
@@ -67,6 +67,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const s = getSummaryById(id);
   if (!s) return {};
   const description = s.summary.topic.split("\n")[0].slice(0, 200);
+  const thumb = firstThumbnail(s);
   return {
     title: s.event.name,
     description,
@@ -75,11 +76,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description,
       type: "article",
       publishedTime: s.event.start_date,
+      ...(thumb && { images: [{ url: thumb, width: 800, height: 450 }] }),
     },
     twitter: {
       card: "summary_large_image",
       title: s.event.name,
       description,
+      ...(thumb && { images: [thumb] }),
     },
   };
 }
