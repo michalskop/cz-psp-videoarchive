@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-04T14:27:50",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2972",
+    "name": "Tisková konference po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-04T10:41",
+    "end_date": "2026-06-04T11:11",
+    "sources": [
+      "final/event_2972_2026-06-04_tiskova-konference-po-jednani-kabinetu-budoucnosti.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5379_video-psp-202664-1041-38-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace politických priorit a postojů stínové vlády hnutí STAN. Hlavními tématy byla kritika vládní politiky Andreje Babiše, konkrétně v oblastech lidskoprávní agendy, protidrogové politiky a stavebního zákona.\n\nDalším klíčovým bodem bylo představení návrhu na omezení poslanecké imunity, který má reagovat na současnou politickou situaci a trestní stíhání některých poslanců. Zástupci hnutí STAN rovněž kritizovali stav parlamentní kultury a přístup vládní koalice k opozici, přičemž vyjádřili ochotu jednat o zefektivnění jednacího řádu Poslanecké sněmovny.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Představil návrh na omezení poslanecké imunity: zrušení imunity pro přestupky a změna modelu u trestných činů. Kritizoval Andreje Babiše a Tomia Okamuru za jejich vztah k právnímu státu. `[1/02:05]`",
+      "**Barbora Urbanová (STAN)** — Kritizovala rušení lidskoprávních agend na Úřadu vlády a jejich přesun pod ministerstva. Oznámila koordinovaný postup opozice a snahu o schůzku s premiérem Babišem. `[1/06:00]`",
+      "**Michala Šebelová (STAN)** — Zaměřila se na protidrogovou politiku; varovala před jejím přesunem pod ministerstvo zdravotnictví. Kritizovala vládu za zaměření na „kratom“ jako zástupné téma a vyzvala k řešení problematiky alkoholu. `[1/10:12]`",
+      "**Martin Dvořák (STAN)** — Kritizoval vládu za nečinnost v otázce bezpečnosti a přítomnosti ruských diplomatů. Navrhl pozměňovací návrh k „Lex Ukrajina“ pro přísnější schvalovací proces ruských diplomatů. `[1/16:02]`"
+    ],
+    "outcome": "Jednání nebylo legislativním aktem, ale mediálním výstupem. Dominujícím postojem je odmítnutí současné podoby stavebního zákona, který opozice považuje za „hacknutý“ a destruktivní. V oblasti parlamentní spolupráce existuje konsenzus na nutnosti úpravy jednacího řádu (zefektivnění), přičemž STAN deklaruje ochotu k dohodám, pokud vládní koalice přestane blokovat obsazování kontrolních orgánů.",
+    "notes": "Přepis obsahuje řadu gramatických chyb, překlepů a nedokončených vět. Části textu jsou nesrozumitelné kvůli chybějící diakritice a výpadkům slov."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michala Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Martin Dvořák",
+        "person_id": "psp:person:5664",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD",
+      "TOP 09",
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Úřad vlády",
+      "Ministerstvo zdravotnictví"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Jakákoliv přestupková imunita je úplně nesmyslná, proč bych měl mít jako poslanec výjimku, když jedu rychle?",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/02:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2972_highlight_00.jpg",
+      "context": "Poslanci a senátoři mají podle čl. 27 Ústavy ČR přestupkovou imunitu, což znamená, že je nelze postihnout za přestupky v rámci správního řízení, ale pouze v disciplinárním řízení mandátového a imunitního výboru. Vít Rakušan zde vyjadřuje svůj politický postoj k dlouhodobě diskutované reformě této ústavní výsady."
+    },
+    {
+      "text": "Vláda, která se neopírá o názory odborníků, by se mohla nazývat vládou diletantů.",
+      "type": "citation",
+      "speaker": "Michala Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/11:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2972_highlight_01.jpg",
+      "context": "Toto je subjektivní politické hodnocení a hodnotový soud, který nelze fakticky ověřit. Pojem „diletant“ je v politické debatě používán jako expresivní vyjádření nesouhlasu s kvalitou vládního rozhodování."
+    },
+    {
+      "text": "Náklady na negativní externality alkoholu v roce 2024 byly vyčísleny na 83,4 miliard korun.",
+      "type": "citation",
+      "speaker": "Michala Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/14:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2972_highlight_02.jpg",
+      "context": "Částka 83,4 miliardy Kč odpovídá odhadům nákladů na negativní dopady užívání alkoholu (včetně zdravotních, sociálních a ekonomických ztrát), které pravidelně publikuje Národní monitorovací středisko pro drogy a závislosti v rámci svých výročních zpráv. Údaj je založen na metodice výpočtu společenských nákladů, nikoliv na přímém výběru daní."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Vít Rakušan (STAN)** navrhuje, aby poslanec nebyl chráněn před trestním stíháním automaticky, ale musel by o ochranu žádat. Je to kontroverzní, protože jde o zásadní změnu ústavního principu imunity. `[1/04:11]`",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/04:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2972_controversy_00.jpg",
+      "context": "Změna principu imunity by vyžadovala novelu Ústavy ČR, což je proces vyžadující ústavní většinu obou komor Parlamentu. Návrh na zúžení imunity je předmětem dlouhodobých politických debat, nikoliv platným právním stavem."
+    },
+    {
+      "statement": "**Michala Šebelová (STAN)** označila vládu za „vládu diletantů“, protože se neopírá o názory odborníků v protidrogové politice. `[1/10:12]`",
+      "speaker": "Michala Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/10:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2972_controversy_01.jpg",
+      "context": "Označení „vláda diletantů“ je politická rétorika. Tvrzení o ignorování odborníků je subjektivním hodnocením kvality spolupráce vlády s expertními poradními orgány, jako je například Rada vlády pro koordinaci protidrogové politiky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

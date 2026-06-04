@@ -1,0 +1,191 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-04T14:27:36",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2970",
+    "name": "Budoucnost lidskoprávní agendy v ČR?",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-04T08:38",
+    "end_date": "2026-06-04T11:16",
+    "sources": [
+      "final/event_2970_2026-06-04_budoucnost-lidskopravni-agendy-v-cr.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604083506.mp4",
+        "from_sec": 201
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604083752.mp4",
+        "from_sec": 35
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604084009.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604085009.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604090009.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604091009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604092009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604093009.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604094009.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604095009.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604100009.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604101009.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604102009.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604103009.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604104009.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604105009.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604110009.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/04/_20260604111009.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 18,
+    "parts_total": 18,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu, které se konalo 4. června 2026 v Poslanecké sněmovně, bylo svoláno opozičními poslanci v reakci na vládní rozhodnutí o restrukturalizaci a rozdrobení útvarů pro ochranu lidských práv a rovnosti žen a mužů, které byly dosud centralizovány pod Úřadem vlády ČR. Cílem setkání byla odborná debata o dopadech tohoto kroku, který experti a zástupci neziskového sektoru vnímají jako destrukci systému, a hledání cest, jak zachovat nadrezortní koordinaci a expertní zázemí pro klíčové agendy.\n\nÚčastníci se shodli, že přesun agend na jednotlivá ministerstva povede k jejich marginalizaci, ztrátě odbornosti a oslabení schopnosti státu plnit mezinárodní závazky.",
+    "main_points": [
+      "**Eva Decroix (ODS/Opozice)** – iniciátorka setkání; navrhla vytvoření parlamentní komise pro lidská práva jako platformy pro centralizaci informací a koordinaci odporu. `[2/02:11]`",
+      "**Klára Šimáčková Laurenčíková (bývalá zmocněnkyně vlády pro lidská práva)** – kritizovala netransparentnost vládního rozhodnutí a absenci odborné diskuse. Upozornila na zánik dotačních programů a varovala před rozbitím synergické spolupráce expertních týmů. `[4/04:12]`",
+      "**Monika Šimůnková (bývalá zmocněnkyně vlády pro lidská práva)** – varovala před ztrátou nezávislosti úředníků a navrhla konkrétní řešení: vytvoření sekce pro lidská práva pod vedením vrchního ředitele. `[5/06:05]`",
+      "**Martin Baxa (poslanec, bývalý ministr kultury)** – označil přesun Rady vlády pro národnostní menšiny pod Ministerstvo kultury za nebezpečnou marginalizaci. `[10/00:00]`",
+      "**Tamara Kováčová (Institut českého znakového jazyka)** – upozornila na neviditelnost potřeb osob se sluchovým postižením a varovala před oslabením participace těchto osob. `[13/08:16]`",
+      "**Sylvie Píchová (Výbor pro EU)** – zdůraznila riziko ohrožení čerpání EU fondů, které jsou na nadrezortní koordinaci závislé. `[7/06:00]`"
+    ],
+    "outcome": "Jednání nevedlo k okamžité změně vládního rozhodnutí, ale vytvořilo základ pro další koordinovaný postup opozice a občanské společnosti. Byly dohodnuty následující kroky:\n* Příprava písemných vyjádření k dopadům restrukturalizace.\n* Podání návrhu na vznik parlamentní komise pro lidská práva.\n* Žádost o oficiální schůzku s premiérem.\n* Sběr dat o konkrétních dopadech přesunu agend.\n* Pokračování v diskuzi na podzim (září 2026).",
+    "notes": "Přepis obsahuje četné chyby v diakritice a useknutá slova, nicméně obsahová podstata argumentů byla srozumitelná. Část 1/18 je prázdná."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Eva Decroix",
+        "person_id": "psp:person:6727",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Klára Šimáčková Laurenčíková",
+        "person_id": null,
+        "affiliation": "bývalá zmocněnkyně vlády pro lidská práva"
+      },
+      {
+        "name": "Monika Šimůnková",
+        "person_id": "psp:person:6644",
+        "affiliation": "bývalá zmocněnkyně vlády pro lidská práva"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "poslanec"
+      },
+      {
+        "name": "Tamara Kováčová",
+        "person_id": null,
+        "affiliation": "Institut českého znakového jazyka"
+      },
+      {
+        "name": "Sylvie Píchová",
+        "person_id": null,
+        "affiliation": "Výbor pro EU"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "TOP 09",
+      "KDU-ČSL",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Úřad vlády ČR",
+      "Senát ČR",
+      "Česká advokátní komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Rozhodnutím vlády o rozdrobení útvarů pro ochranu lidských práv dochází k destrukci podstatného hodnotového základu, na kterém stojí sociálně uvědomělá politika moderní demokracie.",
+      "type": "paraphrase",
+      "speaker": "Klára Šimáčková Laurenčíková",
+      "affiliation": "bývalá zmocněnkyně vlády pro lidská práva",
+      "timestamp": "4/04:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2970_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení vládní reorganizace agend lidských práv. Fakticky lze ověřit pouze změnu organizační struktury (např. přesun agend pod Úřad vlády či jednotlivá ministerstva), dopad na „hodnotový základ“ je věcí politické interpretace."
+    },
+    {
+      "text": "Pokud se přesunou agendy na jednotlivá ministerstva, ztratíme možnost oslovovat ministerstva centrálně a de facto nestranně.",
+      "type": "citation",
+      "speaker": "Nikol Fričová",
+      "affiliation": "Rada vlády pro osoby se zdravotním postižením",
+      "timestamp": "11/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2970_highlight_01.jpg",
+      "context": "Tvrzení reflektuje obavu z decentralizace agendy, která byla dříve zastřešována centrálně. Zda decentralizace skutečně znemožní „nestranné oslovování“, je předmětem odborné debaty o efektivitě státní správy, nikoliv ověřitelný fakt."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Klára Chábová (Výbor pro práva dítěte) vyzvala opoziční poslance, aby v tajné volbě veřejného ochránce práv jednotně hlasovali pro Kláru Šimáčkovou Laurenčíkovou a lobbovali u koaličních kolegů. Je to politicky citlivé, protože jde o přímou výzvu k přeběhlictví v rámci koaličních stran.",
+      "speaker": "Klára Chábová",
+      "affiliation": "Výbor pro práva dítěte",
+      "timestamp": "13/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2970_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Obsah neveřejných výzev k hlasování a zákulisní lobbing v rámci koaličních stran nejsou veřejně dokumentovány ani oficiálně potvrzeny."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
