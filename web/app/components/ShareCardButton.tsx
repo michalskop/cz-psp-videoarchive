@@ -9,6 +9,8 @@ interface Props {
   children: React.ReactNode;
 }
 
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export function ShareableCard({ filename = "karta", children }: Props) {
   const cardRef = useRef<HTMLDivElement>(null);
   const [status, setStatus] = useState<Status>("idle");
@@ -16,22 +18,18 @@ export function ShareableCard({ filename = "karta", children }: Props) {
   const capture = useCallback(async () => {
     if (!cardRef.current) return null;
 
-    // Pre-fetch remote images as blob URLs so html2canvas can read them
-    // (avoids CORS taint on the canvas).
+    // Route external images through the server-side proxy so html2canvas
+    // reads a same-origin URL — avoids CORS taint on the canvas.
     const imgs = Array.from(cardRef.current.querySelectorAll<HTMLImageElement>("img"));
     const restores: Array<() => void> = [];
     await Promise.allSettled(
       imgs.map(async (img) => {
         const src = img.getAttribute("src");
-        if (!src || src.startsWith("data:") || src.startsWith("blob:")) return;
-        try {
-          const res = await fetch(src, { mode: "cors", cache: "force-cache" });
-          if (!res.ok) return;
-          const blobUrl = URL.createObjectURL(await res.blob());
-          img.setAttribute("src", blobUrl);
-          await new Promise<void>((r) => { img.onload = () => r(); img.onerror = () => r(); });
-          restores.push(() => { img.setAttribute("src", src); URL.revokeObjectURL(blobUrl); });
-        } catch { /* leave as-is */ }
+        if (!src || src.startsWith("data:") || src.startsWith("blob:") || src.startsWith("/")) return;
+        const proxySrc = `${BASE}/api/proxy-image?url=${encodeURIComponent(src)}`;
+        img.setAttribute("src", proxySrc);
+        await new Promise<void>((r) => { img.onload = () => r(); img.onerror = () => r(); });
+        restores.push(() => img.setAttribute("src", src));
       })
     );
 
