@@ -76,10 +76,18 @@ else
     # 6 — Rebuild and redeploy web site (only when there are new summaries)
     log "--- vercel deploy ---"
     cd "$DIR/web"
-    NEXT_PUBLIC_BASE_PATH=/digest NEXT_PUBLIC_ASSET_PREFIX=https://cz-psp-videoarchive-michalskops-projects.vercel.app npx vercel build --prod >> "$LOG" 2>&1
-    npx vercel deploy --prebuilt --prod --archive=tgz >> "$LOG" 2>&1
+    NEXT_PUBLIC_BASE_PATH=/digest NEXT_PUBLIC_ASSET_PREFIX=https://cz-psp-videoarchive-michalskops-projects.vercel.app vercel build --prod >> "$LOG" 2>&1
+    vercel deploy --prebuilt --prod --archive=tgz >> "$LOG" 2>&1
     cd "$DIR"
     log "Web site redeployed"
+
+    # 7 — Smoke test: verify assets are served with the correct /digest prefix
+    log "--- smoke test ---"
+    if bash "$DIR/web/scripts/smoke-test.sh" >> "$LOG" 2>&1; then
+        log "Smoke test passed"
+    else
+        log "SMOKE TEST FAILED — check $LOG for details"
+    fi
 fi
 
 log "=== Pipeline done ==="
