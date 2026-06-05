@@ -6,8 +6,8 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 WEB_DIR="$(dirname "$SCRIPT_DIR")"
 
-echo "Building..."
-cd "$WEB_DIR"
+echo "Building... (from $WEB_DIR)"
+cd "$WEB_DIR"  # vercel build must run from the directory with .vercel/project.json
 NEXT_PUBLIC_BASE_PATH=/digest \
   NEXT_PUBLIC_ASSET_PREFIX=https://cz-psp-videoarchive-michalskops-projects.vercel.app \
   vercel build --prod
