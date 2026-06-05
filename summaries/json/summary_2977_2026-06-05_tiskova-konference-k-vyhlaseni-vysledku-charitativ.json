@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-05T14:23:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2977",
+    "name": "Tisková konference k vyhlášení výsledků Charitativního závodu o pohár 1. místopředsedy PS pana Patrika Nachera na handbike trenažéru",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-05T13:18",
+    "end_date": "2026-06-05T13:31",
+    "sources": [
+      "final/event_2977_2026-06-05_tiskova-konference-k-vyhlaseni-vysledku-charitativ.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5389_video-psp-202665-1318-5-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání bylo tiskovou konferencí k vyhlášení výsledků charitativního závodu na handbike trenažéru, který v prostorách Poslanecké sněmovny pořádal 1. místopředseda PS Patrik Nacher. Cílem akce bylo podpořit dobrou věc, vybrat finanční prostředky pro potřebné a zároveň motivovat poslance, asistenty a zaměstnance sněmovny k aktivnímu pohybu a týmové spolupráci.\n\nKromě sportovního aspektu měla akce i společenský přesah – upozornit na problematiku bezbariérovosti budov Poslanecké sněmovny a zvýšit empatii politiků vůči lidem s pohybovým handicapem.",
+    "main_points": [
+      "**Patrik Nacher (ANO, 1. místopředseda PS)** – Organizátor akce. Uvedl, že se vybralo celkem 108 150 Kč. Závodu se zúčastnily všechny poslanecké kluby i zaměstnanci. Vítězem se stal klub STAN, na druhém místě TOP 09, na třetím Motoristé, čtvrté místo obsadilo ANO. Zmínil, že příští ročník se uskuteční v červnu 2027. `[1/02:04]`",
+      "**Michaela Šebelová (STAN, předsedkyně klubu)** – Vyzdvihla týmový charakter akce a poděkovala asistentům, kteří se na výsledku podíleli. Zdůraznila, že akce pomáhá politikům uvědomit si bariéry v budově sněmovny a nutnost myslet na legislativu pro lidi s omezením pohybu. `[1/04:00]`",
+      "**Michal Zuna (TOP 09, místopředseda klubu)** – Ocenil charitativní rozměr akce a „společné nadšení pro věc“. Uvedl, že sportovní aktivity ve sněmovně pomáhají ventilovat emoce a budovat zdravou soutěživost mezi politiky. `[1/06:03]`",
+      "**Neidentifikovaný řečník (SPD)** – Vyjádřil podporu charitativnímu záměru. Podělil se o osobní zkušenost s pohybem na vozíku (kvůli zranění nohou), díky které si uvědomil praktické problémy bezbariérovosti, jako jsou skloněné chodníky. `[1/08:28]`",
+      "**Martin Plíšek (vedoucí Kanceláře PS)** – Poděkoval organizátorům a vyzdvihl, že se podařilo vybrat rekordní částku. Potvrdil, že kancelář bude pokračovat v projektech zaměřených na zlepšení bezbariérovosti prostor sněmovny. `[1/10:04]`"
+    ],
+    "outcome": "Akce byla vyhodnocena jako úspěšná, a to jak z hlediska vybrané finanční částky (108 150 Kč), tak z hlediska zapojení všech politických subjektů. Konsenzem všech zúčastněných je, že tyto aktivity do Poslanecké sněmovny patří, protože zlepšují vztahy mezi poslanci a zaměstnanci a zvyšují citlivost politiků k tématům handicapovaných osob. Organizátor potvrdil pokračování tradice v roce 2027.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze (např. „Představující se na hudbu“), které byly pro účely shrnutí ignorovány. Části textu jsou fragmentované, ale hlavní sdělení a pořadí klubů jsou srozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michal Zuna",
+        "person_id": "psp:person:6796",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Martin Plíšek",
+        "person_id": "psp:person:6251",
+        "affiliation": "Kancelář PS"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "STAN",
+      "TOP 09",
+      "SPD",
+      "KDU-ČSL",
+      "Piráti",
+      "ODS",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Kancelář Poslanecké sněmovny"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vybralo se přes 108 tisíc korun, tentokrát se skutečně toho účastnily všechny kluby, včetně zaměstnanců.",
+      "type": "paraphrase",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/01:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2977_highlight_00.jpg",
+      "context": "Tvrzení o vybrané částce a účasti všech klubů lze ověřit z interních záznamů Kanceláře Poslanecké sněmovny o charitativních akcích. Pokud byla akce organizována jako oficiální sbírka, údaje o výtěžku jsou dohledatelné v účetnictví příslušné organizace."
+    },
+    {
+      "text": "Představujeme, že poslanecká sněmovna není bezbariérová, že se tady špatně pohybuje a nás to nutí přemýšlet jako politiky, jak myslet v rámci projednávaných zákonů na lidi, kteří mají určité omezení pohybu.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/05:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2977_highlight_01.jpg",
+      "context": "Bezbariérovost historických budov Poslanecké sněmovny (např. Thunovský palác) je dlouhodobě diskutovaným tématem. Ačkoliv byly provedeny úpravy, budovy památkově chráněného komplexu mají technická omezení, která plně bezbariérový přístup do všech prostor ztěžují."
+    },
+    {
+      "text": "Jde o to, že jsme vybrali tentokrát nejvyšší částku za celou dobu fungování té soutěže.",
+      "type": "paraphrase",
+      "speaker": "Martin Plíšek",
+      "affiliation": "Kancelář PS",
+      "timestamp": "1/10:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2977_highlight_02.jpg",
+      "context": "Tvrzení o rekordní částce je ověřitelné porovnáním s historickými daty o výnosech z předchozích ročníků této konkrétní soutěže vedenými Kanceláří Poslanecké sněmovny. Nelze nezávisle ověřit bez přístupu k interním archivům Kanceláře PS."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Patrik Nacher (ANO) uvedl, že „kolegové z ostatních subjektů asi nepochopili, že handbike trenažér poskytují poslanecké sněmovny na této soutěži“ a následně vtipkoval o tom, že vítězný tým STAN na trenažéru „asi bivakoval“. Jde o lehce konfrontační tón vůči vítěznému klubu, který může být vnímán jako zpochybňování férovosti sportovního výkonu, byť pravděpodobně myšleno v nadsázce.",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2977_controversy_00.jpg",
+      "context": "Výrok je subjektivním komentářem a nadsázkou politika. Férovost sportovního výkonu na trenažéru je v tomto kontextu neověřitelná, neboť jde o politickou rétoriku a humor, nikoliv o oficiální sportovní soutěž s přísným dohledem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
