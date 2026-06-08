@@ -1,0 +1,131 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-08T19:32:20",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2981",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-08T15:31",
+    "end_date": "2026-06-08T16:05",
+    "sources": [
+      "final/event_2981_2026-06-08_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5391_video-psp-202668-1531-16-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ODS sloužila k vyjádření postoje opoziční strany k aktuálním krokům vlády Andreje Babiše. Hlavními tématy byly spor o účast prezidenta Petra Pavla na summitu NATO, zpráva o vnitřní bezpečnosti, zahraniční politika (vztahy s Tchaj-wanem a Ukrajinou), problematika střetu zájmů premiéra a budoucnost protidrogové politiky.\n\nCílem konference bylo prezentovat ODS jako konstruktivní opozici, která kritizuje nekoncepčnost a populismus současné vlády, a zároveň zdůraznit potřebu návratu k odborným a systémovým řešením v klíčových oblastech správy státu.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval váhavost vlády ohledně účasti prezidenta na summitu NATO a označil ji za prokrastinaci. Vyzdvihl pozitivní zprávu o vnitřní bezpečnosti (pokles kriminality o 2 %) a nezávislost na ruské ropě. Odsoudil kybernetické útoky z Ruska a Číny. Oznámil svolání odborníků k závislostní politice a podpořil pokračování projektu „Česká cesta do vesmíru“. `[1/02:00]`",
+      "**Miloš Vystrčil (ODS)** — Informoval o své cestě na Tchaj-wan, která přinesla konkrétní výsledky: navýšení přímých leteckých linek, investiční fond 50 mil. EUR pro české a tchajwanské firmy a akademická partnerství. Zdůraznil nutnost komunikace s Tchaj-wanem jako demokratickým partnerem. `[1/08:04]`",
+      "**Jan Lipavský (ODS)** — Vyzval vládu k posílení vztahů s Ukrajinou a k zavedení omezení pohybu pro ruské diplomaty na území ČR, aby se vyrovnalo nerovné postavení českých diplomatů v Rusku. `[1/14:00]`",
+      "**Marek Benda (ODS)** — Oznámil svolání mimořádné schůze Sněmovny k tématu střetu zájmů Andreje Babiše a ochraně daňových poplatníků před rizikovými dotacemi pro Agrofert. `[1/16:03]`"
+    ],
+    "outcome": "Jednání bylo tiskovým brífinkem, nikoliv rozhodovacím orgánem. ODS deklarovala záměr pokračovat v tlaku na vládu skrze mimořádné schůze Sněmovny a odborné debaty. Konsenzem mezi řečníky byla potřeba jednotného vystupování ústavních činitelů v zahraniční politice a odmítnutí populistického rozhazování státních financí (např. navýšení plateb za státní pojištěnce bez systémových reforem).",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Miloš Vystrčil",
+        "person_id": "psp:person:4775",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Marek Benda",
+        "person_id": "psp:person:4",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "Senát PČR",
+      "Poslanecká sněmovna PČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Každá koruna investovaná do vesmírných technologií a do průzkumu vesmíru se vrací i České republice sedmkrát až osmkrát.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/05:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2981_highlight_00.jpg",
+      "context": "Tvrzení o multiplikačním efektu investic do vesmírného průmyslu je založeno na odhadech Evropské kosmické agentury (ESA). Ačkoliv se v oboru běžně operuje s čísly mezi 5 až 8, jde o teoretické modely závislé na metodice výpočtu a konkrétním typu projektu, nikoliv o univerzálně platnou konstantu pro každou investovanou korunu."
+    },
+    {
+      "text": "Tchaj-wan je demokratická svobodná země a je naší povinností, abychom se k ní takto chovali.",
+      "type": "citation",
+      "speaker": "Miloš Vystrčil",
+      "affiliation": "ODS",
+      "timestamp": "1/13:22",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2981_highlight_01.jpg",
+      "context": "Tchaj-wan je demokratický stát s vlastní vládou, ústavou a volbami. Česká republika oficiálně uznává politiku jedné Číny, ale udržuje s Tchaj-wanem úzké ekonomické, kulturní a vědecké vztahy, což je v souladu s diplomatickým postojem většiny zemí EU."
+    },
+    {
+      "text": "Jsme svědky toho, že nejvyšší ústavní činitelé spolu nehovoří a na úrovni českého parlamentu neprobíhá debata o nejzásadnějších otázkách zahraniční politiky.",
+      "type": "paraphrase",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/14:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2981_highlight_02.jpg",
+      "context": "Jde o politické hodnocení stavu komunikace mezi ústavními činiteli. Intenzita a kvalita debaty o zahraniční politice v parlamentu je subjektivně vnímaná a nelze ji objektivně změřit, nicméně formální mechanismy pro tuto debatu (zahraniční výbory) existují."
+    },
+    {
+      "text": "Vláda si zřejmě myslí, že všechno vyřeší, když to prostě zalije penězi, ale tak to fakt nefunguje.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/28:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2981_highlight_03.jpg",
+      "context": "Toto je politický názor na fiskální politiku vlády. Efektivita vládních výdajů je předmětem dlouhodobých ekonomických debat a nelze ji fakticky potvrdit ani vyvrátit bez analýzy konkrétních vládních programů a jejich dopadů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "### Kontroverzní téma: Prodej Explosie\n* **Kdo:** Martin Kupka (ODS)\n* **Co:** Kritizoval nekoncepčnost premiéra Babiše při náhlém návrhu prodeje Explosie.\n* **Proč:** Jde o strategický podnik v oblasti obranného průmyslu v době geopolitického napětí; existuje podezření na netransparentní vazby na minulost Andreje Babiše.\n* **Čas:** `1/20:02`",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/20:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2981_controversy_00.jpg",
+      "context": "Společnost Explosia a.s. je strategickým podnikem vlastněným státem (prostřednictvím Ministerstva průmyslu a obchodu). Návrhy na její privatizaci či změnu struktury jsou předmětem politické diskuse, přičemž tvrzení o netransparentnosti jsou politickým hodnocením, nikoliv právně prokázaným faktem."
+    },
+    {
+      "statement": "### Kontroverzní téma: Střet zájmů a dotace Agrofertu\n* **Kdo:** Marek Benda (ODS)\n* **Co:** Obvinění, že vláda upřednostňuje zájmy Agrofertu před zájmy občanů.\n* **Proč:** Politicky citlivé téma, které přímo útočí na integritu premiéra a hrozí finančními ztrátami pro státní rozpočet.\n* **Čas:** `1/16:03`",
+      "speaker": "Marek Benda",
+      "affiliation": "ODS",
+      "timestamp": "1/16:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2981_controversy_01.jpg",
+      "context": "Otázka střetu zájmů Andreje Babiše a čerpání dotací koncernem Agrofert byla předmětem auditů Evropské komise, které potvrdily systémovou podjatost. Závěry auditů byly v minulosti opakovaně potvrzeny jako faktický podklad pro vymáhání neoprávněně vyplacených prostředků."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
