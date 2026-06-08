@@ -1,0 +1,149 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-08T14:29:06",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2980",
+    "name": "Duševní zdraví a fenomén osamocenosti",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-08",
+    "sources": [
+      "final/event_2980_2026-06-08_dusevni-zdravi-a-fenomen-osamocenosti.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/08/_20260608130004.mp4",
+        "from_sec": 131
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/08/_20260608131004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/08/_20260608132004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/08/_20260608133004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/08/_20260608134004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 5,
+    "parts_total": 5,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Cílem kulatého stolu bylo diskutovat o duševním zdraví dětí a dospívajících v kontextu rostoucí osamocenosti a systémových výzev. Účastníci se zaměřili na roli rodiny jako klíčového ochranného faktoru, dopady společenských změn na rodičovské kompetence a potřebu efektivnější preventivní infrastruktury.\n\nJednání bylo rozděleno do dvou bloků: první se věnoval příčinám a systémovým výzvám, druhý konkrétním řešením a příkladům dobré praxe. Akce zdůraznila, že investice do vztahů a prevence jsou klíčové pro dlouhodobou stabilitu společnosti a snižování budoucích nákladů na zdravotní a sociální péči.",
+    "main_points": [
+      "**Václav Pláteník (poslanec)** — Zdůraznil, že prevence začíná v rodině a komunitě. Politici by měli vytvářet podmínky pro komunitní život a investovat do prevence. `[1/04:02]`",
+      "**Dana Lipová (Nadace Sirius)** — Upozornila na tlak na dokonalost rodičů a zpochybňování tradičních výchovných vzorců. `[2/00:01]`",
+      "**Jaroslava Otradovcová (Rodinný svaz ČR)** — Zdůraznila potřebu spolupráce s rodiči při regulaci digitálních technologií. `[2/04:05]`",
+      "**Eliška Kodišová (Klinika adiktologie 1. LF UK)** — Identifikovala „rodičovskou kapacitu“ jako klíčový faktor; přetížení rodiče nemohou být citlivými průvodci dětí. `[2/06:04]`",
+      "**Markéta Školoudová a Michal Považan (Zahrada pro duši / Centrum duševního zdraví)** — Kritizovali označování dětí za „sněhové vločky“ a upozornili na dlouhé čekací doby na péči (cca půl roku). `[4/02:05]`",
+      "**Aneta Habartová (Modrá linka)** — Prezentovala data z krizové linky, kde se počet kontaktů od roku 2020 ztrojnásobil. `[5/06:00]`"
+    ],
+    "outcome": "Jednání vyústilo v konsenzus, že stávající systém péče o duševní zdraví dětí je přetížený a nedostatečně propojený. Dominoval postoj, že je nutné:\n* Posílit preventivní programy a dostupnost terénní péče.\n* Snížit administrativní a společenský tlak na rodiče.\n* Zlepšit vzdělávání pedagogů a praktických lékařů.\n* Zajistit dlouhodobé financování služeb.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se fráze. Části textu jsou nesrozumitelné kvůli technickým chybám přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Václav Pláteník",
+        "person_id": "psp:person:7036",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Dana Lipová",
+        "person_id": "psp:person:6652",
+        "affiliation": "Nadace Sirius"
+      },
+      {
+        "name": "Jaroslava Otradovcová",
+        "person_id": null,
+        "affiliation": "Rodinný svaz ČR"
+      },
+      {
+        "name": "Eliška Kodišová",
+        "person_id": null,
+        "affiliation": "Klinika adiktologie 1. LF UK"
+      },
+      {
+        "name": "Markéta Školoudová",
+        "person_id": null,
+        "affiliation": "Zahrada pro duši"
+      },
+      {
+        "name": "Michal Považan",
+        "person_id": null,
+        "affiliation": "Centrum duševního zdraví"
+      },
+      {
+        "name": "Aneta Habartová",
+        "person_id": null,
+        "affiliation": "Modrá linka"
+      }
+    ],
+    "parties": [
+      "Rodinný svaz ČR"
+    ],
+    "institutions": [
+      "Nadace Sirius",
+      "Poslanecká sněmovna",
+      "Klinika adiktologie 1. LF UK",
+      "Modrá linka"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nejvýznamnějším ochranným faktorem pro duševní zdraví dětí zůstávají kvalitní vztahy, zejména vztahy v rodině a v komunitě.",
+      "type": "paraphrase",
+      "speaker": "Václav Pláteník",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/02:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2980_highlight_00.jpg",
+      "context": "Tvrzení je v souladu s poznatky vývojové psychologie a závěry Světové zdravotnické organizace (WHO), které identifikují stabilní rodinné zázemí jako klíčový protektivní faktor pro duševní zdraví dětí. Jde o odborný konsenzus podložený řadou longitudinálních studií v oblasti dětské psychologie."
+    },
+    {
+      "text": "Matky, které jsou duševně nemocné, zkrátka nemají takovou kapacitu být dost dobré matky.",
+      "type": "citation",
+      "speaker": "Eliška Kodišová",
+      "affiliation": "Klinika adiktologie 1. LF UK",
+      "timestamp": "3/01:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2980_highlight_01.jpg",
+      "context": "Tvrzení je zjednodušující a stigmatizující. Kapacita rodičovství není přímo úměrná diagnóze duševního onemocnění; závisí na míře kompenzace nemoci, dostupnosti léčby a podpůrných sociálních sítích. Odborná veřejnost zdůrazňuje individualitu každého případu namísto paušalizace."
+    },
+    {
+      "text": "Počet kontaktů na lince důvěry se od roku 2020 ztrojnásobil a stále narůstá.",
+      "type": "citation",
+      "speaker": "Aneta Habartová",
+      "affiliation": "Modrá linka",
+      "timestamp": "5/06:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2980_highlight_02.jpg",
+      "context": "Data Modré linky potvrzují výrazný nárůst poptávky po krizové pomoci v posledních letech, zejména v souvislosti s pandemií covid-19 a následnou ekonomickou nejistotou. Přesné násobky se mohou lišit podle konkrétního typu služby (telefonická vs. chatová pomoc), ale trend prudkého nárůstu je doložitelný ve výročních zprávách organizace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika „nucené střídavé péče“ a soudních šablon v rodinných konfliktech. Michal Považan uvedl, že soudci v rodinných sporech používají šablony, které v republice nefungují a situaci zhoršují.",
+      "speaker": "Michal Považan",
+      "affiliation": "Centrum duševního zdraví",
+      "timestamp": "5/04:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2980_controversy_00.jpg",
+      "context": "Debata o „šablonovitém“ rozhodování soudů je dlouhodobým tématem odborné diskuse mezi psychology a právníky. Ačkoliv existují kritické hlasy poukazující na nedostatečnou individualizaci péče, neexistuje žádná oficiální statistika či zákonná norma, která by „šablony“ nařizovala; jde o kritiku soudní praxe a interpretaci judikatury Ústavního soudu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

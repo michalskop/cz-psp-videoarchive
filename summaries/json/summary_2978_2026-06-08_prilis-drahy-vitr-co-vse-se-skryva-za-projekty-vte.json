@@ -1,0 +1,256 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-08T14:29:48",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2978",
+    "name": "Příliš drahý vítr - co vše se skrývá za projekty VTE a FVE?",
+    "classification": "Seminář",
+    "start_date": "2026-06-08T10:02",
+    "end_date": "2026-06-08T15:00",
+    "sources": [
+      "final/event_2978_2026-06-08_prilis-drahy-vitr-co-vse-se-skryva-za-projekty-vte.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608100004.mp4",
+        "from_sec": 116
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608101004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608102003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608103005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608104006.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608105005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608110003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608111003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608112002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608113002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608114000.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608115000.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608120002.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608121000.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608122007.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608123002.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608124001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608125001.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608130005.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608131002.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608132001.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608133001.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/08/_20260608134001.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 23,
+    "parts_total": 23,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na kritickou analýzu výstavby větrných (VTE) a fotovoltaických elektráren (FVE) v České republice, se zvláštním důrazem na problematiku tzv. akceleračních zón. Cílem bylo poukázat na negativní dopady těchto projektů na zdraví obyvatel, životní prostředí, krajinný ráz a ekonomickou stabilitu, a to z pohledu odborníků, právníků a zástupců místních komunit.\n\nHlavním narativem semináře byla kritika ideologie „Green Dealu“, kterou řečníci označili za ekonomicky škodlivou a neefektivní. Jednání mělo poskytnout argumentační základnu pro odpor proti výstavbě těchto zdrojů a nabídnout právní cestu, jak se proti administrativním postupům státu bránit.",
+    "main_points": [
+      "**Jindřich Rajchl (poslanec)** — Označil Green Deal za ideologii, která ničí evropskou ekonomiku. Kritizoval akcelerační zóny jako administrativní nástroj EU k vynucování výstavby VTE bez ohledu na místní podmínky. `[3/02:04]`",
+      "**Prof. Turánek (vědec)** — Prezentoval studii o vlivu pulzního infrazvuku na lidské zdraví, který podle něj prochází stěnami a způsobuje chronický stres. Upozornil na ekologické dopady (mikroplasty z lopatek, devastace půdy betonem). `[4/04:00]`",
+      "**MUDr. Vladimír Zlínský (lékař, poslanec)** — Zaměřil se na patofyziologické mechanismy, jakými infrazvuk ovlivňuje lidský organismus (působení na mechanoreceptory Piezo-1). `[7/02:06]`",
+      "**Ing. arch. Pinelopy Cimprichová** — Kritizovala nekvalitní procesy EIA a SEA, které ignorují kumulativní vlivy a zdravotní rizika. Upozornila na přítomnost „věčných chemikálií“ (PFAS) na lopatkách VTE. `[8/08:03]`",
+      "**Jakub Svoboda (aktivista, Ralsko)** — Popsal zkušenosti z lokálních debat, kde investoři nebyli schopni obhájit své záměry. Zdůraznil nutnost posuzovat projekty komplexně (EIA). `[11/02:04]`",
+      "**Hana Vanická (spolek)** — Upozornila na netransparentnost procesu schvalování přes DESU, kde jsou obce a veřejnost často vyloučeny z řízení. `[12/06:02]`",
+      "**Ing. René Jauris** — Poukázal na logistickou nemožnost výstavby velkých VTE v zalesněném terénu Vysočiny a rizika spojená s nemožností hašení požárů v lesích. `[13/08:04]`",
+      "**Katarína Ondrušová** — Informovala o petici v Evropském parlamentu, která uznává možné zdravotní dopady VTE. `[14/04:04]`",
+      "**Jana Zwyrtek-Hamplová (senátorka)** — Označila akcelerační zóny za protiústavní zásah do samosprávy a vlastnických práv. Připravila právní argumentaci pro obce. `[18/06:06]`",
+      "**Ing. Hynek Beran (energetický expert)** — Uvedl, že ČR má dostatečně stabilní energetickou soustavu a nepotřebuje masivní výstavbu VTE. `[23/02:01]`"
+    ],
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale k vytvoření konsenzu o nutnosti právní a občanské obrany proti akceleračním zónám. Účastníci se shodli na podpoře obcí v jejich odporu a na přípravě právních kroků (včetně ústavních stížností). Dominujícím postojem byla nedůvěra vůči státní správě a EU a požadavek na moratorium na výstavbu VTE do doby, než budou nezávisle prověřeny zdravotní dopady.",
+    "notes": "Přepis obsahuje četné technické artefakty (opakující se fráze), které byly ignorovány. Části 17–18 jsou z velké části nesrozumitelné kvůli halucinacím modelu, ale obsahově se vrací k tématům právní obrany a ústavnosti."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jindřich Rajchl",
+        "person_id": "psp:person:7037",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Prof. Turánek",
+        "person_id": "psp:person:4330",
+        "affiliation": null
+      },
+      {
+        "name": "Vladimír Zlínský",
+        "person_id": "psp:person:6795",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Pinelopy Cimprichová",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Jakub Svoboda",
+        "person_id": "psp:person:7079",
+        "affiliation": null
+      },
+      {
+        "name": "Hana Vanická",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "René Jauris",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Katarína Ondrušová",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Jana Zwyrtek-Hamplová",
+        "person_id": "psp:person:5401",
+        "affiliation": "Senátorka"
+      },
+      {
+        "name": "Hynek Beran",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Evropská unie",
+      "Evropský parlament",
+      "DESU"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Akcelerační zóny jsou dalším projektem z Evropské unie, kdy EU fakticky vydírá členské státy jejich penězi.",
+      "type": "paraphrase",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "Poslanec",
+      "timestamp": "3/01:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2978_highlight_00.jpg",
+      "context": "Akcelerační zóny pro obnovitelné zdroje energie vycházejí ze směrnice EU RED III (2023/2413). Podmínění čerpání prostředků z fondů EU plněním dohodnutých legislativních závazků je standardním mechanismem unijního práva, nikoliv vydíráním v právním smyslu."
+    },
+    {
+      "text": "Pokud je existující riziko pro zdraví, povinností státu je nepochybnosti zlehčovat, ale prověřit je.",
+      "type": "paraphrase",
+      "speaker": "Katarína Ondrušová",
+      "affiliation": null,
+      "timestamp": "14/06:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2978_highlight_01.jpg",
+      "context": "Tvrzení je obecným politickým názorem na princip předběžné opatrnosti. V českém právním řádu je postup státu při posuzování rizik (např. v oblasti veřejného zdraví) upraven zákonem č. 258/2000 Sb., o ochraně veřejného zdraví."
+    },
+    {
+      "text": "Je to nepřiměřený až neústavní zásah do samosprávy, protože nikdo nemá právo mluvit obcím do samosprávy.",
+      "type": "citation",
+      "speaker": "Jana Zwyrtek-Hamplová",
+      "affiliation": "Senátorka",
+      "timestamp": "19/07:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2978_highlight_02.jpg",
+      "context": "Ústavní právo obcí na samosprávu (čl. 99–105 Ústavy ČR) není absolutní a stát do něj může zasahovat zákonem, pokud je to v souladu s veřejným zájmem. Otázka, zda jsou akcelerační zóny v rozporu s ústavou, je předmětem právních debat, nikoliv ustáleným faktem."
+    },
+    {
+      "text": "My nepotřebujeme dělat vůbec nic, jenom dostavět jádro a inovovat infrastrukturu; všechno ostatní jsou podivné tlaky.",
+      "type": "citation",
+      "speaker": "Hynek Beran",
+      "affiliation": null,
+      "timestamp": "23/02:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2978_highlight_03.jpg",
+      "context": "Toto tvrzení je subjektivním politickým názorem na energetickou strategii. Energetický mix ČR podléhá mezinárodním závazkům (např. Pařížská dohoda) a technicko-ekonomickým limitům, které přesahují rámec pouhé dostavby jaderných bloků."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Jana Zwyrtek-Hamplová** navrhla vnímat akcelerační zóny jako „znásilnění práva“ a připravila právní linii pro napadení těchto zón u Ústavního soudu. Kontroverzní je to proto, že přímo zpochybňuje legitimitu vládní implementace evropské legislativy.",
+      "speaker": "Jana Zwyrtek-Hamplová",
+      "affiliation": "Senátorka",
+      "timestamp": "18/06:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2978_controversy_00.jpg",
+      "context": "Jana Zwyrtek-Hamplová skutečně avizovala přípravu ústavní stížnosti. Zda je implementace evropské legislativy v rozporu s ústavním pořádkem ČR, může závazně posoudit pouze Ústavní soud ČR na základě podaného návrhu."
+    },
+    {
+      "statement": "**Jindřich Rajchl** přirovnal současnou energetickou politiku k „vstupu do KSČ v říjnu 1989“, čímž vyvolal silný politický náboj a zpochybnil demokratickou legitimitu vládních kroků.",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "Poslanec",
+      "timestamp": "4/02:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2978_controversy_01.jpg",
+      "context": "Jde o politickou metaforu (hyperbolu), kterou nelze fakticky ověřit. Srovnání s historickými událostmi roku 1989 slouží k vyjádření názoru na politickou situaci, nikoliv k popisu faktického stavu legislativního procesu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
