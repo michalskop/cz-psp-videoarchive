@@ -1,0 +1,204 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-09T19:47:46",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2987",
+    "name": "Posudková služba u PAS: problémy a jejich řešení",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-09T14:10",
+    "end_date": "2026-06-09T17:33",
+    "sources": [
+      "final/event_2987_2026-06-09_posudkova-sluzba-u-pas-problemy-a-jejich-reseni.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609141003.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609142001.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609143007.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609144007.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609145007.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609150001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609151001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609152001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609153001.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609154001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609155004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609160001.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609161007.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609162004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609163004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609164003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609165004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609170007.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609171007.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609172009.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/09/_20260609173009.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 21,
+    "parts_total": 21,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na kritickou problematiku posudkové služby u osob s poruchami autistického spektra (PAS). Cílem bylo identifikovat systémové nedostatky v procesu posuzování zdravotního stavu pro účely dávek sociálního zabezpečení a navrhnout konkrétní kroky ke zlepšení.\n\nHlavním motivem byla frustrace rodin z nekonzistentních, často neodborných posudků, které nezohledňují specifika PAS, jako je chování náročné na péči, potřeba neustálého dohledu a sociální handicap.",
+    "main_points": [
+      "**Aleš Juchelka (MPSV)** — Potvrdil přípravu pracovní skupiny pro reformu posuzování a alokaci 80 mil. Kč na sociální služby. `[1/04:07]`",
+      "**MUDr. Šepková (Pediatr)** — Kritizovala neadekvátnost posudků ignorujících reálné potřeby dětí a navrhla větší váhu výpovědím rodičů. `[2/02:04]`",
+      "**Petr Třešňák (Naděje pro děti úplňku)** — Identifikoval tři hlavní problémy: podhodnocování potřeb, ignorování chování náročného na péči a nezohlednění celkového objemu péče. `[5/04:00]`",
+      "**Kamila Benešová (Nautis)** — Upozornila na klesající kvalitu posudků a fenomén „hyperprotektivity“, kterým posudkáři označují nezbytnou péči. `[9/02:05]`",
+      "**Dr. Lumír Kantor (Senátor)** — Podpořil zavedení mezinárodní klasifikace funkčních schopností (MKF/ICF). `[11/00:00]`",
+      "**Irena Maříková (IPVZ)** — Zdůraznila potřebu povinného a multidisciplinárního vzdělávání odborníků. `[17/06:05]`",
+      "**Zástupci IPZS** — Obhajovali individuální přístup a přislíbili práci na standardizaci posudků mezi kraji. `[12/00:00]`"
+    ],
+    "outcome": "Jednání vyústilo v konsenzus o nutnosti reformy metodiky posuzování, která musí opustit rigidní tabulkové hodnocení a zaměřit se na funkční dopady PAS. Podněty budou předány ministrovi práce a sociálních věcí jako podklad pro novou pracovní skupinu.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a opakující se fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Aleš Juchelka",
+        "person_id": "psp:person:6463",
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "MUDr. Šepková",
+        "person_id": "psp:person:3682",
+        "affiliation": "Pediatr"
+      },
+      {
+        "name": "Petr Třešňák",
+        "person_id": "psp:person:6483",
+        "affiliation": "Naděje pro děti úplňku"
+      },
+      {
+        "name": "Kamila Benešová",
+        "person_id": "psp:person:5812",
+        "affiliation": "Nautis"
+      },
+      {
+        "name": "Lumír Kantor",
+        "person_id": "psp:person:6400",
+        "affiliation": "Senát PČR"
+      },
+      {
+        "name": "Irena Maříková",
+        "person_id": "psp:person:2864",
+        "affiliation": "IPVZ"
+      },
+      {
+        "name": "Dr. Pastorková",
+        "person_id": "psp:person:3120",
+        "affiliation": "IPZS"
+      }
+    ],
+    "parties": [
+      "MPSV",
+      "ČSSZ"
+    ],
+    "institutions": [
+      "IPZS",
+      "IPVZ",
+      "Nautis"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Posudková služba u PAS je systémový problém, který je potřeba řešit například revizí metodiky posuzování, protože autisté jsou prostě jiní.",
+      "type": "citation",
+      "speaker": "Petr Třešňák",
+      "affiliation": "Naděje pro děti úplňku",
+      "timestamp": "5/09:34",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2987_highlight_00.jpg",
+      "context": "Metodika posuzování zdravotního stavu pro účely příspěvku na péči (vyhláška č. 505/2006 Sb.) je dlouhodobě kritizována odbornou veřejností i ombudsmanem jako nedostatečně reflektující specifika poruch autistického spektra (PAS). Posudkoví lékaři se často zaměřují na fyzické schopnosti, zatímco u PAS je klíčová sociální interakce a schopnost sebeobsluhy v běžném životě."
+    },
+    {
+      "text": "My nedokážeme ovlivnit diagnózu, ale můžeme zmírnit sociální dopady tohoto onemocnění.",
+      "type": "citation",
+      "speaker": "Dr. Pastorková",
+      "affiliation": "IPZS",
+      "timestamp": "13/00:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2987_highlight_01.jpg",
+      "context": "Tvrzení odpovídá principu sociálního zabezpečení v ČR, kde státní správa (ČSSZ) nemá za úkol léčit diagnózu, ale prostřednictvím dávek (např. příspěvek na péči) kompenzovat sníženou soběstačnost. Sociální dopady jsou zmírňovány prostřednictvím zákonů o sociálních službách a dávkách pro osoby se zdravotním postižením."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Rodiče kritizují, že posudky jsou v různých krajích diametrálně odlišné (např. 1. vs. 4. stupeň u stejné diagnózy). Zástupci IPZS argumentují, že posuzují funkční stav, nikoliv diagnózu, a neznají kompletní dokumentaci všech případů.",
+      "speaker": "Rodiče vs. Dr. Pastorková",
+      "affiliation": "IPZS",
+      "timestamp": "15/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2987_controversy_00.jpg",
+      "context": "Rozdílnost posudků v různých krajích je dlouhodobě dokumentovaný problém, který potvrzují i zprávy Veřejného ochránce práv. Argumentace funkčním stavem je v souladu se zákonem č. 108/2006 Sb., o sociálních službách, nicméně subjektivní hodnocení posudkových lékařů v praxi často vede k nekonzistentním výsledkům u identických diagnóz."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

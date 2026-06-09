@@ -1,0 +1,206 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-09T19:48:05",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2986",
+    "name": "Česko jako parlamentní monarchie?",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-09T15:05",
+    "end_date": "2026-06-09T17:08",
+    "sources": [
+      "final/event_2986_2026-06-09_cesko-jako-parlamentni-monarchie.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609150005.mp4",
+        "from_sec": 318
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609151005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609152005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609153005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609154005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609155005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609160005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609161005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609162005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609163005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609164005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609165005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A23/2026/06/09/_20260609170005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu s názvem „Česko jako parlamentní monarchie“ se uskutečnilo 9. června 2026 v Poslanecké sněmovně. Cílem akce bylo otevřít odbornou a politickou debatu o možnosti, významu a hranicích úvah o parlamentní monarchii v českém prostředí. Debata nebyla zamýšlena jako snaha o okamžitou změnu politického systému, ale jako prostor pro hledání inspirace v hodnotách kontinuity, stability a nadstranickosti, které jsou s tímto zřízením spojovány.\n\nJednání se věnovalo historickým, politologickým, ekonomickým a právním aspektům monarchistického uspořádání, přičemž reflektovalo i současné problémy české politiky, jako je polarizace společnosti po zavedení přímé volby prezidenta.",
+    "main_points": [
+      "**Zdeněk Prázdný (Český královský institut)** — Zdůraznil sjednocující roli panovníka v kontrastu s polarizací při prezidentských volbách. `[2/01:03]`",
+      "**Pavel Fabíny (historik a politolog)** — Kritizoval způsob vzniku republiky v roce 1918 a upozornil na negativní dopady přímé volby prezidenta. `[3/04:04]`",
+      "**Lukáš Kovanda (Trinity Bank)** — Argumentoval ekonomickými výhodami monarchie: lepší rating, nižší náklady na dluh a garance vlastnických práv. `[4/02:00]`",
+      "**Jiří Šouša (Právnická fakulta UK)** — Zaměřil se na ústavněprávní rovinu a nezměnitelnost materiálního jádra ústavy. `[5/02:10]`",
+      "**Petr Kolář (Parlamentní institut)** — Analyzoval čtyři modely konstituční monarchie a jejich stabilitu. `[6/04:01]`",
+      "**Zdeněk Hraba (senátor)** — Monarchii vnímá jako plnohodnotnou alternativu a vyzdvihl nezávislost panovníka na stranické soutěži. `[7/06:11]`",
+      "**Helena Válková (poslankyně)** — Vyjádřila skepsi k monarchii jako budoucnosti pro český politický národ. `[8/02:18]`",
+      "**Marek Výborný (poslanec)** — Ocenil otevření debaty, ale upozornil na historicky zakořeněný odpor Čechů k autoritám. `[8/08:02]`",
+      "**Karel Haas (poslanec)** — Vyjádřil obavy z institucionální nestability při pokusu o komplexní změnu ústavy. `[9/04:09]`",
+      "**Karel Dvořák (poslanec)** — Deklaroval se jako přesvědčený republikán a zastánce institucionální reprezentace hodnot. `[10/00:00]`",
+      "**Libor Vondráček (poslanec)** — Upozornil, že pro svobodnou společnost je důležitější svoboda jednotlivce než forma vlády. `[10/04:03]`"
+    ],
+    "outcome": "Formální výsledek nebyl stanoven, neboť šlo o diskuzní kulatý stůl. Dominoval konsenzus, že debata o parlamentní monarchii je legitimní a obohacující pro pochopení fungování státu. Převládající postoj politiků však zůstal skeptický k reálné možnosti či potřebě změny ústavního zřízení v současné době, přičemž byla zdůrazněna hluboká zakořeněnost republikánské tradice v české společnosti.",
+    "notes": "Přepis obsahuje opakující se halucinace (např. „Přepis je v češtině...“) a občasné výpadky textu, které byly při shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Prázdný",
+        "person_id": null,
+        "affiliation": "Český královský institut"
+      },
+      {
+        "name": "Pavel Fabíny",
+        "person_id": null,
+        "affiliation": "historik a politolog"
+      },
+      {
+        "name": "Lukáš Kovanda",
+        "person_id": null,
+        "affiliation": "Trinity Bank"
+      },
+      {
+        "name": "Jiří Šouša",
+        "person_id": "psp:person:6993",
+        "affiliation": "Právnická fakulta Univerzity Karlovy"
+      },
+      {
+        "name": "Petr Kolář",
+        "person_id": "psp:person:5352",
+        "affiliation": "Parlamentní institut"
+      },
+      {
+        "name": "Zdeněk Hraba",
+        "person_id": "psp:person:6601",
+        "affiliation": "Senát"
+      },
+      {
+        "name": "Helena Válková",
+        "person_id": "psp:person:6168",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "Svobodní"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Český královský institut",
+      "Univerzita Karlova"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Z osmi nejúspěšnějších ekonomik EU z hlediska HDP v přepočtu na obyvatele je hned pět se zřízením monarchistickým.",
+      "type": "paraphrase",
+      "speaker": "Lukáš Kovanda",
+      "affiliation": "Trinity Bank",
+      "timestamp": "4/03:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2986_highlight_00.jpg",
+      "context": "Tvrzení je fakticky správné. Mezi 8 nejbohatších zemí EU dle HDP na obyvatele v paritě kupní síly (dle dat Eurostatu) patří Lucembursko, Irsko, Dánsko, Nizozemsko, Švédsko, Belgie a Norsko (člen EHP), z nichž většina jsou konstituční monarchie."
+    },
+    {
+      "text": "Monarchie nabízí autoritu, která nestojí principiálně na soutěži, což posouvá moc směrem k nadstranickému systému.",
+      "type": "citation",
+      "speaker": "Zdeněk Hraba",
+      "affiliation": "Senát",
+      "timestamp": "7/07:14",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2986_highlight_01.jpg",
+      "context": "Jde o politologickou tezi o roli konstitučního monarchy jako symbolického sjednotitele nad politickým bojem. Nelze nezávisle ověřit jako fakt, jde o subjektivní interpretaci politického systému."
+    },
+    {
+      "text": "Česká společnost je do určité míry ovlivněna švejkovstvím nebo odporem k autoritám, což limituje úvahu o respektování panovníka.",
+      "type": "citation",
+      "speaker": "Marek Výborný",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "8/08:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2986_highlight_02.jpg",
+      "context": "Jde o sociologický a historický názor na národní mentalitu. Nelze nezávisle ověřit, neboť „švejkovství“ a vztah k autoritám jsou předmětem odborných debat v sociologii a historii, nikoliv měřitelná data."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zdeněk Prázdný navrhl uspořádat podobný panel v Senátu s podtitulem „Změna řádového dne“, čímž zpochybnil význam 28. října jako státního svátku.",
+      "speaker": "Zdeněk Prázdný",
+      "affiliation": "Český královský institut",
+      "timestamp": "13/06:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2986_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit bez přístupu k internímu zápisu z konkrétního jednání či oficiálního programu Senátu. Význam státního svátku 28. října je ukotven v zákoně č. 245/2000 Sb., o státních svátcích."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
