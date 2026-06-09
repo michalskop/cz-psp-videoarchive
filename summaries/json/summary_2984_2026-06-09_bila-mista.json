@@ -1,0 +1,161 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-09T14:37:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2984",
+    "name": "Bílá místa",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-09T09:35",
+    "end_date": "2026-06-09T11:37",
+    "sources": [
+      "final/event_2984_2026-06-09_bila-mista.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609093003.mp4",
+        "from_sec": 355
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609094003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609095003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609100003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609101003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609102003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609103003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609104003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609105003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609110003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609111003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609112003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/09/_20260609113003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na problematiku tzv. „bílých míst“, tedy lokalit v České republice s nedostatečným pokrytím mobilním signálem a internetem. Cílem setkání bylo zprostředkovat dialog mezi politickou reprezentací, zástupci Českého telekomunikačního úřadu (ČTU), mobilními operátory, ochránci přírody a integrovaným záchranným systémem.\n\nÚčastníci diskutovali o legislativních překážkách, administrativní náročnosti povolovacích procesů, ochraně krajinného rázu a možnostech sdílení infrastruktury. Jednání mělo za úkol identifikovat konkrétní problémy, které brání rychlejšímu dokrývání území, a navrhnout cesty k jejich řešení, včetně budoucí spolupráce při rozvoji optických sítí.",
+    "main_points": [
+      "**Jana Krutáková (poslankyně)** — Iniciátorka setkání, zdůraznila potřebu řešit signál jako veřejný zájem. `[1/06:03]`",
+      "**Marek Ebert (ČTU)** — ČR má pokrytí cca 97–99 % obyvatel. Cílem je do konce roku 2031 pokrýt 1000 bílých míst. `[2/02:20]`",
+      "**Jiří Grund (APMS)** — Kritizoval byrokracii a konflikt mezi potřebou signálu a ochranou přírody. `[3/06:02]`",
+      "**Martin Orgoník (T-Mobile)** — Hlavní brzdou je akviziční fáze a jednání s majiteli pozemků. `[4/06:13]`",
+      "**Zástupce Vodafone** — Prioritou je sdílení infrastruktury a spolupráce se samosprávami. `[5/04:10]`",
+      "**Tomáš Prokopík (O2)** — Výstavba naráží na ekonomickou nerentabilitu a technické limity. `[6/02:06]`",
+      "**Jaromír Kosejk (AOPK)** — Připravuje se nová metodika hodnocení krajinného rázu, která zohlední veřejný zájem. `[7/04:06]`",
+      "**Generál Ošlejšek (HZS)** — Zdůraznil závislost IZS na mobilních sítích a nutnost odolných komunikačních bodů. `[8/08:02]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus, že pokrytí signálem je veřejným zájmem. Byla dohodnuta užší spolupráce mezi operátory a Agenturou ochrany přírody a krajiny při tvorbě nové metodiky pro posuzování staveb v chráněných územích. Účastníci se shodli na podpoře sněmovního tisku č. 55. Na podzim 2026 je plánován další kulatý stůl.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky textu způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jana Krutáková",
+        "person_id": "psp:person:6466",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Marek Ebert",
+        "person_id": null,
+        "affiliation": "ČTU"
+      },
+      {
+        "name": "Jiří Grund",
+        "person_id": null,
+        "affiliation": "APMS"
+      },
+      {
+        "name": "Jaromír Kosejk",
+        "person_id": "psp:person:2168",
+        "affiliation": "AOPK"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "KDU-ČSL",
+      "ODS"
+    ],
+    "institutions": [
+      "ČTU",
+      "APMS",
+      "AOPK",
+      "HZS"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika si nestojí z hlediska pokrytí ve srovnání se evropskými zeměmi vůbec špatně, dostáváme se na úroveň 97 až 99 % obyvatelstva.",
+      "type": "paraphrase",
+      "speaker": "Marek Ebert",
+      "affiliation": "ČTU",
+      "timestamp": "2/02:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2984_highlight_00.jpg",
+      "context": "Podle dat ČTÚ a Evropské komise (Index DESI) se pokrytí vysokorychlostním internetem (NGA sítě) v ČR skutečně pohybuje v rozmezí 95–99 % populace. Údaj odpovídá oficiálním statistikám o dostupnosti sítí nové generace."
+    },
+    {
+      "text": "Na konci roku 2030 bychom měli mít 600 bílých míst z toho seznamu pokryto určitě.",
+      "type": "citation",
+      "speaker": "Marek Ebert",
+      "affiliation": "ČTU",
+      "timestamp": "2/07:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2984_highlight_01.jpg",
+      "context": "Jedná se o plánovaný cíl v rámci dotačních programů (např. OP TAK) na podporu vysokorychlostního internetu v tzv. bílých místech. Zda bude cíle dosaženo, závisí na tempu výstavby operátorů a administrativní náročnosti projektů, nelze tedy v tuto chvíli fakticky potvrdit jako hotovou věc."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Jiří Grund (APMS) otevřeně kritizoval ochránce přírody za to, že „pro ně jsou brouci přednější než život lidí“.",
+      "speaker": "Jiří Grund",
+      "affiliation": "APMS",
+      "timestamp": "3/08:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2984_controversy_00.jpg",
+      "context": "Jde o subjektivní hodnotící výrok a rétorickou nadsázku, nikoliv o ověřitelný fakt. Spor mezi telekomunikačními operátory a orgány ochrany přírody se týká zejména povolovacích procesů pro výstavbu vysílačů v chráněných oblastech, kde střet zájmů mezi digitalizací a ochranou biodiverzity reálně existuje."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
