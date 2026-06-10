@@ -1,0 +1,221 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-10T15:17:00",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2991",
+    "name": "18. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-06-10T09:02",
+    "end_date": "2026-06-10T12:18",
+    "sources": [
+      "final/event_2991_2026-06-10_18-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610090005.mp4",
+        "from_sec": 125
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610091005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610092005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610093005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610094005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610095005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610100005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610101005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610102005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610103005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610104005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610105005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610110005.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610111005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610112005.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610113005.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610114005.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610115005.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610120005.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/06/10/_20260610121005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 20,
+    "parts_total": 20,
+    "source": "whisper",
+    "model": null
+  },
+  "summary": {
+    "topic": "Jednání 18. schůze Rozpočtového výboru se zaměřilo na projednávání klíčových legislativních a rozpočtových dokumentů. Hlavním bodem bylo zahájení projednávání vládního návrhu zákona o evidenci tržeb (EET 2.0), který má zavést moderní systém evidence tržeb s důrazem na kontaktní platby.\n\nDalšími body bylo projednání státního závěrečného účtu za rok 2025, informace o pokladním plnění státního rozpočtu za první čtvrtletí 2026, rozpočtová strategie sektoru veřejných institucí na léta 2027–2029 a zpráva o činnosti finančního arbitra za rok 2025. Cílem bylo posoudit fiskální dopady těchto opatření a zajistit kontrolní mechanismy nad hospodařením státu.",
+    "main_points": [
+      "**Alena Schillerová (Ministerstvo financí)** — Představila návrh EET 2.0 jako nástroj pro 21. století, který je minimalistický, nevyžaduje tisk účtenek a cílí pouze na kontaktní platby. [1/06:00]",
+      "**Vlastimil Hebr (Zpravodaj)** — Přednesl spravodajskou zprávu k EET 2.0 a shrnul procesní kroky. [3/00:00]",
+      "**Věra Kovářová (STAN)** — Vyjádřila výhrady k fiskálním stimulům a preferovala investice do školství. [3/04:15]",
+      "**Vendula Svobodová (Piráti)** — Kritizovala nízkou hranici pro paušální daň v rámci EET-off. [5/04:02]",
+      "**Jan Jakob (TOP 09)** — Zpochybnil nutnost duplicitní evidence bezhotovostních plateb. [6/00:00]",
+      "**Jan Munzar (ODS)** — Kritizoval argumentaci MF ohledně dohledatelnosti plateb a souladu s Ústavním soudem. [9/00:00]",
+      "**Patrik Pařil (Zpravodaj)** — Koordinoval projednávání státního závěrečného účtu 2025. [12/02:00]",
+      "**Marie Bílková (MF)** — Prezentovala pokladní plnění rozpočtu za 1. Q 2026. [15/00:00]",
+      "**Jindřich Marval (MF)** — Uvedl rozpočtovou strategii na léta 2027–2029. [16/00:00]",
+      "**Monika Nedělková (Finanční arbitr)** — Informovala o nárůstu sporů a personální poddimenzovanosti úřadu. [19/04:01]"
+    ],
+    "outcome": "Projednávání EET 2.0 bylo přerušeno do 23. června 2026. Státní závěrečný účet 2025 byl většinově doporučen ke schválení. Ostatní zprávy (pokladní plnění, rozpočtová strategie, zpráva arbitra) byly vzaty na vědomí.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se halucinace). Obsah byl rekonstruován na základě srozumitelných částí textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Vlastimil Hebr",
+        "person_id": "psp:person:7066",
+        "affiliation": null
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Munzar",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Patrik Pařil",
+        "person_id": "psp:person:7031",
+        "affiliation": null
+      },
+      {
+        "name": "Marie Bílková",
+        "person_id": "psp:person:6820",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Jindřich Marval",
+        "person_id": null,
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Monika Nedělková",
+        "person_id": "psp:person:6924",
+        "affiliation": "Finanční arbitr"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "Piráti",
+      "TOP 09",
+      "ODS"
+    ],
+    "institutions": [
+      "Ministerstvo financí",
+      "Rozpočtový výbor",
+      "Finanční arbitr"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Hospodaření státního rozpočtu za první čtvrtletí letošního roku skončilo deficitem 28 miliard, který byl meziročně nižší o 64 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Marie Bílková",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "15/00:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2991_highlight_00.jpg",
+      "context": "Údaj odpovídá datům Ministerstva financí ČR o plnění státního rozpočtu za 1. čtvrtletí 2024. Meziroční pokles deficitu je dán především odlišným načasováním výdajů a příjmů oproti předchozímu roku."
+    },
+    {
+      "text": "V roce 2025 bylo zahájeno přes 12 000 řízení, což je meziroční nárůst o 113 % oproti roku 2024.",
+      "type": "citation",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "20/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2991_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Vzhledem k tomu, že rok 2025 ještě neproběhl (nebo je v jeho počáteční fázi), není možné vykazovat uzavřená data za celý rok ani provádět meziroční srovnání s rokem 2024."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zkrácení lhůty pro projednávání EET 2.0 na 13 dnů. Opozice (Munzar, Kovářová) to označila za zbytečné omezování odborné práce a prostoru pro diskusi se svazy.",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "10/04:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2991_controversy_00.jpg",
+      "context": "Zkrácení lhůt pro projednávání zákonů v Poslanecké sněmovně upravuje zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny. Kritika opozice ohledně omezování diskuse je standardní politickou reakcí na využití legislativní nouze či zkráceného projednávání, které omezuje prostor pro připomínky odborné veřejnosti."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

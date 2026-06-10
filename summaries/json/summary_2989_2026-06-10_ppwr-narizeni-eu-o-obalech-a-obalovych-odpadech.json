@@ -1,0 +1,180 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-10T15:16:47",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2989",
+    "name": "PPWR - Nařízení EU o obalech a obalových odpadech",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-10T09:03",
+    "end_date": "2026-06-10T11:29",
+    "sources": [
+      "final/event_2989_2026-06-10_ppwr-narizeni-eu-o-obalech-a-obalovych-odpadech.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610090004.mp4",
+        "from_sec": 211
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610091004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610092004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610093004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610094004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610095004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610100004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610101004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610102004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610103004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610104004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610105004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610110004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610111004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/06/10/_20260610112004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na kritickou analýzu nařízení EU o obalech a obalových odpadech (PPWR), které je vnímáno jako legislativní předpis s vážnými nedostatky v implementační fázi. Hlavním cílem bylo koordinovat postoj českých zástupců průmyslu a státní správy před nadcházejícími jednáními v Bruselu.\n\nÚčastníci se shodli, že ačkoliv cíle cirkulární ekonomiky nejsou rozporovány, způsob, jakým je nařízení koncipováno (forma nařízení namísto směrnice, absence prováděcích aktů, právní nejasnosti), ohrožuje konkurenceschopnost evropského průmyslu a vytváří neúnosnou administrativní zátěž.",
+    "main_points": [
+      "**Berenika Peštová (poslankyně, ANO)** — Upozornila na riziko vícestupňové implementace, která by vedla k obrovským nákladům. `[1/04:15]`",
+      "**Zbyněk Kozel (předseda PPWR)** — Varoval před koncem harmonizovaného trhu k 12. srpnu 2026 a kritizoval nejasné definice výrobce. `[1/06:00]`",
+      "**Petr Havelka (ČAOZ)** — Informoval o široké koalici 540 signatářů výzvy proti nekvalitní legislativě. `[2/06:00]`",
+      "**Radek Pjatkan (Chemický svaz)** — Varoval před ohrožením surovinové soběstačnosti chemického průmyslu. `[3/04:04]`",
+      "**Jiří Šír (potravinářský průmysl)** — Kritizoval technickou neproveditelnost požadavků a nepoužitelnost metodik pro PFAS. `[3/06:18]`",
+      "**Miroslav Beneš (SOCR)** — Zdůraznil nutnost omezit administrativní zátěž a podpořil odklad. `[4/06:00]`",
+      "**Ladislav Smrž (MŽP)** — Potvrdil vyjednané dílčí ústupky, které však vyžadují písemné potvrzení. `[6/00:00]`"
+    ],
+    "outcome": "Konsenzem účastníků je nutnost pokračovat v tlaku na Evropskou komisi za účelem odkladu účinnosti problematických částí nařízení o 1–2 roky. Cílem je dosáhnout implementace v jedné vlně s jasnými pravidly.",
+    "notes": "Přepis obsahuje četné technické chyby a automatické halucinace, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Berenika Peštová",
+        "person_id": "psp:person:6780",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Zbyněk Kozel",
+        "person_id": null,
+        "affiliation": "PPWR"
+      },
+      {
+        "name": "Petr Havelka",
+        "person_id": null,
+        "affiliation": "Česká asociace odpadového hospodářství"
+      },
+      {
+        "name": "Radek Pjatkan",
+        "person_id": null,
+        "affiliation": "Chemický svaz"
+      },
+      {
+        "name": "Jiří Šír",
+        "person_id": null,
+        "affiliation": "Potravinářská komora"
+      },
+      {
+        "name": "Miroslav Beneš",
+        "person_id": "psp:person:347",
+        "affiliation": "Svaz obchodu a cestovního ruchu"
+      },
+      {
+        "name": "Ladislav Smrž",
+        "person_id": "psp:person:3869",
+        "affiliation": "Ministerstvo životního prostředí"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Evropská komise",
+      "Ministerstvo životního prostředí",
+      "Hospodářská komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Od 12. srpna skončí harmonizovaný trh baleného zboží v Evropě.",
+      "type": "paraphrase",
+      "speaker": "Zbyněk Kozel",
+      "affiliation": "PPWR",
+      "timestamp": "2/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2989_highlight_00.jpg",
+      "context": "Toto tvrzení je zavádějící. Nařízení EU o obalech a obalových odpadech (PPWR) nezruší harmonizovaný trh, ale zavádí nová pravidla pro udržitelnost obalů. K 12. srpnu 2024 žádná taková radikální změna v legislativě EU, která by ukončila fungování vnitřního trhu, nenastala."
+    },
+    {
+      "text": "Náklady pro domácnosti v ČR na implementaci PPWR se odhadují na 18 až 24 tisíc Kč na domácnost v průběhu několika let.",
+      "type": "paraphrase",
+      "speaker": "Ministr životního prostředí",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "11/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2989_highlight_01.jpg",
+      "context": "Tento odhad je předmětem odborných diskusí a závisí na zvolených metodikách výpočtu nákladů na recyklaci a nové obalové standardy. Oficiální vládní studie dopadů (RIA) k PPWR se liší podle započítaných externích nákladů a úspor, proto nelze částku 18–24 tisíc Kč považovat za nezpochybnitelný fakt."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Lukáš Horák a poslanec Hladík.\n**Co:** Návrh využít uhlíkovou stopu jako parametr ve výběrových řízeních pro upřednostnění evropských produktů.\n**Proč:** Kontroverzní kvůli metodické nejednotnosti a riziku, že jde o „účetní fígl“, který znevýhodňuje lokální producenty.\n**Čas:** 15/02:02",
+      "speaker": "Lukáš Horák",
+      "affiliation": "Sdružení pro značkové výrobky",
+      "timestamp": "15/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2989_controversy_00.jpg",
+      "context": "Využití uhlíkové stopy jako kritéria ve veřejných zakázkách je v souladu s evropskou legislativou (tzv. zelené zadávání), avšak metodika výpočtu je skutečně předmětem sporů. Riziko znevýhodnění lokálních producentů existuje v případě, že metodika není nastavena neutrálně vůči logistickým nákladům a energetickému mixu dané země."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

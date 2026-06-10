@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-10T15:20:18",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2994",
+    "name": "Tisková konference Starostů po jednání rozpočtového výboru",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-10T12:47",
+    "end_date": "2026-06-10T13:04",
+    "sources": [
+      "final/event_2994_2026-06-10_tiskova-konference-starostu-po-jednani-rozpoctoveh.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5411_video-psp-2026610-1247-31-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala po jednání rozpočtového výboru Poslanecké sněmovny dne 10. června 2026. Hlavním tématem byla kritika vládního návrhu na znovuzavedení EET, rozbor nového fiskálně strukturálního plánu vlády a představení vlastních návrhů hnutí STAN v oblasti daňové politiky a rozpočtové odpovědnosti.\n\nCílem vystoupení bylo poukázat na nesoulad mezi vládní rétorikou o konsolidaci veřejných financí a reálnými kroky, které podle řečníků vedou k rozvolňování rozpočtové disciplíny a plošnému rozdávání „předvolebních dárků“.",
+    "main_points": [
+      "**Neidentifikovaný řečník (STAN)** — Kritizuje vládní návrh EET. Upozorňuje, že očekávaný přínos 14 miliard Kč bude v praxi minimální (odhad cca 2,4 mld. Kč) kvůli vládním předvolebním slibům. Kritizuje rušení opatření z konsolidačního balíčku (např. volnočasové benefity, školkovné). Navrhuje zaměřit se na karuselové podvody a podvody na DPH. `[02:07]`",
+      "**Neidentifikovaný řečník (STAN)** — Představuje návrhy STAN: zavedení okamžitých odpisů investic do strojů a zařízení (zvýšení investic o 35 mld. Kč, růst HDP o 0,35 %) a zvýšení daně z příjmu právnických osob o 1,5 % pro zachování rozpočtové neutrality. Dále navrhuje zvýšení daňového zvýhodnění na vyživované dítě do tří let o 2 000 Kč měsíčně. `[04:07]`",
+      "**Lucie Sedmihradská (STAN)** — Analyzuje rozpočtovou strategii na roky 2027–2029. Uvádí, že vláda rezignuje na rozpočtovou odpovědnost. Zatímco výsledky za rok 2025 (deficit 2,1 % HDP, dluh 44,3 % HDP) byly lepší než plánované, nový fiskálně strukturální plán pro rok 2027 počítá s deficitem 2,8 % HDP a nárůstem dluhu na 46,8 % HDP. `[06:13]`"
+    ],
+    "outcome": "Nebylo přijato žádné formální rozhodnutí, šlo o tiskové prohlášení. Hnutí STAN deklarovalo, že nebude blokovat zákon o EET, ale bude prosazovat vlastní alternativní návrhy (okamžité odpisy, podpora rodin). Byla dohodnuta rozsáhlá debata o fiskálně strukturálním plánu na rozpočtovém výboru dne 2. září 2026.",
+    "notes": "Přepis obsahuje opakující se nesmyslné fráze (např. „Představující se na výboru, který je výborným výborem“), které byly pro účely shrnutí ignorovány. Identita některých řečníků není v přepisu explicitně uvedena, kromě Lucie Sedmihradské."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Rozpočtový výbor",
+      "Ministerstvo financí",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda navrhuje EET, říká, že vybere 14 miliard korun, a zároveň je obratem ruky rozdává jako předvolební dárečky.",
+      "type": "paraphrase",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "STAN",
+      "timestamp": "1/00:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2994_highlight_00.jpg",
+      "context": "EET byla zavedena v roce 2016 s odhadovaným přínosem 18 miliard Kč ročně, realita však byla dle analýz (např. NKÚ) nižší. Tvrzení o „rozdávání“ je politickou interpretací vládních výdajových priorit, nikoliv faktickým popisem rozpočtového procesu."
+    },
+    {
+      "text": "Nový fiskálně strukturální plán zcela rezignuje na rozpočtovou odpovědnost a odsouvá ozdravení veřejných financí na vzdálenější budoucnost.",
+      "type": "paraphrase",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/09:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2994_highlight_01.jpg",
+      "context": "Hodnocení fiskálně strukturálního plánu jako rezignace na odpovědnost je subjektivním politickým názorem. Objektivně plán podléhá pravidlům EU pro fiskální dohled a jeho hodnocení závisí na zvolené metodice a prioritách rozpočtové politiky."
+    },
+    {
+      "text": "Pro rok 2027 návrh počítá s deficitem sektoru vládních institucí ve výši 2,8 % HDP a nárůstem veřejného dluhu na 46,8 %.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/07:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2994_highlight_02.jpg",
+      "context": "Čísla odpovídají údajům v Národním střednědobém fiskálně strukturálním plánu ČR předloženém vládou Evropské komisi. Údaje o deficitu a dluhu jsou v souladu s vládními projekcemi pro rok 2027."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Označení zrušení superhrubé mzdy za „díru“ ve státním rozpočtu ve výši 150 miliard Kč, kterou společně prohlasovalo ANO, ODS a SPD.",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "STAN",
+      "timestamp": "1/16:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2994_controversy_00.jpg",
+      "context": "Zrušení superhrubé mzdy (zákon č. 609/2020 Sb.) skutečně vedlo k výpadku příjmů státního rozpočtu v řádu desítek miliard korun ročně. Hlasování pro tento návrh bylo v roce 2020 podpořeno koalicí ANO, ODS a SPD."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

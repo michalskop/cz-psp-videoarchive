@@ -1,0 +1,166 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-10T15:19:32",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2995",
+    "name": "9. schůze Výboru pro sociální politiku",
+    "classification": "Jednání výborů",
+    "start_date": "2026-06-10T10:03",
+    "end_date": "2026-06-10T11:15",
+    "sources": [
+      "final/event_2995_2026-06-10_9-schuze-vyboru-pro-socialni-politiku.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610100004.mp4",
+        "from_sec": 201
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610101004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610102004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610103004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610104004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610105004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610110004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610111004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 8,
+    "parts_total": 8,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru se primárně zaměřilo na projednání vládního návrhu zákona o státní sociální podpoře (tisk 198), který řeší navýšení rodičovského příspěvku. Cílem návrhu je kompenzovat dopady inflace a podpořit rodiny s dětmi.\n\nKromě legislativního procesu se výbor zabýval koncepcí mezinárodní spolupráce, prezentací Národní asociace pacientských organizací (NAPO) a diskuzí o implementačních rizicích tzv. „superdávky“ (státní sociální pomoci), kde byla kritizována nedostatečná adresnost a negativní dopady na určité skupiny obyvatel, zejména dlužníky v insolvenci.",
+    "main_points": [
+      "**Aleš Juchelka (ministr práce a sociálních věcí)** — Představil návrh na zvýšení rodičovského příspěvku na 400 000 Kč (u jednoho dítěte) a 800 000 Kč (u vícerčat) s účinností od 1. ledna 2027. `[1/06:04]`",
+      "**Hana Ančincová (za O. Richterovou)** — Představila tři pozměňovací návrhy (1313, 1314, 1323) cílící na valorizaci rodičovského příspěvku a zvýšení spravedlnosti pro rodiny. `[2/00:00]`",
+      "**Lucie Šafránková (místopředsedkyně výboru)** — Předložila návrhy týkající se úpravy podmínek pracovní aktivity pro bonus na dítě a řešení systémového rozporu mezi novou dávkou a procesem oddlužení. `[2/02:01]`",
+      "**Samuel Galan (analytik, PAQ Research)** — Upozornil na rizika „superdávky“, zejména na propady příjmů u samoživitelů a jednotlivců. `[2/08:10]`",
+      "**Marian Jurečka (poslanec)** — Kritizoval absenci dat z ministerstva pro parametrizaci superdávky a podpořil debatu o valorizačním mechanismu rodičovského příspěvku. `[3/02:04]`",
+      "**Robert Hejzák (předseda NAPO)** — Představil činnost pacientských organizací a jejich přínos pro veřejné finance (úspory 188 mil. Kč ročně). `[5/02:03]`"
+    ],
+    "outcome": "Výbor doporučil Poslanecké sněmovně schválit vládní návrh zákona (tisk 198) v předloženém znění. Všechny pozměňovací návrhy byly zamítnuty. Byla schválena koncepce mezinárodní spolupráce a zvolen nový ověřovatel výboru (Marian Jurečka).",
+    "notes": "Přepis obsahuje četné chyby v diakritice a opakující se halucinace (např. „Představující se výboru...“), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Aleš Juchelka",
+        "person_id": "psp:person:6463",
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "Hana Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": null
+      },
+      {
+        "name": "Lucie Šafránková",
+        "person_id": "psp:person:6479",
+        "affiliation": null
+      },
+      {
+        "name": "Samuel Galan",
+        "person_id": null,
+        "affiliation": "PAQ Research"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": null
+      },
+      {
+        "name": "Robert Hejzák",
+        "person_id": null,
+        "affiliation": "NAPO"
+      },
+      {
+        "name": "Monika Březková",
+        "person_id": "psp:person:6994",
+        "affiliation": null
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Výbor pro sociální politiku",
+      "Ministerstvo práce a sociálních věcí",
+      "Národní asociace pacientských organizací"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zvýšení celkové částky rodičovského příspěvku o 50 000 Kč si vyžádá navýšení finančních nákladů o 230 milionů korun za rok 2027.",
+      "type": "paraphrase",
+      "speaker": "Aleš Juchelka",
+      "affiliation": "MPSV",
+      "timestamp": "1/07:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2995_highlight_00.jpg",
+      "context": "Částka 230 milionů korun za rok 2027 je odhadem Ministerstva práce a sociálních věcí (MPSV) v rámci důvodové zprávy k návrhu zákona. Reálný dopad bude záviset na počtu příjemců a tempu čerpání příspěvku v daném roce."
+    },
+    {
+      "text": "Na vzorku 7 organizací se ukázalo, že přínos pro veřejné rozpočty je v řádu 188 milionů korun ročně.",
+      "type": "citation",
+      "speaker": "Robert Hejzák",
+      "affiliation": "NAPO",
+      "timestamp": "5/09:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2995_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o interní data asociace NAPO, přičemž metodika výpočtu „přínosu pro veřejné rozpočty“ na vzorku sedmi organizací není veřejně dostupná pro nezávislou verifikaci."
+    },
+    {
+      "text": "Za posledních 7 let ten propad výdajů na rodičák v rozpočtu MPSV je skoro 9 miliard korun.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": null,
+      "timestamp": "3/04:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2995_highlight_02.jpg",
+      "context": "Tvrzení je zavádějící. Výdaje na rodičovský příspěvek v posledních letech nominálně rostly (např. navýšení celkové částky v roce 2020 a 2024), nikoliv klesaly. Pokles může být interpretován pouze v reálných cenách při započtení vysoké inflace v minulých letech."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na automatickou valorizaci rodičovského příspěvku (Hana Ančincová/Olga Richterová). Vládní koalice se obává ztráty kontroly nad rozpočtovými výdaji a upřednostňuje ad-hoc rozhodování.",
+      "speaker": "Hana Ančincová",
+      "affiliation": null,
+      "timestamp": "2/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2995_controversy_00.jpg",
+      "context": "Návrh na automatickou valorizaci rodičovského příspěvku je součástí legislativního procesu. Obavy koalice z rozpočtové disciplíny a preference ad-hoc rozhodování jsou politickým postojem, který je v souladu s dosavadní praxí vlády při schvalování sociálních dávek."
+    },
+    {
+      "statement": "Systémová chyba v „superdávce“ trestající pracující dlužníky v insolvenci (Lucie Šafránková, Samuel Galan). Systém de facto motivuje k odchodu do šedé ekonomiky.",
+      "speaker": "Lucie Šafránková",
+      "affiliation": null,
+      "timestamp": "2/04:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2995_controversy_01.jpg",
+      "context": "Tvrzení o „superdávce“ (sloučení dávek) a jejím dopadu na dlužníky v insolvenci je předmětem odborné debaty. Kritici poukazují na to, že započítávání příjmů může snížit motivaci k legální práci, zatímco MPSV argumentuje zjednodušením systému a cílením podpory."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

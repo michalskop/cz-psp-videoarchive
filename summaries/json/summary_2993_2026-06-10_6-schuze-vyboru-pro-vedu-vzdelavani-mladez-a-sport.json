@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-10T15:19:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2993",
+    "name": "6. schůze Výboru pro vědu, vzdělávání, mládež a sport",
+    "classification": "Jednání výborů",
+    "start_date": "2026-06-10T10:02",
+    "end_date": "2026-06-10T10:48",
+    "sources": [
+      "final/event_2993_2026-06-10_6-schuze-vyboru-pro-vedu-vzdelavani-mladez-a-sport.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/10/_20260610100003.mp4",
+        "from_sec": 134
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/10/_20260610101003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/10/_20260610102003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/10/_20260610103003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/10/_20260610104003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 5,
+    "parts_total": 5,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Šestá schůze Výboru pro vědu, vzdělávání, mládež a sport se konala dne 10. června 2026. Hlavním cílem jednání bylo projednání zpráv o činnosti kontrolních orgánů klíčových grantových agentur (GA ČR a TA ČR), stanovení odměn pro členy kontrolní rady TA ČR a diskuse o aktuálních legislativních a organizačních otázkách v oblasti vědy a školství.\n\nJednání proběhlo v konstruktivním duchu, přičemž výbor se zaměřil na kontrolu hospodaření s prostředky státního rozpočtu, efektivitu grantových systémů a přípravu na budoucí legislativní změny týkající se neslučitelnosti funkcí v kontrolních orgánech.",
+    "main_points": [
+      "**Matěj Ondřej Havel (předseda výboru)** — Řídil schůzi, oznámil výzvu na volbu členů Kontrolní rady GA ČR, moderoval diskusi. `[1/02:14]`",
+      "**Zdeněk Nešpor (předseda Kontrolní rady GA ČR)** — Představil zprávu za období říjen 2025 – březen 2026. Uvedl, že kvůli rozpočtu bylo uděleno historicky nejméně projektů (úspěšnost 14 %). `[1/04:06]`",
+      "**Stanislav Fridrich (zpravodaj)** — Prezentoval zprávy k hospodaření GA ČR a TA ČR. Uvedl, že GA ČR hospodařila s výdaji přes 4,6 mld. Kč a patří k nejefektivnějším agenturám na světě. `[2/00:00]`",
+      "**Martin Kobrt (předseda Kontrolní rady TA ČR)** — Představil zprávu za rok 2025. Varoval před dopady novely zákona o neslučitelnosti funkcí, která od nového roku způsobí odchod řady členů. `[3/00:00]`",
+      "**Lukáš Berky (poslanec)** — Dotazoval se na proces oponentních posudků. Navrhl projednat novelu týkající se školkovného a pilotní testování kombinované výuky na příštím výboru. `[2/02:06]`"
+    ],
+    "outcome": "Výbor vzal na vědomí zprávu o činnosti Kontrolní rady GA ČR (Usnesení č. 42), schválil zprávu o činnosti Kontrolní rady TA ČR za rok 2025 (Usnesení č. 43) a doporučil Sněmovně schválit odměny členům Kontrolní rady TA ČR (Usnesení č. 44). Příští schůze byla předběžně stanovena na 2. září 2026.",
+    "notes": "Přepis obsahuje občasné chyby v diakritice a useknutá slova, nicméně obsah je srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "Výbor pro vědu, vzdělávání, mládež a sport"
+      },
+      {
+        "name": "Zdeněk Nešpor",
+        "person_id": "psp:person:6898",
+        "affiliation": "Kontrolní rada GA ČR"
+      },
+      {
+        "name": "Stanislav Fridrich",
+        "person_id": "psp:person:6451",
+        "affiliation": "Výbor pro vědu, vzdělávání, mládež a sport"
+      },
+      {
+        "name": "Martin Kobrt",
+        "person_id": "psp:person:6646",
+        "affiliation": "Kontrolní rada TA ČR"
+      },
+      {
+        "name": "Lukáš Berky",
+        "person_id": null,
+        "affiliation": "Výbor pro vědu, vzdělávání, mládež a sport"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "GA ČR",
+      "TA ČR",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Grantová agentura ČR se s režijními náklady na úrovni 3 % řadí mezi nejefektivnější grantové agentury na světě.",
+      "type": "paraphrase",
+      "speaker": "Stanislav Fridrich",
+      "affiliation": "Výbor pro vědu, vzdělávání, mládež a sport",
+      "timestamp": "2/01:37",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2993_highlight_00.jpg",
+      "context": "Výroční zprávy GA ČR dlouhodobě uvádějí provozní náklady pod 3 % celkového rozpočtu, což je v mezinárodním srovnání (např. oproti ERC či národním agenturám v EU) skutečně velmi nízká hodnota. Efektivita je však subjektivní pojem, neboť nezohledňuje kvalitu hodnotícího procesu či administrativní zátěž žadatelů."
+    },
+    {
+      "text": "V případě největší soutěže, což jsou standardní projekty, bylo uděleno 14 %, což je historicky nejnižší podíl udělených projektů.",
+      "type": "citation",
+      "speaker": "Zdeněk Nešpor",
+      "affiliation": "Kontrolní rada GA ČR",
+      "timestamp": "1/06:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2993_highlight_01.jpg",
+      "context": "Data z výročních zpráv GA ČR potvrzují, že úspěšnost standardních projektů v posledních letech klesla na úroveň kolem 14–15 %. Tento trend je důsledkem vysokého počtu kvalitních podaných návrhů při omezeném objemu finančních prostředků alokovaných v rozpočtu agentury."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Změna zákona o neslučitelnosti funkcí:** Martin Kobrt (předseda Kontrolní rady TA ČR) avizoval, že kvůli zpřísnění pravidel neslučitelnosti funkcí od nového roku pravděpodobně odejde řada členů kontrolní rady, což vyvolá potřebu nových voleb a může destabilizovat kontinuitu orgánu.",
+      "speaker": "Martin Kobrt",
+      "affiliation": "Kontrolní rada TA ČR",
+      "timestamp": "3/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2993_controversy_00.jpg",
+      "context": "Zákon č. 159/2006 Sb., o střetu zájmů, a související předpisy upravující činnost poradních a kontrolních orgánů státních institucí skutečně kladou přísnější nároky na kumulaci funkcí. Možná destabilizace orgánu je legitimní obavou, nicméně jde o predikci budoucího vývoje, kterou nelze fakticky ověřit jako hotovou událost."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

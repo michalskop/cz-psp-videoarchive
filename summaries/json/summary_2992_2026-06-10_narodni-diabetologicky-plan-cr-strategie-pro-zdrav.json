@@ -1,0 +1,173 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-10T15:18:57",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2992",
+    "name": "Národní diabetologický plán ČR: strategie pro zdravější budoucnost",
+    "classification": "Seminář",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-10",
+    "sources": [
+      "final/event_2992_2026-06-10_narodni-diabetologicky-plan-cr-strategie-pro-zdrav.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610100003.mp4",
+        "from_sec": 452
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610101006.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610102004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610103004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610104004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610105009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610110003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610111003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610112003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610113003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/10/_20260610114003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 11,
+    "parts_total": 11,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na zahájení debaty o vzniku **Národního diabetologického plánu ČR**, který má sloužit jako strategický nástroj pro zlepšení péče o pacienty s diabetem mellitem 2. typu. Cílem je definovat měřitelné indikátory kvality, zajistit efektivní alokaci zdrojů a podpořit včasnou a účinnou léčbu.\n\nJednání reflektovalo rostoucí zátěž diabetu pro český zdravotní systém (přes 900 000 léčených pacientů, náklady přesahující 120 miliard Kč ročně). Hlavním motivem byla potřeba přechodu od reaktivní léčby komplikací k preventivním strategiím a moderní farmakoterapii, přičemž byla zdůrazněna nutnost meziresortní spolupráce a udržitelnosti financování.",
+    "main_points": [
+      "**Kamil Farhan (místopředseda výboru)** — Zdůraznil potřebu definovat měřitelné indikátory a ekonomickou udržitelnost plánu. `[1/07:16]`",
+      "**Prof. Martin Prázdný (Česká diabetologická společnost)** — Navrhl plán do roku 2035, požaduje zjednodušení úhrad a podporu moderní léčby. `[2/02:04]`",
+      "**Doc. Ladislav Dušek (ÚZIS)** — Prezentoval využití dat NZIS pro monitoring kvality péče a podporu bonifikačních programů. `[5/04:10]`",
+      "**Ivan Duškov (VZP)** — Uvedl, že diabetes souvisí s 20 % nákladů na zdravotní péči, podpořil *Value Based Health Care*. `[6/04:06]`",
+      "**Lenka Teska Arnoštová** — Zdůraznila nutnost institucionálního ukotvení plánu a jasného koordinátora. `[7/02:10]`",
+      "**Vrchní ředitel Zachar (Ministerstvo zdravotnictví)** — Potvrdil, že plán je součástí strategie *Zdraví 2035* a oznámil rozšíření preskripce pro praktické lékaře od 1. 7. `[9/00:01]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus o nutnosti vytvořit Národní diabetologický plán. Nebylo přijato formální usnesení, ale byla dohodnuta pokračující spolupráce v pracovních skupinách. Dominujícím postojem je nutnost přesunu prostředků z léčby pozdních komplikací do včasné diagnostiky.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakující se fráze, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Kamil Farhan",
+        "person_id": "psp:person:6447",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Martin Prázdný",
+        "person_id": null,
+        "affiliation": "Česká diabetologická společnost"
+      },
+      {
+        "name": "Ladislav Dušek",
+        "person_id": "psp:person:2220",
+        "affiliation": "ÚZIS"
+      },
+      {
+        "name": "Ivan Duškov",
+        "person_id": null,
+        "affiliation": "VZP"
+      },
+      {
+        "name": "Lenka Teska Arnoštová",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Irena Storová",
+        "person_id": "psp:person:5659",
+        "affiliation": "SÚKL"
+      },
+      {
+        "name": "Zachar",
+        "person_id": "psp:person:7095",
+        "affiliation": "Ministerstvo zdravotnictví"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká diabetologická společnost",
+      "ÚZIS",
+      "VZP",
+      "SÚKL",
+      "Ministerstvo zdravotnictví",
+      "IKEM"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Téměř polovina léčených pacientů v ČR nedosahuje doporučených hodnot, otázkou není co dělat, ale proč to v praxi neděláme.",
+      "type": "citation",
+      "speaker": "Kamil Farhan",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/12:58",
+      "context": "Tvrzení odpovídá dlouhodobým zjištěním odborných společností (např. Česká diabetologická společnost), které poukazují na nízkou míru kompenzace diabetu u části populace. Důvodem je kombinace nízké adherence pacientů k léčbě, nedostatku času lékařů na edukaci a bariér v úhradovém systému."
+    },
+    {
+      "text": "Ročně investujeme do diabetiků 11 miliard korun, ale celkově 20 % všech nákladů ve zdravotnictví souvisí s diabetem 2. typu.",
+      "type": "citation",
+      "speaker": "Ivan Duškov",
+      "affiliation": "VZP",
+      "timestamp": "6/04:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2992_highlight_01.jpg",
+      "context": "Náklady na léčbu diabetu jsou dlouhodobě sledovány VZP a ÚZIS. Odhad 20 % celkových nákladů na zdravotnictví v souvislosti s diabetem 2. typu odpovídá odborným studiím, které započítávají nejen přímou léčbu, ale i nákladné komplikace (kardiovaskulární choroby, selhání ledvin, amputace)."
+    },
+    {
+      "text": "Pokud bychom doručili moderní terapii rizikovým pacientům, 100 000 lidí by za čtyři roky nezemřelo nebo nedostalo mrtvici či infarkt.",
+      "type": "paraphrase",
+      "speaker": "Šoupal",
+      "affiliation": "Česká diabetologická společnost",
+      "timestamp": "10/02:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2992_highlight_02.jpg",
+      "context": "Jde o odhad založený na prediktivních modelech přínosu moderní farmakoterapie (např. SGLT2 inhibitory či GLP-1 analoga). Nelze nezávisle ověřit jako exaktní fakt, neboť výsledek závisí na mnoha proměnných, včetně včasné diagnostiky a změny životního stylu pacientů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Doc. Kříž (IKEM) navrhl bonifikovat chirurgy za provádění transplantace ostrůvků při totální pankreatektomii, protože v současnosti nejsou motivováni provádět náročnější výkon, který by pacientům výrazně pomohl.",
+      "speaker": "Doc. Kříž",
+      "affiliation": "IKEM",
+      "timestamp": "9/08:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2992_controversy_00.jpg",
+      "context": "Systém úhrad zdravotních výkonů (seznam výkonů s bodovými hodnotami dle vyhlášky MZ ČR) je často kritizován za to, že nedostatečně reflektuje náročnost specifických chirurgických zákroků. Návrh na bonifikaci je legitimním tématem odborné diskuse o úpravě úhradové vyhlášky, nikoliv však dosud platnou legislativní změnou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
