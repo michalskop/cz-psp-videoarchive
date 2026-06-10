@@ -1,0 +1,171 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-10T19:29:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2996",
+    "name": "9. schůze Výboru pro zdravotnictví",
+    "classification": "Jednání výborů",
+    "start_date": "2026-06-10T14:02",
+    "end_date": "2026-06-10T16:51",
+    "sources": [
+      "final/event_2996_2026-06-10_9-schuze-vyboru-pro-zdravotnictvi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610140003.mp4",
+        "from_sec": 132
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610141003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610142003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610143003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610144003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610145003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610150003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610151003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610152003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610153003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610154003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610155003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610160003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610161003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610162003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610163003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610164003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/10/_20260610165003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 18,
+    "parts_total": 18,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 9. schůze Výboru pro zdravotnictví se zaměřilo na čtyři hlavní tematické okruhy: představení činnosti pacientských organizací, aktuální stav projektu „Supernemocnice“ v Praze, plnění opatření po tragické střelbě na FF UK (propojení registrů zbraní a zdravotní dokumentace) a přesun agendy Rady vlády pro koordinaci politiky v oblasti závislostí a Rady vlády pro duševní zdraví pod Ministerstvo zdravotnictví.\n\nCílem jednání bylo informovat poslance o pokroku v klíčových vládních projektech, zajistit transparentnost v oblasti financování pacientských organizací a prověřit funkčnost nových systémů sdílení dat mezi zdravotnictvím a bezpečnostními složkami státu.",
+    "main_points": [
+      "**Tomáš Fiala (Předseda výboru)** — Řídil schůzi, zdůraznil význam spolupráce s pacientskými organizacemi. `[1/02:12]`",
+      "**Magistr Hejsl (NAPO)** — Představil Národní asociaci pacientských organizací, zdůraznil jejich ekonomický přínos pro systém. `[1/04:04]`",
+      "**Vlastimil Válek (Ministr zdravotnictví)** — Obhajoval přesun agendy závislostí a potvrdil funkčnost propojení registrů zbraní. `[2/02:07]`",
+      "**Pavel Šolc (Vládní zmocněnec)** — Prezentoval projekt „Supernemocnice“ jako datově řízený proces. `[3/04:05]`",
+      "**Milena Bačkovská (Ministerstvo vnitra)** — Potvrdila funkčnost sdílení dat o zbrojních průkazech lékařům. `[9/04:01]`"
+    ],
+    "outcome": "Výbor vzal na vědomí informace o projektech, přijal usnesení k posílení informovanosti lékařů o zbrojních oprávněních a požádal o předložení výsledků kontrolní akce „Korunt“ v září 2026.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomáš Fiala",
+        "person_id": "psp:person:6668",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Vlastimil Válek",
+        "person_id": "psp:person:6482",
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Ministerstvo zdravotnictví",
+      "NAPO",
+      "Ministerstvo vnitra"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pacientské organizace nejsou jen zájmové spolky, jsou součástí zdravotního systému, které přinášejí úspory tím, že pacienti se dříve vrací do zaměstnání.",
+      "type": "paraphrase",
+      "speaker": "Magistr Hejsl",
+      "affiliation": "NAPO",
+      "timestamp": "1/06:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2996_highlight_00.jpg",
+      "context": "Role pacientských organizací je ukotvena v zákoně č. 372/2011 Sb., o zdravotních službách. Přímý vliv na ekonomické úspory skrze návrat do zaměstnání je předmětem odborných studií (např. v oblasti chronických onemocnění), avšak kvantifikace těchto úspor v českém zdravotním systému není centrálně vykazována jako standardní ekonomický ukazatel."
+    },
+    {
+      "text": "Kratom není bezpečná látka, je to látka velmi riziková, která může mít fatální dopad na zdraví a životy mladých lidí.",
+      "type": "citation",
+      "speaker": "Vlastimil Válek",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "17/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2996_highlight_01.jpg",
+      "context": "Státní zdravotní ústav (SZÚ) a Národní monitorovací středisko pro drogy a závislosti varují před riziky spojenými s užíváním kratomu, včetně závislosti a možných zdravotních komplikací. V ČR probíhá odborná debata o regulaci této látky, přičemž Ministerstvo zdravotnictví dlouhodobě prosazuje přísnější kontrolu kvůli nedostatku klinických studií o bezpečnosti."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Přesun agendy závislostí pod Ministerstvo zdravotnictví vyvolává obavy z oslabení mezirezortní koordinace a přechodu k represivní politice, jelikož ministerstvo nemá analytické kapacity pro řešení hazardu a sociálních aspektů závislostí.",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "12/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2996_controversy_00.jpg",
+      "context": "Tvrzení o analytických kapacitách je politickým názorem na efektivitu státní správy. Mezirezortní koordinace protidrogové politiky byla historicky v gesci Úřadu vlády (sekretariát Rady vlády pro koordinaci protidrogové politiky), přesun agendy pod MZ ČR je předmětem odborné diskuse o tom, zda se těžiště politiky posouvá od prevence a sociální práce k čistě medicínskému a regulatornímu přístupu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}
