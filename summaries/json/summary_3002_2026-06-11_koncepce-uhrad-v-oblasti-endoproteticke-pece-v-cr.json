@@ -1,0 +1,196 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-11T20:13:34",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3002",
+    "name": "Koncepce úhrad v oblasti endoprotetické péče v ČR",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-11T14:00",
+    "end_date": "2026-06-11T16:31",
+    "sources": [
+      "final/event_3002_2026-06-11_koncepce-uhrad-v-oblasti-endoproteticke-pece-v-cr.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611140003.mp4",
+        "from_sec": 12
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611141003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611142003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611143003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611144003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611145003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611150003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611151003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611152003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611153003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611154003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611161003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/11/_20260611163003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se věnovalo problematice úhradového systému v oblasti endoprotetiky (náhrad kloubů) v České republice. Cílem bylo diskutovat o modernizaci systému úhrad, přechodu od historických plateb k modelu založenému na hodnotě (tzv. bundled payments – balíčkové úhrady), zohlednění kvality péče a stratifikaci pacientů podle náročnosti (case-mix).\n\nÚčastníci se shodli na nutnosti reformy, která by reflektovala reálné náklady, zohlednila inovace (včetně robotické chirurgie) a motivovala poskytovatele k efektivitě a kvalitě, nikoliv pouze k objemu výkonů.",
+    "main_points": [
+      "**Prof. Vojtěch Havlas (ČSOT)** – Navrhl stratifikaci pacientů a certifikaci center. `[1/02:06]`",
+      "**Jiří Mašek (Poslanecká sněmovna)** – Podpořil vizi balíčkových úhrad a standardizaci péče. `[1/04:03]`",
+      "**Dr. Tomáš Pavlík (ÚZIS)** – Upozornil na objem 8 mld. Kč ročně a nutnost standardizace dat. `[2/00:00]`",
+      "**Dr. Tomáš Hauer (MZ ČR)** – Varoval před nekontrolovaným zaváděním robotiky bez centralizace. `[3/00:00]`",
+      "**Prof. Jiří Gallo (ČSOT)** – Představil bundled payment jako nástroj pro řízení kvality. `[4/02:03]`",
+      "**Doc. Tomáš Tomáš (FN u sv. Anny)** – Zdůraznil roli rehabilitace pro zkrácení hospitalizace. `[6/06:02]`",
+      "**Ing. Miroslav Jankuj (VZP)** – Potvrdil pilotování balíčkových úhrad a připravenost k diskuzi. `[7/08:01]`",
+      "**Dr. David Musil (Nemocnice Č. Budějovice)** – Kritizoval neudržitelný stav financování robotické chirurgie. `[8/06:04]`",
+      "**Jan Zapletal (MZ ČR)** – Přislíbil debatu o legislativním ukotvení hodnocení efektivity technologií. `[9/06:10]`"
+    ],
+    "outcome": "Panoval konsenzus v nutnosti reformy úhrad směrem k epizodní péči. Byla navržena tvorba pracovní skupiny pro modelování a pilotování nových úhradových mechanismů v horizontu 4 let. Důraz byl kladen na sběr klinických dat a centralizaci robotické chirurgie.",
+    "notes": "Přepis obsahuje občasné výpadky diakritiky a opakující se fráze, které nebránily pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vojtěch Havlas",
+        "person_id": null,
+        "affiliation": "ČSOT"
+      },
+      {
+        "name": "Jiří Mašek",
+        "person_id": "psp:person:6534",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Tomáš Pavlík",
+        "person_id": "psp:person:5573",
+        "affiliation": "ÚZIS"
+      },
+      {
+        "name": "Tomáš Hauer",
+        "person_id": null,
+        "affiliation": "MZ ČR"
+      },
+      {
+        "name": "Jiří Gallo",
+        "person_id": null,
+        "affiliation": "ČSOT"
+      },
+      {
+        "name": "Tomáš Tomáš",
+        "person_id": null,
+        "affiliation": "FN u sv. Anny"
+      },
+      {
+        "name": "Miroslav Jankuj",
+        "person_id": "psp:person:5766",
+        "affiliation": "VZP"
+      },
+      {
+        "name": "David Musil",
+        "person_id": null,
+        "affiliation": "Nemocnice České Budějovice"
+      },
+      {
+        "name": "Jan Zapletal",
+        "person_id": "psp:person:5652",
+        "affiliation": "MZ ČR"
+      }
+    ],
+    "parties": [
+      "koalice",
+      "opozice"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "ČSOT",
+      "ÚZIS",
+      "VZP",
+      "Ministerstvo zdravotnictví"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Endoprotetika spolknou v uvozovkách ročně více jak 8 miliard korun, je to úhradově velmi významná oblast.",
+      "type": "paraphrase",
+      "speaker": "Tomáš Pavlík",
+      "affiliation": "ÚZIS",
+      "timestamp": "2/01:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3002_highlight_00.jpg",
+      "context": "Podle dat ÚZIS a VZP se roční náklady na ortopedickou endoprotetiku (kloubní náhrady) skutečně pohybují v řádech miliard korun. Částka 8 miliard odpovídá celkovým úhradám z veřejného zdravotního pojištění za tuto segmentovanou péči v rámci ČR."
+    },
+    {
+      "text": "Inovace v ortopedii nemohou dlouhodobě fungovat na úkor rozpočtů nemocnic či netransparentních doplatků pacientů.",
+      "type": "citation",
+      "speaker": "David Musil",
+      "affiliation": "Nemocnice České Budějovice",
+      "timestamp": "9/04:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3002_highlight_01.jpg",
+      "context": "Toto tvrzení je hodnotovým postojem k financování zdravotnictví. Aktuální legislativa (zákon č. 48/1997 Sb.) definuje rozsah hrazených služeb, přičemž otázka doplatků za inovativní metody (např. robotická chirurgie) je předmětem dlouhodobých sporů o definici 'standardu' a 'nadstandardu'."
+    },
+    {
+      "text": "Ne každá nemocnice je schopna celý ten balíček mít, musíme se dohodnout, kdo bude koordinátor péče.",
+      "type": "paraphrase",
+      "speaker": "Jiří Gallo",
+      "affiliation": "ČSOT",
+      "timestamp": "12/06:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3002_highlight_02.jpg",
+      "context": "Tvrzení reflektuje realitu centralizace vysoce specializované péče. V ČR probíhá proces tzv. koncentrace péče do center excelence, což je v souladu se strategií MZ ČR pro zajištění kvality a bezpečnosti pacientů u náročných operačních výkonů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Dr. David Musil (Nemocnice Č. Budějovice)** otevřeně kritizoval existenci „dvourychlostní medicíny“, kdy soukromá zařízení vybírají doplatky za robotické operace, zatímco veřejné nemocnice je dotují ze svých rozpočtů. Je to politicky citlivé, protože to otevírá debatu o nadstandardech a dostupnosti péče.",
+      "speaker": "David Musil",
+      "affiliation": "Nemocnice České Budějovice",
+      "timestamp": "9/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3002_controversy_00.jpg",
+      "context": "Problematika doplatků za robotickou operativu je fakticky doložitelná; zatímco některé zákroky jsou plně hrazeny, u jiných si pacienti v některých zařízeních připlácejí za 'nadstandardní' technologii. Právní rámec pro tyto doplatky je nejednoznačný a často se pohybuje na hraně zákona č. 48/1997 Sb., což vyvolává politické diskuse o rovnosti přístupu k péči."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,217 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-11T20:13:00",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "2999",
+    "name": "Učitel jako lovná zvěř",
+    "classification": "Seminář",
+    "start_date": "2026-06-11T15:01",
+    "end_date": "2026-06-11T18:11",
+    "sources": [
+      "final/event_2999_2026-06-11_ucitel-jako-lovna-zver.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611150003.mp4",
+        "from_sec": 70
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611151004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611152006.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611153006.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611154000.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611155007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611160007.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611161008.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611163002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611164002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611165005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611170004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611171004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611172005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611173006.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611174001.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611175002.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611180002.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/06/11/_20260611181001.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 19,
+    "parts_total": 19,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář s názvem „Učitel jako lovná zvěř“ se konal 11. června 2026 v Poslanecké sněmovně. Cílem setkání bylo otevřít diskuzi o narůstající agresi vůči pedagogickým pracovníkům ze strany žáků i jejich zákonných zástupců. Seminář reflektoval současný stav, kdy učitelé čelí verbálním útokům, kyberšikaně, neopodstatněným stížnostem a fyzickému napadání, přičemž jejich právní ochrana a společenský status jsou vnímány jako nedostatečné.\n\nÚčelem bylo nejen sdílet zkušenosti z praxe, ale také identifikovat konkrétní legislativní a systémové kroky, které by mohly vést k posílení bezpečnosti pedagogů a obnovení respektu k učitelské profesi.",
+    "main_points": [
+      "**Místopředseda sněmovny:** Upozornil na statistiku, že 29 % učitelů čelí agresi, a na rizika spojená s nahráváním učitelů. `[1/02:06]`",
+      "**František Dobšík (odborový předák):** Volá po prevenci a zavedení statusu chráněné osoby pro pedagogy. `[2/06:01]`",
+      "**Milan Chalupník (Asociace ředitelů ZŠ):** Požaduje jasnější pravidla pro řešení kázeňských problémů a lepší spolupráci s OSPOD. `[3/04:01]`",
+      "**Jana Berkovcová (poslankyně):** Navrhuje možnost okamžitého vykázání agresivního žáka z výuky. `[4/04:14]`",
+      "**Senatia Vesecká (předsedkyně ústavně právního výboru):** Upozornila na absenci speciální trestněprávní ochrany učitelů. `[5/04:06]`",
+      "**Jiří Zajíček (náměstek ministra školství):** Kritizoval přístup ČŠI a volá po silnější právní ochraně. `[7/00:00]`",
+      "**Martin Kaplan (právník odborů):** Navrhuje revizi § 22a školského zákona a sdílené důkazní břemeno. `[7/08:05]`",
+      "**Roman Bruník (Maják):** Doporučil bezpečnostní audity škol a nácviky krizových situací. `[11/02:00]`",
+      "**Julia Lipská (iniciativa 2023):** Poukázala na kritický nedostatek psychologů v ČR a vliv duševního zdraví dětí na klima ve školách. `[16/00:00]`"
+    ],
+    "outcome": "Formální hlasování neproběhlo, seminář sloužil jako platforma pro výměnu názorů. Panoval konsenzus v tom, že současný stav je neudržitelný a vede k odchodu kvalitních pedagogů. Dominujícími požadavky byly:\n* Posílení právní ochrany učitelů (status chráněné osoby).\n* Zlepšení spolupráce s OSPOD a policií.\n* Zajištění právní a psychologické pomoci pro pedagogy.\n* Jasnější legislativní vymezení výchovných opatření (vyloučení z výuky).",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (chybějící diakritika, useknutá slova). Části 9 a 10 obsahují technické prodlevy a neformální komunikaci."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Místopředseda sněmovny",
+        "person_id": null,
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "František Dobšík",
+        "person_id": "psp:person:5871",
+        "affiliation": "Českomoravský odborový svaz pracovníků školství"
+      },
+      {
+        "name": "Milan Chalupník",
+        "person_id": null,
+        "affiliation": "Asociace ředitelů základních škol"
+      },
+      {
+        "name": "Jana Berkovcová",
+        "person_id": "psp:person:6723",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Senatia Vesecká",
+        "person_id": "psp:person:7054",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jiří Zajíček",
+        "person_id": null,
+        "affiliation": "Ministerstvo školství, mládeže a tělovýchovy"
+      },
+      {
+        "name": "Martin Kaplan",
+        "person_id": "psp:person:6218",
+        "affiliation": "Českomoravský odborový svaz pracovníků školství"
+      },
+      {
+        "name": "Roman Bruník",
+        "person_id": null,
+        "affiliation": "Maják"
+      },
+      {
+        "name": "Julia Lipská",
+        "person_id": null,
+        "affiliation": "Iniciativa 2023"
+      }
+    ],
+    "parties": [
+      "Poslanecká sněmovna"
+    ],
+    "institutions": [
+      "Ministerstvo školství, mládeže a tělovýchovy",
+      "ČŠI",
+      "OSPOD"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Učitel nesmí být lovnou zvěří; může být tím, od koho společnost očekává řešení složitých problémů, ale zároveň tím, komu odmítá poskytnout ochranu.",
+      "type": "paraphrase",
+      "speaker": "Milan Chalupník",
+      "affiliation": "Asociace ředitelů základních škol",
+      "timestamp": "4/02:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2999_highlight_00.jpg",
+      "context": "Jde o subjektivní vyjádření názoru na společenský status učitelů. Právní ochrana pedagogů je v ČR upravena v trestním zákoníku (zákon č. 40/2009 Sb.), kde je útok na úřední osobu nebo osobu s obdobným postavením přitěžující okolností, nicméně debata o její faktické vymahatelnosti a rozsahu v praxi je dlouhodobým tématem odborné diskuse."
+    },
+    {
+      "text": "V České republice máme 9 klinických psychologů na 100 000 obyvatel, zatímco ve Skandinávii je to přes 100.",
+      "type": "citation",
+      "speaker": "Julia Lipská",
+      "affiliation": "Iniciativa 2023",
+      "timestamp": "16/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2999_highlight_01.jpg",
+      "context": "Údaj o 9 klinických psycholozích na 100 000 obyvatel v ČR odpovídá datům z Registru zdravotnických pracovníků (ÚZIS). Srovnání se Skandinávií je však zavádějící, neboť metodika vykazování a definice „klinického psychologa“ se mezi zeměmi liší a čísla nad 100 na 100 000 obyvatel v severských zemích obvykle zahrnují širší spektrum psychologů a terapeutů, nikoliv pouze klinické psychology."
+    },
+    {
+      "text": "Útok na učitele při výkonu jeho povolání by měl být vnímán stejně závažně jako útok na jiné osoby vykonávající veřejnou službu.",
+      "type": "citation",
+      "speaker": "Milan Chalupník",
+      "affiliation": "Asociace ředitelů základních škol",
+      "timestamp": "4/00:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2999_highlight_02.jpg",
+      "context": "Podle § 127 trestního zákoníku je pedagogický pracovník při výkonu své pravomoci považován za úřední osobu. Útok na něj je tedy již nyní trestněprávně hodnocen přísněji než útok na běžného občana, což je v souladu s požadavkem řečníka."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Senatia Vesecká (předsedkyně ústavně právního výboru)\n**Co:** Navrhuje snížení věku trestní odpovědnosti mladistvých kvůli nárůstu „zážitkového násilí“.\n**Proč:** Politicky citlivé téma, které vyvolává debaty o výchovných vs. represivních metodách a souvislostech s volebním právem.\n**Čas:** 6/04:07",
+      "speaker": "Senatia Vesecká",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "6/04:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_2999_controversy_00.jpg",
+      "context": "Snížení věku trestní odpovědnosti (aktuálně 15 let dle zákona č. 218/2003 Sb.) je opakovaným politickým tématem. Data Ministerstva vnitra a Policie ČR o kriminalitě mladistvých vykazují v čase výkyvy, avšak přímá kauzalita mezi „zážitkovým násilím“ a nutností legislativní změny věkové hranice je předmětem odborného sporu mezi zastánci represe a psychology preferujícími výchovná opatření."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
