@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-11T14:11:19",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3004",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-11T11:00",
+    "end_date": "2026-06-11T11:20",
+    "sources": [
+      "final/event_3004_2026-06-11_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5415_video-psp-2026611-110-22-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí STAN se zaměřila na kritiku vládní koalice, zejména na legislativní změny v oblasti střetu zájmů, které mají podle opozice sloužit zájmům premiéra Andreje Babiše. Dále byla kritizována nedostatečná koncepce obrany, populistický přístup k sociální politice a nekoncepční stavební zákon.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval účelové změny zákonů (střet zájmů, služební zákon) a varoval před psaním zákonů pro jednoho člověka. `[1/02:13]`",
+      "**Karel Dvořák (STAN)** — Představil kritiku obsahu novely zákona o střetu zájmů, která umožňuje čerpání dotací premiérem a znemožňuje vymáhání dotací z let 2017–2021. `[1/04:02]`",
+      "**Josef Flek (STAN)** — Upozornil na podfinancování armády (30 mld. místo 60 mld. Kč) a absenci vládní koncepce obrany. `[1/06:07]`",
+      "**Pavla Pivoňka Vaňková (STAN)** — Odmítla zřízení „sociální dávkové kobry“ jako populistický krok, který neřeší reálné problémy úřadů práce. `[1/08:02]`",
+      "**Lukáš Vlček (STAN)** — Kritizoval stavební zákon pro absenci odborné diskuse a riziko legalizace černých staveb. `[1/12:14]`"
+    ],
+    "outcome": "Nebyla přijata žádná formální rozhodnutí. Hnutí STAN deklarovalo záměr předkládat pozměňovací návrhy a vyžadovat odpovědi od vládních představitelů v rámci parlamentní debaty.",
+    "notes": "Přepis obsahuje občasné výpadky textu a automaticky generované artefakty, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Josef Flek",
+        "person_id": "psp:person:6750",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo práce a sociálních věcí",
+      "Armáda ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zákony v téhle zemi se nemají psát pro jednoho člověka, ale pro lidi obecně.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/02:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3004_highlight_00.jpg",
+      "context": "Jde o vyjádření politického principu obecnosti právních norem (tzv. obecnost zákona), který je základním pilířem právního státu. V českém právním řádu je tento princip zakotven v ústavním pořádku, ačkoliv v praxi dochází k debatám o tzv. „ad hoc“ legislativě, která může být vnímána jako zacílená na konkrétní subjekty."
+    },
+    {
+      "text": "Stavební zákon je děravý jak cedník, nemá posádku a nemá plachty.",
+      "type": "citation",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/11:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3004_highlight_01.jpg",
+      "context": "Jedná se o metaforické vyjádření kritiky aktuálního stavu stavební legislativy (zákon č. 283/2021 Sb.). Funkčnost nového stavebního zákona je předmětem odborné i politické diskuse, zejména v souvislosti s digitalizací stavebního řízení, která čelí technickým problémům a kritice ze strany samospráv i stavebníků."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Vít Rakušan (STAN)\n**Co:** Návrh na přejmenování vládního zákona o střetu zájmů na „Návrh zákona, kterým se v zájmu Andreje Babiše mění zákon o střetu zájmů“.\n**Proč:** Je to politicky citlivé, protože přímo napadá integritu premiéra a obviňuje vládní koalici z legislativní korupce ve prospěch holdingu Agrofert.\n**Čas:** 1/04:02",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/04:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3004_controversy_00.jpg",
+      "context": "Návrh na přejmenování zákona je politickou rétorickou figurou, nikoliv oficiálním legislativním návrhem. Otázka střetu zájmů Andreje Babiše a jeho vazeb na holding Agrofert byla opakovaně předmětem šetření orgánů EU a českých úřadů, přičemž právní interpretace zákona č. 159/2006 Sb. (o střetu zájmů) v tomto kontextu zůstává dlouhodobě sporným politickým tématem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-11T14:09:45",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3006",
+    "name": "Tisková konference opozice po jednání s experty na protidrogovou politiku",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-11T11:21",
+    "end_date": "2026-06-11T11:41",
+    "sources": [
+      "final/event_3006_2026-06-11_tiskova-konference-opozice-po-jednani-s-experty-na.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5416_video-psp-2026611-1121-1-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference opozičních stran (Piráti, STAN, ODS, KDU-ČSL, TOP 09) byla svolána v reakci na kroky vlády Andreje Babiše v oblasti protidrogové politiky. Opozice kritizuje záměr vlády přesunout agendu Národního protidrogového koordinátora z Úřadu vlády pod Ministerstvo zdravotnictví a faktické oslabení odborného aparátu tohoto úřadu.\n\nCílem jednání opozice s experty bylo vyjádřit nesouhlas s tím, co označují za „ezoterickou“ a „represivní“ politiku, která ignoruje vědecké poznatky (tzv. evidence-based policy) a principy snižování rizik (harm reduction). Opozice varuje, že tyto kroky povedou k destrukci funkčního systému a zhoršení bezpečnostní situace v zemi.",
+    "main_points": [
+      "**Štěpán Slovák (ODS)** — Obvinil vládu z ignorování vědy a odborníků. Varuje, že přesun agendy a „vyhladovění“ úřadu koordinátora povede k jeho znefunkčnění a vytvoření pozice, která bude pouze formální bez reálných pravomocí. `[1/01:10]`",
+      "**Michaela Šebelová (STAN)** — Kritizovala vládní mikromanagement a snahu o destrukci lidskoprávních agend. Upozornila na rozpor mezi tvrzením vlády, že se „nic nemění“ (stejný počet lidí a peněz), a reálným rizikem odklonu od vědecky podložené politiky směrem k neúčinné represi. `[1/02:10]`",
+      "**Barbora Pipášová (Piráti)** — Zdůraznila nutnost postupovat na základě tvrdých dat. Varovala před návratem k represivní politice před rokem 1989 a připomněla, že adiktologie zahrnuje i závislosti na digitálních technologiích, které ohrožují děti. `[1/04:00]`",
+      "**Tom Filip (KDU-ČSL)** — Vyjádřil obavu z nárůstu užívání drog na veřejných prostranstvích. Varoval, že po přesunu na ministerstvo ztratí Rada vlády pro koordinaci protidrogové politiky svůj odborný aparát a stane se „kůlem v plotě“, který nebude schopen koordinovat činnost napříč resorty. `[1/06:02]`",
+      "**Vlastimil Válek (TOP 09)** — Argumentoval historickými zkušenostmi (např. prohibice v USA), které dokazují, že represe bez vědeckého základu nefunguje. Kritizoval vládu za pomalou reakci při zákazu rizikových látek, přestože existuje funkční zákonný mechanismus pro jejich dočasný zákaz. `[1/08:00]`"
+    ],
+    "outcome": "Jednání opozice s experty vyústilo v deklaraci společného postupu. Opozice hodlá nadále vyvíjet tlak na premiéra, aby své rozhodnutí přehodnotil. V případě, že vláda nezačne postupovat podle vědeckých doporučení, je opozice připravena předkládat vlastní legislativní návrhy (např. adiktologický zákon) a posilovat roli Národního protidrogového koordinátora prostřednictvím zákonných změn.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a nesrozumitelné pasáže (např. „best in fentanyl“, „vtrní“, „ka kytku“), které však nebrání pochopení hlavních argumentů řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Pipášová",
+        "person_id": "psp:person:7035",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Tom Filip",
+        "person_id": null,
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Vlastimil Válek",
+        "person_id": "psp:person:6482",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "STAN",
+      "ODS",
+      "KDU-ČSL",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Úřad vlády",
+      "Ministerstvo zdravotnictví",
+      "Národní protidrogový koordinátor"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda České republiky nevěří vědě, nevěří faktům, věří ezoterické protidrogové politice a závislostní, věří kartářkám vedoucí úřadu vlády a předsedy vlády.",
+      "type": "citation",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/00:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3006_highlight_00.jpg",
+      "context": "Jde o subjektivní politickou rétoriku a hodnotící úsudek řečníka. Tvrzení o „věření kartářkám“ není podloženo žádnými oficiálními dokumenty ani důkazy o rozhodovacích procesech vlády."
+    },
+    {
+      "text": "Cílem je znefunkčnit stávající systém, cílem je vyhladovit Úřad Národního protidrogového koordinátora, tak aby to byl jeden člověk na úřadu vlády, který tam bude mít k sobě sekretářku.",
+      "type": "citation",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/01:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3006_highlight_01.jpg",
+      "context": "Tvrzení o záměrném „vyhladovění“ úřadu je politickou interpretací změn v systemizaci státní správy. Reálný dopad na personální kapacity Úřadu vlády v oblasti protidrogové politiky lze ověřit porovnáním aktuální systemizace s předchozími obdobími."
+    },
+    {
+      "text": "Pokud se Andrej Babiš nerozhodne předložit adiktologický zákon, tak ho předložíme my jako opozice.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/18:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3006_highlight_02.jpg",
+      "context": "Zda opozice předloží vlastní návrh adiktologického zákona, je otázkou budoucího politického rozhodnutí. V současné době neexistuje žádný vládní návrh takového zákona, který by byl v legislativním procesu."
+    },
+    {
+      "text": "Stát má všechny nástroje, má vynikající zákon, jakoukoliv rizikovou látku může zakázat, na dva roky ji sledovat.",
+      "type": "citation",
+      "speaker": "Vlastimil Válek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/11:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3006_highlight_03.jpg",
+      "context": "Stát disponuje zákonem č. 167/1998 Sb., o návykových látkách, který umožňuje operativně zařazovat látky na seznam zakázaných látek. Mechanismus dočasného zákazu rizikových látek (tzv. „emergency scheduling“) je v českém právním řádu skutečně implementován."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Štěpán Slovák (ODS)\n**Co:** Obvinil vládu, že se při tvorbě protidrogové politiky radí s „kartářkami“ a ignoruje vědce.\n**Proč:** Jde o silné politické obvinění z iracionality a nekompetence premiéra, které má zdůraznit údajný odklon vlády od odbornosti.\n**Čas:** 1/01:10",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/01:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3006_controversy_00.jpg",
+      "context": "Jedná se o politickou nadsázku (hyperbolu) kritizující odbornou úroveň vládní protidrogové politiky. Nelze nezávisle ověřit jako faktické tvrzení, neboť postrádá konkrétní důkazní základnu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
