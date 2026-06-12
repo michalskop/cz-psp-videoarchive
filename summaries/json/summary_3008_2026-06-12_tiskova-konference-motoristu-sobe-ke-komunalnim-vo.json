@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-12T14:34:49",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3008",
+    "name": "Tisková konference Motoristů sobě ke komunálním volbám",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-12T12:34",
+    "end_date": "2026-06-12T13:02",
+    "sources": [
+      "final/event_3008_2026-06-12_tiskova-konference-motoristu-sobe-ke-komunalnim-vo.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5418_video-psp-2026612-1234-18-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem oficiálního představení lídrů kandidátek hnutí Motoristé sobě pro tři největší česká města – Prahu, Brno a Ostravu – pro nadcházející komunální volby v říjnu 2026. Hnutí se prezentuje jako politicky silnější subjekt než před čtyřmi lety, kdy poprvé kandidovalo, a zdůrazňuje svou současnou parlamentní a vládní angažovanost.\n\nCílem konference bylo nejen představit konkrétní tváře kampaně, ale také vymezit programové priority, mezi které patří zejména kritika současného stavu dopravy v metropolích, odpor vůči „ideologickým“ zásahům do městské infrastruktury (cyklopruhy, omezování vjezdu aut) a důraz na pragmatická řešení pro občany.",
+    "main_points": [
+      "**Petr Macinka (předseda hnutí)** — Zdůraznil růst hnutí: od 2,3 % před čtyřmi lety po současnou účast ve vládě a parlamentu. Kritizoval „spící“ politiky. Potvrdil kandidaturu v cca 70 zastupitelstvech. Vyloučil spolupráci s Piráty. `[1/00:00]`",
+      "**Klára Sovová (lídryně pro Prahu)** — Kritizovala současné vedení Prahy za „ideologické“ řízení města. Jako hlavní problém označila nefunkční dopravu a cyklopruhy. Vyvrátila spekulace o svém bydlišti. `[1/10:17]`",
+      "**Tomáš Kratochvíl (lídr pro Brno)** — Starosta městské části Brno-Bystrc s 12letou praxí. Prosazuje pragmatickou politiku bez „politického aktivismu“. Cílem je zlepšení dopravní situace v Brně. `[1/14:04]`",
+      "**Matěj Gregor (lídr pro Ostravu)** — Poslanec a ostravský rodák. Kritizoval chaotické uzavírky a nekoncepční dopravní řešení v Ostravě. Slíbil program zaměřený na reálné potřeby občanů. `[1/16:01]`",
+      "**Boreš Šťastný (předseda poslaneckého klubu)** — Potvrdil podporu kandidátům a zdůraznil, že motoristé plní svůj program jak ve vládě, tak v parlamentu. `[1/18:03]`"
+    ],
+    "outcome": "Nebyla přijata žádná formální rozhodnutí, šlo o informační setkání. Konsenzem řečníků je odmítnutí spolupráce s Piráty a důraz na programovou vyhraněnost v dopravní politice. Hnutí se v následujících týdnech zaměří na představení jednotné vizuální podoby kampaně a konkrétních volebních programů pro jednotlivá města.",
+    "notes": "Přepis obsahuje opakující se halucinace („Představujeme se na vývoj vývojů“), které byly pro účely shrnutí ignorovány. Části textu jsou mírně nesrozumitelné kvůli chybějící diakritice a useknutým slovům."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Petr Macinka",
+        "person_id": "psp:person:7022",
+        "affiliation": "Motoristé sobě"
+      },
+      {
+        "name": "Klára Sovová",
+        "person_id": null,
+        "affiliation": "Motoristé sobě"
+      },
+      {
+        "name": "Tomáš Kratochvíl",
+        "person_id": null,
+        "affiliation": "Motoristé sobě"
+      },
+      {
+        "name": "Matěj Gregor",
+        "person_id": "psp:person:7006",
+        "affiliation": "Motoristé sobě"
+      },
+      {
+        "name": "Boreš Šťastný",
+        "person_id": "psp:person:5512",
+        "affiliation": "Motoristé sobě"
+      }
+    ],
+    "parties": [
+      "Motoristé sobě",
+      "Piráti",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Vláda ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Momentálně asi v městě napadeném Piráty žijeme a já za sebe musím říct, že pro mě ta míra té nesvobody a těch věcí, které se momentálně v Praze podle mě úplně pouze ideologicky dějí, přináší to, že jsem strašně ráda, že jsem se mohla spojit s motoristy.",
+      "type": "citation",
+      "speaker": "Klára Sovová",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/11:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3008_highlight_00.jpg"
+    },
+    {
+      "text": "My budeme v programu nabízet program a řešení pro lidi, kteří v Ostravě žijí, kteří tam pracují, kteří tam studují, kteří tam vychovávají své rodiny, kteří tam chtějí zůstat, vlastnit nemovitost, projet se autem.",
+      "type": "citation",
+      "speaker": "Matěj Gregor",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/17:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3008_highlight_01.jpg"
+    },
+    {
+      "text": "V Brně bychom chtěli zlepšit dopravní situaci. Nechceme dopadnout jako Pražáci.",
+      "type": "citation",
+      "speaker": "Tomáš Kratochvíl",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/14:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3008_highlight_02.jpg"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Petr Macinka označil Piráty za stranu, se kterou si spolupráci neumí představit, a kritizoval ODS za to, že se s nimi po volbách v Praze spojila. Je to politicky citlivé, protože to narušuje vládní koaliční dynamiku.",
+      "speaker": "Petr Macinka",
+      "affiliation": "Motoristé sobě",
+      "timestamp": "1/22:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3008_controversy_00.jpg"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

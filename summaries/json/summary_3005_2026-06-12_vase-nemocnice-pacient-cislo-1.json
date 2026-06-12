@@ -1,0 +1,178 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-12T14:34:35",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3005",
+    "name": "Vaše nemocnice - pacient číslo 1",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-12T08:55",
+    "end_date": "2026-06-12T11:18",
+    "sources": [
+      "final/event_3005_2026-06-12_vase-nemocnice-pacient-cislo-1.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612085004.mp4",
+        "from_sec": 311
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612090004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612091003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612092003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612093003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612094003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612095003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612100004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612101004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612102004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612103004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612104004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612105004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612110004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/12/_20260612111004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu s názvem „Vaše nemocnice – pacient číslo 1“ se zaměřilo na kritickou problematiku kybernetické bezpečnosti ve zdravotnictví. Cílem bylo diskutovat o odolnosti nemocnic vůči kybernetickým útokům, efektivitě implementace legislativních požadavků (zejména směrnice NIS-2) a nutnosti orchestrace mezi IT systémy, fyzickou bezpečností a provozními procesy nemocnic.\n\nDiskuse se soustředila na překonání roztříštěnosti systémů, nedostatek odborných kapacit a potřebu „selského rozumu“ při zavádění bezpečnostních opatření. Důraz byl kladen na to, aby bezpečnostní nástroje nebyly pouze formálním naplněním vyhlášek, ale skutečným procesem, který chrání „rodinné stříbro“ nemocnic – tedy péči o pacienta a dostupnost klíčových technologií.",
+    "main_points": [
+      "**Robert Králíček (poslanec)** – Zdůraznil, že kybernetická bezpečnost je otázkou veřejného zájmu. Varoval před formálním plněním legislativy bez reálného dopadu. `[1/08:24]`",
+      "**Petr Stoklas (Asociace škol kritické infrastruktury)** – Kritizoval chaotický nákup technologií bez plánu a orchestrace. `[2/06:08]`",
+      "**Věra Adamková (poslankyně)** – Upozornila na roztříštěnost systémů a absenci sdílených dat pacientů. `[3/06:01]`",
+      "**Pavel Kubín (Altworks)** – Navrhl koncept „situačního dvojčete“ pro propojení IT a fyzické bezpečnosti. `[4/00:00]`",
+      "**Tomáš Kryčí (NÚKIB)** – Vysvětlil roli NÚKIB při sdílení indikátorů kompromitace. `[9/08:08]`",
+      "**Jan Kolouch (CESNET)** – Zdůraznil, že technologie nevyřeší problém bez přesvědčení lidí v nemocnicích. `[10/06:01]`"
+    ],
+    "outcome": "Jednání vedlo k širokému konsenzu v následujících bodech:\n* **Potřeba sdílení:** Je nutné sdílet kapacity (lidi i techniku) mezi nemocnicemi.\n* **Lidský faktor:** Největším rizikem zůstává uživatel a nedostatek odborníků.\n* **Role státu:** Stát by měl definovat jasná pravidla, podporovat centralizaci dat a pomáhat s metodikou pro zadávání veřejných zakázek.",
+    "notes": "Přepis obsahuje opakující se technické artefakty (halucinace modelu) a místy chybějící diakritiku. Části záznamu jsou useknuté, ale podstata argumentace řečníků zůstala srozumitelná."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Robert Králíček",
+        "person_id": "psp:person:6509",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Petr Stoklas",
+        "person_id": null,
+        "affiliation": "Asociace škol kritické infrastruktury"
+      },
+      {
+        "name": "Věra Adamková",
+        "person_id": "psp:person:6254",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Pavel Kubín",
+        "person_id": null,
+        "affiliation": "Altworks"
+      },
+      {
+        "name": "Tomáš Kryčí",
+        "person_id": null,
+        "affiliation": "NÚKIB"
+      },
+      {
+        "name": "Jan Kolouch",
+        "person_id": null,
+        "affiliation": "CESNET"
+      },
+      {
+        "name": "Martin Obró",
+        "person_id": "psp:person:6646",
+        "affiliation": "Nemocnice Jičín"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NÚKIB",
+      "CESNET",
+      "Altworks"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Kybernetický útok není jen malware, vypadá to o tom, že vám nebude fungovat špitál, protože vám nepůjde voda, světlo, dveře, výtah.",
+      "type": "citation",
+      "speaker": "Pavel Kubín",
+      "affiliation": "Altworks",
+      "timestamp": "4/01:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3005_highlight_00.jpg",
+      "context": "Tvrzení je fakticky správné v kontextu kybernetické bezpečnosti kritické informační infrastruktury (KII). Moderní nemocniční systémy jsou plně digitalizované a propojené (IoT), takže narušení řídicích systémů budov (BMS) může skutečně vést k výpadkům technologií zajišťujících provoz budovy."
+    },
+    {
+      "text": "Největší nepřítel je uživatel, je to to, co je mezi židlí a tím kompem.",
+      "type": "citation",
+      "speaker": "Martin Obró",
+      "affiliation": "Nemocnice Jičín",
+      "timestamp": "13/07:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3005_highlight_01.jpg",
+      "context": "Jde o ustálený odborný termín v kybernetické bezpečnosti označující tzv. 'human factor'. Statisticky je lidská chyba (např. kliknutí na phishingový odkaz) skutečně nejčastější příčinou úspěšných kybernetických útoků, což potvrzují pravidelné zprávy NÚKIB o stavu kybernetické bezpečnosti ČR."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o čínských technologiích (např. Huawei) v kritické infrastruktuře. Nemocnice je nakoupily kvůli ceně a nyní je nelze snadno nahradit, což vytváří bezpečnostní riziko.",
+      "speaker": "Pavel Kubín / Jan Kolouch",
+      "affiliation": null,
+      "timestamp": "15/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3005_controversy_00.jpg",
+      "context": "NÚKIB v roce 2018 vydal varování před technologiemi společností Huawei a ZTE, které označil za bezpečnostní hrozbu pro KII. Problém závislosti na levnějším čínském hardwaru v českém zdravotnictví je dlouhodobě diskutovaným tématem, přičemž náhrada těchto systémů je finančně i technicky náročná a vyžaduje postupné investice v rámci kybernetické obměny."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
