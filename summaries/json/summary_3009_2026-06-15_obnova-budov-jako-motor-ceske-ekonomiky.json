@@ -1,0 +1,129 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-15T14:25:26",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3009",
+    "name": "Obnova budov jako motor české ekonomiky",
+    "classification": "Seminář",
+    "start_date": "2026-06-15T13:31",
+    "end_date": "2026-06-15T17:00",
+    "sources": [
+      "final/event_3009_2026-06-15_obnova-budov-jako-motor-ceske-ekonomiky.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/15/_20260615133003.mp4",
+        "from_sec": 113
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/15/_20260615134003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 2,
+    "parts_total": 2,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na strategii renovací budov v České republice, která je klíčová pro dosažení energetických úspor. Vzhledem k tomu, že lidé tráví v budovách 90 % času a domácnosti vydávají až 80 % energie na vytápění a ohřev vody, je obnova fondu budov vnímána jako zásadní ekonomický a environmentální motor.\n\nCílem jednání bylo představit aktuální stav přípravy strategie renovací, diskutovat o bariérách (zejména v oblasti financování a projektové připravenosti) a projednat legislativní změny spojené s transpozicí směrnice EPBD, včetně zavádění standardu bezemisních budov (ZEBU).",
+    "main_points": [
+      "**Marta Gělová (Šance pro budovy)** — Organizátorka akce, zdůraznila potřebu systematického a daty podloženého přístupu k renovacím. Upozornila na vysokou energetickou náročnost českých domácností v porovnání s průměrem EU. `[1/04:02]`",
+      "**Natálie Marková (Ministerstvo průmyslu a obchodu)** — Představila probíhající práce na strategii renovací a novele zákona č. 406/2000 Sb. (hospodaření energií).\n    * **Data:** V ČR je 4,2 milionu budov, přes 50 % rodinných domů je starších 35 let.\n    * **Databáze:** Připravuje se databáze energetické náročnosti budov (spuštění první fáze plánováno na 15. 12.).\n    * **Legislativa:** Novela zákona má snížit byrokratickou zátěž a transponovat směrnici EPBD.\n    * **Standardy:** Cílem je zavést standard bezemisních budov (ZEBU), přičemž analýzy ukazují, že 64 % současných projektů již tyto parametry splňuje. `[1/08:03]`",
+      "**Patrik Nacher (Poslanecká sněmovna)** — Přítomen jako podporovatel akce a poskytovatel záštity. `[1/02:09]`",
+      "**Další panelisté:** Ota Melcher (MF), Michal (konzultant), Milan Hladík (MMR) a Adam Rujber (architekt) byli představeni jako experti pro následnou diskuzi o bariérách a příkladech dobré praxe. `[1/04:02]`"
+    ],
+    "outcome": "Jednání proběhlo jako diskuzní seminář bez formálního hlasování. Hlavním konsenzem je nutnost propojení státní správy se soukromým sektorem prostřednictvím platforem (např. *Energy Efficiency Financial Coalition*). Byla potvrzena ambice předložit finální strategii renovací vládě do konce roku 2026 a pokračovat v legislativním procesu novely zákona o hospodaření energií během letních měsíců.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky slov v důsledku automatického zpracování (např. useknuté věty u jmen řečníků). Části záznamu byly srozumitelné a obsahově konzistentní."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Marta Gělová",
+        "person_id": null,
+        "affiliation": "Šance pro budovy"
+      },
+      {
+        "name": "Natálie Marková",
+        "person_id": null,
+        "affiliation": "Ministerstvo průmyslu a obchodu"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Ota Melcher",
+        "person_id": null,
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Milan Hladík",
+        "person_id": "psp:person:1508",
+        "affiliation": "Ministerstvo pro místní rozvoj"
+      },
+      {
+        "name": "Adam Rujber",
+        "person_id": null,
+        "affiliation": "ČR pro šetrné budovy"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo průmyslu a obchodu",
+      "Ministerstvo financí",
+      "Ministerstvo pro místní rozvoj",
+      "Šance pro budovy"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V ČR máme 4,2 milionů budov a více než polovina rodinných domů je starší 35 let.",
+      "type": "paraphrase",
+      "speaker": "Natálie Marková",
+      "affiliation": "Ministerstvo průmyslu a obchodu",
+      "timestamp": "1/09:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3009_highlight_00.jpg",
+      "context": "Podle dat ČSÚ (Sčítání lidu, domů a bytů 2021) je v ČR přibližně 2,2 milionu domů. Tvrzení o 4,2 milionech budov je nadhodnocené, pokud nezahrnuje i rekreační objekty či drobné stavby; stáří rodinných domů nad 35 let odpovídá realitě, neboť většina bytového fondu byla postavena před rokem 1990."
+    },
+    {
+      "text": "Lidé tráví přibližně 90 % času uvnitř budov a české domácnosti utrácejí naprostou většinu svých výdajů za energetickou spotřebu.",
+      "type": "citation",
+      "speaker": "Marta Gělová",
+      "affiliation": "Šance pro budovy",
+      "timestamp": "1/03:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3009_highlight_01.jpg",
+      "context": "Odhad, že lidé tráví 90 % času uvnitř budov, je běžně citovaný údaj v oboru stavebnictví a hygieny (např. Státní zdravotní ústav). Tvrzení, že domácnosti utrácejí „naprostou většinu“ výdajů za energie, je zavádějící; podle dat ČSÚ o spotřebním koši tvoří výdaje na bydlení a energie v průměru cca 20–25 % celkových výdajů domácností."
+    },
+    {
+      "text": "64 % současných projektů již splňuje to, co budeme teprve nastavovat jako minimální standard.",
+      "type": "citation",
+      "speaker": "Natálie Marková",
+      "affiliation": "Ministerstvo průmyslu a obchodu",
+      "timestamp": "2/09:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3009_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Údaj o 64 % projektů závisí na metodice výpočtu a definici „minimálního standardu“, kterou MPO v rámci transpozice směrnice EPBD teprve definuje."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma:** Zavádění standardu bezemisních budov (ZEBU).\n    * **Kdo:** Natálie Marková (MPO).\n    * **Co:** Implementace přísnějších standardů pro budovy v rámci transpozice EPBD.\n    * **Proč:** Politicky citlivé téma kvůli obavám z nárůstu nákladů na výstavbu a rekonstrukce, což může být vnímáno jako další zátěž pro majitele nemovitostí.\n    * **Čas:** `2/04:05`",
+      "speaker": "Natálie Marková",
+      "affiliation": "Ministerstvo průmyslu a obchodu",
+      "timestamp": "2/04:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3009_controversy_00.jpg",
+      "context": "Směrnice EPBD (Energy Performance of Buildings Directive) skutečně zavádí standard bezemisních budov (ZEBU). Politická kontroverze pramení z obav o růst cen novostaveb a nákladů na renovace, což potvrzují analýzy dopadů regulací (RIA) zpracovávané v rámci legislativního procesu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
