@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-15T19:04:50",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3010",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-15T15:32",
+    "end_date": "2026-06-15T15:52",
+    "sources": [
+      "final/event_3010_2026-06-15_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5420_video-psp-2026615-1532-25-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ODS byla svolána jako reakce na aktuální kroky vlády Andreje Babiše, zejména na záměr změnit systém financování České televize a Českého rozhlasu. Představitelé ODS tento krok označili za útok na nezávislost veřejnoprávních médií a pokus o jejich „ochočení“ po vzoru autoritářských režimů (Slovensko, Maďarsko).\n\nKromě mediální legislativy se řečníci vyjádřili k zahraniční politice (ruská agrese na Ukrajině, dohoda USA–Írán) a kritizovali vládní personální politiku ve státní správě, konkrétně snižování počtu podřízených pro zřízení pozice sekčního ředitele, což podle ODS povede k nárůstu počtu „trafik“ pro politické nominanty.",
+    "main_points": [
+      "**Martin Kupka (ODS)**\n    *   **Média:** Označil vládní návrh za „zestátnění“ médií a útok na kritickou novinařinu. ODS bude proti návrhu hlasovat v Poslanecké sněmovně, Senátu a v případě neúspěchu se obrátí na Ústavní soud. `[1/01:00]`\n    *   **Zahraniční politika:** Vyzval Andreje Babiše k aktivnějšímu postoji na ochranu Ukrajiny a k podpoře zpřísnění sankcí vůči Rusku. `[1/03:00]`\n    *   **Blízký východ:** Uvítal dohodu mezi USA a Íránem, ale varoval před opatrností. Vyzval vládu, aby v případě poklesu cen ropy zrušila regulace trhu. `[1/04:03]`\n    *   **Státní správa:** Kritizoval změnu pravidel pro zřizování sekcí (pokles limitu ze 40 na 28 pracovníků), což vnímá jako vytváření „trafik“ pro politické spojence. `[1/05:00]`",
+      "**Martin Baxa (ODS)**\n    *   **Média:** Upozornil na netransparentnost vládního návrhu, který nebyl zveřejněn v systému eKLEP. Odhadl škrty na 1 miliardu Kč pro ČT a 300 milionů Kč pro ČRo. `[1/08:00]`\n    *   **Argumentace:** Zdůraznil, že média veřejné služby jsou efektivní a jejich financování by mělo zůstat nezávislé na státním rozpočtu (poplatky). `[1/10:04]`\n    *   **Pojistky:** Zpochybnil existenci jakýchkoliv vládních garancí nezávislosti. Jako skutečnou pojistku navrhl ústavní změnu, aby zákony o financování médií vyžadovaly souhlas Senátu. `[1/18:02]`"
+    ],
+    "outcome": "ODS zaujala k vládnímu návrhu na změnu financování médií veřejné služby odmítavý postoj. Strana hodlá návrh v parlamentu blokovat, podávat pozměňovací návrhy a v případě schválení napadnout zákon u Ústavního soudu. Konsenzem mezi řečníky je, že jakýkoliv přechod na financování ze státního rozpočtu je nepřípustný a ohrožuje nezávislost médií.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Česká televize",
+      "Český rozhlas",
+      "Vláda ČR",
+      "Poslanecká sněmovna",
+      "Senát",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nikdy nebude hlasovat pro ochočení médií veřejné služby ze strany vlády, ať už by ta vláda byla jakákoliv.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3010_highlight_00.jpg",
+      "context": "Jde o politický příslib, který nelze fakticky ověřit, neboť se týká budoucího hlasování. Nezávislost médií veřejné služby je v ČR ukotvena v zákonech č. 483/1991 Sb. (o ČT) a č. 484/1991 Sb. (o ČRo)."
+    },
+    {
+      "text": "Víme už, jaké jsou konkrétní škrty, miliarda u České televize, 300 milionů odhadem plus minus u Českého rozhlasu.",
+      "type": "citation",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/09:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3010_highlight_01.jpg",
+      "context": "Tato čísla odpovídají tehdejším debatám o úsporách v rozpočtech médií veřejné služby v rámci vládních konsolidačních balíčků. Konkrétní dopady na rozpočty ČT a ČRo jsou veřejně dostupné ve výročních zprávách těchto institucí a v návrzích státního rozpočtu předkládaných MF ČR."
+    },
+    {
+      "text": "Pokud vláda bude rvát ten návrh Sněmovnou, samozřejmě budeme tomu bránit, bezpochyby připravíme mnoho pozměňovacích návrhů.",
+      "type": "citation",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/17:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3010_highlight_02.jpg",
+      "context": "Jedná se o standardní popis parlamentní procedury podle Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Možnost podávat pozměňovací návrhy je legitimním nástrojem opoziční práce v legislativním procesu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Přirovnal kroky Andreje Babiše a Oty Klempíře k praktikám „socíku“ a řídících důstojníků StB.\n**Proč:** Jde o silnou politickou rétoriku spojující současnou vládu s komunistickou minulostí, což je vysoce polarizující téma.\n**Čas:** `1/01:00`",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3010_controversy_00.jpg",
+      "context": "Toto tvrzení představuje hodnotící politický soud a rétorickou figuru, kterou nelze fakticky verifikovat jako pravdivou či nepravdivou. Spojování politických oponentů s praktikami StB je v českém parlamentním diskurzu častým nástrojem politického boje."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
