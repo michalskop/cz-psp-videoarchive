@@ -1,0 +1,222 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-17T02:41:21",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3011",
+    "name": "Jak skutečně zajistit hrazení výživného?",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-16T09:32",
+    "end_date": "2026-06-16T13:06",
+    "sources": [
+      "final/event_3011_2026-06-16_jak-skutecne-zajistit-hrazeni-vyzivneho.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616093008.mp4",
+        "from_sec": 145
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616094008.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616095008.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616100008.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616101008.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616102008.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616103008.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616104008.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616105008.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616110008.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616111008.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616112008.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616113008.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616114008.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616115008.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616120008.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616121008.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616122008.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616123008.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616124008.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616125008.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/16/_20260616130008.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 22,
+    "parts_total": 22,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na problematiku neplacení výživného v České republice, a to v kontextu nedávné legislativní změny (účinné od 1. 1. 2026), která omezila kriminalizaci tohoto jednání. Cílem semináře bylo analyzovat dostupná data, sdílet zkušenosti z praxe a hledat alternativní, efektivnější řešení.\n\nHlavním motivem byla snaha o deeskalaci konfliktů mezi rodiči a hledání nástrojů, které by rodiče motivovaly k plnění vyživovací povinnosti dobrovolně.",
+    "main_points": [
+      "**Neidentifikovaný řečník (poslanec)** — Zdůraznil neefektivitu kriminalizace, kde 50 % odsouzených recidivuje. `[1/04:18]`",
+      "**Jakub Sosna (Konzorcium dluhových poraden)** — Upozornil, že problém je primárně sociální a vztahový, nikoliv právní. `[2/02:21]`",
+      "**Antonín Toman (Exekutorská komora)** — Navrhl využít exekutory pro zjišťování majetkových poměrů dlužníků pro soudy. `[5/00:00]`",
+      "**Petra Rutarová (Soudkyně)** — Navrhla zavedení komunikační aplikace pro rodiče a povinné mediace. `[8/02:03]`",
+      "**Zuzana Geza (Ratolest)** — Popsala kazuistiky rodin v nouzi, kde trestní stíhání situaci dětí zhoršuje. `[11/00:00]`",
+      "**Zuzana Grulichová (Rubikoncentrum)** — Zdůraznila význam insolvence jako nástroje pro stabilizaci dlužníků. `[12/08:00]`",
+      "**Zuzana Tinglová (ASO)** — Navrhla legislativní změny: prioritu výživného v exekucích a zřízení centrálního úřadu. `[14/04:04]`",
+      "**Lucie Pacnerová (Mediační centrum)** — Vyzdvihla mediaci jako nástroj pro deeskalaci konfliktů. `[16/00:00]`",
+      "**Jan Odvárka (Probační služba)** — Upozornil na nízké využití elektronického monitoringu (náramků). `[19/02:09]`"
+    ],
+    "outcome": "Jednání vyústilo v konsenzus, že trestní právo by mělo být až „ultima ratio“. Dominující postoj účastníků se přiklání k posílení preventivních nástrojů, jako jsou mediace, dluhové poradenství a interdisciplinární spolupráce. Jako konkrétní legislativní výzvy byly identifikovány: zavedení priority výživného v exekucích, revize systému náhradního výživného a podpora elektronické komunikace mezi rodiči.",
+    "notes": "Přepis obsahuje opakující se technické artefakty a občasné výpadky v textu způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jakub Sosna",
+        "person_id": null,
+        "affiliation": "Konzorcium dluhových poraden"
+      },
+      {
+        "name": "Petra Rutarová",
+        "person_id": null,
+        "affiliation": "Okresní soud v Třebíči"
+      },
+      {
+        "name": "Antonín Toman",
+        "person_id": "psp:person:4019",
+        "affiliation": "Exekutorská komora"
+      },
+      {
+        "name": "Zuzana Geza",
+        "person_id": null,
+        "affiliation": "Ratolest"
+      },
+      {
+        "name": "Zuzana Grulichová",
+        "person_id": null,
+        "affiliation": "Rubikoncentrum"
+      },
+      {
+        "name": "Zuzana Tinglová",
+        "person_id": "psp:person:6206",
+        "affiliation": "ASO"
+      },
+      {
+        "name": "Lucie Pacnerová",
+        "person_id": null,
+        "affiliation": "Mediační a edukační centrum Brno"
+      },
+      {
+        "name": "Jan Odvárka",
+        "person_id": null,
+        "affiliation": "Probační a mediační služba"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo spravedlnosti",
+      "Exekutorská komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "50 % lidí, kteří jsou odsouzeni za trestní čin zanedbání povinné výživy, znovu páchají, takže tam nějaká nápravná funkce trestu prostě není.",
+      "type": "citation",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "Poslanec",
+      "timestamp": "1/07:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3011_highlight_00.jpg",
+      "context": "Statistiky recidivy u trestného činu zanedbání povinné výživy se v odborných studiích (např. Probační a mediační služba) často pohybují v rozmezí 40–50 %. Údaj o nízké nápravné funkci vězeňství v této oblasti je dlouhodobě diskutovaným tématem v rámci kriminologie a trestní politiky."
+    },
+    {
+      "text": "Úspěšnost exekucí při vymáhání výživného se pohybuje mezi 10 a 21 %.",
+      "type": "citation",
+      "speaker": "Antonín Toman",
+      "affiliation": "Exekutorská komora",
+      "timestamp": "15/06:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3011_highlight_01.jpg",
+      "context": "Údaj odpovídá dlouhodobým odhadům Exekutorské komory ČR, které reflektují nízkou vymahatelnost pohledávek na výživném. Nízká úspěšnost je způsobena zejména tím, že dlužníci často nemají legální příjem ani majetek, který by bylo možné postihnout."
+    },
+    {
+      "text": "Mediace není o hledání kompromisu na částce, ale o deeskalaci konfliktu, aby rodiče vůbec byli schopni spolu komunikovat.",
+      "type": "paraphrase",
+      "speaker": "Lucie Pacnerová",
+      "affiliation": "Mediační centrum Brno",
+      "timestamp": "16/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3011_highlight_02.jpg",
+      "context": "Tvrzení odpovídá definici rodinné mediace dle zákona č. 202/2012 Sb., o mediaci. Cílem mediace v opatrovnických sporech je primárně zlepšení komunikace mezi rodiči a nalezení dohody v zájmu dítěte, nikoliv pouze finanční vyrovnání."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Petra Rutarová navrhla zvážit zákaz návštěvy restauračních zařízení po 18. hodině a zákaz hazardních her pro dlužníky jako alternativní trest.",
+      "speaker": "Petra Rutarová",
+      "affiliation": "Okresní soud v Třebíči",
+      "timestamp": "10/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3011_controversy_00.jpg",
+      "context": "Návrh na zavedení alternativních trestů (např. omezení vstupu do heren) pro dlužníky výživného je předmětem odborné diskuse o efektivitě trestního práva. V současné době však český právní řád takové plošné zákazy jako přímý trest za neplacení výživného neobsahuje."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
