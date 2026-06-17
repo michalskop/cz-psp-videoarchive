@@ -1,0 +1,154 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-17T14:45:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3013",
+    "name": "Hyperaktivní močový měchýř zásadně ovlivňuje zdraví a sociální život",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-17T09:40",
+    "end_date": "2026-06-17T11:27",
+    "sources": [
+      "final/event_3013_2026-06-17_hyperaktivni-mocovy-mechyr-zasadne-ovlivnuje-zdrav.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617094003.mp4",
+        "from_sec": 7
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617095003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617100003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617101003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617102003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617103003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617104003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617105003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617110003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617111003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/17/_20260617112003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 11,
+    "parts_total": 11,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na problematiku hyperaktivního močového měchýře (OAB), která je vnímána jako závažný zdravotní i sociální problém. Cílem semináře bylo zvýšit povědomí o této diagnóze, která zásadně ovlivňuje kvalitu života pacientů, a diskutovat o možnostech včasné diagnostiky, moderních léčebných metodách a ekonomických aspektech péče.\n\nSeminář zdůraznil potřebu destigmatizace tohoto tématu, neboť pacienti často vyhledávají pomoc až po dlouhé době. Odborníci představili spektrum léčby od behaviorálních změn přes farmakoterapii až po moderní neuromodulační metody, přičemž apelovali na nutnost komplexního přístupu k pacientovi.",
+    "main_points": [
+      "**Josef Fleck (poslanec, Výbor pro zdravotnictví)** — iniciátor setkání; zdůraznil osobní zkušenost s problematikou v rodině a potřebu zlepšit informovanost veřejnosti i politiků. `[1/00:07]`",
+      "**MUDr. Lukáš Horčička, PhD. (předseda INCOforum, uroginekolog)** — představil činnost spolku INCOforum, který se zaměřuje na edukaci laické veřejnosti. Uvedl, že inkontinence postihuje 15–30 % populace. Zdůraznil, že jde o drahý problém, kde náklady na absorpční pomůcky přesahují 2 mld. Kč ročně. `[1/02:00]`",
+      "**Prof. MUDr. Martin Huser, PhD. (uroginekolog)** — definoval hyperaktivní močový měchýř jako syndrom urgence bez nutnosti úniku moči. Upozornil, že jde o civilizační chorobu ovlivněnou stresem, obezitou a životním stylem. `[4/02:06]`",
+      "**Prof. MUDr. Jan Krhut, PhD. (urolog)** — popsal léčebné možnosti: behaviorální terapii, farmakoterapii, aplikaci botulotoxinu a neuromodulaci. Varoval před riziky dlouhodobé farmakoterapie a představil moderní neinvazivní metody periferní neuromodulace. `[6/08:00]`"
+    ],
+    "outcome": "Jednání nebylo zakončeno formálním hlasováním, ale konsenzem o nutnosti:\n* Pokračovat v osvětových kampaních a destigmatizaci tématu.\n* Vzdělávat lékaře primární péče v aktivním vyhledávání pacientů.\n* Podporovat rozvoj center specializované péče, zejména v oblasti neuromodulace.\n* Pokračovat v odborném dialogu na půdě Poslanecké sněmovny.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné repetitivní fráze způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Josef Fleck",
+        "person_id": "psp:person:6750",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Lukáš Horčička",
+        "person_id": null,
+        "affiliation": "INCOforum"
+      },
+      {
+        "name": "Martin Huser",
+        "person_id": null,
+        "affiliation": "Uroginekologická společnost"
+      },
+      {
+        "name": "Jan Krhut",
+        "person_id": "psp:person:5820",
+        "affiliation": "Urologická společnost"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "INCOforum",
+      "Uroginekologická společnost ČR",
+      "Urologická společnost ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Hyperaktivní močový měchýř není nemoc, která vás zabije, ale pomalu ukrajuje z těch nejlepších částí vašeho života.",
+      "type": "paraphrase",
+      "speaker": "Martin Huser",
+      "affiliation": "Uroginekologická společnost",
+      "timestamp": "6/00:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3013_highlight_00.jpg",
+      "context": "Jde o subjektivní hodnocení kvality života, nikoliv o medicínskou definici úmrtnosti. Z klinického hlediska hyperaktivní močový měchýř (OAB) skutečně není přímo smrtelným onemocněním, ale je uznáván jako stav významně snižující psychosociální pohodu pacienta."
+    },
+    {
+      "text": "Inkontinence moči je opravdu drahá a nenazval bych to zábava; náklady na absorpční pomůcky jsou v úhradách přes 2 miliardy korun ročně.",
+      "type": "citation",
+      "speaker": "Lukáš Horčička",
+      "affiliation": "INCOforum",
+      "timestamp": "1/06:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3013_highlight_01.jpg",
+      "context": "Údaj o nákladech na absorpční pomůcky odpovídá datům VZP a ostatních zdravotních pojišťoven, které na tyto prostředky vynakládají částky v řádech miliard korun ročně (dle výročních zpráv o hospodaření zdravotních pojišťoven)."
+    },
+    {
+      "text": "U žen je prevalence hyperaktivního močového měchýře kolem 15 % v populaci, což v České republice znamená přes milion občanů, kteří s touto věcí musí žít.",
+      "type": "citation",
+      "speaker": "Martin Huser",
+      "affiliation": "Uroginekologická společnost",
+      "timestamp": "4/04:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3013_highlight_02.jpg",
+      "context": "Prevalence OAB se v odborné literatuře skutečně pohybuje kolem 15–17 %. Nicméně tvrzení, že 15 % populace ČR odpovídá „přes milion občanů“, je matematicky nepřesné; při populaci cca 10,9 milionu obyvatel by 15 % činilo zhruba 1,6 milionu lidí, avšak prevalence se liší dle věkových skupin a pohlaví."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Riziko demence u farmakoterapie**\n* **Kdo:** Prof. MUDr. Jan Krhut, PhD.\n* **Co:** Upozornil na studie asociující dlouhodobé užívání anticholinergik s negativním kognitivním ovlivněním a zvýšeným rizikem demence.\n* **Proč:** Jde o citlivé téma, protože tyto léky jsou standardní léčbou, a zpochybnění jejich bezpečnosti může vyvolat obavy u široké skupiny seniorů.\n* **Čas:** 7/08:07",
+      "speaker": "Jan Krhut",
+      "affiliation": "Urologická společnost",
+      "timestamp": "7/08:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3013_controversy_00.jpg",
+      "context": "Existují observační studie (např. publikované v JAMA Internal Medicine), které naznačují korelaci mezi dlouhodobým užíváním anticholinergik a zvýšeným rizikem kognitivního poklesu či demence. V medicínské obci jde o uznávané téma, které vede k přehodnocování preskripčních zvyklostí u geriatrických pacientů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
