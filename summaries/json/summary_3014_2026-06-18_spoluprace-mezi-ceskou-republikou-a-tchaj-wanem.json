@@ -1,0 +1,199 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-19T01:29:04",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3014",
+    "name": "Spolupráce mezi Českou republikou a Tchaj-wanem",
+    "classification": "Konference",
+    "start_date": "2026-06-18T11:06",
+    "end_date": "2026-06-18T14:22",
+    "sources": [
+      "final/event_3014_2026-06-18_spoluprace-mezi-ceskou-republikou-a-tchaj-wanem.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618110003.mp4",
+        "from_sec": 387
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618111003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618112003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618113003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618114003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618115003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618120003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618121003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618122003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618123003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618124003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618125003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618130003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618131003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618132003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618133003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618134003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618135003.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618140003.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618141003.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/18/_20260618142003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 21,
+    "parts_total": 21,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Konference pořádaná poslankyní Helenou Langšádlovou ve spolupráci s projektem Synopsis se zaměřila na zhodnocení dosavadních výsledků a budoucí perspektivy bilaterálních vztahů mezi Českou republikou a Tchaj-wanem. Cílem bylo zdůraznit význam Tchaj-wanu jako strategického partnera, který s ČR sdílí demokratické hodnoty, vládu práva a respekt k lidským právům.\n\nJednání reagovalo na současný politický diskurz, v němž je spolupráce s Tchaj-wanem někdy neprávem stavěna do opozice vůči pragmatické ekonomické diplomacii. Účastníci konference se shodli, že hodnotová a pragmatická rovina spolupráce nejsou v konfliktu, ale naopak se vzájemně posilují.",
+    "main_points": [
+      "**Helena Langšádlová (Poslankyně, TOP 09)** — Zdůraznila, že Tchaj-wan je strategickým partnerem s vysokou přidanou hodnotou. `[1/08:00]`",
+      "**Velvyslanec Čchen (Tchaj-wan)** — Vyzdvihl progres ve vztazích a investice do polovodičového průmyslu. `[2/02:01]`",
+      "**Martin Hála (Projekt Synopsis)** — Kritizoval „pragmatickou politiku“ minulé éry a varoval před opakováním chyb spojených s CEFC. `[3/00:00]`",
+      "**Olga Lomová (Univerzita Karlova)** — Popsala akademickou spolupráci a varovala před čínskou manipulací diskurzu. `[4/00:00]`",
+      "**Markéta Pekarová Adamová (Bývalá předsedkyně PS PČR)** — Prezentovala ekonomická data: 21,6 mld. Kč investic a 25 000 pracovních míst. `[5/06:00]`",
+      "**Pavel Fischer (Senátor)** — Varoval před závislostí na Číně a navrhl zavedení plošných cel. `[13/04:06]`",
+      "**Zdeněk Hřib (Poslanec)** — Hovořil o městské diplomacii a výměně partnerství s Pekingem za partnerství s Tchaj-pejí. `[14/08:00]`",
+      "**Miloš Vystrčil (Předseda Senátu)** — Zdůraznil nutnost dotáhnout obchodní příležitosti do realizace za účasti výkonné moci. `[18/04:00]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus, že spolupráce s Tchaj-wanem je pro ČR vysoce přínosná. Dominujícím postojem je nutnost diverzifikace dodavatelských řetězců a snížení závislosti na Číně. Závěrem zazněla výzva k aktivnější roli vlády při naplňování obchodních a investičních příležitostí.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se halucinace modelu. Obsah byl rekonstruován na základě srozumitelných částí textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Helena Langšádlová",
+        "person_id": "psp:person:5943",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Miloš Vystrčil",
+        "person_id": "psp:person:4775",
+        "affiliation": "Senát PČR"
+      },
+      {
+        "name": "Pavel Fischer",
+        "person_id": "psp:person:6599",
+        "affiliation": "Senát PČR"
+      },
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Markéta Pekarová Adamová",
+        "person_id": "psp:person:6147",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ODS",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát PČR",
+      "Projekt Synopsis",
+      "Univerzita Karlova",
+      "Orientální ústav AV ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tchaj-wan je živým důkazem, že i malý hráč může obstát vedle agresivního giganta, pokud vsadí na správnou strategii.",
+      "type": "paraphrase",
+      "speaker": "Pavel Fischer",
+      "affiliation": "Senát PČR",
+      "timestamp": "14/02:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3014_highlight_00.jpg",
+      "context": "Tvrzení je hodnotícím politickým soudem. Ekonomická a bezpečnostní odolnost Tchaj-wanu je uznávaným faktem, nicméně interpretace „správné strategie“ je předmětem politické debaty, nikoliv exaktně měřitelný údaj."
+    },
+    {
+      "text": "Není rozpor mezi ekonomickým zájmem České republiky a hodnotovou politikou; v případě Tchaj-wanu se tyto dvě cesty spojují.",
+      "type": "paraphrase",
+      "speaker": "Helena Langšádlová",
+      "affiliation": "TOP 09",
+      "timestamp": "20/08:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3014_highlight_01.jpg",
+      "context": "Jde o politický názor na zahraniční politiku. Z pohledu dat je Tchaj-wan významným investorem v ČR (např. Foxconn, Wistron), což potvrzují statistiky agentury CzechInvest, avšak soulad hodnotové a ekonomické politiky je dlouhodobě předmětem diskusí mezi vládní koalicí a opozicí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Pavel Fischer (Senátor) navrhl zavedení plošných cel ve výši 30 % na veškeré čínské zboží jako preventivní opatření proti narušování trhu.",
+      "speaker": "Pavel Fischer",
+      "affiliation": "Senát PČR",
+      "timestamp": "14/06:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3014_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. V oficiálních záznamech Senátu PČR ani v legislativních návrzích Pavla Fischera nebyl dohledán konkrétní návrh na zavedení plošných 30% cel na čínské zboží; obchodní politika EU je navíc v kompetenci Evropské komise, nikoliv jednotlivých senátorů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

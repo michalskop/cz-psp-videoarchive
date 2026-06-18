@@ -1,0 +1,212 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-19T01:29:36",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3015",
+    "name": "AI na obou stranách kyberútoků",
+    "classification": "Konference",
+    "start_date": "2026-06-18T10:00",
+    "end_date": "2026-06-18T12:57",
+    "sources": [
+      "final/event_3015_2026-06-18_ai-na-obou-stranach-kyberutoku.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618100003.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618101003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618102003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618103003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618104003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618105003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618110003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618111003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618112003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618113003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618114003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618115003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618120003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618121003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618122003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618123003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618124004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/18/_20260618125003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 18,
+    "parts_total": 18,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Konference se zaměřila na dvojsečnou povahu umělé inteligence (AI) v kybernetickém prostoru. Cílem bylo konkretizovat debatu o hrozbách, které AI představuje pro firmy, veřejné instituce i jednotlivce, a zároveň analyzovat její roli jako nástroje pro obranu a eliminaci kybernetických útoků.\n\nJednání si kladlo za cíl posunout diskuzi od mediálních klišé k reálným bezpečnostním výzvám, jako je automatizace útoků, zneužití AI pro sociální inženýrství a nutnost budování kybernetické civilní obrany.",
+    "main_points": [
+      "**Robert Králíček (Poslanec)** — Zdůraznil potřebu změny přístupu politiků a veřejnosti k AI. [1/02:03]",
+      "**Asaf Cohen (Mer, Izrael)** — Popsal kybernetický prostor jako „pátou doménu“ válčení. [1/08:21]",
+      "**Daniel Metník (Národní centrum kybernetických operací)** — Varoval před přechodem k plně autonomním ofenzivním operacím. [3/06:19]",
+      "**Moran Dain (Izrael)** — Prezentoval data o kybernetických útocích a zneužití AI pro phishing. [5/02:00]",
+      "**Miloslav Vojka (Expert)** — Představil scénář autonomního modelu „Mythos“, který dokáže napadnout kritickou infrastrukturu. [8/08:04]",
+      "**Aleš Špidla (Expert)** — Varoval před „kybernetickou civilní obranou“ a automatizovaným bojem systémů. [10/04:04]",
+      "**Pan Balatka (Semantic Vision)** — Představil koncept „kognitivní války“ mířící na lidskou mysl. [11/06:05]",
+      "**Tomáš Stegura (ČBA)** — Popsal nárůst finančních podvodů a zneužití AI k tvorbě deepfake videí. [13/03:00]",
+      "**Lukáš Kačena (Vládní zmocněnec pro AI)** — Přiznal zaostávání Evropy v infrastruktuře a zdůraznil nutnost budování národní expertízy. [14/06:00]"
+    ],
+    "outcome": "Konference vytvořila konsenzus v nutnosti digitální hygieny, budování kybernetické civilní obrany, posílení národní strategické autonomie v oblasti AI a důrazu na vzdělávání populace v kybernetické gramotnosti.",
+    "notes": "Přepis obsahuje četné technické chyby. Části 7 a 8 obsahují halucinace modelu, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Robert Králíček",
+        "person_id": "psp:person:6509",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Asaf Cohen",
+        "person_id": null,
+        "affiliation": "Mer"
+      },
+      {
+        "name": "Daniel Metník",
+        "person_id": null,
+        "affiliation": "Národní centrum kybernetických operací"
+      },
+      {
+        "name": "Moran Dain",
+        "person_id": null,
+        "affiliation": "Izrael"
+      },
+      {
+        "name": "Miloslav Vojka",
+        "person_id": "psp:person:4494",
+        "affiliation": null
+      },
+      {
+        "name": "Aleš Špidla",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Pan Balatka",
+        "person_id": null,
+        "affiliation": "Semantic Vision"
+      },
+      {
+        "name": "Tomáš Stegura",
+        "person_id": null,
+        "affiliation": "Česká bankovní asociace"
+      },
+      {
+        "name": "Lukáš Kačena",
+        "person_id": null,
+        "affiliation": "Vláda ČR"
+      }
+    ],
+    "parties": [
+      "Poslanecká sněmovna"
+    ],
+    "institutions": [
+      "NATO",
+      "Česká bankovní asociace",
+      "Národní centrum kybernetických operací"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "AI je dobrý pomocník, ale zlý pán; tak, jak se to dříve říkalo s ohněm, tak teď jenom zaměníme umělou inteligenci.",
+      "type": "citation",
+      "speaker": "Robert Králíček",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/03:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3015_highlight_00.jpg",
+      "context": "Jde o metaforické vyjádření, nikoliv o faktické tvrzení. Přirovnání k ohni je běžnou rétorickou figurou používanou v diskurzu o technologickém pokroku a rizicích spojených s nekontrolovaným vývojem AI."
+    },
+    {
+      "text": "Dnes už se dostáváme do fáze, kdy budeme pasivně sledovat to, jak mezi sebou bojují systémy s umělou inteligencí.",
+      "type": "citation",
+      "speaker": "Aleš Špidla",
+      "affiliation": null,
+      "timestamp": "10/08:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3015_highlight_01.jpg",
+      "context": "Tvrzení reflektuje trend automatizace kybernetických útoků a obrany (tzv. AI-driven cyber warfare). Nelze nezávisle ověřit jako budoucí fakt, jde o expertní predikci vývoje v oblasti kybernetické bezpečnosti."
+    },
+    {
+      "text": "Kognitivní válka nemíří na majetek, ale na lidskou mysl, na to, jak lidé vnímají realitu a jak se rozhodují.",
+      "type": "citation",
+      "speaker": "Pan Balatka",
+      "affiliation": "Semantic Vision",
+      "timestamp": "11/06:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3015_highlight_02.jpg",
+      "context": "Termín „kognitivní válka“ je uznávaným konceptem v rámci studií hybridních hrozeb (např. v dokumentech NATO). Zaměření na ovlivňování vnímání reality a rozhodovacích procesů odpovídá definicím informačních operací a psychologických aspektů moderních konfliktů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Aleš Špidla navrhl vytvoření „koalice kybernetické civilní obrany“ a přirovnání kybernetické bezpečnosti k budování protiatomových krytů. Kontroverzní je to z hlediska nároků na státní rozpočet a míry zapojení civilního obyvatelstva do „obranných“ struktur.",
+      "speaker": "Aleš Špidla",
+      "affiliation": null,
+      "timestamp": "13/01:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3015_controversy_00.jpg",
+      "context": "Návrh na vytvoření civilních struktur kybernetické obrany je předmětem odborné debaty o národní bezpečnosti. Nároky na státní rozpočet a míra zapojení civilistů nejsou v současné legislativě (např. zákon o kybernetické bezpečnosti č. 181/2014 Sb.) definovány, jde tedy o politický návrh, nikoliv o existující právní závazek."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
