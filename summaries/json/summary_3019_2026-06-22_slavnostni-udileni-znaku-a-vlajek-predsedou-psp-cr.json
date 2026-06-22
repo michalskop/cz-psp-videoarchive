@@ -1,0 +1,105 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-22T19:27:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3019",
+    "name": "Slavnostní udílení znaků a vlajek předsedou PSP ČR",
+    "classification": "Ostatní",
+    "start_date": "2026-06-22T14:00",
+    "end_date": "2026-06-22T14:35",
+    "sources": [
+      "final/event_3019_2026-06-22_slavnostni-udileni-znaku-a-vlajek-predsedou-psp-cr.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/22/_20260622140003.mp4",
+        "from_sec": 42
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/22/_20260622141003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/22/_20260622142003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/06/22/_20260622143003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 4,
+    "parts_total": 4,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání bylo slavnostním ceremoniálem v Poslanecké sněmovně Parlamentu ČR, jehož cílem bylo předání dekretů o právu užívat komunální symboly (znak a vlajku) zástupcům 25 obcí. Součástí aktu bylo také povýšení obce Čistá na městečko (městys).\n\nCeremoniál zdůraznil význam heraldiky a vexilologie jako historických věd, které pomáhají obcím definovat jejich identitu a navázat na historické tradice, ať už skrze šlechtické rody, místní pověsti, zemědělskou činnost či církevní odkazy.",
+    "main_points": [
+      "**Neidentifikovaný řečník (moderátor/úředník PSP)** — Uvedl ceremoniál, představil přítomné poslance a členy podvýboru pro heraldiku a vexilologii. `[1/00:42]`",
+      "**Tomio Okamura (předseda PSP ČR)** — Přivítal zástupce obcí, ocenil jejich snahu při hledání symbolů a zdůraznil význam heraldiky pro reprezentaci obcí navenek. Uvedl právní rámec udělování symbolů. `[1/02:06]`",
+      "**Jednotlivé obce** — Během ceremoniálu byly představeny symboly 25 obcí (např. Bedřichov, Carhonice, Dalovice, Horní Radouň, Chlumčany, Korno, Kostelec u Křížků, Pojbuky, Radostín, Řenče, Štěchovice, Ústrašice, Vlčí, Životice) s detailním heraldickým popisem figur."
+    ],
+    "outcome": "Ceremoniál proběhl úspěšně, všech 25 obcí obdrželo dekrety o právu užívat nové komunální symboly. Obec Čistá byla oficiálně povýšena na městys.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a useknutá slova. Části 4/4 obsahují nesrozumitelné halucinace (opakující se fráze o konferenci a návštěvních návrzích), které nesouvisí s obsahem jednání."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "PSP ČR"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "PSP ČR"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Dnes v naší zemi přibude 25 obcí, které se jimi budou pyšnit.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "PSP ČR",
+      "timestamp": "1/05:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3019_highlight_00.jpg",
+      "context": "Počet obcí, kterým je v daný den udělen znak nebo vlajka, podléhá rozhodnutí předsedy Poslanecké sněmovny na základě doporučení Podvýboru pro heraldiku a vexilologii. Údaj o 25 obcích odpovídá běžnému počtu udělovaných symbolů při slavnostních aktech v Poslanecké sněmovně."
+    },
+    {
+      "text": "Přeji vám, aby byl znak srozumitelný a čitelný nejen vašim domácím občanům, ale aby také co nejvýstižněji reprezentoval vaše obce navenek.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "PSP ČR",
+      "timestamp": "1/03:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3019_highlight_01.jpg",
+      "context": "Tvrzení je hodnotícím výrokem (přáním) a nevyžaduje faktickou verifikaci. Heraldická pravidla pro tvorbu obecních symbolů skutečně kladou důraz na srozumitelnost a reprezentativní funkci znaku."
+    },
+    {
+      "text": "Není náhodou, že se tak děje přesně 500 let poté, co český král Ludvík Jagellonský potvrdil výsadu vaší obci.",
+      "type": "citation",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "3/09:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3019_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit bez znalosti konkrétní obce, o které řečník hovoří. Historické listiny o udělení výsad českými králi (včetně Ludvíka Jagellonského, vládnoucího v letech 1516–1526) jsou evidovány v Národním archivu, ověření vyžaduje identifikaci konkrétního sídla."
+    }
+  ],
+  "controversial": [],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
