@@ -1,0 +1,122 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:36:26",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3022",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-23T11:19",
+    "end_date": "2026-06-23T11:37",
+    "sources": [
+      "final/event_3022_2026-06-23_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5432_video-psp-2026623-1119-40-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala před zahájením jednání Poslanecké sněmovny. Cílem bylo představit priority strany v nadcházejícím legislativním procesu, kritizovat kroky současné vlády a informovat o výsledcích víkendové programové konference TOP 09.\n\nŘečníci se zaměřili na témata volebního práva od 16 let, kritiku vládní rozpočtové politiky, spor o zastupování ČR na summitu NATO a obhajobu nezávislosti veřejnoprávních médií. Strana se profiluje jako opoziční síla nabízející kompetentní a zodpovědná řešení v kontrastu s populismem vládní koalice.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** — Navrhuje volební právo od 16 let v komunálních volbách. Podporuje kompetenční žalobu na vládu kvůli neúčasti prezidenta na summitu NATO. Odmítá zpochybňování soudů a slibuje obranu nezávislosti médií. `[1/00:00]`",
+      "**Zdeňka Blišťanová (TOP 09)** — Kritizuje vládu za neochotu valorizovat rodičovský příspěvek, zatímco miliardy vyčleňuje na ovládnutí médií a zkracování lhůt pro vymáhání dotací (amnestie pro Agrofert). `[1/06:02]`",
+      "**Martin Leška (TOP 09)** — Kritizuje ministra dopravy za „socialistické“ regulace (zastropování cen elektřiny) a škrty v dopravní infrastruktuře, které ohrožují provoz nových vlaků v hodnotě 142 mld. Kč. `[1/08:01]`",
+      "**Jan Jakob (TOP 09)** — Upozorňuje na vládní snahu o čistky na ministerstvech skrze zákon o státní službě. `[1/12:03]`"
+    ],
+    "outcome": "TOP 09 potvrdila strategii blokovat vládní návrhy ohrožující nezávislost médií či rozpočtovou odpovědnost. Strana plánuje vyjednávat o podpoře svého návrhu na volební právo od 16 let napříč politickým spektrem.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Zdeňka Blišťanová",
+        "person_id": "psp:person:6992",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Martin Leška",
+        "person_id": "psp:person:4074",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "STAN",
+      "Piráti",
+      "ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Česká televize",
+      "Český rozhlas",
+      "Agrofert",
+      "Správa železnic"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika tratí na tom, že nemá euro, je to asi 10 400 Kč ročně na jednu domácnost, které tratíme.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/03:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3022_highlight_00.jpg",
+      "context": "Číslo vychází z analýzy Národní ekonomické rady vlády (NERV) z roku 2023, která odhaduje přínos přijetí eura pro české domácnosti v řádu jednotek tisíc korun ročně skrze nižší transakční náklady a kurzovou stabilitu. Jde o teoretický odhad, nikoliv o přímou ztrátu z rozpočtu, a metodika výpočtu je mezi ekonomy předmětem odborné debaty."
+    },
+    {
+      "text": "Zajistit spravedlivou podporu pro rodiny s dětmi jsou prý moc drahé, ale vyhodit miliardy za politické přidušení médií a za amnestii pro dotační podvody, to vládě zjevně nevadí.",
+      "type": "citation",
+      "speaker": "Zdeňka Blišťanová",
+      "affiliation": "TOP 09",
+      "timestamp": "1/08:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3022_highlight_01.jpg",
+      "context": "Tvrzení o „politickém přidušení médií“ je politickou interpretací vládních kroků (např. změny v zákoně o ČT/ČRo). Označení novely o promlčecí lhůtě dotací za „amnestii“ je politická rétorika; právně jde o zkrácení lhůty pro vymáhání, což kritici vnímají jako oslabení vymahatelnosti práva, zatímco zastánci jako sjednocení s obecnou promlčecí lhůtou."
+    },
+    {
+      "text": "Vlaky za 142 miliard korun pro Prahu a střední Čechy budou stát v depech, protože nebude po čem jezdit.",
+      "type": "citation",
+      "speaker": "Martin Leška",
+      "affiliation": "TOP 09",
+      "timestamp": "1/11:37",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3022_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Plánované investice do železniční infrastruktury (např. modernizace tratí SŽ) jsou v běhu, ale jejich včasné dokončení v souladu s dodáním nových souprav je dlouhodobě kritizováno jako rizikové z hlediska kapacity a koordinace projektů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zdeňka Blišťanová (TOP 09) obvinila vládu, že novelou zkracující lhůtu pro vymáhání neoprávněných dotací z 10 na 4 roky fakticky vytváří „amnestii pro dotační podvody“ (konkrétně zmínila Agrofert).",
+      "speaker": "Zdeňka Blišťanová",
+      "affiliation": "TOP 09",
+      "timestamp": "1/08:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3022_controversy_00.jpg",
+      "context": "Novela zákona o rozpočtových pravidlech skutečně zkracuje lhůtu pro vymáhání neoprávněně použitých dotací z 10 na 4 roky. Kritici (včetně opozice a některých právníků) argumentují, že to ztíží odhalování a trestání dotačních podvodů, zatímco vláda argumentuje nutností sjednotit lhůty s obecným občanským zákoníkem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

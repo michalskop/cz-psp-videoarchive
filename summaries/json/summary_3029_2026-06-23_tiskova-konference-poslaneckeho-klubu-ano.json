@@ -1,0 +1,125 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:37:41",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3029",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-23T13:42",
+    "end_date": "2026-06-23T14:01",
+    "sources": [
+      "final/event_3029_2026-06-23_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5439_video-psp-2026623-1342-4-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením schůze Poslanecké sněmovny za účelem představení prioritních bodů programu, které hnutí ANO hodlá v nejbližší době prosazovat. Řečníci se zaměřili na legislativní změny v oblasti trestního práva, ochrany spotřebitele, regulace reklamy a kontrolních mechanismů veřejnoprávních médií.\n\nKromě legislativní agendy se zástupci hnutí vyjádřili k aktuálnímu politickému dění, konkrétně k podání kompetenční žaloby prezidentem republiky a k plánovaným obstrukcím ze strany hnutí STAN.",
+    "main_points": [
+      "**Taťána Malá (ANO)** — Představila znovuzavedení trestného činu neplacení výživného, novelu jednacího řádu a regulaci reklamy na kojeneckou výživu. Vyjádřila se k návrhu „Lex střízlivost“, který osobně podpoří. `[1/01:00]`",
+      "**Alena Schillerová (ANO)** — Prezentovala novely zákona o spotřebitelském úvěru (strop úroků 48–50 %) a zákona o sjednávání finančních služeb (tlačítko pro odstoupení od smlouvy). `[1/04:02]`",
+      "**Patrik Nacher (ANO)** — Doplnil informace k úvěrové legislativě, kritizoval populismus hnutí STAN a podpořil rozšíření kontrol NKÚ nad veřejnoprávními médii. `[1/08:02]`",
+      "**Zuzana Ožanová (ANO)** — Zmínila zrušení zákona o státní službě a jeho nahrazení zákonem o státních zaměstnancích. `[1/12:03]`"
+    ],
+    "outcome": "Jednání se neslo v duchu přípravy na legislativní proces v Poslanecké sněmovně. Nebylo přijato žádné formální rozhodnutí, pouze deklarována podpora konkrétním vládním a poslaneckým návrhům. Hnutí ANO vyjádřilo připravenost k diskuzi o kontrolách veřejnoprávních médií a kritizovalo opozici za avizované obstrukce.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a chybějící diakritiku, které však nebránily pochopení obsahu. Záznam končí v momentě, kdy začíná schůze Poslanecké sněmovny."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Taťána Malá",
+        "person_id": "psp:person:6468",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Zuzana Ožanová",
+        "person_id": "psp:person:6474",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NKÚ",
+      "Česká televize",
+      "Český rozhlas",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Neživit své děti prostě není normální a my to do normálu jednoznačně vracíme.",
+      "type": "paraphrase",
+      "speaker": "Taťána Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/00:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3029_highlight_00.jpg",
+      "context": "Výrok je hodnotícím soudem a politickou rétorikou, nikoliv ověřitelným faktem. Povinnost vyživovat děti je zákonem stanovená (zákon č. 89/2012 Sb., občanský zákoník), přičemž neplnění této povinnosti je trestným činem podle § 196 trestního zákoníku."
+    },
+    {
+      "text": "Zavedení jasných pravidel proti nepřiměřeně vysokým cenám spotřebitelských úvěrů pomocí zákonného stropu odpovídajícího trojnásobku běžné zápůjční sazby, což dnes představuje zhruba 48–50 %.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/05:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3029_highlight_01.jpg",
+      "context": "Zákon č. 257/2016 Sb., o spotřebitelském úvěru, skutečně stanovuje limity pro RPSN a sankce. Výpočet stropu jako trojnásobku průměrné úrokové sazby je v souladu s mechanismy regulace trhu, které mají bránit lichvě."
+    },
+    {
+      "text": "My podporujeme rozšíření možnosti kontroly ze strany NKÚ, která by kontrolovala Českou televizi a Český rozhlas.",
+      "type": "paraphrase",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/10:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3029_highlight_02.jpg",
+      "context": "NKÚ v současnosti nemá pravomoc kontrolovat hospodaření ČT a ČRo, neboť tyto instituce nejsou organizačními složkami státu ani právnickými osobami hospodařícími se státním majetkem. Rozšíření pravomocí NKÚ by vyžadovalo změnu ústavního zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Taťána Malá (ANO)\n**Co:** Označila rozhodnutí prezidenta podat kompetenční žalobu kvůli účasti na summitu NATO za „velmi nešťastné“ a varovala před rizikem pro parlamentní systém.\n**Proč:** Jde o přímý střet mezi ústavními činiteli o interpretaci pravomocí v zahraniční politice.\n**Čas:** `1/14:04`",
+      "speaker": "Taťána Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/14:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3029_controversy_00.jpg",
+      "context": "Prezident republiky nemá v Ústavě ČR výslovně zakotvenou pravomoc podávat kompetenční žalobu k Ústavnímu soudu (dle čl. 87 odst. 1 písm. k Ústavy ČR). Interpretace zahraniční politiky jako sdílené pravomoci mezi vládou a prezidentem je dlouhodobým předmětem ústavněprávních debat."
+    },
+    {
+      "statement": "**Kdo:** Patrik Nacher (ANO)\n**Co:** Označil návrh hnutí STAN na zákaz alkoholu poslanců za „vrchol populismu“, který je legislativně nevymahatelný a mohl by sloužit jako „kladivo“ na politické oponenty.\n**Proč:** Politicky citlivé téma zpochybňující integritu poslanců a jejich chování při výkonu mandátu.\n**Čas:** `1/10:01`",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/10:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3029_controversy_01.jpg",
+      "context": "Návrh na zákaz alkoholu v prostorách Sněmovny je politickým tématem. Legislativní vymahatelnost takového zákazu by závisela na konkrétní formulaci novely zákona o jednacím řádu Poslanecké sněmovny, přičemž kontrola dodržování by byla v praxi obtížně realizovatelná."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

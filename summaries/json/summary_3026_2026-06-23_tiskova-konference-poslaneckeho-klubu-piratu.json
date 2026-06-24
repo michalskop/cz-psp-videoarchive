@@ -1,0 +1,120 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:35:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3026",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-23T12:41",
+    "end_date": "2026-06-23T13:00",
+    "sources": [
+      "final/event_3026_2026-06-23_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5436_video-psp-2026623-1241-51-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tato tisková konference poslaneckého klubu Pirátů se zaměřila na kritiku vládní politiky Andreje Babiše, konkrétně na oblast médií veřejné služby, státní správy, legislativy v oblasti digitálního vykořisťování a kauzu kontaminované kojenecké výživy. Cílem bylo prezentovat opoziční postoj k aktuálním vládním krokům a představit konkrétní legislativní či právní kroky, které Piráti podnikají.",
+    "main_points": [
+      "**Ivan Bartoš (Piráti)** — Vyjádřil podporu stávkujícím zaměstnancům České televize a Českého rozhlasu. Kritizoval vládu za netransparentní přípravu změn financování médií veřejné služby bez odborné debaty. Piráti se obrátili na Evropskou a Benátskou komisi a založili expertní skupinu, kterou vláda ignoruje. Podpořil prezidenta Petra Pavla v kompetenčním sporu s vládou ohledně účasti na summitu NATO a označil vládní postup za mstivý a nedůstojný. `[1/00:45]`",
+      "**Olga Richterová (Piráti)** — Kritizovala vládní snahy o oslabení služebního zákona a zrušení nominačního zákona, což dle ní vede k politizaci státní správy a dosazování loajálních osob na odborné posty. Uvedla konkrétní příklady na Ministerstvu životního prostředí, kde jsou experti nahrazováni lidmi spojenými s hnutím Motoristé. `[1/06:07]`",
+      "**Kateřina Stojanová (Piráti)** — Oznámila sběr podpisů pro ústavní stížnost proti zákonu o státních zaměstnancích. Dále představila návrh na úpravu trestního zákoníku v oblasti „digitálního pasáctví“ (vykořisťování na online platformách), který má lépe postihovat manipulaci a ekonomickou závislost obětí. `[1/08:05]`",
+      "**Eva Šrámková (Piráti)** — Upozornila na kauzu kontaminované kojenecké výživy (toxin cereulit), o které stát věděl od prosince 2025, ale rodiče informoval se zpožděním. Kritizovala systémové selhání a neochotu vlády řešit ochranu dětí dříve než v roce 2028. `[1/12:02]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. Dominujícím postojem Pirátů je odmítnutí vládních kroků v oblasti médií, státní správy a justice. Piráti deklarovali aktivní odpor formou ústavních stížností, podnětů k mezinárodním institucím a přípravou vlastních legislativních návrhů.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Eva Šrámková",
+        "person_id": "psp:person:7046",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Česká televize",
+      "Český rozhlas",
+      "Evropská komise",
+      "Benátská komise",
+      "Ústavní soud",
+      "Ministerstvo životního prostředí",
+      "Ministerstvo zdravotnictví"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Stát totiž není firma Andreje Babiše. Není to ani fanklub Motoristů. Ne, stát je společná služba všem občanům a občankám České republiky.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3026_highlight_00.jpg",
+      "context": "Jde o politickou rétoriku a hodnotové vyjádření, nikoliv o faktické tvrzení. Definice státu jako služby občanům je v souladu s demokratickým pojetím správy věcí veřejných v ČR, zatímco přirovnání k firmě či fanklubu je subjektivním politickým komentářem."
+    },
+    {
+      "text": "Do českých domácností se dostalo téměř 650 tisíc balení kontaminované kojenecké výživy a stát o riziku věděl už od poloviny prosince 2025.",
+      "type": "paraphrase",
+      "speaker": "Eva Šrámková",
+      "affiliation": "Piráti",
+      "timestamp": "1/12:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3026_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. K datu 1. 1. 2026 neexistují veřejně dostupné zprávy Státní zemědělské a potravinářské inspekce (SZPI) ani Ministerstva zemědělství, které by potvrzovaly distribuci 650 tisíc balení kontaminované výživy a vědomou nečinnost státu od prosince 2025."
+    },
+    {
+      "text": "Kdo profituje z nátlaku, závislosti nebo kontroly nad životem nikoho jiného, tak není manažer ani žádný byznysman, je to prostě obyčejný pasák.",
+      "type": "citation",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3026_highlight_02.jpg",
+      "context": "Jedná se o hodnotící úsudek a metaforické vyjádření v rámci politické debaty. Výrok nemá faktografický základ, který by bylo možné ověřit pomocí statistických dat či právních norem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Ivan Bartoš (Piráti) označil premiéra Babiše a pana Macinku za „srabáky“ a jejich kroky vůči prezidentovi za mstivé. Jde o ostrý politický útok na předsedu vlády v kontextu ústavního sporu o zahraniční reprezentaci státu, což je vysoce citlivé téma.",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/14:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3026_controversy_00.jpg",
+      "context": "Označení za „srabáky“ je subjektivní politické hodnocení. Ústavní kompetence v zahraniční reprezentaci státu jsou v ČR rozděleny mezi vládu (v čele s premiérem) a prezidenta republiky, přičemž spory o jejich výklad jsou dlouhodobým tématem ústavněprávních diskuzí."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

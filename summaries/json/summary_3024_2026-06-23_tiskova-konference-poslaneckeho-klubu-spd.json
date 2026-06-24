@@ -1,0 +1,120 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:35:54",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3024",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-23T12:00",
+    "end_date": "2026-06-23T12:20",
+    "sources": [
+      "final/event_3024_2026-06-23_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5434_video-psp-2026623-120-3-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD byla zaměřena na prezentaci výsledků vládní koalice (s účastí SPD) v oblasti ekonomiky, konkrétně na pokles inflace a cen energií a potravin. Dalšími klíčovými tématy byly legislativní návrhy projednávané v Poslanecké sněmovně, zejména zpřísnění podmínek pro pobyt cizinců (včetně ukrajinských uprchlíků), zavedení kontroly hospodaření České televize a Českého rozhlasu Nejvyšším kontrolním úřadem (NKÚ) a zpřísnění trestů za týrání zvířat a neplacení výživného.\n\nCílem konference bylo zdůraznit aktivní kroky vlády, vymezit se vůči opozici a prezidentu republiky a prezentovat politiku SPD jako prorodinnou a zaměřenou na bezpečnost a suverenitu českých občanů.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prezentoval ekonomické úspěchy vlády: meziroční pokles cen elektřiny o 11,5 %, plynu o 5,5 % a potravin (mléko -17 %, máslo -23 %, brambory -20 %). Inflace v květnu klesla na 2,1 % (dle Eurostatu 1,8 %). Připsal to vládním krokům (regulace cen energií, cenový ombudsman). Oznámil zpřísnění pobytových podmínek pro cizince (registrace vozidel, technické kontroly, podmínka pobytu 16 dní z 30, zákaz drog v azylových zařízeních). Zdůraznil odmítavý postoj k přijetí eura a k omezování práva veta v EU. `[1/01:00]`",
+      "**Radek Koten (SPD)** — Zaměřil se na digitalizaci a zpřísnění agendy cizinců (Lex Ukrajina 8). Humanitární dávky budou nově podmíněny ekonomickou aktivitou (práce, podnikání, evidence na ÚP), s výjimkou zranitelných skupin. Zmínil propojení registrů MV, policie a cizinecké policie pro lepší kontrolu a vymahatelnost pokut za přestupky (např. u vozidel). `[1/06:30]`",
+      "**Libor Vondráček (SPD)** — Podpořil kontrolu ČT a ČRo ze strany NKÚ a vyzval opozici k podpoře tohoto návrhu. Navrhl změnu v trestním zákoníku: neplacení výživného má být trestným činem bez ohledu na to, zda se dítě dostalo do nouze, s důrazem na zájem dítěte. `[1/10:04]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nebylo předmětem hlasování. Dominujícím postojem řečníků je prosazování restriktivní politiky vůči cizincům, odmítání evropské integrace v oblasti měny a zahraniční politiky a snaha o zvýšení kontroly veřejnoprávních médií.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a občasné opakování slov způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radek Koten",
+        "person_id": "psp:person:6508",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Český statistický úřad",
+      "Eurostat",
+      "Nejvyšší kontrolní úřad",
+      "Česká televize",
+      "Český rozhlas",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika za naší vlády má dokonce druhou nejnižší inflaci z členských států Evropské unie.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/01:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3024_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. Podle dat Eurostatu se míra inflace v ČR v průběhu roku 2024 pohybovala v průměru EU, nikoliv na druhé nejnižší pozici; v minulosti (2022/2023) patřila ČR naopak k zemím s jednou z nejvyšších inflací v EU."
+    },
+    {
+      "text": "Vláda s účastí SPD nepřijme euro v České republice nikdy.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/13:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3024_highlight_01.jpg",
+      "context": "Jde o politický příslib, nikoliv o faktické tvrzení. Přijetí eura je vázáno na plnění maastrichtských kritérií a rozhodnutí vlády a parlamentu, přičemž žádná vláda nemůže právně zavázat budoucí kabinety k trvalému odmítnutí."
+    },
+    {
+      "text": "Získání humanitární dávky bude nově podmíněno ekonomickou aktivitou.",
+      "type": "paraphrase",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/07:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3024_highlight_02.jpg",
+      "context": "Tvrzení odpovídá vládnímu návrhu novely zákona o pomoci v hmotné nouzi, který počítá s provázáním humanitární dávky s ekonomickou aktivitou či jinými formami zapojení do společnosti. Návrh je součástí legislativního procesu v Poslanecké sněmovně."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Tomio Okamura (SPD)\n* **Co:** Návrh na automatické vyhošťování cizinců za jakýkoliv trestný čin nebo tři přestupky.\n* **Proč:** Je to kontroverzní z hlediska právního státu a proporcionality trestů, neboť by to vedlo k plošné kriminalizaci a deportacím bez ohledu na závažnost deliktu.\n* **Čas:** 1/15:02",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/15:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3024_controversy_00.jpg",
+      "context": "Návrh na automatické vyhoštění za jakýkoliv přestupek je v rozporu se zásadou proporcionality trestního práva a mezinárodními úmluvami o lidských právech, které ČR ratifikovala. Ústavní soud ČR opakovaně judikoval, že automatické sankce bez posouzení individuálních okolností jsou problematické."
+    },
+    {
+      "statement": "* **Kdo:** Tomio Okamura (SPD)\n* **Co:** Kritika prezidenta Petra Pavla a zpochybnění jeho práva zastupovat ČR na summitech NATO.\n* **Proč:** Jde o ústavně-politický spor o kompetence mezi vládou a prezidentem, který je vnímán jako projev hlubokého rozkolu mezi vládní koalicí a hlavou státu.\n* **Čas:** 1/18:01",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/18:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3024_controversy_01.jpg",
+      "context": "Podle Ústavy ČR (čl. 63) zastupuje prezident stát navenek, ale v praxi je zahraniční politika v gesci vlády. Spor o kompetence je politickou interpretací, neboť prezident se summitů NATO účastní v souladu s ústavní praxí a po dohodě s vládou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

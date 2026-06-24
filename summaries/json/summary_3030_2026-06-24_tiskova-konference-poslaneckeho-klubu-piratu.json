@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:36:49",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3030",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-24T09:20",
+    "end_date": "2026-06-24T09:39",
+    "sources": [
+      "final/event_3030_2026-06-24_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5441_video-psp-2026624-920-24-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním legislativním návrhům projednávaným v Poslanecké sněmovně. Hlavními tématy byla novela zákona o rozpočtové odpovědnosti, kritika vládní energetické politiky (zejména otázka zestátnění ČEZ) a nekompetence vlády v oblasti řešení bytové krize a státní správy.\n\nCílem vystoupení bylo upozornit na rizika vládních kroků, které podle Pirátů vedou k netransparentnímu zadlužování, rozprodeji státního majetku a oslabování odbornosti ve státní správě.",
+    "main_points": [
+      "**Vendula Svobodová (Piráti)** — Kritizovala vládní novelu zákona o rozpočtové odpovědnosti, která podle ní obsahuje účetní triky a výjimky umožňující skrývat provozní výdaje státu. Piráti podpoří senátní verzi zákona. `[1/00:45]`",
+      "**Tereza Nislerová (Piráti)** — Zaměřila se na energetickou politiku. Kritizovala vládní plán na zestátnění ČEZ za 300 miliard korun jako „porcování medvěda“, při kterém dojde k rozprodeji nejvýnosnějších částí podniku spřízněným osobám. `[1/02:02]`",
+      "**Ivan Bartoš (Piráti)** — Kritizoval neúspěšné sliby vlády ohledně hypoték, zastavení projektů obecního bydlení a vyhazování odborníků z ministerstev. Varoval před politizací státní správy skrze dekompozici služebního zákona. `[1/06:02]`"
+    ],
+    "outcome": "Piráti deklarovali, že budou v Poslanecké sněmovně aktivně vystupovat proti vládním návrhům, které považují za škodlivé. V případě novely zákona o rozpočtové odpovědnosti podpoří senátní verzi. Ohledně služebního zákona očekávají dlouhou debatu, přičemž jejich cílem není obstrukce, ale pojmenování rizik spojených s politizací státní správy.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Tereza Nislerová",
+        "person_id": null,
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO",
+      "Motoristé sobě"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "ČEZ",
+      "Česká národní banka"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Dluh totiž nezmizí jen proto, že ho schováte do jiné kolonky; nezmizí před investory, nezmizí před finančními trhy a nezmizí ani před budoucími generacemi.",
+      "type": "paraphrase",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3030_highlight_00.jpg",
+      "context": "Tvrzení reflektuje ekonomický princip, že konsolidace státního dluhu je otázkou celkového zadlužení veřejných institucí, nikoliv metodiky účtování. Ratingové agentury a finanční trhy při posuzování úvěruschopnosti státu skutečně sledují celkový dluh sektoru vládních institucí (dle metodiky ESA 2010), nikoliv pouze vybrané rozpočtové kapitoly."
+    },
+    {
+      "text": "Tato vláda chce vykoupit ČEZ, zestátnit ho za 300 miliard, ale přitom my už ČEZ vlastníme a ovládáme.",
+      "type": "citation",
+      "speaker": "Tereza Nislerová",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3030_highlight_01.jpg",
+      "context": "Stát prostřednictvím Ministerstva financí ČR vlastní v ČEZ, a. s., podíl cca 70 %. Vláda v minulosti diskutovala o restrukturalizaci společnosti, ale oficiální plán na „zestátnění za 300 miliard“ (ve smyslu vykoupení minoritních akcionářů) nebyl vládou jako celek schválen ani vyčíslen jako konkrétní vládní projekt."
+    },
+    {
+      "text": "Vláda si uvolňuje ruce, aby mohla vyházet nepohodlné lidi a dosazovat kamarádky nebo kamarády z kavárny.",
+      "type": "paraphrase",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/15:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3030_highlight_02.jpg",
+      "context": "Toto je politické tvrzení interpretující personální změny ve státní správě. Nelze nezávisle ověřit motivaci vlády při obsazování konkrétních pozic; jde o subjektivní hodnocení politické kultury a transparentnosti výběrových řízení."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Tereza Nislerová (Piráti) obvinila vládu, že plánuje zestátnit ČEZ za 300 miliard pouze proto, aby následně rozprodala jeho nejvýnosnější části (distribuci a prodej) „českým oligarchům nebo možná i sám sobě“.",
+      "speaker": "Tereza Nislerová",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3030_controversy_00.jpg",
+      "context": "Neexistuje žádný oficiální vládní dokument ani schválený legislativní záměr, který by potvrzoval plán na rozprodej distribučních a prodejních částí ČEZ. Jde o spekulativní tvrzení o budoucích záměrech vlády, které nelze fakticky ověřit jako existující politický krok."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

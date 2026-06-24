@@ -1,0 +1,142 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:34:08",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3028",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-23T13:22",
+    "end_date": "2026-06-23T13:40",
+    "sources": [
+      "final/event_3028_2026-06-23_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5438_video-psp-2026623-1322-24-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny s cílem prezentovat kritický postoj ODS k aktuálním krokům vlády Andreje Babiše. Hlavními tématy byla kritika vládní novely o médiích veřejné služby, spor o ústavní pravomoci prezidenta při zahraničních cestách, vládní hospodářská politika a návrhy v oblasti školství.\n\nPředstavitelé ODS deklarovali záměr bránit demokratické instituce, nezávislost médií a kritizovali zadlužování státu. Zároveň představili iniciativu „vysvědčení vládě“ jako nástroj pro veřejnou zpětnou vazbu k vládnímu působení.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládní návrh zákona o médiích veřejné služby jako pokus o cenzuru a ovládnutí médií. Podpořil ústavní stížnost prezidenta Petra Pavla na vládu kvůli znemožnění jeho účasti na cestě do Ankary. Odsoudil rušení agendy lidských práv a protidrogové politiky na úřadu vlády. Představil web `vysvedcenivlady.cz` pro hodnocení vlády veřejností. `[1/01:15]`",
+      "**Renata Zajíčková (ODS)** — Odmítla plošný zákaz mobilních telefonů ve školách, který označila za populistický krok. Argumentovala, že 80 % škol má problematiku vyřešenou vlastními pravidly. Navrhla jako řešení vybavení žáků druhého stupně školními tablety pro výukové účely. Kritizovala vládní přístup k regulaci kratomu a varovala před snižováním vzdělanosti mladé generace. `[1/06:03]`",
+      "**Jan Skopeček (ODS)** — Obvinil vládu z vyvolávání inflace skrze dluhové financování a zvyšování veřejných výdajů. Kritizoval útoky premiéra Babiše na nezávislost České národní banky (ČNB). Varoval před fiskálním plánem ministryně Schillerové, který počítá se schodkem 2,8 % HDP (s únikovými doložkami nad 3 %) a označil sliby o budoucí konsolidaci za „pohádku“. `[1/10:55]`",
+      "**Martin Baxa (ODS)** — Vymezil se proti vládní novele o médiích veřejné služby. Upozornil na rizika spojená s převodem financí pod ministerstvo kultury a nejistotu ohledně souladu s evropskou legislativou. Požaduje vysvětlení dopadů škrtů ve výši 1,5 miliardy korun na programovou nabídku ČT a ČRo. `[1/15:30]`"
+    ],
+    "outcome": "Opoziční klub ODS se shodl na strategii „ostré kritiky“ vládních návrhů v Poslanecké sněmovně. Konsenzem je odmítnutí novely o médiích, podpora ústavní stížnosti prezidenta a aktivní odpor proti vládní rozpočtové politice. Formální závěr jednání nebyl přijat, šlo o prezentaci postojů před zahájením schůze.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a občasné výpadky v plynulosti textu, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká národní banka",
+      "Česká televize",
+      "Český rozhlas",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Andrej Babiš chce média, která budou olizovat ruku toho, kdo je živí.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3028_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení vztahu Andreje Babiše k médiím, kterému patří holding Agrofert (včetně mediálního domu Mafra). Nelze nezávisle ověřit jako fakt, jde o interpretaci politického postoje a vlivu na redakční nezávislost."
+    },
+    {
+      "text": "Plošný zákaz mobilů ve školách nevede ke snížení závislosti, čas se pouze přesouvá na odpoledne a večer.",
+      "type": "paraphrase",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/07:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3028_highlight_01.jpg",
+      "context": "Vědecké studie o vlivu zákazu mobilů na závislost přinášejí smíšené výsledky. Zatímco některé studie (např. LSE) naznačují zlepšení studijních výsledků, otázka přesunu času stráveného u obrazovek do volného času zůstává předmětem odborných debat bez jednoznačného konsenzu."
+    },
+    {
+      "text": "Jestli tu někdo zvyšuje inflaci, je to vláda Andreje Babiše svým dluhovým financováním.",
+      "type": "paraphrase",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/13:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3028_highlight_02.jpg",
+      "context": "Inflace je komplexní jev ovlivněný mnoha faktory (globální ceny energií, politika ČNB, fiskální politika). Podle dat ČSÚ a MF ČR v letech 2020–2021 došlo k výraznému nárůstu deficitů státního rozpočtu, což ekonomové často označují za proinflační faktor, ale přímá kauzalita je předmětem odborného sporu."
+    },
+    {
+      "text": "Škrty 1,5 miliardy korun v médiích veřejné služby znamenají velké dopady, chceme vědět, o co konkrétně občané přijdou.",
+      "type": "paraphrase",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/17:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3028_highlight_03.jpg",
+      "context": "Rozpočet České televize a Českého rozhlasu je zákonem č. 483/1991 Sb. a č. 484/1991 Sb. oddělen od státního rozpočtu. Debata o „škrtech“ se obvykle týká výše koncesionářských poplatků nebo legislativních změn ovlivňujících příjmy těchto institucí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kontroverzní návrh:** Plošný zákaz mobilních telefonů ve školách (vláda Andreje Babiše).\n    * **Proč:** ODS jej označuje za populistický zásah do kompetencí škol, který neřeší podstatu problému (škodlivý obsah) a ignoruje stávající metodiky. `[1/07:00]`",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/07:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3028_controversy_00.jpg",
+      "context": "Školy v ČR mají podle školského zákona č. 561/2004 Sb. autonomii v tvorbě školního řádu, který může používání mobilů omezit. Plošný zákaz na úrovni zákona v ČR aktuálně neexistuje, jde o politickou debatu o míře regulace versus autonomii škol."
+    },
+    {
+      "statement": "* **Kontroverzní výrok:** Útoky Andreje Babiše na ČNB a obvinění z vyvolávání inflace.\n    * **Proč:** Jan Skopeček (ODS) to označil za absurdní a nebezpečné zpochybňování nezávislosti klíčové instituce. `[1/11:00]`",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/11:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3028_controversy_01.jpg",
+      "context": "Nezávislost ČNB je ukotvena v Ústavě ČR a zákoně č. 6/1993 Sb. Politická kritika kroků ČNB je legitimní součástí veřejné debaty, avšak zpochybňování její nezávislosti je vnímáno jako zásah do institucionální stability státu."
+    },
+    {
+      "statement": "* **Kontroverzní výrok:** Poslanec Nerušil (hnutí ANO) o kontrole obsahu médií.\n    * **Proč:** Martin Baxa (ODS) to interpretuje jako důkaz skrytých ambicí vlády ovládnout obsah veřejnoprávních médií. `[1/16:30]`",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/16:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3028_controversy_02.jpg",
+      "context": "Interpretace výroků poslance Nerušila jako snahy o ovládnutí médií je politickým názorem Martina Baxi. Zda jsou tyto výroky skutečným plánem na změnu legislativy o médiích, nelze nezávisle ověřit, jde o politickou interpretaci záměru."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

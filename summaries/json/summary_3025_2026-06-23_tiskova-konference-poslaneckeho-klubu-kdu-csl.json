@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:35:34",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3025",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-23T12:21",
+    "end_date": "2026-06-23T12:40",
+    "sources": [
+      "final/event_3025_2026-06-23_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5435_video-psp-2026623-1221-56-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se zaměřila na kritiku aktuálních vládních kroků, které podle řečníků destabilizují demokratické instituce a legislativní proces v České republice. Hlavními tématy byly kompetenční žaloba prezidenta republiky, způsob financování veřejnoprávních médií, netransparentní legislativní proces a ekonomická politika vlády.\n\nCílem konference bylo prezentovat postoj KDU-ČSL jako opoziční síly, která hodlá bránit nezávislost institucí a prosazovat standardní legislativní procesy.",
+    "main_points": [
+      "**Jan Grolich (KDU-ČSL)** — Podpořil kompetenční žalobu prezidenta republiky a kritizoval vládní přístup k financování médií. `[1/00:45]`",
+      "**František Talíř (KDU-ČSL)** — Označil přímé napojení médií na státní rozpočet za „červenou linii“ a kritizoval absenci odborné diskuze. `[1/02:30]`",
+      "**Benjamin Činčila (KDU-ČSL)** — Kritizoval ekonomickou politiku vlády a varoval před agresivním tlakem na státní instituce. `[1/04:03]`",
+      "**Marian Jurečka (KDU-ČSL)** — Upozornil na zneužívání poslaneckých návrhů zákonů k obcházení připomínkového řízení. `[1/07:45]`"
+    ],
+    "outcome": "Strana hodlá využít všechny parlamentní nástroje k odporu proti vládním návrhům, které omezují nezávislost médií a obcházejí legislativní proces, včetně případného podání k Ústavnímu soudu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Grolich",
+        "person_id": "psp:person:6669",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Benjamin Činčila",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Česká televize",
+      "Český rozhlas",
+      "NKÚ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My budeme veřejnoprávní média bránit všemi možnými prostředky, který jednací řád a český právní řád umožňuje.",
+      "type": "paraphrase",
+      "speaker": "Jan Grolich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3025_highlight_00.jpg",
+      "context": "Jde o politickou deklaraci záměru. Právní rámec pro fungování veřejnoprávních médií (ČT a ČRo) je dán zákony č. 483/1991 Sb. a č. 484/1991 Sb., jejichž změna vyžaduje standardní legislativní proces v Parlamentu ČR."
+    },
+    {
+      "text": "Polovina zákonů, které vyšly ve Sbírce zákonů, jsou poslanecké návrhy, čímž se obchází legislativní proces.",
+      "type": "paraphrase",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/08:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3025_highlight_01.jpg",
+      "context": "Tvrzení je zavádějící. Podíl poslaneckých návrhů na celkovém počtu přijatých zákonů se v jednotlivých volebních obdobích liší, ale dlouhodobě se pohybuje v nižších desítkách procent, nikoliv v polovině. Poslanecké návrhy navíc podléhají stejnému legislativnímu procesu jako vládní návrhy, pouze u nich není povinné připomínkové řízení."
+    },
+    {
+      "text": "Zatímco vláda mluví o západních modelech financování, reálně kopíruje to, jak je to na východ od nás.",
+      "type": "citation",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3025_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Výrok je subjektivním politickým hodnocením bez definice konkrétních „západních“ či „východních“ modelů financování, které by umožnilo objektivní komparaci."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Podmínění podpory ústavního zákona o kontrole médií NKÚ zavedením „člunkového řízení“ (aby Senát nemohl být přehlasován Sněmovnou).",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/14:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3025_controversy_00.jpg",
+      "context": "Ústava ČR (č. 1/1993 Sb.) v čl. 47 stanovuje mechanismus pro řešení sporů mezi Sněmovnou a Senátem. Zavedení „člunkového řízení“ by vyžadovalo ústavní změnu, která by fakticky oslabila postavení Poslanecké sněmovny jakožto primární komory při schvalování zákonů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,250 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-24T14:33:49",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3023",
+    "name": "Energetická transformace pro vyvolené? Nový model Nové zelené úsporám a včasné využití Sociálního klimatického fondu",
+    "classification": "Seminář",
+    "start_date": "2026-06-23T09:04",
+    "end_date": "2026-06-23T12:59",
+    "sources": [
+      "final/event_3023_2026-06-23_energeticka-transformace-pro-vyvolene-novy-model-n.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623090003.mp4",
+        "from_sec": 295
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623091003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623092003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623093003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623094003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623095003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623100003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623101003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623102003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623103003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623104003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623105003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623110003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623111003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623112003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623113003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623114004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623115004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623120004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623121004.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623122004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623123004.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623124004.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/23/_20260623125004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 24,
+    "parts_total": 24,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na problematiku energetické transformace domácností v České republice, konkrétně na nový model programu **Nová zelená úsporám (NZÚ)** a přípravu na využití prostředků ze **Sociálního klimatického fondu (SKF)** v kontextu zavádění systému obchodování s emisemi **ETS2**. Cílem bylo analyzovat, jakým způsobem státní správa a finanční instituce přistupují k podpoře domácností ohrožených energetickou a dopravní chudobou a zda stávající nástroje (dotace, úvěry, poradenství) skutečně pomáhají těm nejzranitelnějším, nebo zda vytvářejí nové bariéry.\n\nDiskuse se věnovala nejen technickým parametrům dotačních titulů, ale i nutnosti systémového poradenství, sociální práce v terénu a potřebě koncepčního přístupu k renovacím budov, které by neměly být pouze „dotačním byznysem“, ale cestou k dlouhodobé energetické soběstačnosti a sociální stabilitě.",
+    "main_points": [
+      "**Petr Waldman (SFŽP)**: Představil nový model NZÚ, který kombinuje dotace s bezúročnými úvěry a zavádí renovační pas jako nástroj pro komplexní plánování a ochranu žadatelů. `[2/02:02]`",
+      "**Natálie Marková (MPO)**: Zdůraznila potřebu evidence-based politiky a sjednocení renovačního pasu v legislativě. `[5/00:00]`",
+      "**Kateřina Žáčková (NRB)**: Popsala roli NRB při poskytování zvýhodněných úvěrů a inspiraci zahraničními modely (green bonds). `[6/00:00]`",
+      "**Radek Perman (Buřinka)**: Uvedl, že hlavní bariérou renovací není jen nedostatek peněz, ale složitost procesu a strach z neznáma, což vyžaduje kvalitní poradenství. `[6/06:08]`",
+      "**Petr Kulíšek (Sdružení Splav)**: Upozornil na nutnost sociální práce v terénu, kterou nelze pokrýt standardními dotačními sazbami za zpracování pasů. `[7/06:02]`",
+      "**Michal Čejka (Centrum pasivního domu)**: Kritizoval plošné dotace a zdůraznil nutnost soukromého kapitálu a systémových řešení (např. dostupné nájemní bydlení). `[9/06:06]`",
+      "**Karel Voldřich (MŽP)**: Představil parametry SKF (150 mld. Kč) a zdůraznil flexibilitu fondu při kompenzacích cen energií. `[14/04:00]`",
+      "**Zuzana Vondrová (CDE)**: Kritizovala nedostatečnou vizi v oblasti dopravy a chybějící krátkodobou pomoc pro zranitelné. `[16/00:00]`",
+      "**Kristýna Zindulková (AMO)**: Představila studii dopadů ETS2 a doporučila cílené navýšení energetického paušálu v rámci sociálních dávek. `[17/04:07]`",
+      "**Rebeka Hengalová (Europea)**: Navrhla konkrétní opatření pro dopravní chudobu: sociální leasing elektroaut, poptávkovou dopravu a klimatické jízdenky. `[19/00:00]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus, že dotace samy o sobě nestačí. Dominujícím postojem je potřeba systémového poradenství, cílené podpory namísto plošných opatření a politické shody na implementaci ETS2, bez níž zůstává Sociální klimatický fond pouze teoretickým nástrojem. Vláda ČR aktuálně usiluje o odklad ETS2, což experti vnímají jako riziko ztráty kompenzačních mechanismů.",
+    "notes": "Přepis obsahuje opakující se technické artefakty (např. 'Představující se na www.hradeckralove.org'), které byly ignorovány. Části 13 a 14 obsahují výpadky v záznamu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Petr Waldman",
+        "person_id": null,
+        "affiliation": "Státní fond životního prostředí"
+      },
+      {
+        "name": "Natálie Marková",
+        "person_id": null,
+        "affiliation": "Ministerstvo průmyslu a obchodu"
+      },
+      {
+        "name": "Kateřina Žáčková",
+        "person_id": null,
+        "affiliation": "Národní rozvojová banka"
+      },
+      {
+        "name": "Radek Perman",
+        "person_id": null,
+        "affiliation": "Buřinka (Česká spořitelna)"
+      },
+      {
+        "name": "Petr Kulíšek",
+        "person_id": null,
+        "affiliation": "Sdružení Splav"
+      },
+      {
+        "name": "Michal Čejka",
+        "person_id": "psp:person:5436",
+        "affiliation": "Centrum pasivního domu"
+      },
+      {
+        "name": "Karel Voldřich",
+        "person_id": null,
+        "affiliation": "Ministerstvo životního prostředí"
+      },
+      {
+        "name": "Zuzana Vondrová",
+        "person_id": "psp:person:6474",
+        "affiliation": "Centrum pro dopravu a energetiku"
+      },
+      {
+        "name": "Kristýna Zindulková",
+        "person_id": null,
+        "affiliation": "AMO / Centrum pro veřejné finance"
+      },
+      {
+        "name": "Rebeka Hengalová",
+        "person_id": null,
+        "affiliation": "Europea"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "Zelení",
+      "Piráti"
+    ],
+    "institutions": [
+      "Státní fond životního prostředí",
+      "Ministerstvo průmyslu a obchodu",
+      "Národní rozvojová banka",
+      "Ministerstvo životního prostředí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Celkově 200 miliard korun do roku 2032 může být distribuováno zranitelným osobám prostřednictvím sociálního klimatického fondu a výnosů z emisních povolenek.",
+      "type": "paraphrase",
+      "speaker": "Karel Voldřich",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "14/07:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3023_highlight_00.jpg",
+      "context": "Sociální klimatický fond (SCF) je součástí balíčku Fit for 55. Odhadovaná částka 200 miliard korun odpovídá predikcím Ministerstva životního prostředí ČR pro alokaci prostředků z výnosů emisních povolenek (ETS2) a přídělů z EU v daném časovém rámci."
+    },
+    {
+      "text": "Veřejných prostředků bude v renovační strategii 20 %, 80 % musí být soukromý kapitál, jinak to finančně nezvládneme.",
+      "type": "paraphrase",
+      "speaker": "Michal Čejka",
+      "affiliation": "Centrum pasivního domu",
+      "timestamp": "10/02:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3023_highlight_01.jpg",
+      "context": "Tento poměr vychází z odhadů nákladů na renovaci bytového fondu v ČR, které přesahují možnosti státního rozpočtu. Strategie předpokládá využití dotačních titulů (např. Nová zelená úsporám) jako motivačního prvku pro mobilizaci soukromých investic a úvěrů."
+    },
+    {
+      "text": "Dopravní chudoba je na papíře malá, ale je strašně lepkavá – jakmile se vás chytí, hůře se vás pustí.",
+      "type": "citation",
+      "speaker": "Rebeka Hengalová",
+      "affiliation": "Europea",
+      "timestamp": "19/09:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3023_highlight_02.jpg",
+      "context": "Dopravní chudoba není v ČR oficiálně statisticky sledována jako samostatný ukazatel, proto jsou data o jejím rozsahu omezená. Pojem „lepkavá“ vyjadřuje sociologický koncept, kdy nedostupnost dopravy znemožňuje přístup k zaměstnání a vzdělání, čímž fixuje domácnosti v dlouhodobé chudobě."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vláda ČR odmítá ETS2 a usiluje o odklad na rok 2030. Tento postoj je politicky citlivý, protože experti varují, že odklad znemožní čerpání prostředků z SKF a připraví ČR o kompenzační mechanismy pro nejchudší domácnosti.",
+      "speaker": "Pan Novotný",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "15/04:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3023_controversy_00.jpg",
+      "context": "Vláda ČR skutečně vyjednávala o flexibilitě v rámci ETS2. Mechanismus Sociálního klimatického fondu je přímo navázán na zavedení systému ETS2; pokud by ČR systém neimplementovala, ztratila by nárok na čerpání prostředků z tohoto fondu určených na kompenzace pro zranitelné domácnosti."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
