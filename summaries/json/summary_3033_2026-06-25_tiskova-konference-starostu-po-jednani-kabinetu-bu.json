@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-25T20:30:58",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3033",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-25T11:04",
+    "end_date": "2026-06-25T11:32",
+    "sources": [
+      "final/event_3033_2026-06-25_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5446_video-psp-2026625-114-55-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána po jednání stínové vlády hnutí STAN, tzv. Kabinetu budoucnosti. Hlavním účelem bylo vyjádřit kritický postoj opozice k aktuálním krokům vlády Andreje Babiše, zejména k útokům vládních představitelů na nezávislost Ústavního soudu, legislativním změnám v oblasti střetu zájmů a plánovaným změnám ve financování veřejnoprávních médií.\n\nStínová vláda představila své výzvy k odvolání vicepremiéra Petra Macinky, kritizovala netransparentní legislativní procesy a informovala o svých vlastních iniciativách, jako je návrh na zavedení volebního práva od 16 let.",
+    "main_points": [
+      "**Vít Rakušan (STAN, stínový premiér)** — Vyzval Andreje Babiše k okamžitému odvolání vicepremiéra Petra Macinky kvůli jeho výrokům o „ústavním puči“ v souvislosti s rozhodnutím Ústavního soudu. Argumentuje, že zpochybňování soudní moci vrcholnými politiky vede k erozi demokracie. Kritizoval také poslanecký návrh zákona o střetu zájmů, který má zpětně ovlivnit kauzy z let 2017–2021 a vyhnout se transparentnímu řešení. `[1/02:06]`",
+      "**Michaela Šebelová (STAN, stínová ministryně)** — Upozornila na střet zájmů premiéra v oblasti zdravotnictví. Uvedla, že kliniky vlastněné holdingem Andreje Babiše získaly za posledních pět let 14 miliard korun z veřejných peněz. Kritizovala netransparentnost vládních návrhů, které mohou být šité na míru těmto klinikám, a nedostatečnou komunikaci ministra zdravotnictví Vojtěcha. `[1/08:02]`",
+      "**Jan Lacina (STAN)** — Odsoudil snahu vlády zrušit koncesionářské poplatky a financovat ČT a ČRo přímo ze státního rozpočtu, což považuje za ohrožení nezávislosti médií. Identifikoval pět bariér, které mají návrhu zabránit (legislativní proces, veto Senátu, veto prezidenta, Ústavní soud a notifikace Evropské komisí). `[1/10:00]`",
+      "**Jan Berki (STAN)** — Vyjádřil se k návrhu zákazu mobilních telefonů na základních školách. Považuje jej za příliš zjednodušený a volá po „chytrých řešeních“ místo plošných zákazů. Varuje, že tento návrh neřeší podstatu závislosti na technologiích, která vzniká již v předškolním věku. `[1/14:04]`"
+    ],
+    "outcome": "Nebyl přijat žádný formální vládní výsledek, neboť jde o opoziční tiskovou konferenci. Konsenzem stínové vlády je pokračovat v tlaku na vládu Andreje Babiše skrze interpelace, zařazování bodů na jednání Poslanecké sněmovny a organizaci odborných seminářů (např. k volebnímu právu od 16 let či financování médií).",
+    "notes": "Přepis obsahuje drobné gramatické chyby a občasné výpadky v plynulosti textu, které však nemají vliv na pochopení hlavních argumentů řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Lacina",
+        "person_id": "psp:person:6737",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Berki",
+        "person_id": "psp:person:6722",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud soudy rozhodnou v jejich prospěch, tak vždycky přijdou a říkají, že jsou šťastní, že žijí v právním státě, ale pokud soudy rozhodnou tak, jak se jim to nelíbí, tak mluví o puči.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/01:27",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3033_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení rétoriky opozice, které nelze faktograficky ověřit jako pravdivé či nepravdivé. Výrok reflektuje dlouhodobý politický spor o respektování nezávislosti soudní moci v ČR."
+    },
+    {
+      "text": "Podle sdělení ministra Vojtěcha za posledních pět let kliniky z holdingu pana premiéra získaly 14 miliard korun z veřejných peněz.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/08:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3033_highlight_01.jpg",
+      "context": "Tvrzení o 14 miliardách korun nelze nezávisle ověřit bez specifikace konkrétního období a metodiky výpočtu. Veřejné zakázky a dotace pro holding Agrofert jsou dlouhodobě sledovány, nicméně částka 14 miliard za 5 let vyžaduje doložení konkrétním auditním výstupem či daty z registru smluv."
+    },
+    {
+      "text": "Andrej Babiš nemá rád Českou televizi a Český rozhlas, protože dávají nepříjemné otázky, ale zároveň ten jejich osud je do určité míry lhostejný.",
+      "type": "paraphrase",
+      "speaker": "Jan Lacina",
+      "affiliation": "STAN",
+      "timestamp": "1/12:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3033_highlight_02.jpg",
+      "context": "Jde o interpretaci postojů a vnitřního nastavení konkrétní osoby, což je subjektivní hodnocení. Vztah Andreje Babiše k médiím veřejné služby je dlouhodobě kritický, což je doložitelné mnoha jeho veřejnými vyjádřeními, ale tvrzení o „lhostejnosti“ je spekulativní."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Výzva k odvolání vicepremiéra Petra Macinky kvůli jeho výrokům o „ústavním puči“ v souvislosti s rozhodnutím Ústavního soudu. Je to politicky citlivé, neboť jde o přímý střet mezi exekutivou a justicí, který destabilizuje důvěru v právní stát.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/02:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3033_controversy_00.jpg",
+      "context": "Petr Macinka není vicepremiérem vlády ČR, zastává funkci ředitele Institutu Václava Klause. Označení rozhodnutí Ústavního soudu za „ústavní puč“ je politickým názorem, nikoliv právním faktem; důvěra v právní stát je předmětem politické debaty, nikoliv měřitelnou konstantou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

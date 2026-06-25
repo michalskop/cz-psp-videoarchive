@@ -1,0 +1,207 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-25T20:29:57",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3032",
+    "name": "12. schůze Hospodářského výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-06-25T14:32",
+    "end_date": "2026-06-25T17:48",
+    "sources": [
+      "final/event_3032_2026-06-25_12-schuze-hospodarskeho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625143003.mp4",
+        "from_sec": 141
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625144003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625145003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625150003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625151003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625152003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625153003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625154003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625155003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625160003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625161003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625162003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625163003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625164003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625165003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625170003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625171003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625172003.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625173003.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/132/2026/06/25/_20260625174003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 20,
+    "parts_total": 20,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 12. schůze Hospodářského výboru se konalo dne 25. června 2026 a jeho hlavním bodem bylo projednání rozsáhlé novely stavebního zákona (sněmovní tisk č. 67) před třetím čtením. Cílem bylo vypořádat se s více než 130 pozměňovacími návrhy, které se týkaly nejen samotného stavebního zákona, ale i dalších 41 souvisejících právních předpisů. Jednání bylo poznamenáno kritikou opozičních poslanců i zástupců veřejnosti ohledně netransparentního a rychlého legislativního procesu, který podle nich obchází standardní mezirezortní připomínkové řízení a ohrožuje ochranu památek a přírody.",
+    "main_points": [
+      "**Zuzana Mrázová (ministryně)** — Představila vládní postoj k novele, zdůraznila snahu o zjednodušení a zrychlení povolovacího procesu. `[1/06:01]`",
+      "**Zuzana Ožanová (zpravodajka)** — Vedla proceduru hlasování o 130+ pozměňovacích návrzích. `[1/08:10]`",
+      "**Ivan Adamec (předseda výboru)** — Řídil schůzi, obhajoval procesní postup jako výjimečnou situaci. `[2/04:12]`",
+      "**Lukáš Vlček (poslanec)** — Kritizoval chaos, neprofesionalitu a nedostatek času na prostudování podkladů. `[2/02:17]`",
+      "**Veronika Kovářová (poslankyně)** — Upozorňovala na dopady novely na památkovou péči a absenci stanovisek ministerstev. `[2/08:01]`",
+      "**Zástupci veřejnosti** — Vyjádřili obavy z likvidace ochrany přírody a památek, kritizovali šíření dezinformací. `[4/04:13]`"
+    ],
+    "outcome": "Výbor po dlouhém hlasovacím maratonu přijal usnesení k pozměňovacím návrhům k tisku č. 67. Většina návrhů opozičních poslanců směřujících k zachování silnější ochrany památek a přírody byla výborem nedoporučena. Výbor schválil delegace na výjezdy do Košic a Dublinu.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky v textu. Části hlasování byly zmatečné a vyžadovaly revokaci."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zuzana Mrázová",
+        "person_id": "psp:person:7040",
+        "affiliation": "Ministerstvo"
+      },
+      {
+        "name": "Zuzana Ožanová",
+        "person_id": "psp:person:6474",
+        "affiliation": "Hospodářský výbor"
+      },
+      {
+        "name": "Ivan Adamec",
+        "person_id": "psp:person:5439",
+        "affiliation": "Hospodářský výbor"
+      },
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Poslankyně"
+      },
+      {
+        "name": "Viola Borková",
+        "person_id": null,
+        "affiliation": "Národní památkový ústav"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "SPD",
+      "Piráti",
+      "STAN",
+      "ANO"
+    ],
+    "institutions": [
+      "Hospodářský výbor",
+      "Poslanecká sněmovna",
+      "Ministerstvo životního prostředí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Průměrně 6 měsíců trvá povolování staveb, mediánově dokonce 3 měsíce, nikoliv 7 až 10 let, jak uvádí ministerstvo.",
+      "type": "paraphrase",
+      "speaker": "Viola Borková",
+      "affiliation": "Arnica",
+      "timestamp": "4/05:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3032_highlight_00.jpg",
+      "context": "Délka povolovacího procesu je předmětem dlouhodobých sporů. Podle dat Světové banky (Doing Business) se ČR v minulosti umisťovala na chvostu žebříčků, zatímco oficiální statistiky MMR často pracují s průměry, které nezohledňují složité případy. Nelze nezávisle ověřit bez specifikace metodiky výpočtu (zda jde o všechny stavby, nebo jen rodinné domy)."
+    },
+    {
+      "text": "V tomto návrhu je více výjimek než pravidel, přesto obsahuje i pozitivní změny, které by se daly vyřešit malou novelou.",
+      "type": "paraphrase",
+      "speaker": "Zástupce Sdružení místních samospráv",
+      "affiliation": "SMS ČR",
+      "timestamp": "5/02:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3032_highlight_01.jpg",
+      "context": "Tvrzení o vysokém počtu výjimek je subjektivním hodnocením legislativní techniky návrhu. Zda by změny bylo možné řešit pouze novelou, je otázkou politického názoru na komplexnost reformy, nikoliv objektivně ověřitelný fakt."
+    },
+    {
+      "text": "Je to s prominutím neuvěřitelný bordel, který se dotkne 42 zákonů a bude likvidovat ochranu přírody a památek.",
+      "type": "citation",
+      "speaker": "Viola Borková",
+      "affiliation": "Arnica",
+      "timestamp": "4/06:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3032_highlight_02.jpg",
+      "context": "Dopad na 42 zákonů odpovídá rozsahu tzv. změnového zákona, který doprovází rekodifikaci stavebního práva. Zda tyto změny povedou k „likvidaci“ ochrany přírody a památek, je hodnotící soud a politická interpretace, nikoliv fakt."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Návrh R1 (odpovědnost za škodu v chráněných územích)**\n- **Kdo:** Filip Turek (předkladatel), Ministerstvo spravedlnosti (stanovisko).\n- **Co:** Návrh na přenesení odpovědnosti za škodu (např. pád větve) na návštěvníka v chráněných územích.\n- **Proč:** Ministerstvo spravedlnosti jej označilo za formálně chybný a v rozporu s občanským zákoníkem, přesto se o něm vedla bouřlivá debata.\n- **Čas:** 15/08:29",
+      "speaker": "Filip Turek",
+      "affiliation": null,
+      "timestamp": "15/08:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3032_controversy_00.jpg",
+      "context": "Stanovisko Ministerstva spravedlnosti k legislativním návrhům je standardním procesem v rámci připomínkového řízení. Soulad s občanským zákoníkem (zákon č. 89/2012 Sb.) je klíčovým právním parametrem, který posuzuje Legislativní rada vlády."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "poor",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

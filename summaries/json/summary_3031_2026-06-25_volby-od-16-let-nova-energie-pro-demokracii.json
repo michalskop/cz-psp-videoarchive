@@ -1,0 +1,143 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-25T20:30:18",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3031",
+    "name": "Volby od 16 let - nová energie pro demokracii",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-06-25T13:03",
+    "end_date": "2026-06-25T15:57",
+    "sources": [
+      "final/event_3031_2026-06-25_volby-od-16-let-nova-energie-pro-demokracii.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625130004.mp4",
+        "from_sec": 206
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625134004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625135004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625145005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625150005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625151005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625152005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625153005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625154005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/06/25/_20260625155005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 10,
+    "parts_total": 10,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Kulatý stůl s názvem „Volby od 16 let – nová energie pro demokracii“ se konal 25. června 2026. Cílem setkání byla odborná a politická diskuse o návrhu na rozšíření volebního práva v komunálních volbách na občany od 16 let. Účastníci debatovali o přínosech tohoto kroku pro posílení demokratické participace mladé generace, o zkušenostech ze zahraničí (Rakousko) a o nutnosti doprovodných změn ve vzdělávacím systému.\n\nJednání sloužilo jako platforma pro výměnu názorů mezi politiky, zástupci ministerstva vnitra, dětským ombudsmanem a zástupci mládežnických organizací.",
+    "main_points": [
+      "**Tomáš Jirovec (Ministerstvo vnitra)** — Uvedl, že ministerstvo se k návrhu staví neutrálně a čeká na politickou shodu. Upozornil na praktické aspekty, jako je věková hranice pro členy okrskových volebních komisí. [2/02:00]",
+      "**Dave Kok (host z Rakouska)** — Prezentoval rakouskou zkušenost, kde volební právo od 16 let funguje od roku 2007. Zdůraznil význam politického vzdělávání a fakt, že mladí voliči řeší stejná témata jako starší generace. [2/08:01]",
+      "**Vít Rakušan (STAN)** — Podpořil myšlenku rozšíření volebního práva jako nástroj pro zapojení mladých do správy věcí veřejných. [4/00:01]",
+      "**Zástupci mládežnických organizací** — Argumentovali, že 16letí jsou schopni racionálního rozhodování a poukázali na paradox trestní odpovědnosti bez volebního práva. [4/06:07]",
+      "**Dětský ombudsman** — Uvedl, že kognitivní schopnosti pro volbu dosahují úrovně dospělých v 16 letech a varoval před ageismem v politické debatě. [6/02:09]"
+    ],
+    "outcome": "Formální hlasování neproběhlo, neboť šlo o kulatý stůl. Dominujícím postojem účastníků byla podpora návrhu jako „konzervativního začátku“ (komunální volby). Shoda panovala v tom, že reforma musí jít ruku v ruce s posílením občanského vzdělávání.",
+    "notes": "Záznam obsahuje drobné chyby v přepisu (opakující se fráze, useknutá slova), které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomáš Jirovec",
+        "person_id": null,
+        "affiliation": "Ministerstvo vnitra"
+      },
+      {
+        "name": "Dave Kok",
+        "person_id": null,
+        "affiliation": "host z Rakouska"
+      },
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "Mladé ANO"
+    ],
+    "institutions": [
+      "Ministerstvo vnitra",
+      "Česká středoškolská unie",
+      "Panel mládeže MŠMT"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "16letí mají schopnost dělat racionální a informovaná rozhodnutí na stejné úrovni jako dospělí lidé.",
+      "type": "paraphrase",
+      "speaker": "Zástupce České středoškolské unie",
+      "affiliation": "Česká středoškolská unie",
+      "timestamp": "4/08:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3031_highlight_00.jpg",
+      "context": "Neurovědecké studie (např. výzkumy vývoje prefrontálního kortexu) naznačují, že kognitivní schopnosti pro logické uvažování jsou u 16letých srovnatelné s dospělými, avšak schopnost regulace emocí a rozhodování v sociálně vypjatých situacích se vyvíjí až do rané dospělosti. Jde o vědecky diskutovanou otázku, nikoliv o jednoznačně prokázaný fakt."
+    },
+    {
+      "text": "Většina dospělých voličů neví ani zlomek z toho, co víte vy už v tuhle chvíli.",
+      "type": "citation",
+      "speaker": "Dětský ombudsman",
+      "affiliation": null,
+      "timestamp": "5/08:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3031_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní hodnotící soud, který nelze objektivně změřit, neboť neexistuje jednotná metrika pro srovnání politické gramotnosti nebo znalostí mezi různými věkovými skupinami populace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Obava z ovlivnitelnosti mladých voličů (rodiči, školou, sociálními sítěmi).",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "5/08:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3031_controversy_00.jpg",
+      "context": "Politologické výzkumy (např. studie volebního chování) potvrzují, že mladí voliči jsou v raném věku silně ovlivněni primární socializací, tedy názory rodičů a rodinným prostředím. Vliv sociálních sítí a školního prostředí na politické preference je předmětem probíhajících sociologických studií, přičemž míra ovlivnitelnosti je individuální a závislá na mediální gramotnosti jedince."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}
