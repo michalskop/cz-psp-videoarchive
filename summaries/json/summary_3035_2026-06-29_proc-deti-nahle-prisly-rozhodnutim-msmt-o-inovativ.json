@@ -1,0 +1,162 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-29T19:38:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3035",
+    "name": "Proč děti náhle přišly rozhodnutím MŠMT o inovativní výuku?",
+    "classification": "Seminář",
+    "start_date": "2026-06-29T14:04",
+    "end_date": "2026-06-29T16:21",
+    "sources": [
+      "final/event_3035_2026-06-29_proc-deti-nahle-prisly-rozhodnutim-msmt-o-inovativ.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629140004.mp4",
+        "from_sec": 261
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629141004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629142004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629143004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629144004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629145004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629150004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629151004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629152004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629153004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629154004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629155004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629160004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629161004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/06/29/_20260629162004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář (kulatý stůl) se konal dne 29. června 2026 v Poslanecké sněmovně pod záštitou poslankyně Renaty Zajíčkové. Hlavním tématem bylo náhlé a nečekané rozhodnutí Ministerstva školství, mládeže a tělovýchovy (MŠMT) ukončit pokusné ověřování kombinované výuky na základních školách.\n\nCílem setkání bylo zprostředkovat dialog mezi zástupci škol, rodiči a politickou reprezentací, pojmenovat negativní dopady tohoto rozhodnutí na děti a rodiny a definovat další postup, jakým přimět ministerstvo k přehodnocení kroku nebo k nalezení legislativního řešení.",
+    "main_points": [
+      "**Renata Zajíčková (ODS)** — Kritizuje nekomunikaci MŠMT a absenci racionálních důvodů pro zrušení pilotáže. `[1/06:13]`",
+      "**Martin Lupa (manažer pro advokacii)** — Prosazuje legislativní ukotvení kombinované výuky a setkání s ministrem. `[1/04:17]`",
+      "**Jiří Nantl (bývalý náměstek)** — Zrušení pilotáže označil za bezprecedentní porušení legitimního očekávání. `[3/00:00]`",
+      "**Zástupci škol a rodiče** — Upozornili na nenahraditelnost kombinované výuky pro specifické skupiny dětí a rozvoj klíčových kompetencí. `[4/00:00]`"
+    ],
+    "outcome": "Účastníci se shodli na vytvoření společné výzvy adresované MŠMT. Hlavními požadavky jsou:\n* Přehodnocení rozhodnutí o ukončení pokusného ověřování (zejména pro 2. stupeň ZŠ a ZUŠ).\n* Iniciace nového pokusného ověřování jako přechodného řešení.\n* Příprava legislativního návrhu na ukotvení kombinované výuky do školského zákona.",
+    "notes": "Přepis obsahuje značné množství chyb (chybějící diakritika, useknutá slova, halucinace ve formě opakujících se frází). Obsah byl rekonstruován na základě srozumitelných částí textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Lupa",
+        "person_id": "psp:person:6538",
+        "affiliation": null
+      },
+      {
+        "name": "Jiří Nantl",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Jiří Taufer",
+        "person_id": null,
+        "affiliation": "ZŠ Rýmařov"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "MŠMT",
+      "ČŠI",
+      "NPI"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zrušení probíhajícího pokusného ověřování minimálně prolamuje princip legitimního očekávání vůči chování veřejné správy.",
+      "type": "paraphrase",
+      "speaker": "Jiří Nantl",
+      "affiliation": null,
+      "timestamp": "3/01:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3035_highlight_00.jpg",
+      "context": "Princip legitimního očekávání je právní zásada zakotvená v § 2 odst. 4 správního řádu (zákon č. 500/2004 Sb.), která chrání adresáty veřejné správy před nepředvídatelnými změnami v rozhodování. Zda konkrétní ukončení pokusného ověřování tento princip porušuje, je předmětem právní interpretace, nikoliv objektivní fakt."
+    },
+    {
+      "text": "MŠMT se tímto rozhodnutím postavilo do pozice nedůvěryhodného partnera, se kterým nikdo dál nebude chtít spolupracovat.",
+      "type": "citation",
+      "speaker": "Petr Kolek",
+      "affiliation": null,
+      "timestamp": "8/01:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3035_highlight_01.jpg",
+      "context": "Toto tvrzení představuje subjektivní politické hodnocení reputace ministerstva. Nelze nezávisle ověřit, zda toto rozhodnutí povede k plošnému odmítání spolupráce ze strany partnerů MŠMT."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Účastníci navrhli jako krajní řešení politický nátlak skrze opoziční strany a mediální kampaň, pokud ministr Plaga odmítne dialog.",
+      "speaker": "Martin Lupa",
+      "affiliation": null,
+      "timestamp": "7/08:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3035_controversy_00.jpg",
+      "context": "Tvrzení popisuje interní strategii či úvahy účastníků jednání. Nelze nezávisle ověřit, zda k takovému návrhu skutečně došlo, ani zda byl součástí oficiálních zápisů či veřejných výstupů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-29T19:38:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3039",
+    "name": "Tisková konference Pirátů k jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-29T15:51",
+    "end_date": "2026-06-29T15:57",
+    "sources": [
+      "final/event_3039_2026-06-29_tiskova-konference-piratu-k-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/28/2026/06/29/_20260629155003.mp4",
+        "from_sec": 80
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference Pirátů se zaměřila na kritiku postupu vlády premiéra Andreje Babiše v souvislosti s reprezentací České republiky na nadcházejícím summitu NATO. Hlavním tématem byl spor o složení a vedení české delegace, který vyústil v předběžné opatření Ústavního soudu.\n\nCílem konference bylo poukázat na podle Pirátů neadekvátní a „frackovité“ chování vlády, která se snaží omezit roli prezidenta republiky Petra Pavla jako hlavy státu a vrchního velitele ozbrojených sil. Piráti varují před mezinárodní ostudou a připomínají historické zvyklosti, kdy delegaci na summitech NATO vedl prezident, nikoliv premiér.",
+    "main_points": [
+      "**Ivan Bartoš (Piráti)** — Kritizuje vládu za alibismus a snahu marginalizovat roli prezidenta na summitu NATO. [1/01:20]\n    * Argumentuje historickou praxí, kdy delegaci vedl prezident republiky.\n    * Upozorňuje na riziko mezinárodní ostudy a odkazuje na podobný spor v Polsku před 20 lety.\n    * Zdůrazňuje, že prezident je vrchním velitelem ozbrojených sil.\n    * Kritizuje vládu za to, že se místo řešení problémů občanů soustředí na „řešení ublížených eg“ a vnitřní spory s koaličními Motoristy."
+    ],
+    "outcome": "Jednání nebylo formálním zasedáním s hlasováním, ale tiskovým prohlášením. Závěrem je postoj Pirátů, že vláda se odmítá dále konstruktivně bavit s prezidentem o složení delegace a zvolila cestu obstrukcí. Piráti považují současný postup vlády za poškozování zájmů České republiky a varují před diplomatickými následky.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a fragmenty vět, které vznikly pravděpodobně při automatickém přepisu. Obsah byl rekonstruován na základě srozumitelných částí textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "Motoristé sobě"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "NATO",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda se skutečně chová jako banda nějakých fracků.",
+      "type": "citation",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3039_highlight_00.jpg",
+      "context": "Jde o subjektivní hodnotící soud a politickou rétoriku, nikoliv o faktické tvrzení, které lze objektivně ověřit či vyvrátit."
+    },
+    {
+      "text": "Prezident jako hlava státu je zároveň vrchní velitel ozbrojených sil, to je další důvod, proč má vést delegaci na summit NATO.",
+      "type": "paraphrase",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3039_highlight_01.jpg",
+      "context": "Podle čl. 63 odst. 1 písm. b) Ústavy ČR je prezident skutečně vrchním velitelem ozbrojených sil. Účast na summitech NATO však není zákonem striktně vymezena a závisí na politické dohodě mezi vládou a prezidentem, přičemž zahraniční politiku státu primárně určuje vláda."
+    },
+    {
+      "text": "To, co Andrej Babiš ve věci samitu předvádí, je trapas a ostuda pro celou Českou republiku.",
+      "type": "citation",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3039_highlight_02.jpg",
+      "context": "Jde o subjektivní hodnotící soud a politickou kritiku postupu opozičního politika, kterou nelze fakticky verifikovat."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Ivan Bartoš (Piráti) označil chování vlády za „bandu nějakých fracků“ a její postup za „naprostý alibismus“ a „trapas a ostudu pro celou Českou republiku“.",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3039_controversy_00.jpg",
+      "context": "Výrok je faktograficky přesnou citací vyjádření Ivana Bartoše. Hodnocení, zda jde o „trapas a ostudu“, je subjektivním politickým názorem řečníka."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
