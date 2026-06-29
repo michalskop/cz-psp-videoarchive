@@ -1,0 +1,212 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-29T14:12:06",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3037",
+    "name": "Aktuální bezpečnostní hrozby VI",
+    "classification": "Konference",
+    "start_date": "2026-06-29T09:01",
+    "end_date": "2026-06-29T15:30",
+    "sources": [
+      "final/event_3037_2026-06-29_aktualni-bezpecnostni-hrozby-vi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629090004.mp4",
+        "from_sec": 61
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629091004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629092004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629093004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629094004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629095004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629100004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629101004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629102004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629103004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629104004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629105004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629110004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629111004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629112004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629113004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629114004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629115004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629120004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629121004.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629122004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629123004.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629124004.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629125004.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629130004.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629131004.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629132004.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629133004.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/06/29/_20260629134004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 29,
+    "parts_total": 29,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Konference se zaměřila na analýzu aktuálních bezpečnostních hrozeb se zvláštním důrazem na situaci na Ukrajině, roli občanské společnosti v obraně státu a bezpečnostní situaci v Indo-Pacifiku (zejména podpora Tchaj-wanu). Cílem bylo sdílet zkušenosti z ukrajinského bojiště, diskutovat o rezilienci demokratických společností proti hybridním hrozbám a posílit spolupráci mezi státními institucemi, neziskovým sektorem a mezinárodními partnery.",
+    "main_points": [
+      "**Volodymyr Jelčenko (Poly Filip Orlyk Foundation)** — Navrhl totální blokádu Ruska a zpochybnil legitimitu ruského nástupnictví v OSN. `[3/08:15]`",
+      "**Martin Kroupa (Strong Europe)** — Zdůraznil, že neziskový sektor je klíčový pro adaptaci na nové obranné technologie a spoluutváří zahraniční politiku. `[5/00:01]`",
+      "**Martin Ondráček (Dárek pro Putina)** — Prezentoval data o vybrané 1,5 miliardě Kč a popsal sbírku jako terapeutický nástroj společnosti. `[7/00:01]`",
+      "**Ota Foltýn (Kancelář prezidenta republiky)** — Argumentoval, že ČR na pomoci Ukrajině ekonomicky vydělává a kritizoval odpůrce pomoci. `[9/02:07]`",
+      "**Roman Kulčinský (Texty.org.ua)** — Odhalil infrastrukturu ruské dezinformační sítě v ČR, která se maskuje za lokální diskuzi. `[22/00:01]`"
+    ],
+    "outcome": "Jednání vyústilo v konsenzus o nutnosti pokračovat v kontinuální podpoře Ukrajiny jako součásti vlastního bezpečnostního zájmu ČR. Dominujícím postojem byla potřeba „zmocňování“ občanů namísto vyvolávání strachu a posílení role občanské společnosti v obraně státu.",
+    "notes": "Přepis obsahuje četné technické chyby a opakující se fráze. Části 27–29 jsou z velké části nečitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Volodymyr Jelčenko",
+        "person_id": null,
+        "affiliation": "Poly Filip Orlyk Foundation"
+      },
+      {
+        "name": "Martin Kroupa",
+        "person_id": "psp:person:6538",
+        "affiliation": "Strong Europe"
+      },
+      {
+        "name": "Martin Ondráček",
+        "person_id": null,
+        "affiliation": "Dárek pro Putina"
+      },
+      {
+        "name": "Ota Foltýn",
+        "person_id": null,
+        "affiliation": "Kancelář prezidenta republiky"
+      },
+      {
+        "name": "Roman Kulčinský",
+        "person_id": "psp:person:1942",
+        "affiliation": "Texty.org.ua"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "OSN",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká armáda poskytla Ukrajině zbraně za necelých 8 miliard, ale za to od spojenců dostala zbraně za 24 miliard; vydělali jsme třikrát tolik.",
+      "type": "citation",
+      "speaker": "Ota Foltýn",
+      "affiliation": "Kancelář prezidenta republiky",
+      "timestamp": "10/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3037_highlight_00.jpg",
+      "context": "Ministerstvo obrany ČR uvádí hodnotu poskytnutého vojenského materiálu v řádech miliard korun, přičemž část nákladů je kompenzována z Evropského mírového nástroje (EPF) a formou darů od spojenců (např. tanky Leopard z Německa). Přesné vyčíslení poměru 1:3 je však obtížné nezávisle ověřit, neboť tržní hodnota darované techniky (často starší sovětské provenience) se liší od pořizovací ceny moderních náhrad."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Ota Foltýn označil lidi, kteří nechápou, že pomoc Ukrajině je naším nejvyšším bezpečnostním zájmem, za „idioty“.",
+      "speaker": "Ota Foltýn",
+      "affiliation": "Kancelář prezidenta republiky",
+      "timestamp": "9/08:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3037_controversy_00.jpg",
+      "context": "Ota Foltýn v rozhovoru pro DVTV skutečně použil výraz „idioti“ v souvislosti s lidmi, kteří podle něj nepochopili bezpečnostní hrozby a šíří ruskou propagandu. Výrok vyvolal politickou debatu o hranicích svobody slova a způsobu komunikace představitelů státu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}
