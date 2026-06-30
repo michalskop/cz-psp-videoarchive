@@ -1,0 +1,129 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-30T19:32:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3045",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-30T13:20",
+    "end_date": "2026-06-30T13:40",
+    "sources": [
+      "final/event_3045_2026-06-30_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5461_video-psp-2026630-1320-35-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS se konala 30. června 2026 před jednáním Poslanecké sněmovny. Cílem bylo prezentovat postoje strany k aktuálním politickým kauzám, kritizovat kroky vlády Andreje Babiše a představit legislativní priority ODS.\n\nHlavními tématy byly spor o účast prezidenta na summitu NATO v Ankaře, rezignace expertů z lidskoprávních rad, kritika návrhu zákona o střetu zájmů, odpor proti administrativní zátěži v rámci EET 2.0 a kritika postupu ministra školství Roberta Plagy v otázce kombinovaného vzdělávání a zákazu mobilních telefonů ve školách.",
+    "main_points": [
+      "**Martin Kuba (ODS)** — Vyzval vládu k ukončení „divadelní frašky“ ohledně účasti prezidenta na summitu NATO. Kritizoval Andreje Babiše za pokrytectví a podléhání tlaku motoristů. Odsoudil útoky na novináře a vyjádřil podporu nezávislosti veřejnoprávních médií. `[1/01:00]`",
+      "**Eva Dekrová (ODS)** — Označila vládu za „hrobaře lidských práv“ kvůli rozpuštění odborných rad. Oznámila záměr ODS navrhnout zřízení komise pro lidská práva v rámci Poslanecké sněmovny. Varovala před negativním hodnocením právního státu ze strany Evropské komise. `[1/05:15]`",
+      "**Jan Lipavský (ODS)** — Zdůraznil, že na summitu NATO v Ankaře bude prezident reprezentovat Českou republiku bez ohledu na vnitropolitické spory. Kritizoval vládu za to, že kvůli „pseudokauze“ trpí česká zahraniční politika a obranný průmysl. `[1/08:14]`",
+      "**Renáta Zajíčková (ODS)** — Kritizovala ministra školství Roberta Plagu za zrušení pokusného ověřování kombinovaného vzdělávání bez komunikace s rodiči a řediteli. Argumentovala, že plošný zákaz mobilů ve školách je „vlamováním se do otevřených dveří“. `[1/10:09]`",
+      "**Vojtěch Munzar (ODS)** — Představil dva pozměňovací návrhy k EET 2.0: 1) skutečnou výjimku pro nejmenší podnikatele do 2 milionů Kč, 2) vyjmutí bezhotovostních plateb z evidence tržeb v souladu s judikaturou Ústavního soudu. `[1/12:05]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním, tudíž nebylo přijato žádné formální rozhodnutí. ODS deklarovala, že se nebude snažit blokovat jednání Poslanecké sněmovny, ale bude aktivně prosazovat své pozměňovací návrhy a využívat parlamentní nástroje k oponování vládní politice.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kuba",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Eva Dekrová",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renáta Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Evropská komise",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda říká, že jste jí úplně jedno, a denně to dokazuje svými kroky.",
+      "type": "paraphrase",
+      "speaker": "Eva Dekrová",
+      "affiliation": "ODS",
+      "timestamp": "1/06:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3045_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, kterou nelze fakticky ověřit. Vztah vlády k občanům je otázkou politické interpretace a voličských preferencí."
+    },
+    {
+      "text": "Rozhodně hlava státu nemůže jet na summit NATO jako příruční zavazadlo.",
+      "type": "citation",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/01:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3045_highlight_01.jpg",
+      "context": "Výrok je metaforou pro nezávislost hlavy státu při zahraničních cestách. Z hlediska protokolu a Ústavy ČR (čl. 63) je prezident součástí výkonné moci a jeho účast na summitech NATO je dána jeho rolí vrchního velitele ozbrojených sil."
+    },
+    {
+      "text": "EET 2.0 nemá být na plnění hladu státu po nových informacích, ale stát by měl zachovat informační soudnost.",
+      "type": "citation",
+      "speaker": "Vojtěch Munzar",
+      "affiliation": "ODS",
+      "timestamp": "1/14:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3045_highlight_02.jpg",
+      "context": "Jedná se o politický názor na digitalizaci státní správy a sběr dat. Pojem „EET 2.0“ není oficiálním legislativním názvem, jde o politické označení pro případné nové systémy sledování transakcí či digitalizace daňové správy."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Martin Kuba (ODS)** označil vládní návrh zákona o střetu zájmů za „totálně spatlaný“ a „krádež za bílého dne“. Je to politicky citlivé, protože se přímo týká premiéra Andreje Babiše a jeho podnikatelských aktivit.",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/03:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3045_controversy_00.jpg",
+      "context": "Označení návrhu zákona za „spatlaný“ je subjektivní politické hodnocení. Otázka střetu zájmů Andreje Babiše byla v minulosti předmětem šetření Evropské komise i českých úřadů, které řešily soulad podnikatelských aktivit (holding Agrofert) s tehdejším zákonem č. 159/2006 Sb."
+    },
+    {
+      "statement": "**Eva Dekrová (ODS)** označila vládní zmocněnkyni pro lidská práva za „zbytečnou“ a tvrdí, že stojí po boku Andreje Babiše, nikoliv občanů. Jde o přímý útok na integritu vládní úřednice a zpochybnění její odbornosti.",
+      "speaker": "Eva Dekrová",
+      "affiliation": "ODS",
+      "timestamp": "1/06:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3045_controversy_01.jpg",
+      "context": "Role vládní zmocněnkyně pro lidská práva je definována usnesením vlády. Tvrzení o „zbytečnosti“ úřadu je politickým názorem, zatímco otázka politické loajality úřednice je subjektivním hodnocením, které nelze objektivně verifikovat."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
