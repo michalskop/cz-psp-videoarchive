@@ -1,0 +1,174 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-30T14:38:54",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3038",
+    "name": "19. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-06-30T09:04",
+    "end_date": "2026-06-30T12:19",
+    "sources": [
+      "final/event_3038_2026-06-30_19-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630090004.mp4",
+        "from_sec": 279
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630091004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630092004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630093004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630094004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630095004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630100004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630101004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630102004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630103004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630104004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630105004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630110004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630111004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630112004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630113004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630114004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630115004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630120005.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/06/30/_20260630121004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 20,
+    "parts_total": 20,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání Rozpočtového výboru se zaměřilo na projednání zprávy o měnové politice, schválení rozpočtových opatření v kapitole Ministerstva zahraničních věcí a projednání pozměňovacích návrhů k vládním návrhům zákonů (finanční služby na dálku, spotřebitelský úvěr a evidence tržeb). Cílem bylo posoudit aktuální ekonomickou situaci, vypořádat závazky státu a připravit legislativní podklady pro další projednávání v Poslanecké sněmovně.",
+    "main_points": [
+      "**Eva Zamrazilová (ČNB)** — Prezentovala zprávu o měnové politice (jaro 2026). Zdůvodnila zvýšení úrokových sazeb o 25 bazických bodů jako reakci na proinflační rizika. `[1/08:01]`",
+      "**Radek Rubeš (MZV)** — Požádal o rozpočtové opatření ve výši 200 mil. Kč na vypořádání závazků Expo 2025. `[5/02:05]`",
+      "**Vojtěch Munzar (ODS)** — Zpravodaj k zákonu o finančních službách; navrhl úpravy účinnosti a kritizoval technické definice. `[7/02:03]`",
+      "**Luboš Kastner (APRON)** — Podpořil zavedení zákonného rámce pro spropitné v gastronomii. `[16/08:06]`"
+    ],
+    "outcome": "Výbor vzal na vědomí zprávu o měnové politice, schválil rozpočtové opatření pro MZV s politickým dodatkem o chybách minulé vlády a přijal usnesení k pozměňovacím návrhům zákonů o finančních službách, spotřebitelském úvěru a EET.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a halucinace. Identifikace řečníků byla místy ztížena záměnou jmen v přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Eva Zamrazilová",
+        "person_id": "psp:person:5580",
+        "affiliation": "ČNB"
+      },
+      {
+        "name": "Radek Rubeš",
+        "person_id": null,
+        "affiliation": "Ministerstvo zahraničních věcí"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Luboš Kastner",
+        "person_id": null,
+        "affiliation": "APRON"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPOLU"
+    ],
+    "institutions": [
+      "ČNB",
+      "Ministerstvo zahraničních věcí",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zvýšení úrokové sazby o 25 bazických bodů je předhledící reakce s cílem minimalizovat druhotné dopady nákladového šoku do konečných cen.",
+      "type": "citation",
+      "speaker": "Eva Zamrazilová",
+      "affiliation": "ČNB",
+      "timestamp": "2/04:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3038_highlight_00.jpg",
+      "context": "Jde o standardní měnověpolitickou argumentaci ČNB. Zvýšení sazeb o 25 bazických bodů (0,25 p.b.) je běžným nástrojem centrální banky pro tlumení inflačních očekávání a tzv. sekundárních efektů, které vznikají, když se nákladové šoky (např. ceny energií) promítají do mzdových a cenových požadavků firem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh poslance Ševčíka na vložení pasáže o „diletantském hospodaření minulé vlády“ do usnesení k rozpočtovému opatření.",
+      "speaker": "Ševčík",
+      "affiliation": null,
+      "timestamp": "5/08:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3038_controversy_00.jpg",
+      "context": "Tvrzení o „diletantském hospodaření“ je politické hodnocení, nikoliv faktografický údaj. Hodnocení kvality hospodaření minulé vlády je předmětem politického sporu; objektivní data o stavu veřejných financí (např. schodek státního rozpočtu či výše dluhu) jsou dostupná v závěrečných účtech kapitoly státního rozpočtu spravovaných Ministerstvem financí ČR."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-30T14:40:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3041",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-30T11:58",
+    "end_date": "2026-06-30T12:20",
+    "sources": [
+      "final/event_3041_2026-06-30_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5457_video-psp-2026630-1158-25-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace priorit hnutí SPD v rámci probíhající schůze Poslanecké sněmovny. Hlavními tématy byly legislativní návrhy na zpřísnění trestů za týrání zvířat, reforma stavebního zákona pro zrychlení bytové výstavby, úpravy jednacího řádu sněmovny a prorodinná politika (navýšení rodičovského příspěvku).\n\nKromě legislativy se zástupci hnutí vyjádřili k nedávnému soudnímu vítězství SPD ve věci zařazení hnutí do zprávy o extremismu, informovali o úsporách v cestovních výdajích sněmovny a oznámili záměr navrhnout odebrání státního vyznamenání ukrajinskému prezidentovi Volodymyru Zelenskému.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prezentoval úspěch v soudním sporu ohledně zprávy o extremismu. Zdůraznil úspory v zahraničních cestách poslanců (pokles z 3,5 mil. Kč na 1,6 mil. Kč). Podpořil zrychlení stavebního řízení u bytových domů z 8–9 let na 1 rok. `[1/04:00]`",
+      "**Lucie Šafránková (SPD)** — Představila návrhy na zpřísnění trestů za týrání zvířat (vyšší pokuty, zákaz chovu až na 10 let, možnost vstupu policie do obydlí). Navrhla zvýšení rodičovského příspěvku na 400 000 Kč. `[1/06:06]`",
+      "**Libor Vondráček (SPD)** — Navrhuje návrat k přísnější definici trestného činu neplacení výživného. Obhajuje změnu jednacího řádu s cílem zefektivnit práci sněmovny. `[1/12:04]`",
+      "**Marie Pošarová (SPD)** — Kritizovala neúspěšnou digitalizaci stavebního řízení, za kterou dle ní nesou odpovědnost Piráti a ex-premiér Fiala. `[1/14:04]`",
+      "**Neidentifikovaný řečník (SPD)** — Informoval o zahájení činnosti vyšetřovací komise ke kauze Dozimetr. Představil návrh na odebrání Řádu Bílého lva Volodymyru Zelenskému. `[1/16:01]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí. Zástupci SPD deklarovali shodu na prioritách pro aktuální týden (stavební zákon, jednací řád, rodičovský příspěvek). V otázce rodičovského příspěvku přiznali, že v rámci koalice zatím neprosadili rozšíření na všechny děti do 3 let kvůli rozpočtové situaci, ale hodlají o tom dále diskutovat.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, nedokončené věty a opakující se fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Lucie Šafránková",
+        "person_id": "psp:person:6479",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Marie Pošarová",
+        "person_id": "psp:person:6745",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Za paní Pekarové se utratilo za cesty poslanců do zahraničí 3,5 milionu korun, za mě pouze 1,6 milionu korun.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/06:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3041_highlight_00.jpg",
+      "context": "Výdaje na zahraniční cesty jsou veřejně dostupné v rozpočtu Poslanecké sněmovny. Porovnání je zavádějící, pokud nezohledňuje délku funkčního období, počet delegací a fakt, že předsedkyně sněmovny má ze své pozice odlišný protokolární program než řadový poslanec či místopředseda."
+    },
+    {
+      "text": "Navrhujeme zvýšení rodičovského příspěvku ze současných 350 000 Kč na 400 000 Kč.",
+      "type": "citation",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/10:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3041_highlight_01.jpg",
+      "context": "Rodičovský příspěvek byl od 1. ledna 2024 navýšen na 350 000 Kč (zákon č. 349/2023 Sb.). Návrh na zvýšení na 400 000 Kč je legitimním politickým požadavkem opozice, který by vyžadoval novelizaci zákona o státní sociální podpoře."
+    },
+    {
+      "text": "Zvyšujeme dolní hranici trestní sazby za týrání zvířat z 6 měsíců na 1 rok.",
+      "type": "citation",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/09:34",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3041_highlight_02.jpg",
+      "context": "Trestní zákoník (zákon č. 40/2009 Sb.) v § 302 skutečně upravuje trestný čin týrání zvířat. Změna trestních sazeb je v kompetenci zákonodárců, aktuálně se o zpřísnění trestů za týrání zvířat v rámci legislativního procesu opakovaně debatuje."
+    },
+    {
+      "text": "Navrhujeme, aby poslanecká sněmovna navrhla prezidentovi republiky odebrat Řád Bílého lva Volodymyru Zelenskému.",
+      "type": "citation",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "SPD",
+      "timestamp": "1/17:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3041_highlight_03.jpg",
+      "context": "Podle zákona č. 157/1994 Sb. o státních vyznamenáních ČR náleží právo propůjčit či udělit vyznamenání prezidentu republiky. Poslanecká sněmovna nemá zákonnou pravomoc prezidentovi odebrání vyznamenání nařídit, může pouze vyjádřit politický apel."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Neidentifikovaný řečník (SPD).\n*   **Co:** Návrh na odebrání nejvyššího státního vyznamenání ukrajinskému prezidentovi Volodymyru Zelenskému.\n*   **Proč:** Řečník argumentuje, že Zelenský adoruje nacistické jednotky (UPA) a že vyznamenání nese jméno T. G. Masaryka, který byl odpůrcem fašismu. Politicky jde o vysoce citlivé téma vzhledem k probíhajícímu konfliktu na Ukrajině a oficiální zahraniční politice ČR.\n*   **Čas:** 1/16:01",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "SPD",
+      "timestamp": "1/16:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3041_controversy_00.jpg",
+      "context": "Tvrzení o adoraci nacistických jednotek ze strany Volodymyra Zelenského je politicky motivovaná interpretace, která není podložena oficiálními státními postoji Ukrajiny. Řád Bílého lva je nejvyšší státní vyznamenání ČR, jehož udělení je plně v kompetenci prezidenta republiky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

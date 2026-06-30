@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-30T14:39:09",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3044",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-30T12:59",
+    "end_date": "2026-06-30T13:18",
+    "sources": [
+      "final/event_3044_2026-06-30_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5460_video-psp-2026630-1259-25-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Poslanci hnutí STAN na tiskové konferenci kritizovali vládní legislativní proces, konkrétně návrhy označované jako „lex developer“ a zákon o digitální ekonomice. Zároveň představili své priority pro sněmovní týden, včetně pozměňovacích návrhů k rodičovskému příspěvku a EET, a vyjádřili znepokojení nad rezignací expertů z vládní rady pro lidská práva.",
+    "main_points": [
+      "**Neidentifikovaný řečník (STAN)** — Kritizoval „lex developer“ jako normu psanou na míru velkým developerům a označil vládní postup za arogantní a netransparentní. `[1/02:02]`",
+      "**Pavla Pivoňka-Vaňková (STAN)** — Představila 4 pozměňovací návrhy k rodičovskému příspěvku, které mají lépe reflektovat potřeby samoživitelů a rodičů pracujících na zkrácené úvazky. `[1/04:02]`",
+      "**Karel Dvořák (STAN)** — Odsoudil návrh na omezení pravomocí prezidenta při jmenování diplomatů jako „lex pomsta“, který narušuje dlouhodobou praxi. `[1/10:04]`",
+      "**Věra Kovářová (STAN)** — Kritizovala EET jako nástroj byrokracie a navrhla limit 1 mil. Kč pro spolky, aby nebyly zatěžovány administrativou. `[1/12:07]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí. Hnutí STAN potvrdilo, že bude v Poslanecké sněmovně aktivně prosazovat své pozměňovací návrhy a pokračovat v opoziční kritice vládních kroků, které považuje za nekoncepční.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné repetitivní fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Pavla Pivoňka-Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo práce a sociálních věcí",
+      "Ministerstvo financí",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Je to prostě arogance, je to absence debaty s odborníky, je to lex developer, napsaný na míru několika málo velkým developerům.",
+      "type": "paraphrase",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "STAN",
+      "timestamp": "1/02:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3044_highlight_00.jpg",
+      "context": "Označení „lex developer“ je politická nálepka pro legislativní úpravy v oblasti stavebního zákona. Zda je zákon napsán „na míru“ konkrétním subjektům, je subjektivní politické hodnocení, nikoliv fakticky ověřitelný údaj, ačkoliv debaty o vlivu lobbistických skupin na podobu stavební legislativy jsou dlouhodobým tématem."
+    },
+    {
+      "text": "Na jedné straně vláda zavádí bič na drobné živnostníky, druhou rukou se chová jako schizofrenní Ježíšek a rozdává tyto vybrané peníze.",
+      "type": "citation",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/11:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3044_highlight_01.jpg",
+      "context": "Tvrzení o „biči na živnostníky“ je politická interpretace změn v daňovém systému či odvodové zátěži (např. konsolidační balíček). Výrok o „rozdávání peněz“ je metaforou pro vládní dotační či sociální politiku; konkrétní dopady na různé skupiny obyvatel jsou předmětem politického sporu, nikoliv objektivní fakt."
+    },
+    {
+      "text": "Tento návrh [omezení pravomocí prezidenta] určitě nepodpoříme, protože nejenže je škodlivý, ale navíc ukazuje, že vládní koalice vede nesmyslnou válku s Hradem.",
+      "type": "paraphrase",
+      "speaker": "Karel Dvořák",
+      "affiliation": "STAN",
+      "timestamp": "1/10:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3044_highlight_02.jpg",
+      "context": "Návrhy na ústavní změny omezující pravomoci prezidenta jsou legitimním legislativním procesem. Označení za „nesmyslnou válku s Hradem“ je subjektivní politický názor na motivaci vládní koalice, který nelze fakticky verifikovat."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Věra Kovářová (STAN)\n**Co:** Označila odchod 50 expertů z vládní rady pro lidská práva za „velice špatnou zprávu pro Česko“.\n**Proč:** Je to politicky citlivé, protože to zpochybňuje vládní deklarace o efektivitě a ohrožuje pomoc ohroženým skupinám (domácí násilí, práva dětí).\n**Čas:** 1/15:04",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/15:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3044_controversy_00.jpg",
+      "context": "V roce 2024 skutečně došlo k odchodu řady členů Rady vlády pro lidská práva na protest proti postupu vlády. Fakt, že experti odešli, je doložitelný z veřejných prohlášení dotčených osob a médií; interpretace, zda je to „velice špatná zpráva“, je politickým hodnocením."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

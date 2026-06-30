@@ -1,0 +1,128 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-30T14:39:35",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3043",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-30T12:38",
+    "end_date": "2026-06-30T12:56",
+    "sources": [
+      "final/event_3043_2026-06-30_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5459_video-psp-2026630-1238-29-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu Pirátů se konala 30. června 2026 a jejím hlavním cílem bylo informovat veřejnost o aktuálních legislativních prioritách strany, kritice vládních kroků a představení vlastních návrhů řešení v oblastech střetu zájmů, lidských práv, státní správy, bydlení a sociální politiky.\n\nPiráti se vymezili zejména proti vládním návrhům, které podle nich oslabují protikorupční mechanismy a stabilitu státní správy. Zároveň představili konkrétní pozměňovací návrhy k projednávané legislativě, jako je rodičovský příspěvek, „superdávka“ či stavební zákon, s cílem zlepšit životní úroveň občanů a zajistit transparentní fungování státu.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládní návrh na úpravu zákona o střetu zájmů, který označil za „vykostění“ šité na míru Andreji Babišovi. `[1/01:00]`",
+      "**Vendula Svobodová (Piráti)** — Upozornila na rezignaci 53 expertů z lidskoprávní agendy a varovala před destrukcí fungujících prvků státu. `[1/04:04]`",
+      "**Kateřina Stojanová (Piráti)** — Odsoudila zrušení služebního zákona a přípravu zrušení nominačního zákona jako snahu o ovládnutí státní správy. `[1/06:02]`",
+      "**Veronika Kovářová (Piráti)** — Kritizovala novelu stavebního zákona jako „paskvil“ a představila akční plán bydlení. `[1/08:13]`",
+      "**Olga Richtrová (Piráti)** — Navrhla zvýšení rodičovského příspěvku na 420 000 Kč s valorizací a nárok na mateřskou pro ženy se smlouvami na dobu určitou. `[1/10:00]`",
+      "**Hana Ančincová (Piráti)** — Kritizovala „superdávku“ a navrhla úpravy pro studenty, oddlužení a příspěvky na bydlení. `[1/13:02]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale tiskovou konferencí. Konsenzem klubu je pokračující opoziční tlak na vládu, podávání pozměňovacích návrhů k vládním tiskům a příprava právních kroků (Ústavní soud) proti zákonům, které oslabují nezávislost státní správy.",
+    "notes": "Přepis obsahuje občasné výpadky textu a chyby v diakritice, které však nebránily pochopení hlavních argumentů řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richtrová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Hana Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda si chce umetat cestičku, aby se jí vyhazování odborníků a dosazování svých kámošů dělalo ještě snadněji.",
+      "type": "paraphrase",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3043_highlight_00.jpg",
+      "context": "Jde o politické hodnocení záměru vládní koalice měnit pravidla státní správy. Tvrzení o „dosazování kámošů“ je subjektivní interpretací politické opozice a nelze jej fakticky ověřit jako objektivní stav."
+    },
+    {
+      "text": "Průměrná délka stavebního řízení je podle údajů z Ministerstva pro místní rozvoj 98 dní, což není dlouho.",
+      "type": "citation",
+      "speaker": "Veronika Kovářová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3043_highlight_01.jpg",
+      "context": "Údaj 98 dní je zavádějící, neboť se vztahuje pouze na část řízení a nezahrnuje celkovou délku procesu včetně odvolání a dotčených orgánů. Podle Světové banky (Doing Business) a analýz NKÚ se reálná délka stavebního řízení v ČR dlouhodobě pohybuje v řádech stovek dní."
+    },
+    {
+      "text": "Navrhujeme, aby výchozí částka rodičovského příspěvku byla 420 000 Kč a aby se pravidelně navyšovala podobně jako starobní důchody.",
+      "type": "citation",
+      "speaker": "Olga Richtrová",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3043_highlight_02.jpg",
+      "context": "Jedná se o politický návrh (legislativní záměr). Aktuální výše rodičovského příspěvku (350 000 Kč) je stanovena zákonem č. 117/1995 Sb., o státní sociální podpoře, a její valorizace není v současnosti automaticky vázána na index spotřebitelských cen jako u starobních důchodů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Zdeněk Hřib (Piráti)** označil vládní návrh zákona o střetu zájmů za „ostudné vykostění“ šité na míru Andreji Babišovi, které by umožnilo „rozkrádat miliardové dotace přímo za bílého dne“.",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3043_controversy_00.jpg",
+      "context": "Výrok je politickou kritikou legislativního procesu. Zda konkrétní úprava zákona o střetu zájmů (tzv. lex Babiš) fakticky umožní zneužívání dotací, je předmětem právních sporů a interpretací, nikoliv ověřitelný fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

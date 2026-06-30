@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-06-30T14:40:48",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3040",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-06-30T11:19",
+    "end_date": "2026-06-30T11:28",
+    "sources": [
+      "final/event_3040_2026-06-30_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5456_video-psp-2026630-1119-56-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala dne 30. června 2026 před zahájením jednání Poslanecké sněmovny. Cílem konference bylo prezentovat postoje strany k aktuálním politickým kauzám, představit pozměňovací návrhy k projednávané legislativě a upozornit na vládní kroky, které TOP 09 považuje za ohrožení demokratických principů a transparentnosti.\n\nHlavními tématy byla kritika vládní reakce na pískot občanů na festivalu ve Strážnici, představení pozměňovacích návrhů k zákonu o elektronické evidenci tržeb (EET), požadavek na přijetí eura, varování před dopady klimatické změny a odmítnutí novely zákona o střetu zájmů, kterou strana vnímá jako účelovou úpravu „na míru“ politikům.",
+    "main_points": [
+      "**Jan Jakob (TOP 09)** — Kritizoval vládní reakci na vypískání ministrů ve Strážnici; označil úvahy o krácení dotací za zneužívání moci a „politiku uražené moci“. K zákonu o EET představil pět pozměňovacích návrhů: zrušení povinnosti evidovat bezhotovostní platby, zrušení evidence provozoven, webů a aplikací a vypuštění nesouvisejících daňových změn. `[1/02:07]`",
+      "**Helena Langšádlová (TOP 09)** — Prosazuje přijetí eura jako nástroj hospodářské stability a růstu. Upozornila na rizika klimatické změny a kritizovala vládní bagatelizaci tohoto problému. `[1/06:06]`",
+      "**Zdeňka Blišťanová (TOP 09)** — Odmítla novelu zákona o střetu zájmů, která podle ní oslabuje ochranu veřejných peněz. Varovala před zkrácením lhůty pro vymáhání neoprávněných dotací z 10 na 4 roky. `[1/08:12]`",
+      "**Helena Langšádlová (TOP 09)** — K rezignaci 53 expertů vládní agentury pro lidská práva uvedla, že přesun agendy na jednotlivé resorty byl chybou. Podpořila zřízení Komise pro lidská práva na půdě Poslanecké sněmovny. `[1/16:20]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním, tudíž nebylo přijato žádné formální rozhodnutí. TOP 09 deklarovala svůj záměr aktivně vystupovat proti vládní novele zákona o střetu zájmů a předložit pozměňovací návrhy k zákonu o EET. Strana rovněž vyjádřila podporu expertům v oblasti lidských práv a avizovala snahu o zřízení parlamentní komise pro tuto agendu.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, kde text vykazuje známky chybějící diakritiky nebo opakujících se nesmyslných frází."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Helena Langšádlová",
+        "person_id": "psp:person:5943",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Zdeňka Blišťanová",
+        "person_id": "psp:person:6992",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo pro místní rozvoj"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Veřejné peníze nejsou majetkem vlády, nejsou odměnou za poslušnost ani trestem za kritiku.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/01:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3040_highlight_00.jpg",
+      "context": "Jde o politický princip správy veřejných financí vycházející z ústavního pořádku ČR, kde státní rozpočet slouží k naplňování veřejných potřeb, nikoliv k politickému boji. Nakládání s prostředky státního rozpočtu upravuje zákon č. 218/2000 Sb., o rozpočtových pravidlech."
+    },
+    {
+      "text": "Kdybychom přijali společnou měnu, tak jako Slovensko v roce 2009, tak bychom dnes byli nadprůměrně bohatou zemí v rámci EU.",
+      "type": "citation",
+      "speaker": "Helena Langšádlová",
+      "affiliation": "TOP 09",
+      "timestamp": "1/07:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3040_highlight_01.jpg",
+      "context": "Tvrzení je spekulativní. Ekonomické dopady přijetí eura jsou předmětem odborných debat; podle analýz MF ČR a ČNB z roku 2023 neexistuje jednoznačný důkaz, že by přijetí eura samo o sobě zajistilo vyšší bohatství, neboť ekonomický růst závisí na mnoha faktorech včetně produktivity práce a struktury ekonomiky."
+    },
+    {
+      "text": "Zákony se nesmí psát na míru politikům.",
+      "type": "citation",
+      "speaker": "Zdeňka Blišťanová",
+      "affiliation": "TOP 09",
+      "timestamp": "1/09:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3040_highlight_02.jpg",
+      "context": "Jedná se o politický postulát vycházející z principu právního státu a rovnosti před zákonem (čl. 1 Ústavy ČR a čl. 1 Listiny základních práv a svobod). Legislativní proces by měl být obecný a neměl by vytvářet výhody pro konkrétní osoby."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jan Jakob (TOP 09)\n**Co:** Kritika úvah ministrů o krácení dotací festivalům, kde byli vypískáni.\n**Proč:** Jde o politicky citlivé téma zneužívání veřejné moci a trestání občanů za vyjádření názoru.\n**Čas:** 1/02:07",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3040_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit jako fakt, jde o interpretaci politického záměru. Rozhodování o dotacích podléhá zákonu č. 218/2000 Sb., přičemž krácení dotací na základě politických postojů příjemců by bylo v rozporu se zásadou transparentnosti a zákazem diskriminace."
+    },
+    {
+      "statement": "**Kdo:** Zdeňka Blišťanová (TOP 09)\n**Co:** Kritika novely zákona o střetu zájmů, kterou označila za psanou „na míru“ politikům.\n**Proč:** Návrh oslabuje kontrolní mechanismy a může vést k miliardovým ztrátám ve veřejných rozpočtech.\n**Čas:** 1/08:12",
+      "speaker": "Zdeňka Blišťanová",
+      "affiliation": "TOP 09",
+      "timestamp": "1/08:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3040_controversy_01.jpg",
+      "context": "Jde o politickou interpretaci legislativního návrhu. Posouzení, zda je zákon psán „na míru“, je předmětem parlamentní diskuse a právních analýz v rámci legislativního procesu, nikoliv objektivně měřitelný fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
