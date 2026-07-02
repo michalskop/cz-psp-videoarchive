@@ -1,0 +1,145 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-02T14:19:36",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3049",
+    "name": "10. schůze Výboru pro sociální politiku",
+    "classification": "Jednání výborů",
+    "start_date": "2026-07-02T07:34",
+    "end_date": "2026-07-02T08:14",
+    "sources": [
+      "final/event_3049_2026-07-02_10-schuze-vyboru-pro-socialni-politiku.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/02/_20260702073004.mp4",
+        "from_sec": 236
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/02/_20260702074004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/02/_20260702075004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/02/_20260702080004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/02/_20260702081004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 5,
+    "parts_total": 5,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 10. schůze Výboru pro sociální politiku (konané 2. července 2026) bylo primárně zaměřeno na projednání vládního návrhu novely zákona č. 117/1995 Sb., o státní sociální podpoře (sněmovní tisk 198). Cílem schůze bylo vypořádání pozměňovacích návrhů předložených v rámci druhého čtení a příprava stanoviska výboru pro třetí čtení v Poslanecké sněmovně.\n\nKromě legislativního procesu se výbor zabýval také organizačními záležitostmi, konkrétně zmocněním předsedkyně ke svolání mimořádné schůze výboru v červenci v závislosti na dalším vývoji projednávání souvisejících tisků.",
+    "main_points": [
+      "**Jana Pastuchová (místopředsedkyně výboru/zpravodajka)** — Představila hlasovací proceduru k pozměňovacím návrhům a vedla výbor procesem hlasování o jednotlivých bodech. `[2/00:15]`",
+      "**Marian Jurečka (poslanec)** — Argumentoval pro vyšší flexibilitu v rodičovské péči, kritizoval limit 120 hodin měsíčně pro docházku dětí do 2 let jako nekontrolovatelný a přežitý. Navrhl posun zvýšení rodičovského příspěvku o jeden kvartál. `[2/00:50]`",
+      "**Pavla Pivoňka Vaňková (poslankyně)** — Předložila řadu pozměňovacích návrhů (A1–A6), které se týkaly zrušení limitu docházky dětí do 2 let, valorizačních mechanismů, úpravy podmínek pracovní aktivity pro bonus na dítě a způsobu započítávání příjmů OSVČ. `[2/06:13]`",
+      "**Olga Richterová (poslankyně)** — Navrhla navýšení rodičovského příspěvku na 420 000 Kč a zavedení systémového pravidla navázaného na minimální mzdu (20násobek). Dále navrhla úpravy přechodných ustanovení a řešení situací po skončení pracovního poměru na dobu určitou. `[3/02:00]`",
+      "**Aleš Juchelka (ministr práce a sociálních věcí)** — Předložil pozměňovací návrhy (B1, B2) týkající se tzv. „superdávky“ a řešení aplikačních problémů při stanovení normativního nájemného. `[3/08:16]`",
+      "**Ančincová (poslankyně)** — Předložila návrhy (F1–F4) týkající se valorizačního mechanismu, změny zákona o státní sociální pomoci a úpravy normativního nájemného pro početnější domácnosti. `[3/06:11]`"
+    ],
+    "outcome": "Výbor přijal usnesení č. 40, kterým doporučil Poslanecké sněmovně hlasovat o návrzích podaných k tisku 198. Zpravodajka byla pověřena přednesením stanoviska výboru ve třetím čtení. Výbor rovněž schválil zmocnění předsedkyně ke svolání další schůze v červenci, pokud to bude vyžadovat projednávání dalších tisků (zejména tisk 210).",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se nesmyslné fráze (např. „Představující se výboru poslanecké sněmovny“) a místy chybějící diakritiku. Hlasování o stanoviscích byla v úvodu zmatečná, což vedlo k nutnosti opakování hlasování u prvního pozměňovacího návrhu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jana Pastuchová",
+        "person_id": "psp:person:6225",
+        "affiliation": "Výbor pro sociální politiku"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "Poslankyně"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Poslankyně"
+      },
+      {
+        "name": "Aleš Juchelka",
+        "person_id": "psp:person:6463",
+        "affiliation": "Ministerstvo práce a sociálních věcí"
+      },
+      {
+        "name": "Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Poslankyně"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "ANO",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Výbor pro sociální politiku",
+      "Ministerstvo práce a sociálních věcí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Návrh ruší limit docházky dítěte do dětské skupiny, mateřské školy nebo zařízení, kde mladších dvou let, je stanoven na 120 hodin měsíčně.",
+      "type": "paraphrase",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "Poslankyně",
+      "timestamp": "2/06:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3049_highlight_00.jpg",
+      "context": "Tvrzení odpovídá vládnímu návrhu novely zákona o státní sociální podpoře (sněmovní tisk 686). Cílem je odstranit limit 120 hodin měsíčně pro děti mladší dvou let v předškolních zařízeních, aby rodiče neztráceli nárok na rodičovský příspěvek při využívání těchto služeb."
+    },
+    {
+      "text": "Částka se příspěvku stane jako 20násobek minimální mzdy platné k 1. lednu kalendářního roku.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Poslankyně",
+      "timestamp": "3/04:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3049_highlight_01.jpg",
+      "context": "Tvrzení se týká úpravy celkové výše rodičovského příspěvku. Podle aktuálních legislativních změn (zákon č. 349/2023 Sb.) se celková částka rodičovského příspěvku skutečně odvíjí od 20násobku průměrné měsíční mzdy (nikoliv minimální), což je důležité upřesnění pro výpočet celkového limitu."
+    },
+    {
+      "text": "Cílem návrhu je výslovně stanovit, že zletilé nezaopatřené dítě nemusí být posuzováno v domácnosti rodičů, pokud tvoří samostatně hospodařící domácnost mimo domov rodičů.",
+      "type": "paraphrase",
+      "speaker": "Ančincová",
+      "affiliation": "Poslankyně",
+      "timestamp": "4/04:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3049_highlight_02.jpg",
+      "context": "Tento záměr je v souladu s judikaturou Nejvyššího správního soudu a snahou o zjednodušení administrativy v rámci systému státní sociální podpory. Cílem je, aby zletilé nezaopatřené dítě nebylo pro účely přídavku na dítě či jiných dávek automaticky započítáváno do příjmů rodičů, pokud s nimi fakticky nesdílí domácnost."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Marian Jurečka (poslanec)\n**Co:** Návrh na zrušení limitu 120 hodin docházky dětí do 2 let do předškolních zařízení.\n**Proč:** Jde o politicky citlivé téma, které naráží na definici „osobní celodenní a řádné péče“, což je klíčový parametr pro nárok na rodičovský příspěvek.\n**Čas:** 2/02:07",
+      "speaker": "Marian Jurečka",
+      "affiliation": "Poslanec",
+      "timestamp": "2/02:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3049_controversy_00.jpg",
+      "context": "Zrušení limitu 120 hodin je klíčovou změnou, která mění definici 'osobní celodenní a řádné péče' o dítě do 2 let. Dosavadní limit byl zaveden právě proto, aby státní podpora zůstala vázána na péči poskytovanou primárně rodičem, nikoliv institucí."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

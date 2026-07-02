@@ -1,0 +1,101 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-02T14:18:53",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3050",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-02T10:59",
+    "end_date": "2026-07-02T11:32",
+    "sources": [
+      "final/event_3050_2026-07-02_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5467_video-psp-202672-1059-33-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána po jednání stínové vlády (Kabinetu budoucnosti). Hlavním cílem bylo kriticky zhodnotit dosavadní působení vlády Andreje Babiše, vyjádřit nesouhlas s legislativními kroky vládní koalice (zejména tzv. „Lex pomsta“ omezující pravomoci prezidenta) a představit vlastní návrhy v oblasti důchodové reformy a bezpečnosti.",
+    "main_points": [
+      "**Vít Rakušan (Starostové)** — Kritizoval vládní pozměňovací návrh („Lex pomsta“), který označil za osobně motivovanou mstu vůči prezidentovi. Oznámil připravenost podat stížnost k Ústavnímu soudu. `[1/02:12]`",
+      "**Vít Rakušan (Starostové)** — Zhodnotil působení vlády Andreje Babiše jako neefektivní a plné nesplněných slibů (Green Deal, migrační pakt, muniční iniciativa). `[1/04:03]`",
+      "**Pavla Pivoňka Vaňková (Starostové)** — Představila návrh reformy třetího pilíře důchodového systému. Navrhuje větší prostupnost mezi produkty, snížení výkonnostních poplatků a motivaci pro mladé střadatele. `[1/12:16]`",
+      "**Martin Dvořák (Starostové)** — Kritizoval premiéra Babiše za neplnění slibů ohledně omezení pohybu ruských diplomatů pod diplomatickým krytím. `[1/16:03]`"
+    ],
+    "outcome": "Nebyla přijata žádná formální rozhodnutí, šlo o tiskovou konferenci opozice. Starostové deklarovali, že budou pokračovat v obstrukcích u zákonů, které považují za ohrožení demokracie (např. veřejnoprávní média), a jsou připraveni jednat i během letních měsíců, pokud to bude nutné.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Martin Dvořák",
+        "person_id": "psp:person:5664",
+        "affiliation": "Starostové"
+      }
+    ],
+    "parties": [
+      "Starostové",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Kabinet budoucnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tenhle pozměňovací návrh je osobně motivovaná msta promítnutá do konkrétního legislativního tisku.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/03:18",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3050_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení motivace předkladatelů návrhu. Motivaci zákonodárců nelze objektivně ověřit, jedná se o rétorický obrat v rámci politické debaty."
+    },
+    {
+      "text": "Česká muniční iniciativa je v současné době zodpovědná asi za 46 % dodávek munice na Ukrajinu.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/05:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3050_highlight_01.jpg",
+      "context": "Tvrzení nelze nezávisle ověřit z veřejně dostupných oficiálních dat. Ačkoliv česká iniciativa hraje významnou roli v zásobování Ukrajiny, přesná procentuální data o celkovém objemu dodávek munice od všech mezinárodních partnerů nejsou veřejně auditována ani centrálně evidována."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Vít Rakušan (Starostové)** — Označil legislativní kroky koalice („Lex pomsta“) za „osobně motivovanou mstu“ a „protiústavní přílepek“. Jde o vyhrocený konflikt mezi vládou a prezidentem, který zasahuje do ústavních principů dělby moci. `[1/02:12]`",
+      "speaker": "Vít Rakušan",
+      "affiliation": "Starostové",
+      "timestamp": "1/02:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3050_controversy_00.jpg",
+      "context": "Označení legislativního návrhu za „protiústavní přílepek“ je právní interpretace, kterou musí v případě napadení posoudit Ústavní soud ČR. Pojem „Lex pomsta“ je politická nálepka, nikoliv oficiální legislativní název."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
