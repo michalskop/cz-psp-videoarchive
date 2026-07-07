@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-07T14:25:48",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3056",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-07T08:40",
+    "end_date": "2026-07-07T08:57",
+    "sources": [
+      "final/event_3056_2026-07-07_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5477_video-psp-202677-840-21-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny. Hlavním účelem bylo představit postoje hnutí STAN k projednávaným legislativním návrhům, konkrétně k senátní vratce zákona o rozpočtové odpovědnosti, vládnímu návrhu k elektronické evidenci tržeb (EET) a návrhu na navýšení plateb za státní pojištěnce.\n\nKromě legislativních témat se zástupci hnutí vyjádřili k aktuální politické krizi mezi prezidentem a vládou v souvislosti s reprezentací České republiky na summitu NATO v Ankaře, kterou označili za nedůstojnou a poškozující zájmy státu.",
+    "main_points": [
+      "**Věra Kovářová (STAN)** — Podpora senátní vratky zákona o rozpočtové odpovědnosti. Senátní návrh omezuje vládní výjimky pro strategické dopravní stavby na 1 % HDP (cca 80–90 mld. Kč). Kritika „vykostění“ parlamentní kontroly a varování před rizikem narušení dluhové brzdy (55 % HDP) již v roce 2031. `[1/01:00]`",
+      "**Jan Papajanovský (STAN)** — Kritika vládního návrhu k EET a představení 12 pozměňovacích návrhů. Kritika „schizofrenní politiky“: vláda chce narovnat podnikatelské prostředí, ale vybrané prostředky okamžitě utrácí za „předvolební dárečky“. Návrhy zahrnují úpravy daňových bonusů, slev na děti a zrychlení odpisů pro firmy. `[1/04:04]`",
+      "**Michaela Šebelová (STAN)** — Kritika netransparentního projednávání zdravotnických návrhů. Kritika ministra zdravotnictví Adama Vojtěcha za předkládání pozměňovacích návrhů k EET, které se týkají zdravotnictví bez odborné debaty. Obava ze střetu zájmů premiéra Andreje Babiše a odmítnutí navýšení plateb za státní pojištěnce o 24 mld. Kč bez reformy. `[1/08:02]`"
+    ],
+    "outcome": "Hnutí STAN deklarovalo, že podpoří senátní vratku zákona o rozpočtové odpovědnosti. V případě EET a zdravotnických návrhů hodlá strana prosazovat své pozměňovací návrhy a vetovat projednávání v zrychleném režimu, aby byl prostor pro odbornou diskuzi.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Jestliže vláda k tomu překročí nezodpovědně, pak na dluhovou brzdu ve výši 55 % můžeme narazit už v roce 31.",
+      "type": "paraphrase",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/03:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3056_highlight_00.jpg",
+      "context": "Dluhová brzda je zakotvena v zákoně č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, a aktivuje se při překročení hranice 55 % HDP. Predikce dosažení této hranice v roce 2031 závisí na aktuálních makroekonomických odhadech MF ČR a Národní rozpočtové rady; tvrzení je tedy legitimní politickou interpretací fiskálního výhledu."
+    },
+    {
+      "text": "My jako starostové říkáme jasné: stop schizofrenní politice, kdy na jednu stranu EET uznáváme, ale na druhou stranu vybrané peníze okamžitě rozpustíme za různé předvolební dárečky.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/04:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3056_highlight_01.jpg",
+      "context": "EET byla zrušena zákonem č. 421/2022 Sb. s účinností od 1. ledna 2023. Tvrzení o „rozpouštění peněz za předvolební dárečky“ je politickým hodnocením rozpočtových priorit, nikoliv ověřitelným faktem, neboť definice „dárečku“ je subjektivní."
+    },
+    {
+      "text": "Za posledních pět let to bylo 14,5 miliard z veřejných peněz, tak uvidíme, jaká ta suma bude za příštích pět let.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/11:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3056_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Bez specifikace konkrétní rozpočtové kapitoly, programu nebo účelu výdajů nelze potvrdit, zda suma 14,5 miliardy odpovídá realitě dle dat ČSÚ či státního závěrečného účtu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Michaela Šebelová (STAN)\n**Co:** Obvinění premiéra Andreje Babiše ze střetu zájmů v souvislosti s daňovým zvýhodněním preventivních služeb ve zdravotnictví, které poskytují jeho kliniky.\n**Proč:** Jde o politicky citlivé téma, neboť se týká přímého propojení podnikatelských aktivit premiéra s vládní legislativou a čerpáním veřejných prostředků.\n**Čas:** 1/09:03",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/09:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3056_controversy_00.jpg",
+      "context": "Střet zájmů Andreje Babiše byl předmětem auditů Evropské komise, které potvrdily vliv na rozhodování o dotacích pro holding Agrofert. Otázka daňového zvýhodnění konkrétních zdravotnických služeb je předmětem politické debaty, avšak přímá kauzalita mezi legislativou a prospěchem konkrétních klinik vyžaduje právní analýzu konkrétních zákonných úprav."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

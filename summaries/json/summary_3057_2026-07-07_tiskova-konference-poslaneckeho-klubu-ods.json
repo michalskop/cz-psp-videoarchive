@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-07T14:25:06",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3057",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-07T13:03",
+    "end_date": "2026-07-07T13:28",
+    "sources": [
+      "final/event_3057_2026-07-07_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5478_video-psp-202677-133-48-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS byla svolána za účelem vyjádření postoje strany k aktuálním bodům jednání Poslanecké sněmovny. Hlavními tématy byly kritika vládního návrhu zákona o rozpočtové odpovědnosti (tzv. „rozpočtový Armagedon“), odpor k znovuzavedení elektronické evidence tržeb (EET 2.0) a kritika vládního přístupu k financování zdravotnictví.\n\nSoučástí jednání byla rovněž zahraničněpolitická reflexe nadcházejícího summitu NATO, kde ODS kritizovala vládní reprezentaci za vnitřní spory ohledně účasti prezidenta a za nejasný postoj k závazku výdajů na obranu ve výši 2 % HDP.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládní návrh zákona o rozpočtové odpovědnosti, který podle něj umožní ministryni financí navýšit výdaje až o 240 miliard korun bez dostatečné kontroly. Označil to za „ekonomický Armagedon“. K EET uvedl, že jde o projev nedůvěry k podnikatelům, a zdůraznil, že ODS bude prosazovat pozměňovací návrhy zmírňující byrokratickou zátěž. [1/02:00]",
+      "**Jan Skopeček (ODS)** — Charakterizoval přístup vlády jako „přísnost na podnikatele a rozvolnění rukou pro dluhy“. Upozornil, že pokud vláda prosadí rozvolnění rozpočtových pravidel, hrozí dosažení dluhové brzdy 55 % HDP již ve 30. letech. Kritizoval také vysokou obsluhu státního dluhu (110 miliard Kč). [1/06:05]",
+      "**Vojtěch Munzar (ODS)** — Představil konkrétní pozměňovací návrhy k EET: zvýšení limitu obratu pro povinnost EET na 2 miliony korun, vyjmutí bezhotovostních plateb z evidence a zrušení „přirážky“ (poplatku) u paušální daně. Navrhl také zvýšení limitů příjmů pro nepodávání daňového přiznání (na 100 000 Kč u hlavní činnosti). [1/10:00]",
+      "**Neidentifikovaný řečník (poslanec)** — Kritizoval vládní reformu zdravotnictví jako pouhé „nalévání peněz do děravého hrnce“ bez systémových změn. Navrhl odstropování zdravotních benefitů jako nástroj podpory prevence. [1/16:02]"
+    ],
+    "outcome": "ODS vyjádřila jasný nesouhlas s vládními návrhy v oblasti rozpočtové odpovědnosti a EET. Strana se připravuje na hlasování proti těmto zákonům a v případě jejich schválení nevylučuje podání podnětu k Ústavnímu soudu. V otázce summitu NATO ODS požaduje státnický přístup a plnění závazku 2 % HDP na obranu bez kličkování.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "Hnutí ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NATO",
+      "Ústavní soud",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Návrh zákona o rozpočtové odpovědnosti není nic jiného než snaha otevřít bránu k daleko větším schodkům.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/03:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3057_highlight_00.jpg",
+      "context": "Jde o politickou interpretaci záměru zákona. Zda zákon o rozpočtové odpovědnosti (zákon č. 23/2017 Sb.) vede k vyšším schodkům, závisí na konkrétních parametrech novely a fiskální disciplíně vlády, nikoliv na zákonu jako takovém."
+    },
+    {
+      "text": "Obsluha státního dluhu je dnes na úrovni 110 miliard korun, což je de facto rozpočet kapitoly ministerstva vnitra.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/10:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3057_highlight_01.jpg",
+      "context": "Výdaje na obsluhu státního dluhu v roce 2024 byly v rozpočtu plánovány ve výši cca 95–100 miliard Kč, přičemž výdaje kapitoly Ministerstva vnitra se pohybují v podobné řádové výši (cca 90–100 mld. Kč). Tvrzení je fakticky blízké realitě dle údajů MF ČR."
+    },
+    {
+      "text": "EET považuje všechny podnikatele za předem podezřelé, kteří musí být 24 hodin online přihlášeni ke státu.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/06:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3057_highlight_02.jpg",
+      "context": "EET (zákon č. 112/2016 Sb.) vyžadovala odesílání datových zpráv o transakcích v reálném čase, nikoliv trvalé „přihlášení ke státu“. Označení podnikatelů za podezřelé je politická interpretace principu plošné evidence tržeb."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Označil návrh za „snahu vytvořit z České republiky ekonomický Armagedon“ a „otevření brány k daleko větším schodkům“.\n**Proč:** Jde o přímý útok na fiskální politiku vlády (Alena Schillerová), který zpochybňuje integritu a odpovědnost vládního hospodaření.\n**Čas:** 1/02:00",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3057_controversy_00.jpg",
+      "context": "Výrok je politickou rétorikou a hodnotícím soudem. Ekonomické dopady vládních návrhů jsou předmětem odborných debat a nelze je objektivně klasifikovat jako „ekonomický Armagedon“."
+    },
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Označil vládní představitele za „trpasličí bojovníky“ a kritizoval jejich „mrzké a hloupé zájmy“ při řešení účasti prezidenta na summitu.\n**Proč:** Politicky citlivé téma narušující jednotu státní reprezentace v otázce národní bezpečnosti.\n**Čas:** 1/20:07",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/20:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3057_controversy_01.jpg",
+      "context": "Jedná se o subjektivní politické hodnocení a expresivní vyjádření. Faktickou podstatu sporu o účast prezidenta na summitu nelze ověřit jako pravdivou či nepravdivou, jde o střet politických názorů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

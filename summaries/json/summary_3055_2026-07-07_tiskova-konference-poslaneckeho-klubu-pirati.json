@@ -1,0 +1,119 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-07T14:26:07",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3055",
+    "name": "Tisková konference poslaneckého klubu Piráti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-07T08:22",
+    "end_date": "2026-07-07T08:47",
+    "sources": [
+      "final/event_3055_2026-07-07_tiskova-konference-poslaneckeho-klubu-pirati.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5476_video-psp-202677-822-29-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním legislativním návrhům projednávaným v Poslanecké sněmovně. Hlavními tématy byly valorizace rodičovského příspěvku, rozpočtová odpovědnost a zákon o EET, digitalizace státní správy, novela stavebního zákona a kritika vládní politiky v oblasti obrany a plnění závazků vůči NATO.\n\nCílem bylo představit alternativní řešení Pirátů (např. automatická valorizace příspěvků, podpora mladých rodin) a upozornit na rizika spojená s vládními návrhy, které podle řečníků vedou k zadlužování, byrokratickému chaosu a oslabování transparentnosti.",
+    "main_points": [
+      "**Olga Richterová (Piráti)** — Kritika nedostatečného navýšení rodičovského příspěvku, který nereflektuje inflaci. Navrhuje automatickou valorizaci (dle důchodů nebo minimální mzdy) a řešení pro rodiče, kterým končí pracovní smlouva mezi dvěma dětmi. `[1/00:45]`",
+      "**Vendula Svobodová (Piráti)** — Kritika vládního zákona o veřejných rozpočtech kvůli rozvolňování pravidel pro zadlužování. Zpochybnila přínos EET (odhad 14,4 mld. Kč považuje za nadhodnocený) a představila pozměňovací návrh pro drobné podnikatele s příjmem do 400 000 Kč ročně, aby nemuseli využívat EET. `[1/02:10]`",
+      "**Veronika Kovářová (Piráti)** — Varování před chaosem v důsledku novely stavebního zákona, který může vést k odchodu úředníků a zastavení povolování staveb. Prosazuje stažení návrhu a přípravu v dialogu s odborníky. `[1/04:15]`",
+      "**Michaela Moricová (Piráti)** — Kritika odkládání digitalizačních projektů (e-legislativa, e-matrika). Upozornila na ztrátu transparentnosti kvůli vypnutí „lobbistické stopy“ u e-legislativy. `[1/06:05]`",
+      "**Zdeněk Hřib (Piráti)** — Ostrá kritika Andreje Babiše v souvislosti se summitem NATO. Obvinil ho z neplnění závazku 2 % HDP na obranu a z klamání spojenců. Zpochybnil vládní sliby o navýšení rozpočtu na obranu v příštím roce, pokud nejsou doprovázeny úpravou zákona o veřejných zakázek pro efektivní čerpání. `[1/08:03]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. Piráti deklarovali svůj záměr hlasovat pro senátní vratku k zákonu o rozpočtech, podpořit své pozměňovací návrhy k EET a stavebnímu zákonu a nadále vyvíjet tlak na vládu v otázkách valorizace rodičovského příspěvku a plnění obranných závazků.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a useknutá slova, která však nebrání pochopení obsahu. Části záznamu jsou srozumitelné a logicky navazují."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Michaela Moricová",
+        "person_id": "psp:person:7024",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Dluh nezmizí jen proto, že ho schováte do jiné kolonky a dřív nebo později to stejně bude muset někdo zaplatit.",
+      "type": "paraphrase",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3055_highlight_00.jpg",
+      "context": "Tvrzení se týká účetních metod státního rozpočtu a mimorozpočtových fondů. Ačkoliv přesun výdajů mimo hlavní rozpočet (např. do státních fondů) nemění celkovou výši zadlužení státu, jde o legitimní politickou debatu o transparentnosti veřejných financí, kterou dlouhodobě sleduje např. Národní rozpočtová rada."
+    },
+    {
+      "text": "Andrej Babiš jede našim spojencům do Ankary lhát.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3055_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní politické hodnocení záměrů a motivací opozičního politika, které nelze fakticky verifikovat před uskutečněním cesty."
+    },
+    {
+      "text": "Vláda v ní navrhuje odložit hned několik důležitých projektů digitalizace – e-legislativu, e-matriku, volební systémy nebo elektronické spisové služby.",
+      "type": "citation",
+      "speaker": "Michaela Moricová",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3055_highlight_02.jpg",
+      "context": "Tvrzení odkazuje na konkrétní vládní návrhy změn v rozpočtových prioritách digitalizace. Ověření vyžaduje srovnání aktuálního návrhu rozpočtu s původním harmonogramem projektů digitalizace (např. v rámci Digitálního Česka), což je doložitelné z dokumentů zveřejněných na portálu VeKLEP."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Zdeněk Hřib (Piráti)\n*   **Co:** Označil Andreje Babiše za „soudem opakovaně uznaného lháře“, který jede na summit NATO „lhát spojencům“.\n*   **Proč:** Jde o přímý osobní útok na lídra opozice v kontextu mezinárodní bezpečnosti a důvěryhodnosti státu.\n*   **Čas:** 1/08:45",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3055_controversy_00.jpg",
+      "context": "Označení za „soudem uznaného lháře“ je zavádějící zjednodušení; soudy v minulosti řešily spory o výroky Andreje Babiše (např. o Janu Lipavském), přičemž v některých případech došlo k omluvám či soudním rozhodnutím. Výrok o „lhaní spojencům“ je politickou interpretací, kterou nelze fakticky ověřit."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

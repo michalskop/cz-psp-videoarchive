@@ -1,0 +1,101 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-07T14:25:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3054",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-07T12:20",
+    "end_date": "2026-07-07T12:43",
+    "sources": [
+      "final/event_3054_2026-07-07_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5475_video-psp-202677-1220-27-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem kritiky vládní rozpočtové politiky, konkrétního návrhu zákona o školkovném a postoje vlády k nadcházejícímu summitu NATO. Představitelé KDU-ČSL vyjádřili zásadní nesouhlas se způsobem, jakým vláda přistupuje k zadlužování státu a k podpoře pracujících rodin.\n\nDruhým hlavním tématem byla kritika vládní komunikace a absence jasného mandátu pro zástupce ČR na summitu NATO. Lidovci varovali před poškozením pověsti České republiky v zahraničí a před negativními ekonomickými důsledky, které může mít nejednotný a nečitelně prezentovaný postoj vlády na budoucí zapojení českých firem do obnovy Ukrajiny.",
+    "main_points": [
+      "**Monika Přesková (KDU-ČSL)** — Kritizovala vládní návrh školkovného jako nespravedlivý vůči nízkopříjmovým rodinám, samoživitelkám a matkám na částečných úvazcích. Navrhla přeměnu školkovného na **vratnou daňovou slevu (daňový bonus)**, která by byla vyplatitelná až do výše minimální mzdy na dítě. Zdůraznila, že by se opatření mělo uplatnit již za rok 2026. `[1/04:03]`",
+      "**Marian Jurečka (KDU-ČSL)** — \n    *   **Rozpočtová politika:** Označil vládní kroky za cestu k vyššímu dluhu a kritizoval ministryni financí za hledání „kliček“ místo zodpovědného hospodaření. `[1/00:00]`\n    *   **Zákon o EET:** Upozornil na chyby v návrhu (např. paušální daň, výjimky u propytného, DPH na nealko). Deklaroval, že KDU-ČSL nebude zákon rušit, ale opravovat. `[1/02:00]`\n    *   **Summit NATO:** Kritizoval „nedůstojné vystupování“ vlády před odletem a nejasnou vládní pozici. Varoval, že neochota podílet se na podpoře Ukrajiny (v kontextu německého návrhu) může v budoucnu znevýhodnit české firmy při zakázkách na obnovu země. `[1/06:00]`"
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o prezentaci opozičního postoje KDU-ČSL. Konsenzem strany je nutnost revize vládních návrhů v oblasti školkovného (zavedení bonusu) a požadavek na transparentní a jednotnou zahraniční politiku vlády vůči spojencům v NATO.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se fráze („Představující se“, „Představujeme“), které byly pro účely shrnutí ignorovány. Části textu jsou stylisticky neobratné, ale věcný obsah je srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Monika Přesková",
+        "person_id": "psp:person:6994",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "NATO",
+      "Česká televize"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Navrhujeme udělat ze školkovného vratnou slevu, daňový bonus, aby stát rodičům s nízkými příjmy rozdíl vyplatil zpět až do výše minimální mzdy na dítě.",
+      "type": "paraphrase",
+      "speaker": "Monika Přesková",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/04:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3054_highlight_00.jpg",
+      "context": "Současné školkovné je daňovou slevou na poplatníka, která je omezena výší daňové povinnosti (nelze získat bonus). Návrh na přeměnu na vratný daňový bonus by vyžadoval novelu zákona o daních z příjmů č. 586/1992 Sb. a znamenal by přímý výdaj ze státního rozpočtu ve prospěch nízkopříjmových rodin."
+    },
+    {
+      "text": "Vláda se tváří, že umí hospodařit, ale paní ministryně financí je právník, který hledá kličky místo toho, aby plánovala rozpočty jako správný národní hospodář.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3054_highlight_01.jpg",
+      "context": "Toto tvrzení je subjektivním politickým hodnocením kompetencí ministryně financí. Kvalifikace ministra není zákonem omezena na ekonomické vzdělání a proces sestavování státního rozpočtu se řídí zákonem č. 218/2000 Sb., o rozpočtových pravidlech."
+    },
+    {
+      "text": "Je to nedůstojná situace, kdy odlétají zástupci vlády na summit NATO a není známá vládní pozice, kterou tam budou hájit.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3054_highlight_02.jpg",
+      "context": "Vládní pozice na summity NATO jsou standardně schvalovány vládou ČR na jejích zasedáních před odletem delegace. Zda byla pozice v konkrétním případě známá či veřejně komunikovaná, je otázkou politické procedury, nikoliv právní normy."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Marian Jurečka (KDU-ČSL).\n    *   **Co:** Prohlásil, že pokud ČR odmítne participovat na finanční podpoře Ukrajiny, může to vést k tomu, že české firmy nebudou mít přístup k infrastrukturálním zakázkám při poválečné obnově země.\n    *   **Proč:** Jde o politicky citlivé propojení vojenské/finanční pomoci s ekonomickými zájmy českých firem, což může být vnímáno jako podmiňování solidarity.\n    *   **Čas:** `1/10:25`",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/10:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3054_controversy_00.jpg",
+      "context": "Jde o politickou predikci budoucího vývoje. Účast na poválečné obnově Ukrajiny je předmětem mezinárodních dohod a tendrů, přičemž přímá kauzalita mezi aktuální finanční pomocí a budoucími zakázkami není právně zakotvena, ačkoliv je v diplomatických kruzích často zmiňována jako faktor budování vzájemné důvěry."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

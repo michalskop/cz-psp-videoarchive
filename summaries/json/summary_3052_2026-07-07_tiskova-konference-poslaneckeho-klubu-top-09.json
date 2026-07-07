@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-07T14:26:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3052",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-07T07:59",
+    "end_date": "2026-07-07T08:21",
+    "sources": [
+      "final/event_3052_2026-07-07_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5473_video-psp-202677-759-53-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem komentáře k aktuálnímu politickému dění před nadcházejícím týdnem v Poslanecké sněmovně. Hlavními tématy byla kritika vládní politiky v oblasti zahraničních vztahů (cesta do Číny, summit NATO v Ankaře), legislativní kroky vlády (tzv. EET 2.0, pravidla rozpočtové odpovědnosti) a situace ve zdravotnictví.\n\nCílem bylo prezentovat opoziční postoj TOP 09, vymezit se vůči krokům vlády Andreje Babiše a upozornit na podle nich nekoncepční a populistické kroky, které poškozují zájmy České republiky v zahraničí i doma.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval novelu jednacího řádu Poslanecké sněmovny, odsoudil cestu Tomia Okamury do Číny, kritizoval premiéra Babiše za přístup k summitu NATO a neplnění závazku 2 % HDP na obranu. `[1/00:45]`",
+      "**Jan Jakob (TOP 09)** — Odmítl vládní návrh „EET 2.0“ jako starý systém s novou fasádou, kritizoval vládní změny v pravidlech rozpočtové odpovědnosti a oznámil podání pozměňovacích návrhů k EET. `[1/08:01]`",
+      "**Vlastimil Válek (TOP 09)** — Upozornil na neefektivní navýšení příjmů zdravotních pojišťoven o 21 miliard korun, které neřeší dostupnost péče ani platy zdravotníků, a kritizoval absenci reforem ve zdravotnictví. `[1/12:04]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí, kde TOP 09 deklarovala svůj záměr kriticky rozebírat vládní návrhy v Poslanecké sněmovně a podávat pozměňovací návrhy. Nebylo přijato žádné formální rozhodnutí, panuje však konsenzus v rámci klubu o odmítavém postoji k vládnímu návrhu EET a k zahraniční politice vlády.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Vlastimil Válek",
+        "person_id": "psp:person:6482",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "STAN",
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NATO",
+      "Ústavní soud",
+      "Bezpečnostní informační služba"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ta cesta Tomio Okamury do Číny je zcela opačná, měl by letět na Tchaj-wan.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3052_highlight_00.jpg",
+      "context": "Jde o politický názor na zahraniční orientaci ČR. Oficiální zahraniční politika ČR se řídí politikou jedné Číny, přičemž s Tchaj-wanem udržuje neoficiální ekonomické a kulturní vztahy v souladu s vládním prohlášením."
+    },
+    {
+      "text": "Dluh roste, úroky z dluhu rostou, mandatorní výdaje rostou a vláda místo skutečné konsolidace hledá nové výmluvy.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/10:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3052_highlight_01.jpg",
+      "context": "Státní dluh ČR dle dat MF ČR dlouhodobě roste. Úrokové výdaje státního rozpočtu se v posledních letech skutečně zvýšily v důsledku vyšších úrokových sazeb a objemu dluhu, což potvrzují zprávy o plnění státního rozpočtu."
+    },
+    {
+      "text": "Ministr zdravotnictví rozdal o 24 miliard více, než mají pojišťovny na účtech, a z toho nemá nic občan.",
+      "type": "paraphrase",
+      "speaker": "Vlastimil Válek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/12:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3052_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Hospodaření zdravotních pojišťoven podléhá dohledu Ministerstva zdravotnictví a MZ ČR, nicméně tvrzení o „rozdání 24 miliard nad rámec účtů“ vyžaduje detailní audit účetních závěrek pojišťoven a konkrétní rozpočtovou analýzu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Matěj Ondřej Havel označil vyjádření ministra zahraničí Macinky vůči prezidentovi za „dětinské způsoby“, „manýry“ a „infantilní“, což podle něj poškozuje reputaci ČR v zahraničí.",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/18:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3052_controversy_00.jpg",
+      "context": "Výrok je subjektivním politickým hodnocením komunikačního stylu ministra. Reputace ČR v zahraničí je komplexní ukazatel, který nelze objektivně změřit pouze na základě jednoho vyjádření člena vlády."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
