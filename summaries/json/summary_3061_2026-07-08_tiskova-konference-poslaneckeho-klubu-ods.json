@@ -1,0 +1,103 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-08T19:05:18",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3061",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-08T17:02",
+    "end_date": "2026-07-08T17:17",
+    "sources": [
+      "final/event_3061_2026-07-08_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5483_video-psp-202678-172-41-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS byla svolána za účelem zhodnocení výsledků summitu NATO v Ankaře. Hlavním cílem řečníků bylo kritizovat současnou vládní reprezentaci za nejednotný postoj, nedostatečnou aktivitu v rámci Aliance a selhání v oblasti obranné politiky.\n\nZástupci ODS označili vystupování vládních představitelů za „frašku“ a „kakofonii“, která poškozuje pověst České republiky v zahraničí. Kromě kritiky vládní politiky se řečníci zaměřili na obhajobu kroků minulé vlády, zejména v otázce plnění výdajů na obranu ve výši 2 % HDP, a na důrazné odmítnutí obvinění z netransparentního hospodaření na Ministerstvu obrany, která na adresu bývalé ministryně Černochové vznesl premiér Andrej Babiš.",
+    "main_points": [
+      "**Jan Lipavský (ODS)** — Kritizoval nejednotnost ústavních činitelů, která z ČR dělá „pasivního hráče“ a terč posměchu. Upozornil, že ČR neuzavírá nová partnerství a neúčastní se dronové iniciativy tak aktivně jako Estonsko, Dánsko či Nizozemsko. Pochválil prezidenta Pavla za reprezentaci země a vyzval vládu, aby s jeho potenciálem lépe pracovala. `[1/01:00]`",
+      "**Jana Černochová (ODS)** — Vyjádřila politování nad nedohodou vládní delegace před summitem. Kritizovala ministra obrany Zůnu za nevyužití příležitosti k bilaterálnímu jednání s Ukrajinou o bezpilotních prostředcích. Obhajovala plnění výdajů na obranu za svého působení a označila obvinění premiéra Babiše z netransparentních zakázek za lživá a ubohá. Oznámila podání předžalobní výzvy premiérovi. `[1/04:03]`",
+      "**Tematické body:**\n* **Výdaje na obranu:** Diskuse o metodice započítávání výdajů (tzv. mimorezortní výdaje). Černochová uvedla, že současná vláda vykazuje 30 miliard v mimorezortních výdajích, což je neudržitelné a nereálné pro splnění 2% limitu v roce 2026.\n* **Bezpečnostní prověrky:** Jana Černochová zdůraznila, že disponuje prověrkou na stupeň „Přísně tajné“ (T) a „NATO Secret“ a vyzvala premiéra Babiše, aby prokázal své vlastní prověrky."
+    ],
+    "outcome": "Jednání nemělo charakter formálního hlasování, šlo o tiskovou konferenci. Konsenzem řečníků je odmítnutí vládní politiky jako nekompetentní a poškozující zájmy ČR. Závěrem byla vyjádřena připravenost Jany Černochové bránit se proti výrokům premiéra Babiše soudní cestou.",
+    "notes": "Přepis je srozumitelný, neobsahuje žádné významné výpadky textu, které by znemožnily pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jana Černochová",
+        "person_id": "psp:person:5903",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "NATO",
+      "Ministerstvo obrany",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Z České republiky se v zahraničí stal pasivní hráč a pokud si nás někdo všiml, tak spíše jako terče posměchu.",
+      "type": "paraphrase",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/01:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3061_highlight_00.jpg",
+      "context": "Toto tvrzení je subjektivním politickým hodnocením zahraniční politiky a nelze jej fakticky ověřit. Hodnocení prestiže státu v zahraničí závisí na interpretaci diplomatických úspěchů či neúspěchů a není podloženo objektivními daty."
+    },
+    {
+      "text": "Pane Babiši, jste ubožák, jestli v Ankaře na summitu Severoatlantické aliance na doorstepu řešíte ministerstvo obrany a Černochovou.",
+      "type": "citation",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/12:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3061_highlight_01.jpg",
+      "context": "Jde o subjektivní hodnotící soud a osobní invektivu. Událost, kdy Andrej Babiš na summitu NATO komentoval vnitropolitické záležitosti, je zdokumentována v mediálních záznamech z daného summitu."
+    },
+    {
+      "text": "Až mi přinese Andrej Babiš ukázat svoji prověrku na stupeň T a NATO Secret, tak si spolu můžeme sednout k jednomu stolu a může se mi omluvit.",
+      "type": "citation",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/14:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3061_highlight_02.jpg",
+      "context": "Stupně utajení (T – Tajné, NATO Secret) jsou definovány zákonem č. 412/2005 Sb., o ochraně utajovaných informací. Zda konkrétní osoba disponuje platným osvědčením, je neveřejná informace podléhající režimu Národního bezpečnostního úřadu (NBÚ)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jana Černochová (ODS)\n**Co:** Označila premiéra Andreje Babiše za „ubožáka“ a vyzvala ho, aby si přebíral poštu (předžalobní výzvu).\n**Proč:** Jde o vyhrocený osobní konflikt mezi bývalou ministryní a premiérem, který se přenesl z domácí politické scény přímo na mezinárodní summit NATO.\n**Čas:** 1/12:04",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/12:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3061_controversy_00.jpg",
+      "context": "Označení za „ubožáka“ je subjektivní výrok. Existence předžalobní výzvy je právní úkon, který lze ověřit u právních zástupců dotčených stran, nicméně samotný obsah a důvody sporu jsou předmětem politické polemiky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
