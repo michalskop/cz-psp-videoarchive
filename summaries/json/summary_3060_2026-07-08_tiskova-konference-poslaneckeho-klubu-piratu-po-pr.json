@@ -1,0 +1,101 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-08T14:38:01",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3060",
+    "name": "Tisková konference poslaneckého klubu Pirátů po projednání ST 198",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-08T10:20",
+    "end_date": "2026-07-08T10:26",
+    "sources": [
+      "final/event_3060_2026-07-08_tiskova-konference-poslaneckeho-klubu-piratu-po-pr.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5484_video-psp-202678-1020-31-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala po projednání třetího čtení novely zákona o státní sociální podpoře (ST 198). Cílem vystoupení bylo představit postoj Pirátů k vládnímu návrhu navyšování rodičovského příspěvku a k problematice tzv. „superdávky“.\n\nPiráti kritizovali současný vládní přístup, který považují za nepředvídatelný a nespravedlivý. Namísto koncepčních změn vláda podle nich volí pouze jednorázové úpravy, které nereflektují inflaci ani reálné potřeby rodin.",
+    "main_points": [
+      "**Olga Richtrová (Piráti)** — Kritizovala nesystémové navyšování rodičovského příspěvku a navrhla zavedení pravidelné valorizace o cca 12 000 Kč ročně. Dále navrhla řešení pro ženy se smlouvou na dobu určitou, aby neztrácely nárok na mateřskou u druhého dítěte. `[1/00:45]`",
+      "**Hana Ančencová (Piráti)** — Představila pozměňovací návrhy k „superdávce“: řešení pro studenty v pronájmech, započítávání příjmů u lidí v oddlužení a úpravu výpočtu nákladů na bydlení pro větší rodiny. `[1/04:08]`"
+    ],
+    "outcome": "Vládní koalice pozměňovací návrhy Pirátů buď zcela ignorovala, nebo je nahradila vlastními, částečnými úpravami. Piráti konstatovali, že se podařilo dosáhnout pouze dílčích změn a systém zůstává „na půl cesty“.",
+    "notes": "Přepis obsahuje četné gramatické chyby, vynechaná slova a nesrozumitelné pasáže."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Olga Richtrová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Hana Ančencová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Lidé nevědí, podle jakého klíče politici zvolí, že jedno dítě bude mít na své plenky o 50 tisíc korun více, a to druhé o 50 tisíc méně.",
+      "type": "paraphrase",
+      "speaker": "Olga Richtrová",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3060_highlight_00.jpg",
+      "context": "Výrok kritizuje diskontinuitu v navyšování rodičovského příspěvku, které v minulosti probíhalo skokově a nepravidelně. Výše příspěvku je stanovena zákonem č. 117/1995 Sb., o státní sociální podpoře, a její změny závisí na politické shodě v rámci vládních koalic, nikoliv na automatickém valorizačním mechanismu."
+    },
+    {
+      "text": "Navrhovali jsme pravidelnou valorizaci rodičovského příspěvku, aby se každým rokem ta celková suma zvedla zhruba o 12 000 Kč.",
+      "type": "paraphrase",
+      "speaker": "Olga Richtrová",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3060_highlight_01.jpg",
+      "context": "Pirátská strana skutečně dlouhodobě prosazuje zavedení automatické valorizace rodičovského příspěvku podle růstu průměrné mzdy. Návrh na pravidelné zvyšování o cca 12 000 Kč odpovídá jejich politickému programu, nicméně v legislativním procesu Poslanecké sněmovny nebyl tento mechanismus dosud přijat."
+    },
+    {
+      "text": "Studenti dneska kvůli nedostatku kolejí často žijí samostatně v pronájmech, ale stát je přesto posuzuje společně s rodiči a tím je připravuje o podporu.",
+      "type": "citation",
+      "speaker": "Hana Ančencová",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:18",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3060_highlight_02.jpg",
+      "context": "Při posuzování nároku na sociální dávky (např. přídavek na dítě nebo příspěvek na bydlení) se podle zákona o státní sociální podpoře posuzuje příjem společně posuzovaných osob, kam studenti žijící s rodiči v jedné domácnosti patří. Pokud student prokáže, že žije v samostatné domácnosti a není s rodiči společně posuzován, státní podpora se vypočítává pouze z jeho příjmů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Olga Richtrová (Piráti) obvinila vládu hnutí ANO, že navyšování rodičovského příspěvku řeší pouze jako „jednorázové dárečky“ v souvislosti s blížícími se volbami.",
+      "speaker": "Olga Richtrová",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3060_controversy_00.jpg",
+      "context": "Kritika „jednorázových dárečků“ je politickým hodnocením způsobu, jakým vlády (včetně vlád hnutí ANO) přistupovaly k úpravám sociálních dávek. Historicky byla navyšování rodičovského příspěvku často provázena politickými debatami o jejich načasování před volbami, což je ověřitelný faktický kontext politické komunikace."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
