@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-09T14:06:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3065",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-09T11:04",
+    "end_date": "2026-07-09T11:31",
+    "sources": [
+      "final/event_3065_2026-07-09_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5489_video-psp-202679-114-9-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference zástupců hnutí Starostové (STAN) se konala po jednání jejich „Stínové vlády“. Hlavním cílem bylo zhodnotit aktuální zahraničně-politické postoje vlády (zejména v kontextu summitu v Ankaře a podpory Ukrajiny), kritizovat vládní kroky v oblasti vnitřní bezpečnosti a krizové legislativy a poukázat na rozpory uvnitř vládní koalice.\n\nŘečníci se vymezili proti vládnímu stylu vládnutí, který označili za mocenský a chaotický, a zdůraznili potřebu kontinuity v bezpečnostních projektech, které byly podle nich současnou vládou neuváženě ukončeny.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval pokrytectví vlády, která na mezinárodní úrovni plní spojenecké závazky, ale doma je popírá. Upozornil na rozpor mezi vládními stranami (zejména SPD a Hnutí ANO) ohledně podpory Ukrajiny. [1/02:19]\n    * Kritizoval rušení projektů jako „72 hodin“ (civilní připravenost) a propouštění odborníků z resortů vnitra a obrany.\n    * Odmítl vládní snahy o zveřejňování národnosti pachatelů trestných činů jako nástroj k vyvolávání strachu a nenávisti.",
+      "**Josef Fleck (STAN)** — Zdůraznil nutnost plnění schopností NATO, nejen výdajů na obranu. Upozornil na chaos v rozpočtovém plánování armády. [1/06:02]\n    * Kritizoval nenaplněné sliby vlády ohledně dostupného bydlení a hypoték.\n    * Uvedl, že vláda pouze přejímá plány předchozí administrativy (např. v otázce platů policistů), které vydává za vlastní.",
+      "**Michala Šebelová (STAN)** — Odsoudila rozhodnutí Mezinárodního olympijského výboru zrušit suspendaci ruského olympijského výboru. [1/12:01]\n    * Argumentovala, že Rusko využívá sport jako nástroj propagandy a připomněla oběti mezi ukrajinskými sportovci.\n    * Vyzvala ministra pro sport Borise Šťastného k aktivnímu tlaku na zvrácení tohoto rozhodnutí."
+    ],
+    "outcome": "Jednání vyznělo jako ostrá opoziční kritika. Starostové deklarovali, že se hodlají aktivně podílet na přípravě krizové legislativy, přestože kritizují způsob, jakým vláda přistupuje k odborníkům a kontinuitě státní správy. Konsenzem řečníků je, že vláda drží pohromadě nikoliv díky společnému programu, ale díky mocenským zájmům a snaze o centralizaci moci.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze (např. „Představující se na této konferenci je však větší...“), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Josef Fleck",
+        "person_id": "psp:person:6750",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michala Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "SPD",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "NATO",
+      "Mezinárodní olympijský výbor"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tato vláda se nebojí vyhazovat lidi, jak se jí zamané, a ani už neskrývá, že ta politická vůle bude důležitější než nějaká stabilita úředního ekosystému.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/18:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3065_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení personální politiky vlády. Objektivní ověření záměru 'vyhazovat lidi' závisí na interpretaci změn ve státní správě a zákoně o státní službě (zákon č. 234/2014 Sb.)."
+    },
+    {
+      "text": "Rusko využívá sport jako jednu ze svých vlajkových lodí státní propagandy.",
+      "type": "citation",
+      "speaker": "Michala Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/13:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3065_highlight_01.jpg",
+      "context": "Tvrzení reflektuje dlouhodobý konsenzus mnoha mezinárodních pozorovatelů a politologů, kteří poukazují na využívání sportovních úspěchů k posílení vnitrostátní legitimity a mezinárodního vlivu ruského režimu (tzv. sportswashing)."
+    },
+    {
+      "text": "My jsme jako starostové připraveni se na krizové legislativě aktivně spolupodílet, rozhodně tady neříkáme, že cokoliv budeme negovat.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/07:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3065_highlight_02.jpg",
+      "context": "Jde o politickou deklaraci postoje hnutí STAN k legislativnímu procesu. Nelze nezávisle ověřit budoucí jednání subjektu, lze pouze sledovat následné hlasování v Poslanecké sněmovně."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "### Kontroverzní návrh: Zveřejňování národnosti pachatelů trestných činů.\n* **Kdo:** Vít Rakušan (STAN).\n* **Co:** Kritizoval záměr vlády (pod tlakem SPD) zveřejňovat národnost pachatelů.\n* **Proč:** Podle Rakušana jde o populistický krok, který neřeší kriminalitu, ale pouze buduje předsudky a prohlubuje společenské příkopy.\n* **Čas:** 1/18:03",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/18:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3065_controversy_00.jpg",
+      "context": "Zveřejňování národnosti pachatelů není v ČR standardní policejní praxí a podléhá zákonu o ochraně osobních údajů (GDPR). Debata o tomto kroku je vedena v rovině politických priorit; neexistuje žádná empirická studie, která by potvrzovala, že by zveřejňování národnosti snižovalo kriminalitu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
