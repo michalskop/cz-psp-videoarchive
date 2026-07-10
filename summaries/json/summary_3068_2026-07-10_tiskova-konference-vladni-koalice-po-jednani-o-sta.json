@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-10T19:05:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3068",
+    "name": "Tisková konference vládní koalice po jednání o stavebním zákonu",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-10T14:02",
+    "end_date": "2026-07-10T14:18",
+    "sources": [
+      "final/event_3068_2026-07-10_tiskova-konference-vladni-koalice-po-jednani-o-sta.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5492_video-psp-2026710-142-23-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala u příležitosti schválení novely stavebního zákona ve třetím čtení v Poslanecké sněmovně. Cílem jednání bylo informovat veřejnost o přijetí legislativy, která má za úkol zjednodušit a zrychlit povolovací procesy pro stavebníky, ať už jde o drobné stavby nebo strategickou infrastrukturu.\n\nVládní představitelé zdůraznili, že zákon byl připravován dva a půl roku v úzké spolupráci s profesními komorami, obcemi a odbornou veřejností. Novela má napravit předchozí legislativní problémy a digitalizační neúspěchy, čímž má dojít k posílení konkurenceschopnosti České republiky a zrychlení výstavby bydlení i veřejné infrastruktury.",
+    "main_points": [
+      "**Karel Havlíček (MPO)** — Zdůraznil, že zákon je klíčový pro hospodářství a napravuje „pět let ztracených“ po předchozích neúspěšných pokusech. Kritizoval opozici za to, že zákon nepodpořila. `[1/02:03]`",
+      "**Zuzana Mrázová (MMR)** — Označila den za přelomový. Uvedla, že ministerstvo již pracuje na implementaci státní stavební správy, včetně vzdělávání úředníků a přípravy IT systémů. `[1/04:10]`",
+      "**Tomáš Doležel (SPD)** — Vyjádřil podporu SPD pro tento zákon. Odmítl tvrzení opozice, že jde o „zákon pro developery“, a zdůraznil, že je určen pro občany a drobné stavebníky. `[1/08:16]`",
+      "**Hana Landová (vládní zmocněnkyně)** — Poděkovala za prioritu, kterou vláda stavebnictví dala, a za podněty od občanů, kteří se potýkali s neprůchodným systémem. `[1/10:04]`"
+    ],
+    "outcome": "Novela stavebního zákona byla schválena ve třetím čtení hlasy vládní koalice a SPD. Ministerstvo pro místní rozvoj nyní přechází do fáze implementace, která zahrnuje vytvoření Úřadu rozvoje území (ÚRU) se sídlem v Praze a krajskými pobočkami. Cílem je zajistit jednotný a předvídatelný proces povolování staveb.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Karel Havlíček",
+        "person_id": "psp:person:6621",
+        "affiliation": "MPO"
+      },
+      {
+        "name": "Zuzana Mrázová",
+        "person_id": "psp:person:7040",
+        "affiliation": "MMR"
+      },
+      {
+        "name": "Tomáš Doležel",
+        "person_id": "psp:person:7001",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Hana Landová",
+        "person_id": "psp:person:88",
+        "affiliation": "Vládní zmocněnkyně"
+      }
+    ],
+    "parties": [
+      "Koalice",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo pro místní rozvoj",
+      "Úřad rozvoje území"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Po 20 letech jsme odšpuntovali ten megaproblém, kdy jsme byli někde na 150. místě v rámci všech zemí v rychlosti povolování.",
+      "type": "citation",
+      "speaker": "Karel Havlíček",
+      "affiliation": "MPO",
+      "timestamp": "1/00:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3068_highlight_00.jpg",
+      "context": "Česko se v žebříčku Světové banky 'Doing Business' v kategorii povolování staveb dlouhodobě umisťovalo na chvostu (v roce 2020 na 157. místě). Tvrzení o 'odšpuntování' problému je politickou interpretací účinnosti nového stavebního zákona, jehož reálný dopad na rychlost řízení v praxi je zatím předmětem odborných diskusí."
+    },
+    {
+      "text": "Dostáváme konkrétní podněty od občanů, kteří popisují roky čekání, opakované výzvy k doplňování podkladů a ztrátu důvěry v systém.",
+      "type": "citation",
+      "speaker": "Zuzana Mrázová",
+      "affiliation": "MMR",
+      "timestamp": "1/05:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3068_highlight_01.jpg",
+      "context": "Délka stavebního řízení v ČR je dlouhodobě kritizována. Podle dat ČSÚ a analýz MMR se průměrná doba vydání stavebního povolení pohybuje v řádech stovek dní, přičemž administrativní zátěž a opakované výzvy k doplnění podkladů jsou častými body stížností v rámci správních řízení."
+    },
+    {
+      "text": "Není to zákon pro developery, je to zákon pro drobné stavebníky, pro občany, pro české podnikatele a pro dostupnost bydlení.",
+      "type": "paraphrase",
+      "speaker": "Tomáš Doležel",
+      "affiliation": "SPD",
+      "timestamp": "1/08:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3068_highlight_02.jpg",
+      "context": "Toto tvrzení je politickou interpretací účelu zákona. Zda zákon primárně pomáhá drobným stavebníkům, nebo velkým developerským projektům, je předmětem dlouhodobého legislativního sporu a závisí na konkrétních ustanoveních zákona č. 283/2021 Sb., o stavebním právu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Tvrzení opozice, že zákon pomůže pouze developerům a že kdo bude platit, ten bude moci automaticky stavět.",
+      "speaker": "Opozice",
+      "affiliation": null,
+      "timestamp": "1/08:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3068_controversy_00.jpg",
+      "context": "Tvrzení o 'automatickém stavění za peníze' je zavádějící, neboť stavební zákon obsahuje procesní pravidla a limity, nikoliv možnost 'koupit si' povolení. Obavy opozice o zvýhodnění developerů pramení z nastavení pravidel pro územní plánování a procesních lhůt, což je legitimní politický názor, nikoliv fakticky podložený mechanismus korupce."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

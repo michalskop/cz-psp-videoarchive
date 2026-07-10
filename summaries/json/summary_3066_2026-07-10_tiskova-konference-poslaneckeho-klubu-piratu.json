@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-10T19:05:01",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3066",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-10T14:20",
+    "end_date": "2026-07-10T14:35",
+    "sources": [
+      "final/event_3066_2026-07-10_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5490_video-psp-2026710-1420-23-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána v reakci na schválení novely stavebního zákona v Poslanecké sněmovně. Zástupci Pirátů, předseda Zdeněk Hřib a poslankyně Veronika Kovářová, vyjádřili zásadní nesouhlas s touto legislativou, kterou označili za „legislativní paskvil“.\n\nHlavním cílem konference bylo upozornit na negativní dopady novely, zejména na dostupnost bydlení, riziko kolapsu stavebních úřadů a údajné upřednostnění zájmů developerů před veřejným zájmem. Piráti rovněž kritizovali netransparentní proces přípravy zákona a personální politiku na Ministerstvu pro místní rozvoj.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vyškrtnutí definice dostupného bydlení ze zákona. Uvedl, že novela povede ke kolapsu stavebních úřadů a zpoždění povolovacích procesů. Poukázal na to, že stávající systém (včetně digitalizace zahájené Ivanem Bartošem) funguje, což dokládají data o růstu stavební produkce o 7,7 %. `[01:00]`",
+      "**Veronika Kovářová (Piráti)** — Označila proces tvorby novely za netransparentní „Roadshow“ vedenou nevolenou úřednicí Hanou Landovou. Kritizovala absenci mezirezortního připomínkového řízení a odsunutí digitalizace až na rok 2030. Jako architektka vyjádřila obavy z rozvrácení procesů a rizik spojených s legalizací černých staveb. `[04:03]`",
+      "**Černé stavby:** Piráti varují, že novela fakticky legalizuje černé stavby, protože pokud budou náklady na jejich odstranění „nepřiměřené“, nebudou muset být odstraněny. To podle nich povede k rezignaci na technické normy. `[06:03]`",
+      "**Střet zájmů:** Kritika směřovala na vládní koalici, jejíž někteří členové mají sami problémy s černými stavbami. `[08:01]`",
+      "**Personální politika:** Kritika Ministerstva pro místní rozvoj za odchod odborníků a zaměstnávání „trafikantů“ bez kvalifikace. `[12:02]`"
+    ],
+    "outcome": "Piráti se shodli na tom, že novela je destruktivním krokem, který neřeší krizi bydlení, ale vytváří chaos. Jako jediné správné řešení viděli stažení a kompletní přepracování návrhu. V závěru Zdeněk Hřib komentoval politickou situaci v koalici a vztah SPD k vládnímu angažmá, přičemž obvinil Tomia Okamuru z klamání voličů.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „paní ministryně Mrázová“ – pravděpodobně odkaz na ministryni pro místní rozvoj) a občasné syntaktické nesrovnalosti způsobené automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo pro místní rozvoj"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda vyškrtla ze zákona definici dostupného bydlení a bere obcím nástroje, kterými mohou řídit rozvoj svého území.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:27",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3066_highlight_00.jpg",
+      "context": "V rámci projednávání novely stavebního zákona skutečně došlo k vypuštění definice dostupného bydlení z původního návrhu. Zda toto opatření fakticky omezuje nástroje obcí pro územní rozvoj, je předmětem politické debaty o interpretaci kompetencí obcí v novém stavebním právu."
+    },
+    {
+      "text": "V květnu 2026 byla zahájena výstavba 3968 bytů, což je meziroční růst o 48,3 %, a tento růst teď vláda touto novelou zabrzdí.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/02:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3066_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Údaj o zahájení výstavby v květnu 2026 je fakticky nemožný, neboť se jedná o budoucí datum. Data o meziročním růstu výstavby bytů pravidelně zveřejňuje Český statistický úřad (ČSÚ), avšak tvrzení o přímé kauzalitě mezi novelou a budoucím zpomalením výstavby je spekulativní."
+    },
+    {
+      "text": "Místo aby se dokončila zahájená digitalizace, která patří k 21. století, naopak se odsunula na rok 2030.",
+      "type": "citation",
+      "speaker": "Veronika Kovářová",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3066_highlight_02.jpg",
+      "context": "Digitalizace stavebního řízení (tzv. Digitální stavební řízení – DSŘ) byla vládním projektem, který čelil technickým problémům. Termín 2030 se v kontextu digitalizace veřejné správy objevuje v souvislosti s cíli Digitálního Česka, nicméně konkrétní harmonogramy jednotlivých modulů se v čase měnily."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zdeněk Hřib (Piráti) obvinil vládní koalici, že novela je šitá na míru developerům a že někteří členové koalice (např. pan Turek, ministryně Mrázová) mají osobní zájem na legalizaci černých staveb, protože sami čelí problémům s nepovolenými stavbami.",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3066_controversy_00.jpg",
+      "context": "Tvrzení o osobních zájmech konkrétních politiků na legalizaci černých staveb je závažným politickým obviněním, které není podloženo žádným soudním rozhodnutím ani oficiálním vyšetřováním. Jedná se o subjektivní interpretaci motivací vládních představitelů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
