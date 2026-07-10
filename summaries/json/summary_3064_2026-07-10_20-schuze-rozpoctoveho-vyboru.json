@@ -1,0 +1,157 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-10T14:30:54",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3064",
+    "name": "20. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-07-10T07:31",
+    "end_date": "2026-07-10T08:45",
+    "sources": [
+      "final/event_3064_2026-07-10_20-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710073005.mp4",
+        "from_sec": 80
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710074005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710075005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710080005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710081005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710082005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710083005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/10/_20260710084005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 8,
+    "parts_total": 8,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání Rozpočtového výboru bylo primárně zaměřeno na projednání pozměňovacích návrhů k vládnímu návrhu zákona o evidenci tržeb (sněmovní tisk 189), známému jako EET2. Cílem bylo vypořádat se s velkým množstvím pozměňovacích návrhů a připravit podklady pro třetí čtení v Poslanecké sněmovně.\n\nKromě legislativní agendy se výbor věnoval administrativním záležitostem, jako je schvalování termínů budoucích schůzí, organizace odborných kulatých stolů a seminářů a nominace delegátů na mezinárodní setkání výborů V4.",
+    "main_points": [
+      "**Patrik Pařil (místopředseda výboru)** — Vedl jednání, řídil hlasovací proceduru a předkládal návrhy usnesení. `[1/04:01]`",
+      "**Stanislav Kouba (Ministerstvo financí)** — Poskytoval odborná stanoviska k pozměňovacím návrhům a vysvětloval legislativní aspekty EET. `[1/06:02]`",
+      "**Poslankyně Semihradská** — Navrhla doprovodné usnesení k evaluaci fungování EET2. `[1/07:03]`",
+      "**Milan Klempíř (Svaz průmyslu a dopravy ČR)** — Podpořil daňovou podporu zdravotních preventivních programů. `[2/04:02]`",
+      "**Poslanec Munzar** — Předložil řadu pozměňovacích návrhů k EET, které byly většinově zamítnuty. `[3/02:02]`",
+      "**Poslanec Havránek** — Předložil sérii návrhů na výjimky z EET pro specifické činnosti, které byly zamítnuty. `[5/02:06]`"
+    ],
+    "outcome": "Výbor po hlasování o 77 pozměňovacích návrzích přijal usnesení, kterým doporučil Poslanecké sněmovně návrh zákona (tisk 189) schválit v podobě, která v zásadě kopíruje vládní předlohu. Dále byly schváleny záměry konání kulatého stolu k alkoholu a semináře k penzijnímu připojištění. Byla zahájena nominace delegátů na setkání výborů V4 v Liptovském Mikuláši.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se fráze. Části záznamu byly srozumitelné, ale vyžadovaly rekonstrukci kontextu hlasování."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Pařil",
+        "person_id": "psp:person:7031",
+        "affiliation": "Rozpočtový výbor"
+      },
+      {
+        "name": "Stanislav Kouba",
+        "person_id": "psp:person:2427",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Semihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": null
+      },
+      {
+        "name": "Milan Klempíř",
+        "person_id": null,
+        "affiliation": "Svaz průmyslu a dopravy ČR"
+      },
+      {
+        "name": "Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": null
+      },
+      {
+        "name": "Havránek",
+        "person_id": "psp:person:4914",
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Rozpočtový výbor",
+      "Ministerstvo financí",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "EET2 vyvolalo velkou diskusi o tom, jaké byly rozpočtové dopady, proto navrhujeme, aby bylo zevrubně vyhodnoceno a podrobeno kompletní evaluaci.",
+      "type": "paraphrase",
+      "speaker": "Semihradská",
+      "affiliation": null,
+      "timestamp": "1/07:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3064_highlight_00.jpg",
+      "context": "Zákon o evidenci tržeb (EET) byl zrušen zákonem č. 458/2022 Sb. s účinností od 1. ledna 2023. Evaluace přínosů EET byla předmětem mnoha studií, přičemž Ministerstvo financí ČR i opoziční subjekty dlouhodobě prezentovaly odlišné odhady fiskálních dopadů."
+    },
+    {
+      "text": "Svaz průmyslu a dopravy podporuje již řadu let EET a považujeme ho za klíč k férovějšímu podnikatelskému prostředí a omezení šedé ekonomiky.",
+      "type": "citation",
+      "speaker": "Milan Klempíř",
+      "affiliation": "Svaz průmyslu a dopravy ČR",
+      "timestamp": "2/03:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3064_highlight_01.jpg",
+      "context": "Postoj Svazu průmyslu a dopravy ČR k EET se v čase vyvíjel; zatímco v počátcích byla podpora deklarována, v pozdějších fázích svaz zdůrazňoval především potřebu digitalizace a snižování administrativní zátěže podnikatelů."
+    },
+    {
+      "text": "V navržené hlasovací proceduře nás čeká až 77 hlasování o pozměňovacích návrzích a následně hlasování o návrhu zákona jako celku.",
+      "type": "citation",
+      "speaker": "Poslanec Hebr",
+      "affiliation": null,
+      "timestamp": "1/06:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3064_highlight_02.jpg",
+      "context": "Počet hlasování o pozměňovacích návrzích je dán jednacím řádem Poslanecké sněmovny (zákon č. 90/1995 Sb.) a závisí na množství podaných návrhů v rámci druhého čtení zákona. Údaj o 77 hlasováních je ověřitelný z oficiálního harmonogramu schůze."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Poslanec Havránek a poslanec Munzar.\n**Co:** Série návrhů na výjimky z EET pro desítky specifických činností (např. chov velbloudů, výroba kabelek).\n**Proč:** Návrhy byly vnímány jako absurdní a obstrukční, což vyvolalo kritiku za zdržování práce výboru.\n**Čas:** 5/03:02",
+      "speaker": "Havránek",
+      "affiliation": null,
+      "timestamp": "5/03:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3064_controversy_00.jpg",
+      "context": "Předkládání velkého množství pozměňovacích návrhů, včetně těch s marginálním či specifickým dopadem, je v parlamentní praxi často využíváno jako obstrukční technika k prodloužení jednání. Konkrétní obsah návrhů (chov velbloudů atd.) je doložitelný ze stenografických záznamů a sněmovních tisků daného období."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
