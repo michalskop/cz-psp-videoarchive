@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-13T19:05:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3069",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-13T15:31",
+    "end_date": "2026-07-13T15:52",
+    "sources": [
+      "final/event_3069_2026-07-13_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5493_video-psp-2026713-1531-29-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS byla svolána jako reakce na aktuální kroky vlády Andreje Babiše, zejména v oblasti zahraniční politiky a bezpečnosti po summitu NATO v Ankaře. Hlavním cílem bylo kritizovat konfrontační přístup premiéra Babiše vůči prezidentu Petru Pavlovi, zpochybnit vládní rétoriku ohledně pomoci Ukrajině a představit opoziční pohled na priority v oblasti obrany a legislativy.\n\nZástupci ODS (Martin Kupka, Jana Černochová, Jan Lipavský) se vymezili proti údajnému rozdělování společnosti a zneužívání zahraniční politiky pro účely předvolební kampaně. Zároveň vyzvali vládu ke konstruktivní spolupráci na klíčových bezpečnostních projektech.",
+    "main_points": [
+      "**Martin Kupka (ODS)** – Kritizoval Andreje Babiše za odmítnutí schůzky s prezidentem, což označil za porušení ústavy (článek 64). Obvinil premiéra z vedení „anti-kampaně“ proti prezidentu Pavlovi a z manipulace faktů ohledně průběhu summitu v Ankaře. Ocenil vládní posun v otázce modulárních reaktorů, vesmírného průmyslu a ukončení regulace cen pohonných hmot. `[1/00:00]`",
+      "**Jana Černochová (ODS)** – Vyzvala vládu k obnovení finanční pomoci v rámci muniční iniciativy pro Ukrajinu, což označila za „vstupenku“ na mezinárodní jednání. Kritizovala roční lhůtu pro přípravu krizové legislativy, přičemž uvedla, že její úřad již dříve připravil podklady, které stačí využít. Nabídla vládě expertní spolupráci opozice na těchto zákonech. `[1/08:09]`",
+      "**Jan Lipavský (ODS)** – Zdůraznil nutnost jednotného hlasu ČR v zahraniční politice. Navrhl omezit pohyb ruských diplomatů v rámci Schengenu (zrušení možnosti volného pohybu pro ruské diplomaty akreditované v jiných zemích EU). Varoval před eskalací bezpečnostní situace v regionu a vyzval k posílení národní obranyschopnosti. `[1/14:08]`"
+    ],
+    "outcome": "Formální výsledek jednání nebyl stanoven, neboť šlo o tiskovou konferenci opoziční strany. Dominujícím postojem ODS je požadavek na okamžité ukončení sporů mezi ústavními činiteli, obnovení aktivní podpory Ukrajiny (muniční iniciativa) a zapojení opozice do přípravy zásadní krizové legislativy. ODS deklarovala připravenost podpořit vládu v konkrétních krocích, pokud budou v souladu s národními zájmy a bezpečností.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (např. useknutá slova u projevů Jany Černochové v části `[1/04:02]` a `[1/10:03]`), které však nebrání pochopení hlavního sdělení."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jana Černochová",
+        "person_id": "psp:person:5903",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "NATO",
+      "Ministerstvo obrany",
+      "Ministerstvo vnitra"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Andrej Babiš odmítl jakoukoliv schůzku s prezidentem ohledně zahraniční politiky, čímž plive na ústavu České republiky.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3069_highlight_00.jpg",
+      "context": "Ústava ČR v čl. 63 odst. 1 písm. a) svěřuje prezidentovi zastupování státu navenek, ale neukládá opozičním politikům povinnost účastnit se konzultací. Tvrzení o 'plivání na ústavu' je politickou interpretací, nikoliv právním faktem."
+    },
+    {
+      "text": "Rozdíl mezi stavem ohrožení státu a válečným stavem byl na Ukrajině 8 hodin, u nás na to nejsme legislativně připraveni.",
+      "type": "paraphrase",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/10:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3069_highlight_01.jpg",
+      "context": "Legislativní proces vyhlášení stavu ohrožení státu nebo válečného stavu upravuje ústavní zákon č. 110/1998 Sb., o bezpečnosti ČR. Rychlost reakce závisí na procedurálních lhůtách v Parlamentu, které jsou v ČR nastaveny odlišně od ukrajinského právního řádu."
+    },
+    {
+      "text": "Rusko nás v jednom z propagandistických plátků posunulo z desáté na pátou příčku nejnespřátelenějších zemí.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/15:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3069_highlight_02.jpg",
+      "context": "Ruská vláda v roce 2021 vydala seznam 'nepřátelských zemí', který je pravidelně aktualizován. ČR byla na tento seznam zařazena v květnu 2021 po diplomatické roztržce v kauze Vrbětice; konkrétní pořadí v propagandistických médiích není oficiálním diplomatickým dokumentem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Omezení pohybu ruských diplomatů**\n*   **Kdo:** Jan Lipavský (ODS)\n*   **Co:** Navrhuje omezit pohyb ruských diplomatů akreditovaných v jiných zemích EU (např. Berlín, Vídeň) na území ČR a zrušit jejich možnost volného pohybu v rámci Schengenu.\n*   **Proč:** Je to politicky citlivé, neboť jde o zásah do diplomatických protokolů a vízových režimů, což může vést k recipročním odvetným krokům Ruska vůči českým diplomatům.\n*   **Čas:** `1/16:05`",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/16:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3069_controversy_00.jpg",
+      "context": "Návrh na omezení pohybu ruských diplomatů v rámci schengenského prostoru je předmětem debat na úrovni EU. Změna pravidel by vyžadovala shodu členských států, neboť jde o zásah do fungování Schengenské dohody a Vídeňské úmluvy o diplomatických stycích."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
