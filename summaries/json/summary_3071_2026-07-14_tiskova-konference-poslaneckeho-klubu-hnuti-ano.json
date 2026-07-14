@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-14T14:08:59",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3071",
+    "name": "Tisková konference poslaneckého klubu hnutí ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-14T08:20",
+    "end_date": "2026-07-14T08:36",
+    "sources": [
+      "final/event_3071_2026-07-14_tiskova-konference-poslaneckeho-klubu-hnuti-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5495_video-psp-2026714-820-8-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí ANO se konala dne 14. července 2026 s cílem informovat o prioritách klubu před nadcházejícími poslaneckými prázdninami. Hlavním tématem byla legislativní agenda pro aktuální týden, zejména projednávání novely zákona o pozemních komunikacích (dálniční známky), znovuzavedení evidence tržeb (EET 2.0) a zrušení tzv. nominačního zákona.\n\nCílem vystoupení bylo prezentovat politiku hnutí ANO jako odpovědnou a zaměřenou na ochranu poctivých podnikatelů a podporu rodin, přičemž řečníci zdůrazňovali plnění volebního programu a kritizovali kroky předchozí vlády. Součástí konference byl i prostor pro dotazy novinářů týkající se aktuálního dění, včetně vyšetřování dotací pro Agrofert.",
+    "main_points": [
+      "**Taťána Malá (ANO)** — Představila novelu zákona o pozemních komunikacích, která ruší automatickou valorizaci cen dálničních známek. Cena zůstane na 2 570 Kč. Dále zmínila záměr znovu zavést kriminalizaci neplacení výživného a zrušení nominačního zákona. `[1/00:20]`",
+      "**Alena Schillerová (ANO)** — Prioritou je středeční třetí čtení vládního návrhu EET 2.0. Systém má být jednodušší, evidovat pouze kontaktní platby a nevyžadovat povinný tisk účtenek. Součástí jsou opatření pro gastronomii (snížení DPH na nealko nápoje na 12 %, osvobození spropitného od daní do 7 % tržeb). Zmínila také novely zákonů o podnikání na kapitálovém trhu a mechanismu uhlíkového vyrovnání na hranicích (CBAN). `[1/02:40]`",
+      "**Zuzka Ožanová (ANO)** — Představila poslanecký návrh na zrušení nominačního zákona. Argumentovala, že výbor pro personální nominace je pouze poradním orgánem bez exekutivních pravomocí, jehož závěry nejsou pro ministerstva závazné, a že obdobná úprava neexistuje ani na úrovni krajů či obcí. `[1/08:04]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale tiskovou konferencí. Dominujícím postojem hnutí ANO je snaha o rychlé schválení EET 2.0 ve třetím čtení ve středu 15. července 2026. Hnutí ANO vyjádřilo ambici projednat všechny předložené tisky v prvním a druhém čtení ještě před prázdninami.",
+    "notes": "Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika, opakující se fráze), nicméně obsah je srozumitelný a nevykazuje zásadní výpadky v informacích."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Taťána Malá",
+        "person_id": "psp:person:6468",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Zuzka Ožanová",
+        "person_id": "psp:person:6474",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo financí",
+      "Agrofert"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Udržíme cenu dálničních známek na stávající úrovni, což je 2 570 Kč, a to novelou zákona o pozemních komunikacích, kde rušíme automatický valorizační mechanismus.",
+      "type": "citation",
+      "speaker": "Taťána Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/00:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3071_highlight_00.jpg",
+      "context": "Cena roční dálniční známky byla od 1. března 2024 skutečně stanovena na 2 300 Kč (původní návrh na 2 570 Kč nebyl realizován). Automatický valorizační mechanismus vázaný na inflaci je součástí zákona č. 13/1997 Sb., o pozemních komunikacích, a jeho případné zrušení vyžaduje legislativní změnu."
+    },
+    {
+      "text": "Evidovat se budou pouze kontaktní platby. Systém bude pracovat jen s minimálním rozsahem nezbytných údajů a nezavádí se povinný tisk účtenek.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/04:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3071_highlight_01.jpg",
+      "context": "Tvrzení se vztahuje k technickým parametrům systému EET (Elektronická evidence tržeb), který byl v roce 2023 zrušen zákonem č. 458/2022 Sb. V současnosti neexistuje zákonná povinnost evidence plateb v tomto rozsahu."
+    },
+    {
+      "text": "Navrhujeme snížení DPH na nealkoholické nápoje podávané ve stravovacích službách na 12 % a osvobození dobrovolného spropitného od daní a odvodu pro zaměstnance v gastronomii až do výše 7 % tržeb.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/05:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3071_highlight_02.jpg",
+      "context": "Sazby DPH jsou definovány zákonem č. 235/2004 Sb., o dani z přidané hodnoty. Návrh na osvobození spropitného od daní a odvodů je politickým návrhem opozice, který v současné legislativě nemá oporu; spropitné je standardně považováno za součást příjmů podléhajících zdanění."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Alena Schillerová (ANO)\n**Co:** Vyjádření k zahájení prověřování dotací pro Agrofert evropskými žalobci.\n**Proč:** Jde o politicky citlivé téma střetu zájmů premiéra Andreje Babiše, které je předmětem dlouhodobých sporů mezi hnutím ANO a opozicí (zejména Piráty).\n**Čas:** 1/14:02",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/14:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3071_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Výrok není v zadání explicitně citován, pouze popsán jako téma; vyjádření k dotacím Agrofertu a střetu zájmů jsou předmětem dlouhodobých právních sporů mezi českými orgány a Evropskou komisí (včetně auditních zpráv EK)."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

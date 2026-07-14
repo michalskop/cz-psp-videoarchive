@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-14T14:08:41",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3072",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-14",
+    "sources": [
+      "final/event_3072_2026-07-14_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5496_video-psp-2026714-838-33-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD se zaměřila na prezentaci aktuálních legislativních priorit vládní koalice v Poslanecké sněmovně a na vyjádření k vybraným politickým tématům. Hlavním cílem bylo informovat veřejnost o návrzích na zastropování cen dálničních známek, schválení nového stavebního zákona a zvýšení rodičovského příspěvku.\n\nKromě legislativních bodů se zástupci hnutí vyjádřili k evropské legislativě (Chat Control), zahraniční cestě předsedy hnutí do Číny a k incidentu s ukrajinským řidičem na dálnici. Konference rovněž sloužila jako prostor pro zodpovězení dotazů médií ohledně vyšetřování dotací pro Agrofert.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Předložení návrhu na zastropování cen dálničních známek od ledna příštího roku. Oznámil schválení nového stavebního zákona a zvýšení rodičovského příspěvku na 400 000 Kč. Kritizoval Chat Control a oznámil cestu do Číny s delegací 40 firem. `[1/00:45]`",
+      "**Jan Hrnčíř (SPD)** — Prosadil, že evidence tržeb (EET) nebude plošná; pro živnostníky s příjmy do 1 milionu Kč bude dobrovolná. `[1/04:45]`",
+      "**Libor Vondráček (SPD)** — Navrhuje návrat k trestnímu zákoníku, kde by neplacení výživného bylo trestným činem bez ohledu na hmotnou nouzi dítěte. `[1/05:45]`"
+    ],
+    "outcome": "Jednání Poslanecké sněmovny pokračuje projednáváním zastropování cen dálničních známek a následně mimořádnou schůzí. Hnutí SPD neplánuje noční jednání a očekává, že třetí čtení zákona o evidenci tržeb proběhne následující den.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Hrnčíř",
+        "person_id": "psp:person:6455",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "KDU-ČSL",
+      "STAN",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropský parlament",
+      "Národní muzeum",
+      "CzechTourism"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Od ledna příštího roku se již cena dálniční známky nebude zdražovat.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/01:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3072_highlight_00.jpg",
+      "context": "Cena dálniční známky pro rok 2025 byla stanovena vládním nařízením a nedochází k jejímu plošnému navyšování oproti roku 2024. Vláda však zavedla mechanismus automatické valorizace cen dálničních známek v závislosti na vývoji inflace a stavu dálniční sítě pro budoucí období."
+    },
+    {
+      "text": "Prosadili jsme, že povinnost EET nebude plošná, drobní živnostníci s příjmy do jednoho milionu korun budou mít tuto povinnost dobrovolnou.",
+      "type": "paraphrase",
+      "speaker": "Jan Hrnčíř",
+      "affiliation": "SPD",
+      "timestamp": "1/04:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3072_highlight_01.jpg",
+      "context": "Systém EET byl v České republice fakticky zrušen zákonem č. 458/2022 Sb., s účinností od 1. ledna 2023. Tvrzení o „dobrovolnosti“ pro živnostníky do jednoho milionu korun neodpovídá současnému stavu, kdy je evidence tržeb jako celek neaktivní."
+    },
+    {
+      "text": "Podařilo se nám ve sněmovně prosadit zákon na výrazné zvýšení rodičovského příspěvku z dosavadních 350 000 Kč na 400 000 Kč od příštího roku.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/03:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3072_highlight_02.jpg",
+      "context": "Zvýšení rodičovského příspěvku na 400 000 Kč (pro děti narozené od 1. ledna 2024) bylo součástí vládního konsolidačního balíčku (zákon č. 349/2023 Sb.). Návrh byl předložen vládou, nikoliv opozičním hnutím SPD."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika případu ukrajinského řidiče, který za jízdy vylezl ze střešního okna. Tomio Okamura požaduje, aby policie případ překvalifikovala na trestný čin a iniciuje deportaci dotyčného, protože podle něj nebyl uplatněn stejný metr jako u českých občanů.",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/16:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3072_controversy_00.jpg",
+      "context": "Kvalifikace skutku jako přestupek nebo trestný čin je v pravomoci Policie ČR a státního zastupitelství na základě zákonných norem. Deportace (správní vyhoštění) je proces, který se řídí zákonem o pobytu cizinců a rozhoduje o něm Ministerstvo vnitra, nikoliv zákonodárci; tvrzení o neuplatnění stejného metru je politickým názorem, nikoliv ověřitelným faktem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

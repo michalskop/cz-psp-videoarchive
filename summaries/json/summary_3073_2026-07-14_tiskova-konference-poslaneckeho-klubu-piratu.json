@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-14T14:08:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3073",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-14T09:01",
+    "end_date": "2026-07-14T09:14",
+    "sources": [
+      "final/event_3073_2026-07-14_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5497_video-psp-2026714-91-32-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference České pirátské strany se zaměřila na kritiku vládní rozpočtové politiky, energetické strategie a kauzu střetu zájmů premiéra Andreje Babiše. Piráti vyjádřili nesouhlas s vládními kroky v oblasti veřejných financí, které označili za „rozklad“, a kritizovali neefektivitu zavedení EET či plošných dotací v energetice.\n\nDalším klíčovým tématem bylo představení projektu „Mladá vláda“, platformy mladých pirátských politiků, která má sloužit jako stínový orgán pro řešení problémů mladé generace, zejména v oblasti dostupnosti bydlení a vzdělávání.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládní rozpočtovou politiku a označil EET za neefektivní nástroj pro naplnění rozpočtu. Upozornil na rostoucí schodek státního rozpočtu (letos 310 mld., odhad na příští rok 350 mld. Kč) a varoval před „rozpočtovým freestylem“. V energetice kritizoval plošné dotace na naftu místo investic do energetické bezpečnosti a soběstačnosti. `[1/02:09]`",
+      "**Martin Šmída (Piráti)** — Informoval o doplnění trestního oznámení ve věci střetu zájmů Andreje Babiše. Uvedl, že v kauze jde o 16 mld. Kč u veřejných zakázek a 7,5 mld. Kč u dotací. Tyto prostředky by podle něj mohly financovat výstavbu 11 700 dostupných bytů, které jsou připraveny, ale chybí na ně prostředky. `[1/06:06]`",
+      "**Kateřina Stojanová (Piráti)** — Oznámila účast na setkání s prezidentem republiky a představila projekt „Mladá vláda“. Cílem této platformy je aktivní zapojení mladé generace do veřejné debaty a tvorba konkrétních řešení pro problémy mladých lidí, jako jsou bydlení, bezpečnost a digitalizace. `[1/08:06]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv rozhodovacím orgánem. Piráti deklarovali svůj záměr vystupovat v Poslanecké sněmovně proti vládním návrhům, které považují za škodlivé (např. zmrazení valorizace dálničních známek), a pokračovat v tlaku na vyšetření kauz spojených se střetem zájmů premiéra.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a fragmenty vět, které byly v rámci shrnutí interpretovány na základě kontextu. Části textu jsou nesrozumitelné (např. „Představující se na návštěvání“), tyto pasáže byly pro účely shrnutí ignorovány ve prospěch srozumitelného obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Martin Šmída",
+        "person_id": "psp:person:7065",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Vrchní státní zastupitelství v Praze"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda tady žongluje s jakýmisi miliardovými výnosy z EET, ale čistý výnos bude výrazně nižší, než prezentují.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3073_highlight_00.jpg",
+      "context": "Výnosy z EET byly předmětem dlouhodobých sporů mezi MF ČR a opozicí. Zatímco MF ČR uvádělo hrubý přínos, kritici poukazovali na vysoké provozní náklady systému a administrativní zátěž, což reálný čistý přínos do státního rozpočtu snižovalo."
+    },
+    {
+      "text": "Jen u veřejných zakázek jde o 16 miliard korun a u národních a evropských dotací o dalších 7,5 miliardy, za které by bylo možné vybudovat 11 700 dostupných bytů.",
+      "type": "paraphrase",
+      "speaker": "Martin Šmída",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3073_highlight_01.jpg",
+      "context": "Výpočet vychází z odhadů nákladů na výstavbu dostupného bydlení, které se mohou lišit podle lokality a standardu. Konkrétní částky 16 a 7,5 miliardy korun jsou politickou interpretací nevyužitých prostředků či neefektivit, nikoliv oficiálním rozpočtovým údajem o úsporách."
+    },
+    {
+      "text": "Mladá vláda bude fungovat jako taková stínová vláda právě mladé pirátské generace, která chce politiku aktivně utvářet.",
+      "type": "citation",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3073_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o politickou deklaraci záměru a vizi fungování vnitrostranické struktury, nikoliv o faktické tvrzení podléhající verifikaci."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Šmída (Piráti)\n**Co:** Obvinění premiéra Andreje Babiše ze střetu zájmů a zneužívání dotací v celkové výši 23,5 miliardy korun.\n**Proč:** Jde o politicky vysoce citlivé téma, které přímo napadá integritu předsedy vlády a jeho podnikatelských aktivit (Agrofert).\n**Čas:** 1/06:06",
+      "speaker": "Martin Šmída",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3073_controversy_00.jpg",
+      "context": "Téma střetu zájmů Andreje Babiše bylo předmětem auditů Evropské komise, které potvrdily střet zájmů v souvislosti s koncernem Agrofert. Částka 23,5 miliardy korun odpovídá součtu dotací, které byly v daném období předmětem politické debaty o jejich oprávněnosti, nikoliv nutně pravomocně prokázanou škodou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

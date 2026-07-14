@@ -1,0 +1,123 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-14T14:07:35",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3075",
+    "name": "Tisková konference poslaneckého klubu Starostové a nezávislí",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-14T09:39",
+    "end_date": "2026-07-14T09:59",
+    "sources": [
+      "final/event_3075_2026-07-14_tiskova-konference-poslaneckeho-klubu-starostove-a.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5500_video-psp-2026714-939-22-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny za účelem prezentace kritického postoje hnutí STAN k vládním návrhům v oblasti dopravní infrastruktury a daňové politiky. Hlavními tématy byly vládní návrh na zmrazení cen dálničních známek a projednávaný zákon o elektronické evidenci tržeb (EET).\n\nCílem vystoupení bylo upozornit na podle řečníků populistickou povahu těchto kroků, které podle nich vedou k prohlubování deficitu státního rozpočtu, ohrožují financování dopravní infrastruktury a představují nekoncepční zásahy do daňového systému.",
+    "main_points": [
+      "**Jan Sviták (STAN)** — Kritizoval vládní návrh na zmrazení cen dálničních známek na 2 570 Kč jako „krátkozraký populismus“. Uvedl, že zrušení valorizačního mechanismu připraví Státní fond dopravní infrastruktury (SFDI) o 1,2 miliardy Kč během dvou let. `[1/00:50]`",
+      "**Věra Kovářová (STAN)** — Označila vládní politiku za „rozpočtový podfuk“ a hazard. Upozornila na kumulativní výpadky příjmů v celkové výši přes 34 miliard Kč. Navrhla zakotvení rozpočtové odpovědnosti přímo do Ústavy ČR. `[1/06:09]`",
+      "**Jan Papajanovský (STAN)** — Vyjádřil se k návrhu zákona o EET. Kritizoval Alenu Schillerovou za „ekonomický analfabetismus“ a nekoncepční výjimky. Uvedl, že přínos EET bude 8 mld. Kč, ale doprovodné úlevy odčerpají 6,5 mld. Kč. `[1/11:04]`",
+      "**Lucie Sedmihradská (STAN)** — Představila návrh na zavedení 100% okamžitých odpisů na stroje a zařízení s rozpočtovou neutralitou skrze zvýšení sazby daně na 22,5 %. Navrhla zrušení slevy na nepracující manželku ve prospěch slevy na dítě do 3 let. `[1/16:06]`"
+    ],
+    "outcome": "Hnutí STAN deklarovalo, že vládní návrhy na zmrazení cen dálničních známek a nekoncepční daňové úlevy v rámci EET nepodpoří. Dominujícím postojem je požadavek na rozpočtovou odpovědnost, předvídatelnost financování dopravní infrastruktury a zjednodušení daňového systému namísto zavádění populistických výjimek.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (např. v čase 1/14:05 a 1/10:04), kde dochází k výpadkům textu nebo opakování nesmyslných frází."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Sviták",
+        "person_id": "psp:person:7050",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Státní fond dopravní infrastruktury"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda tímto samozřejmě líbivým gestem doslova vysekne do rozpočtu státního fondu dopravní infrastruktury sekeru přes 1,2 miliardy korun během pouhých dvou let.",
+      "type": "paraphrase",
+      "speaker": "Jan Sviták",
+      "affiliation": "STAN",
+      "timestamp": "1/01:14",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3075_highlight_00.jpg",
+      "context": "Výrok se týká dopadů konkrétního legislativního návrhu na Státní fond dopravní infrastruktury (SFDI). Částka 1,2 miliardy korun je odhadem rozpočtového dopadu, který lze ověřit v důvodové zprávě k danému tisku nebo v analýzách rozpočtového výboru Poslanecké sněmovny."
+    },
+    {
+      "text": "Celkem na příjmech máme výpadek více než 34 miliard korun.",
+      "type": "citation",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/10:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3075_highlight_01.jpg",
+      "context": "Tvrzení o výpadku 34 miliard korun na příjmech je nutné zasadit do kontextu konkrétního daňového či rozpočtového opatření. Údaj lze ověřit v predikcích příjmů státního rozpočtu zveřejňovaných Ministerstvem financí ČR v rámci fiskálních výhledů."
+    },
+    {
+      "text": "Navrhujeme zavedení okamžitých odpisů na stroje a zařízení, které by firmám umožnily uplatnit 100% odpisy investic již v prvních 12 měsících.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/16:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3075_highlight_02.jpg",
+      "context": "Zavedení okamžitých odpisů je standardním nástrojem daňové politiky pro podporu investic. Návrh je ověřitelný jako legislativní záměr, jehož ekonomický dopad na daňové inkaso by muselo vyčíslit Ministerstvo financí v rámci hodnocení dopadů regulace (RIA)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Věra Kovářová (STAN) navrhla zakotvení rozpočtové odpovědnosti do Ústavy ČR. Jde o zásadní ústavní změnu, která by omezila suverenitu budoucích vlád v hospodářské politice.",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/10:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3075_controversy_00.jpg",
+      "context": "Návrh na ústavní zakotvení rozpočtové odpovědnosti (tzv. dluhová brzda) je dlouhodobým politickým tématem. Ústavní zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, již existuje, nicméně debata o jeho přenesení přímo do Ústavy ČR je předmětem politické diskuse o míře omezení exekutivy."
+    },
+    {
+      "statement": "Jan Papajanovský (STAN) označil přípravu tisku k EET ze strany Aleny Schillerové za „absolutní ekonomický analfabetismus“.",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/12:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3075_controversy_01.jpg",
+      "context": "Jde o subjektivní politické hodnocení kvality legislativního procesu. Nelze nezávisle ověřit; kvalita přípravy tisku je věcí politického názoru a odborné interpretace ekonomických dat."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

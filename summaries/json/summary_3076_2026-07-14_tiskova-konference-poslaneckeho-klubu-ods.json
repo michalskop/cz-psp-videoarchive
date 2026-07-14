@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-14T14:07:15",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3076",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-14T10:01",
+    "end_date": "2026-07-14T10:17",
+    "sources": [
+      "final/event_3076_2026-07-14_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5501_video-psp-2026714-101-53-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tato tisková konference poslaneckého klubu ODS se konala 14. července 2026 a jejím hlavním cílem bylo představit postoje strany k aktuálním vládním návrhům projednávaným v Poslanecké sněmovně a kriticky zhodnotit kroky premiéra Andreje Babiše. Představitelé ODS se zaměřili na témata dálničních známek, elektronické evidence tržeb (EET), lidskoprávní agendy a kauz spojených s premiérem.",
+    "main_points": [
+      "**Martin Kubka (předseda ODS)** — Kritizoval Andreje Babiše za „antiprezidentskou kampaň“, kterou má zakrývat neúspěchy v mezinárodní politice. Odmítl vládní zmrazení cen dálničních známek jako populistický krok. `[1/01:00]`",
+      "**Eva de Croix (místopředsedkyně poslaneckého klubu ODS)** — Zaměřila se na kritiku vlády za ignorování lidskoprávní agendy a neúčast vládních představitelů na veřejných slyšeních v Senátu. `[1/04:10]`",
+      "**Vojtěch Munzar (předseda rozpočtového výboru)** — Kritizoval EET jako nástroj posedlosti kontrolou a zvyšování moci státu. Upozornil na rizika zneužití dat o spotřebitelském chování. `[1/06:08]`",
+      "**Jakub Stárek (stínový ministr dopravy)** — Označil zastropování cen dálničních známek za populistické, přičemž uvedl, že státní fond dopravní infrastruktury přijde v roce 2028 až o 800 milionů korun. `[1/10:02]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opoziční strategie. ODS deklarovala, že bude v Poslanecké sněmovně prosazovat pozměňovací návrhy k EET a nadále kritizovat vládní rozpočtovou politiku. V otázce kandidatury Filipa Dvořáka (Praha 1) vedení strany potvrdilo, že očekává jeho odstoupení z kandidátky kvůli nejasnostem kolem jeho osoby.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nedokonalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kubka",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Eva de Croix",
+        "person_id": "psp:person:6727",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jakub Stárek",
+        "person_id": null,
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Státní fond dopravní infrastruktury"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ten, kdo tady spustil skutečnou antiprezidentskou kampaň, je právě Andrej Babiš, aby zakryl svoje fatální neúspěchy v mezinárodní politice.",
+      "type": "paraphrase",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3076_highlight_00.jpg",
+      "context": "Tvrzení o 'antiprezidentské kampani' je subjektivním politickým hodnocením rétoriky Andreje Babiše. Hodnocení úspěchů v mezinárodní politice je věcí politické interpretace a nelze jej objektivně verifikovat jako fakt."
+    },
+    {
+      "text": "Tato vláda nemá čas na lidi, protože jinak si to nelze vysvětlit, když vládní představitelé nechodí na veřejná slyšení v Senátu.",
+      "type": "paraphrase",
+      "speaker": "Eva de Croix",
+      "affiliation": "ODS",
+      "timestamp": "1/05:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3076_highlight_01.jpg",
+      "context": "Účast členů vlády na slyšeních v Senátu není zákonem striktně vynutitelná, ačkoliv je součástí politické kultury. Zda je neúčast důkazem, že vláda 'nemá čas na lidi', je subjektivní politický názor, nikoliv ověřitelný fakt."
+    },
+    {
+      "text": "Pro příští rok přijde státní fond dopravní infrastruktury o možná více než půl miliardy korun a pro rok 2028 to může znamenat až 800 milionů korun.",
+      "type": "citation",
+      "speaker": "Jakub Stárek",
+      "affiliation": "ODS",
+      "timestamp": "1/10:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3076_highlight_02.jpg",
+      "context": "Výdaje Státního fondu dopravní infrastruktury (SFDI) jsou závislé na schváleném státním rozpočtu a víceletém finančním rámci. Konkrétní dopady na rozpočet fondu v letech 2025–2028 jsou předmětem rozpočtových odhadů a závisí na budoucích legislativních úpravách a rozhodnutích vlády."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "ODS požaduje, aby Filip Dvořák odstoupil z kandidátky ODS v Praze 1 kvůli pochybnostem, které nedokázal rozptýlit. Je to politicky citlivé téma před volbami, kde strana musí dbát na svou integritu.",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/12:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3076_controversy_00.jpg",
+      "context": "Jedná se o vnitřní personální rozhodnutí politické strany, které je doložitelné skrze tisková prohlášení či zápisy z jednání orgánů ODS. Zda jsou pochybnosti 'dostatečně rozptýleny', je subjektivní politické hodnocení vedení strany."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

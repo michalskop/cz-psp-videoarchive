@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-14T14:06:57",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3077",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-14T10:20",
+    "end_date": "2026-07-14T10:44",
+    "sources": [
+      "final/event_3077_2026-07-14_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5502_video-psp-2026714-1020-46-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se zaměřila na kritiku vládní politiky, konkrétně na oblast financování veřejnoprávních médií, problematiku školkovného a zmrazení cen dálničních známek. Zástupci strany prezentovali své postoje k aktuálním vládním návrhům, které označili za populistické a chaotické.\n\nKromě věcné kritiky vládních kroků se konference věnovala i vnitřní situaci KDU-ČSL a její strategii v opozici. Vedení strany reagovalo na dotazy ohledně nízkých preferencí a představilo plány na nadcházející komunální a senátní volby, přičemž zdůraznilo potřebu dlouhodobé práce a přípravy hospodářské vize pro příští rok.",
+    "main_points": [
+      "**František Talíř (KDU-ČSL)** — Ocenil, že vládní novela zákona o financování médií nebyla zařazena do prvního čtení. Upozornil, že vládní odklad vyvolává nejistotu ohledně rozpočtů a ohrožuje regionální studia. `[1/01:15]`",
+      "**Marian Jurečka (KDU-ČSL)** — Kritizoval vládní návrh školkovného, který není určen pro všechny rodiče, protože jako sleva na dani nepomůže nízkopříjmovým rodinám. `[1/02:11]`",
+      "**Marian Jurečka (KDU-ČSL)** — Označil zmrazení cen dálničních známek za populismus, který vytvoří deficit ve fondu dopravní infrastruktury a zatíží daňové poplatníky. `[1/04:05]`",
+      "**Marian Jurečka (KDU-ČSL)** — Prioritou strany jsou nadcházející komunální a senátní volby a obhajoba mandátů. `[1/08:06]`",
+      "**Vnitřní růst strany** — František Talíř uvedl, že za poslední tři měsíce evidují 160 nových zájemců o vstup do strany. `[1/12:01]`"
+    ],
+    "outcome": "Jednání nemělo charakter formálního hlasování, šlo o prezentaci postojů KDU-ČSL. Konsenzem vedení strany je pokračovat v opoziční kritice vlády, soustředit se na nadcházející volby a na přelomu července a srpna představit podrobnější „kvartální vysvědčení“ a strategii strany.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány. Části textu týkající se dotazů novinářů jsou místy nesrozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Agrofert"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Školkovné v podání této vládní koalice nebude pro všechny rodiče, nedosáhnou na něj především rodiče s nízkými příjmy.",
+      "type": "paraphrase",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/03:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3077_highlight_00.jpg",
+      "context": "Školkovné (sleva na dani za umístění dítěte) je v ČR legislativně upraveno v zákoně o daních z příjmů. Nárok na slevu mají všichni poplatníci, ale jelikož jde o slevu na dani, nemohou ji v plné výši využít osoby s tak nízkými příjmy, jejichž daňová povinnost je nulová nebo nižší než výše slevy."
+    },
+    {
+      "text": "Zmrazení cen dálničních známek je krystalická ukázka populismu, která v budoucnu způsobí výpadek půl miliardy korun ve fondu dopravy.",
+      "type": "paraphrase",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/04:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3077_highlight_01.jpg",
+      "context": "Státní fond dopravní infrastruktury (SFDI) skutečně hospodaří s omezenými prostředky a výpadek příjmů z dálničních známek musí být kompenzován z jiných zdrojů. Odhad výpadku ve výši 500 milionů korun odpovídá predikcím vycházejícím z aktuálního počtu prodaných známek a plánovaného zvýšení cen, které bylo zrušeno."
+    },
+    {
+      "text": "Za poslední tři měsíce máme 160 lidí, kteří se zajímají o vstup do naší strany, což je víc než za celý předchozí rok.",
+      "type": "paraphrase",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/12:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3077_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Interní statistiky o počtu zájemců o členství v politické straně nejsou veřejně dostupnými údaji a podléhají evidenci daného politického subjektu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Návrh:** Zmrazení cen dálničních známek.\n**Kdo:** Marian Jurečka (KDU-ČSL).\n**Co:** Označil vládní krok za „krystalický populismus“ a varoval před budoucím zadlužením státu.\n**Proč:** Jde o politicky citlivé téma, protože vláda se snaží ulevit občanům, zatímco opozice argumentuje dlouhodobou neudržitelností rozpočtu fondu dopravní infrastruktury.",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/04:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3077_controversy_00.jpg",
+      "context": "Označení za „populismus“ je subjektivní politické hodnocení. Fakticky je však pravdou, že zmrazení cen dálničních známek snižuje očekávané příjmy SFDI, což vyžaduje buď úspory v investicích do dopravní infrastruktury, nebo navýšení dotací ze státního rozpočtu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
