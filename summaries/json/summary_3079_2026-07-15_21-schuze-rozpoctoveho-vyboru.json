@@ -1,0 +1,119 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-15T14:28:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3079",
+    "name": "21. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-15",
+    "sources": [
+      "final/event_3079_2026-07-15_21-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/15/_20260715083003.mp4",
+        "from_sec": 137
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/15/_20260715084003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/07/15/_20260715085003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 3,
+    "parts_total": 3,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 21. schůze Rozpočtového výboru, které proběhlo 15. července 2026, se zaměřilo na administrativní a organizační záležitosti výboru. Hlavním cílem bylo schválení delegací na meziparlamentní setkání (Slovensko, Dublin, Brusel) a stanovení harmonogramu projednávání legislativních tisků a zpráv v nadcházejícím období, včetně přípravy na státní rozpočet.",
+    "main_points": [
+      "**Patrik Pařil (Předseda výboru)** — Řídil jednání, navrhl ověřovatele (Jan Papajanovský a Jan Hrnčíř), předložil návrhy na složení delegací a harmonogram schůzí. [1/02:20]",
+      "**Delegace na Slovensko (V4)** — Schválena delegace ve složení: Vladimír Pikora, Jana Murová, Jan Papajanovský, Věra Kovářová (náhradníci Hrnčíř, Samaš). Termín: 13.–14. září 2026. [1/06:06]",
+      "**Delegace do Dublinu a Bruselu** — Schválena delegace do Dublinu (24.–25. září 2026): Munzar, Papajanovský, Hebr, Pikora. Na zasedání do Bruselu (12. října 2026) byla nominována poslankyně Sedmihradská. [2/02:14]",
+      "**Harmonogram 22. schůze** — Stanoveno na 2. září 2026 od 9:00. Program bude zahrnovat projednávání zákonů z prvního čtení, zprávu o dohledu nad finančním trhem, zprávu o činnosti Národní rozvojové banky a fiskálně-strukturální plán ČR. [2/04:02]",
+      "**Věra Kovářová (STAN)** — Podpořila návrh na projednávání tisků, zdůraznila potřebu zachovat standardní proces otevírání tisků a stanovování lhůt pro pozměňovací návrhy. [3/00:00]"
+    ],
+    "outcome": "Výbor schválil všechny navržené delegace na zahraniční cesty. Byl odsouhlasen harmonogram 22. schůze na 2. září 2026. Pro legislativní tisky projednávané 2. září byla stanovena doporučená lhůta pro podávání pozměňovacích návrhů do 28. srpna 2026, s možností individuálního prodloužení u problematických tisků (např. DPH).",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky slov (např. useknuté věty v úvodu). Části záznamu o rybolovné technice a neformální poznámky byly v přepisu zachovány, ale nemají vliv na věcný obsah jednání."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Pařil",
+        "person_id": "psp:person:7031",
+        "affiliation": "Rozpočtový výbor"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Rozpočtový výbor",
+      "Poslanecká sněmovna",
+      "Národní rozvojová banka"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Schvaluje delegaci Rozpočtového výboru Poslanecké sněmovny ve složení Vladimír Pikora, Jana Murová, Jan Papajanovský, Věra Kovářová na setkání členů výboru parlamentů zemí V4.",
+      "type": "citation",
+      "speaker": "Patrik Pařil",
+      "affiliation": "Rozpočtový výbor",
+      "timestamp": "1/06:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3079_highlight_00.jpg",
+      "context": "Jedná se o procedurální návrh na vyslání delegace. Složení delegace a její schválení je v kompetenci orgánů Poslanecké sněmovny v souladu s Jednacím řádem (zákon č. 90/1995 Sb.)."
+    },
+    {
+      "text": "Od 9. do 12. hodiny by byly bloky zákonů, které souvisí s rozpočtovým výborem, které byly přijaty včera Poslaneckou sněmovnou.",
+      "type": "paraphrase",
+      "speaker": "Patrik Pařil",
+      "affiliation": "Rozpočtový výbor",
+      "timestamp": "2/05:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3079_highlight_01.jpg",
+      "context": "Harmonogram jednání je věcí vnitřní organizace práce výboru. Zda byly dané zákony skutečně přijaty plénem Poslanecké sněmovny v předchozím dni, lze ověřit v archivu hlasování na webu psp.cz."
+    },
+    {
+      "text": "Lhůta pro pozměňovací návrhy je vždy doporučená, není to vylučující lhůta.",
+      "type": "citation",
+      "speaker": "Patrik Pařil",
+      "affiliation": "Rozpočtový výbor",
+      "timestamp": "3/02:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3079_highlight_02.jpg",
+      "context": "Dle Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.) jsou lhůty pro podávání pozměňovacích návrhů závazné pro řádný legislativní proces. Pokud výbor nebo sněmovna lhůtu nestanoví jako prekluzivní, může být v praxi vnímána jako doporučená, avšak její nedodržení může zkomplikovat další projednávání."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o projednávání zákona o DPH. \n- **Kdo:** Jan Papajanovský a Věra Kovářová. \n- **Co:** Návrh na možné rozdělení projednávání tisků, pokud by se ukázaly jako problematické (zejména DPH u veřejné dopravy). \n- **Proč:** Téma má politický přesah a vyžaduje pečlivější přípravu pozměňovacích návrhů, aby se předešlo legislativním chybám. \n- **Čas:** 3/00:00",
+      "speaker": "Jan Papajanovský, Věra Kovářová",
+      "affiliation": null,
+      "timestamp": "3/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3079_controversy_00.jpg",
+      "context": "Návrh na rozdělení projednávání tisků je legitimním legislativním nástrojem. Problematika DPH u veřejné dopravy podléhá evropské směrnici o DPH (2006/112/ES) a její implementace do českého zákona o DPH (zákon č. 235/2004 Sb.) je opakovaně předmětem odborných i politických debat."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
