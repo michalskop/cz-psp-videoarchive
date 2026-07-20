@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-20T19:24:47",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3080",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-20T15:30",
+    "end_date": "2026-07-20T15:55",
+    "sources": [
+      "final/event_3080_2026-07-20_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5508_TK-ODS-final_muxxer_edit.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem vyjádření opozičního postoje ODS k aktuálním krokům vlády Andreje Babiše. Hlavními tématy byla kritika zahraniční politiky vlády, nesouhlas s plošným zákazem mobilních telefonů ve školách a komentář k parametrům důchodového systému.\n\nCílem vystoupení bylo představit alternativní řešení ODS, která se zaměřují na systémové změny, digitální gramotnost a odpovědnost jednotlivců, namísto – podle řečníků – populistických a líbivých opatření současné vlády.",
+    "main_points": [
+      "**Martin Kuba (ODS)** — Kritizoval vládu za vyvolávání sporů s prezidentem, podpořil protibalistickou obranu a představil šestibodový plán pro digitální gramotnost dětí namísto plošného zákazu mobilů. `[1/02:03]`",
+      "**Jiří Havránek (ODS)** — Vyjádřil úlevu nad tím, že vláda nezasáhla do valorizačního mechanismu důchodů, ale varoval před budoucím populismem hnutí ANO. `[1/10:02]`",
+      "**Jan Lipavský (ODS)** — Odsoudil cestu Tomia Okamury do Číny jako servilní a nebezpečnou pro české zájmy v kontextu kauzy špionáže. `[1/12:03]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opozičního programu. ODS se vymezila proti vládním krokům jako „populistickým“ a „zkratkovitým“. Konsenzem mezi řečníky je nutnost posilovat individuální odpovědnost občanů a rodičů, nikoliv zavádět plošné zákazy, které podle nich neřeší podstatu problémů (např. digitální závislost dětí).",
+    "notes": "Přepis obsahuje opakující se technické chyby a místy nesrozumitelné pasáže způsobené výpadky v přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kuba",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zákaz, který má sejmout odpovědnost kde z koho a ve výsledku chce udělat z kantorů kontroly obsahu batohů jednotlivých žáků.",
+      "type": "paraphrase",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/03:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3080_highlight_00.jpg",
+      "context": "Zákonná úprava zákazu mobilních telefonů ve školách je předmětem politické diskuse. Zda by takové opatření v praxi vedlo k povinnosti učitelů kontrolovat obsah batohů, je interpretací možných důsledků návrhu, nikoliv ověřitelným faktem."
+    },
+    {
+      "text": "Místo toho, aby jasně vyzval Čínskou lidovou republiku, aby propustila tohoto občana, tak nám spíše do médií vykládá o tom, že má fešácký kriminál.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/13:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3080_highlight_01.jpg",
+      "context": "Výrok je politickým hodnocením postupu konkrétního poslance. Zda byla výzva k propuštění občana formulována dostatečně důrazně, je otázkou politické interpretace, nikoliv objektivně měřitelný fakt."
+    },
+    {
+      "text": "Andrej Babiš vám je schopen slíbit cokoli, otázka je, co vám poté následně dá a kdy vám to dá.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/10:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3080_highlight_02.jpg",
+      "context": "Toto tvrzení je subjektivním politickým hodnocením důvěryhodnosti Andreje Babiše. Nelze nezávisle ověřit, neboť jde o rétorickou figuru založenou na politickém postoji řečníka."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Návrh: Zákaz mobilních telefonů ve školách**\n- **Kdo:** Vláda (hnutí ANO)\n- **Co:** Plošný zákaz používání mobilních telefonů ve školách.\n- **Proč:** ODS to považuje za „legislativní zmetek“ a populismus, který neřeší digitální gramotnost, ale naopak izoluje děti a přenáší odpovědnost na učitele.\n- **Čas:** 1/04:03",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/20:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3080_controversy_00.jpg",
+      "context": "Návrh na plošný zákaz mobilních telefonů ve školách není v současné době součástí platné legislativy ČR (Školský zákon č. 561/2004 Sb.). Označení za „legislativní zmetek“ je politický názor, nikoliv právní status návrhu."
+    },
+    {
+      "statement": "**Výrok: Cesta Tomia Okamury do Číny**\n- **Kdo:** Jan Lipavský (ODS)\n- **Co:** Označil cestu za „servilní poklonkování“ a „rozklad české zahraniční politiky“.\n- **Proč:** Politicky citlivé téma kvůli probíhajícímu obvinění českých občanů ze špionáže v Číně.\n- **Čas:** 1/12:03",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/12:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3080_controversy_01.jpg",
+      "context": "Cesta Tomia Okamury do Číny je fakticky doložitelná událost. Hodnocení cesty jako „servilní poklonkování“ je politickým komentářem Jana Lipavského, nikoliv faktografickým popisem diplomatické mise."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
