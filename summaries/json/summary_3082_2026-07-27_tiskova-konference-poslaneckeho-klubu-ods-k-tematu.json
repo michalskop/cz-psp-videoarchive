@@ -1,0 +1,105 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-07-27T19:34:51",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3082",
+    "name": "Tisková konference poslaneckého klubu ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-07-27T15:30",
+    "end_date": "2026-07-27T15:50",
+    "sources": [
+      "final/event_3082_2026-07-27_tiskova-konference-poslaneckeho-klubu-ods-k-tematu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5511_video-psp-2026727-1530-40-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS se zaměřila na kritiku aktuálních kroků vlády Andreje Babiše a ministryně financí Aleny Schillerové. Hlavním tématem byla personální politika ve státních podnicích, konkrétně nominace Radomíra Lašáka do vedení Letiště Praha, kterou ODS označila za nekompetentní a rizikovou.\n\nKromě personálních otázek představitelé ODS prezentovali vlastní politické priority, včetně reformy vzdělávacího systému („8+2“), kritiky vládních návrhů v oblasti státních svátků a prodejů v obchodech a návrhu na posílení vlivu samospráv v radách národních parků.",
+    "main_points": [
+      "**Neidentifikovaný řečník (ODS)** — Kritika nominace Radomíra Lašáka do vedení Letiště Praha. Argumentuje jeho minulým působením v ČSA, kde dle řečníka vykázal ztrátu 3,7 miliardy korun a „zničil“ hodnotu firmy. Vyjádřil obavy z manipulace výběrového řízení a kritizoval útoky vládních představitelů na novináře. `[1/02:09]`",
+      "**Neidentifikovaný řečník (ODS)** — Prezentace reformy vzdělávání „8+2“ (zkrácení základní školy na 8 let, dva povinné ročníky střední školy). Uvedl, že jde o ucelenou koncepci pro 21. století, nikoliv o izolovaný krok. `[1/06:03]`",
+      "**Jan Bureš (ODS)** — Odmítl návrh KDU-ČSL na rozšíření zákazu prodeje o státních svátcích s tím, že stát nemá určovat lidem, jak trávit volný čas. Představil návrh novely zákona o ochraně přírody a krajiny, který má posílit vliv samospráv v radách národních parků a povinně do nich zahrnout zástupce Hasičského záchranného sboru. `[1/08:06]`",
+      "**Témata mimo konkrétní řečníky:**\n    * Digitalizace registru vozidel: ODS ji vítá, ale zdůrazňuje, že jde o pokračování projektů započatých předchozí vládou.\n    * Vyloučení Filipa Dvořáka: Potvrzeno ukončení členství v ODS (Praha 1) z důvodu pochybností nad jeho minulostí."
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasovacím orgánem. Konsenzem klubu ODS je pokračující ostrá opoziční rétorika vůči vládě, odmítání personálních změn ve státních firmách a prosazování vlastních legislativních iniciativ.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (např. v části 1/04:00 a 1/09:00), kde text nedává smysl nebo je useknutý."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Bureš",
+        "person_id": "psp:person:5899",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Letiště Praha",
+      "ČSA",
+      "Hasičský záchranný sbor"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Radomír Lašák v roce 2009, v případě, kdy řídil jediného významného národního leteckého dopravce České aerolinii, vykázal ztrátu 3,7 miliardy korun.",
+      "type": "citation",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "ODS",
+      "timestamp": "1/01:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3082_highlight_00.jpg",
+      "context": "Podle výroční zprávy ČSA za rok 2009 vykázala společnost ztrátu ve výši 3,69 miliardy korun. Radomír Lašák v té době skutečně zastával funkci předsedy představenstva a prezidenta společnosti."
+    },
+    {
+      "text": "Stát není ten, kdo má určovat lidem, co mají dělat o svátcích.",
+      "type": "paraphrase",
+      "speaker": "Jan Bureš",
+      "affiliation": "ODS",
+      "timestamp": "1/07:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3082_highlight_01.jpg",
+      "context": "Toto je politický názor na roli státu v regulaci trhu práce a volného času. Aktuálně však v ČR platí zákon č. 245/2000 Sb., který omezuje prodej ve vybraných svátcích u prodejen nad 200 m²."
+    },
+    {
+      "text": "Reforma 8 plus 2 znamená skutečnou nabídku pro českou veřejnost, jak to udělat, abychom školy modernizovali.",
+      "type": "citation",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "ODS",
+      "timestamp": "1/17:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3082_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Pojem „reforma 8 plus 2“ není standardním legislativním termínem v českém školství a v kontextu vládních reforem nebyl oficiálně definován jako ucelený program."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Označení ministryně Aleny Schillerové za „domovnici“ a obvinění z nekompetence a špinění jména opozice.",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "ODS",
+      "timestamp": "1/02:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3082_controversy_00.jpg",
+      "context": "Jedná se o subjektivní hodnotící soud a politickou rétoriku. Výroky o „nekompetenci“ či „špinění jména“ nelze fakticky ověřit, neboť jde o vyjádření politického postoje a názoru řečníka."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
