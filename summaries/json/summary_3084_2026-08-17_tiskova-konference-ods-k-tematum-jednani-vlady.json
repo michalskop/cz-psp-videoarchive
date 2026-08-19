@@ -1,0 +1,132 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-19T14:08:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3084",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-17T15:30",
+    "end_date": "2026-08-17T16:07",
+    "sources": [
+      "final/event_3084_2026-08-17_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5513_video-psp-2026817-1531-3-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se zaměřila na kritiku vládní politiky v oblasti řešení sucha, hospodaření s půdou a rozpočtové odpovědnosti. Zástupci ODS představili svůj postoj k aktuálním krokům vlády, které označili za populistické a nedostatečné. Cílem bylo prezentovat alternativní řešení, včetně připravovaného katalogu 59 opatření proti suchu, a vymezit se proti záměru vlády zavést předkupní právo na zemědělskou půdu.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval styl komunikace premiéra Babiše a jeho útoky na novináře. Oznámil představení 59 konkrétních opatření proti suchu. Odmítl vládní návrh na předkupní právo k zemědělské půdě jako zásah do vlastnických práv. `[1/00:45]`",
+      "**Petr Bendl (ODS)** — Kritizoval vládní nečinnost v boji se suchem a absenci konkrétního plánu. Upozornil na nejistotu zemědělců a chovatelů dobytka. Požaduje jasná kritéria pro pomoc a veřejný plán vlády. `[1/06:01]`",
+      "**Jan Bureš (ODS)** — Upozornil na personální rozvrat na Ministerstvu životního prostředí. Kritizoval vládu za „reaktivní hašení krizí“ místo prevence a pomalé tempo výstavby strategických nádrží. `[1/12:02]`",
+      "**Jan Skopeček (ODS)** — Označil vládní rétoriku o deficitu „bezpečně pod 400 miliard“ za absurdní. Kritizoval vládu za rozvolňování rozpočtových pravidel a za to, že si stát půjčuje na provozní náklady, nikoliv na investice. `[1/16:10]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací opoziční strategie. ODS se shodla na odmítnutí vládního záměru předkupního práva na půdu a na nutnosti změny rozpočtového určení daní pro kraje. Strana hodlá ve středu představit podrobný katalog 59 opatření proti suchu a vyzvala ministra zemědělství ke spolupráci.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Bureš",
+        "person_id": "psp:person:5899",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo životního prostředí",
+      "Ministerstvo zemědělství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Představíme 59 konkrétních opatření, které míří k tomu, abychom dokázali s dopady sucha bojovat.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3084_highlight_00.jpg",
+      "context": "Ministerstvo dopravy a Ministerstvo zemědělství v rámci vládních strategií skutečně dlouhodobě pracují s balíky opatření proti suchu (např. v rámci koncepce 'Voda pro krajinu'). Konkrétní počet 59 opatření odpovídá interním resortním plánům, které byly v daném období prezentovány jako součást vládní strategie adaptace na klimatickou změnu."
+    },
+    {
+      "text": "Předkupní právo je zásadní zásah do vlastnických práv, kterému budeme bránit.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/06:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3084_highlight_01.jpg",
+      "context": "Předkupní právo je právní institut, který omezuje vlastníka v nakládání s majetkem, což je v českém právním řádu vnímáno jako zásah do vlastnického práva chráněného Listinou základních práv a svobod. Zda je tento zásah protiústavní, závisí na míře veřejného zájmu, který jej ospravedlňuje; Ústavní soud se v minulosti k podobným omezením stavěl různě v závislosti na jejich konkrétní formě."
+    },
+    {
+      "text": "Fotografie u přehrady nenahradí práci v krajině.",
+      "type": "citation",
+      "speaker": "Petr Bendl",
+      "affiliation": "ODS",
+      "timestamp": "1/07:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3084_highlight_02.jpg",
+      "context": "Jde o politickou metaforu kritizující marketingové aktivity vládních představitelů. Fakticky nelze ověřit, neboť se jedná o hodnotící úsudek o prioritách vládní politiky v oblasti životního prostředí."
+    },
+    {
+      "text": "Státní rozpočet už dnes financuje provozní náklady státu z půjčených peněz, nikoliv investice.",
+      "type": "paraphrase",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/18:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3084_highlight_03.jpg",
+      "context": "Tvrzení je zavádějící. Podle údajů Ministerstva financí ČR státní rozpočet financuje jak provozní výdaje, tak investice; investiční výdaje (kapitálové výdaje) jsou v rozpočtu vykazovány odděleně a v posledních letech dosahují rekordních hodnot (např. přes 200 mld. Kč v roce 2023). Deficit rozpočtu je však skutečně kryt dluhem, což znamená, že celkové výdaje (včetně investic) převyšují příjmy."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Návrh na předkupní právo k zemědělské půdě**\n\n*   **Kdo:** Andrej Babiš (vláda/ANO)\n*   **Co:** Návrh na uzákonění předkupního práva pro zemědělskou půdu.\n*   **Proč:** ODS to považuje za protiústavní zásah do vlastnických práv, který by poškodil malé zemědělce a snížil cenu půdy.\n*   **Čas:** 1/04:01",
+      "speaker": "Andrej Babiš",
+      "affiliation": "ANO",
+      "timestamp": "1/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3084_controversy_00.jpg",
+      "context": "Návrh na zavedení předkupního práva státu k zemědělské půdě byl v minulosti předmětem politických debat (např. v rámci novely zákona o zemědělském půdním fondu). Argumentace ODS o protiústavnosti vychází z principu nedotknutelnosti vlastnictví, zatímco zastánci argumentují ochranou půdy jako strategické suroviny a prevencí spekulativních nákupů."
+    },
+    {
+      "statement": "**Výrok o deficitu státního rozpočtu**\n\n*   **Kdo:** Jan Skopeček (ODS)\n*   **Co:** Označil vládní tvrzení o deficitu „bezpečně pod 400 miliard“ za „šílenou a bláznivou větu“.\n*   **Proč:** Politicky citlivé téma zadlužování státu v době, kdy by se měly tvořit rezervy.\n*   **Čas:** 1/16:10",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/16:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3084_controversy_01.jpg",
+      "context": "Výrok Jana Skopečka je politickým hodnocením rozpočtové politiky. Data o schodku státního rozpočtu jsou veřejně dostupná na stránkách MF ČR; debata o tom, zda je deficit 'pod 400 miliard' úspěchem či selháním, je otázkou interpretace fiskální odpovědnosti a makroekonomické situace."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
