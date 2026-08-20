@@ -1,0 +1,128 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-20T14:09:52",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3085",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-20T11:04",
+    "end_date": "2026-08-20T11:38",
+    "sources": [
+      "final/event_3085_2026-08-20_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5514_video-psp-2026820-114-38-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na dvě klíčové oblasti: řešení dlouhodobého sucha a kritiku plánované centralizace zdravotní péče. Cílem bylo představit alternativní vládní programy a upozornit na systémové nedostatky v přístupu současné vlády k hospodaření s krajinou a dostupnosti zdravotní péče v regionech.\n\nStínová vláda představila plán „Voda pro Česko 2035“ a ostře kritizovala vládní politiku v oblasti klimatické změny, kterou označila za popíračskou a podřízenou zájmům velkých agroholdingů.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Zdůraznil vědecký konsenzus o vlivu člověka na klimatickou změnu. Kritizoval vládní rétoriku vůči „Green Dealu“ a propojení zájmů premiéra s velkými agroholdingy. Navrhl vymáhání 7 miliard Kč od holdingu Agrofert jako zdroj financování opatření proti suchu. `[1/02:13]`",
+      "**Jana Krutáková (STAN)** — Představila plán „Voda pro Česko 2035“ postavený na pěti pilířích: vodárenská bezpečnost, zadržování vody v krajině, změna hospodaření na zemědělské půdě, efektivita vodovodních sítí a „město jako houba“. `[1/04:03]`",
+      "**Petra Pecková (STAN)** — Prezentovala konkrétní vodohospodářské projekty ve Středočeském kraji a upozornila na rizika centralizace zdravotnictví, která by mohla vést k zániku specializovaných výkonů v krajských nemocnicích. `[1/10:07]`",
+      "**Michaela Šebelová (STAN)** — Kritizovala plán Ministerstva zdravotnictví na centralizaci vysoce specializované péče do roku 2030. Varovala před ohrožením dostupnosti péče v regionech. `[1/12:02]`",
+      "**Jan Berky (STAN)** — Komentoval návrh zákazu mobilních telefonů ve školách. Prosazuje „chytrou regulaci“ místo plošného zákazu, zahrnující prevenci digitální závislosti a podporu pedagogů. `[1/20:06]`"
+    ],
+    "outcome": "Konsenzem stínové vlády je odmítnutí současného vládního přístupu k rozpočtovým prioritám. Starostové požadují přesun financí z populistických projektů do systémových opatření (voda, zdravotnictví, prevence). Nebylo přijato žádné formální vládní rozhodnutí, pouze deklarována připravenost předložit pozměňovací návrhy k zákonům o školství a tlaku na změnu strategie ministerstva zdravotnictví.",
+    "notes": "Přepis obsahuje občasné chyby v diakritice a drobné výpadky slov, ale obsah je srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jana Krutáková",
+        "person_id": "psp:person:6466",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Petra Pecková",
+        "person_id": "psp:person:6936",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Kabinet budoucnosti",
+      "Ministerstvo zdravotnictví",
+      "Ministerstvo zemědělství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud jde o sucho, řešení toho problému, opravdu není potřeba vymýšlet kolo.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/01:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3085_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení, nikoliv o ověřitelné faktické tvrzení. Strategie boje se suchem je v ČR dlouhodobě řešena např. prostřednictvím Koncepce ochrany před následky sucha pro území ČR (MŽP a MZe)."
+    },
+    {
+      "text": "Sedm miliard nám dluží Agrofert, tak ať nám je vrátí.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/31:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3085_highlight_01.jpg",
+      "context": "Tvrzení o „dluhu“ 7 miliard se vztahuje k dotacím pro holding Agrofert, které jsou předmětem sporů o střet zájmů. Evropská komise v minulosti požadovala vrácení části dotací, právní nárok státu na tuto konkrétní částku je však předmětem složitých právních sporů a rozhodnutí soudů."
+    },
+    {
+      "text": "Méně vody odvádět, více vody zadržet a s každou kapkou vody rozumně hospodařit.",
+      "type": "citation",
+      "speaker": "Jana Krutáková",
+      "affiliation": "STAN",
+      "timestamp": "1/09:37",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3085_highlight_02.jpg",
+      "context": "Tento výrok představuje obecný princip vodohospodářské politiky, který je v souladu s aktuálními odbornými doporučeními pro adaptaci na klimatickou změnu v ČR (např. programy MŽP jako 'Voda pro krajinu')."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vít Rakušan navrhl vymáhat 7 miliard Kč od holdingu Agrofert jako prostředek pro financování boje se suchem. Jde o přímý politický útok na premiéra a jeho podnikatelské vazby.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/30:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3085_controversy_00.jpg",
+      "context": "Tvrzení o 7 miliardách je politickou interpretací kauzy dotací pro Agrofert. Z faktického hlediska jde o politický požadavek, nikoliv o pravomocně vyčíslený dluh, který by byl aktuálně přímo vymahatelný státní pokladnou bez dalších soudních rozhodnutí."
+    },
+    {
+      "statement": "Petra Pecková zpochybnila relevanci dat Ministerstva zdravotnictví o úmrtnosti, označila je za „nečištěná“ a zkreslená obdobím covidu.",
+      "speaker": "Petra Pecková",
+      "affiliation": "STAN",
+      "timestamp": "1/18:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3085_controversy_01.jpg",
+      "context": "Data o úmrtnosti jsou publikována Českým statistickým úřadem (ČSÚ) a ÚZIS. Označení dat za „nečištěná“ je zavádějící, neboť metodika sběru dat je veřejně dostupná a standardizovaná, byť interpretace vlivu covidu-19 na nadúmrtnost je předmětem odborných diskusí."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
