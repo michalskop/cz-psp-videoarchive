@@ -1,0 +1,172 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-25T02:08:43",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3087",
+    "name": "PPWR - Nařízení o obalech a obalových odpadech",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-08-24T15:00",
+    "end_date": "2026-08-24T18:23",
+    "sources": [
+      "final/event_3087_2026-08-24_ppwr-narizeni-o-obalech-a-obalovych-odpadech.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824152913.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824153009.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824154009.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824155009.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824160009.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824161009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824162009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824163009.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824164009.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824165009.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824170009.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824171009.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824172009.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824173009.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824174009.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824175009.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824180009.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824181009.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/08/24/_20260824182009.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 19,
+    "parts_total": 19,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na implementaci evropského nařízení o obalech a obalových odpadech (PPWR), které nabylo účinnosti 12. srpna 2026. Hlavním cílem bylo vyjasnit nejasnosti v interpretaci nařízení, řešit administrativní zátěž pro podnikatele a diskutovat o roli dozorových orgánů. Účastníci hledali cesty, jak zmírnit dopady na podnikatelské prostředí v kontextu chybějících prováděcích aktů.",
+    "main_points": [
+      "**Ministr Červený (MŽP)** — Usiluje o odklad povinností o 6–12 měsíců a navrhuje digitální databázi pro sdílení informací. `[2/02:00]`",
+      "**Potravinářská komora** — Kritizuje nekontrolovanou činnost hygienických stanic a nejasné definice výrobců. `[1/01:00]`",
+      "**Česká asociace odpadového hospodářství** — Varuje před technickou neproveditelností požadavků na recyklovaný podíl. `[2/04:09]`",
+      "**Svaz chemického průmyslu** — Upozorňuje na nesmyslnost požadavků na minimalizaci obalů u produktů s ochrannou atmosférou. `[12/08:01]`",
+      "**Svaz obchodu a cestovního ruchu** — Poukazuje na administrativní zátěž malých provozoven. `[8/06:10]`",
+      "**Jana Truvicina (Regartis)** — Zastupuje mikropodniky, které čelí existenčním problémům kvůli poplatkům a byrokracii. `[12/01:05]`"
+    ],
+    "outcome": "Shoda na tom, že cíle PPWR jsou správné, ale implementace je v současné podobě nerealizovatelná. Ministerstvo přislíbilo vyjednávání o odkladu, prověření úlev pro malé podnikatele a přípravu racionální adaptační novely.",
+    "notes": "Přepis obsahuje chyby v diakritice a useknutá slova. Části záznamu byly v přepisu označeny jako neidentifikované nebo obsahovaly halucinace, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ministr Červený",
+        "person_id": "psp:person:904",
+        "affiliation": "Ministerstvo životního prostředí"
+      },
+      {
+        "name": "Petr Havelka",
+        "person_id": null,
+        "affiliation": "Česká asociace odpadového hospodářství"
+      },
+      {
+        "name": "Ivan Souček",
+        "person_id": null,
+        "affiliation": "Svaz chemického průmyslu"
+      },
+      {
+        "name": "Romana Nýdrle",
+        "person_id": null,
+        "affiliation": "Svaz obchodu a cestovního ruchu"
+      },
+      {
+        "name": "Jana Truvicina",
+        "person_id": null,
+        "affiliation": "Regartis"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Ministerstvo životního prostředí",
+      "Evropská komise",
+      "Potravinářská komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Evropská unie si myslí, že jsme všichni bohatí, takže to zaplatíme, ale přitom to není ekologické.",
+      "type": "citation",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "průmysl",
+      "timestamp": "18/05:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3087_highlight_00.jpg",
+      "context": "Tvrzení je subjektivním politickým názorem, nikoliv ověřitelným faktem. Dopady environmentální legislativy EU (např. Green Deal) na ekonomiku jsou předmětem odborných studií s protichůdnými závěry o jejich nákladovosti a ekologické efektivitě."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Požadavek na trestněprávní odpovědnost úředníků Evropské komise za chybně připravenou legislativu, která způsobuje podnikatelům miliardové škody.",
+      "speaker": "Berenika",
+      "affiliation": null,
+      "timestamp": "15/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3087_controversy_00.jpg",
+      "context": "V současném právním rámci EU neexistuje mechanismus přímé trestněprávní odpovědnosti úředníků Evropské komise za legislativní návrhy. Úředníci požívají imunitu podle Protokolu č. 7 o výsadách a imunitách EU, pokud jednají v rámci výkonu svých úředních povinností."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}

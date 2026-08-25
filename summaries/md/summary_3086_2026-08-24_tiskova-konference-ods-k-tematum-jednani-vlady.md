@@ -1,0 +1,120 @@
+Zde je strukturované shrnutí tiskové konference ODS ze dne 24. srpna 2026.
+
+### 1. Téma a účel jednání
+Tisková konference byla svolána představiteli ODS (Martin Kupka, Jiří Havránek, Jan Skopeček) za účelem kritiky aktuálních kroků vlády Andreje Babiše. Hlavními tématy byly vládní přístup k řešení sucha, podnikatelský balíček, zahraniční politika, návrh „Lepšího penzijka“ a rozpočtová politika státu.
+
+Cílem bylo prezentovat alternativní program ODS (např. „Voda pro Česko“), kritizovat vládní zadlužování a upozornit na podle řečníků nedostatečnou koncepčnost vládních kroků v oblasti zdravotnictví a diplomacie.
+
+### 2. Hlavní body
+*   **Martin Kupka (ODS)** — Kritizoval vládní řešení sucha jako nekoncepční a zdůraznil nutnost změny hospodaření s půdou (program „Voda pro Česko“ – 62 opatření). Podpořil podnikatelský balíček a digitalizaci, ale kritizoval Karla Havlíčka za „chlubení se cizím peřím“. V zahraniční politice vytkl vládě opomenutí tématu války na Ukrajině a absenci vize v ekonomické diplomacii. `[1/02:03]`
+*   **Jiří Havránek (ODS)** — Kvitoval dodržení valorizačního mechanismu minimální mzdy, který byl nastaven za minulé vlády. Kritizoval vládní návrh „Lepšího penzijka“ kvůli riziku oligopolizace trhu a odlivu kapitálu do zahraničí. Navrhuje, aby penzijní fondy investovaly do české infrastruktury, zdravotnictví a sociálních služeb. `[1/06:03]`
+*   **Jan Skopeček (ODS)** — Odsoudil výrok Andreje Babiše, že konsolidace veřejných financí „počká“. Varoval, že vysoké deficity vedou k drahým hypotékám, inflaci a vysokým úrokům ze státního dluhu (aktuálně 110 mld. Kč ročně). Zdůraznil, že stát musí žít v rozpočtových omezeních. `[1/10:00]`
+
+### 3. Výsledek / závěr
+Jednání nebylo formálním hlasováním, ale politickým prohlášením opozice. ODS deklarovala, že bude na plénu Poslanecké sněmovny tvrdě argumentovat proti rozvolňování rozpočtových pravidel a předloží pozměňovací návrhy k „Lepšímu penzijku“, které mají zajistit reinvestice prostředků střadatelů do české ekonomiky.
+
+### 4. Poznámky
+Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika, opakující se fráze), avšak obsah je srozumitelný.
+
+---
+
+## Doplňující otázky
+*   **Kontroverzní výrok:**
+    *   **Kdo:** Andrej Babiš (vládní představitel, citován Janem Skopečkem).
+    *   **Co:** Prohlášení, že konsolidace veřejných financí „počká“, dokud nebudou vybudovány nemocnice, opraveny silnice a zvýšeny platy policistů.
+    *   **Proč:** Je to politicky citlivé, protože to popírá nutnost rozpočtové odpovědnosti v době ekonomického růstu a podle opozice to vede k neudržitelnému zadlužení a inflaci.
+    *   **Čas:** `1/10:00`
+
+---
+
+## Klíčové citace pro veřejnost
+*   **Text:** „Jestli teď platíme 110 miliard korun ročně jenom na úhradě úroků z toho státního dluhu, tak to znamená, že ty peníze chybí třeba na to, aby se vybudovalo 360 km dálnic.“ (parafráze)
+    *   **Řečník:** Martin Kupka (ODS), **Čas:** `1/14:00`
+*   **Text:** „Žádná konsolidace samozřejmě nepočká, konsolidace veřejných financí se dělá v období, kdy ekonomika roste a nezaměstnanost je nízká.“ (citace)
+    *   **Řečník:** Jan Skopeček (ODS), **Čas:** `1/10:00`
+*   **Text:** „Pokud budou přijaty naše pozměňující návrhy, tak půjde opravdu o lepší penzijko a budou moci říct, že i to provedení neměli za tři minus až čtyři, ale za jedna.“ (citace)
+    *   **Řečník:** Jiří Havránek (ODS), **Čas:** `1/16:01`
+
+---
+
+## JSON výstup
+```json
+{
+  "schema_version": "2",
+  "created_at": null,
+  "model_hint": null,
+  "event": {
+    "id": "3086",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-24T15:30",
+    "end_date": "2026-08-24T15:51",
+    "sources": []
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána představiteli ODS (Martin Kupka, Jiří Havránek, Jan Skopeček) za účelem kritiky aktuálních kroků vlády Andreje Babiše. Hlavními tématy byly vládní přístup k řešení sucha, podnikatelský balíček, zahraniční politika, návrh „Lepšího penzijka“ a rozpočtová politika státu.\n\nCílem bylo prezentovat alternativní program ODS (např. „Voda pro Česko“), kritizovat vládní zadlužování a upozornit na podle řečníků nedostatečnou koncepčnost vládních kroků v oblasti zdravotnictví a diplomacie.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládní řešení sucha jako nekoncepční a zdůraznil nutnost změny hospodaření s půdou (program „Voda pro Česko“ – 62 opatření). Podpořil podnikatelský balíček a digitalizaci, ale kritizoval Karla Havlíčka za „chlubení se cizím peřím“. V zahraniční politice vytkl vládě opomenutí tématu války na Ukrajině a absenci vize v ekonomické diplomacii. `[1/02:03]`",
+      "**Jiří Havránek (ODS)** — Kvitoval dodržení valorizačního mechanismu minimální mzdy, který byl nastaven za minulé vlády. Kritizoval vládní návrh „Lepšího penzijka“ kvůli riziku oligopolizace trhu a odlivu kapitálu do zahraničí. Navrhuje, aby penzijní fondy investovaly do české infrastruktury, zdravotnictví a sociálních služeb. `[1/06:03]`",
+      "**Jan Skopeček (ODS)** — Odsoudil výrok Andreje Babiše, že konsolidace veřejných financí „počká“. Varoval, že vysoké deficity vedou k drahým hypotékám, inflaci a vysokým úrokům ze státního dluhu (aktuálně 110 mld. Kč ročně). Zdůraznil, že stát musí žít v rozpočtových omezeních. `[1/10:00]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale politickým prohlášením opozice. ODS deklarovala, že bude na plénu Poslanecké sněmovny tvrdě argumentovat proti rozvolňování rozpočtových pravidel a předloží pozměňovací návrhy k „Lepšímu penzijku“, které mají zajistit reinvestice prostředků střadatelů do české ekonomiky.",
+    "notes": "Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika, opakující se fráze), avšak obsah je srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {"name": "Martin Kupka", "person_id": null, "affiliation": "ODS"},
+      {"name": "Jiří Havránek", "person_id": null, "affiliation": "ODS"},
+      {"name": "Jan Skopeček", "person_id": null, "affiliation": "ODS"}
+    ],
+    "parties": ["ODS", "SPD"],
+    "institutions": ["Vláda ČR", "Poslanecká sněmovna", "Tripartita"]
+  },
+  "highlights": [
+    {
+      "text": "Jestli teď platíme 110 miliard korun ročně jenom na úhradě úroků z toho státního dluhu, tak to znamená, že ty peníze chybí třeba na to, aby se vybudovalo 360 km dálnic.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/14:00",
+      "screenshot_path": null
+    },
+    {
+      "text": "Žádná konsolidace samozřejmě nepočká, konsolidace veřejných financí se dělá v období, kdy ekonomika roste a nezaměstnanost je nízká.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/10:00",
+      "screenshot_path": null
+    },
+    {
+      "text": "Pokud budou přijaty naše pozměňující návrhy, tak půjde opravdu o lepší penzijko a budou moci říct, že i to provedení neměli za tři minus až čtyři, ale za jedna.",
+      "type": "citation",
+      "speaker": "Jiří Havránek",
+      "affiliation": "ODS",
+      "timestamp": "1/16:01",
+      "screenshot_path": null
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Andrej Babiš (vládní představitel, citován Janem Skopečkem).\n**Co:** Prohlášení, že konsolidace veřejných financí „počká“, dokud nebudou vybudovány nemocnice, opraveny silnice a zvýšeny platy policistů.\n**Proč:** Je to politicky citlivé, protože to popírá nutnost rozpočtové odpovědnosti v době ekonomického růstu a podle opozice to vede k neudržitelnému zadlužení a inflaci.\n**Čas:** `1/10:00`",
+      "speaker": "Andrej Babiš",
+      "affiliation": "Vláda ČR",
+      "timestamp": "1/10:00",
+      "screenshot_path": null
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
+```
