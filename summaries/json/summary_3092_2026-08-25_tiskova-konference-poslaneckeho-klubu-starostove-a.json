@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-25T14:06:56",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3092",
+    "name": "Tisková konference poslaneckého klubu Starostové a nezávislí",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-25T09:02",
+    "end_date": "2026-08-25T09:18",
+    "sources": [
+      "final/event_3092_2026-08-25_tiskova-konference-poslaneckeho-klubu-starostove-a.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5521_video-psp-2026825-92-6-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala před zahájením jednání Poslanecké sněmovny a jejím hlavním cílem bylo vyjádřit zásadní nesouhlas s vládním návrhem na rozvolnění rozpočtových pravidel. Zástupci hnutí STAN kritizovali vládu za nezodpovědné zadlužování země, absenci systémových reforem a upřednostňování předvolebního populismu před dlouhodobou stabilitou veřejných financí.\n\nHnutí STAN deklarovalo, že v případě přehlasování prezidentského veta a schválení vládního návrhu hodlá podat podnět k Ústavnímu soudu, neboť považuje postup vlády za rozporný s ústavním pořádkem.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval vládu za „plundrování státní kasy“ a ignorování varování odborníků. Potvrdil, že STAN se obrátí na Ústavní soud, pokud bude rozvolnění pravidel schváleno. `[01:06]`",
+      "**Věra Kovářová (STAN)** — Představila konkrétní výčet položek, které vláda rozpouští na běžné výdaje (celkem 74 miliard Kč). Upozornila na nedostatek prostředků pro školství. `[03:15]`",
+      "**Lucie Sedmihradská (STAN)** — Zaměřila se na ekonomické aspekty fiskálně strukturálního plánu. Varovala před růstem nákladů na obsluhu dluhu a rizikem narušení dluhové brzdy počátkem 30. let. `[06:04]`",
+      "**Jan Papajanovský (STAN)** — Představil alternativní návrhy STAN: cílené rozpočtování, revizi výdajů a zrychlené odpisy pro investující firmy. Kritizoval vládu za odmítání odborné diskuze. `[09:40]`"
+    ],
+    "outcome": "Poslanecký klub STAN se shodl na odmítavém postoji k vládnímu návrhu. Hnutí bude v rámci sněmovní debaty aktivně vystupovat a využije přednostní práva svých řečníků k argumentaci proti rozvolnění rozpočtových pravidel. Konsenzem je, že vláda rezignovala na odpovědnou správu státu a přenáší finanční zátěž na budoucí generace.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „minister Plaga“ místo ministr, „Jan Papajanovský/Papénovský“). Text je srozumitelný a argumentačně ucelený."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Je to 74 miliard, které vláda rozpustí na běžné výdaje, které by mohla investovat skutečně tak, aby došlo k tomu hospodářskému růstu.",
+      "type": "paraphrase",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/05:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3092_highlight_00.jpg",
+      "context": "Částka 74 miliard korun odpovídá navýšení schodku státního rozpočtu v rámci úpravy rozpočtového rámce. Zda jsou tyto prostředky využity na běžné výdaje či investice, závisí na konkrétní rozpočtové kapitole, přičemž ekonomický dopad je předmětem odborné diskuse mezi vládními a opozičními ekonomy."
+    },
+    {
+      "text": "Rozvolnění pravidel rozpočtové odpovědnosti není investiční vizí, je to naprostá kapitulace.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/09:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3092_highlight_01.jpg",
+      "context": "Jedná se o politické hodnocení vládní strategie. Změna pravidel rozpočtové odpovědnosti (např. úprava výdajových rámců) je zákonným procesem, jehož dopady na fiskální stabilitu jsou hodnoceny Národní rozpočtovou radou jako rizikové, nikoliv nutně jako „kapitulace“."
+    },
+    {
+      "text": "Vláda jinou možnost má, má možnost přistoupit k reformám.",
+      "type": "citation",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/10:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3092_highlight_02.jpg",
+      "context": "Možnost reforem (např. důchodové, daňové či zdravotnické) je legitimním politickým tématem. Vláda v současnosti některé reformní kroky realizuje (např. konsolidační balíček), přičemž efektivita a rozsah těchto reforem jsou předmětem trvalého politického sporu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Vít Rakušan (STAN) oznámil, že hnutí podá podnět k Ústavnímu soudu v případě schválení rozvolnění rozpočtových pravidel.\n\n*   **Proč je to kontroverzní:** Jde o vyhrocení politického boje, kdy opozice zpochybňuje ústavnost legislativního procesu vládní většiny, což je v parlamentní praxi krajní prostředek.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/02:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3092_controversy_00.jpg",
+      "context": "Podání návrhu k Ústavnímu soudu je standardním ústavním nástrojem opozice (čl. 87 Ústavy ČR). V parlamentní praxi jde o krajní prostředek, který je využíván v případě pochybností o ústavnosti legislativního procesu nebo obsahu zákona, nikoliv o neobvyklý krok."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-25T14:06:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3094",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-25T09:40",
+    "end_date": "2026-08-25T10:01",
+    "sources": [
+      "final/event_3094_2026-08-25_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5523_video-psp-2026825-940-32-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala v reakci na prezidentské veto zákona, který upravuje rozpočtová pravidla. Cílem vystoupení bylo vysvětlit postoj klubu ANO, obhájit vládní rozpočtovou strategii a připravit půdu pro hlasování v Poslanecké sněmovně, kde se koalice chystá veto prezidenta přehlasovat.\n\nPředstavitelé ANO argumentovali, že prezidentské veto je v přímém rozporu s požadavkem na vyšší výdaje na obranu a strategické investice. Podle řečníků je současný vládní plán realistický a v souladu s pravidly EU, zatímco setrvání u starých národních pravidel by vedlo k rozpočtovému chaosu a nezákonnosti.",
+    "main_points": [
+      "**Alena Schillerová (ANO, ministryně financí)** — Prezidentovo veto považuje za rozporuplné: požaduje 2 % HDP na obranu (cca 191 mld. Kč), ale zároveň trvá na deficitu 150 mld. Kč, což je matematicky neudržitelné. Upozornila na „dědictví“ minulé vlády: nekryté výdaje v dopravě (37,2 mld. Kč), schodek ve zdravotnictví (přes 15 mld. Kč) a dluhy v regionálním školství (3,7 mld. Kč). Nový fiskálně-strukturální plán byl Evropskou komisí vyhodnocen jako vyhovující. `[1/02:07]`",
+      "**Karel Havlíček (ANO, ministr průmyslu a obchodu)** — Kritizoval opozici za „pokrytectví“, připomněl, že za minulé vlády dosahovaly deficity v průměru 300 mld. Kč ročně. Zdůraznil nutnost investic do energetické bezpečnosti a jaderných bloků (Dukovany), které jsou financovány mimo státní rozpočet v souladu s metodikou Eurostatu. `[1/06:06]`"
+    ],
+    "outcome": "Koalice je v otázce přehlasování veta jednotná a pevně domluvená. Přestože se očekává, že opozice bude jednání blokovat načítáním nových návrhů, ANO věří, že disponuje dostatečným počtem hlasů pro úspěšné přehlasování veta prezidenta.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky slov, které však nebrání pochopení hlavních argumentů."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Karel Havlíček",
+        "person_id": "psp:person:6621",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Každá další desetina HDP na obranu znamená téměř 10 miliard korun navíc.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/01:22",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3094_highlight_00.jpg",
+      "context": "Tvrzení je přibližně správné. Podle údajů MF ČR pro rok 2024 činí odhadované HDP cca 7,7 bilionu korun, přičemž 0,1 % HDP odpovídá zhruba 7,7 miliardy korun. S očekávaným růstem ekonomiky se tato částka postupně blíží 8–9 miliardám korun."
+    },
+    {
+      "text": "Prezidentské veto neušetří jedinou korunu, pouze znovu uzamkne ČR do pravidel, o kterých i jejich autoři věděli, že podle nich sami hospodařit nebudou.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/02:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3094_highlight_01.jpg",
+      "context": "Veto prezidenta vrací zákon do Poslanecké sněmovny, což fakticky oddaluje účinnost změn, ale samo o sobě nemění výdaje státu. Tvrzení o „uzamčení do pravidel“ se týká zákona o pravidlech rozpočtové odpovědnosti, jehož úprava byla předmětem politického sporu o tempo konsolidace veřejných financí."
+    },
+    {
+      "text": "V době, kdy jsme rostli, jsme měli dvakrát přebytkový rozpočet, zatímco minulá vláda nasekala dluhy 1200 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Karel Havlíček",
+      "affiliation": "ANO",
+      "timestamp": "1/08:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3094_highlight_02.jpg",
+      "context": "Vláda Andreje Babiše dosáhla přebytku v letech 2016–2018, následně však hospodařila se schodky (v roce 2021 rekordních 419,7 mld. Kč). Celkový nárůst státního dluhu během let 2020–2021 byl výrazně ovlivněn pandemií COVID-19; tvrzení o 1200 miliardách dluhu za „minulou vládu“ (myšleno vládu Petra Fialy) je zavádějící, neboť kumulovaný schodek státního rozpočtu za roky 2022–2023 činil cca 650 miliard korun."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Alena Schillerová označila setrvání u starých rozpočtových pravidel za „ekonomické harakiri“. Toto vyjádření je politicky citlivé, neboť přímo útočí na platnou legislativu a zpochybňuje rozpočtovou odpovědnost, kterou prosazuje prezident republiky.",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/04:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3094_controversy_00.jpg",
+      "context": "Označení legislativy za „ekonomické harakiri“ je politická rétorika. Platná rozpočtová pravidla (zákon č. 23/2017 Sb.) jsou závazná a jejich dodržování je předmětem dohledu Národní rozpočtové rady; tvrzení o jejich neudržitelnosti je předmětem politické debaty, nikoliv objektivní ekonomický fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

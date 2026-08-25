@@ -1,0 +1,101 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-25T14:06:03",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3095",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-25T10:03",
+    "end_date": "2026-08-25T10:21",
+    "sources": [
+      "final/event_3095_2026-08-25_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5524_video-psp-2026825-103-30-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny, kde bylo hlavním bodem programu projednávání zákona o rozpočtových pravidlech. Představitelé ODS zákon ostře kritizovali jako „zadlužovací“ a varovali před jeho negativními dopady na ekonomickou stabilitu České republiky, inflaci a úrokové sazby.\n\nCílem vystoupení bylo prezentovat postoj opozice, která požaduje zastavení vládních výdajů a konsolidaci veřejných financí. ODS zároveň avizovala přípravu ústavní stížnosti v případě, že zákon projde, a zdůraznila, že vládní politika „projídání“ prostředků ohrožuje budoucí generace a ekonomický růst země.",
+    "main_points": [
+      "**Martin Kuba (ODS)** — Označil vládní návrh za „zadlužovací zákon“, který vede k neudržitelnému hospodaření. Kritizoval ministryni financí Alenu Schillerovou za nezodpovědnou fiskální politiku a varoval před růstem inflace a úroků. `[1/00:45]`",
+      "**Vojtěch Munzar (ODS)** — Upozornil na negativní dopady na finanční trhy a zdražování hypoték i úvěrů pro firmy. Zdůraznil, že vysoké zadlužování je proinflační a omezuje budoucí investice. `[1/06:05]`",
+      "**Karel Haas (ODS)** — Zaměřil se na ústavněprávní rovinu kritiky. Napadl možnost vlády navyšovat výdaje o 10 % bez souhlasu parlamentu a označil vládní strategii „proinvestování se z dluhů“ za makroekonomický nesmysl. `[1/08:07]`",
+      "**Tematické body:** ODS připravuje ústavní stížnost, klade důraz na dostupnost bydlení a navrhuje urychlení výstavby strategické infrastruktury pro AI."
+    ],
+    "outcome": "Jednání nevedlo k žádnému bezprostřednímu rozhodnutí, neboť šlo o tiskovou konferenci před zahájením schůze. ODS potvrdila svůj záměr hlasovat proti vládnímu návrhu zákona o rozpočtových pravidlech a v případě jeho schválení podat ústavní stížnost.",
+    "notes": "Přepis obsahuje několik technických chyb (useknutá slova, opakující se fráze v části 1/1 kolem času 08:07), které však nebrání pochopení hlavních argumentů řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kuba",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Národní rozpočtová rada",
+      "Česká národní banka"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika v letošním roce zaplatí 110 miliard jenom na úrocích, což by vydalo na výstavbu pěti velkých nemocnic nebo deseti domovů seniorů.",
+      "type": "paraphrase",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/15:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3095_highlight_00.jpg",
+      "context": "Podle návrhu státního rozpočtu na rok 2024 činí výdaje na obsluhu státního dluhu přibližně 95–100 miliard Kč, přičemž v roce 2025 se očekává nárůst nad 110 miliard Kč. Srovnání s výstavbou nemocnic je ilustrativní odhad, neboť náklady na výstavbu jedné velké fakultní nemocnice se v českých podmínkách pohybují v řádech desítek miliard korun."
+    },
+    {
+      "text": "Dnešní dluhy jsou budoucí daně, tak si je vláda dnes slepě odhlasovává.",
+      "type": "paraphrase",
+      "speaker": "Vojtěch Munzar",
+      "affiliation": "ODS",
+      "timestamp": "1/07:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3095_highlight_01.jpg",
+      "context": "Tvrzení vychází z principu tzv. Ricardovy ekvivalence, která předpokládá, že financování vládních výdajů dluhem vede k očekávání budoucího zvýšení daní pro splacení tohoto dluhu. Jde o standardní ekonomický argument používaný v politické debatě o udržitelnosti veřejných financí, jehož platnost závisí na konkrétní hospodářské situaci a reakci domácností."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Karel Haas (ODS)\n**Co:** Označil vládní strategii „proinvestování se z dluhů“ za „makroekonomický nesmysl jako hrom“.\n**Proč:** Je to politicky citlivé, protože přímo napadá základní ekonomickou tezi, kterou vláda obhajuje své rozpočtové deficity.\n**Čas:** 1/09:45",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/09:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3095_controversy_00.jpg",
+      "context": "Označení strategie za „nesmysl“ je hodnotící politický soud. Ekonomická teorie se v otázce „proinvestování se z dluhů“ rozchází: zatímco keynesiánský přístup připouští dluhové financování investic pro podporu růstu HDP, kritici (včetně Haase) zdůrazňují rizika vysokých úrokových nákladů a vytlačování soukromých investic (crowding-out efekt)."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
