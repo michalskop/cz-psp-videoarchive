@@ -1,0 +1,134 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-26T19:27:49",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3097",
+    "name": "Tisková konference opozičních stran po projednání ST 90",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-26T13:48",
+    "end_date": "2026-08-26T14:22",
+    "sources": [
+      "final/event_3097_2026-08-26_tiskova-konference-opozicnich-stran-po-projednani-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5532_video-psp-2026826-1348-33-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference opozičních stran (ODS, Piráti, STAN, TOP 09, KDU-ČSL) reagovala na projednání a schválení vládního návrhu zákona v Poslanecké sněmovně, který podle opozice umožňuje vládě Andreje Babiše nekontrolované zadlužování státu. Cílem vystoupení bylo informovat veřejnost o záměru opozice podat ústavní stížnost a kritizovat vládní hospodářskou politiku, kterou řečníci označili za nezodpovědnou a ohrožující budoucnost příštích generací.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval možnost vytvoření schodku až půl bilionu korun. Varoval před růstem úroků státního dluhu a zdražováním hypoték. Oznámil podání ústavní stížnosti. `[1/02:03]`",
+      "**Martin Kupka (ODS)** — Označil vládu za „hrobaře rozpočtu“. Argumentoval, že vládní politika poškozuje mladší generace a ústavní stížnost je poslední možností ochrany státu. `[1/04:03]`",
+      "**Matěj Ondřej Havel (TOP 09)** — Označil hlasování za „černou rozpočtovou středu“. Varoval před dluhy pro budoucí generace a vyjádřil nedůvěru v deklarovanou budoucí konsolidaci. `[1/06:01]`",
+      "**Benjamin Činčila (KDU-ČSL)** — Kritizoval ministryni financí za absenci reforem a rozvolnění mantinelů rozpočtové odpovědnosti pro populistické účely. `[1/06:01]`",
+      "**Vít Rakušan (STAN)** — Zdůraznil nutnost komunikace s voliči hnutí ANO a vysvětlování dopadů vládní politiky. Volby označil za souboj o charakter země. `[1/08:00]`"
+    ],
+    "outcome": "Opozice se shodla na společném postupu při podání ústavní stížnosti a na nutnosti intenzivnější práce v regionech s cílem oslovit voliče vládní koalice. Konsenzus panuje v odmítnutí vládního rozpočtového rámce a v kritice personální politiky vlády ve státních podnicích.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Benjamin Činčila",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "Piráti",
+      "STAN",
+      "TOP 09",
+      "KDU-ČSL",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "České dráhy"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda bude moci vytvořit schodek až půl bilionu Kč a přitom se zároveň tvářit, že ten schodek oficiálně neexistuje.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3097_highlight_00.jpg",
+      "context": "Tvrzení se pravděpodobně vztahuje k využívání mimořádných opatření nebo mimorozpočtových fondů. Podle zákona č. 218/2000 Sb. o rozpočtových pravidlech je státní rozpočet schvalován jako zákon, přičemž jeho schodek je transparentně vyčíslen; manipulace s vykazováním schodku mimo oficiální rozpočet je předmětem politické debaty o transparentnosti veřejných financí."
+    },
+    {
+      "text": "To, že teď platíme 110 miliard jenom na úrocích, znamená, že těch 110 miliard například nezaplatí 360 km dálnic nebo 5 velkých nemocnic.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/19:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3097_highlight_01.jpg",
+      "context": "Výdaje na obsluhu státního dluhu v roce 2024 skutečně dosahují řádu přes 90–100 miliard Kč (dle MF ČR). Přirovnání k nákladům na dálnice či nemocnice je ilustrativní politickou metaforou, neboť reálná cena staveb závisí na mnoha proměnných, jako jsou ceny materiálů, výkup pozemků a technologické vybavení."
+    },
+    {
+      "text": "Paní ministryně Alena Schillerová je vlastně nejdražší ministryní financí v historii České republiky.",
+      "type": "citation",
+      "speaker": "Benjamin Činčila",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3097_highlight_02.jpg",
+      "context": "Toto tvrzení je subjektivní politické hodnocení. Ačkoliv za působení Aleny Schillerové došlo k rekordním nominálním schodkům státního rozpočtu (zejména vlivem pandemie COVID-19), hodnocení „nejdražší“ závisí na metodice (např. poměr k HDP, absolutní výše dluhu či vliv vnějších ekonomických šoků)."
+    },
+    {
+      "text": "My jako opozice rozhodně nemáme válčit s voliči hnutí ANO, my máme válčit s Andrejem Babišem a jeho vládou.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/08:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3097_highlight_03.jpg",
+      "context": "Jde o politickou strategii a rétorické vyjádření názoru, které nelze fakticky ověřit. Vít Rakušan zde definuje komunikační linii hnutí STAN vůči voličské základně hnutí ANO."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Opozice navrhuje zrušení části zákona u Ústavního soudu. Napadení zákona umožňujícího vládě volněji nakládat s rozpočtem je politicky citlivé, neboť jde o přímý střet s vládní většinou a zpochybnění legitimity rozpočtového procesu.",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "opoziční strany",
+      "timestamp": "1/12:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3097_controversy_00.jpg",
+      "context": "Opozice má právo podat návrh na zrušení zákona k Ústavnímu soudu dle čl. 87 Ústavy ČR, pokud disponuje potřebným počtem podpisů poslanců či senátorů. Zda je proces zpochybněním legitimity, je otázkou politické interpretace, nikoliv právní fakticity."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
