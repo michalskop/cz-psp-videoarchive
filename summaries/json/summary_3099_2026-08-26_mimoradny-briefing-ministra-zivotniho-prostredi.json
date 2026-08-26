@@ -1,0 +1,114 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-26T14:26:57",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3099",
+    "name": "Mimořádný briefing ministra životního prostředí",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-26T12:00",
+    "end_date": "2026-08-26T12:24",
+    "sources": [
+      "final/event_3099_2026-08-26_mimoradny-briefing-ministra-zivotniho-prostredi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5531_video-psp-2026826-120-33-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Mimořádný briefing ministra životního prostředí Igora Červeného se konal za účelem informování veřejnosti o závažných pochybeních ve Výzkumném ústavu pro krajinu (VÚK). Ministerstvo identifikovalo podezřelé praktiky při zadávání zakázek a čerpání dotací v rámci projektu zaměřeného na akcelerační zóny a krajinné plánování, na který bylo vyčleněno 40 milionů korun.\n\nCílem tiskové konference bylo vysvětlit kroky ministerstva, včetně postavení ředitele ústavu mimo službu („na překážky“), a vyvrátit kritiku opozice ohledně personálních změn. Ministr a jeho tým zdůraznili, že jednají transparentně a v zájmu ochrany veřejných financí před zneužíváním ze strany konkrétních osob.",
+    "main_points": [
+      "**Igor Červený (ministr životního prostředí)** — Prezentoval kauzu zneužití 40milionového projektu. Uvedl, že ředitel VÚK byl postaven mimo službu kvůli podezření z manipulace výběrových řízení. Kritizoval bývalé vedení ministerstva (konkrétně Petra Hladíka) za nedostatečnou kontrolu a nečinnost. `[1/00:00]`",
+      "**Michal Kolařík (vedoucí oddělení interního auditu MŽP)** — Představil časovou osu pochybení: v listopadu 2023 proběhlo setkání klíčových osob (Wolfová, Abel, Dušek), které se následně objevily ve vítězném konzorciu „POCR AZ“. V březnu 2024 byly uzavřeny příkazní smlouvy bez výběrového řízení v hodnotě 2 milionů Kč pro Wolfovou a Abela. V dubnu 2024 proběhla veřejná zakázka za 6,2 milionu Kč, nastavená na míru konzorciu, v němž tyto osoby figurovaly. Celkem bylo vyplaceno 11,5 milionu Kč bez řádných výkazů činnosti. `[1/06:07]`",
+      "**Filip Turek (vládní zmocněnec)** — Vyjádřil se k odhalení kauzy a odmítl nařčení z dehonestace úředníků. Zdůraznil, že jeho kritika směřovala na konkrétní osoby zapojené do nekalých praktik, nikoliv na státní správu jako celek. `[1/08:07]`"
+    ],
+    "outcome": "Ministerstvo zahájilo hloubkový audit celého Výzkumného ústavu pro krajinu. Ředitel ústavu byl postaven mimo službu, aby nedocházelo k ovlivňování vyšetřování. Ministr naznačil, že pokud výsledky auditu potvrdí podezření, bude následovat podání trestních oznámení. Ministerstvo plánuje zpřísnit vnitřní kontrolní mechanismy.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a občasné nesrozumitelné pasáže (zejména v technických popisech auditu). Časové značky jsou orientační dle dostupného přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Igor Červený",
+        "person_id": "psp:person:6996",
+        "affiliation": "Ministerstvo životního prostředí"
+      },
+      {
+        "name": "Michal Kolařík",
+        "person_id": null,
+        "affiliation": "Ministerstvo životního prostředí"
+      },
+      {
+        "name": "Filip Turek",
+        "person_id": "psp:person:7059",
+        "affiliation": "vládní zmocněnec"
+      },
+      {
+        "name": "Radek Bartoniček",
+        "person_id": null,
+        "affiliation": "Aktuálně.cz"
+      }
+    ],
+    "parties": [
+      "Motoristé"
+    ],
+    "institutions": [
+      "Ministerstvo životního prostředí",
+      "Výzkumný ústav pro krajinu",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Z uvedených informací vyplývá, že byl porušen zákon o zadávání veřejných zakázek a je nefunkční vnitřní řídící a kontrolní systém.",
+      "type": "paraphrase",
+      "speaker": "Michal Kolařík",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "1/08:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3099_highlight_00.jpg",
+      "context": "Tvrzení o porušení zákona č. 134/2016 Sb., o zadávání veřejných zakázek, je právní interpretací, kterou musí závazně potvrdit kontrolní orgán (např. ÚOHS) nebo soud. Zda je vnitřní kontrolní systém nefunkční, je subjektivní hodnocení závislé na výsledcích interního auditu či kontroly Nejvyššího kontrolního úřadu."
+    },
+    {
+      "text": "Celkově, když jsme si to spočítali, tak všichni, jak na veřejná zakázka, tak na těch příkazních smlouvách bylo vyplaceno 11,5 milionů korun.",
+      "type": "citation",
+      "speaker": "Michal Kolařík",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "1/08:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3099_highlight_01.jpg",
+      "context": "Tato částka je ověřitelná z účetních záznamů a výdajových dokladů Ministerstva životního prostředí. Nelze nezávisle ověřit bez přístupu k internímu účetnictví úřadu."
+    },
+    {
+      "text": "My nemáme rádi experty, kteří se podílí na takto hanebných činnostech, kteří odčerpávají evropské peníze tímto způsobem.",
+      "type": "citation",
+      "speaker": "Igor Červený",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "1/04:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3099_highlight_02.jpg",
+      "context": "Jde o subjektivní politické hodnocení, nikoliv o faktické tvrzení. Pojem „odčerpávání evropských peněz“ v kontextu neoprávněného čerpání dotací podléhá šetření auditních orgánů (např. Auditní orgán MF ČR nebo OLAF)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Novinář Radek Bartoniček kritizoval, že jednání výboru k této kauze má být uzavřené, což je v rozporu s tradicí veřejných výborů. Ministr Červený argumentoval ochranou státních zaměstnanců před „mediálním lynčem“ a politickým útokem ze strany opozice.",
+      "speaker": "Radek Bartoniček / Igor Červený",
+      "affiliation": "Aktuálně.cz / Ministerstvo životního prostředí",
+      "timestamp": "1/20:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3099_controversy_00.jpg",
+      "context": "Jednací řád Poslanecké sněmovny umožňuje výborům jednat neveřejně, pokud tak rozhodnou, avšak veřejnost jednání je standardem dle zákona č. 90/1995 Sb. Argumentace „mediálním lynčem“ je politickým postojem, nikoliv právním důvodem pro utajení jednání podle zákona o svobodném přístupu k informacím."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
