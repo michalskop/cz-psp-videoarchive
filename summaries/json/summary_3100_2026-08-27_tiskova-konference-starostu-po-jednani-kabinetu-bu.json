@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-08-27T14:28:29",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3100",
+    "name": "Tisková konference Starostů po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-27T11:02",
+    "end_date": "2026-08-27T11:19",
+    "sources": [
+      "final/event_3100_2026-08-27_tiskova-konference-starostu-po-jednani-kabinetu-bu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5533_video-psp-2026827-112-31-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů a legislativních návrhů stínové vlády hnutí STAN k aktuálním krokům vládní koalice. Hlavními tématy byly plánované zmrazení platů politiků, reforma penzijního systému, personální změny ve vedení Českých drah a kritika fungování Ministerstva vnitra.\n\nCílem vystoupení bylo poukázat na podle řečníků populistický charakter vládních kroků, představit alternativní řešení (např. snížení poslaneckých náhrad) a kritizovat netransparentnost při obsazování klíčových pozic ve státních podnicích a úřadech.",
+    "main_points": [
+      "**Michaela Šebelová (STAN)** — Kritizovala vládní záměr zmrazit platy politiků jako populistické gesto. Navrhla dva pozměňovací návrhy: snížení poslaneckých náhrad o 40 %. `[1/01:10]`",
+      "**Pavla Pivoňka Vaňková (STAN)** — Představila návrhy k reformě penzijního systému, zejména prostupnost mezi DPS a DIP a motivaci zaměstnavatelů k příspěvkům. `[1/03:15]`",
+      "**Ondřej Lochman (STAN)** — Odsoudil netransparentní odvolání ředitele Českých drah a jmenování nové ředitelky bez výběrového řízení. Varoval před možnou privatizací ČD Cargo. `[1/06:03]`",
+      "**Petr Letocha (STAN)** — Kritizoval personální rozklad na Ministerstvu vnitra, zrušení odboru krizové komunikace a nesplněné sliby ohledně platů policistů a hasičů. `[1/08:30]`"
+    ],
+    "outcome": "Jednání stínové vlády vyústilo v rozhodnutí předložit v Poslanecké sněmovně pozměňovací návrhy týkající se snížení poslaneckých náhrad o 40 %. Hnutí STAN deklarovalo připravenost konstruktivně doplňovat vládní návrhy, ale zároveň ostře kritizovat netransparentní personální politiku a populistické kroky vládní koalice.",
+    "notes": "Přepis obsahuje místy chyby v diakritice a useknutá slova, avšak obsah je srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Ondřej Lochman",
+        "person_id": "psp:person:6779",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Petr Letocha",
+        "person_id": "psp:person:6739",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "České dráhy",
+      "Ministerstvo vnitra",
+      "ČD Cargo"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My toto navrhované zmrazení platů nepovažujeme za nic jiného než demonstrativní gesto vůči jejich voličům.",
+      "type": "paraphrase",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3100_highlight_00.jpg",
+      "context": "Jde o politické hodnocení motivace opozičního návrhu, které nelze objektivně ověřit. Zmrazení platů ústavních činitelů je opakovaným tématem politické debaty, jehož reálný dopad na státní rozpočet je v poměru k celkovým výdajům marginální."
+    },
+    {
+      "text": "Pokud chceme třetí pilíř opravdu reformovat tak, aby byl spravedlivý, efektivní, prostupný a motivační, je třeba ještě dotáhnout ty reformy.",
+      "type": "citation",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "1/03:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3100_highlight_01.jpg",
+      "context": "Tvrzení je politickým vyjádřením názoru na budoucí legislativní proces. Parametry reformy penzijního systému (třetího pilíře) jsou předmětem probíhajících expertních a politických diskusí v rámci důchodové reformy."
+    },
+    {
+      "text": "Je to ředitel, který má za sebou výsledky, a ministr dopravy nám dluží odpověď, proč opravdu byl odvolán.",
+      "type": "citation",
+      "speaker": "Ondřej Lochman",
+      "affiliation": "STAN",
+      "timestamp": "1/06:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3100_highlight_02.jpg",
+      "context": "Odvolání ředitelů státních podniků je v kompetenci příslušných ministrů (v případě ČD ministra dopravy). Důvody odvolání jsou často interní záležitostí resortu a nemusí být veřejně detailně specifikovány, pokud to zákon nevyžaduje."
+    },
+    {
+      "text": "Je poněkud paradoxní, když vláda ANO a SPD veřejnosti tvrdí, že migrační pakt odmítla, a její ministr vnitra současně některé jeho prvky implementuje do českého práva.",
+      "type": "citation",
+      "speaker": "Petr Letocha",
+      "affiliation": "STAN",
+      "timestamp": "1/13:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3100_highlight_03.jpg",
+      "context": "Migrační pakt EU je komplexní soubor legislativních aktů. Implementace některých prvků do národního práva je povinností členských států vyplývající z unijního práva, bez ohledu na politickou rétoriku o odmítnutí paktu jako celku."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Téma:** Privatizace ČD Cargo.\n- **Kdo:** Ondřej Lochman (STAN).\n- **Co:** Obava, že odvolání ředitele ČD a změny ve vedení směřují k privatizaci ČD Cargo.\n- **Proč:** ČD Cargo je označeno za strategickou infrastrukturu, jejíž privatizace by v době mezinárodních hrozeb byla bezpečnostním rizikem.\n- **Čas:** 1/07:30",
+      "speaker": "Ondřej Lochman",
+      "affiliation": "STAN",
+      "timestamp": "1/07:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3100_controversy_00.jpg",
+      "context": "Privatizace ČD Cargo není v současnosti součástí vládního programu. ČD Cargo je dceřinou společností Českých drah, které jsou státním podnikem; jakékoli úvahy o změně vlastnické struktury by podléhaly schválení vládou a dozorčí radou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
