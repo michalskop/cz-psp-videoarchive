@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-01T19:38:12",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3104",
+    "name": "Tisková konference ke kulatému stolu \"Aktuální otázky sexuálně motivované kriminality\"",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-01T16:11",
+    "end_date": "2026-09-01T16:25",
+    "sources": [
+      "final/event_3104_2026-09-01_tiskova-konference-ke-kulatemu-stolu-34aktualni-ot.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5537_video-psp-202691-1611-48-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na problematiku narůstající sexuálně motivované kriminality, a to jak v běžném životě, tak v kyberprostoru. Cílem bylo zhodnotit současný stav, identifikovat nedostatky v systému (zejména v oblasti specializace soudů a práce s oběťmi) a navrhnout legislativní i praktické kroky pro efektivnější odhalování a trestání pachatelů.\n\nKulatý stůl propojil zástupce orgánů činných v trestním řízení (OČTŘ), probační a mediační služby, kriminalistického ústavu a nevládních organizací (např. Bílý kruh bezpečí, Rosa).",
+    "main_points": [
+      "**Renata Vesecká (ÚPRV)** — Zdůraznila nárůst sexuální kriminality v kyberprostoru. Upozornila na chybějící specializaci soudců v této oblasti a nutnost dlouhodobé práce s oběťmi i pachateli. `[1/02:04]`",
+      "**Jeronín Tejc (Ministerstvo spravedlnosti)** — Kritizoval nepřiměřeně mírné tresty u znásilnění. Oznámil vzdělávání soudců, novelu zákona o obětech (postih doxingu a cyberflashingu) a využití stížností pro porušení zákona k sjednocení praxe. `[1/04:09]`",
+      "**Obecné body** — Diskuse o limitované možnosti specializace soudů na okresní úrovni a debatě o nutnosti vytváření nových skutkových podstat pro digitální kriminalitu."
+    ],
+    "outcome": "Jednání potvrdilo shodu na nutnosti věnovat zvýšenou pozornost sexuální kriminalitě a posílit specializaci orgánů činných v trestním řízení. Ministr spravedlnosti se zavázal k legislativním změnám a metodickému vedení státního zastupitelství. Otázka „digitálního kuplířství“ zůstává otevřená k další debatě, přičemž panuje shoda na tom, že trestní zákoník by neměl být zbytečně rozmělňován novými skutkovými podstatami.",
+    "notes": "Přepis obsahuje pasáže s chybějící diakritikou, nesrozumitelnými shluky slov a opakujícími se frázemi, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Renata Vesecká",
+        "person_id": "psp:person:7054",
+        "affiliation": "ÚPRV"
+      },
+      {
+        "name": "Jeronín Tejc",
+        "person_id": "psp:person:5513",
+        "affiliation": "Ministerstvo spravedlnosti"
+      },
+      {
+        "name": "Mark Pauz",
+        "person_id": null,
+        "affiliation": "CNN Prima News"
+      }
+    ],
+    "parties": [
+      "Pirátský klub"
+    ],
+    "institutions": [
+      "ÚPRV",
+      "Ministerstvo spravedlnosti",
+      "Bílý kruh bezpečí",
+      "Rosa",
+      "Probační a mediační služba",
+      "Kriminalistický ústav",
+      "Nejvyšší soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Sexuální násilí a sexuální trestné činy vzrůstají, společnost jim musí věnovat opravdu velkou pozornost.",
+      "type": "paraphrase",
+      "speaker": "Renata Vesecká",
+      "affiliation": "ÚPRV",
+      "timestamp": "1/01:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3104_highlight_00.jpg",
+      "context": "Statistiky Policie ČR dlouhodobě vykazují nárůst počtu oznámených případů znásilnění, nicméně odborníci často upozorňují na vysokou míru tzv. temné číslice (neohlášených případů). Nárůst statistik může odrážet jak reálný vývoj kriminality, tak vyšší ochotu obětí tyto činy hlásit."
+    },
+    {
+      "text": "U závažných případů znásilnění nesmí docházet k excesům v podobě nepřiměřeně mírných trestů, zejména trestů podmíněných.",
+      "type": "citation",
+      "speaker": "Jeronín Tejc",
+      "affiliation": "Ministerstvo spravedlnosti",
+      "timestamp": "1/04:14",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3104_highlight_01.jpg",
+      "context": "Trestní zákoník (zákon č. 40/2009 Sb.) umožňuje ukládání podmíněných trestů i u závažných trestných činů, pokud soud vyhodnotí, že je to dostačující k nápravě pachatele. Debata o zpřísnění trestních sazeb a omezení podmíněných trestů u sexuálních deliktů je v ČR dlouhodobým politickým tématem, které reflektuje společenskou poptávku po vyšší ochraně obětí."
+    },
+    {
+      "text": "Nově chceme trestat například tzv. doxin, tedy zveřejnění osobních údajů oběti s cílem přimět další lidi k jejímu obtěžování.",
+      "type": "paraphrase",
+      "speaker": "Jeronín Tejc",
+      "affiliation": "Ministerstvo spravedlnosti",
+      "timestamp": "1/07:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3104_highlight_02.jpg",
+      "context": "Doxing (zveřejňování citlivých údajů za účelem obtěžování) je v současné legislativě postihován nepřímo skrze trestné činy jako nebezpečné pronásledování (§ 354) nebo porušení tajemství dopravovaných zpráv (§ 182). Zavedení specifické skutkové podstaty by znamenalo legislativní zpřesnění, které má za cíl reflektovat specifika kybernetické kriminality."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o návrhu na postihování digitálního kuplířství. Mark Pauz (CNN Prima News) se dotazoval na postoj k tomuto návrhu, přičemž panuje napětí mezi potřebou pružné reakce na novou kriminalitu a rizikem legislativní inflace.",
+      "speaker": "Mark Pauz",
+      "affiliation": "CNN Prima News",
+      "timestamp": "1/10:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3104_controversy_00.jpg",
+      "context": "Digitální kuplířství (např. provozování platforem pro placený sexuální obsah) je předmětem právních sporů o výklad pojmu 'kuplířství' podle § 189 trestního zákoníku. Legislativní inflace je legitimní obavou právních expertů, kteří varují před vytvářením příliš mnoha specifických skutkových podstat namísto využívání obecných ustanovení."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-01T19:38:34",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3103",
+    "name": "Tisková konference ODS k reformě školství a jeho financování",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-01T14:03",
+    "end_date": "2026-09-01T14:27",
+    "sources": [
+      "final/event_3103_2026-09-01_tiskova-konference-ods-k-reforme-skolstvi-a-jeho-f.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5536_video-psp-202691-143-8-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení komplexního reformního balíčku ODS s názvem „8+2“, který má za cíl restartovat český vzdělávací systém. Představitelé strany kritizovali současnou politiku ministra školství Roberta Plagy, kterou označili za neefektivní, a to zejména v oblasti financování a reakce na potřeby trhu práce.\n\nHlavním cílem reformy je zvýšení kvality vzdělávání, lepší propojení škol s praxí a zefektivnění státních výdajů. ODS navrhuje systémové změny, které mají lépe připravit žáky na 21. století a zajistit jim lepší uplatnitelnost na trhu práce bez nutnosti dodatečných rekvalifikací.",
+    "main_points": [
+      "**Neidentifikovaný řečník (ODS, předseda strany)** — Kritizoval ministra Plagu za prohraný boj o budoucnost vzdělávání. Představil koncept reformy „8+2“, který zahrnuje zrušení devátých tříd a povinné dvouleté středoškolské vzdělávání. Zdůraznil nutnost užšího kontaktu škol s firmami a profesního poradenství. `[1/02:01]`",
+      "**Renata Zajíčková (ODS, stínová ministryně školství)** — Představila technické detaily reformy. Kritizovala současný systém financování, který podle ní motivuje ředitele k neefektivnímu navyšování počtu učitelů a hodin, místo aby peníze „šly za žákem“. Uvedla, že zrušení devátých tříd přinese úsporu 9 miliard Kč a celková reforma by měla přinést přínos 30 miliard Kč. Obhajovala zavedení „malé maturity“ jako zpětné vazby pro žáky. `[1/04:08]`",
+      "**Radko Sáblík (odborník na školství)** — Poukázal na odtrženost školství od reality. Argumentoval, že pouhé navýšení financí bez systémových změn kvalitu nezvýší. Prosazuje model, kde studenti pracují na reálných projektech s firmami již během studia. Zdůraznil, že současné RVP (Rámcové vzdělávací programy) již nyní umožňují inovace, problémem je spíše myšlení lidí. `[1/08:05]`"
+    ],
+    "outcome": "Jednání bylo prezentací politického programu ODS. Nebylo přijato žádné formální rozhodnutí, neboť se jednalo o tiskovou konferenci opoziční strany. Dominujícím postojem řečníků je přesvědčení, že současný systém financování je neudržitelný a že reforma „8+2“ je nezbytným krokem k modernizaci školství a úspoře veřejných prostředků.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány. Časové značky odpovídají poskytnutému přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Radko Sáblík",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD"
+    ],
+    "institutions": [
+      "Ministerstvo školství",
+      "Ministerstvo průmyslu a obchodu"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Jenom zrušení devátých ročníků základních škol přinese úsporu v rozsahu 9 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/06:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3103_highlight_00.jpg",
+      "context": "Tvrzení je sporné. Podle analýz MŠMT a odborných studií (např. PAQ Research) by úspory byly nižší, protože by se přesunuly náklady na střední školy a vyvstala by potřeba investic do transformace kurikula. Přesná částka 9 miliard není podložena oficiální vládní kalkulací a nezohledňuje dlouhodobé dopady na vzdělávací systém."
+    },
+    {
+      "text": "Když do toho školství naliju o 50 % víc peněz a nezměním systém, tak způsob, jak se vyplácí na těch školách, bude to školství o 50 % dražší, ale nezmění se na tom nic.",
+      "type": "citation",
+      "speaker": "Radko Sáblík",
+      "affiliation": null,
+      "timestamp": "1/08:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3103_highlight_01.jpg",
+      "context": "Jde o názorové tvrzení o efektivitě veřejných výdajů, které nelze fakticky ověřit jako pravdivé či nepravdivé. V ekonomii vzdělávání existuje shoda, že samotné navýšení rozpočtu bez systémových změn (např. změna metod výuky, řízení škol) nemusí nutně vést ke zlepšení výsledků žáků."
+    },
+    {
+      "text": "Nám dnes vypadává zhruba 10 % dětí ze středního vzdělávání, což je obrovské mrhání peněz a časem mladého člověka.",
+      "type": "paraphrase",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/17:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3103_highlight_02.jpg",
+      "context": "Údaj o 10 % je nadhodnocený. Podle dat ČŠÚ a MŠMT se míra předčasných odchodů ze vzdělávání v ČR dlouhodobě pohybuje v rozmezí 6–7 %. Ačkoliv je tento jev považován za problém, číslo 10 % neodpovídá oficiálním statistikám o nedokončeném středním vzdělání."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverze: Zkrácení základní školy na 8 let**\n- **Kdo:** Renata Zajíčková (ODS) reagovala na dotaz ohledně návrhu SPD.\n- **Co:** Zajíčková obhajuje zkrácení základní docházky jako součást širší reformy, zatímco kritici (včetně odborníků citovaných v dotazu) varují před prohloubením sociálních nerovností.\n- **Proč:** Politicky citlivé téma, protože se dotýká rovnosti přístupu ke vzdělání a obav z předčasného „škatulkování“ dětí do oborů.\n- **Čas:** 1/12:11",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/12:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3103_controversy_00.jpg",
+      "context": "Debata o zkrácení povinné školní docházky na 8 let je předmětem odborného sporu. Zastánci argumentují efektivitou a dřívějším vstupem na trh práce, zatímco kritici (včetně České odborné společnosti pro inkluzivní vzdělávání) varují před rizikem sociálního vyloučení žáků ze znevýhodněného prostředí, kteří by dříve opouštěli vzdělávací systém."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
