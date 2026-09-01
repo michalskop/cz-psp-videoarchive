@@ -1,0 +1,135 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-01T02:25:15",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3101",
+    "name": "Tisková konference ODS po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-08-31T15:34",
+    "end_date": "2026-08-31T16:10",
+    "sources": [
+      "final/event_3101_2026-08-31_tiskova-konference-ods-po-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5534_260831-TK-ODS_edit.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Účelem tiskové konference bylo vyjádření zásadního nesouhlasu ODS s návrhem státního rozpočtu pro nadcházející období. Představitelé ODS označili rozpočet za „fiskální zločin“ a „rozpočtový masakr“, přičemž kritizovali zejména rekordní deficit ve výši 389 miliard korun v době, kdy ekonomika vykazuje růst a země se nepotýká s krizí typu pandemie covid-19.\n\nCílem vystoupení bylo upozornit veřejnost na rizika spojená s vysokým zadlužováním, kritizovat vládní rétoriku o „proinvestování se z krize“ a vyzvat odbornou veřejnost i koaliční partnery vlády k odporu proti tomuto hospodaření.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval deficit 389 miliard korun jako nejvyšší mimo covidové období. Upozornil, že pokud rozpočet nezahrnuje 34 miliard na Dukovany, reálný schodek může přesáhnout 420 miliard. Označil vládní politiku za „projídání ekonomiky“. `[1/02:01]`",
+      "**Jan Skopeček (ODS)** — Označil rozpočet za „covidový schodek bez covidu“. Varoval před proinflačním působením vlády, které povede k vyšším úrokům u hypoték a podnikatelských úvěrů. Vyzval ekonomy a profesní organizace k veřejnému odporu. `[1/04:01]`",
+      "**Jiří Havránek (ODS)** — Kritizoval dopady minimální mzdy na chráněný trh práce a nemocnice. Vyjádřil obavy z byrokracie u transpozice směrnice o rovném odměňování a platformovém zaměstnávání. `[1/08:05]`",
+      "**Martin Baxa (ODS)** — Kritizoval ministra kultury za pokus o prosazení „fejkové“ státní kulturní politiky, která vznikla bez konzultace s odbornou obcí. Vyzval ministra k rezignaci. `[1/14:00]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale politickým prohlášením. ODS se rozhodla k aktivnímu odporu proti návrhu rozpočtu v Poslanecké sněmovně. Konsenzem mezi řečníky je, že současná vládní politika je ekonomicky neudržitelná a představuje bezpečnostní riziko pro budoucí generace.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (např. v části o výpočtech financí a v závěru projevu Jiřího Havránka), které však nemění celkový vyznění kritiky rozpočtu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO",
+      "SPD",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo práce a sociálních věcí",
+      "Ministerstvo kultury",
+      "Česká národní banka"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tohle je hazard s budoucností České republiky, tohle je skutečně fiskální zločin.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/03:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3101_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení rozpočtové politiky, nikoliv o právní nebo ekonomický termín. Hodnocení „fiskálního zločinu“ závisí na interpretaci priorit státního rozpočtu a míry zadlužení."
+    },
+    {
+      "text": "Vláda se stává největším proinflačním rizikem v České republice.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/04:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3101_highlight_01.jpg",
+      "context": "Inflace je ovlivněna mnoha faktory, včetně měnové politiky ČNB, cen energií a globálního vývoje. Tvrzení, že vláda je „největším rizikem“, je politickou interpretací, kterou ekonomové hodnotí různě v závislosti na tom, zda zdůrazňují fiskální expanzi nebo vnější vlivy."
+    },
+    {
+      "text": "Každý den zadluží vláda Českou republiku o víc než jednu miliardu korun.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/06:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3101_highlight_02.jpg",
+      "context": "Tvrzení je matematicky ověřitelné na základě schváleného schodku státního rozpočtu. Pokud je roční schodek např. 252 miliard Kč (dle zákona o státním rozpočtu), průměrné denní zadlužení skutečně přesahuje 690 milionů Kč, v závislosti na konkrétním rozpočtovém rámci se částka může blížit jedné miliardě."
+    },
+    {
+      "text": "Minister, který nic neprosadí, tak je ve své funkci zbytečný.",
+      "type": "citation",
+      "speaker": "Martin Baxa",
+      "affiliation": "ODS",
+      "timestamp": "1/15:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3101_highlight_03.jpg",
+      "context": "Jde o subjektivní názor na efektivitu výkonu ministerské funkce. Neexistuje objektivní metrika pro „zbytečnost“ ministra, hodnocení vychází z politických očekávání a dosažených legislativních či exekutivních cílů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Martin Kupka označil vládní rozpočet za „fiskální zločin“. Je to politicky citlivé, protože jde o přímé zpochybnění legitimity a odpovědnosti vlády při správě veřejných financí.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3101_controversy_00.jpg",
+      "context": "Označení rozpočtu za „fiskální zločin“ je rétorická figura. Legitimita vlády je dána výsledkem voleb a důvěrou Poslanecké sněmovny, nikoliv výší rozpočtového schodku, pokud je tento schválen v souladu se zákonem č. 218/2000 Sb., o rozpočtových pravidlech."
+    },
+    {
+      "statement": "Jan Skopeček prohlásil, že „ministři, kteří pro tento schodek hlasovali, museli zešílet“. Jde o velmi expresivní útok na vládní kabinet.",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3101_controversy_01.jpg",
+      "context": "Výrok je expresivním politickým vyjádřením. Rozhodování o schodku rozpočtu je kolektivním aktem vlády a následně zákonodárců, přičemž hlasování pro schodek je standardním ústavním procesem, nikoliv indikátorem duševního stavu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
