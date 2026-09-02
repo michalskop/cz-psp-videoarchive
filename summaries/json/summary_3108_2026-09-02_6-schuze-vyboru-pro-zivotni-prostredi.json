@@ -1,0 +1,136 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-02T15:06:00",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3108",
+    "name": "6. schůze Výboru pro životní prostředí",
+    "classification": "Jednání výborů",
+    "start_date": "2026-09-02T13:02",
+    "end_date": "2026-09-02T16:00",
+    "sources": [
+      "final/event_3108_2026-09-02_6-schuze-vyboru-pro-zivotni-prostredi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/09/02/_20260902130004.mp4",
+        "from_sec": 116
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/09/02/_20260902131008.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/09/02/_20260902132002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/09/02/_20260902133006.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K49/2026/09/02/_20260902134001.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 5,
+    "parts_total": 5,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "6. schůze Výboru pro životní prostředí se konala 2. září 2026. Hlavním cílem jednání bylo projednání dvou vládních návrhů zákonů v oblasti životního prostředí: novely zákona o látkách poškozujících ozonovou vrstvu a fluorovaných skleníkových plynech (sněmovní tisk č. 14) a novely zákona o výrobcích s ukončenou životností (sněmovní tisk č. 58).\n\nJednání se zaměřilo na implementaci evropské legislativy do českého právního řádu, řešení problematiky kolektivních systémů v odpadovém hospodářství, úpravu sankčních mechanismů a regulaci online tržišť. Součástí schůze byla také debata o personálním obsazení a strategii České inspekce životního prostředí (ČIŽP).",
+    "main_points": [
+      "**Neidentifikovaný řečník (předsedající)** — zahájila schůzi, vedla procedurální hlasování o programu a zařazení bodu o ČIŽP. `[1/02:02]`",
+      "**Krutáková (poslankyně)** — navrhla zařazení bodu o strategii a plánech České inspekce životního prostředí na dnešní schůzi. `[1/02:02]`",
+      "**Martin Vajs (náměstek MŽP)** — představil vládní návrh zákona o látkách poškozujících ozonovou vrstvu (tisk 14) a vládní návrh zákona o výrobcích s ukončenou životností (tisk 58). Vysvětlil nutnost adaptace na nařízení EU a řešení problematiky „freeridingu“. `[2/02:39]`, `[4/04:03]`",
+      "**Eva Fialová (poslankyně, zpravodajka)** — zdůraznila nutnost proškolování osob nakládajících s regulovanými látkami. Představila pozměňovací návrh k tisku 58, který se zaměřuje na zamezení střetu zájmů mezi kolektivními systémy a odpadovými firmami, snížení finančních rezerv a regulaci online tržišť. `[2/06:20]`, `[5/00:01]`",
+      "**Jan Bendl (poslanec)** — vznesl dotazy k legislativní kvalitě návrhu (tisk 14), způsobu určování tržní hodnoty pro sankce a požadavku na reportování aktiv a pasiv firem. `[2/06:20]`",
+      "**Petr Hladík (poslanec)** — vyjádřil obavy z plošného snížení finančních rezerv u kolektivních systémů (zejména u fotovoltaiky) a kritizoval snahu o omezování soukromého podnikání v odpadovém hospodářství v rámci pozměňovacího návrhu Evy Fialové. `[5/04:04]`"
+    ],
+    "outcome": "* **Tisk 14 (Ozonová vrstva):** Výbor po projednání přijal usnesení, kterým doporučuje Poslanecké sněmovně návrh schválit v předloženém znění. `[4/00:01]`\n* **Tisk 58 (Výrobky s ukončenou životností):** Projednávání bylo zahájeno, byla otevřena podrobná rozprava k pozměňovacím návrhům (zejména k návrhu E. Fialové), přičemž debata o nastavení kolektivních systémů a finančních rezerv bude pokračovat.\n* **ČIŽP:** Bylo rozhodnuto, že bod týkající se strategie a vedení České inspekce životního prostředí bude zařazen na jednání 30. září 2026. `[1/06:01]`",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, opakující se fráze jako „Představující se na výboru...“, „zpáchan“). Obsah byl rekonstruován na základě srozumitelných pasáží."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Eva Fialová",
+        "person_id": "psp:person:6457",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Martin Vajs",
+        "person_id": null,
+        "affiliation": "Ministerstvo životního prostředí"
+      },
+      {
+        "name": "Jan Bendl",
+        "person_id": "psp:person:5660",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Petr Hladík",
+        "person_id": "psp:person:6881",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Krutáková",
+        "person_id": "psp:person:6466",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Ministerstvo životního prostředí",
+      "Česká inspekce životního prostředí",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Cílem mého pozměňovacího návrhu je jednoznačně zamezit střetu zájmů, což je oddělit neziskové kolektivní systémy od ziskových odpadových podnikatelů.",
+      "type": "paraphrase",
+      "speaker": "Eva Fialová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "5/00:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3108_highlight_00.jpg",
+      "context": "Návrh se týká novely zákona o výrobcích s ukončenou životností. Oddělení neziskových kolektivních systémů od ziskových firem je dlouhodobým tématem debaty o transparentnosti nakládání s prostředky, které výrobci odvádějí na recyklaci."
+    },
+    {
+      "text": "U ostatních by se snížila rezerva na 25 % a je to hlavně o racionalizaci, kdy 50 % znamenalo nadměrnou kapitálovou zátěž.",
+      "type": "paraphrase",
+      "speaker": "Eva Fialová",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "5/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3108_highlight_01.jpg",
+      "context": "Jde o technickou úpravu výše finančních rezerv, které musí kolektivní systémy držet pro případ svého zániku. Změna z 50 % na 25 % je předmětem odborné diskuse o tom, jaká výše kapitálu je dostatečná pro zajištění stability systému, aniž by docházelo k neefektivnímu vázání prostředků."
+    },
+    {
+      "text": "Já se domnívám, že vy jste sem položila pozměňující návrh, který otvírá principiální debatu o tom, jak mají fungovat kolektivní systémy v ČR, a já na to mám názor, že zakazovat soukromé podnikání je úplně špatně.",
+      "type": "citation",
+      "speaker": "Petr Hladík",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "5/08:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3108_highlight_02.jpg",
+      "context": "Postoj ministra životního prostředí Petra Hladíka reflektuje liberální přístup k tržnímu prostředí. Otázka, zda je regulace kolektivních systémů vnímána jako 'zákaz podnikání' nebo jako 'nastavení pravidel pro neziskový sektor', je politickým a právním sporem o interpretaci zákona č. 542/2020 Sb."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh poslankyně Evy Fialové na oddělení kolektivních systémů od ziskových odpadových firem.\n* **Kdo:** Eva Fialová (poslankyně) vs. Petr Hladík (poslanec).\n* **Co:** Fialová navrhuje zákaz koncernových vazeb a majetkové oddělení; Hladík to označuje za omezování soukromého podnikání.\n* **Proč:** Jde o zásadní střet o to, zda má být odpadové hospodářství striktně neziskové, nebo zda je prostor pro tržní principy.\n* **Čas:** `5/00:01` a `5/04:04`.",
+      "speaker": "Eva Fialová, Petr Hladík",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "5/00:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3108_controversy_00.jpg",
+      "context": "Střet mezi poslankyní Fialovou a ministrem Hladíkem představuje ideový spor o podobu odpadové legislativy. Zatímco návrh cílí na eliminaci možného střetu zájmů a 'vyvádění' zisku z recyklačních poplatků, oponenti varují před nepřiměřeným zásahem státu do podnikatelských struktur."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

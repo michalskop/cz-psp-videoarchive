@@ -1,0 +1,217 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-02T15:06:59",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3105",
+    "name": "22. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-09-02T09:07",
+    "end_date": "2026-09-02T12:45",
+    "sources": [
+      "final/event_3105_2026-09-02_22-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902090007.mp4",
+        "from_sec": 448
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902091007.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902092007.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902093007.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902094007.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902095007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902100007.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902101007.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902102007.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902103007.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902104007.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902105007.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902110007.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902111007.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902112007.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902113007.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902114007.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902115007.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902120007.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902121007.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902122007.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902123007.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/02/_20260902124007.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 23,
+    "parts_total": 23,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 22. schůze Rozpočtového výboru se zaměřilo na kontrolu výkonu dohledu nad finančním trhem, činnost Národní rozvojové banky (NRB) a projednání harmonogramu státního rozpočtu na rok 2027. Cílem bylo zhodnotit stav finančního sektoru, projednat legislativní úpravy související s evropskými směrnicemi (DAC 8, DAC 9, CBAM) a nastavit procesní rámec pro schvalování státního rozpočtu.",
+    "main_points": [
+      "**Jan Frejt (ČNB)** — Představil zprávu o výkonu dohledu nad finančním trhem za rok 2025. Uvedl, že sektor je stabilní, banky splňují mezinárodní požadavky a ČNB se zaměřila na ochranu klientů a digitalizaci. `[2/00:00]`",
+      "**Tomáš Nýdecký (NRB)** — Prezentoval činnost banky za rok 2025, zdůraznil institucionální transformaci a integraci s Českou exportní bankou. Cílem je dosáhnout podpory ve výši 1 % HDP ročně. `[3/06:05]`",
+      "**Vladimír Pikoria (předseda výboru)** — Vedl diskuzi o harmonogramu projednávání státního rozpočtu na rok 2027. Po debatě bylo dohodnuto, že termín pro přípravu na první čtení bude stanoven na 16. října 2026. `[6/08:09]`",
+      "**Karel Tyl (Ministerstvo financí)** — Představil Fiskálně strukturální plán ČR na období 2027–2030. Uvedl, že deficit veřejných financí by měl v roce 2027 mírně podkročit 3 % HDP. `[11/00:00]`",
+      "**Luděk Niedermayer (Národní rozpočtová rada)** — Varoval před postupným nárůstem dluhu a upozornil na rizika spojená s novými rozpočtovými pravidly. `[13/08:00]`",
+      "**Stanislav Kouba (Ministerstvo financí)** — Vysvětloval technické novely zákonů o DPH a mezinárodní spolupráci při správě daní (DAC 8, DAC 9) a mechanismus uhlíkového vyrovnání na hranicích (CBAM). `[16/00:00]`"
+    ],
+    "outcome": "Výbor vzal na vědomí zprávy o dohledu ČNB a činnosti NRB. Byl schválen harmonogram projednávání státního rozpočtu na rok 2027 s posunem termínů pro přípravu. Výbor rovněž projednal a doporučil k dalšímu legislativnímu procesu novely zákonů o DPH a podnikání na kapitálovém trhu.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, opakující se nesmyslné fráze a useknutá slova. Obsah byl rekonstruován na základě kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Frejt",
+        "person_id": null,
+        "affiliation": "ČNB"
+      },
+      {
+        "name": "Tomáš Nýdecký",
+        "person_id": null,
+        "affiliation": "NRB"
+      },
+      {
+        "name": "Vladimír Pikoria",
+        "person_id": "psp:person:7034",
+        "affiliation": "Rozpočtový výbor"
+      },
+      {
+        "name": "Karel Tyl",
+        "person_id": "psp:person:7091",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Luděk Niedermayer",
+        "person_id": "psp:person:5538",
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Stanislav Kouba",
+        "person_id": "psp:person:2427",
+        "affiliation": "Ministerstvo financí"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "Opozice"
+    ],
+    "institutions": [
+      "ČNB",
+      "NRB",
+      "Ministerstvo financí",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká národní banka se v loňském roce zaměřila na ochranu klientů a férové zacházení ze strany institucí.",
+      "type": "paraphrase",
+      "speaker": "Jan Frejt",
+      "affiliation": "ČNB",
+      "timestamp": "2/05:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3105_highlight_00.jpg",
+      "context": "ČNB v roce 2023 skutečně posílila dohled nad ochranou spotřebitele, což vyplývá z její Výroční zprávy o výkonu dohledu nad finančním trhem. Zaměření na férové zacházení je jednou z prioritních oblastí v rámci její zákonné pravomoci dohledu nad trhem."
+    },
+    {
+      "text": "Národní rozvojová banka směřuje k tomu, aby byla schopna ročně poskytnout podporu na úrovni 1 % HDP.",
+      "type": "citation",
+      "speaker": "Tomáš Nýdecký",
+      "affiliation": "NRB",
+      "timestamp": "4/01:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3105_highlight_01.jpg",
+      "context": "Cíl poskytovat podporu ve výši 1 % HDP je součástí strategických plánů Národní rozvojové banky (NRB) pro transformaci na rozvojovou instituci. Aktuální objem poskytované podpory se však od tohoto cíle liší a závisí na dostupných zdrojích z fondů EU a státního rozpočtu."
+    },
+    {
+      "text": "Ministerstvo financí očekává, že dluh k HDP příští rok dosáhne 47 % a bez velké konsolidace nás čeká další nárůst.",
+      "type": "paraphrase",
+      "speaker": "Luděk Niedermayer",
+      "affiliation": "Národní rozpočtová rada",
+      "timestamp": "14/03:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3105_highlight_02.jpg",
+      "context": "Predikce vývoje dluhu sektoru vládních institucí vychází z pravidelných zpráv Národní rozpočtové rady (NRR) a MF ČR. Údaj o 47 % HDP odpovídá střednědobým výhledům, přičemž dlouhodobá udržitelnost veřejných financí je závislá na strukturálních reformách, jak opakovaně uvádí NRR ve svých stanoviscích."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Spor o termín jednání Rozpočtového výboru (pondělí vs. úterý). Opozice kritizovala nedodržení dohody z grémia a „aroganci moci“, koalice argumentovala potřebou flexibility.",
+      "speaker": "Více řečníků",
+      "affiliation": null,
+      "timestamp": "7/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3105_controversy_00.jpg",
+      "context": "Jednací řád Poslanecké sněmovny (zákon č. 90/1995 Sb.) dává předsedovi výboru pravomoc svolat jednání, avšak zvyklosti a dohody grémia jsou klíčové pro politickou kulturu. Spor o termín je politickou interpretací procedurálního postupu, kterou nelze fakticky verifikovat jako pravdivou či nepravdivou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

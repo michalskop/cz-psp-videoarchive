@@ -1,0 +1,194 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-02T15:06:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3107",
+    "name": "7. schůze Výboru pro vědu, vzdělávání, mládež a sport",
+    "classification": "Jednání výborů",
+    "start_date": "2026-09-02T10:04",
+    "end_date": "2026-09-02T12:34",
+    "sources": [
+      "final/event_3107_2026-09-02_7-schuze-vyboru-pro-vedu-vzdelavani-mladez-a-sport.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902100002.mp4",
+        "from_sec": 268
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902101002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902102002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902103002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902104002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902105002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902110002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902111002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902112002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902113002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902114002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902115002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902120002.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902121002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902122002.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/02/_20260902123002.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 16,
+    "parts_total": 16,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Sedmá schůze Výboru pro vědu, vzdělávání, mládež a sport se konala 2. září 2026. Hlavním cílem jednání bylo projednání vize a koncepce nové ředitelky Národního pedagogického institutu (NPI), zrušení pokusného ověřování kombinované výuky a debata o revizi rámcových vzdělávacích programů (RVP).\n\nJednání se neslo v duchu kritiky ze strany opozičních poslanců vůči ministerstvu školství, zejména ohledně způsobu komunikace a náhlého ukončování pilotních projektů. Ministr školství Robert Plaga obhajoval kroky ministerstva jako systémové a založené na datech, přičemž odmítl obvinění z chaosu či nepředvídatelnosti.",
+    "main_points": [
+      "**Robert Plaga (Ministr školství)** – Obhajoval zrušení pokusného ověřování kombinované výuky s argumentem, že pro základní školy neexistovala dostatečná data. `[4/02:02]`",
+      "**Irena Fričová (Ředitelka NPI)** – Představila vizi NPI jako „prodloužené ruky ministerstva“ se zaměřením na stabilizaci a revizi RVP. `[2/02:09]`",
+      "**Renata Zajíčková (ODS)** – Kritizovala komunikaci ministerstva a označila zrušení kombinované výuky za unáhlené. `[2/06:00]`",
+      "**Marek Výborný (KDU-ČSL)** – Inicioval kulatý stůl k rizikovému chování žáků a debatu o individuálním vzdělávání. `[9/04:02]`",
+      "**Miroslav Krejčí (ANO)** – Pověřen dohledem nad IT zakázkami MŠMT (registr dětí a pedagogů). `[15/08:08]`"
+    ],
+    "outcome": "Výbor přijal usnesení, kterými vzal na vědomí vizi ředitelky NPI a informace o zrušení kombinované výuky. Dále pověřil Marka Výborného organizací kulatého stolu a Miroslava Krejčího dohledem nad IT zakázkami. Ministerstvo bylo požádáno o harmonogram revize RVP a vyhodnocení pilotního ověřování. Bod o parametrizaci asistentů pedagoga byl přerušen.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se halucinace. Obsah byl rekonstruován z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Robert Plaga",
+        "person_id": "psp:person:6549",
+        "affiliation": "Ministr školství"
+      },
+      {
+        "name": "Irena Fričová",
+        "person_id": null,
+        "affiliation": "NPI"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Miroslav Krejčí",
+        "person_id": "psp:person:7016",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Štěpán Ševčík",
+        "person_id": null,
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "KDU-ČSL",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "MŠMT",
+      "NPI",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zrušení pokusného ověřování kombinované výuky jedním podpisem ministra v podstatě vrací naše školství zpět a demotivuje školy od inovací.",
+      "type": "paraphrase",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "5/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3107_highlight_00.jpg",
+      "context": "Rozhodnutí o ukončení pokusného ověřování je v kompetenci ministra školství dle zákona č. 561/2004 Sb. (školský zákon). Tvrzení o demotivaci škol je subjektivním politickým hodnocením, nikoliv ověřitelným faktem."
+    },
+    {
+      "text": "Stát je plně zodpovědný za to, aby základní vzdělání mělo přesně definovaný jednotný základ, a to jak osnovami, tak učebnicemi.",
+      "type": "citation",
+      "speaker": "Štěpán Ševčík",
+      "affiliation": "SPD",
+      "timestamp": "12/07:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3107_highlight_01.jpg",
+      "context": "Stát prostřednictvím Rámcových vzdělávacích programů (RVP) skutečně definuje jednotný základ vzdělávání. Povinnost státu určovat konkrétní učebnice však v českém systému neexistuje; školy mají dle školského zákona volnost ve výběru výukových materiálů."
+    },
+    {
+      "text": "Naším cílem je, aby se ze školních vzdělávacích programů staly živé dokumenty, nad kterými školy reálně pracují, nikoliv jen papírová formalita.",
+      "type": "paraphrase",
+      "speaker": "Robert Plaga",
+      "affiliation": "Ministr školství",
+      "timestamp": "12/04:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3107_highlight_02.jpg",
+      "context": "Školní vzdělávací programy (ŠVP) jsou dle zákona č. 561/2004 Sb. povinnou dokumentací každé školy. Snaha o jejich transformaci z formálního dokumentu na živý nástroj je dlouhodobým deklarovaným cílem MŠMT v rámci revizí kurikula."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Robert Plaga (MŠMT) vs. Renata Zajíčková (ODS)\n**Co:** Ministr zrušil pilotní projekt kombinované výuky, což opozice vnímá jako „ránu pod pás“ pro inovativní školy.\n**Proč:** Politicky citlivé kvůli dopadu na konkrétní soukromé školy a obvinění z „ohýbání dat“ ministerstvem.\n**Čas:** 5/04:01",
+      "speaker": "Robert Plaga",
+      "affiliation": "Ministr školství",
+      "timestamp": "5/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3107_controversy_00.jpg",
+      "context": "Ukončení pilotního projektu je doložitelným administrativním aktem MŠMT. Obvinění z „ohýbání dat“ je politické tvrzení, které nelze nezávisle ověřit bez přístupu k interním analýzám ministerstva a metodice vyhodnocení pilotáže."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

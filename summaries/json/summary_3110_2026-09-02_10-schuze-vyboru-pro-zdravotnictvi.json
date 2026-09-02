@@ -1,0 +1,143 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-02T15:05:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3110",
+    "name": "10. schůze Výboru pro zdravotnictví",
+    "classification": "Jednání výborů",
+    "start_date": "2026-09-02T13:04",
+    "end_date": "2026-09-02T18:00",
+    "sources": [
+      "final/event_3110_2026-09-02_10-schuze-vyboru-pro-zdravotnictvi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/02/_20260902130008.mp4",
+        "from_sec": 277
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/02/_20260902131008.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/02/_20260902132008.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/02/_20260902133008.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/02/_20260902134008.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 5,
+    "parts_total": 5,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru se zaměřilo na projednání dvou klíčových legislativních tisků. Prvním byla novela zákona o pojistném na veřejné zdravotní pojištění (tisk 235), jejímž cílem je stabilizace systému zdravotního pojištění po předchozích arbitrážních zásazích do vyměřovacích základů. Druhým bodem byla novela zákona o regulaci reklamy a zdravotnických prostředcích (tisk 153), která reaguje na evropské nařízení a potřebu zpřesnit pravidla pro reklamu na léčiva, kojeneckou výživu a zdravotnické prostředky. Cílem výboru bylo posoudit návrhy, vyslechnout stanoviska ministerstev a připravit podklady pro hlasování na plénu Poslanecké sněmovny.",
+    "main_points": [
+      "**Adam Vojtěch (Ministr zdravotnictví)** — Představil novelu zákona o pojistném (tisk 235). Uvedl, že systém přišel v letech 2022–2026 o cca 36 miliard Kč kvůli umělému snížení vyměřovacího základu. Navrhuje zvýšení sazby za státní pojištěnce (nárůst o 291 Kč na 18 362 Kč), což má přinést 21 miliard Kč. Další 3 miliardy mají být uspořeny v provozu pojišťoven. Zdůraznil, že úhradová vyhláška bude koncipována jako vyrovnaná. `[1/08:00]`",
+      "**Jiří Mašek (Zpravodaj, ANO)** — Přednesl spravodajskou zprávu k tisku 235. Potvrdil, že bez navýšení by pojišťovny nebyly schopny sestavit vyrovnané plány na rok 2027. `[2/02:01]`",
+      "**Míša Šebelová (Poslankyně)** — Vyjádřila pochybnost nad rozpočtovým krytím návrhu. Upozornila na nesoulad mezi avizovanými 21 miliardami a údaji ve státním rozpočtu, kde figuruje pouze 18 miliard Kč. `[2/04:11]`",
+      "**Slovák (Poslanec)** — Dotazoval se na časový harmonogram systémových změn (elektronizace, kompetence nelékařského personálu) a na to, zda již nejsou prostředky z navýšení předem rozděleny úhradovou vyhláškou. `[2/08:24]`",
+      "**David Miller (MPO, vrchní ředitel)** — Uvedl návrh zákona o regulaci reklamy (tisk 153). Cílem je napravení nedostatků v legislativě, zejména v oblasti kojenecké výživy a reklamy na humánní léčivé přípravky a zdravotnické prostředky. `[4/08:19]`",
+      "**Zdenka Němečková (Zpravodajka)** — Doplnila, že novela zpřesňuje pravidla pro edukaci pacientů a povoluje reklamu na zdravotnické prostředky na poukaz. Zdůraznila, že reklama na léky na předpis zůstává zakázána. `[5/06:06]`"
+    ],
+    "outcome": "Výbor pro zdravotnictví přijal usnesení, kterým doporučil Poslanecké sněmovně vyslovit souhlas s vládním návrhem zákona o pojistném na veřejné zdravotní pojištění (tisk 235). Zpravodaj Jiří Mašek byl zmocněn k provedení nezbytných úprav a prezentaci stanoviska na plénu. Projednávání tisku 153 (regulace reklamy) bylo zahájeno a proběhla k němu úvodní rozprava.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se fráze typu „Představujeme se na výboru pro zdravotnictví“). Obsah byl rekonstruován na základě srozumitelných pasáží."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Adam Vojtěch",
+        "person_id": "psp:person:5768",
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Jiří Mašek",
+        "person_id": "psp:person:6534",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Míša Šebelová",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": null
+      },
+      {
+        "name": "David Miller",
+        "person_id": null,
+        "affiliation": "MPO"
+      },
+      {
+        "name": "Zdenka Němečková",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Ministerstvo zdravotnictví",
+      "Ministerstvo průmyslu a obchodu",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Přijetím návrhu dojde k nárůstu výdajů státního rozpočtu o 21 miliard korun, o stejnou částku budou navýšeny příjmy systému veřejného zdravotního pojištění.",
+      "type": "paraphrase",
+      "speaker": "Adam Vojtěch",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "2/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3110_highlight_00.jpg",
+      "context": "Tvrzení odpovídá mechanismu platby za státní pojištěnce, kdy navýšení státního příspěvku přímo zvyšuje příjmy systému veřejného zdravotního pojištění. Částka 21 miliard korun odpovídá tehdejším rozpočtovým odhadům dopadů na státní rozpočet a příjmovou stranu zdravotních pojišťoven."
+    },
+    {
+      "text": "Uhradová vyhláška bude koncipována jako vyrovnaná, nemůže dojít k extenzivnímu nárůstu úhrad, které by vedly k deficitu systému.",
+      "type": "citation",
+      "speaker": "Adam Vojtěch",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "3/05:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3110_highlight_01.jpg",
+      "context": "Úhradová vyhláška je dle zákona č. 48/1997 Sb. o veřejném zdravotním pojištění nástrojem pro stanovení výše úhrad, přičemž ministerstvo je povinno dbát na stabilitu systému. Zda je vyhláška fakticky vyrovnaná, závisí na predikcích výběru pojistného a nákladů na péči, které jsou v době tvorby vyhlášky vždy odhadem."
+    },
+    {
+      "text": "Zákon o regulaci reklamy zakazuje reklamu na léky na recept, ale umožňuje pacientům získat informace o možné léčbě, které dnes musí složitě hledat na internetu.",
+      "type": "paraphrase",
+      "speaker": "Adam Vojtěch",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "5/07:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3110_highlight_02.jpg",
+      "context": "Zákon č. 40/1995 Sb. o regulaci reklamy skutečně v § 5a zakazuje reklamu na humánní léčivé přípravky, jejichž výdej je vázán na lékařský předpis, směrem k široké veřejnosti. Informování pacientů o léčbě je legální, pokud nejde o propagaci konkrétního přípravku vázaného na předpis."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Poslankyně Šebelová a poslanec Válek upozornili, že vládní prezentace o „50 miliardách pro zdravotnictví“ je zavádějící, protože zahrnuje i přirozený nárůst výběru pojistného, nikoliv jen přímou injekci ze státního rozpočtu. To vyvolává dojem, že vláda slibuje více peněz, než reálně ze státního rozpočtu vyčleňuje.",
+      "speaker": "Míša Šebelová",
+      "affiliation": null,
+      "timestamp": "2/04:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3110_controversy_00.jpg",
+      "context": "Kritika je fakticky podložená, neboť vládní komunikace často kombinuje přímé dotace ze státního rozpočtu s predikovaným přirozeným růstem výběru pojistného od zaměstnanců a OSVČ. Rozlišení mezi těmito zdroji je klíčové pro posouzení reálného fiskálního úsilí státu nad rámec běžného vývoje ekonomiky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
