@@ -1,0 +1,158 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-03T19:07:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3112",
+    "name": "Krevní testy pro včasný záchyt nádorových onemocnění – máme je?",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-09-03T14:00",
+    "end_date": "2026-09-03T15:58",
+    "sources": [
+      "final/event_3112_2026-09-03_krevni-testy-pro-vcasny-zachyt-nadorovych-onemocne.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903140002.mp4",
+        "from_sec": 33
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903141002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903142002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903143002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903144002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903145002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903150002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903151002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903152002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903153002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903154002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/03/_20260903155002.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 12,
+    "parts_total": 12,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na problematiku tzv. **Multi-Cancer Early Detection (MCED) testů** – krevních testů schopných detekovat široké spektrum nádorových onemocnění z jednoho odběru. Cílem kulatého stolu bylo zhodnotit aktuální vědecké poznatky, možnosti implementace těchto technologií do českého zdravotního systému, etické aspekty a rizika spojená s jejich plošným či selektivním využitím.\n\nDiskuse se soustředila na otázku, zda by tyto testy měly doplňovat stávající screeningové programy, jaká je jejich senzitivita a specificita v časných stádiích onemocnění a jak zabránit přetížení zdravotnického systému v důsledku falešně pozitivních výsledků a následné nadbytečné diagnostiky.",
+    "main_points": [
+      "**Prof. Tomáš (onkolog/klinik)** – Prezentoval principy MCED testů (metylace DNA, cirkulující nádorové buňky). Upozornil na nízkou senzitivitu v časných stádiích (1 a 2) a riziko „falešného pocitu bezpečí“. Navrhuje využít testy primárně u vysoce rizikových skupin (genetické predispozice), nikoliv u běžné populace. `[1/02:00]`",
+      "**Dr. Ondřej Májek (Národní screeningové centrum)** – Zdůraznil nutnost přísných vědeckých důkazů o snížení mortality, nikoliv pouze incidence. Varoval před rizikem „přediagnostikování“ (záchyt nádorů, které by pacienta neohrozily) a zdůraznil, že screening není jen test, ale celá kaskáda následné péče. `[3/02:05]`",
+      "**Doc. Halámková (Masarykův onkologický ústav)** – Upozornila na existenci „mono-cancer“ testů a riziko, že 20 % pozitivních nálezů nemá jasně určený původ nádoru, což vede k dlouhému a nákladnému došetřování. `[4/02:02]`",
+      "**Dr. Šustková (zdravotní pojišťovna)** – Vyjádřila obavy z přetížení systému a nedostatečné motivace pojištěnců k prevenci. Uvedla, že i při zaslání testů domů je návratnost nízká (cca 20 %). `[5/02:01]`",
+      "**Neidentifikovaný řečník (pacientská organizace)** – Potvrdil velký zájem veřejnosti o tyto testy („tekutá biopsie“), ale zdůraznil, že výsledek musí vždy interpretovat lékař v rámci jasně definované cesty pacienta. `[6/02:00]`"
+    ],
+    "outcome": "Konsenzus účastníků se přiklání k tomu, že MCED testy v současné době **nejsou vhodné pro plošný screening** běžné populace. Jako nejslibnější cesta se jeví **pilotní projekt v rámci vysoce rizikových skupin** (pacienti s genetickými syndromy), kde by testy mohly potenciálně nahradit část invazivních kontrol a snížit radiační zátěž. Účastníci se shodli na nutnosti vytvořit standardizovaný protokol pro interpretaci výsledků a zajistit, aby pozitivní nález vždy vedl do specializovaného centra.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se fráze (halucinace modelu), které však nebránily pochopení odborné podstaty debaty. Části záznamu byly srozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Prof. Tomáš",
+        "person_id": "psp:person:6387",
+        "affiliation": "onkolog"
+      },
+      {
+        "name": "Dr. Ondřej Májek",
+        "person_id": null,
+        "affiliation": "Národní screeningové centrum"
+      },
+      {
+        "name": "Doc. Halámková",
+        "person_id": "psp:person:5922",
+        "affiliation": "Masarykův onkologický ústav"
+      },
+      {
+        "name": "Dr. Šustková",
+        "person_id": "psp:person:4091",
+        "affiliation": "zdravotní pojišťovna"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Národní screeningové centrum",
+      "Masarykův onkologický ústav",
+      "VZP"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Většina letálních nádorů, včetně těch, které teď nejvíc stoupají, nemají screening a jsou diagnostikovány ve vyšších stádiích.",
+      "type": "paraphrase",
+      "speaker": "Prof. Tomáš",
+      "affiliation": "onkolog",
+      "timestamp": "1/02:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3112_highlight_00.jpg",
+      "context": "Tvrzení je věcně správné. V ČR existují organizované screeningy pouze pro rakovinu prsu, děložního hrdla a tlustého střeva; u mnoha jiných častých a letálních diagnóz (např. slinivka, plíce – mimo rizikové skupiny) plošný screening neexistuje a záchyt v raném stadiu je obtížný."
+    },
+    {
+      "text": "Všechny screeningové programy, které zavedeme, přinášejí riziko a potenciální psychickou i fyzickou zátěž pro pacienta.",
+      "type": "citation",
+      "speaker": "Dr. Ondřej Májek",
+      "affiliation": "Národní screeningové centrum",
+      "timestamp": "3/02:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3112_highlight_01.jpg",
+      "context": "Odborně podložené tvrzení. Každý screening nese rizika falešně pozitivních výsledků (psychická zátěž, zbytečná invazivní vyšetření) a falešně negativních výsledků (falešný pocit bezpečí), což je standardně reflektováno v metodikách Národního screeningového centra."
+    },
+    {
+      "text": "Nejslabším článkem řetězce je pojištěnec, který prostě nemá o ta vyšetření zájem.",
+      "type": "citation",
+      "speaker": "Dr. Šustková",
+      "affiliation": "zdravotní pojišťovna",
+      "timestamp": "6/06:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3112_highlight_02.jpg",
+      "context": "Tvrzení je podloženo statistikami účasti v preventivních programech. Dle dat ÚZIS a zdravotních pojišťoven se účast na státem hrazených screeningových programech v ČR dlouhodobě pohybuje pod hranicí 60–70 %, která je považována za nutnou pro efektivní snížení mortality."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Varování, že pokud stát/odborná společnost nezaujme stanovisko, komerční subjekty budou testy nabízet nekontrolovaně, což zahltí systém.",
+      "speaker": "Dr. Ondřej Májek a Doc. Halámková",
+      "affiliation": "Národní screeningové centrum / Masarykův onkologický ústav",
+      "timestamp": "4/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3112_controversy_00.jpg",
+      "context": "Jde o legitimní expertní obavu. Nekontrolovaný rozvoj komerčních diagnostických testů (např. testy z krve na více typů rakoviny) bez klinické validace může vést k přetížení systému následnou diagnostikou a neopodstatněné úzkosti pacientů, což potvrzují stanoviska České onkologické společnosti ČLS JEP."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
