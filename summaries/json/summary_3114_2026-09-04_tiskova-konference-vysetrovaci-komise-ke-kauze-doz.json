@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-04T14:06:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3114",
+    "name": "Tisková konference vyšetřovací komise ke kauze DOZIMETR",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-04T10:30",
+    "end_date": "2026-09-04T10:50",
+    "sources": [
+      "final/event_3114_2026-09-04_tiskova-konference-vysetrovaci-komise-ke-kauze-doz.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5549_video-psp-202694-1030-12-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference se konala po druhém zasedání sněmovní vyšetřovací komise pro kauzu Dozimetr. Cílem bylo informovat veřejnost o aktuálním stavu vyšetřování, zejména o problémech s přístupem k vyšetřovacím spisům a o dalším procesním postupu komise.\n\nKomise se nachází v situaci, kdy jí Vrchní státní zastupitelství odmítlo poskytnout vyšetřovací spisy i identifikační údaje svědků, což podle předsedy komise paralyzuje její činnost. Komise proto hledá cesty, jak získat podklady legální cestou, a plánuje legislativní úpravy trestního řádu, které by v budoucnu zajistily lepší součinnost orgánů činných v trestním řízení (OČTŘ) se sněmovními komisemi.",
+    "main_points": [
+      "**Předseda komise** — Informoval o zamítnutí žádostí o vyšetřovací spis ze strany Vrchního státního zastupitelství. Navrhuje oslovit soudy, u kterých probíhá řízení. Oznámil přípravu legislativního pozměňovacího návrhu k trestnímu řádu, který má vyjasnit povinnost OČTŘ poskytovat součinnost vyšetřovacím komisím. `[1/02:01]`",
+      "**Pavel Žáček (Zástupce opozice)** — Potvrdil, že opozice se na postupu komise v zásadě shodla a nesabotuje její činnost. Uvedl, že v komisi probíhala diskuse o rozsahu zadání od pléna Sněmovny a o vztazích mezi parlamentní komisí a justičními orgány. `[1/06:02]`",
+      "**Tomáš Helebrant (Místopředseda komise)** — Vyjádřil se k otázce využívání poslaneckých návrhů a tzv. „přílepků“. Odmítl kritiku České advokátní komory s tím, že jde o standardní legislativní proces, který zrychluje práci a není na úkor kvality zákonů. `[1/18:01]`"
+    ],
+    "outcome": "Komise se shodla na pokračování snahy o získání spisů prostřednictvím soudů. Byl přijat konsenzus ohledně nutnosti legislativní změny trestního řádu, která má být předložena jako pozměňovací návrh k aktuálně projednávaným novelám. Panuje shoda na konstruktivním přístupu napříč politickým spektrem, přičemž většina usnesení byla přijata jednomyslně.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Předseda komise",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Pavel Žáček",
+        "person_id": "psp:person:5226",
+        "affiliation": "Opozice"
+      },
+      {
+        "name": "Tomáš Helebrant",
+        "person_id": "psp:person:6756",
+        "affiliation": "Vládní koalice"
+      }
+    ],
+    "parties": [
+      "Vládní koalice",
+      "Opozice"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Vrchní státní zastupitelství",
+      "Česká advokátní komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vrchní státní zastupitelství nám odmítlo poskytnout vyšetřovací spis, který je pro další postup naší komise naprosto zásadní.",
+      "type": "citation",
+      "speaker": "Předseda komise",
+      "affiliation": null,
+      "timestamp": "1/01:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3114_highlight_00.jpg",
+      "context": "Státní zastupitelství je vázáno zákonem č. 141/1961 Sb. (trestní řád), který omezuje nahlížení do spisů v probíhajících trestních řízeních. Zda bylo odmítnutí v souladu se zákonem, či zda šlo o politickou obstrukci, je předmětem právního výkladu kompetencí vyšetřovacích komisí."
+    },
+    {
+      "text": "My uděláme všechno pro to, abychom ty závěry předložili co nejdříve, ale s ohledem na průtahy to do března nevidím realisticky.",
+      "type": "paraphrase",
+      "speaker": "Předseda komise",
+      "affiliation": null,
+      "timestamp": "1/14:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3114_highlight_01.jpg",
+      "context": "Časový harmonogram práce vyšetřovací komise je závislý na přístupu k důkazním materiálům a výpovědím svědků. Tvrzení o nereálnosti termínu je subjektivním odhadem předsedy komise, který nelze nezávisle ověřit bez znalosti vnitřního postupu komise."
+    },
+    {
+      "text": "Jako zástupci opozice jsme se ničemu nevyhýbali, nic jsme nesabotovali a snažili jsme se, aby zadání komise bylo naplněno.",
+      "type": "citation",
+      "speaker": "Pavel Žáček",
+      "affiliation": "Opozice",
+      "timestamp": "1/08:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3114_highlight_02.jpg",
+      "context": "Hodnocení míry participace opozice na práci komise je subjektivní politické tvrzení. Míru „sabotáže“ či „vyhýbání se“ lze posoudit pouze na základě prezenčních listin a zápisů z jednání komise, které nejsou veřejně dostupné v detailním rozkladu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kontroverze: Odmítnutí součinnosti Vrchním státním zastupitelstvím (VSZ)**\n    *   **Kdo:** Předseda komise (v reakci na postup VSZ).\n    *   **Co:** VSZ odmítlo poskytnout vyšetřovací spis i adresy svědků.\n    *   **Proč:** Je to politicky citlivé, protože komise považuje postup VSZ za nekonzistentní (v kauze Bečva byl spis poskytnut) a za překážku v ústavní kontrolní roli Sněmovny.\n    *   **Čas:** `1/06:02`",
+      "speaker": "Předseda komise",
+      "affiliation": null,
+      "timestamp": "1/06:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3114_controversy_00.jpg",
+      "context": "Srovnání s kauzou Bečva je fakticky podložené v tom smyslu, že v minulosti byly spisy vybraným orgánům zpřístupněny. Právní rámec pro poskytování spisů vyšetřovacím komisím však není jednotný a závisí na konkrétním stupni trestního řízení a rozhodnutí dozorového státního zástupce."
+    },
+    {
+      "statement": "*   **Kontroverze: Využívání „přílepků“ v legislativě**\n    *   **Kdo:** Tomáš Helebrant (v reakci na dotaz k České advokátní komoře).\n    *   **Co:** Obhajoba využívání poslaneckých pozměňovacích návrhů jako standardního nástroje.\n    *   **Proč:** Advokátní komora kritizuje tento postup jako netransparentní a ohrožující kvalitu legislativy.\n    *   **Čas:** `1/18:01`",
+      "speaker": "Tomáš Helebrant",
+      "affiliation": "Vládní koalice",
+      "timestamp": "1/18:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3114_controversy_01.jpg",
+      "context": "Využívání pozměňovacích návrhů (tzv. přílepků) je dlouhodobě kritizováno Legislativní radou vlády i odbornou veřejností pro obcházení standardního legislativního procesu a připomínkového řízení. Ústavní soud se k problematice přílepků vyjádřil v nálezu Pl. ÚS 77/06, kde je označil za protiústavní, pokud nesouvisí s projednávaným zákonem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
