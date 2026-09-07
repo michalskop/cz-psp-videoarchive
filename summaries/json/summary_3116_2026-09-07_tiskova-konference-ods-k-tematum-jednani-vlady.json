@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-07T19:33:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3116",
+    "name": "Tisková konference ODS k tématům jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-07T15:30",
+    "end_date": "2026-09-07T15:54",
+    "sources": [
+      "final/event_3116_2026-09-07_tiskova-konference-ods-k-tematum-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5550_video-psp-202697-1530-51-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po jednání stínové vlády a jejím hlavním cílem bylo představit kritický postoj opozice k aktuálním krokům vlády Andreje Babiše. Opoziční představitelé se zaměřili především na tři klíčové oblasti: návrh státního rozpočtu na nadcházející rok, plánovanou centralizaci zdravotní péče a bezpečnostní politiku státu v kontextu ruských hybridních hrozeb.\n\nStínová vláda ODS ostře kritizovala vládní rozpočtovou politiku, kterou označila za netransparentní a populistickou, přičemž varovala před „astronomickým“ schodkem. V oblasti zdravotnictví vyjádřila obavy z ohrožení dostupnosti péče pro pacienty v regionech a v bezpečnostní agendě vyzvala vládu k ráznějším krokům vůči ruským diplomatům a k posílení ochrany kritické infrastruktury.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritika centralizace zdravotnictví, výzva k tvrdšímu postoji vůči Rusku (omezení diplomatů), kritika rozpočtového schodku a manipulace s čísly u Dukovan. `[1/01:00]`",
+      "**Štěpán Slovák (ODS)** — Varování před „vyhladověním“ regionálních nemocnic, požadavek na decentralizaci běžné péče a kritika netransparentního financování zdravotních pojišťoven. `[1/06:04]`",
+      "**Jan Skopeček (ODS)** — Rozpočet označil za „projídací“ a netransparentní, vláda podle něj porušuje vlastní programové prohlášení o deficitu pod 3 % HDP. `[1/12:03]`"
+    ],
+    "outcome": "Jednání stínové vlády ODS vyústilo v rozhodnutí aktivně vystupovat proti vládnímu návrhu rozpočtu prostřednictvím pozměňovacích návrhů, které mají za cíl snížit deficit. ODS hodlá v rámci parlamentní debaty požadovat škrty v provozních výdajích státu a kritizovat netransparentnost vládního účetnictví. V oblasti zdravotnictví se ODS staví proti plošné centralizaci a bude prosazovat model, který klade důraz na dostupnost péče v regionech a autonomii pojišťoven. V bezpečnostní otázce panuje shoda na nutnosti tvrdšího postoje vůči Rusku a posílení ochrany kritické infrastruktury.",
+    "notes": "Přepis je místy ovlivněn automatickým zpracováním (chybějící diakritika, useknutá slova), avšak obsah je srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Vláda ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ve skutečnosti, pokud bychom porovnávali rozpočet loňský a ten letošní férově, tak ve skutečnosti je ten schodek 420 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/05:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3116_highlight_00.jpg",
+      "context": "Tvrzení o schodku 420 miliard je interpretací, která zahrnuje započtení různých mimorozpočtových operací a fondů. Oficiální schodek státního rozpočtu pro rok 2024 byl schválen ve výši 252 miliard Kč; rozdíly v číslech obvykle pramení z odlišné metodiky započítávání investic či dluhové služby."
+    },
+    {
+      "text": "V centru zdravotnické politiky hnutí ANO a vládní koalice jsou kliniky ISCARE, pro nás je na prvním místě vždycky pacient.",
+      "type": "citation",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/05:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3116_highlight_01.jpg",
+      "context": "Toto tvrzení je politickou rétorikou a nelze jej fakticky ověřit jako objektivní stav zdravotnické politiky. Neexistují žádné oficiální vládní dokumenty ani legislativní kroky, které by potvrzovaly, že kliniky ISCARE jsou centrem zdravotnické politiky vládní koalice."
+    },
+    {
+      "text": "Zatímco v letošním roce si půjčujeme na provoz státu 47 miliard, tak v tom nadcházejícím roce si budeme půjčovat už 99 miliard korun.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/12:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3116_highlight_02.jpg",
+      "context": "Údaje o výpůjční potřebě státu se odvíjejí od návrhu zákona o státním rozpočtu a plánu emisní činnosti Ministerstva financí ČR. Částky 47 a 99 miliard odpovídají predikcím čisté výpůjční potřeby pro daná období, nicméně konečná čísla závisí na reálném plnění rozpočtu a vývoji státního dluhu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Martin Kupka (ODS)** označil ministra zahraničí Petra Macinku za nekompetentního a hloupého v souvislosti s jeho rozhovorem, který prověřuje policejní Ochranná služba. Toto vyjádření je politicky citlivé, neboť jde o přímý útok na člena vlády a zpochybnění jeho způsobilosti reprezentovat ČR.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/24:04",
+      "context": "Petr Macinka není ministrem zahraničí ČR (tuto funkci zastává Jan Lipavský). Výrok obsahuje faktickou chybu v označení vládní funkce, což zpochybňuje věcnou podstatu kritiky."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
