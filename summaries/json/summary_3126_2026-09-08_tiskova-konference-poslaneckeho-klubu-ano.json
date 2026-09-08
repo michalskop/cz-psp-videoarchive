@@ -1,0 +1,118 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-08T19:05:59",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3126",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-08T13:42",
+    "end_date": "2026-09-08T14:06",
+    "sources": [
+      "final/event_3126_2026-09-08_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5562_video-psp-202698-1342-2-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace priorit poslaneckého klubu ANO v rámci nadcházející schůze Poslanecké sněmovny. Hlavním cílem bylo obhájit vládní návrhy zákonů, které byly vráceny Senátem (EET 2.0, novela stavebního zákona a zákon o státních zaměstnancích), a reagovat na aktuální politické dění, včetně vyvolání hlasování o nedůvěře vládě ze strany KDU-ČSL a otázek ohledně střetu zájmů premiéra Andreje Babiše.",
+    "main_points": [
+      "**Alena Schillerová (Ministerstvo financí)** — Obhajovala projekt **EET 2.0** jako „vlajkovou loď“ vlády, která má zajistit stabilní příjmy do rozpočtu a narovnat podnikatelské prostředí. Uvedla, že efekt EET potvrdilo i centrum při Univerzitě Karlově. Kritizovala senátní pozměňovací návrhy (např. výjimky pro nehotovostní platby), které označila za neodpovídající moderním platebním návykům. Zmínila také novelu zákona o spotřebitelských úvěrech, která zavádí stropy pro úrokové sazby. `[1/02:09]`",
+      "**Neidentifikovaný řečník (poslanecký klub ANO)** — Prezentoval **novelu stavebního zákona** jako zásadní krok proti přeregulovanosti prostředí. Zdůraznil, že zákon zjednodušuje a zrychluje povolovací procesy (jeden úřad, jedno razítko) a odmítl kritiku Senátu jako založenou na „karikatuře zákona“. Uvedl, že novela neruší ochranu veřejných zájmů ani životního prostředí. `[1/08:12]`",
+      "**Radek Vondráček (poslanecký klub ANO)** — Vyjádřil se k **zákonu o státních zaměstnancích**, který Senát zamítl. Argumentoval, že cílem není politizace, ale odpolitizování státní správy od neefektivity a umožnění státu chovat se jako odpovědný zaměstnavatel. Odmítl, že by návrh omezoval kompetence prezidenta republiky. `[1/14:10]`",
+      "**Karel Havlíček (poslanecký klub ANO)** — Reagoval na iniciativu KDU-ČSL vyvolat hlasování o nedůvěře vládě kvůli rozpočtu. Označil to za předvolební gesto motivované blížícími se senátními volbami a snahou o zviditelnění opozičních stran. `[1/20:08]`"
+    ],
+    "outcome": "Vládní koalice je odhodlána přehlasovat zamítavá stanoviska Senátu u všech tří projednávaných zákonů (EET 2.0, stavební zákon, zákon o státních zaměstnancích). Vláda považuje tyto kroky za nezbytné pro ekonomickou stabilitu a modernizaci státu. Hrozbu hlasování o nedůvěře vládě vnímá ANO jako politický bojkot opozice před volbami, přičemž vyjádřila přesvědčení o stabilitě své koalice.",
+    "notes": "Přepis obsahuje opakující se technické chyby (halucinace frází jako „Představujeme, že v rámci konference poslaneckého klubu ANO se vytvoří významná konference...“) a místy useknuté věty. Obsah byl rekonstruován na základě srozumitelných pasáží."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Radek Vondráček",
+        "person_id": "psp:person:6165",
+        "affiliation": "poslanecký klub ANO"
+      },
+      {
+        "name": "Karel Havlíček",
+        "person_id": "psp:person:6621",
+        "affiliation": "poslanecký klub ANO"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "poslanecký klub ANO"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "KDU-ČSL",
+      "SPD",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Ministerstvo financí",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "EET 2.0 neznamená příjmy jenom v příštím roce, ale v každém dalším jednom roce.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "1/02:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3126_highlight_00.jpg",
+      "context": "Tvrzení je interpretací očekávaného výnosu z daňové evidence. Zda by systém generoval příjmy v každém dalším roce, závisí na nastavení parametrů systému a nákladech na jeho provoz, které mohou výnosy převýšit; ekonomické přínosy EET byly v minulosti předmětem sporů mezi MF ČR a nezávislými analytiky."
+    },
+    {
+      "text": "Každý měsíc odkladu znamená další čekání na jednodušší povolování a dostupnější bydlení.",
+      "type": "citation",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "poslanecký klub ANO",
+      "timestamp": "1/10:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3126_highlight_01.jpg",
+      "context": "Jde o politické tvrzení o kauzalitě mezi legislativním procesem a rychlostí výstavby. Rychlost povolování staveb je ovlivněna mnoha faktory, včetně kapacity úřadů, podjatosti v řízeních či soudních přezkumů, nikoliv pouze samotným zněním zákona."
+    },
+    {
+      "text": "My státní správu opravdu nepolitizujeme, chceme ji odpolitizovat od neefektivity.",
+      "type": "citation",
+      "speaker": "Radek Vondráček",
+      "affiliation": "poslanecký klub ANO",
+      "timestamp": "1/15:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3126_highlight_02.jpg",
+      "context": "Toto je subjektivní politické hodnocení. Objektivní posouzení míry politizace státní správy je obtížné, nicméně v minulosti byla kritizována např. novela zákona o státní službě z roku 2023, která podle opozice i části odborníků vedla k posílení politických vlivů na obsazování úřednických pozic."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Petr Mašek (Česká televize) se dotazoval, Alena Schillerová (MF) a ministryně pro místní rozvoj odpovídaly.\n*   **Co:** Evropská komise pozastavila proplácení části dotací z důvodu potenciálního střetu zájmů premiéra Babiše.\n*   **Proč:** Jde o politicky citlivou kauzu týkající se čerpání evropských fondů a integrity předsedy vlády.\n*   **Čas:** `1/16:07`",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "1/16:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3126_controversy_00.jpg",
+      "context": "Evropská komise v roce 2019 skutečně pozastavila proplácení dotací pro holding Agrofert z důvodu střetu zájmů tehdejšího premiéra Andreje Babiše. Auditní zpráva EK následně potvrdila, že premiér měl vliv na rozhodování o rozdělování dotací, které čerpaly jím ovládané firmy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
