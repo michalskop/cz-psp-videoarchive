@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-08T14:35:56",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3125",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-08T13:23",
+    "end_date": "2026-09-08T13:34",
+    "sources": [
+      "final/event_3125_2026-09-08_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5561_video-psp-202698-1323-25-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS byla svolána před jednáním Poslanecké sněmovny s cílem oznámit záměr opozice vyvolat hlasování o nedůvěře vládě Andreje Babiše. Představitelé ODS zdůvodnili tento krok třemi hlavními pilíři: rozpočtovou nezodpovědností (tzv. „rozpočtový Armagedon“), přetrvávajícím střetem zájmů premiéra a jeho vazbami na holding Agrofert a útoky na demokratické instituce, soukromé vlastnictví a nezávislá média.\n\nKromě tématu nedůvěry vládě se řečníci vyjádřili k blížícím se legislativním bodům, konkrétně k senátním vratkám stavebního zákona, zákonu o elektronické evidenci tržeb (EET) a zákonu o státních zaměstnancích. ODS deklarovala svůj nesouhlas s těmito vládními návrhy, které podle nich poškozují podnikatelské prostředí a směřují k nadměrné státní kontrole.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Argumentuje, že vláda porušila své programové prohlášení, zejména v oblasti daní a hospodaření. Upozornil na střet zájmů Andreje Babiše, který podle něj obětuje stát zájmům Agrofertu, a kritizoval útoky na soukromé a církevní školy. Potvrdil, že ODS jedná s ostatními opozičními kluby o vyvolání hlasování o nedůvěře vládě, které by se mělo uskutečnit na přelomu září a října. `[1/01:15]`",
+      "**Jan Skopeček (ODS)** — Zaměřil se na ekonomické aspekty, konkrétně na porušení slibu udržet deficit veřejných financí pod 3 % HDP. Kritizoval EET jako nástroj, který z podnikatelů dělá „podezřelé“, a odsoudil vládní rétoriku vůči vlastníkům bytů a soukromým školám jako ohrožení principů tržní ekonomiky. `[1/03:20]`",
+      "**Jiří Havránek (ODS)** — Vyjádřil nesouhlas se senátní verzí stavebního zákona kvůli riziku kolapsu systému při přesunu úředníků pod stát. Potvrdil odmítavý postoj ODS k EET a k návrhu zákona o státních zaměstnancích, který podle něj zbytečně stigmatizuje státní správu. `[1/06:03]`"
+    ],
+    "outcome": "Jednání nebylo legislativním aktem, ale politickým prohlášením. Konsenzem mezi přítomnými zástupci ODS je podpora vyvolání hlasování o nedůvěře vládě. ODS hodlá v Poslanecké sněmovně hlasovat proti vládním návrhům v oblasti stavebního zákona, EET a zákona o státních zaměstnancích.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a tzv. „halucinace“ (opakující se nesmyslné fráze), které byly pro účely shrnutí ignorovány. Části textu jsou fragmentované, ale hlavní politické postoje jsou zřetelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Agrofert"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda získala důvěru na základě lživého materiálu, kterému nevěřila ona sama od začátku a kterým podváděla nejen poslaneckou sněmovnu, ale podváděla ním hlavně občany ČR.",
+      "type": "paraphrase",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/04:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3125_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorický obrat. Výrok nelze fakticky ověřit jako pravdivý či nepravdivý, neboť záměr a vnitřní přesvědčení členů vlády nejsou objektivně měřitelné."
+    },
+    {
+      "text": "Při prvním návrhu státního rozpočtu vidíme návrh, který dramaticky překračuje 3 % HDP, což je v přímém rozporu s programovým prohlášením vlády.",
+      "type": "paraphrase",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/04:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3125_highlight_01.jpg",
+      "context": "Výše deficitu státního rozpočtu je ověřitelná v návrzích předkládaných Ministerstvem financí ČR. Soulad s programovým prohlášením je otázkou politické interpretace, přičemž fiskální pravidla EU (Pakt stability a růstu) limitují deficit veřejných financí na 3 % HDP."
+    },
+    {
+      "text": "Soukromé školy jsou podnikání jako jakékoliv jiné, mají nárok na existenci a v českém vzdělávacím systému hrají velmi důležitou roli.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/05:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3125_highlight_02.jpg",
+      "context": "Soukromé školy v ČR jsou právně definovány jako právnické osoby vykonávající činnost škol a školských zařízení podle zákona č. 561/2004 Sb. (školský zákon). Jejich status jako podnikatelských subjektů je právně uznán, přičemž na jejich provoz přispívá stát ze státního rozpočtu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Označil vládu za „oběť Agrofertu“ a kritizoval střet zájmů premiéra, včetně fondu Hartenberg a vlivu na zdravotnictví.\n**Proč:** Jde o politicky vysoce citlivé téma, které přímo útočí na integritu premiéra a jeho podnikatelské aktivity v kontextu veřejných financí.\n**Čas:** 1/09:20",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/09:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3125_controversy_00.jpg",
+      "context": "Střet zájmů Andreje Babiše byl předmětem auditů Evropské komise, které potvrdily vliv na rozhodování o dotacích pro holding Agrofert. Otázka vlivu na zdravotnictví a fond Hartenberg je předmětem dlouhodobé politické debaty a investigativních zjištění, nikoliv soudně potvrzeného faktu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

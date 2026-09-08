@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-08T14:38:55",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3118",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-08T11:19",
+    "end_date": "2026-09-08T11:39",
+    "sources": [
+      "final/event_3118_2026-09-08_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5556_video-psp-202698-1119-49-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před zahájením jednání Poslanecké sněmovny. Hlavními tématy byla kritika návrhu státního rozpočtu na rok 2027, bezpečnostní rizika spojená s ruským vlivem a aktuální legislativní procesy, zejména projednávání stavebního zákona a vládní snahy o změny v pravomocích prezidenta.\n\nCílem konference bylo prezentovat postoj TOP 09 k hospodářské politice vlády, kterou strana považuje za nezodpovědnou, a upozornit na bezpečnostní hrozby, které podle řečníků vláda podceňuje.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** — Kritizoval rozpočet ministerstva školství pro rok 2027 (288 mld. Kč), který podle něj neodpovídá prioritám vlády. Upozornil na chybějících 6 mld. Kč na zákonné výdaje a varoval před plánovaným poklesem rozpočtu do roku 2029. Odsoudil úvahy premiéra o omezení financování soukromých a církevních škol (celkem 21 mld. Kč) jako ohrožení dostupnosti vzdělávání. Kritizoval vicepremiéra za naivní chování v rozhovoru s aktivistou v kukle, což označil za bezpečnostní riziko. `[1/00:30]`",
+      "**Jan Jakob (TOP 09)** — Označil navržený schodek rozpočtu 389 mld. Kč (resp. 419 mld. Kč po započtení investic mimo rozpočet) za nejhorší v historii ČR v kontextu ekonomického růstu. Upozornil, že vláda nemá věrohodný plán konsolidace veřejných financí a směřuje k dluhové brzdě. Navrhuje snížení deficitu pod 200 mld. Kč. `[1/06:40]`",
+      "**Neidentifikovaný řečník (TOP 09)** — Upozornil na sérii ruských sabotáží a kybernetických útoků v Evropě. Kritizoval vládu za vyřazení prostředků na posílení demokratické odolnosti z evropských fondů a vyzval k posílení zpravodajských služeb a armády. `[1/10:27]`",
+      "**Legislativní procesy** — TOP 09 kritizuje stavební zákon pro jeho legislativní nekvalitu (1200 stran pozměňovacích návrhů bez oponentury) a odmítá účelové omezování pravomocí prezidenta při jmenování diplomatů."
+    ],
+    "outcome": "Nebyl přijat žádný formální závěr, neboť šlo o tiskový briefing. Dominujícím postojem TOP 09 je ostrá opozice vůči vládnímu návrhu rozpočtu, nesouhlas s procesem projednávání stavebního zákona a požadavek na razantnější přístup k národní bezpečnosti v kontextu hybridních hrozeb.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova. Některé pasáže byly rekonstruovány z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo školství",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda nemůže chtít politické body za slovo priorita a současně odmítat zaplatit účet, který s touto prioritou přece sama spojila.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/01:27",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3118_highlight_00.jpg",
+      "context": "Jde o politickou rétoriku hodnotící vládní priority a rozpočtovou disciplínu. Nelze nezávisle ověřit jako fakt, neboť jde o interpretaci politické odpovědnosti za plnění vládního prohlášení."
+    },
+    {
+      "text": "Vláda vytváří krizový schodek bez krize.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/07:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3118_highlight_01.jpg",
+      "context": "Tvrzení je subjektivním politickým hodnocením stavu veřejných financí. Podle dat MF ČR se státní rozpočet dlouhodobě potýká se strukturálním deficitem, přičemž definice 'krize' je v ekonomickém diskurzu předmětem politické debaty."
+    },
+    {
+      "text": "Skutečný schodek se nedá snížit typografií, dluh se nedá umazat poznámkou pod čarou.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/08:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3118_highlight_02.jpg",
+      "context": "Metafora kritizující účetní postupy při sestavování rozpočtu. Metodika vykazování schodku státního rozpočtu se řídí zákonem č. 218/2000 Sb., o rozpočtových pravidlech, a pravidly ESA 2010, která určují, co je součástí dluhu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Omezení výdajů na soukromé a církevní školství.\n- **Kdo:** Premiér (vláda).\n- **Co:** Úvaha o škrtnutí či omezení státní podpory pro soukromé a církevní školy v objemu 21 mld. Kč.\n- **Proč:** Matěj Ondřej Havel (TOP 09) to označil za ohrožení dostupnosti vzdělávání pro běžné děti.\n- **Čas:** `1/02:00`",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3118_controversy_00.jpg",
+      "context": "Návrh na úpravu financování soukromého a církevního školství je předmětem aktuálních debat o úsporách v resortu MŠMT. Částka 21 mld. Kč odpovídá řádově celkovým výdajům na tyto typy škol, nikoliv nutně úspoře, která by byla reálně dosažitelná bez zásadní změny zákona č. 561/2004 Sb. (školský zákon)."
+    },
+    {
+      "statement": "**Kontroverzní událost:** Rozhovor vicepremiéra s osobou v kukle.\n- **Kdo:** Vicepremiér vlády.\n- **Co:** Poskytnutí rozhovoru neznámé osobě v kukle, v jejíž blízkosti byly atrapy zbraní a maketa bomby.\n- **Proč:** Matěj Ondřej Havel (TOP 09) to označil za riziko kompromitace a selhání v ověřování identity.\n- **Čas:** `1/04:00`",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/04:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3118_controversy_01.jpg",
+      "context": "Událost se týká rozhovoru vicepremiéra s aktivistou/youtuberem v rámci veřejného vystoupení. Bezpečnostní rizika a protokolární selhání jsou předmětem politické kritiky, nikoliv právní normy, ověřitelnost samotného faktu proběhnutí rozhovoru je potvrzena mediálními záznamy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

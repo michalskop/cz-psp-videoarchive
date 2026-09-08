@@ -1,0 +1,134 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-08T14:38:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3121",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-08T12:00",
+    "end_date": "2026-09-08T12:21",
+    "sources": [
+      "final/event_3121_2026-09-08_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5557_video-psp-202698-120-18-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí SPD se konala 8. září 2026 u příležitosti zahájení schůze Poslanecké sněmovny. Cílem konference bylo představit priority hnutí pro nadcházející legislativní období a informovat veřejnost o aktuálních návrzích zákonů a postojích SPD k vládním opatřením.\n\nHlavními tématy byly ekonomické otázky (zmrazení platů politiků, valorizace důchodů), sociální politika (zrušení dávek pro Ukrajince, podpora pracujících důchodců), legislativní změny v oblasti státní správy a dopravy, a dále ochrana zvířat a bezpečnost dětí.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Navrhuje zmrazení platů politiků na 5 let jako symbol úspor. Požaduje zrušení dávek pro Ukrajince (úspora cca 8 mld. Kč ročně). Prosazuje vyšší valorizaci důchodů (o 500–600 Kč) nebo jednorázový příspěvek místo vládního návrhu (cca 300 Kč). `[01:00]`",
+      "**Radim Fiala (SPD)** — Informoval o vítězných soudních sporech hnutí SPD proti Ministerstvu vnitra ohledně zařazení hnutí do zpráv o extremismu, což označil za politicky motivované. `[04:09]`",
+      "**Libor Vondráček (SPD)** — Představil vládní návrh nového služebního zákona, který má zjednodušit fungování úřadů a zvýšit atraktivitu státní správy pro nové zájemce. `[06:19]`",
+      "**Miroslav Ševčík (SPD)** — Vyzdvihl úlevy pro živnostníky a slevy pro rodiny s dětmi v rámci školkovného, zdůraznil snížení administrativní zátěže. `[08:04]`",
+      "**Marie Pošarová (SPD)** — Podpořila nový stavební zákon a avizovala snahu SPD o přehlasování senátního veta. `[10:27]`",
+      "**Lucie Šafránková (SPD)** — Představila návrh na automatické zvyšování důchodů podle věku (500 Kč při dosažení 80, 85, 90, 95 let; 1000 Kč u 100 let) a zavedení bonusu 1,5 % k důchodu za každý odpracovaný rok v důchodu. `[10:27]`",
+      "**Neidentifikovaný řečník (SPD)** — Představil návrh na zpřísnění ochrany zvířat (zákaz chovu během řízení, povinná kastrace koček, zvýšení trestů za týrání z 6 měsíců na 1 rok, nový trestný čin usmrcení psa/kočky). `[12:18]`",
+      "**Zuzana Majerová (SPD)** — Kritizovala postoj ODS k tzv. dětskému certifikátu (ověřování bezúhonnosti osob pracujících s dětmi) a obvinila ODS z obhajoby pedofilů. `[18:01]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním, proto nebylo přijato žádné formální rozhodnutí. Dominujícím postojem SPD je opozice vůči vládním návrhům v oblasti valorizace důchodů a podpora vlastních legislativních iniciativ zaměřených na úspory ve státním rozpočtu (omezení dávek pro cizince) a zpřísnění trestního práva.",
+    "notes": "Přepis obsahuje četné automatické chyby, opakující se fráze („Představující se na konferenci“) a místy nesrozumitelné úseky vět. Časové značky byly přiřazeny na základě kontextu řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radim Fiala",
+        "person_id": "psp:person:5459",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Miroslav Ševčík",
+        "person_id": "psp:person:6064",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Marie Pošarová",
+        "person_id": "psp:person:6745",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Lucie Šafránková",
+        "person_id": "psp:person:6479",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Zuzana Majerová",
+        "person_id": "psp:person:6467",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo vnitra",
+      "Senát"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nyní dostávají cca 8 miliard korun ročně Ukrajinci z peněz daňových poplatníků.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/02:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3121_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. Podle dat Ministerstva financí ČR a MPSV se výdaje na ukrajinské uprchlíky v čase výrazně mění v závislosti na počtu osob s dočasnou ochranou a jejich zapojení do trhu práce, přičemž státní rozpočet zároveň inkasuje odvody z jejich práce, které celkové náklady snižují."
+    },
+    {
+      "text": "Za každý celý rok práce při pobírání starobního důchodu bude důchod nově zvýšen o 1,5 % jeho procentní výměry.",
+      "type": "citation",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/12:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3121_highlight_01.jpg",
+      "context": "Tento údaj odpovídá platné právní úpravě dle zákona č. 155/1995 Sb., o důchodovém pojištění. Pokud osoba pracuje při pobírání starobního důchodu, zvyšuje se jí procentní výměra důchodu o 1,5 % výpočtového základu za každých 360 odpracovaných dní."
+    },
+    {
+      "text": "Kdo zvíře týrá, zabije ho z pomsty pro nějakou zábavu nebo z nějakého jiného takovéhoto důvodu, bude muset počítat s výraznějším a přísnějším postihem.",
+      "type": "paraphrase",
+      "speaker": null,
+      "affiliation": "SPD",
+      "timestamp": "1/14:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3121_highlight_02.jpg",
+      "context": "Trestní zákoník (zákon č. 40/2009 Sb.) již nyní v § 302 (Týrání zvířat) definuje tresty za týrání zvířat. Debaty o zpřísnění těchto postihů jsou předmětem legislativních návrhů, které se snaží reagovat na společenskou poptávku po vyšší ochraně zvířat."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Zuzana Majerová (SPD)\n* **Co:** Obvinila ODS, že chce obhajovat pedofily a osoby zneužívající děti v souvislosti s debatou o dětském certifikátu.\n* **Proč:** Jde o silně útočnou politickou rétoriku, která kriminalizuje oponenty v citlivém tématu ochrany dětí.\n* **Čas:** 1/20:13",
+      "speaker": "Zuzana Majerová",
+      "affiliation": "SPD",
+      "timestamp": "1/20:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3121_controversy_00.jpg",
+      "context": "Jde o politickou interpretaci a útočnou rétoriku, nikoliv o faktické tvrzení. Neexistují žádné důkazy o tom, že by ODS jako strana prosazovala legalizaci či obhajobu zneužívání dětí; debaty o digitálních certifikátech či ochraně dětí na internetu se vedou v rovině technické a legislativní regulace."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

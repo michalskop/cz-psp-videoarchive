@@ -1,0 +1,177 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-08T14:35:06",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3119",
+    "name": "Setkání poslanců PpMaVČA se členy Panelu mládeže při MŠMT",
+    "classification": "Ostatní",
+    "start_date": "2026-09-08T09:47",
+    "end_date": "2026-09-08T11:28",
+    "sources": [
+      "final/event_3119_2026-09-08_setkani-poslancu-ppmavca-se-cleny-panelu-mladeze-p.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908094002.mp4",
+        "from_sec": 468
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908095002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908100002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908101002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908102002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908103002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908104002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908105002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908110002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908111002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/08/_20260908112002.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 11,
+    "parts_total": 11,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se uskutečnilo mezi poslanci Podvýboru pro mládež a volný čas (PpMaVČA) a členy Panelu mládeže při MŠMT. Cílem setkání bylo představit činnost Panelu mládeže jako poradního orgánu ministerstva, identifikovat klíčové výzvy, kterým mladí lidé v ČR čelí, a zahájit dialog mezi mladou generací a zákonodárci.\n\nDiskuse se zaměřila na pět prioritních oblastí: vzdělávání a přechod do dospělosti, pracovní příležitosti a platy, bydlení a finanční situaci, duševní zdraví a obecnou nejistotu mladé generace. Účelem bylo nejen pojmenovat problémy, ale také hledat cesty k jejich řešení prostřednictvím systémových změn a lepší komunikace mezi státní správou a mladými lidmi.",
+    "main_points": [
+      "**Daniel Hájek (MŠMT)** — Představil fungování Panelu mládeže (22 členů, 15–30 let) jako nezávislého poradního orgánu. `[2/04:05]`",
+      "**Ondřej Výt (Panel mládeže)** — Definoval priority: vzdělávání, nerovnosti v kvalitě výuky, nesoulad s trhem práce, nedostatečnou přípravu na reálný život a absenci finanční gramotnosti. `[3/06:07]`",
+      "**Markéta Findejsová (Panel mládeže)** — Upozornila na začarovaný kruh při vstupu na trh práce (požadavek praxe) a regionální nerovnosti. `[4/00:00]`",
+      "**Lukáš Novák (Panel mládeže)** — Kritizoval vysoké kauce u bydlení a stigma spojené s využíváním sociální podpory. `[4/04:07]`",
+      "**Matyáš Picher (Panel mládeže)** — Uvedl, že 40 % žáků 9. tříd vykazuje příznaky depresivních onemocnění; volal po provázanosti služeb. `[5/00:00]`",
+      "**Poslanec Berky (ANO)** — Zdůraznil nutnost rozlišovat mezi symptomy a příčinami a zpochybnil státní řešení nezávislosti na rodině. `[6/04:08]`",
+      "**Poslanec Krejčí (ANO)** — Kritizoval pasivitu studentů a upozornil na ekonomickou náročnost stáží pro firmy. `[8/00:00]`"
+    ],
+    "outcome": "Jednání skončilo konsenzem, že dialog mezi Panelu mládeže a podvýborem bude pokračovat. Poslanci přislíbili zájem o další data a analýzy. Jako konkrétní téma pro příští setkání bylo určeno snížení věkové hranice volebního práva na 16 let (v komunálních volbách), ke kterému má Panel mládeže vypracovat stanovisko.",
+    "notes": "Přepis obsahuje četné technické artefakty (useknutá slova, opakující se fráze), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Daniel Hájek",
+        "person_id": null,
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Ondřej Výt",
+        "person_id": null,
+        "affiliation": "Panel mládeže"
+      },
+      {
+        "name": "Markéta Findejsová",
+        "person_id": null,
+        "affiliation": "Panel mládeže"
+      },
+      {
+        "name": "Lukáš Novák",
+        "person_id": null,
+        "affiliation": "Panel mládeže"
+      },
+      {
+        "name": "Matyáš Picher",
+        "person_id": null,
+        "affiliation": "Panel mládeže"
+      },
+      {
+        "name": "Poslanec Berky",
+        "person_id": null,
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Poslanec Krejčí",
+        "person_id": "psp:person:385",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Jana Ticháčková",
+        "person_id": null,
+        "affiliation": "MŠMT"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "MŠMT",
+      "Panel mládeže",
+      "PpMaVČA"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "40 % dotázaných žáků devátých tříd vykazuje středně závažné až závažné příznaky depresivních onemocnění.",
+      "type": "citation",
+      "speaker": "Matyáš Picher",
+      "affiliation": "Panel mládeže",
+      "timestamp": "5/00:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3119_highlight_00.jpg",
+      "context": "Údaj odpovídá zjištěním Národního ústavu duševního zdraví (NÚDZ) z roku 2022, který v rámci výzkumu duševního zdraví dětí a dospívajících uvádí, že přibližně 40 % žáků 9. tříd vykazuje symptomy středně těžké až těžké deprese či úzkosti."
+    },
+    {
+      "text": "Mladý člověk z velkého města a mladý člověk z menší obce nevstupují do pracovního života ze stejné pozice.",
+      "type": "citation",
+      "speaker": "Markéta Findejsová",
+      "affiliation": "Panel mládeže",
+      "timestamp": "4/01:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3119_highlight_01.jpg",
+      "context": "Tvrzení reflektuje sociologické poznatky o nerovnostech v přístupu ke vzdělávání a trhu práce, které potvrzují data ČSÚ o regionálních rozdílech v nezaměstnanosti a dostupnosti služeb. Rozdíly v tzv. startovní čáře jsou dány zejména rozdílnou infrastrukturou, nabídkou škol a dostupností pracovních příležitostí v jednotlivých regionech."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na snížení věkové hranice pro volební právo na 16 let (v komunálních volbách). Je to politicky citlivé téma, kde se střetává názor o nezralosti mládeže s argumentem o nutnosti zvýšit jejich participaci.",
+      "speaker": "Sára Volfová",
+      "affiliation": "Panel mládeže",
+      "timestamp": "10/06:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3119_controversy_00.jpg",
+      "context": "Debata o volebním právu od 16 let je v ČR předmětem politické diskuse, nikoliv platné legislativy. V Evropě je tento model zaveden např. v Rakousku či Německu (pro komunální volby), přičemž odborné studie z těchto zemí se rozcházejí v hodnocení dopadu na volební účast a politickou gramotnost mladých."
+    },
+    {
+      "statement": "Spor o placené vs. neplacené stáže. Poslanec Krejčí argumentoval, že neplacené stáže jsou investicí do zkušenosti, zatímco členové Panelu je vnímali jako bariéru pro studenty z chudších poměrů.",
+      "speaker": "Poslanec Krejčí",
+      "affiliation": "ANO",
+      "timestamp": "8/02:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3119_controversy_01.jpg",
+      "context": "Zákoník práce (zákon č. 262/2006 Sb.) neupravuje stáže jako specifický institut, což vede k nejednotné praxi. Argument o bariéře pro studenty z nízkopříjmových rodin je podpořen studiemi o sociální stratifikaci vzdělávání, zatímco argument o „investici do zkušenosti“ je subjektivním názorem na tržní hodnotu neplacené praxe."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

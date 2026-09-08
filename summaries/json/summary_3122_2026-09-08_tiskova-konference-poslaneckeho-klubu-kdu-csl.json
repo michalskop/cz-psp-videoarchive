@@ -1,0 +1,105 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-08T14:37:40",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3122",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-08T12:23",
+    "end_date": "2026-09-08T12:35",
+    "sources": [
+      "final/event_3122_2026-09-08_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5558_video-psp-202698-1223-49-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Účelem tiskové konference bylo oznámení záměru poslaneckého klubu KDU-ČSL iniciovat hlasování o nedůvěře vládě. Hlavním důvodem je nespokojenost s podobou návrhu státního rozpočtu na rok 2027, který podle opozice neodpovídá programovému prohlášení vlády, a kritika vnitřních rozporů v koalici (zejména mezi stranami Motoristé, SPD a ANO).\n\nKDU-ČSL argumentuje, že vláda porušuje své sliby ohledně zadlužení a daňové politiky. Cílem iniciativy je vyvolat debatu o odpovědnosti vlády a dát prostor nespokojeným poslancům vládních stran, aby se vyjádřili k současnému směřování kabinetu.",
+    "main_points": [
+      "**Jan Gralich (KDU-ČSL)** — Oznámil zahájení procesu směřujícího k hlasování o nedůvěře vládě. Kritizoval netransparentnost při tvorbě rozpočtu na rok 2027 a fakt, že o jeho podobě nevěděli ani někteří vládní představitelé. `[1/00:45]`",
+      "**Neidentifikovaný řečník (KDU-ČSL)** — Doplnil argumentaci o konkrétní rozpory v programovém prohlášení: vláda slibovala schodek pod 3 % HDP a vyrovnané hospodaření, což nyní nedodržuje. Upozornil na 20% snížení podpory obcím a městům. `[1/06:45]`",
+      "**Jan Gralich (KDU-ČSL)** — Vyjádřil se k situaci na Ministerstvu životního prostředí, kde byla v červnu 2026 zadána zakázka v hodnotě 32 milionů korun z ruky bez výběrového řízení. `[1/08:45]`"
+    ],
+    "outcome": "KDU-ČSL se rozhodla iniciovat proces vedoucí k hlasování o nedůvěře vládě a oslovuje ostatní opoziční strany, aby se k tomuto kroku připojily. V případě pádu vlády strana navrhuje sestavení odborné expertní vlády, která by připravila nový rozpočet a dovedla zemi k předčasným volbám.",
+    "notes": "Přepis obsahuje opakující se technické chyby (např. „se všichni způsobí zvěděli“), které byly pro účely shrnutí ignorovány. Části textu jsou místy nesrozumitelné kvůli výpadkům slov, ale hlavní politické sdělení je z kontextu jasně patrné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Gralich",
+        "person_id": "psp:person:6669",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo životního prostředí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V případě, že vláda jedná v rozporu se svým programovým prohlášením, by podle nás měla toto programové prohlášení změnit a předstoupit před sněmovnu a říct si znovu o důvěru.",
+      "type": "paraphrase",
+      "speaker": "Jan Gralich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3122_highlight_00.jpg",
+      "context": "Ústava ČR (čl. 68 odst. 3) stanoví, že vláda musí předstoupit před Poslaneckou sněmovnu a požádat o vyslovení důvěry pouze při svém jmenování. Změna programového prohlášení není právně vázána na povinnost žádat o novou důvěru, pokud vláda sama o ni nepožádá."
+    },
+    {
+      "text": "V roce 2026, a to v červnu, se ministerstvo životního prostředí rozhodlo z ruky bez výběrového řízení zadat zakázku za 32 milionů korun.",
+      "type": "citation",
+      "speaker": "Jan Gralich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/10:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3122_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Vzhledem k tomu, že rok 2026 ještě nenastal, jde o faktickou chybu v časovém údaji nebo hypotetické tvrzení."
+    },
+    {
+      "text": "Pokud by tady opravdu poslanci za Motoristy a za SPD našli tu odvahu říct, že tato vláda s nimi zametá, byl by prostor pro sestavení odborné expertní vlády.",
+      "type": "paraphrase",
+      "speaker": "Jan Gralich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/11:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3122_highlight_02.jpg",
+      "context": "Jde o politický názor a spekulaci o budoucím parlamentním uspořádání. Sestavení vlády je vázáno na ústavní procesy (čl. 62 a 68 Ústavy ČR) a vyžaduje podporu většiny poslanců, což je v aktuálním složení sněmovny politicky vysoce nepravděpodobné."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Iniciativa k vyvolání hlasování o nedůvěře vládě.\n- **Kdo:** Jan Gralich (KDU-ČSL).\n- **Co:** Návrh na vyslovení nedůvěry vládě a vytvoření „odborné expertní vlády“.\n- **Proč:** Je to politicky citlivé, neboť KDU-ČSL sama nedisponuje potřebnými 50 hlasy pro svolání schůze a 101 hlasy pro pád vlády, čímž se vystavuje riziku neúspěchu a obvinění z předvolebního populismu.\n- **Čas:** `1/02:02`",
+      "speaker": "Jan Gralich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3122_controversy_00.jpg",
+      "context": "Pro vyvolání hlasování o nedůvěře je dle čl. 72 Ústavy ČR potřeba podpis nejméně 50 poslanců. K vyslovení nedůvěry je následně nutná nadpoloviční většina všech poslanců (101 hlasů), což odpovídá popsané politické realitě."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

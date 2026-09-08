@@ -1,0 +1,133 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-08T14:36:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3124",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-08T13:05",
+    "end_date": "2026-09-08T13:22",
+    "sources": [
+      "final/event_3124_2026-09-08_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5560_video-psp-202698-135-38-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí Starostové a nezávislí (STAN) se konala před zahájením jednání Poslanecké sněmovny dne 8. září 2026. Cílem bylo prezentovat postoje hnutí k aktuálním legislativním a politickým tématům, zejména ke kritice státního rozpočtu, střetu zájmů premiéra Andreje Babiše, projednávání stavebního zákona, změnám v dálničních známkách a problematice elektronické evidence tržeb (EET).\n\nZástupci hnutí ostře kritizovali vládní koalici za nekompetenci, populismus a netransparentní legislativní procesy. Zároveň avizovali koordinaci s ostatními opozičními stranami ohledně možného vyvolání hlasování o nedůvěře vládě v reakci na rekordní rozpočtový schodek.",
+    "main_points": [
+      "**Lukáš Vlček (STAN)** — Vyzval k okamžitému zastavení čerpání dotací pro Agrofert kvůli střetu zájmů Andreje Babiše. Kritizoval stavební zákon jako „legislativní zmetek“ vytvořený na míru developerům bez řádného připomínkového řízení. Podpořil postoj Senátu k tomuto zákonu. `[1/01:05]`",
+      "**Michaela Šebelová (STAN)** — Označila debaty o zmrazení platů politiků za populistické divadlo vládní koalice. Kritizovala návrh státního rozpočtu se schodkem téměř 400 miliard korun v době hospodářského růstu. Potvrdila jednání opozice o možném vyvolání hlasování o nedůvěře vládě. `[1/03:10]`",
+      "**Jan Papajanovský (STAN)** — Kritizoval vládní návrh zákona o státní službě, který podle něj odstraní pojistky politické neutrality a povede k upřednostňování osobních vazeb před odborností. Zmínil tzv. „lex pomstička“ (změna kompetencí prezidenta), který považuje za protiústavní. `[1/06:03]`",
+      "**Jan Sviták (STAN)** — Kritizoval zrušení valorizačního automatu u dálničních známek jako populismus. Uvedl, že státní fond dopravní infrastruktury přijde o stovky milionů korun (v roce 2028 až 739 mil. Kč). Upozornil na fatální dopad na kraje, které poprvé od roku 2015 nedostanou ze SFDI prostředky na opravy silnic 2. a 3. tříd. `[1/08:01]`",
+      "**Neidentifikovaný řečník (STAN)** — Označil EET za „zmařenou příležitost“ a ekonomické zlo. Představil alternativní návrhy STAN: zrychlení firemních odpisů (podpora růstu a omezení odlivu zisků) a zavedení daňového bonusu pro 120 tisíc nízkopříjmových pracujících. `[1/12:04]`"
+    ],
+    "outcome": "Formální rozhodnutí na tiskové konferenci nebyla přijímána. Konsenzem hnutí STAN je:\n* Podpora Senátu v odmítnutí nového stavebního zákona.\n* Aktivní účast na jednáních opozičních stran o dalším postupu vůči vládě (včetně možnosti vyvolání hlasování o nedůvěře).\n* Příprava vlastních pozměňovacích návrhů k dopravní infrastruktuře a rozpočtovým otázkám.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Sviták",
+        "person_id": "psp:person:7050",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Senát",
+      "Agrofert"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika musí okamžitě zastavit čerpání dotací pro Agrofert, protože je zde flagrantní střet zájmů.",
+      "type": "paraphrase",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/00:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3124_highlight_00.jpg",
+      "context": "Otázka střetu zájmů byla předmětem auditů Evropské komise, které potvrdily, že Andrej Babiš měl vliv na rozhodování o dotacích pro holding Agrofert. Právní možnosti ČR zastavit již schválené dotace jsou omezeny pravidly EU a národní legislativou, přičemž v minulosti již došlo k vymáhání některých neoprávněně vyplacených prostředků."
+    },
+    {
+      "text": "Vláda předkládá návrh rozpočtu se schodkem téměř 400 miliard korun, což je v době hospodářského růstu naprosto neobhajitelné.",
+      "type": "paraphrase",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/04:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3124_highlight_01.jpg",
+      "context": "Návrh rozpočtu na rok 2025 počítá se schodkem 241 miliard korun, nikoliv 400 miliard. Tvrzení o „hospodářském růstu“ je relativní; česká ekonomika vykazuje pouze velmi mírný růst (odhad ČNB pro rok 2024 je kolem 1 %), což je po období stagnace a vysoké inflace považováno za křehkou obnovu."
+    },
+    {
+      "text": "Státní fond dopravní infrastruktury přijde kvůli zmrazení cen dálničních známek v roce 2028 o 739 milionů korun.",
+      "type": "citation",
+      "speaker": "Jan Sviták",
+      "affiliation": "STAN",
+      "timestamp": "1/09:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3124_highlight_02.jpg",
+      "context": "Výpočet vychází z odhadů Státního fondu dopravní infrastruktury (SFDI) o očekávaných výnosech při valorizaci cen. Zmrazení cen dálničních známek skutečně znamená výpadek příjmů oproti původně plánovanému scénáři, částka 739 milionů korun odpovídá interním propočtům fondu."
+    },
+    {
+      "text": "Poprvé od roku 2015 nedostanou kraje na běžné opravy silnic 2. a 3. tříd ze SFDI ani korunu.",
+      "type": "citation",
+      "speaker": "Jan Sviták",
+      "affiliation": "STAN",
+      "timestamp": "1/10:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3124_highlight_03.jpg",
+      "context": "SFDI v návrhu rozpočtu na rok 2025 skutečně omezil přímé dotace krajům na opravy silnic nižších tříd, což vyvolalo kritiku Asociace krajů ČR. Nelze však nezávisle ověřit, zda jde o absolutní nulový stav od roku 2015 bez detailní analýzy všech dotačních titulů SFDI v daných letech."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Lukáš Vlček (STAN)\n* **Co:** Označil stavební zákon za „legislativní zmetek“ a „lex pomstička“ (v kontextu změn kompetencí prezidenta).\n* **Proč:** Jde o silnou politickou kritiku legislativního procesu vlády, která naznačuje korupční jednání a obcházení standardních demokratických mechanismů.\n* **Čas:** 1/01:05",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/01:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3124_controversy_00.jpg",
+      "context": "Označení „legislativní zmetek“ je subjektivní politické hodnocení kvality zákona. Tvrzení o „lex pomstička“ je politická interpretace změn v kompetenčním zákoně, nikoliv faktické právní označení."
+    },
+    {
+      "statement": "* **Kdo:** Michaela Šebelová (STAN)\n* **Co:** Otevřeně potvrdila jednání o vyvolání hlasování o nedůvěře vládě.\n* **Proč:** Jde o nejzazší parlamentní nástroj opozice, který eskaluje politické napětí.\n* **Čas:** 1/04:23",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/04:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3124_controversy_01.jpg",
+      "context": "Hlasování o nedůvěře vládě je standardní ústavní nástroj dle čl. 72 Ústavy ČR. Zda k němu skutečně dojde, je otázkou politického rozhodnutí, nikoliv ověřitelným faktem o stavu legislativy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
