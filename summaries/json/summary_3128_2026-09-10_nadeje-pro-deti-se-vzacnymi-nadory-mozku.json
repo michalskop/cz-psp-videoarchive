@@ -1,0 +1,90 @@
+{
+  "schema_version": "2",
+  "summary": {
+    "topic": "Jednání se zaměřilo na problematiku diagnostiky a léčby dětí se vzácnými nádory mozku. Cílem bylo identifikovat systémové bariéry v přístupu k inovativní léčbě a navrhnout kroky pro zrychlení péče.",
+    "main_points": [
+      "**Vašek Pláteník (poslanec)** — moderátor, zdůraznil potřebu koordinace. `[1/00:38]`",
+      "**Manželé Chovancovi (NF NINA)** — kritika pomalosti systému a nedostatku času u agresivních diagnóz. `[5/04:08]`",
+      "**Doc. Šrámková (FN Motol)** — upozornila na administrativní zátěž a neudržitelnost paragrafu 16. `[1/06:06]`",
+      "**Doc. Můdry (FN Brno)** — zdůraznil nutnost personalizované medicíny a mezinárodní spolupráce. `[3/06:02]`",
+      "**Jana Losová (Spolek Tay-Sachs)** — popsala náročnou cestu k zahraniční studii bez institucionální podpory. `[9/02:12]`",
+      "**Tomáš Boráň (SÚKL)** — přislíbil pomoc s logistikou neregistrovaných léčiv. `[16/00:00]`"
+    ],
+    "outcome": "Shoda na nutnosti zřízení koordinačního centra, legislativního ukotvení Compassionate Use programů a lepšího využívání dat z evropských registrů.",
+    "notes": "Přepis obsahuje chyby v diakritice a opakující se technické halucinace v závěru."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vašek Pláteník",
+        "person_id": null,
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Martin Chovanec",
+        "person_id": "psp:person:6200",
+        "affiliation": "Nadační fond NINA"
+      },
+      {
+        "name": "Kristýna Chovancová",
+        "person_id": null,
+        "affiliation": "Nadační fond NINA"
+      },
+      {
+        "name": "Doc. Šrámková",
+        "person_id": "psp:person:3939",
+        "affiliation": "FN Motol"
+      },
+      {
+        "name": "Doc. Můdry",
+        "person_id": null,
+        "affiliation": "FN Brno"
+      },
+      {
+        "name": "Jana Losová",
+        "person_id": "psp:person:2031",
+        "affiliation": "Spolek Tay-Sachs"
+      },
+      {
+        "name": "Tomáš Boráň",
+        "person_id": null,
+        "affiliation": "SÚKL"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Ministerstvo zdravotnictví",
+      "VZP",
+      "SÚKL",
+      "FN Motol",
+      "FN Brno"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pro většinu systémů jsou inovace otázkou měsíců či let, pro dítě s DIPG představuje to, co má, jeho zbývající život.",
+      "type": "citation",
+      "speaker": "Martin Chovanec",
+      "affiliation": "Nadační fond NINA",
+      "timestamp": "5/08:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3128_highlight_00.jpg",
+      "context": "DIPG (difuzní intrinsický pontinní gliom) je vysoce agresivní a v současnosti nevyléčitelný typ nádoru mozku u dětí. Medián přežití po diagnóze se pohybuje mezi 9 až 12 měsíci, což potvrzují data odborných onkologických společností, jako je např. Česká onkologická společnost ČLS JEP."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Debata o financování extrémně drahých terapií (např. 750 mil. Kč za skupinu pacientů), kde Dr. Míková (VZP) varovala před ohrožením péče pro ostatní klienty.",
+      "speaker": "Dr. Míková",
+      "affiliation": "VZP",
+      "timestamp": "22/06:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3128_controversy_00.jpg",
+      "context": "VZP a další zdravotní pojišťovny dlouhodobě upozorňují na udržitelnost systému při úhradě tzv. orphan drugs (léků na vzácná onemocnění). Podle zákona č. 48/1997 Sb. o veřejném zdravotním pojištění musí pojišťovny hospodařit s vyrovnaným rozpočtem, přičemž extrémně drahé terapie pro malé skupiny pacientů mohou vytvářet tlak na redistribuci prostředků určených pro běžnou péči o ostatní pojištěnce."
+    }
+  ],
+  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-09-10T14:37:53"
+}
