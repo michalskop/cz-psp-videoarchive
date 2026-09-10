@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-10T02:34:44",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3127",
+    "name": "Tisková konference Pirátů po projednání ST 67",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-09T18:49",
+    "end_date": "2026-09-09T18:58",
+    "sources": [
+      "final/event_3127_2026-09-09_tiskova-konference-piratu-po-projednani-st-67.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5571_video-psp-202699-1849-46-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference České pirátské strany se konala v reakci na schválení novely stavebního zákona v Poslanecké sněmovně. Cílem vystoupení bylo kritizovat způsob, jakým byla novela prosazena, a upozornit na její negativní dopady na veřejný prostor, práva občanů a dostupnost bydlení.\n\nPiráti označili proces přijímání zákona za netransparentní a obcházející standardní legislativní postupy. Podle řečníků novela ignoruje varování odborníků, samospráv i Senátu a je šitá na míru zájmům velkých developerů, přičemž fakticky neřeší bytovou krizi v České republice.",
+    "main_points": [
+      "**Veronika Kovářová (Piráti)** — kritizovala koalici za přehlasování Senátu, který novelu odmítl (85 % senátorů bylo pro zamítnutí). Upozornila na netransparentní vypořádání připomínek, které měla na starosti vládní zmocněnkyně Hana Landová. Varovala před rozvratem systému stavebních úřadů, nedostatkem úředníků a rizikem nárůstu černých staveb. Zdůraznila ohrožení veřejných zájmů (ochrana přírody, památek, práv sousedů) a možnost snadné devastace veřejného prostoru. `[1/00:45]`",
+      "**Ivan Bartoš (Piráti)** — přirovnal současnou situaci k roku 2020 a tehdejšímu postupu ministryně Dostálové. Uvedl, že v roce 2023 byla schválena novela, která zrychlila povolování staveb na průměrných 96 dní a měla širokou podporu. Označil Hanu Landovou za „hlavní lobbistku velkých developerů“. Argumentoval, že zákon neřeší dostupnost bydlení, protože nezajišťuje obecní či družstevní výstavbu a zrušil zákonnou definici dostupného bydlení. Varoval před „dvourychlostním“ přístupem, který zvýhodňuje velké developery na úkor malých a středních stavitelů. Avizoval možnou ústavní stížnost. `[1/02:45]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. Dominujícím postojem Pirátů je odmítnutí novely jako celku. Strana se hodlá obrátit na Ústavní soud a napadnout jak proces schvalování, tak obsah zákona, který podle nich zavádí nerovné podmínky na trhu a poškozuje zájmy občanů.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Veronika Kovářová",
+        "person_id": "psp:person:7013",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Na jeden souhlas vidíme 50 nesouhlasů, těchto 55 novelizovaných zákonů je bez hlavy a paty proškrtáno, přepsáno a dotvořeno právníky napojenými na hospodářskou komoru.",
+      "type": "paraphrase",
+      "speaker": "Veronika Kovářová",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3127_highlight_00.jpg",
+      "context": "Tvrzení o vlivu právníků napojených na Hospodářskou komoru ČR na konkrétní novelizace je subjektivním politickým hodnocením. Nelze nezávisle ověřit přímou kauzalitu mezi vlivem těchto osob a kvalitou legislativního textu."
+    },
+    {
+      "text": "Zákon neobsahuje cokoliv, co by vedlo k tomu, aby mladý člověk nebo rodina dosáhli na dostupné bydlení.",
+      "type": "citation",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3127_highlight_01.jpg",
+      "context": "Dostupnost bydlení je komplexní problém ovlivněný mnoha faktory, jako jsou úrokové sazby hypoték, nabídka bytů a regulace. Zda konkrétní zákon obsahuje dostatečné nástroje pro řešení dostupnosti, je předmětem odborného a politického sporu, nikoliv objektivně měřitelný fakt."
+    },
+    {
+      "text": "Díky této novele se definice dostupného bydlení z českého práva dostává ven a již tam dále není.",
+      "type": "citation",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3127_highlight_02.jpg",
+      "context": "Definice „dostupného bydlení“ není v českém právním řádu (např. v zákoně č. 183/2006 Sb., stavební zákon) jednotně a závazně definována jako obecný právní pojem. Zda novela tento pojem vypouští, závisí na interpretaci konkrétních ustanovení v porovnání s předchozí právní úpravou."
+    },
+    {
+      "text": "Tento zákon může znamenat zvýšení ceny bydlení a snížení jeho dostupnosti, protože velcí developeři mají zelenou, zatímco pro malé stavitele žádné výjimky nejsou.",
+      "type": "paraphrase",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3127_highlight_03.jpg",
+      "context": "Dopady legislativy na ceny nemovitostí jsou předmětem predikcí ekonomických analýz, které se často rozcházejí. Tvrzení o zvýhodnění velkých developerů na úkor malých stavebníků je politickou interpretací dopadů konkrétních technických parametrů zákona."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Ivan Bartoš (Piráti)\n**Co:** Označil vládní zmocněnkyni Hanu Landovou za „hlavní lobbistku velkých developerů“ a zpochybnil její nestrannost při vypořádávání připomínek k zákonu.\n**Proč:** Jde o přímé zpochybnění integrity státní úřednice a podezření z ovlivňování legislativního procesu v zájmu konkrétní podnikatelské skupiny.\n**Čas:** 1/04:45",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3127_controversy_00.jpg",
+      "context": "Označení státní úřednice za „lobbistku“ je hodnotícím úsudkem a politickou kritikou. Informace o střetu zájmů nebo ovlivňování legislativy konkrétními skupinami nejsou v tuto chvíli podloženy oficiálním šetřením orgánů činných v trestním řízení či kontrolních orgánů státní správy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
