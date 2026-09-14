@@ -1,0 +1,222 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-14T14:39:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3131",
+    "name": "Odolný stát a akceschopná samospráva",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-09-14T09:30",
+    "end_date": "2026-09-14T12:30",
+    "sources": [
+      "final/event_3131_2026-09-14_odolny-stat-a-akceschopna-samosprava.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914093003.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914094003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914095003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914100003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914101003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914102003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914103003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914104003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914105003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914110003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914111003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914112003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914113003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914114003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914115003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914120003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914121003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914122003.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/14/_20260914123003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 19,
+    "parts_total": 19,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na revizi krizové legislativy a plánování v České republice, které podle účastníků neodpovídá realitě digitální doby a současným bezpečnostním hrozbám. Cílem bylo identifikovat slabá místa v koordinaci mezi státem, kraji a obcemi, diskutovat o odolnosti kritické infrastruktury a navrhnout cesty k modernizaci systému krizového řízení.\n\nDiskuse reflektovala zkušenosti z nedávných krizí a zdůraznila potřebu „jedné bezpečnosti“, lepší komunikace s občany a posílení akceschopnosti samospráv.",
+    "main_points": [
+      "**Moderátor (poslanec)** — Zdůraznil zastaralost krizové legislativy a potřebu modernizace. `[1/02:11]`",
+      "**Dušan Uhlík (HZS)** — Upozornil na disbalanci v připravenosti krajů a potřebu celostátního standardu. `[1/06:01]`",
+      "**Martin Koněřík (MV)** — Potvrdil přípravu revize krizové legislativy do roku 2027. `[1/08:03]`",
+      "**Marta Spálenková (Jihočeský kraj)** — Kritizovala ztrátu odbornosti na úrovni ORP po zrušení okresních úřadů. `[2/02:13]`",
+      "**Jan Paťava (MV)** — Zdůraznil, že komunikace musí být nedílnou součástí krizového řízení. `[2/08:01]`",
+      "**Jana Filipovičová (starostka)** — Popsala selhání systémů při tornádu a nutnost improvizace. `[3/02:01]`",
+      "**Petr Mudra (starosta)** — Kritizoval politizaci krizového řízení a selhání komunikace. `[4/02:01]`",
+      "**Barbara Kořánová (Člověk v tísni)** — Zdůraznila roli neziskovek a nutnost sdílení dat. `[7/04:02]`",
+      "**Senátor Fischer** — Varoval před absencí armády při civilních krizích v budoucnu. `[8/06:10]`"
+    ],
+    "outcome": "Konsenzus panuje v tom, že současný systém krizového řízení je roztříštěný. Byla potvrzena nutnost:\n* **Legislativní revize:** Příprava nového rámce do roku 2027.\n* **Komunikace:** Depolitizace krizové komunikace.\n* **Praxe:** Důraz na pravidelné cvičení a „kuchařky“ pro starosty.\n* **Financování:** Zavedení cílených dotačních titulů pro obce na pořízení vybavení.",
+    "notes": "Přepis obsahuje opakující se technické artefakty v částech 11–13, které byly ignorovány. Části 12 a 13 neobsahují věcný obsah."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Moderátor",
+        "person_id": null,
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Dušan Uhlík",
+        "person_id": null,
+        "affiliation": "HZS"
+      },
+      {
+        "name": "Martin Koněřík",
+        "person_id": null,
+        "affiliation": "Ministerstvo vnitra"
+      },
+      {
+        "name": "Marta Spálenková",
+        "person_id": null,
+        "affiliation": "Jihočeský kraj"
+      },
+      {
+        "name": "Jan Paťava",
+        "person_id": null,
+        "affiliation": "Ministerstvo vnitra"
+      },
+      {
+        "name": "Jana Filipovičová",
+        "person_id": "psp:person:7004",
+        "affiliation": "Obec Hrušky"
+      },
+      {
+        "name": "Petr Mudra",
+        "person_id": null,
+        "affiliation": "Obec Nová Ves"
+      },
+      {
+        "name": "Lukáš Kohout",
+        "person_id": null,
+        "affiliation": "Veltrusy"
+      },
+      {
+        "name": "Barbara Kořánová",
+        "person_id": "psp:person:6464",
+        "affiliation": "Člověk v tísni"
+      },
+      {
+        "name": "Senátor Fischer",
+        "person_id": "psp:person:361",
+        "affiliation": "Senát PČR"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Ministerstvo vnitra",
+      "HZS",
+      "Senát PČR",
+      "Člověk v tísni"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Papírové krizové plány naráží na limity digitální doby a rozdělení kompetencí občas připomíná kompetenční přetahovanou.",
+      "type": "paraphrase",
+      "speaker": "Moderátor",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/03:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3131_highlight_00.jpg",
+      "context": "Krizové řízení v ČR upravuje zákon č. 240/2000 Sb. (krizový zákon). Kritika roztříštěnosti kompetencí mezi ústřední orgány, kraje a obce je dlouhodobým tématem odborných diskusí o efektivitě státní správy."
+    },
+    {
+      "text": "Když vypadnou komunikační prostředky, je to naše největší noční můra, pak už zbývají jen osobní kontakty.",
+      "type": "citation",
+      "speaker": "Marta Spálenková",
+      "affiliation": "Jihočeský kraj",
+      "timestamp": "6/08:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3131_highlight_01.jpg",
+      "context": "Závislost na digitální infrastruktuře je v krizových plánech identifikována jako kritické zranitelné místo. Zákon č. 205/2017 Sb. o elektronické identifikaci a související předpisy o kybernetické bezpečnosti řeší odolnost systémů, ale fyzické zálohování komunikace zůstává nezbytným prvkem krizových protokolů."
+    },
+    {
+      "text": "Krizové plány ve skříni jsou k ničemu, protože v momentě krize si na ně nikdo nevzpomene; klíčové je cvičení.",
+      "type": "paraphrase",
+      "speaker": "Jan Paťava",
+      "affiliation": "Ministerstvo vnitra",
+      "timestamp": "6/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3131_highlight_02.jpg",
+      "context": "Povinnost prověřovat krizové plány formou cvičení vyplývá z vyhlášky č. 328/2001 Sb. Odborná veřejnost se shoduje, že praktická připravenost (cvičení) je pro zvládání reálných krizí zásadnější než samotná formální dokumentace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Návrh na obnovu okresních úřadů / krizových okresních úřadů.**\n\n*   **Kdo:** Marta Spálenková (Jihočeský kraj) a Martin Koněřík (MV).\n*   **Co:** Návrh na obnovu okresní úrovně krizového řízení.\n*   **Proč:** Je to politicky citlivé, protože by to znamenalo částečný návrat k centralizaci a zrušení modelu smíšené správy, což vyvolává odpor u zastánců samosprávy.",
+      "speaker": "Marta Spálenková",
+      "affiliation": "Jihočeský kraj",
+      "timestamp": "2/02:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3131_controversy_00.jpg",
+      "context": "Okresní úřady byly v ČR zrušeny k 31. 12. 2002 v rámci reformy veřejné správy. Návrh na jejich obnovu v krizovém řízení by vyžadoval zásadní novelizaci krizového zákona a zákona o obcích, což je politicky kontroverzní téma narážející na principy subsidiarity a odpor samospráv proti posilování státní centralizace."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

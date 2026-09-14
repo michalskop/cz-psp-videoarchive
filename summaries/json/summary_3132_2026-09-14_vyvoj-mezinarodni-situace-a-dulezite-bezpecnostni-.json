@@ -1,0 +1,256 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-14T14:39:07",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3132",
+    "name": "Vývoj mezinárodní situace a důležité bezpečnostní otázky",
+    "classification": "Seminář",
+    "start_date": "2026-09-14T09:44",
+    "end_date": "2026-09-14T14:00",
+    "sources": [
+      "final/event_3132_2026-09-14_vyvoj-mezinarodni-situace-a-dulezite-bezpecnostni-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914094002.mp4",
+        "from_sec": 291
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914095004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914100004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914101009.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914102009.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914103007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914104000.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914105000.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914110002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914111002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914112002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914113002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914114003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914115003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914120007.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914121007.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914122007.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914123006.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914124004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914125008.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914130004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914131004.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914132001.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914133003.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/14/_20260914134003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 25,
+    "parts_total": 25,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na analýzu aktuální mezinárodní situace v roce 2026 s výhledem do budoucna. Cílem bylo zhodnotit globální mocenské posuny, ústup vlivu západních mocností (zejména USA a EU) a vzestup nových hráčů, jako je Čína, Indie či uskupení BRICS. Diskutovány byly bezpečnostní hrozby pro Českou republiku, včetně migrace, energetické závislosti, kybernetické bezpečnosti a role zpravodajských služeb.",
+    "main_points": [
+      "**Ivo Budil (profesor, historik)** — Popsal současnou situaci jako „interregnum“ (mezidobí) po úpadku americké hegemonie. Předpovídá vznik nového globálního řádu založeného na aliancích (BRICS, Čína, Indie, Rusko) spíše než na dominanci jednoho státu. `[2/00:00]`",
+      "**Pavel Mikeš (odborník na Afriku)** — Upozornil na demografický růst Afriky a ústup Evropy z kontinentu, kde ji ekonomicky i technologicky nahrazuje Čína. Varoval před masovou migrací a dvojím metrem evropské politiky. `[3/02:01]`",
+      "**Ladislav Jakl (publicista)** — Kritizoval českou zahraniční politiku za servilitu a nedostatek pragmatismu. Zdůraznil, že ČR by měla své „ano“ v mezinárodních vztazích prodávat a hledat spojence podle konkrétních témat, nikoliv na „věčné časy“. `[6/02:07]`",
+      "**Milan Urban (architekt, politik)** — Analyzoval konflikty na Blízkém východě jako důsledek her velmocí. Kritizoval „petrodolarový“ systém a vyzdvihl potenciál BRICS jako platformy pro suverénní ekonomickou spolupráci. `[9/00:00]`",
+      "**Milan Podlipný (Mezinárodní centrum pro studium politického islámu)** — Varoval před politickým islámem jako hybridním systémem usilujícím o globální dominanci. Poukázal na rizika migrace („hijra“) a vlivu islámských organizací na západní společnost. `[14/05:00]`",
+      "**Tomio Okamura (SPD)** — Zdůraznil nutnost přísnější kontroly hranic a vyhošťování cizinců, kteří se dopustí trestné činnosti. Schengen označil za nefunkční. `[18/00:00]`",
+      "**Jaroslav Štefec (bezpečnostní analytik)** — Kritizoval stav Armády ČR, kterou označil za „papírovou“. Varoval před zranitelností kritické infrastruktury a doporučil občanům věnovat se individuální přípravě na krizové situace (preperství). `[19/04:07]`",
+      "**Štěpán Kotrba (analytik)** — Zaměřil se na rizika přírodních katastrof a technických havárií. Upozornil na zranitelnost elektrické sítě a nutnost civilní obrany. `[21/00:00]`",
+      "**Radim Panenka (novinář)** — Kritizoval zneužívání zpravodajských služeb (zejména BIS) k politickým tlakům a mediálním manipulacím. Navrhl zrušit vydávání veřejných výročních zpráv služeb, aby se z nich nestávali političtí hráči. `[23/06:05]`",
+      "**Miloš Zeman (bývalý prezident)** — V krátké reakci vyjádřil důvěru ve Vojenské zpravodajství, zatímco k civilním službám zůstal kritický. `[25/06:04]`"
+    ],
+    "outcome": "Jednání nemělo formální hlasování o usnesení. Dominoval konsenzus o nutnosti přehodnotit českou zahraniční a bezpečnostní politiku směrem k větší suverenitě, pragmatismu a důrazu na národní bezpečnost. Účastníci se shodli na kritickém pohledu na současné působení tajných služeb a na nutnosti připravit společnost na možné krizové scénáře (výpadky energií, migrační tlaky).",
+    "notes": "Přepis obsahuje četné technické artefakty (opakující se fráze, useknutá slova, chybějící diakritiku). Části 15–17 jsou z velké části tvořeny halucinacemi modelu (opakující se URL adresy), což znemožnilo rekonstrukci obsahu těchto segmentů."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ivo Budil",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Pavel Mikeš",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Ladislav Jakl",
+        "person_id": "psp:person:1787",
+        "affiliation": null
+      },
+      {
+        "name": "Milan Urban",
+        "person_id": "psp:person:422",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Milan Podlipný",
+        "person_id": null,
+        "affiliation": "Mezinárodní centrum pro studium politického islámu"
+      },
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Miloš Zeman",
+        "person_id": "psp:person:253",
+        "affiliation": null
+      },
+      {
+        "name": "Jaroslav Štefec",
+        "person_id": "psp:person:6829",
+        "affiliation": null
+      },
+      {
+        "name": "Štěpán Kotrba",
+        "person_id": "psp:person:5372",
+        "affiliation": null
+      },
+      {
+        "name": "Radim Panenka",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "BIS",
+      "Vojenské zpravodajství",
+      "BRICS"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika nemá armádu, která by byla schopná plnit požadavky zákona o zbrojených silách.",
+      "type": "citation",
+      "speaker": "Jaroslav Štefec",
+      "affiliation": null,
+      "timestamp": "19/04:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3132_highlight_00.jpg",
+      "context": "Tvrzení je subjektivním názorem. Armáda ČR plní úkoly stanovené zákonem č. 219/1999 Sb., o ozbrojených silách ČR, a pravidelně prochází certifikací v rámci závazků vůči NATO, které její akceschopnost potvrzují."
+    },
+    {
+      "text": "Stát je váš, přátelé. Vy jste stát. Jakou míru ochrany budete chtít mít, takovou ji budete mít.",
+      "type": "citation",
+      "speaker": "Štěpán Kotrba",
+      "affiliation": null,
+      "timestamp": "23/04:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3132_highlight_01.jpg",
+      "context": "Jde o politicko-filozofické tvrzení o povaze demokracie a suverenity lidu. Nelze fakticky ověřit, neboť jde o interpretaci společenské smlouvy."
+    },
+    {
+      "text": "Není normální, aby se z vedení tajných služeb stávaly mediální hvězdy.",
+      "type": "citation",
+      "speaker": "Radim Panenka",
+      "affiliation": null,
+      "timestamp": "25/04:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3132_highlight_02.jpg",
+      "context": "Jde o hodnotový soud o mediální prezentaci představitelů bezpečnostních složek. Neexistuje žádná právní norma, která by definovala „normálnost“ mediálního vystupování ředitelů tajných služeb."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Štěpán Kotrba navrhl, aby v případě ohrožení státu a pohybu civilistů ve střeženém prostoru byli tito lidé bez varování zastřeleni.",
+      "speaker": "Štěpán Kotrba",
+      "affiliation": null,
+      "timestamp": "23/02:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3132_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Neexistuje veřejný záznam o takovém oficiálním legislativním návrhu; pravděpodobně jde o interpretaci výroků pronesených v diskusním pořadu."
+    },
+    {
+      "statement": "Radim Panenka obvinil BIS z toho, že v kauze Vrbětice a dalších „úkolovala vládu“ a manipulovala veřejným míněním skrze spřátelené novináře.",
+      "speaker": "Radim Panenka",
+      "affiliation": null,
+      "timestamp": "24/04:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3132_controversy_01.jpg",
+      "context": "Tvrzení o „úkolování vlády“ a manipulaci je interpretací Radima Panenky. Podle zákona č. 153/1994 Sb. je BIS podřízena vládě, která ji úkoluje, nikoliv naopak; tvrzení o manipulaci veřejného mínění není podloženo žádným soudním rozhodnutím ani oficiálním vyšetřováním."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
