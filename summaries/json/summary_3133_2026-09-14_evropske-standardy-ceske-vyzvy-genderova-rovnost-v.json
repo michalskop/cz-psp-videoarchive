@@ -1,0 +1,190 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-14T19:29:30",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3133",
+    "name": "Evropské standardy, české výzvy: Genderová rovnost v rozhodovacích procesech",
+    "classification": "Seminář",
+    "start_date": "2026-09-14T15:05",
+    "end_date": "2026-09-14T18:00",
+    "sources": [
+      "final/event_3133_2026-09-14_evropske-standardy-ceske-vyzvy-genderova-rovnost-v.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914150002.mp4",
+        "from_sec": 321
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914151002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914152002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914153002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914154002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914155002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914160002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914161002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914163002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914164002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914165002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914170002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914171002.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914172002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914173002.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914174002.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A55/2026/09/14/_20260914175002.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 17,
+    "parts_total": 18,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář pořádaný Českou ženskou lobby se zaměřil na analýzu stavu genderové rovnosti v České republice v kontextu evropských standardů a závazků. Cílem bylo identifikovat klíčové překážky v prosazování rovnosti, diskutovat o implementaci evropských směrnic a nastartovat hlubší spolupráci mezi občanskou společností, akademickou sférou a politickou reprezentací.\n\nJednání reflektovalo aktuální společenskou situaci, kdy je téma genderové rovnosti pod tlakem a v mnoha ohledech dochází k stagnaci či ústupu. Účastníci se věnovali třem hlavním blokům: genderově podmíněnému násilí, právům transgender osob a situaci migrantek v ČR.",
+    "main_points": [
+      "**Vanda Černohorská (Sociologický ústav AV ČR)** — Upozornila na zaostávání ČR v mezinárodních žebříčcích (25. místo v Gender Equality Indexu). Kritizovala nadrezortní roztříštěnost agendy a nedostatek dat, zejména v oblasti genderově podmíněného násilí. `[1/06:01]`",
+      "**Aneška Nedomová (Poslankyně)** — Zdůraznila význam evropských standardů jako zrcadla pro českou politiku a vyjádřila podporu spolupráci s odbornou veřejností. `[2/02:11]`",
+      "**Nika Mazaníková (Česká ženská lobby)** — Poukázala na obtížnou politickou situaci a narůstající tlak na témata genderové rovnosti, což vede k obavám z otevřené diskuze. `[2/04:06]`",
+      "**Johana Nejedlová (Konsent)** — Navrhla konkrétní legislativní kroky: správnou transpozici směrnice o boji proti násilí, prodloužení promlčecích lhůt u sexuálních trestných činů a zavedení povinného vzdělávání soudců. Upozornila na problém zneužívání moci na školách. `[3/06:00]`",
+      "**Agáta Hrdličková (Prague Pride / Gender Studies)** — Kritizovala automatický zánik manželství při úřední změně pohlaví a nedostupnost asistované reprodukce pro trans osoby. `[9/00:00]`",
+      "**Magda Faltová (SIMI)** — Popsala prekarizaci migrantek a diskriminační podmínky pro pobyt ukrajinských uprchlíků. Volala po inkluzivním pobytovém systému. `[11/06:06]`",
+      "**Pavla Špondrveč (Advokátka/Ombudsmanka)** — Navrhla povinné anonymizované zveřejňování pravomocných soudních rozsudků jako nástroj pro sjednocování judikatury. `[14/06:05]`"
+    ],
+    "outcome": "Formální hlasování neproběhlo. Konsenzus se ustálil na potřebě zlepšit sběr dat, posílit transparentnost justice, vytvořit tlak na ministerstva skrze expertní připomínkování a pokračovat v síťování napříč sektory.",
+    "notes": "Přepis obsahuje četné technické chyby a halucinace. Části 8, 16 a 17 jsou z velké části nečitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vanda Černohorská",
+        "person_id": "psp:person:5429",
+        "affiliation": "Sociologický ústav AV ČR"
+      },
+      {
+        "name": "Aneška Nedomová",
+        "person_id": "psp:person:7026",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Nika Mazaníková",
+        "person_id": null,
+        "affiliation": "Česká ženská lobby"
+      },
+      {
+        "name": "Johana Nejedlová",
+        "person_id": null,
+        "affiliation": "Konsent"
+      },
+      {
+        "name": "Agáta Hrdličková",
+        "person_id": null,
+        "affiliation": "Prague Pride / Gender Studies"
+      },
+      {
+        "name": "Magda Faltová",
+        "person_id": null,
+        "affiliation": "SIMI"
+      },
+      {
+        "name": "Pavla Špondrveč",
+        "person_id": null,
+        "affiliation": "Advokátka"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Česká ženská lobby",
+      "Sociologický ústav AV ČR",
+      "Ministerstvo spravedlnosti",
+      "Ministerstvo vnitra",
+      "SIMI"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Znásilnění za svůj život zažije každá pátá žena a každý třicátý muž.",
+      "type": "citation",
+      "speaker": "Johana Nejedlová",
+      "affiliation": "Konsent",
+      "timestamp": "3/06:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3133_highlight_00.jpg",
+      "context": "Tato data vycházejí z reprezentativního výzkumu agentury FOCUS pro organizaci Amnesty International z roku 2017. Výzkum uvádí, že 19 % žen a 3 % mužů v ČR má zkušenost se znásilněním nebo pokusem o něj, což odpovídá poměru každá pátá žena a každý třicátý muž."
+    },
+    {
+      "text": "Česká republika se v Gender Equality Indexu dlouhodobě pohybuje na chvostu, aktuálně jsme na 25. místě.",
+      "type": "paraphrase",
+      "speaker": "Vanda Černohorská",
+      "affiliation": "Sociologický ústav AV ČR",
+      "timestamp": "3/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3133_highlight_01.jpg",
+      "context": "Podle zprávy Evropského institutu pro rovnost žen a mužů (EIGE) za rok 2023 se ČR v Gender Equality Indexu skutečně umístila na 25. místě z 27 členských států EU. ČR se v tomto žebříčku dlouhodobě pohybuje v dolní části tabulky, přičemž za námi zůstávají pouze Rumunsko a Maďarsko."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zavedení povinného vzdělávání soudců v oblasti genderově podmíněného násilí. Soudci se brání argumentem o narušení nezávislosti soudní moci.",
+      "speaker": "Johana Nejedlová",
+      "affiliation": "Konsent",
+      "timestamp": "4/04:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3133_controversy_00.jpg",
+      "context": "Debata o povinném vzdělávání soudců v ČR probíhá v kontextu novelizace trestního zákoníku a standardů Istanbulské úmluvy. Argument o narušení nezávislosti soudní moci je častým stanoviskem profesních organizací, jako je Soudcovská unie ČR, které preferují dobrovolnost vzdělávání před zákonnou povinností."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

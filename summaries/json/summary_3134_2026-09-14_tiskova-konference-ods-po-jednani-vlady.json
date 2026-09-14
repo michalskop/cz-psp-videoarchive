@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-14T19:29:54",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3134",
+    "name": "Tisková konference ODS po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-14T15:35",
+    "end_date": "2026-09-14T15:56",
+    "sources": [
+      "final/event_3134_2026-09-14_tiskova-konference-ods-po-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5577_video-psp-2026914-1535-51-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po jednání vlády a jejím cílem bylo představit kritický postoj opoziční strany k aktuálním vládním krokům. Hlavními tématy byla energetická krize, rozpočtová politika, zdravotnictví, regulace návykových látek a zahraniční politika.\n\nStínová vláda ODS prezentovala své alternativní návrhy a ostře kritizovala vládní koalici za neplnění slibů, „antivaxerský“ přístup a údajné útoky na podnikatelské prostředí a nezávislost justice.",
+    "main_points": [
+      "**Martin Kubka (ODS)** — Kritizoval vládu za nečinnost v oblasti cen energií a plynu. Upozornil, že zásobníky plynu jsou naplněny pouze ze 73–74 % oproti 90 % v minulosti. V oblasti pohonných hmot odmítl regulaci cen a navrhl snížení spotřební daně. Označil vládu za „hrobaře rozpočtu“ kvůli nedodržení slibu udržet deficit pod 3 %. `[00:00]`",
+      "**Štěpán Slovák (ODS)** — Obvinil vládu z „antivaxerství“ kvůli odmítnutí očkování v lékárnách. ODS připravila vlastní návrh zákona. Kritizoval vládní návrh regulace kratomu a nikotinových sáčků, který označil za likvidační pro legální podnikatele a za zbytečné posilování pravomocí policie. `[04:16]`",
+      "**Radim Ivan (ODS)** — Představil plán na posílení růstu regionů mimo Prahu a Středočeský kraj. Cílem je dobrovolné spojování sil a sdílení služeb obcí, nikoliv zřizování nových úřadů. `[10:01]`",
+      "**Jan Lipavský (ODS)** — Ocenil obnovení komunikace mezi prezidentem a premiérem, ale kritizoval neúčast ministra zahraničí na těchto jednáních. Vyzval vládu k aktivnějšímu zapojení do zbrojní spolupráce s Ukrajinou. `[14:19]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. ODS deklarovala záměr předložit vlastní legislativní návrhy do Poslanecké sněmovny a hledat pro ně podporu napříč politickým spektrem. Dominujícím postojem je ostrá opoziční kritika vládní politiky jako restriktivní, nekompetentní a ohrožující demokratické principy dělby moci.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a fragmenty vět. Časové značky jsou orientační."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kubka",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Radim Ivan",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ve stejném období byly zásobníky plné na 90 % a v současné době jsou plné zhruba na 73 až 74 %.",
+      "type": "citation",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3134_highlight_00.jpg",
+      "context": "Data o naplněnosti zásobníků plynu jsou veřejně dostupná prostřednictvím portálu Gas Infrastructure Europe (GIE) nebo stránek MPO ČR. Aktuální procentuální stav se mění denně, tvrzení je tedy ověřitelné porovnáním s historickými daty pro dané kalendářní období."
+    },
+    {
+      "text": "Praha se středočeským krajem tvoří 40 % HDP, což vyvolává až přílišnou závislost na jednom regionu v rámci České republiky.",
+      "type": "paraphrase",
+      "speaker": "Radim Ivan",
+      "affiliation": "ODS",
+      "timestamp": "1/11:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3134_highlight_01.jpg",
+      "context": "Podle dat ČSÚ se Praha dlouhodobě podílí na tvorbě HDP ČR přibližně 25–27 %. Pokud je započítán i Středočeský kraj, podíl se pohybuje kolem 35–38 %, což potvrzuje vysokou ekonomickou koncentraci, ačkoliv přesné číslo se mírně liší dle metodiky a referenčního roku."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Štěpán Slovák (ODS)\n*   **Co:** Kritika vládního návrhu, který umožňuje policistovi na základě podezření uzavřít prodejnu až na 14 dní.\n*   **Proč:** ODS to považuje za „šílenost“ a zásah do podnikatelského prostředí, který dává řadovým policistům přílišné pravomoci bez řádného procesu.\n*   **Čas:** 1/08:06",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/08:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3134_controversy_00.jpg",
+      "context": "Jedná se o politickou interpretaci legislativního návrhu. Pravomoc uzavřít provozovnu je v právním řádu ČR (např. zákon č. 65/2017 Sb.) standardně vázána na správní řízení a soudní přezkum; tvrzení o „šílenosti“ je subjektivním hodnotícím soudem opozičního poslance."
+    },
+    {
+      "statement": "*   **Kdo:** Martin Kubka (ODS)\n*   **Co:** Reakce na slova ministra spravedlnosti Tejce, že státní zástupci mají postupovat podle priorit vlády.\n*   **Proč:** ODS to vnímá jako ohrožení dělby moci a pokus o politické ovládnutí státního zastupitelství, které má být nezávislé.\n*   **Čas:** 1/20:03",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/20:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3134_controversy_01.jpg",
+      "context": "Nezávislost státního zastupitelství je ukotvena v zákoně č. 283/1993 Sb. Státní zastupitelství je hierarchicky uspořádaný úřad podřízený Ministerstvu spravedlnosti, avšak přímé ovlivňování konkrétních kauz vládou je v rozporu s principy právního státu a dělby moci."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
