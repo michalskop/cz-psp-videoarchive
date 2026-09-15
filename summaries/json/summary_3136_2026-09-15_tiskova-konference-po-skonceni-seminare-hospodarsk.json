@@ -1,0 +1,105 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-15T14:15:19",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3136",
+    "name": "Tisková konference po skončení semináře hospodářského výboru na téma Potírání černého trhu",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-15T12:46",
+    "end_date": "2026-09-15T12:53",
+    "sources": [
+      "final/event_3136_2026-09-15_tiskova-konference-po-skonceni-seminare-hospodarsk.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5579_video-psp-2026915-1246-16-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference shrnula závěry společného odborného semináře hospodářských výborů Poslanecké sněmovny a Senátu Parlamentu ČR, který se zaměřil na problematiku potírání černého trhu a šedé ekonomiky. Cílem setkání bylo sjednotit názory a postupy obou komor parlamentu, diskutovat o výzvách v oblasti zákonné regulace a vyslechnout si podněty odborné veřejnosti i zástupců státních orgánů.\n\nHlavními tématy diskuse byly negativní dopady černého trhu s kratomem, alkoholem a tabákovými výrobky (zejména přeshraniční nákupy v Polsku), prevence užívání návykových látek u dětí a mládeže, a ekonomické aspekty spojené s daňovými úniky. Účastníci se shodli na nutnosti koordinovaného postupu mezi ministerstvy, policií, celní správou a obchodní inspekcí, přičemž zdůraznili, že boj proti černému trhu musí být racionální a nesmí poškozovat poctivé podnikatele.",
+    "main_points": [
+      "**Radim Fiala (předseda hospodářského výboru PSP ČR)** — Zdůraznil potřebu koordinace mezi oběma komorami parlamentu. Upozornil na rizika spojená s kratomem, který označil za „bránu k měkkým a následně tvrdým drogám“. Zmínil význam prevence a ochrany dětí a ocenil účast zástupců ministerstev a odborníků na semináři. `[1/01:15]`",
+      "**Miroslav Plevný (předseda hospodářského výboru Senátu PČR)** — Varoval před populistickými opatřeními a zdůraznil, že přílišná regulace může paradoxně vytlačit legální podnikání do šedé zóny, což vede k daňovým ztrátám a ztrátě kontroly nad trhem. Navrhl, že v některých případech může být efektivnější regulaci zmírnit. `[1/04:11]`",
+      "**Zástupce Hospodářské komory ČR** — Vyjádřil podporu boji proti černému trhu, který vnímá jako nekalou konkurenci poškozující poctivé obchodníky. `[1/05:25]`"
+    ],
+    "outcome": "Formálním výsledkem je shoda na nutnosti pokračovat v koordinovaném přístupu mezi oběma komorami parlamentu a příslušnými státními orgány. Účastníci se shodli, že problematika je komplexnější, než se původně předpokládalo, a vyžaduje hlubší analýzu smysluplnosti legislativních norem. Předsedové výborů deklarovali záměr v pořádání podobných odborných seminářů pokračovat.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (zejména v částech `[01:50]` a `[03:30]`), kde dochází k výpadkům slov nebo jejich komolení v důsledku automatického přepisu. Obsah byl rekonstruován na základě kontextu a srozumitelných částí projevu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Radim Fiala",
+        "person_id": "psp:person:5459",
+        "affiliation": "PSP ČR"
+      },
+      {
+        "name": "Miroslav Plevný",
+        "person_id": "psp:person:6677",
+        "affiliation": "Senát PČR"
+      }
+    ],
+    "parties": [
+      "Hospodářská komora ČR"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát PČR",
+      "Policie ČR",
+      "Česká obchodní inspekce",
+      "Generální ředitelství cel"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Přílišná přeregulovanost trhu může paradoxně způsobit, že vytlačí legální byznys do šedé až černé zóny.",
+      "type": "paraphrase",
+      "speaker": "Miroslav Plevný",
+      "affiliation": "Senát PČR",
+      "timestamp": "1/04:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3136_highlight_00.jpg",
+      "context": "Jde o ekonomickou teorii (tzv. Lafferova křivka nebo teorie regulace), která předpokládá, že nadměrné náklady na dodržování předpisů motivují subjekty k obcházení zákona. Empirické studie (např. OECD) potvrzují, že přílišná byrokracie může skutečně zvyšovat podíl neformální ekonomiky."
+    },
+    {
+      "text": "Černý trh je nekalá konkurence k těm poctivým obchodníkům.",
+      "type": "paraphrase",
+      "speaker": "Miroslav Plevný",
+      "affiliation": "Senát PČR",
+      "timestamp": "1/05:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3136_highlight_01.jpg",
+      "context": "Tvrzení je fakticky správné z pohledu tržního prostředí. Subjekty v šedé zóně neplatí daně, odvody ani neplní regulatorní standardy, čímž získávají nespravedlivou cenovou výhodu oproti subjektům dodržujícím zákony."
+    },
+    {
+      "text": "Velký přísun kratomu způsobuje bránu k měkkým drogám a potom do budoucna i k tvrdým drogám.",
+      "type": "paraphrase",
+      "speaker": "Radim Fiala",
+      "affiliation": "PSP ČR",
+      "timestamp": "1/01:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3136_highlight_02.jpg",
+      "context": "Teorie „brány“ (gateway drug theory) je v odborné adiktologické obci předmětem debat. Zatímco některé studie naznačují korelaci mezi užíváním různých látek, kauzální vztah mezi užíváním kratomu a přechodem k tvrdým drogám není vědecky jednoznačně prokázán a je předmětem probíhajícího výzkumu (např. Národní monitorovací středisko pro drogy a závislosti)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Miroslav Plevný (předseda hospodářského výboru Senátu PČR)\n**Co:** Navrhl, že „někdy paradoxně možná i zmírnění určité regulace může přispět k pozitivním výsledkům v této oblasti“.\n**Proč:** Je to kontroverzní, protože v politickém diskurzu o boji s černým trhem se obvykle volá po přísnější regulaci a vyšších trestech; návrh na „zmírnění regulace“ jde proti běžnému populistickému proudu a vyžaduje precizní ekonomické zdůvodnění.\n**Čas:** 1/04:30",
+      "speaker": "Miroslav Plevný",
+      "affiliation": "Senát PČR",
+      "timestamp": "1/04:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3136_controversy_00.jpg",
+      "context": "Návrh na zmírnění regulace jako nástroj boje proti černému trhu je legitimní ekonomický argument, nikoliv faktické tvrzení. Efektivita tohoto přístupu závisí na konkrétním tržním segmentu a míře, v jaké je černý trh poháněn cenou versus dostupností."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
