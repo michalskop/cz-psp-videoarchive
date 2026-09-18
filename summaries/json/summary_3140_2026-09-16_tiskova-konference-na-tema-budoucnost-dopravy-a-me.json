@@ -1,0 +1,125 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-18T14:59:22",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3140",
+    "name": "Budoucnost dopravy a městské mobility v perspektivě 2028",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-16T12:39",
+    "end_date": "2026-09-16T13:00",
+    "sources": [
+      "final/event_3140_2026-09-16_tiskova-konference-na-tema-budoucnost-dopravy-a-me.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5583_video-psp-2026916-1239-2-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala u příležitosti zahájení Evropského týdne mobility. Cílem setkání bylo představit vizi rozvoje dopravy a městské mobility v České republice s výhledem do roku 2028 a dále. Účastníci zdůraznili, že doprava není pouze technickým tématem pro inženýry, ale klíčovým prvkem kvality života v obcích, který vyžaduje úzkou spolupráci mezi státem, samosprávami, akademickou sférou a technologickými klastry.\n\nHlavním tématem byla potřeba holistického přístupu k plánování dopravy, který přesahuje administrativní hranice měst a integruje různé módy dopravy (železnice, MHD, cyklodoprava, pěší zóny). Diskutována byla také role digitalizace, využívání dat pro rozhodování na základě reálných modelů namísto dojmů a příprava na nové programové období financování z fondů EU (2028–2034).",
+    "main_points": [
+      "**Martin Kolovratník (Poslanec, předseda podvýboru pro dopravu)** — Zdůraznil význam spolupráce samospráv a státu. Jako úspěšný příklad uvedl legislativní zakotvení „sdílených zón“ (zákon 361). Deklaroval připravenost podvýboru pro dopravu k intenzivní spolupráci na legislativních změnách a financování dopravy v nadcházejícím období. `[1/02:03]`",
+      "**Miroslav Žbánek (Předseda svazku obcí metropolitních oblastí)** — Upozornil na nutnost plánování dopravy v přirozených dopravních tocích, nikoliv pouze v rámci administrativních hranic měst. Zdůraznil, že menší obce se stávají integrální součástí dopravní obslužnosti a managementu. `[1/06:06]`",
+      "**Tomáš Kantor (Národní centrum dopravy 4.0)** — Upozornil na blížící se změnu ve financování projektů EU od roku 2028, kdy skončí éra „helikoptérového“ rozdělování peněz a důraz bude kladen na socioekonomickou návratnost projektů podloženou reálnými daty a simulacemi. `[1/10:02]`",
+      "**Martinek (Partnerství pro městskou mobilitu)** — Představil kampaň „Zvolni s Želovákem“, která má občanům vysvětlit přínosy zón 30 a sdílených zón. Zmínil také výzvu „10 000 kroků“ na podporu pěší mobility. `[1/12:04]`",
+      "**Tomáš Jančů (Czech Smart City Cluster)** — Prosazuje komplexní „Smart City“ přístup, kde se doprava řeší v souvislosti s energetickou udržitelností, klimatickou adaptací a bezpečností. `[1/14:01]`",
+      "**David Michalička (Starosta Říčan)** — Prezentoval praktické zkušenosti menšího města u metropole. Požádal velké investory (ŘSD, Správa železnic) o zahrnutí prvků udržitelné mobility (přestupní terminály, cyklostezky) již do počátečních fází velkých dopravních projektů. `[1/16:08]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nikoliv formálním hlasováním. Konsenzem všech zúčastněných je potřeba prohloubit spolupráci mezi všemi úrovněmi veřejné správy a odborníky. Byla deklarována shoda na nutnosti přechodu od intuitivního plánování k plánování založenému na datech a simulacích. V otázce dálničních známek (dotaz novinářky) Martin Kolovratník uvedl, že aktuálně je prioritou schválení vládní novely (zrušení valorizace) a další návrhy (např. známka na jednu dálnici) budou předmětem širší diskuse v příštím roce.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a několikrát se opakující nesmyslné fráze (např. „Představující se na dopravu“), které byly pro účely shrnutí ignorovány. Část záznamu v čase `[04:04]` je mírně fragmentovaná, ale srozumitelná v kontextu příkladu modernizace železničního uzlu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kolovratník",
+        "person_id": "psp:person:6211",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Miroslav Žbánek",
+        "person_id": "psp:person:7064",
+        "affiliation": "Svazek obcí metropolitních oblastí"
+      },
+      {
+        "name": "Tomáš Kantor",
+        "person_id": null,
+        "affiliation": "Národní centrum dopravy 4.0"
+      },
+      {
+        "name": "Martinek",
+        "person_id": "psp:person:6317",
+        "affiliation": "Partnerství pro městskou mobilitu"
+      },
+      {
+        "name": "Tomáš Jančů",
+        "person_id": null,
+        "affiliation": "Czech Smart City Cluster"
+      },
+      {
+        "name": "David Michalička",
+        "person_id": null,
+        "affiliation": "Starosta Říčan"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Národní centrum dopravy 4.0",
+      "Czech Smart City Cluster",
+      "Svazek obcí metropolitních oblastí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Skončí období helikoptérového rozdělování dotačních peněz a bude kladen důraz na přípravu projektů, které mají socioekonomickou návratnost.",
+      "type": "paraphrase",
+      "speaker": "Tomáš Kantor",
+      "affiliation": "Národní centrum dopravy 4.0",
+      "timestamp": "1/10:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3140_highlight_00.jpg",
+      "context": "Jde o politické vyjádření záměru změny dotační politiky. Efektivita a socioekonomická návratnost jsou standardními parametry hodnocení projektů dle metodik Ministerstva pro místní rozvoj a pravidel EU pro čerpání fondů."
+    },
+    {
+      "text": "Doprava není jenom technickým tématem pro projektanty, ale týká se i mobility a komfortu dopravy v rámci měst a obcí.",
+      "type": "paraphrase",
+      "speaker": "Martin Kolovratník",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/02:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3140_highlight_01.jpg",
+      "context": "Tvrzení odpovídá definici moderního dopravního plánování, které se v rámci EU i ČR (např. Strategie mobility ČR) posouvá od čistě technického řešení infrastruktury k integrovanému přístupu zahrnujícímu veřejnou dopravu a udržitelnost."
+    },
+    {
+      "text": "Plány udržitelné městské mobility, které si jednotlivá města dělaly ve svých hranicích, dnes překračují nové hranice a začínají se plánovat v přirozených dopravních tocích.",
+      "type": "citation",
+      "speaker": "Miroslav Žbánek",
+      "affiliation": "Svazek obcí metropolitních oblastí",
+      "timestamp": "1/06:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3140_highlight_02.jpg",
+      "context": "Plány udržitelné městské mobility (SUMP) jsou standardizovaným nástrojem podporovaným Ministerstvem dopravy. Přechod od administrativních hranic obcí k plánování dle reálných dopravních toků (funkčních městských regionů) je aktuálním trendem v územním plánování."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "### Kontroverzní téma: Návrh dálniční známky na jednu dálnici\n* **Kdo:** Martin Kolovratník (poslanec, předseda podvýboru pro dopravu)\n* **Co:** Odmítl aktuální zařazení pozměňovacího návrhu na dálniční známku pro jednu dálnici do projednávané novely.\n* **Proč:** Politicky citlivé, protože by to znamenalo výpadek příjmů Státního fondu dopravní infrastruktury (SFDI) bez předchozího propočtu dopadů. Prioritou je dodržení vládního slibu o zrušení valorizace.\n* **Čas:** 1/19:00",
+      "speaker": "Martin Kolovratník",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/19:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3140_controversy_00.jpg",
+      "context": "Zavedení časově omezených nebo úsekových dálničních známek by vyžadovalo změnu zákona č. 13/1997 Sb., o pozemních komunikacích. Výpadek příjmů SFDI je reálným rizikem, neboť fond je financován primárně z výnosů časového zpoplatnění a mýtného, přičemž jakákoliv změna sazeb či systému podléhá schválení rozpočtových dopadů Ministerstvem financí."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

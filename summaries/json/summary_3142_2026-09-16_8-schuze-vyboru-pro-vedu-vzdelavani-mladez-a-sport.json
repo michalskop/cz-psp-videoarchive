@@ -1,0 +1,195 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-18T14:58:03",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3142",
+    "name": "8. schůze Výboru pro vědu, vzdělávání, mládež a sport",
+    "classification": "Jednání výborů",
+    "start_date": "2026-09-16T10:01",
+    "end_date": "2026-09-16T12:28",
+    "sources": [
+      "final/event_3142_2026-09-16_8-schuze-vyboru-pro-vedu-vzdelavani-mladez-a-sport.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916100003.mp4",
+        "from_sec": 67
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916101003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916102003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916103003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916104003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916105003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916110003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916111003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916112003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916113003.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916114003.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916115003.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916120003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916121003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/16/_20260916122003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru se zaměřilo na dva klíčové body školské legislativy. Prvním byla diskuse o regulaci používání mobilních telefonů a elektronických zařízení ve školách (sněmovní tisky 104 a 232), kde se výbor zabýval otázkou plošného zákazu versus ponechání autonomie na ředitelích škol. Druhým bodem byla problematika parametrizace a profesionalizace pozice asistentů pedagoga, jejímž cílem je zefektivnit systém inkluzivního vzdělávání, zajistit lepší metodické vedení asistentů a stabilizovat financování podpůrných opatření.",
+    "main_points": [
+      "**Robert Plaga (MŠMT)** — Představil vládní návrh na regulaci mobilních telefonů s cílem chránit duševní zdraví dětí. U asistentů pedagoga prosazuje přechod od vázanosti na konkrétního žáka k systémové podpoře školy. `[1/04:07]`",
+      "**Petr Kovanda (Zpravodaj)** — Potvrdil podporu vládního návrhu na regulaci mobilů a zdůraznil potřebu sjednotit pravidla pro právní jistotu škol. `[2/00:00]`",
+      "**Jan Berky (Poslanec)** — Navrhl pozměňovací návrhy k mobilům a varoval před rizikem snížení počtu asistentů v přechodném období. `[2/02:05]`",
+      "**Renata Zajíčková (Poslankyně)** — Kritizovala plošný zákaz mobilů jako neúčinný a zdůraznila potřebu školních zařízení. U asistentů pedagoga podpořila profesionalizaci, ale varovala před přenesením odpovědnosti na ředitele. `[3/00:00]`",
+      "**Petr Fiala (Poslanec)** — Vyjádřil opatrnost vůči centrálním zákazům. Argumentoval, že škola má být součástí normálního života, nikoliv rezervací. `[8/02:09]`",
+      "**Marek Výborný (Poslanec)** — Podpořil regulaci mobilů jako potřebnou a odmítl, že by šlo o plošný zákaz. `[5/00:00]`",
+      "**Jana Majerová (Poslankyně)** — Podpořila zákaz mobilů s odkazem na závislostní chování dětí. `[5/06:06]`",
+      "**Pavel Bartoň (Poslanec)** — Sdílel pozitivní zkušenost ze Vsetína, kde regulace mobilů vedla ke zlepšení klimatu. `[6/00:00]`"
+    ],
+    "outcome": "Výbor přijal usnesení, kterým bere na vědomí informace ministra školství k regulaci mobilů (návrh na vyjmutí gymnázií nebyl přijat) a usnesení k parametrizaci a profesionalizaci asistentů pedagoga. Předseda byl pověřen svoláním 9. schůze.",
+    "notes": "Přepis obsahuje občasné chyby v diakritice a opakující se fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Robert Plaga",
+        "person_id": "psp:person:6549",
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Petr Kovanda",
+        "person_id": "psp:person:7014",
+        "affiliation": null
+      },
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": null
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": null
+      },
+      {
+        "name": "Petr Fiala",
+        "person_id": "psp:person:5536",
+        "affiliation": null
+      },
+      {
+        "name": "Marek Výborný",
+        "person_id": "psp:person:6513",
+        "affiliation": null
+      },
+      {
+        "name": "Jana Majerová",
+        "person_id": "psp:person:6467",
+        "affiliation": null
+      },
+      {
+        "name": "Pavel Bartoň",
+        "person_id": "psp:person:6988",
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "ODS",
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "MŠMT"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Školy mají s žáky mluvit o tom, kde se skrývá úskalí kyberšikany, dopaminových závislostí sociálních sítí a dalších věcí.",
+      "type": "citation",
+      "speaker": "Robert Plaga",
+      "affiliation": "MŠMT",
+      "timestamp": "1/06:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3142_highlight_00.jpg",
+      "context": "Prevence kyberšikany a digitální gramotnosti je součástí Rámcových vzdělávacích programů (RVP) definovaných MŠMT. Problematika dopaminových závislostí na sociálních sítích je aktuálně předmětem odborných diskusí v rámci revize RVP a strategií prevence rizikového chování."
+    },
+    {
+      "text": "Zákazy obecně, a to jsou letité zkušenosti, prostě nefungují; vždycky se hledají cesty, jak ten zákaz obejít.",
+      "type": "citation",
+      "speaker": "Renata Zajíčková",
+      "affiliation": null,
+      "timestamp": "4/01:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3142_highlight_01.jpg",
+      "context": "Účinnost zákazů je předmětem pedagogických a psychologických debat. Neexistuje jednoznačný vědecký konsenzus; zatímco některé studie naznačují, že restrikce mohou vést k obcházení pravidel, jiné (např. zprávy UNESCO 2023) poukazují na pozitivní dopady omezení mobilů na soustředění a sociální interakce ve školním prostředí."
+    },
+    {
+      "text": "Dobrý asistent pedagoga je jako druhý učitel ve třídě, špatný asistent pedagoga je jako další problémový žák ve třídě.",
+      "type": "citation",
+      "speaker": "Robert Plaga",
+      "affiliation": "MŠMT",
+      "timestamp": "11/05:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3142_highlight_02.jpg",
+      "context": "Role asistenta pedagoga je legislativně ukotvena v zákoně č. 561/2004 Sb. (školský zákon). Kvalita práce asistenta závisí na jeho odborné kvalifikaci a nastavení spolupráce s učitelem, což je dlouhodobě diskutované téma v rámci inkluzivního vzdělávání."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na plošnou regulaci mobilních telefonů vyvolal spor o to, zda je zákaz mobilů „plošný“ a zda je správným výchovným nástrojem. Kritici (Zajíčková, Fiala) varují před „rezervací“ škol a právními spory, zastánci (Plaga, Majerová) zdůrazňují ochranu duševního zdraví dětí.",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "3/04:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3142_controversy_00.jpg",
+      "context": "V ČR neexistuje celoplošný zákonný zákaz mobilních telefonů ve školách; rozhodnutí o regulaci je v kompetenci ředitelů škol v rámci jejich školního řádu. Debata se vede o míře autonomie škol versus potřebě celostátního rámce pro ochranu duševního zdraví žáků."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

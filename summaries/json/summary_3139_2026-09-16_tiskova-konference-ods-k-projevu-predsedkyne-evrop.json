@@ -1,0 +1,105 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-18T14:59:49",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3139",
+    "name": "Tisková konference ODS k projevu předsedkyně Evropské komise",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-16T11:30",
+    "end_date": "2026-09-16T11:55",
+    "sources": [
+      "final/event_3139_2026-09-16_tiskova-konference-ods-k-projevu-predsedkyne-evrop.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5582_video-psp-2026916-1130-58-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS byla svolána jako reakce na projev předsedkyně Evropské komise Ursuly von der Leyenové v Evropském parlamentu. Hlavním cílem bylo představit kritický pohled ODS na priority Evropské unie, zejména v oblasti ekonomiky, konkurenceschopnosti a směřování k federalizaci.\n\nPředstavitelé ODS vyjádřili obavy z klesající konkurenceschopnosti EU vůči USA, kritizovali nadměrnou regulaci a varovali před zaváděním nových „vlastních zdrojů“ EU, které interpretují jako nové evropské daně. Zároveň zdůraznili potřebu uměřenosti evropského rozpočtu a kritizovali ambivalentní postoj české vlády k těmto otázkám.",
+    "main_points": [
+      "**Jan Skopeček (ODS)** — Zdůraznil zaostávání EU za USA v produktivitě práce a inovacích. Kritizoval projev předsedkyně EK za opomenutí zásadních ekonomických problémů. Odmítl federalizační kroky, jako je rušení jednomyslnosti při hlasování a zavádění evropských daní. `[1/02:06]`",
+      "**Petr Sokol (ODS)** — Informoval o prosazení usnesení ve Výboru pro evropské záležitosti, které vyzývá vládu ČR k odmítnutí společného zadlužování EU a nových evropských daní. Kritizoval rozpor mezi vládní rétorikou doma a vyjednáváním v Bruselu. `[1/06:05]`",
+      "**Společná stanoviska:** ODS odmítá „bobtnání“ rozpočtu EU, kritizuje cestu regulací v oblasti AI místo podpory rozvoje a odmítá snahy EU nahrazovat roli rodičů v regulaci sociálních sítí."
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale politickou deklarací postojů ODS. Strana se shodla na nutnosti pokračovat v tlaku na vládu ČR, aby při vyjednávání o víceletém finančním rámci (rozpočtu EU) důsledně odmítala nové evropské daně a společné zadlužování. ODS hodlá toto téma nadále otevírat na plénu Poslanecké sněmovny.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Sokol",
+        "person_id": "psp:person:7045",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Evropská komise",
+      "Poslanecká sněmovna",
+      "Výbor pro evropské záležitosti",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Za posledních 50 let nevznikla v EU od nuly žádná firma s tržní hodnotou přes 100 miliard eur, zatímco v USA za stejnou dobu vzniklo 6 firem s hodnotou přes 1 bilion eur.",
+      "type": "paraphrase",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/01:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3139_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. Například společnost ASML (založena 1984) nebo SAP (založena 1972) mají tržní hodnotu přes 100 miliard eur. Srovnání s americkými technologickými giganty (tzv. Big Tech) je fakticky správné v tom, že USA dominují v počtu firem s tržní kapitalizací nad 1 bilion dolarů, ale evropský trh má odlišnou strukturu a regulaci."
+    },
+    {
+      "text": "ODS jednoznačně deklaruje, že nejsme pro to, aby EU měla svoje vlastní evropské daně.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/03:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3139_highlight_01.jpg",
+      "context": "Jde o dlouhodobý politický postoj ODS, který je v souladu s programovými dokumenty strany. ODS dlouhodobě prosazuje zachování daňové suverenity členských států a odmítá přímé zdanění na úrovni EU."
+    },
+    {
+      "text": "Evropský výbor skutečně vyzval vládu, aby postupovala tímhle tím směrem, to znamená, aby jednoznačně odmítla nové evropské daně.",
+      "type": "citation",
+      "speaker": "Petr Sokol",
+      "affiliation": "ODS",
+      "timestamp": "1/07:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3139_highlight_02.jpg",
+      "context": "Výbor pro evropské záležitosti Poslanecké sněmovny skutečně opakovaně projednává návrhy týkající se vlastních zdrojů rozpočtu EU. Usnesení výboru jsou pro vládu politickým mandátem, nikoliv právně závazným příkazem, nicméně vláda se jimi v rámci vyjednávání v Radě EU zpravidla řídí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jan Skopeček (ODS)\n**Co:** Kritika snahy EU regulovat přístup dětí k sociálním sítím.\n**Proč:** Kontroverzní z hlediska subsidiarity – řečník argumentuje, že EU by neměla „nahrazovat rodiče“ a národní státy v otázkách, které jsou v kompetenci rodin a národní legislativy.\n**Čas:** 1/14:28",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/14:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3139_controversy_00.jpg",
+      "context": "Otázka regulace digitálních služeb (např. Akt o digitálních službách – DSA) spadá pod sdílenou kompetenci EU a členských států v rámci vnitřního trhu. Argument o „nahrazování rodičů“ je legitimní politický názor, nikoliv faktické tvrzení, které lze ověřit daty."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

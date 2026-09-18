@@ -1,0 +1,101 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-18T15:01:19",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3144",
+    "name": "Tisková konference Pirátů k vysokým cenám energií",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-17T10:40",
+    "end_date": "2026-09-17T11:00",
+    "sources": [
+      "final/event_3144_2026-09-17_tiskova-konference-piratu-k-vysokym-cenam-energii.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5587_video-psp-2026917-1040-24-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem kritiky vládní nečinnosti v oblasti energetické bezpečnosti. Piráti připomněli svůj „Manifest energetické bezpečnosti“ představený před šesti měsíci a konstatovali, že vláda za tu dobu nepřijala žádná efektivní opatření, přestože ceny energií (plyn, elektřina, pohonné hmoty) opět prudce rostou.\n\nCílem vystoupení bylo představit konkrétní krátkodobá i dlouhodobá řešení, která by snížila závislost ČR na fosilních palivech a ulevila občanům i firmám od vysokých cen energií, a zároveň kriticky zhodnotit aktuální rozpočtové kroky vládní koalice.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládu za to, že po šesti měsících nečinnosti opět řeší krizi pouze ad-hoc opatřeními. Navrhl: \n  * Vrátit lidem peníze z nadvýběru DPH u energií a pohonných hmot.\n  * Snížit DPH na základní potraviny a hygienické potřeby jako protiinflační opatření.\n  * Obnovit program „Nová zelená úsporám“ s důrazem na dotace, nikoliv úvěry. `[1/02:04]`",
+      "**Václav Vyslous (Pirátská expertní ekonomická rada)** — Zaměřil se na dlouhodobá strukturální opatření: \n  * **Výstavba vlastních zdrojů:** Kritizoval nízké tempo výstavby větrných elektráren.\n  * **Komunitní energetika a sítě:** Navrhl uvolnění kapacit v sítích odebráním rezervací projektům, které se nerealizují.\n  * **Energetické úspory:** Prosazuje metodu „garantovaných úspor“ (EPC) ve státních budovách.\n  * **Trh s elektřinou:** Požaduje právo na chytré elektroměry zdarma a zavedení dynamických distribučních tarifů. `[1/06:10]`",
+      "**Tematické body:** \n  * **Státní rozpočet:** Piráti zpochybnili reálnost úspor vládní koalice o 60 miliard korun.\n  * **Veřejnoprávní média:** Hřib uvítal odklad projednávání poplatků za média."
+    ],
+    "outcome": "Jednání nemělo formální rozhodovací charakter, šlo o prezentaci opozičního postoje. Piráti se shodli na nutnosti systémových změn v energetice a odmítli vládní taktiku svolávání mimořádných schůzí sněmovny, kterou vnímají jako snahu vyhnout se interpelacím a skládání účtů.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a opakující se nesmyslné fráze, které byly ignorovány. Části textu jsou useknuté, ale hlavní argumenty řečníků jsou srozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Václav Vyslous",
+        "person_id": "psp:person:6923",
+        "affiliation": "Pirátská expertní ekonomická rada"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Loni se v celém Česku zprovoznilo sedm větrníků, slovy sedm, a letos ani jeden.",
+      "type": "paraphrase",
+      "speaker": "Václav Vyslous",
+      "affiliation": "Pirátská expertní ekonomická rada",
+      "timestamp": "1/06:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3144_highlight_00.jpg",
+      "context": "Podle dat Komory obnovitelných zdrojů energie (KOMORZE) bylo v roce 2023 v ČR skutečně zprovozněno 7 větrných elektráren. Tvrzení o nulovém počtu v roce 2024 je v kontextu průběžných dat za první polovinu roku fakticky správné, neboť výstavba větrných parků v ČR podléhá dlouhým povolovacímu procesům."
+    },
+    {
+      "text": "Vláda je schopná zajistit pro Česko dlouhodobé stabilní předvídatelné kontrakty na plyn i bez Ruska, ale nedělá to.",
+      "type": "citation",
+      "speaker": "Václav Vyslous",
+      "affiliation": "Pirátská expertní ekonomická rada",
+      "timestamp": "1/09:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3144_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o politické hodnocení vládní strategie energetické bezpečnosti; státní nákupy plynu probíhají primárně přes soukromé dodavatele a tržní mechanismy, přičemž vláda disponuje omezenými nástroji pro přímé uzavírání dlouhodobých kontraktů bez součinnosti s energetickým sektorem."
+    },
+    {
+      "text": "Pokud chcete, aby ten stát fungoval a ty silnice a mosty nechátraly a nepadaly, je nutné někde zajistit finance.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/14:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3144_highlight_02.jpg",
+      "context": "Tvrzení vychází z obecně uznávaného stavu dopravní infrastruktury v ČR, kde Státní fond dopravní infrastruktury (SFDI) dlouhodobě eviduje investiční dluh v řádech stovek miliard korun. Potřeba financování údržby a výstavby je doložitelná z výročních zpráv SFDI a analýz Ministerstva dopravy."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zdeněk Hřib (Piráti) označil svolávání mimořádných schůzí vládní koalicí za „velice nebezpečný jev“, jehož cílem je vyhnout se interpelacím a odpovědnosti. Je to politicky citlivé, neboť zpochybňuje legitimitu parlamentních procedur vlády.",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/14:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3144_controversy_00.jpg",
+      "context": "Svolávání mimořádných schůzí je legitimní nástroj dle Jednacího řádu Poslanecké sněmovny (zákon č. 90/1995 Sb.). Zda jejich využití omezuje prostor pro interpelace, je věcí parlamentní praxe a politické interpretace, nikoliv právní fakticity."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

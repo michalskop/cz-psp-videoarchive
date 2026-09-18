@@ -1,0 +1,136 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-18T15:00:37",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3143",
+    "name": "Tisková konference Starostů a nezávislých po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-17T11:01",
+    "end_date": "2026-09-17T12:32",
+    "sources": [
+      "final/event_3143_2026-09-17_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5586_video-psp-2026917-111-50-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí STAN po jednání jejich „Kabinetu budoucnosti“ byla zaměřena na kritiku současné vládní politiky, stavu státního rozpočtu a priorit vládní koalice. Představitelé hnutí se vymezili proti vládnímu návrhu rozpočtu se schodkem blížícím se 400 miliardám korun, který označili za nekoncepční a plný „dárečků“ na úkor strategických investic.\n\nCílem vystoupení bylo prezentovat alternativní pohled na klíčová témata, jako je bezpečnost, pomoc Ukrajině a vzdělávání, a zároveň představit konkrétní legislativní návrh na snížení volebního věku v komunálních volbách na 16 let. Hnutí se rovněž ostře ohradilo proti vládní „trestní politice“ a zasahování do práce státních zástupců.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval rekordní schodek rozpočtu (téměř 400 mld. Kč) a nedostatek investic do vědy, školství a krajských komunikací. Obvinil vládu z vyvolávání „kulturních válek“ namísto řešení ekonomických problémů občanů. `[02:07]`",
+      "**Karel Dvořák (STAN)** — Odsoudil vládní usnesení o „trestní politice“, které podle něj nepřípustně zasahuje do nezávislosti státního zastupitelství. `[06:05]`",
+      "**Barbora Urbanová (STAN)** — Informovala o své cestě na Ukrajinu a navrhla sbírku na speciálně upravená auta pro ukrajinské veterány. `[08:25]`",
+      "**Josef Flek (STAN)** — Kritizoval nestabilitu výdajů na obranu a varoval před škrty v bezpečnosti a zdravotnictví. `[12:00]`",
+      "**Zina Kašparová (STAN)** — Představila návrh novely zákona, který snižuje věkovou hranici pro aktivní volební právo v komunálních volbách z 18 na 16 let. `[14:05]`",
+      "**Adriána Chochylová (STAN)** — Podpořila návrh na snížení volebního věku s odkazem na úspěšné příklady ze zahraničí. `[16:01]`"
+    ],
+    "outcome": "Jednání nevedlo k formálnímu rozhodnutí vlády, neboť šlo o tiskovou konferenci opozičního subjektu. Hnutí STAN se shodlo na odmítnutí vládního rozpočtového rámce a ohlásilo, že jejich poslanci v rozpočtovém výboru budou požadovat přepracování rozpočtu. Dominujícím postojem je kritika vládního populismu a snaha o otevření debaty o příjmové stránce rozpočtu.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné repetitivní fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Josef Flek",
+        "person_id": "psp:person:6750",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Zina Kašparová",
+        "person_id": "psp:person:7008",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Adriána Chochylová",
+        "person_id": "psp:person:6997",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Kabinet budoucnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Schodek se vyšplhal téměř na 400 miliard korun, což je neuvěřitelné, když se ještě nedávno hovořilo o 300 miliardách.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/02:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3143_highlight_00.jpg",
+      "context": "Státní rozpočet ČR za rok 2023 skončil se schodkem 288,5 miliardy korun. Vládní odhady pro rok 2024 se v průběhu času měnily, přičemž původně plánovaný schodek 252 miliard byl vlivem ekonomického vývoje a mimořádných výdajů revidován, nicméně hranice 400 miliard nebyla v roce 2024 jako cílová hodnota oficiálně schválena."
+    },
+    {
+      "text": "Ukrajinci na našem území odvádějí do veřejných rozpočtů 11,7 miliard korun ročně, což je více, než kolik dostávají na humanitárních dávkách.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/25:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3143_highlight_01.jpg",
+      "context": "Podle analýzy Ministerstva práce a sociálních věcí a dat ČSÚ z roku 2023 skutečně příjmy z odvodů a daní pracujících uprchlíků z Ukrajiny převyšují náklady na jejich humanitární dávky. V roce 2023 stát vybral na odvodech a daních od ukrajinských uprchlíků přes 11 miliard korun, zatímco výdaje na humanitární dávky byly nižší."
+    },
+    {
+      "text": "Navrhujeme snížení věkové hranice pro aktivní volební právo v komunálních volbách z 18 na 16 let.",
+      "type": "citation",
+      "speaker": "Zina Kašparová",
+      "affiliation": "STAN",
+      "timestamp": "1/16:22",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3143_highlight_02.jpg",
+      "context": "Návrh na snížení volebního věku na 16 let pro komunální a evropské volby je součástí aktuální politické debaty a programových priorit hnutí STAN. V současnosti platí dle Ústavy ČR a zákona č. 491/2001 Sb. věková hranice 18 let pro aktivní volební právo."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Snížení volebního věku na 16 let.\n- **Kdo:** Zina Kašparová a Adriána Chochylová (STAN).\n- **Co:** Návrh novely zákona umožňující volit v komunálních volbách od 16 let.\n- **Proč:** Politicky citlivé téma, které vyvolává debaty o zralosti mladých voličů.\n- **Čas:** 1/14:05",
+      "speaker": "Zina Kašparová",
+      "affiliation": "STAN",
+      "timestamp": "1/14:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3143_controversy_00.jpg",
+      "context": "Jedná se o politický návrh, který vyžaduje změnu ústavního zákona, nikoliv pouze běžného zákona. Debata o volebním právu od 16 let je v ČR dlouhodobá a naráží na otázku právní způsobilosti a politické zralosti mladistvých."
+    },
+    {
+      "statement": "**Kontroverzní výrok:** Obvinění vlády z „kanibalizace koaličních partnerů“ a označení vlády za „koalici nevydávání“.\n- **Kdo:** Vít Rakušan (STAN).\n- **Co:** Tvrdá kritika vnitřních vztahů v koalici.\n- **Proč:** Přímý útok na integritu vládních představitelů.\n- **Čas:** 1/18:00",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/18:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3143_controversy_01.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, kterou nelze fakticky ověřit jako pravdivou či nepravdivou. Výrok reflektuje vnitřní dynamiku vládní koalice SPOLU a PirSTAN, která je předmětem politického boje."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

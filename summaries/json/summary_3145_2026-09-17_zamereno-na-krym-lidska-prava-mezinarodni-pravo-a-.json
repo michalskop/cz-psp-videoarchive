@@ -1,0 +1,215 @@
+{
+  "schema_version": "2",
+  "event": {
+    "id": "3145",
+    "name": "Zaměřeno na Krym: Lidská práva, mezinárodní právo a bezpečnost v Evropě",
+    "classification": "Konference",
+    "start_date": "2026-09-17T13:15",
+    "end_date": "2026-09-17T16:35",
+    "sources": [
+      "final/event_3145_2026-09-17_zamereno-na-krym-lidska-prava-mezinarodni-pravo-a-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917131009.mp4",
+        "from_sec": 301
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917132009.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917133009.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917134009.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917135009.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917140009.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917141009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917142009.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917143009.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917144009.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917145009.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917150009.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917151009.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917152009.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917153009.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917154009.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917155009.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917160009.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917161009.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917162009.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/17/_20260917163009.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 21,
+    "parts_total": 21,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Konference se zaměřila na kritickou situaci na okupovaném Krymu, přičemž zdůraznila, že Krym není pouze územní otázkou, ale především otázkou lidských práv, identity a bezpečnosti dvou milionů lidí. Cílem jednání bylo upozornit na systematické represe, militarizaci dětí, pronásledování krymských Tatarů a politické věznění ze strany ruského okupačního režimu.",
+    "main_points": [
+      "**Pavel Havlíček (Expert)** — Zdůraznil nutnost kontinuálního tlaku na propuštění politických vězňů. `[1/08:00]`",
+      "**Vitalij Usati (Ukrajinská ambasáda)** — Upozornil na více než 200 politických vězňů a likvidaci krymskotatarské identity. `[2/02:02]`",
+      "**Zdenka Cajsova (MZV ČR)** — Potvrdila podporu ukrajinské občanské společnosti a dokumentaci deportací dětí. `[2/08:00]`",
+      "**Vladislav Jusipenko (Žurnalista)** — Svědectví o mučení v ruských věznicích. `[4/02:01]`",
+      "**Viktoria Nestedenko (ZMINA)** — Dokumentace politických vězňů a kriminalizace aktivismu. `[5/06:02]`",
+      "**Irina (Human Rights Group)** — Upozornila na rostoucí počet žen mezi politickými vězni. `[6/02:06]`",
+      "**Maria Suljalina (Almenda)** — Prezentovala data o militarizaci dětí v hnutí Junarmija. `[7/06:00]`",
+      "**Emil Ibrahimov (QHub)** — Paralela mezi českým disidentem Václavem Havlem a Mustafou Džemilevem. `[16/06:04]`",
+      "**Tatiana Žurková (ZMINA)** — Kritika neúčinnosti mezinárodních mechanismů a výzva k vytvoření speciálního tribunálu. `[17/06:02]`"
+    ],
+    "outcome": "Jednání vyústilo v konsenzus o nutnosti posílit koordinaci mezi národními a mezinárodními mechanismy (ICC, speciální tribunál), zintenzivnit sankční politiku a vytvořit fondy pro přímou pomoc politickým vězňům a jejich rodinám.",
+    "notes": "Přepis obsahuje značné množství technických artefaktů (opakující se fráze, useknutá slova, chybějící diakritika). Části 11–13 jsou v přepisu silně poškozeny opakováním nesmyslných frází."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Pavel Havlíček",
+        "person_id": "psp:person:6621",
+        "affiliation": "Expert"
+      },
+      {
+        "name": "Vitalij Usati",
+        "person_id": null,
+        "affiliation": "Ukrajinská ambasáda v Praze"
+      },
+      {
+        "name": "Zdenka Cajsova",
+        "person_id": null,
+        "affiliation": "Ministerstvo zahraničních věcí ČR"
+      },
+      {
+        "name": "Vladislav Jusipenko",
+        "person_id": null,
+        "affiliation": "Radio Svoboda"
+      },
+      {
+        "name": "Viktoria Nestedenko",
+        "person_id": null,
+        "affiliation": "ZMINA"
+      },
+      {
+        "name": "Maria Suljalina",
+        "person_id": null,
+        "affiliation": "Centrum civilního vzdělávání Almenda"
+      },
+      {
+        "name": "Emil Ibrahimov",
+        "person_id": null,
+        "affiliation": "QHub"
+      },
+      {
+        "name": "Tatiana Žurková",
+        "person_id": null,
+        "affiliation": "ZMINA"
+      }
+    ],
+    "parties": [
+      "Ukrajina",
+      "Česká republika",
+      "Rusko"
+    ],
+    "institutions": [
+      "FSB",
+      "ICC",
+      "OSE",
+      "ZMINA",
+      "QHub"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Rusko vytvořilo teroristické představy, aby zavolalo všechny formy vzpomínání na ukrajinskou identitu.",
+      "type": "paraphrase",
+      "speaker": "Pavel Havlíček",
+      "affiliation": "Expert",
+      "timestamp": "1/06:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3145_highlight_00.jpg",
+      "context": "Tvrzení interpretuje ruskou politiku jako snahu o systematickou likvidaci ukrajinské národní identity. Historické i současné zprávy mezinárodních organizací (např. OSN či Human Rights Watch) potvrzují, že na okupovaných územích dochází k nucené rusifikaci, potlačování ukrajinského jazyka a ničení kulturního dědictví."
+    },
+    {
+      "text": "Věříme, že jsem četl o nacistických koncentračních táborech, aby oběť nevěděla na nacisty, ale takto se společnosti FSB dělaly.",
+      "type": "citation",
+      "speaker": "Vladislav Jusipenko",
+      "affiliation": "Radio Svoboda",
+      "timestamp": "4/03:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3145_highlight_01.jpg",
+      "context": "Výrok odkazuje na metody FSB (nástupce KGB) při zacházení s vězni, které jsou lidskoprávními organizacemi (např. Amnesty International) přirovnávány k praktikám totalitních režimů. Přesné srovnání s nacistickými koncentračními tábory je rétorickým vyjádřením míry brutality a systémového mučení, nikoliv technickým popisem struktury táborů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Tatiana Žurková (ZMINA) kritizovala nečinnost mezinárodních organizací (včetně OSE) a neúčinnost sankcí, které jsou často obcházeny. Kontroverzní je její výzva k radikálnímu přehodnocení diplomatických vztahů s neutrálními státy, které legitimizují ruskou okupaci.",
+      "speaker": "Tatiana Žurková",
+      "affiliation": "ZMINA",
+      "timestamp": "18/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3145_controversy_00.jpg",
+      "context": "Kritika neúčinnosti sankcí je podložena zprávami o obcházení embarg skrze třetí země (např. Turecko, Kazachstán či Čínu), což potvrzují analýzy institucí jako Atlantic Council nebo zprávy Evropské komise. Výzva k přehodnocení vztahů s neutrálními státy je politickým názorem, nikoliv faktickým tvrzením, a odráží debatu o efektivitě mezinárodní izolace Ruska."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null,
+  "model_hint": "gemini-3.1-flash-lite",
+  "created_at": "2026-09-18T14:59:03"
+}

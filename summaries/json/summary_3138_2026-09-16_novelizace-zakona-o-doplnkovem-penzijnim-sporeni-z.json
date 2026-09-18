@@ -1,0 +1,236 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-18T14:56:47",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3138",
+    "name": "Novelizace zákona o doplňkovém penzijním spoření - zlepšení 3. penzijního pilíře",
+    "classification": "Seminář",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-16",
+    "sources": [
+      "final/event_3138_2026-09-16_novelizace-zakona-o-doplnkovem-penzijnim-sporeni-z.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916140004.mp4",
+        "from_sec": 146
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916141005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916142004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916143004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916144005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916145004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916150005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916151005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916152005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916153005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916154005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916155005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916160005.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916161005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916162005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na představení a odbornou diskuzi k vládnímu návrhu novely zákona o doplňkovém penzijním spoření, který má za cíl zefektivnit 3. penzijní pilíř. Cílem reformy je zvýšit výnosnost úspor účastníků, snížit administrativní a poplatkovou zátěž a motivovat mladší generace k dlouhodobému spoření.\n\nHlavními pilíři návrhu jsou zavedení strategie životního cyklu, zvýšení státní podpory pro mladé (do 30 let), zjednodušení poplatkové struktury (zastropování na 0,5 %) a postupné ukončení transformovaných fondů do roku 2036. Seminář sloužil jako platforma pro konfrontaci vládního záměru s pohledy ekonomů, zástupců penzijních společností a zaměstnavatelských svazů.",
+    "main_points": [
+      "**Alena Schillerová (Ministerstvo financí)** — Prezentovala reformu jako revoluční projekt. Argumentovala, že současné zisky penzijních společností (průměrně 52–60 %) neodpovídají nízkým výnosům pro klienty (reálně záporné). Obhajovala zrušení výkonnostního poplatku a sjednocení poplatku za správu na 0,5 %. `[1/02:30]`",
+      "**Filip Pertold & Lukáš Nádvorník (CERGE-EI / IDEA)** — Prezentovali studii, podle které české penzijní fondy dlouhodobě zaostávají za zahraničními standardy. Zdůraznili, že pro smysluplnou rentu je klíčová kombinace včasného vstupu do systému, dynamické strategie a nízkých poplatků. `[2/06:00]`",
+      "**Daniel Prokop (PAQ Research)** — Upozornil na nízkou finanční gramotnost účastníků (92 % nezná nebo podceňuje poplatky). Zdůraznil, že státní subvence by měla být podmíněna pravidly, která zajistí efektivitu (např. automatické fondy životního cyklu). `[4/02:10]`",
+      "**Jiří Palán (Ministerstvo financí)** — Detailně představil 5 opatření: zvýšení státního příspěvku pro mladé (až 680 Kč), částečné odbytné (výběr 1/3 prostředků mezi 18.–36. rokem), povinnou strategii životního cyklu, snížení poplatků a ukončení transformovaných fondů. `[5/02:06]`",
+      "**Jaroslav Borovička (New York University)** — Varoval před přeinvestovaností českých domácností v nemovitostech a doporučil mezinárodní diverzifikaci. Kritizoval snahy o „postranní cíle“ (investice do české infrastruktury) v rámci penzijního spoření. `[6/04:00]`",
+      "**Pavel Racocha (Asociace penzijních společností)** — Varoval, že příliš nízké poplatky (0,5 %) mohou vést k omezení náboru nových klientů a zániku některých společností. Upozornil na riziko odlivu kapitálu do zahraničí. `[7/02:00]`",
+      "**Michal Hlaváček (Národní rozpočtová rada)** — Podpořil reformu jako pozitivní, ale upozornil, že 3. pilíř nevyřeší problémy 1. pilíře. Kritizoval absenci podpory anuit (doživotní renty) namísto jednorázových výběrů. `[7/08:18]`",
+      "**Zástupci zaměstnavatelů (Rafaj, Zajíček, Horecký)** — Shodli se na podpoře širší diskuze o „auto-enrollmentu“ (automatickém zapojení zaměstnanců), ale varovali před zvyšováním administrativní zátěže firem. `[8/04:12]`"
+    ],
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale potvrdilo široký konsenzus napříč politickým spektrem i odbornou veřejností o nutnosti reformy. Dominujícím postojem je podpora snížení poplatků a zavedení strategie životního cyklu. Přetrvává však debata o formě zapojení zaměstnavatelů (opt-in vs. opt-out) a o tom, zda by penzijní fondy měly být primárně nástrojem pro financování české infrastruktury, nebo čistě investičním produktem pro občany.",
+    "notes": "Přepis obsahuje četné technické chyby v diakritice a useknutá slova. Části přepisu (zejména v závěru) jsou místy nesrozumitelné kvůli překrývání řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Filip Pertold",
+        "person_id": null,
+        "affiliation": "CERGE-EI / IDEA"
+      },
+      {
+        "name": "Lukáš Nádvorník",
+        "person_id": null,
+        "affiliation": "CERGE-EI / IDEA"
+      },
+      {
+        "name": "Daniel Prokop",
+        "person_id": null,
+        "affiliation": "PAQ Research"
+      },
+      {
+        "name": "Jiří Palán",
+        "person_id": null,
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Jaroslav Borovička",
+        "person_id": "psp:person:6183",
+        "affiliation": "New York University"
+      },
+      {
+        "name": "Pavel Racocha",
+        "person_id": "psp:person:6651",
+        "affiliation": "Asociace penzijních společností"
+      },
+      {
+        "name": "Michal Hlaváček",
+        "person_id": null,
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Jan Rafaj",
+        "person_id": null,
+        "affiliation": "Svaz průmyslu a dopravy"
+      },
+      {
+        "name": "Zdeněk Zajíček",
+        "person_id": "psp:person:283",
+        "affiliation": "Hospodářská komora"
+      },
+      {
+        "name": "Jiří Horecký",
+        "person_id": "psp:person:6313",
+        "affiliation": "Konfederace zaměstnavatelských a podnikatelských svazů"
+      },
+      {
+        "name": "Vít Hradil",
+        "person_id": null,
+        "affiliation": "Investika"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Ministerstvo financí",
+      "CERGE-EI",
+      "Národní rozpočtová rada",
+      "Asociace penzijních společností",
+      "Hospodářská komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Současné poplatky patří mezi nejvyšší ve srovnání s ostatními zeměmi v EU i OECD a jsou pro klienty zcela nesrozumitelné.",
+      "type": "paraphrase",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "2/02:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3138_highlight_00.jpg",
+      "context": "Srovnání poplatků je komplexní, protože struktura penzijních systémů v EU a OECD se výrazně liší (např. státní vs. soukromé pilíře). Podle zpráv OECD (Pension Markets in Focus) patří české poplatky za správu v transformovaných fondech k vyšším, avšak tvrzení o „nejvyšších“ je obtížně paušálně doložitelné bez specifikace konkrétního typu fondu a srovnávané země."
+    },
+    {
+      "text": "Ziskovost penzijních společností dosahuje za posledních 10 let průměrné výše 52 % přes zdanění a průběžně roste.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "1/08:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3138_highlight_01.jpg",
+      "context": "Ziskovost penzijních společností je veřejně dostupná ve výročních zprávách jednotlivých společností a agregovaně v datech ČNB. Průměrná ziskovost (ROE) se v posledních letech skutečně pohybuje ve vysokých desítkách procent, což je dáno nízkými provozními náklady vzhledem ke spravovanému objemu aktiv."
+    },
+    {
+      "text": "92 % dnešních účastníků nezná nebo podceňuje poplatky svého fondu.",
+      "type": "citation",
+      "speaker": "Daniel Prokop",
+      "affiliation": "PAQ Research",
+      "timestamp": "5/00:18",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3138_highlight_02.jpg",
+      "context": "Tento údaj vychází z výzkumů PAQ Research zaměřených na finanční gramotnost a chování střadatelů. Data potvrzují nízkou informovanost účastníků o nákladovosti (TER - Total Expense Ratio) jejich penzijních produktů, což je dlouhodobě dokumentovaný jev v českém finančním sektoru."
+    },
+    {
+      "text": "Při současném nastavení by výsledná renta byla 2700 Kč, s lepší strategií a nižšími poplatky může dosáhnout 8700 Kč.",
+      "type": "paraphrase",
+      "speaker": "Lukáš Nádvorník",
+      "affiliation": "CERGE-EI / IDEA",
+      "timestamp": "3/09:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3138_highlight_03.jpg",
+      "context": "Jde o modelový výpočet založený na simulacích dlouhodobého zhodnocení (složené úročení) při různých úrovních nákladovosti. Rozdíl mezi 2700 Kč a 8700 Kč ilustruje vliv poplatků v čase, nicméně reálný výsledek závisí na zvolené investiční strategii (akciové vs. dluhopisové fondy) a vývoji trhů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "### Kontroverze: Investice do české infrastruktury\n*   **Kdo:** Zástupci zaměstnavatelů (Rafaj, Zajíček) vs. ekonomové (Borovička).\n*   **Co:** Zaměstnavatelé chtějí, aby penzijní fondy financovaly českou infrastrukturu (byty, energetiku). Borovička varuje, že penzijní spoření nemá sledovat postranní cíle průmyslové politiky.\n*   **Proč:** Politicky citlivé téma, zda mají být úspory občanů využity k rozvoji státu, nebo k maximalizaci výnosu pro střadatele.\n*   **Čas:** 8/06:06",
+      "speaker": null,
+      "affiliation": null,
+      "timestamp": "8/06:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3138_controversy_00.jpg",
+      "context": "Jde o střet dvou ekonomických koncepcí: státního intervencionismu (využití kapitálu pro národní strategické projekty) a liberálního přístupu (priorita výnosu pro střadatele). Neexistuje objektivní „pravda“, jde o politické rozhodnutí o prioritách správy soukromých úspor občanů."
+    },
+    {
+      "statement": "### Kontroverze: Výše poplatků a přežití fondů\n*   **Kdo:** Pavel Racocha (Asociace penzijních společností).\n*   **Co:** Uvedl, že při poplatku 0,5 % začne klient vydělávat až po 37 letech, což může vést k zániku většiny penzijních společností.\n*   **Proč:** Zpochybňuje udržitelnost vládního návrhu a varuje před vznikem oligopolu.\n*   **Čas:** 13/06:06",
+      "speaker": "Pavel Racocha",
+      "affiliation": "Asociace penzijních společností",
+      "timestamp": "13/06:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3138_controversy_01.jpg",
+      "context": "Výpočet Pavla Racochy je založen na matematické projekci dopadu snížení poplatků na marže společností. Zda by takové opatření vedlo k zániku firem nebo ke konsolidaci trhu (oligopolu), je předmětem odborných debat a závisí na schopnosti společností optimalizovat své provozní náklady."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

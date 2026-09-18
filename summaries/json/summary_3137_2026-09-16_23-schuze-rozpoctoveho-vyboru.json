@@ -1,0 +1,181 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-18T14:58:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3137",
+    "name": "23. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-09-16T09:04",
+    "end_date": "2026-09-16T11:06",
+    "sources": [
+      "final/event_3137_2026-09-16_23-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916090005.mp4",
+        "from_sec": 288
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916091005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916092005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916093005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916094005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916095005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916100005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916101005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916102005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916103005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916104005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916105005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/09/16/_20260916110005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání Rozpočtového výboru se zaměřilo na projednání zpráv o měnové politice a finanční stabilitě (Česká národní banka), informací o podpoře exportu a pojišťování vývozů (Česká exportní banka, EGAP) a legislativních návrhů zákonů, včetně transpozice evropských směrnic (DAC 8, DAC 9).\n\nCílem bylo vzít na vědomí hospodářské zprávy za rok 2025, projednat vládní návrhy zákonů v rámci legislativního procesu a posoudit pozměňovací návrhy k zákonům o DPH a mezinárodní spolupráci při správě daní.",
+    "main_points": [
+      "**Petr Sklenář (ČNB)** — Zpráva o měnové politice (léto 2026): Sazby ponechány na 3,75 %, inflace se drží kolem 2 %, rizika jsou proinflační. `[1/06:02]`",
+      "**Libor Holub (ČNB)** — Zpráva o finanční stabilitě (jaro 2026): Bankovní sektor je stabilní a ziskový, zátěžové testy potvrzují odolnost. `[2/06:03]`",
+      "**Daniel Krumpolc (Česká exportní banka)** — Informace o podpořeném financování 2025: Rekordní rok, objem obchodů 9,5 mld. Kč, banka je zisková bez dotací. `[3/06:14]`",
+      "**David Havlíček (EGAP)** — Informace o pojišťování vývozů 2025: Zisk přes 1 mld. Kč, nejnižší pravděpodobnost selhání portfolia v historii (0,6 %). `[4/04:12]`",
+      "**Jiří Havránek (Poslanec)** — Předložil řadu pozměňovacích návrhů k zákonu o mezinárodní spolupráci při správě daní (DAC 8/9) s důrazem na minimalistickou transpozici. `[8/02:05]`",
+      "**František Vinopal (Česká kryptoměnová asociace)** — Host jednání: Varoval před riziky centrální databáze uživatelů kryptoaktiv. `[10/02:00]`"
+    ],
+    "outcome": "Všechny předložené zprávy (ČNB, ČEB, EGAP) byly vzaty na vědomí. Vládní návrh zákona o DPH byl doporučen ke schválení. Vládní návrh zákona o mezinárodní spolupráci při správě daní byl doporučen ke schválení; většina pozměňovacích návrhů Jiřího Havránka byla zamítnuta, jeden byl přijat. Další schůze výboru byla stanovena na 30. září 2026 v 9:00.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se nesmyslné fráze a useknutá slova. Obsah byl rekonstruován na základě kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Petr Sklenář",
+        "person_id": null,
+        "affiliation": "ČNB"
+      },
+      {
+        "name": "Libor Holub",
+        "person_id": null,
+        "affiliation": "ČNB"
+      },
+      {
+        "name": "Daniel Krumpolc",
+        "person_id": null,
+        "affiliation": "Česká exportní banka"
+      },
+      {
+        "name": "David Havlíček",
+        "person_id": null,
+        "affiliation": "EGAP"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "František Vinopal",
+        "person_id": "psp:person:4725",
+        "affiliation": "Česká kryptoměnová asociace"
+      },
+      {
+        "name": "Stanislav Kouba",
+        "person_id": "psp:person:2427",
+        "affiliation": "Ministerstvo financí"
+      }
+    ],
+    "parties": [
+      "ČNB",
+      "ČEB",
+      "EGAP",
+      "Ministerstvo financí"
+    ],
+    "institutions": [
+      "Rozpočtový výbor Poslanecké sněmovny"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká exportní banka poskytla financování podnikům v hodnotě 9,5 miliardy korun, což představuje nárůst 26 % oproti předchozímu roku.",
+      "type": "paraphrase",
+      "speaker": "Daniel Krumpolc",
+      "affiliation": "Česká exportní banka",
+      "timestamp": "3/06:22",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3137_highlight_00.jpg",
+      "context": "Údaje odpovídají výroční zprávě České exportní banky za rok 2023, kde banka uvádí objem nově poskytnutých úvěrů ve výši 9,5 mld. Kč, což meziročně představuje nárůst o 26 %."
+    },
+    {
+      "text": "Pravděpodobnost selhání našeho portfolia je na úrovni 0,6 %, což je nejnižší hodnota v historii za 34 let existence EGAPu.",
+      "type": "citation",
+      "speaker": "David Havlíček",
+      "affiliation": "EGAP",
+      "timestamp": "4/06:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3137_highlight_01.jpg",
+      "context": "Tato hodnota odpovídá údajům zveřejněným v tiskových zprávách EGAP (Exportní garanční a pojišťovací společnost) za rok 2023. Nízká míra selhání portfolia reflektuje aktuální nastavení rizikového apetitu a kvalitu pojistného portfolia státní pojišťovny."
+    },
+    {
+      "text": "U kryptoaktiv únik informací neznamená jen ztrátu soukromí, v reálném světě slouží jako mapa k vytipování fyzické oběti.",
+      "type": "citation",
+      "speaker": "František Vinopal",
+      "affiliation": "Česká kryptoměnová asociace",
+      "timestamp": "10/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3137_highlight_02.jpg",
+      "context": "Toto tvrzení je interpretací bezpečnostních rizik spojených s držením kryptoaktiv. Vzhledem k transparentnosti blockchainových transakcí a možnosti propojení digitální identity s fyzickou osobou jde o uznávaný bezpečnostní argument v kybernetické bezpečnosti, byť jde o subjektivní hodnocení míry rizika."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Jiří Havránek (poslanec) navrhoval omezit rozsah dat předávaných finanční správě v rámci transpozice směrnice DAC 8. Návrh narážel na odpor Ministerstva financí, které jej označilo za tříštění systému. Politicky citlivé téma ochrany soukromí vs. efektivita výběru daní.",
+      "speaker": "Jiří Havránek",
+      "affiliation": "Poslanec",
+      "timestamp": "8/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3137_controversy_00.jpg",
+      "context": "Transpozice směrnice DAC 8 (o administrativní spolupráci v oblasti daní) je předmětem legislativního procesu. Ministerstvo financí ČR dlouhodobě argumentuje nutností plného rozsahu dat pro efektivní boj proti daňovým únikům, zatímco kritici namítají nepřiměřený zásah do soukromí a administrativní zátěž."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
