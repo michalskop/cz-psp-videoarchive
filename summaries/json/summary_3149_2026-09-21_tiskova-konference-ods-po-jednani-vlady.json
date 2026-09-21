@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-21T19:07:34",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3149",
+    "name": "Tisková konference ODS po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-21T15:43",
+    "end_date": "2026-09-21T16:05",
+    "sources": [
+      "final/event_3149_2026-09-21_tiskova-konference-ods-po-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5592_video-psp-2026921-1543-46-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána představiteli ODS (Martin Kupka, Jan Skopeček, Petr Bendl) jako reakce na aktuální kroky vlády Andreje Babiše, zejména na návrh státního rozpočtu na rok 2027. Cílem bylo kritizovat rozpočtovou politiku vlády, kterou ODS označuje za nezodpovědnou a „rozpočtový Armagedon“, a představit alternativní pohled opozice na ekonomickou situaci, zahraniční politiku a kauzu sanace Národního parku Šumava.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládní úspory ve výši 3 miliard korun jako „směšné“. Upozornil, že úroky ze státního dluhu dosáhnou 130 mld. Kč. ODS plánuje pozměňovací návrhy zaměřené na platby za státní pojištěnce, platy ve státním sektoru a poplatky za obnovitelné zdroje. `[01:03]`",
+      "**Jan Skopeček (ODS)** — Označil rozpočet s deficitem 386 mld. Kč za „černé pondělí“ pro veřejné finance. Vyzval poslance vládní koalice s ekonomickým vzděláním, aby pro rozpočet nehlasovali. Varoval před růstem úrokových sazeb a zdražením hypoték. `[06:06]`",
+      "**Petr Bendl (ODS)** — Kritizoval netransparentnost vlády v kauze sanace Národního parku Šumava (zakázka za 192 mil. Kč) a zpochybnil zapojení armády do likvidace ekologické zátěže. `[12:02]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. ODS deklarovala, že bude proti návrhu rozpočtu v Poslanecké sněmovně aktivně vystupovat a předloží vlastní pozměňovací návrhy.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a občasné nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Vláda ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "3 miliardy úspor představují úplně směšnou úsporu, nejedná se ani o 1 % z toho původně plánovaného astronomického schodku 389 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3149_highlight_00.jpg",
+      "context": "Výpočet je matematicky správný: 3 miliardy tvoří přibližně 0,77 % z částky 389 miliard korun. Údaje o plánovaném schodku odpovídají tehdejším rozpočtovým dokumentům Ministerstva financí ČR."
+    },
+    {
+      "text": "Nikdo s elementárním ekonomickým vzděláním nemůže v době růstu hlasovat pro deficit rozpočtu ve výši 386 miliard korun.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/08:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3149_highlight_01.jpg",
+      "context": "Tvrzení je hodnotícím soudem, nikoliv ověřitelným faktem. Ekonomické teorie se v otázce deficitního financování v době růstu (tzv. procyklická fiskální politika) liší a neexistuje jediný konsenzus, který by takové hlasování automaticky vylučoval jako ekonomicky nepřípustné."
+    },
+    {
+      "text": "Vláda prostě nemůže vyhlašovat katastrofu, připravovat účet za stovky milionů korun a současně před veřejností schovávat podklady.",
+      "type": "citation",
+      "speaker": "Petr Bendl",
+      "affiliation": "ODS",
+      "timestamp": "1/14:14",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3149_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o politickou kritiku transparentnosti vládního procesu, jejíž pravdivost závisí na konkrétním případu a dostupnosti interních vládních dokumentů v daném čase."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Martin Kupka (ODS) označil výroky premiéra o „soudní mafii“ za „kejhání potrefené husy“ a uvedl, že pokud by se Andrej Babiš neschoval za poslaneckou imunitu, byl by pravděpodobně odsouzen jako dotační podvodník.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/04:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3149_controversy_00.jpg",
+      "context": "Výrok o „soudní mafii“ je citací premiéra Andreje Babiše z roku 2017. Tvrzení o pravděpodobném odsouzení za dotační podvod je spekulativní právní názor; v kauze Čapí hnízdo byl Andrej Babiš v prvním stupni i v odvolacím řízení pravomocně osvobozen."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-21T19:07:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3148",
+    "name": "Tisková konference Starostů a nezávislých po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-21T16:08",
+    "end_date": "2026-09-21T16:23",
+    "sources": [
+      "final/event_3148_2026-09-21_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5591_video-psp-2026921-168-56-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí STAN se konala v reakci na vládní schválení návrhu státního rozpočtu. Cílem vystoupení bylo kriticky zhodnotit parametry rozpočtu, které řečníci označili za ekonomicky nezodpovědné a nepoctivé. Hnutí STAN prezentovalo rozpočet jako „ekonomický a politický zločin“, přičemž varovalo před rekordním deficitem, nedostatečnou strategickou rezervou pro krizové situace a netransparentním účetnictvím vlády.\n\nKromě kritiky stávajícího stavu představili zástupci STAN vlastní alternativní návrhy a úsporná opatření, kterými by bylo možné deficit státního rozpočtu snížit o desítky miliard korun.",
+    "main_points": [
+      "**Jan Papajanovský (STAN, poslanec a člen rozpočtového výboru)** `[1/00:45]`\n    *   **Kritika rozpočtu:** Deficit téměř 400 miliard korun označil za druhý nejvyšší v historii. Vládu obvinil z „triků a fíglů“ (např. chybějících 30 miliard na dostavbu Dukovan), které mají zakrýt skutečnou výši schodku.\n    *   **Náklady na dluh:** Upozornil, že stát bude v příštím roce platit 400 milionů korun denně na úrocích, přičemž celkové náklady na obsluhu dluhu dosáhnou 145 miliard korun. Každý den se stát zadluží o 1 miliardu korun.\n    *   **Priority:** Kritizoval nedostatečné investice do školství (hrozba demise ministra Plagy, pokud výdaje nedosáhnou zákonné výše) a nulové investice do silnic II. a III. třídy.\n    *   **Alternativní návrhy (úspory 54 mld. Kč):**\n        *   Zavedení „spending review“ (revize výdajů): úspora 15–20 mld. Kč.\n        *   Efektivnější nakládání s výnosy z EET: úspora 14 mld. Kč.\n        *   Zrušení plošných dotací na obnovitelné zdroje pro nejbohatší domácnosti: úspora 10 mld. Kč.\n        *   Reforma zdravotnictví (konec „kobercového sypání peněz“): úspora 10 mld. Kč.\n    *   **Daňová reforma:** Navrhuje komplexní reformu daňového mixu jako náhradu za výpadek příjmů po zrušení superhrubé mzdy."
+    ],
+    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale tiskovou konferencí. Konsenzem hnutí STAN je odmítnutí vládního návrhu rozpočtu jako neudržitelného. Hnutí vyzvalo vládu k odborné diskusi nad svými 12 konkrétními návrhy na úspory a daňovou reformu, přičemž nabídlo vládě expertní pomoc při jejich implementaci.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze (např. „Představující se na významném vládě“), které byly pro účely shrnutí ignorovány. Části textu v závěru záznamu jsou nesrozumitelné a vykazují známky halucinací modelu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Rozpočtový výbor",
+      "Vláda ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "1 miliarda korun je výše dluhu, která vznikne každý jeden den příští rok.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/03:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3148_highlight_00.jpg",
+      "context": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 241 miliard korun. Při 365 dnech v roce to odpovídá zhruba 660 milionům korun denně, tvrzení o 1 miliardě denně je tedy nadhodnocené."
+    },
+    {
+      "text": "Vláda si musí půjčovat i na běžný provoz, nepůjčuje si jenom na investice.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/03:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3148_highlight_01.jpg",
+      "context": "Státní rozpočet je koncipován jako celek a příjmy nejsou účelově vázány na konkrétní výdaje. Vzhledem k tomu, že běžné výdaje (mandatorní výdaje, platy, provoz státu) převyšují daňové příjmy, je fakticky pravdou, že stát si na provoz půjčuje."
+    },
+    {
+      "text": "Díky zavedení spending review bychom už v prvním roce naší vlády ušetřili 15 až 20 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/06:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3148_highlight_02.jpg",
+      "context": "Spending review (přezkum výdajů) je analytický nástroj, jehož výsledky jsou závislé na politické vůli k implementaci úsporných opatření. Odhad úspor ve výši 15–20 miliard korun je politickým příslibem, nikoliv ověřitelným faktem, neboť konkrétní úsporná opatření nebyla v rámci tohoto tvrzení specifikována."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jan Papajanovský (STAN)\n**Co:** Výzva k demisi ministra školství Roberta Plagy, pokud výdaje na školství nedosáhnou zákonem požadované výše.\n**Proč:** Jde o přímý politický útok na člena vlády a zpochybnění priorit kabinetu v oblasti vzdělávání.\n**Čas:** 1/04:00",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/04:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3148_controversy_00.jpg",
+      "context": "Výzva k demisi je legitimním politickým nástrojem opozice. Zda výdaje na školství dosahují zákonem stanovených limitů, lze ověřit porovnáním kapitoly MŠMT v zákoně o státním rozpočtu s příslušnými ustanoveními školského zákona."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-21T19:06:51",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3150",
+    "name": "Tisková konference Mladé vlády České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-21T16:28",
+    "end_date": "2026-09-21T16:45",
+    "sources": [
+      "final/event_3150_2026-09-21_tiskova-konference-mlade-vlady-ceske-piratske-stra.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5593_video-psp-2026921-1628-47-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference „Mladé vlády Pirátů“ byla svolána jako reakce na vládní návrh státního rozpočtu, který řečníci kritizují jako krátkozraký a neinvestiční. Hlavním cílem vystoupení bylo poukázat na to, že současná vláda pod vedením Andreje Babiše ignoruje potřeby mladé generace a namísto systémových investic do vzdělávání, bydlení a modernizace ekonomiky volí cestu plošného zadlužování a „podplácení voličů“.\n\nMladá vláda Pirátů představila vlastní vizi rozvoje země, která se zaměřuje na dlouhodobou prosperitu, energetickou bezpečnost a podporu mladých lidí, aby v České republice mohli perspektivně žít a zakládat rodiny.",
+    "main_points": [
+      "**Kateřina Stojanová (předsedkyně Mladé vlády)** — Kritika rozpočtu jako „nezřízené žranice“, která opomíjí mladou generaci. Obvinění vlády z upřednostňování holdingů a vlastních voličů před budoucností země. Zdůraznění potřeby investic do inovací, vzdělávání a bezpečnosti. `[1/01:00]`",
+      "**Vendula Svobodová (ministryně prosperity a chytrých investic)** — Kritika schodku 386 miliard korun jako „ekonomické ostudy“. Návrh na úspory v neefektivních dotacích a reformy pracovního trhu. Odmítnutí plošného zastropování cen pohonných hmot; navrhuje cílenou pomoc. Důraz na elektrifikaci a obnovitelné zdroje energie. `[1/03:15]`",
+      "**Tadeáš Šepek (ministr pro dostupné bydlení a podporu regionů)** — Kritika svalování viny za krizi bydlení na studenty. Požadavek na navýšení prostředků na dostupné bydlení o 14 miliard korun. Návrh, aby obce získávaly podíl z daní z nové výstavby. Priorita: bydlení pro mladé před dotacemi pro zemědělské holdingy. `[1/07:15]`",
+      "**Kristián Sušer (ministr pro moderní vzdělávání, vědu a duševní zdraví)** — Kritika podfinancování vysokých škol v době rekordních maturitních ročníků. Návrh na zavedení bezúročných studentských vratných grantů. Požadavek na integraci péče o duševní zdraví do školského systému. `[1/09:30]`"
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o prezentaci politického postoje a alternativního programu Mladé vlády Pirátů. Dominujícím postojem je odmítnutí současné rozpočtové politiky vlády a požadavek na přesun finančních prostředků od velkých zemědělských holdingů směrem k mladé generaci, dostupnému bydlení a modernímu vzdělávání.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Tadeáš Sobek“ vs. „Tadeáš Šepek“) a občasné výpadky diakritiky či nedokončené věty, které však nebrání pochopení hlavních argumentů."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Mladá vláda Pirátů"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Mladá vláda Pirátů"
+      },
+      {
+        "name": "Tadeáš Šepek",
+        "person_id": null,
+        "affiliation": "Mladá vláda Pirátů"
+      },
+      {
+        "name": "Kristián Sušer",
+        "person_id": null,
+        "affiliation": "Mladá vláda Pirátů"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Mladá vláda Pirátů",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Schodek 386 miliard korun v době hospodářského růstu je ekonomická ostuda a výsměh mladé generaci.",
+      "type": "citation",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Mladá vláda Pirátů",
+      "timestamp": "1/03:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3150_highlight_00.jpg",
+      "context": "Schodek státního rozpočtu ve výši 386 miliard korun odpovídá realitě rozpočtu pro rok 2021 (schváleno zákonem č. 600/2020 Sb.). Tvrzení o „době hospodářského růstu“ je zavádějící, neboť ekonomika se v té době nacházela v recesi způsobené pandemií COVID-19, kdy HDP ČR v roce 2020 klesl o 5,5 %."
+    },
+    {
+      "text": "My jako Mladá vláda vyzýváme premiéra Babiše, aby navýšil prostředky na dostupné bydlení v rozpočtu o 14 miliard korun.",
+      "type": "citation",
+      "speaker": "Tadeáš Šepek",
+      "affiliation": "Mladá vláda Pirátů",
+      "timestamp": "1/08:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3150_highlight_01.jpg",
+      "context": "Požadavek na navýšení rozpočtu o 14 miliard korun na dostupné bydlení je politickým návrhem. Nelze nezávisle ověřit, zda by takový krok byl v daném rozpočtovém rámci realizovatelný bez navýšení celkového deficitu či krácení jiných kapitol."
+    },
+    {
+      "text": "Peníze, které ušetříme letos na školství, znamenají budoucí chudobu.",
+      "type": "paraphrase",
+      "speaker": "Kristián Sušer",
+      "affiliation": "Mladá vláda Pirátů",
+      "timestamp": "1/11:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3150_highlight_02.jpg",
+      "context": "Tvrzení o přímé kauzalitě mezi úsporami v rozpočtu na školství a budoucí chudobou je interpretací ekonomického dopadu, nikoliv ověřitelným faktem. Výdaje na školství jsou v ČR dlouhodobě sledovány MŠMT a ČSÚ, přičemž jejich vliv na budoucí ekonomickou prosperitu je předmětem odborných diskusí, nikoliv exaktním výpočtem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Andrej Babiš (premiér, citován Kateřinou Stojanovou)\n**Co:** Výroky o tom, že někteří soudci rozhodují bez důkazů jako prokurátoři za minulého režimu a že v ČR funguje „mafie, která vás zavře na objednávku“.\n**Proč:** Jde o přímé zpochybňování nezávislosti justice ze strany nejvyššího představitele exekutivy, což je vnímáno jako podkopávání základů právního státu.\n**Čas:** 1/14:07",
+      "speaker": "Andrej Babiš",
+      "affiliation": "Vláda ČR",
+      "timestamp": "1/14:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3150_controversy_00.jpg",
+      "context": "Výroky o „mafii“ a srovnávání soudců s prokurátory minulého režimu jsou politickou rétorikou, nikoliv doložitelným faktem. Nezávislost soudní moci je garantována Ústavou ČR (čl. 81 a 82) a jakákoliv tvrzení o systémové korupci v justici na objednávku nebyla v daném kontextu podložena pravomocnými rozsudky či důkazy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
