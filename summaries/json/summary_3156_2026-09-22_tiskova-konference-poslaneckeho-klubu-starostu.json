@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-22T14:34:48",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3156",
+    "name": "Tisková konference poslaneckého klubu Starostů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-22T09:00",
+    "end_date": "2026-09-22T09:20",
+    "sources": [
+      "final/event_3156_2026-09-22_tiskova-konference-poslaneckeho-klubu-starostu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5599_video-psp-2026922-90-24-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů a legislativních priorit poslaneckého klubu Starostů před nadcházejícími mimořádnými schůzemi Poslanecké sněmovny. Hlavními tématy byla kritika vládního postupu při svolávání schůzí, nesouhlas s populistickými kroky vlády v oblasti státního rozpočtu a sociální politiky a představení vlastních pozměňovacích návrhů k zákonům o trestním právu, platech politiků, zdravotnictví, důchodech a dopravní infrastruktuře.",
+    "main_points": [
+      "**Neidentifikovaná řečnice (Starostové)** – Představila pozměňovací návrh k trestnímu zákoníku, který má za cíl zrušit nebo zásadně prodloužit promlčecí lhůtu u znásilnění dětí. Dále zdůraznila potřebu technického řešení „dětského certifikátu“ pro dobrovolníky. `[1/02:07]`",
+      "**Michaela Šebelová (Starostové)** – Kritizovala způsob svolávání mimořádných schůzí jako nepředvídatelný. Oznámila, že opozice podá veto na projednání zmrazení platů politiků v režimu 90. Kritizovala také navýšení plateb za státní pojištěnce jako populistické a matematicky nepodložené. `[1/04:01]`",
+      "**Pavla Pivoňka Vaňková (Starostové)** – Kritizovala plošné vyplácení 2 000 Kč seniorům jako necílený předvolební dárek. Navrhuje investice do dostupnosti sociálních a zdravotních služeb v regionech. Podpořila reformu třetího pilíře důchodového pojištění, ale označila ji za nedostatečnou. `[1/10:03]`",
+      "**Jan Sviták (Starostové)** – Kritizoval zmrazení dálničních známek. Navrhuje zavedení dálniční známky pro jednu konkrétní dálnici (50% cena) a rozšíření daňových příjmů krajů o 6 % výnosu ze spotřební daně z minerálních olejů pro opravy silnic 2. a 3. třídy. `[1/14:00]`"
+    ],
+    "outcome": "Poslanecký klub Starostů se shodl na aktivním odporu proti vládním návrhům, které považuje za populistické a nesystémové. Opozice hodlá využít přednostní práva na nadcházejících schůzích a blokovat projednávání v režimu 90, aby prosadila své pozměňovací návrhy zaměřené na cílenou pomoc, reformu financování krajů a zpřísnění trestního práva.",
+    "notes": "Přepis obsahuje četné gramatické chyby, výpadky slov a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Neidentifikovaná řečnice",
+        "person_id": null,
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "Starostové"
+      },
+      {
+        "name": "Jan Sviták",
+        "person_id": "psp:person:7050",
+        "affiliation": "Starostové"
+      }
+    ],
+    "parties": [
+      "Starostové"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My si skutečně nemyslíme, že u trestného činu znásilnění třeba malých dětí má docházet k tak příšerným situacím, kdy se pachatel vysmívá té oběti jen proto, že už uplynula ta promlčecí lhůta.",
+      "type": "paraphrase",
+      "speaker": "Neidentifikovaná řečnice",
+      "affiliation": "Starostové",
+      "timestamp": "1/01:37",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3156_highlight_00.jpg",
+      "context": "Podle § 34 trestního zákoníku (č. 40/2009 Sb.) se promlčecí doba u trestných činů proti lidské důstojnosti v sexuální oblasti u dětí (včetně znásilnění) počítá až od dosažení 18 let věku oběti. Tvrzení reflektuje debatu o zpřísnění trestního práva a ochraně obětí, přičemž promlčecí lhůty jsou v ČR předmětem častých legislativních úprav."
+    },
+    {
+      "text": "V momentě, kdy dojde k tomu zmrazení, tak se jenom odloží ten problém do budoucna a za čtyři roky dojde ke skokovému nárůstu platů.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "Starostové",
+      "timestamp": "1/05:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3156_highlight_01.jpg",
+      "context": "Mechanismus zmrazení platů ústavních činitelů (tzv. platová základna) skutečně pouze dočasně pozastavuje výpočet podle běžného vzorce. Pokud není zákon trvale změněn, po skončení období zmrazení dochází k opětovnému výpočtu z reálné úrovně, což matematicky vede ke skokovému nárůstu platů v následujícím roce."
+    },
+    {
+      "text": "Vláda letos poprvé od roku 2015 neposlala krajům žádnou částku na opravy silnic 2. a 3. tříd.",
+      "type": "citation",
+      "speaker": "Jan Sviták",
+      "affiliation": "Starostové",
+      "timestamp": "1/17:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3156_highlight_02.jpg",
+      "context": "Státní fond dopravní infrastruktury (SFDI) v minulosti poskytoval dotace krajům na silnice II. a III. třídy, avšak tyto dotace nebyly nárokové a jejich objem se v čase měnil. Nelze nezávisle ověřit, zda jde o úplné zastavení financování bez znalosti konkrétního rozpočtového opatření SFDI pro daný rok, nicméně pokles investic do krajské infrastruktury ze strany státu je dlouhodobým tématem sporů mezi kraji a vládou."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Opozice podá veto na projednání zmrazení platů politiků v režimu 90 a předloží pozměňovací návrh na úpravu náhrad politiků. Michaela Šebelová to označila za „pokrytectví vládní koalice“, protože zmrazení platů neřeší vysoké náhrady, které zůstávají, a pouze odsouvá skokové navýšení na budoucí období.",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "Starostové",
+      "timestamp": "1/06:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3156_controversy_00.jpg",
+      "context": "Platy ústavních činitelů se skládají z platové základny a paušálních náhrad. Zatímco zmrazení platové základny je častým politickým krokem, náhrady (na reprezentaci, dopravu atd.) zůstávají zpravidla nezměněny. Tvrzení o 'pokrytectví' je politickým názorem, fakticky však platí, že zmrazení základny neřeší celkovou výši příjmů politiků."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

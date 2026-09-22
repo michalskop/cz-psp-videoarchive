@@ -1,0 +1,104 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-22T14:35:33",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3155",
+    "name": "Tisková konference poslaneckého klubu České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-22T08:39",
+    "end_date": "2026-09-22T08:59",
+    "sources": [
+      "final/event_3155_2026-09-22_tiskova-konference-poslaneckeho-klubu-ceske-pirats.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5598_video-psp-2026922-839-58-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference Pirátů se zaměřila na kritiku vládní politiky, konkrétně na schválený státní rozpočet, energetickou krizi a způsob komunikace vlády s opozicí v Poslanecké sněmovně. Piráti představili své legislativní priority, včetně novely trestního zákoníku zaměřené na „digitální kuplířství“ a návrhy na reformu penzijního spoření.\n\nCílem konference bylo prezentovat Piráty jako konstruktivní opozici, která nabízí konkrétní ekonomická řešení (např. hospodářskou strategii), a zároveň upozornit na údajné obcházení demokratických procesů a vyhýbání se odpovědnosti ze strany vládní koalice.",
+    "main_points": [
+      "**Kateřina Stojanová (Piráti)** — Představila novelu trestního zákoníku reagující na „digitální kuplířství“ a zneužívání tvůrců explicitního obsahu na internetu. `[1/01:00]`",
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládní rozpočet jako „ostudný“ a „protiinvestiční“; schodek 386 miliard Kč označil za neudržitelný v době růstu. `[1/04:06]`",
+      "**Zdeněk Hřib (Piráti)** — Kritizoval nečinnost vlády v energetické krizi a absenci investic do energetické nezávislosti. `[1/08:02]`",
+      "**Hana Ančíncová (Piráti)** — Navrhla čtyři úpravy vládní reformy penzijního spoření, včetně startovného pro mladé a zapojení zaměstnavatelů. `[1/10:03]`",
+      "**Olga Richtrová (Piráti)** — Kritizovala svolání mimořádné schůze sněmovny jako nástroj k vyhnutí se interpelacím a odpovědím na otázky opozice. `[1/12:02]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním. Piráti potvrdili, že na nadcházející schůzi sněmovny využijí přednostní práva k vystoupení a budou nadále prosazovat své pozměňovací návrhy k penzijní reformě a trestnímu zákoníku. Zároveň potvrdili přípravu hlasování o nedůvěře vládě.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže (např. „právilek Skyumi“, „dynamitnější investování“), které byly interpretovány v kontextu tématu. Části textu jsou useknuté nebo obsahují opakující se fráze."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Hana Ančíncová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richtrová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Navržený schodek je o 100 miliard korun větší než investiční část rozpočtu, takže řeči o tom, že je rozpočet proinvestiční, jsou jen pohádka pro malé děti.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3155_highlight_00.jpg",
+      "context": "Tvrzení je ověřitelné porovnáním návrhu státního rozpočtu (kapitola výdajů na investice) a plánovaného schodku dle údajů Ministerstva financí ČR. Interpretace „proinvestičnosti“ je však subjektivní politické hodnocení, neboť závisí na definici toho, co je považováno za investiční výdaj (např. zda se započítávají pouze kapitálové výdaje, nebo i výdaje na vědu a výzkum)."
+    },
+    {
+      "text": "Navrhujeme pro každého nového střadatele do 30 let věku jednorázový příspěvek 20 000 Kč, který může při investici na 60 let vyrůst až na 1 milion korun.",
+      "type": "citation",
+      "speaker": "Hana Ančíncová",
+      "affiliation": "Piráti",
+      "timestamp": "1/11:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3155_highlight_01.jpg",
+      "context": "Jde o politický návrh, nikoliv o platnou legislativu. Výpočet zhodnocení 20 000 Kč na 1 milion korun za 60 let předpokládá průměrné roční zhodnocení přibližně 6,7 % (před zdaněním a inflací), což je matematicky možné při dlouhodobém investování na akciových trzích, ale v praxi závisí na zvoleném investičním nástroji a tržních podmínkách."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Olga Richtrová (Piráti)\n**Co:** Obvinila premiéra Andreje Babiše a Tomia Okamuru z vědomého obcházení interpelací a rušení řádných schůzí sněmovny, aby se vyhnuli nepříjemným otázkám na dotace pro firmy premiéra a zpochybňování justice.\n**Proč:** Jde o přímé napadení integrity vládní koalice a obvinění z autoritářských praktik a vyhýbání se demokratické kontrole.\n**Čas:** 1/14:08",
+      "speaker": "Olga Richtrová",
+      "affiliation": "Piráti",
+      "timestamp": "1/14:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3155_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Zda bylo rušení schůzí či neúčast na interpelacích motivováno snahou vyhnout se konkrétním otázkám, je subjektivní interpretací politických motivů. Docházka na interpelace a průběh schůzí jsou veřejně dostupné v záznamech Poslanecké sněmovny, ale důkaz o „vědomém obcházení“ za účelem vyhnutí se odpovědnosti je v rovině politického hodnocení."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

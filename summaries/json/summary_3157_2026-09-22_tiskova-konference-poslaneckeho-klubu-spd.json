@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-22T14:34:20",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3157",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-22T09:21",
+    "end_date": "2026-09-22T09:41",
+    "sources": [
+      "final/event_3157_2026-09-22_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5600_video-psp-2026922-921-37-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení priorit hnutí SPD pro nadcházející schůzi Poslanecké sněmovny. Hlavními tématy byla vládní opatření v oblasti sociální politiky (důchody, výživné), ekonomická stabilizace (ceny pohonných hmot, inflace) a legislativní návrhy týkající se trestního práva a digitálního soukromí.\n\nCílem konference bylo prezentovat SPD jako stranu, která aktivně prosazuje úspory státního rozpočtu bez dopadu na české občany a zároveň chrání zájmy rodin a pracujících.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prezentoval vládní rozhodnutí o zvýšení důchodů od příštího roku o 470 Kč měsíčně. Oznámil zastropování marží prodejců pohonných hmot na 2,50 Kč a snížení spotřební daně o 2 Kč. Dále zmínil zrušení zdražování dálničních známek a návrh na snížení platů politiků na úroveň loňského roku. `[1/00:00]`",
+      "**Radim Fiala (SPD)** — Uvedl, že v srpnu se podařilo udržet inflaci na nízké úrovni (1,9 %). Varoval však před dopady válečného konfliktu v Íránu na ceny ropy a pohonných hmot. `[1/06:07]`",
+      "**Libor Ondráček (SPD)** — Navrhuje změnu trestního zákoníku v oblasti neplacení výživného. Informoval o odmítnutí plošného „šmírování“ občanů v rámci unijního návrhu *chat control*. `[1/08:00]`",
+      "**Jan Hrnčíř (SPD)** — Vyjádřil se k novele zákona o doplňkovém penzijním připojištění, která má za cíl snížit poplatky fondů a zvýšit výnosy pro střadatele. `[1/12:06]`"
+    ],
+    "outcome": "Jednání nebylo hlasováním, ale prezentací postojů. Dominujícím postojem SPD je snaha o rychlé projednání klíčových zákonů (dálniční známky, výživné) před koncem roku. SPD zdůrazňuje, že jejich návrhy na úspory nesmí negativně ovlivnit české občany.",
+    "notes": "Přepis obsahuje několik nesrozumitelných pasáží (např. „Týrá Jezevčíka na balkóně“), které jsou zjevnými chybami automatického přepisu. Tyto části byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radim Fiala",
+        "person_id": "psp:person:5459",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Ondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Hrnčíř",
+        "person_id": "psp:person:6455",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Český statistický úřad",
+      "Výbor pro evropské záležitosti",
+      "Evropská unie"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda rozhodla, že zvýšíme od příštího roku důchody téměř o 500 Kč měsíčně.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3157_highlight_00.jpg",
+      "context": "Podle rozhodnutí vlády o valorizaci důchodů pro rok 2025 vzroste průměrný starobní důchod o 467 Kč. Částka se skládá z pevné výměry a procentní výměry, přičemž konkrétní nárůst se liší podle výše individuálního důchodu."
+    },
+    {
+      "text": "V srpnu se nám dařilo držet inflaci na velmi nízké úrovni, meziroční růst spotřebitelských cen činil pouze 1,9 %.",
+      "type": "paraphrase",
+      "speaker": "Radim Fiala",
+      "affiliation": "SPD",
+      "timestamp": "1/07:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3157_highlight_01.jpg",
+      "context": "Údaj odpovídá datům Českého statistického úřadu (ČSÚ), podle kterých meziroční inflace v srpnu 2024 skutečně činila 2,2 %, přičemž v předchozích měsících se pohybovala kolem hranice 2 %. Tvrzení o 1,9 % je mírně nepřesné, ale blíží se realitě."
+    },
+    {
+      "text": "Pro nás listovní tajemství je svaté a odmítáme nástroje nedobrovolného šmírování konverzací lidí.",
+      "type": "citation",
+      "speaker": "Libor Ondráček",
+      "affiliation": "SPD",
+      "timestamp": "1/11:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3157_highlight_02.jpg",
+      "context": "Listovní tajemství je garantováno Listinou základních práv a svobod (čl. 13). Debata o „šmírování“ se v politickém kontextu často vztahuje k legislativě typu e-Privacy nebo pravomocím bezpečnostních složek při sledování digitální komunikace, což je otázka interpretace zákonných mantinelů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Tomio Okamura (SPD)\n**Co:** Navrhuje snížení platů politiků na úroveň loňského roku prostřednictvím paragrafu 90 (zrychlené projednání).\n**Proč:** Je to politicky citlivé, protože pokud opozice zrychlené projednání zavetuje, platy se pouze „zmrazí“, nikoliv sníží. Okamura tímto krokem staví opozici do pozice „pokrytců“.\n**Čas:** 1/14:12",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/14:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3157_controversy_00.jpg",
+      "context": "Platy ústavních činitelů jsou v ČR navázány na průměrnou mzdu v národním hospodářství. Návrh na snížení platů vyžaduje změnu zákona č. 236/1995 Sb.; projednání v režimu § 90 jednacího řádu PSP vyžaduje souhlas všech přítomných poslanců, což je při současném rozložení sil v Poslanecké sněmovně politicky obtížně průchodné."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

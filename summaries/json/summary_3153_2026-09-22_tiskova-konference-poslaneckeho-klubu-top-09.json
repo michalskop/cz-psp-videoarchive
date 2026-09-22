@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-22T14:36:40",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3153",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-22T08:01",
+    "end_date": "2026-09-22T08:20",
+    "sources": [
+      "final/event_3153_2026-09-22_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5596_video-psp-2026922-81-8-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 se konala dne 22. září 2026 před zahájením jednání Poslanecké sněmovny. Cílem konference bylo kriticky zhodnotit aktuální kroky vlády, zejména způsob svolávání mimořádných schůzí, přípravu státního rozpočtu na rok 2027, problematiku televizních a rozhlasových poplatků a změny v penzijním spoření.\n\nZástupci TOP 09 vyjádřili nesouhlas s procedurálními kroky koalice, které podle nich omezují prostor pro řádnou kontrolu vlády a interpelace. Zároveň kritizovali nekoncepčnost vládní politiky ve zdravotnictví a způsob legislativního procesu u klíčových norem, jako je trestní zákoník, který je podle nich novelizován chaoticky prostřednictvím poslaneckých návrhů namísto vládních předloh.",
+    "main_points": [
+      "**Jan Jakob (TOP 09)** — Kritizoval svolání dvou mimořádných schůzí s 15 body, což považuje za obcházení standardního legislativního procesu. Upozornil, že návrh na poplatky přesouvá do rozpočtu trvalý výdaj 7,8 miliardy Kč ročně. U rozpočtu na rok 2027 uvedl, že deklarovaná úspora 3 miliardy Kč je iluzorní. `[1/02:03]`",
+      "**Vlastimil Válek (TOP 09)** — Odsoudil nesystémové navyšování plateb za státní pojištěnce. Kritizoval nekonzistentní čísla ohledně financování zdravotnictví (rozdílné údaje o 21, 24 či 18 miliardách Kč) a označil hnutí ANO za „automat na sliby“. `[1/06:02]`",
+      "**Neidentifikovaný řečník (TOP 09)** — Kritizoval způsob novelizace trestního zákoníku prostřednictvím poslaneckých návrhů namísto vládních předloh. Vyjádřil znepokojení nad výroky premiéra na adresu české justice. `[1/12:03]`"
+    ],
+    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale tiskovou konferencí. Dominujícím postojem TOP 09 je ostrá kritika vládní koalice za netransparentní legislativní proces, „žonglování s čísly“ v rozpočtu a zdravotnictví a omezování parlamentní kontroly. Strana deklarovala, že nebude souhlasit s nočním jednáním a bude požadovat jasné vysvětlení finančních parametrů vládních návrhů.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Vlastimil Válek",
+        "person_id": "psp:person:6482",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo zdravotnictví",
+      "Ministerstvo spravedlnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda schválila rozpočet na rok 2027 a po třech týdnech koaliční řeže jsme se dočkali úspory tři miliardy korun, což je, jako kdybyste z paluby Titaniku vylili kyblík vody.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/03:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3153_highlight_00.jpg",
+      "context": "Návrh státního rozpočtu na rok 2027 je v rané fázi přípravy a podléhá změnám v rámci meziresortního připomínkového řízení. Tvrzení o úspoře 3 miliard korun je politickou interpretací výsledků koaličních jednání, přičemž přirovnání k Titaniku je subjektivní řečnickou metaforou, nikoliv ověřitelným ekonomickým faktem."
+    },
+    {
+      "text": "Hnutí ANO se opět chová jako automat na sliby, je to nekonečný průjem slibů, které jsou nesplněné.",
+      "type": "citation",
+      "speaker": "Vlastimil Válek",
+      "affiliation": "TOP 09",
+      "timestamp": "1/09:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3153_highlight_01.jpg",
+      "context": "Výrok je hodnotícím politickým soudem a metaforou, kterou nelze fakticky ověřit. Hodnocení plnění volebních slibů je subjektivní a závisí na interpretaci politických programů jednotlivých stran."
+    },
+    {
+      "text": "Do státního rozpočtu tímto návrhem přesouvá trvalý výdaj 7 805 000 000 Kč ročně, přestože pro rok 2027 navrhuje schodek téměř 400 miliard.",
+      "type": "citation",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/02:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3153_highlight_02.jpg",
+      "context": "Částka 7,805 miliardy Kč odpovídá konkrétnímu pozměňovacímu návrhu či rozpočtové položce, kterou lze ověřit v dokumentaci sněmovního tisku. Plánovaný schodek rozpočtu na rok 2027 ve výši cca 400 miliard Kč odpovídá střednědobému výhledu státního rozpočtu předloženému Ministerstvem financí ČR."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika výroků premiéra na adresu české justice. První místopředseda TOP 09 označil výroky premiéra za skandální a za věc, která „obrovským způsobem poškozuje Českou republiku“ a podkopává principy demokratického právního státu.",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": "TOP 09",
+      "timestamp": "1/12:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3153_controversy_00.jpg",
+      "context": "Výrok představuje politickou kritiku a subjektivní hodnocení výroků premiéra. Zda konkrétní vyjádření „poškozuje Českou republiku“ nebo „podkopává principy právního státu“, je otázkou politické interpretace a názoru, nikoliv objektivně měřitelný fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

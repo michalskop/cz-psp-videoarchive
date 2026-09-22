@@ -1,0 +1,124 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-22T14:36:08",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3154",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-22T08:21",
+    "end_date": "2026-09-22T08:37",
+    "sources": [
+      "final/event_3154_2026-09-22_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5597_video-psp-2026922-821-19-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS se konala před zahájením jednání Poslanecké sněmovny dne 22. září 2026. Hlavním účelem bylo vyjádřit kritický postoj strany k aktuálnímu vládnímu návrhu státního rozpočtu, který ODS označila za „rozpočtový armageddon“, a upozornit na nekoncepční legislativní kroky vládní koalice.\n\nPředstavitelé ODS se ostře ohradili proti hospodaření vlády Andreje Babiše, kterému vyčetli porušení slibu udržet schodek pod 3 % HDP, navyšování výdajů na dluh a využívání populistických opatření (např. příspěvek seniorům) jako předvolebního PR. Zároveň kritizovali způsob projednávání novel trestního práva a nedostatečnou koncepci v oblasti zdravotnictví.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval rozpočtovou politiku vlády, která podle něj místo úspor navyšuje výdaje o 6 miliard korun. Označil příspěvek 2 000 Kč pro seniory za PR na dluh budoucích generací. ODS bude na schůzi klást otázky ohledně střetu zájmů premiéra, očkování v lékárnách a managementu letiště Praha. `[1/02:04]`",
+      "**Karel Haas (ODS)** — Kritizoval „ad hoc“ přístup k novelám trestního práva, které vznikají na základě mediální poptávky bez odborných analýz a dat. Uvedl, že ve sněmovně leží pět novel trestního zákoníku bez jakékoli analýzy ministerstva spravedlnosti. `[1/04:04]`",
+      "**Jiří Havránek (ODS)** — Kritizoval mimořádnou valorizaci důchodů a „dvoutisícovou dluženku“ od vlády, která jde na dluh. Navrhl, aby prostředky byly raději investovány do domovů seniorů či Alzheimer center. Vyjádřil se kriticky k návrhu „Lepší penzijko“, který podle něj vyvádí kapitál do zahraničních fondů místo investic v ČR. `[1/06:02]`",
+      "**Štěpán Slovák (ODS)** — Kritizoval netransparentnost ministerstva zdravotnictví ohledně plateb za státní pojištěnce a chybějící reformní kroky. Uvedl, že ODS nepodpoří pouhé „přelévání peněz“ do systému bez systémových změn. `[1/08:02]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale tiskovým brífinkem. ODS potvrdila, že bude v rámci schůze využívat přednostní práva k detailní kritice vládních návrhů. V otázce trestního práva ODS nepředpokládá podporu předložených novel. V otázce plateb za státní pojištěnce je ODS připravena podat návrh na zamítnutí. ODS rovněž potvrdila, že má téměř kompletní podpisy pro vyvolání hlasování o nedůvěře vládě, které plánuje předložit v průběhu týdne.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo spravedlnosti",
+      "Ministerstvo zdravotnictví"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Za ty tři týdny hádek o úspory vzrostly výdaje státu v tom návrhu o 6 miliard.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3154_highlight_00.jpg",
+      "context": "Tvrzení se vztahuje k legislativnímu procesu státního rozpočtu. Zda došlo k nárůstu výdajů o 6 miliard, lze ověřit porovnáním původního návrhu rozpočtu předloženého MF ČR a jeho finální verze po projednání ve výborech a pozměňovacích návrzích v systému ASPI nebo na stránkách PSP ČR."
+    },
+    {
+      "text": "Aktuálně leží ve sněmovně pět novel trestního zákoníku, z toho tři poslanecké, pouhé dvě vládní a všech těch pět novel spojuje jedna věc, nulová analýza.",
+      "type": "citation",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/05:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3154_highlight_01.jpg",
+      "context": "Počet novel trestního zákoníku v legislativním procesu je ověřitelný v databázi systému VIS (Veřejný informační systém) Poslanecké sněmovny. Tvrzení o „nulové analýze“ je subjektivní politické hodnocení kvality důvodových zpráv, které nejsou zákonem striktně definovány v rozsahu či hloubce analýz dopadů."
+    },
+    {
+      "text": "Vláda se naprosto vykašlala na mladou generaci, říká lidem, že se budeme mít hůř do budoucna, protože teď budeme dělat líbivá gestíčka.",
+      "type": "citation",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/09:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3154_highlight_02.jpg",
+      "context": "Jde o politickou interpretaci vládní strategie a priorit. Výrok nelze fakticky ověřit, neboť pojmy jako „vykašlala se na mladou generaci“ nebo „líbivá gestíčka“ jsou hodnotícími soudy, nikoliv měřitelnými daty."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Martin Kupka (ODS)\n* **Co:** Obvinil premiéra z útoků na soudce a z tvrzení, že je v ČR možné si „koupit trestní stíhání“.\n* **Proč:** Jde o vážné obvinění z podkopávání nezávislosti justice a zpochybňování právního státu ze strany předsedy vlády.\n* **Čas:** 1/02:04",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3154_controversy_00.jpg",
+      "context": "Výrok premiéra o možnosti „koupit si trestní stíhání“ je veřejně známý z mediálních výstupů. Zda jde o útok na nezávislost justice, je předmětem politické debaty; fakticky lze ověřit pouze existenci samotného výroku v záznamech médií či stenozáznamech."
+    },
+    {
+      "statement": "* **Kdo:** Karel Haas (ODS)\n* **Co:** Kritizoval vládní snahu posílat neplatiče výživného do vězení místo jejich zaměstnávání pod kuratelou.\n* **Proč:** Politicky citlivé téma, které staví represivní přístup vlády proti snaze o efektivní vymáhání dluhů a odlehčení věznicím.\n* **Čas:** 1/04:04",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/04:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3154_controversy_01.jpg",
+      "context": "Trestní zákoník (zákon č. 40/2009 Sb.) skutečně umožňuje postih za zanedbání povinné výživy. Debata o efektivitě věznění neplatičů vs. alternativních trestech je dlouhodobým tématem odborné diskuse mezi Ministerstvem spravedlnosti a experty na trestní právo."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

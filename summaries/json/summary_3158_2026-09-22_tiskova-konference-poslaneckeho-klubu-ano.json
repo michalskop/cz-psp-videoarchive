@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-22T14:33:52",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3158",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-22T09:43",
+    "end_date": "2026-09-22T09:59",
+    "sources": [
+      "final/event_3158_2026-09-22_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5601_video-psp-2026922-943-17-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí ANO se konala v souvislosti se zahájením mimořádných schůzí Poslanecké sněmovny. Hlavním cílem bylo představit priority hnutí v legislativním procesu, včetně novely trestního zákoníku, zmrazení platů politiků a zrušení valorizace dálničních známek.\n\nDalší část jednání byla věnována reformě penzijního spoření a úpravám v oblasti důchodového systému. Zástupci hnutí ANO rovněž ostře kritizovali opozici a reagovali na výtky týkající se financování zdravotnictví a průběhu interpelací.",
+    "main_points": [
+      "**Tatiana Malá (ANO)** — Představila návrhy na zpřísnění postihů za neplacení výživného a zavedení přísných trestů za drinkspiking. Prosazuje zmrazení platů politiků a zrušení valorizace dálničních známek. Odmítla kritiku opozice ohledně interpelací. `[1/00:00]`",
+      "**Alena Schillerová (ANO)** — Prezentovala reformu penzijního spoření (strop poplatků 0,5 %, možnost výběru třetiny vkladů). K otázce zdravotnictví uvedla, že rozpočet pro rok 2027 počítá s 605 miliardami Kč. Ostře kritizovala exministra Vlastimila Válka. `[1/04:14]`",
+      "**Aleš Juchelko (ANO)** — Představil úpravy důchodového systému: příplatek 500 Kč pro seniory od 80 let a zvýšení důchodu o 1,5 % za každý odpracovaný rok v důchodovém věku. `[1/08:16]`"
+    ],
+    "outcome": "Hnutí ANO deklarovalo připravenost jednat na mimořádných schůzích i po 21. hodině s cílem projednat co největší množství tisků. Vládní koalice se dohodla na načtení pozměňovacího návrhu k platbám za státní pojištěnce, který sníží původně plánovanou částku o 8 miliard Kč.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tatiana Malá",
+        "person_id": null,
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Aleš Juchelko",
+        "person_id": "psp:person:6463",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Trest domácího vězení je ideálním způsobem, jak donutit pachatele, kteří neplatí výživné, aby se napravili.",
+      "type": "paraphrase",
+      "speaker": "Tatiana Malá",
+      "affiliation": "ANO",
+      "timestamp": "1/01:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3158_highlight_00.jpg",
+      "context": "Účinnost domácího vězení jako nástroje pro vymáhání výživného je předmětem odborných debat. Podle statistik Probační a mediační služby je domácí vězení alternativou k nepodmíněnému trestu, ale jeho schopnost přímo ovlivnit platební morálku pachatele není statisticky jednoznačně prokázána jako „ideální“ řešení."
+    },
+    {
+      "text": "Zdvojnásobujeme státní příspěvek do 30. narozenin klienta a stanovujeme jednotný strop poplatku za správu 0,5 % ročně.",
+      "type": "paraphrase",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/05:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3158_highlight_01.jpg",
+      "context": "Tato tvrzení se týkají návrhů změn v penzijním spoření (DIP). Změny poplatkových stropů a státních příspěvků jsou součástí legislativních úprav, které byly v rámci vládních debat diskutovány, nicméně konkrétní parametry podléhají schválenému znění zákona o doplňkovém penzijním spoření."
+    },
+    {
+      "text": "Od 80 let věku získá každý senior k důchodu pětistovku měsíčně a tato částka se pak zvyšuje o dalších 500 Kč za každých dalších pět let.",
+      "type": "paraphrase",
+      "speaker": "Aleš Juchelko",
+      "affiliation": "ANO",
+      "timestamp": "1/08:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3158_highlight_02.jpg",
+      "context": "Jedná se o popis tzv. výchovného nebo věkového bonusu, který je součástí diskuzí o důchodové reformě. Aktuální zákonná úprava důchodového pojištění (zákon č. 155/1995 Sb.) v současnosti takový automatický příplatek 500 Kč za každých 5 let po 80. roce věku v této podobě plošně neobsahuje."
+    },
+    {
+      "text": "Do zdravotnictví dáváme v roce 2027 605 miliard, čili o 50 miliard více.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/10:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3158_highlight_03.jpg",
+      "context": "Výdaje na zdravotnictví jsou plánovány v rámci zdravotně pojistných plánů a státního rozpočtu. Částka 605 miliard pro rok 2027 je projekcí, jejíž naplnění závisí na budoucím výběru pojistného a schválených rozpočtových výdajích, nikoliv na fixním zákonném nároku."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Alena Schillerová (ANO) označila vystoupení exministra zdravotnictví Vlastimila Válka (TOP 09) za „nehoráznost“ a „drzost“ kvůli jeho kritice vládní politiky ve zdravotnictví.",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/10:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3158_controversy_00.jpg",
+      "context": "Toto tvrzení je subjektivním politickým hodnocením (hodnotový soud) a nelze jej fakticky ověřit jako pravdivé či nepravdivé. Jde o záznam rétorického střetu mezi opoziční političkou a vládním ministrem v rámci parlamentní debaty."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
