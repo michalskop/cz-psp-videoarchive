@@ -1,0 +1,261 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-23T14:39:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3160",
+    "name": "Slaďování práce a rodiny v aktuální ekonomické situaci",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-09-23T10:01",
+    "end_date": "2026-09-23T13:38",
+    "sources": [
+      "final/event_3160_2026-09-23_sladovani-prace-a-rodiny-v-aktualni-ekonomicke-sit.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923100002.mp4",
+        "from_sec": 58
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923101002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923102002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923103002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923104002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923105002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923110003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923111002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923112002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923113002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923114002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923115002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923120003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923121003.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923122003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923123003.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923124003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923125003.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923130003.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923131003.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923132003.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/23/_20260923133003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 22,
+    "parts_total": 22,
+    "source": "mixed",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu s názvem „Slaďování práce a rodiny v aktuální ekonomické situaci“ se konalo v Poslanecké sněmovně jako součást série „Systémová podpora rodiny jako investice do budoucnosti“. Cílem bylo analyzovat bariéry, které rodičům (zejména matkám) brání v návratu na trh práce, a diskutovat o možnostech podpory slaďování profesního a rodinného života v kontextu klesající porodnosti a ekonomické nejistoty.\n\nJednání se zaměřilo na identifikaci konkrétních překážek, jako je nedostatek flexibilních úvazků, nedostupnost předškolní péče pro děti do 3 let a potřeba změny firemní kultury. Akce propojila odborníky z neziskového sektoru, akademické sféry, zástupce zaměstnavatelů a politiky, aby formulovali doporučení pro legislativní a systémové změny.",
+    "main_points": [
+      "**Václav Pláteněk (poslanec, Parlament ČR)** — Zdůraznil potřebu ukazovat dobré příklady a měnit společenské vzorce. Upozornil na studii o korelaci mezi zapojením otců do péče a ochotou rodin mít další děti. `[1/04:00]`",
+      "**Daniela Povejšilová (Nadace Sirius)** — Poukázala na dilema matek mezi péčí o dítě a profesním růstem. Kritizovala trh práce, který je stále nastaven na „mužskou roli“ bez pečujících povinností. `[1/08:20]`",
+      "**Jana Paloncijová (Nadace Sirius)** — Prezentovala data: ČR je premiantem v zaměstnanosti mužů, ale outsiderem v zaměstnanosti žen ve věku 30–34 let. Identifikovala kritické období 2–3 let věku dítěte, kdy chybí flexibilní úvazky a institucionální péče. `[2/04:01]`",
+      "**Lenka Formánková (Univerzita Karlova)** — Argumentovala, že zapojení otců je klíčem k úspěšnému slaďování. Navrhla zavedení delší, lépe placené a nepřenositelné otcovské dovolené (80–100 % mzdy). `[3/08:02]`",
+      "**Andrea Bohačíková (Mártér)** — Uvedla, že porodnost neklesá kvůli nezájmu, ale kvůli nejistotě a chybějícím podmínkám (bydlení, finance, flexibilita). Flexibilitu označila za „nutnou infrastrukturu“, nikoliv benefit. `[5/02:04]`",
+      "**Kristýna Cejnárová (Mamdu)** — Prezentovala report: 45 % rodičů je na rodičovské dovolené „ve tmě“ (bez kontaktu s firmou). Odhadla, že pokud by matky pracovaly dle svých preferencí, přineslo by to státu 16 miliard Kč. `[6/00:00]`",
+      "**Marie Oueská (Rodinný svaz ČR)** — Navrhla transformaci rodičovského příspěvku na náhradu ušlé mzdy (podobně jako v Německu či Skandinávii) namísto současného paušálu. `[7/08:17]`",
+      "**Jiřina Konášková (MPSV)** — Informovala o strategických dokumentech a rozvoji dětských skupin (aktuálně cca 2 400 skupin). Zdůraznila povinnost obcí zajistit péči od 3 let věku. `[9/00:00]`",
+      "**Irena Přibylová (Síť pro rodinu)** — Představila audit „Společnost přátelská rodině“. Zdůraznila, že prorodinná kultura vyžaduje transparentní pravidla, nejen individuální vstřícnost vedoucích. `[14/02:00]`",
+      "**Katarína Andrašovská (Generali)** — Sdílela příklady z praxe: individuální přístup k zaměstnancům, udržování kontaktu během rodičovské a flexibilní úvazky měnící se podle životní situace. `[15/02:07]`",
+      "**Renata Kočířová a Miroslava Sasinová (Magistrát Ostrava)** — Prezentovaly zkušenosti veřejné správy: důležitost firemní školky, stáže pro studenty a individuální úpravy práce pro zaměstnance v různých životních etapách. `[16/06:11]`",
+      "**Klára Tomková (RC Motýlek) a Barbara Zálohová (Mumraj)** — Popsaly roli rodinných center jako „bezpečného přístavu“ a infrastruktury pro slaďování (coworking s hlídáním, komunitní podpora). `[18/06:07]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus, že slaďování práce a rodiny není pouze otázkou benefitů, ale systémovou nutností pro udržitelný demografický vývoj. Dominujícími požadavky jsou:\n* Zvýšení dostupnosti flexibilních forem práce (částečné úvazky).\n* Podpora institucionální péče pro děti od 2 let.\n* Změna legislativy směrem k lepší podpoře zapojení otců.\n* Zjednodušení administrativy a lepší informovanost rodičů o možnostech návratu na trh práce.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (chybějící diakritika, opakující se fráze). Části 11–13 jsou v záznamu bez obsahu (prázdné/opakující se)."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Václav Pláteněk",
+        "person_id": "psp:person:7036",
+        "affiliation": "Parlament ČR"
+      },
+      {
+        "name": "Daniela Povejšilová",
+        "person_id": null,
+        "affiliation": "Nadace Sirius"
+      },
+      {
+        "name": "Jana Paloncijová",
+        "person_id": null,
+        "affiliation": "Nadace Sirius"
+      },
+      {
+        "name": "Lenka Formánková",
+        "person_id": null,
+        "affiliation": "Univerzita Karlova"
+      },
+      {
+        "name": "Andrea Bohačíková",
+        "person_id": null,
+        "affiliation": "Mártér"
+      },
+      {
+        "name": "Kristýna Cejnárová",
+        "person_id": null,
+        "affiliation": "Mamdu"
+      },
+      {
+        "name": "Marie Oueská",
+        "person_id": "psp:person:231",
+        "affiliation": "Rodinný svaz ČR"
+      },
+      {
+        "name": "Jiřina Konášková",
+        "person_id": null,
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "Irena Přibylová",
+        "person_id": null,
+        "affiliation": "Síť pro rodinu"
+      },
+      {
+        "name": "Katarína Andrašovská",
+        "person_id": null,
+        "affiliation": "Generali"
+      },
+      {
+        "name": "Renata Kočířová",
+        "person_id": null,
+        "affiliation": "Magistrát města Ostravy"
+      },
+      {
+        "name": "Miroslava Sasinová",
+        "person_id": null,
+        "affiliation": "Magistrát města Ostravy"
+      },
+      {
+        "name": "Klára Tomková",
+        "person_id": null,
+        "affiliation": "RC Motýlek"
+      },
+      {
+        "name": "Barbara Zálohová",
+        "person_id": null,
+        "affiliation": "Mumraj"
+      }
+    ],
+    "parties": [
+      "IKDP"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Nadace Sirius",
+      "Síť pro rodinu",
+      "Rodinný svaz ČR",
+      "MPSV",
+      "Univerzita Karlova",
+      "Generali",
+      "Magistrát města Ostravy"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Flexibilita není žádný komfort, není to nějaký benefit, je to nutná infrastruktura pro porodnost v České republice.",
+      "type": "paraphrase",
+      "speaker": "Andrea Bohačíková",
+      "affiliation": "Mártér",
+      "timestamp": "5/09:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3160_highlight_00.jpg",
+      "context": "Toto tvrzení je hodnotovým soudem a politickým názorem, nikoliv ověřitelným faktem. Vztah mezi flexibilitou práce a porodností je předmětem sociologických studií, ale neexistuje shoda na tom, že by flexibilita byla jedinou či hlavní „nutnou infrastrukturou“ pro zvýšení porodnosti."
+    },
+    {
+      "text": "Pokud by matky, které chtějí pracovat, mohly pracovat podle svých preferencí, do státního rozpočtu by přiteklo 16 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Kristýna Cejnárová",
+      "affiliation": "Mamdu",
+      "timestamp": "7/04:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3160_highlight_01.jpg",
+      "context": "Částka 16 miliard korun je odhadem založeným na modelových výpočtech (např. analýzy PAQ Research nebo iniciativy Měníme svět práce). Výpočet závisí na mnoha proměnných, jako je míra zdanění, výše mezd a ochota matek pracovat, proto jde o kvalifikovaný odhad, nikoliv o oficiální rozpočtový údaj MF ČR."
+    },
+    {
+      "text": "Téměř 50 % rodičů se po odchodu na rodičovskou dovolenou firma neozve ani jednou.",
+      "type": "citation",
+      "speaker": "Kristýna Cejnárová",
+      "affiliation": "Mamdu",
+      "timestamp": "6/10:07",
+      "context": "Tento údaj vychází z průzkumů mezi rodiči (např. dotazníková šetření organizací jako Mamdu či Gender Studies). Jelikož neexistuje centrální státní statistika o komunikaci mezi zaměstnavateli a rodiči na mateřské, nelze toto číslo nezávisle ověřit z oficiálních dat ČSÚ."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Andrea Bohačíková (Mártér)\n**Co:** Prohlášení, že flexibilita práce není benefit, ale nutná infrastruktura pro porodnost.\n**Proč:** Je to kontroverzní, protože zaměstnavatelé často vnímají flexibilitu jako nákladný benefit, zatímco řečník ji staví na úroveň základní občanské vybavenosti.\n**Čas:** 5/08:11",
+      "speaker": "Andrea Bohačíková",
+      "affiliation": "Mártér",
+      "timestamp": "5/08:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3160_controversy_00.jpg",
+      "context": "Jde o interpretaci role flexibility na trhu práce. Z pohledu zákoníku práce (zákon č. 262/2006 Sb.) je flexibilita předmětem dohody mezi zaměstnavatelem a zaměstnancem, nikoliv zákonnou povinností, což potvrzuje, že vnímání flexibility jako „benefitu“ je v českém právním a firemním prostředí stále dominantní."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
