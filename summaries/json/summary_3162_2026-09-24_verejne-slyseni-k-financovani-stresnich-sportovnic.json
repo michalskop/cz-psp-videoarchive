@@ -1,0 +1,242 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-24T14:42:51",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3162",
+    "name": "Veřejné slyšení k financování střešních sportovních organizací",
+    "classification": "Veřejné slyšení",
+    "start_date": "2026-09-24T08:01",
+    "end_date": "2026-09-24T11:57",
+    "sources": [
+      "final/event_3162_2026-09-24_verejne-slyseni-k-financovani-stresnich-sportovnic.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924080002.mp4",
+        "from_sec": 78
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924081003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924082003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924083005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924084005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924085005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924090009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924091000.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924092006.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924093006.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924094004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924095009.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924100009.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924101005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924102003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924103005.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924104001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924105000.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924110000.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924111002.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924112005.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924113006.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924114008.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924115001.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 24,
+    "parts_total": 24,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Veřejné slyšení, které se konalo 24. září 2026, mělo za cíl zahájit dialog mezi Národní sportovní agenturou (NSA), Ministerstvem pro sport a střešními sportovními organizacemi. Účelem bylo objektivizovat data o financování sportu, identifikovat případné duplicity v dotačních tocích a nastavit efektivnější a transparentnější systém financování pro rok 2027.\n\nJednání se zaměřilo na roli střešních organizací (ČOV, ČPV, ČUS, Sokol, Orel, ZSS ČR, ČASPV, ČAUS) v českém sportovním ekosystému, jejich administrativní zátěž, efektivitu využívání veřejných prostředků a potřebu systémových změn v legislativě a dotační politice.",
+    "main_points": [
+      "**Ministr pro sport a prevenci (Vláda ČR)** — Zdůraznil nutnost snížení administrativní zátěže a zjednodušení dotačních výzev. Uvedl rozpočet NSA pro rok 2027 ve výši min. 8,43 mld. Kč. Varoval před duplicitami v financování a avizoval snahu o legislativní změny. `[1/02:09]`",
+      "**Karel Kovář (předseda NSA)** — Představil vizi restartu NSA, včetně nových rejstříků (pilotní provoz od února 2027). Zdůraznil potřebu analýzy dat a odklon od plošné podpory k cílené podpoře. Upozornil na investiční dluh ve sportovní infrastruktuře. `[1/08:02]`",
+      "**Český olympijský výbor (ČOV)** — Prezentoval studii KPMG: český sport generuje 250 mld. Kč spotřeby. Kritizoval nestabilitu a pozdní poskytování dotací. Upozornil na unikátní úrazové pojištění pro 2 miliony sportovců. `[3/08:02]`",
+      "**Český paralympijský výbor (ČPV)** — Upozornil na specifika parasportu (vysoké náklady na vybavení a realizační týmy). Zdůraznil úspěch vzniku centra Agitos. Uvedl, že 84 % rozpočtu jde přímo do sportu/reprezentace. `[6/06:00]`",
+      "**Česká unie sportu (ČUS)** — Největší organizace (1 mil. členů, 7 000 klubů). Administruje 3 mld. Kč veřejné podpory s režií pod 4 %. Řeší kritický stav sportovního centra Nymburk. `[8/08:00]`",
+      "**Česká obec Sokolská** — Zaměřuje se na všestrannost a sport pro všechny. Upozornila na problém financování oprav majetku, který není v majetku obcí, což komplikuje investice samospráv. `[11/08:05]`",
+      "**Orel** — Zaměření na rodinný sport a menší obce. Zdůraznil význam zdravotního tělocviku pro děti a seniory. `[16/02:00]`",
+      "**Združení sportovních svazů ČR (ZSS ČR)** — Sdružuje technické a branné sporty. Upozornil na drastický nepoměr v dotacích oproti jiným svazům. `[17/04:11]`",
+      "**Česká asociace sportu pro všechny (ČASPV)** — Zaměření na nesoutěžní sport a celoživotní pohyb. `[19/08:02]`",
+      "**Česká asociace univerzitního sportu (ČAUS)** — Prezentovala rozvoj univerzitních lig, které zvyšují sociální soudržnost studentů. `[20/06:19]`"
+    ],
+    "outcome": "Formální rozhodnutí nebylo přijato, jednání sloužilo jako podklad pro další plánování rozpočtu a dotačních výzev na rok 2027. Konsenzus panuje v potřebě:\n* Digitalizace a zjednodušení administrativy (zejména u dohodářů a kontrolních hlášení).\n* Zajištění předvídatelnosti financování (víceleté rámce).\n* Nutnosti kvalitnějších dat pro rozhodování o dotacích.\n* Pokračování individuálních jednání mezi NSA a jednotlivými organizacemi.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování nesmyslných frází, které byly pro účely shrnutí ignorovány. Části 14 a 15 obsahují pouze pauzu a technický záznam."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ministr pro sport a prevenci",
+        "person_id": null,
+        "affiliation": "Vláda ČR"
+      },
+      {
+        "name": "Karel Kovář",
+        "person_id": "psp:person:5471",
+        "affiliation": "Národní sportovní agentura"
+      },
+      {
+        "name": "Miroslav Boháč",
+        "person_id": null,
+        "affiliation": "Česká unie sportu"
+      },
+      {
+        "name": "Zdeněk Ertel",
+        "person_id": null,
+        "affiliation": "Združení sportovních svazů ČR"
+      },
+      {
+        "name": "Ivana Ertlová",
+        "person_id": null,
+        "affiliation": "Česká asociace univerzitního sportu"
+      }
+    ],
+    "parties": [
+      "ČOV",
+      "ČPV",
+      "ČUS",
+      "Sokol",
+      "Orel",
+      "ZSS ČR",
+      "ČASPV",
+      "ČAUS"
+    ],
+    "institutions": [
+      "Národní sportovní agentura",
+      "Poslanecká sněmovna",
+      "Ministerstvo pro sport a prevenci"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Český sport a celková přímá spotřeba českého sportu je zhruba 250 miliard korun, což znamená čtvrtbilionu korun.",
+      "type": "paraphrase",
+      "speaker": "Český olympijský výbor",
+      "affiliation": "ČOV",
+      "timestamp": "3/08:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3162_highlight_00.jpg",
+      "context": "Tato hodnota odpovídá odhadům ekonomického přínosu sportu (tzv. satelitní účet sportu), který zahrnuje přímou spotřebu domácností, vládní výdaje i investice. Číslo je v souladu s analýzami zpracovanými pro potřeby Národní sportovní agentury a ČOV, nicméně jde o odhadovanou makroekonomickou veličinu, nikoliv o přesně vykazovaný účetní údaj."
+    },
+    {
+      "text": "Bez odborné podpory České unie sportu není schopná velká skupina klubů existovat v souladu s právními a dalšími předpisy.",
+      "type": "citation",
+      "speaker": "Miroslav Boháč",
+      "affiliation": "ČUS",
+      "timestamp": "9/00:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3162_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní hodnocení kapacity členské základny, které není podloženo tvrdými daty o zániku klubů v důsledku absence právního servisu."
+    },
+    {
+      "text": "45 % rodičů odpovědělo, že jejich děti nesportují, a toto číslo se každým rokem zvyšuje.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Ertel",
+      "affiliation": "ZSS ČR",
+      "timestamp": "19/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3162_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit bez znalosti konkrétního metodologického rámce průzkumu. Data o pohybové aktivitě dětí se liší podle metodiky (např. ČSÚ vs. studie VZP či akademických pracovišť), přičemž dlouhodobý trend poklesu pohybové aktivity je potvrzován např. studiemi projektu Active Healthy Kids Czech Republic."
+    },
+    {
+      "text": "Národní sportovní agentura obsluhuje 8,4 miliardy korun s celkovými náklady 145 milionů, což odpovídá 1,7 %.",
+      "type": "citation",
+      "speaker": "Ministr pro sport",
+      "affiliation": "Vláda ČR",
+      "timestamp": "24/06:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3162_highlight_03.jpg",
+      "context": "Údaj je ověřitelný ze schváleného rozpočtu Národní sportovní agentury (NSA) pro příslušný rok. Poměr provozních nákladů k objemu přerozdělovaných dotací odpovídá veřejně dostupným informacím o administrativních výdajích úřadu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kdo:** Ministr pro sport a předseda ČUS (Miroslav Boháč).\n*   **Co:** Stát nemá v rozpočtu 3–5 mld. Kč na rekonstrukci. Jedná se o možném převodu majetku na stát (MO ČR) a využití systému *Dual Use* (armádní využití).\n*   **Proč:** Jde o politicky citlivý majetkový převod, který vyžaduje souhlas valné hromady ČUS a transparentní ocenění.\n*   **Čas:** 11/02:05",
+      "speaker": "Ministr pro sport a Miroslav Boháč",
+      "affiliation": "Vláda ČR / ČUS",
+      "timestamp": "11/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3162_controversy_00.jpg",
+      "context": "Jedná se o probíhající politické a majetkoprávní jednání. Převod majetku spolků na stát podléhá zákonu č. 89/2012 Sb. (občanský zákoník) a stanovám příslušného spolku; realizace vyžaduje schválení valnou hromadou a posouzení Ministerstvem financí ČR z hlediska hospodárnosti."
+    },
+    {
+      "statement": "*   **Kdo:** Ministr pro sport.\n*   **Co:** Ministr otevřeně zpochybnil efektivitu, kdy si svazy platí za administrativní servis u střešních organizací, přestože na organizaci soutěží dostávají dotace přímo od NSA.\n*   **Proč:** Naznačuje to možné neefektivní čerpání veřejných prostředků a potřebu přenastavit systém financování.\n*   **Čas:** 10/06:05",
+      "speaker": "Ministr pro sport",
+      "affiliation": "Vláda ČR",
+      "timestamp": "10/06:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3162_controversy_01.jpg",
+      "context": "Jde o politický názor na efektivitu čerpání dotací. Systém financování sportu je upraven zákonem č. 115/2001 Sb., o podpoře sportu, a pravidly NSA; otázka duplicity plateb za administrativní servis je předmětem dlouhodobé debaty o transparentnosti financování sportovních svazů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

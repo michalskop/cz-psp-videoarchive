@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-24T14:43:45",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3165",
+    "name": "Tisková konference Starostů a nezávislých po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-24T11:08",
+    "end_date": "2026-09-24T11:37",
+    "sources": [
+      "final/event_3165_2026-09-24_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5610_video-psp-2026924-118-44-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána jako reakce na aktuální politické a ekonomické dění v České republice. Hlavním cílem bylo představit kritický postoj stínové vlády STAN k návrhu státního rozpočtu na rok 2026, upozornit na nedostatečnou připravenost státu na bezpečnostní krize a zkritizovat vládní komunikaci v oblasti energetiky a ekonomiky.\n\nZástupci hnutí se vymezili vůči vládní koalici, kterou obvinili z populismu, ideologické zaslepenosti a neochoty k věcné diskuzi o strukturálních reformách. Zároveň představili vlastní návrhy na úspory a regulaci krátkodobých ubytovacích platforem.",
+    "main_points": [
+      "**Víter Kušen (Stínový premiér, STAN)** — Kritizoval rozpočet za absenci investic do energetické soběstačnosti a odolnosti země. Upozornil na zhoršenou bezpečnostní situaci v Evropě a vyzval premiéra Babiše k svolání zástupců všech parlamentních stran k bezpečnostní problematice. Kritizoval zrušení Národního bezpečnostního poradce a strategické komunikace vlády. `[1/02:02]`",
+      "**Jan Papajanovský (Poslanec, STAN)** — Označil rozpočet za „ekonomický a politický zločin“. Uvedl, že deficit není pravdivý (chybí 30 mld. Kč na Dukovany). Upozornil na náklady na obsluhu dluhu (145 mld. Kč ročně, 400 mil. Kč denně). Navrhl úspory ve výši 54 mld. Kč (EET, obnovitelné zdroje, státní pojištěnci, *Spending Review*). `[1/06:04]`",
+      "**Petr Hlaváček (Lídr STAN v Praze)** — Zaměřil se na problematiku krátkodobého ubytování (např. Airbnb), které označil za parazitující na bytovém trhu a přeměňující centra měst v „turistická getta“. Podpořil zavedení nástroje „e-turista“ a regulaci počtu bytů v tomto režimu. `[1/12:06]`"
+    ],
+    "outcome": "Nebyl přijat žádný formální závěr, neboť se jednalo o tiskovou konferenci opozičního subjektu. Konsenzem mezi řečníky je požadavek na přepracování státního rozpočtu, okamžité zahájení debaty o bezpečnostní situaci a prosazování daňových reforem (např. zrychlení odpisů, zrušení slevy na nepracující manželku).",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Víter Kušen“ místo Vít Rakušan, „Karol Dvořák“ místo Karel Dvořák, „Micháela Ševilová“ místo Michaela Šebelová) a občasné halucinace modelu („Představujeme, že v obrovském růstu...“). Text byl pro účely shrnutí interpretován v kontextu reálné politické situace."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Víter Kušen",
+        "person_id": null,
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Petr Hlaváček",
+        "person_id": null,
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "KDU-ČSL",
+      "TOP 09",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Národní rozpočtová rada",
+      "Evropská unie"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "145 miliard korun zaplatíme na úrocích v příštím roce, což je víc než naprostá většina ministerstev.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/08:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3165_highlight_00.jpg",
+      "context": "Podle návrhu státního rozpočtu na rok 2025 jsou výdaje na obsluhu státního dluhu plánovány ve výši přibližně 145 miliard Kč. Tato částka skutečně převyšuje rozpočtové kapitoly většiny ministerstev, s výjimkou největších resortů, jako je Ministerstvo práce a sociálních věcí či Ministerstvo školství."
+    },
+    {
+      "text": "Naše zadlužení se každý den příštího roku zvedne o více než jednu miliardu korun.",
+      "type": "paraphrase",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/08:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3165_highlight_01.jpg",
+      "context": "Plánovaný schodek státního rozpočtu na rok 2025 činí 241 miliard Kč. Při rozpočítání na 365 dní vychází průměrný nárůst dluhu na cca 660 milionů Kč denně; tvrzení o jedné miliardě denně je tedy nadhodnocené vzhledem k aktuálnímu návrhu rozpočtu."
+    },
+    {
+      "text": "Rozpočet na rok 2026 je ekonomickým a politickým zločinem na občanech České republiky.",
+      "type": "citation",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/07:18",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3165_highlight_02.jpg",
+      "context": "Toto tvrzení je hodnotícím politickým soudem, nikoliv faktografickým údajem. Hodnocení rozpočtu jako „zločinu“ je subjektivní rétorickou figurou, kterou nelze objektivně verifikovat."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "*   **Kontroverzní návrh:** Zrušení slevy na nepracující manželku výměnou za zvýšení slevy na děti.\n    *   **Kdo:** Jan Papajanovský (STAN).\n    *   **Proč:** Jde o citlivé sociální téma, které může být vnímáno jako zásah do rodinné politiky a znevýhodnění rodin s jedním příjmem.\n    *   **Čas:** `1/10:07`",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/10:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3165_controversy_00.jpg",
+      "context": "Jedná se o politický návrh úpravy daňového systému. Sleva na manželku/manžela je upravena v zákoně č. 586/1992 Sb., o daních z příjmů; její případné zrušení či úprava slevy na děti je předmětem politické debaty o daňové reformě a rodinné politice, nikoliv platným právním stavem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
