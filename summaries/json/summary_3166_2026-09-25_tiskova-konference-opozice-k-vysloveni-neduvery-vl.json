@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-25T14:30:56",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3166",
+    "name": "Tisková konference opozice k vyslovení nedůvěry vládě",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-25T09:00",
+    "end_date": "2026-09-25T09:19",
+    "sources": [
+      "final/event_3166_2026-09-25_tiskova-konference-opozice-k-vysloveni-neduvery-vl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5612_video-psp-2026925-90-13-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference opozičních stran (ODS, STAN, Piráti, KDU-ČSL, TOP 09) byla svolána za účelem oznámení podání návrhu na vyslovení nedůvěry vládě Andreje Babiše. Opozice disponuje 92 podpisy poslanců potřebnými k vyvolání tohoto procesu.\n\nHlavním cílem jednání bylo prezentovat důvody pro tento krok, mezi které patří zejména kritika stavu veřejných financí (vysoký rozpočtový schodek), neřešený střet zájmů premiéra a útoky vlády na nezávislé instituce, jako jsou soudy, média a neziskový sektor. Opozice vnímá tento krok jako nejsilnější parlamentní nástroj k obraně demokratického charakteru státu a odpovědného hospodaření.",
+    "main_points": [
+      "**Martin Kubka (ODS)** — Představil návrh podepsaný 92 poslanci. Hlavní argumenty: astronomický schodek rozpočtu (3,5 % místo slibovaných pod 3 %), neřešený střet zájmů premiéra a útoky na nezávislé instituce (Ústavní soud, média). `[1/02:06]`",
+      "**Neidentifikovaný řečník (Piráti)** — Kritizoval vládu za to, že „prožírá budoucnost“ země, neřeší střet zájmů (dotace Agrofertu ve výši 7,5 mld. Kč) a neplní sliby ohledně zlevňování hypoték. `[1/04:04]`",
+      "**Předseda Havel (TOP 09)** — Zaměřil se na národní bezpečnost a veřejné finance. Kritizoval vládu za hazardování s obranou a vyzval vládní poslance (zejména hnutí Motoristé), aby hlasovali podle svědomí a nepodpořili rozpočtově nezodpovědnou politiku. `[1/06:07]`",
+      "**Předseda Grolich (KDU-ČSL)** — Zdůraznil, že hlasování o nedůvěře je příležitostí pro poslance, aby se veřejně vyjádřili k tomu, zda jim vadí, že vláda lidem lže a neplní své programové prohlášení. `[1/08:00]`",
+      "**Vít Rakušan (STAN)** — Akcentoval selhání v krizové komunikaci a absenci strategické komunikace státu. Varoval před ohrožením bezpečnosti občanů a vyzval voliče, aby vládě vyslovili nedůvěru v nadcházejících senátních a komunálních volbách. `[1/10:01]`"
+    ],
+    "outcome": "Formálním výsledkem je podání návrhu na vyslovení nedůvěry vládě podepsaného 92 poslanci. Opozice se shodla na nutnosti vést diskusi v Poslanecké sněmovně, aby jasně pojmenovala selhání vlády. Dominujícím postojem je, že i když v parlamentu vláda pravděpodobně nepadne, je nutné využít tento prostor k oslovení veřejnosti před blížícími se senátními a komunálními volbami (9. a 10. října), kde mají voliči možnost vládě nedůvěru vyjádřit přímo.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a občasné halucinace (např. opakující se věty o obsahu přepisu). Jména řečníků byla identifikována na základě kontextu, v některých případech (např. „Předseda Havel“) může jít o nepřesnost v přepisu jména."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kubka",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Předseda Havel",
+        "person_id": "psp:person:1461",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Předseda Grolich",
+        "person_id": "psp:person:40",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "STAN",
+      "Piráti",
+      "KDU-ČSL",
+      "TOP 09",
+      "ANO",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda Andreje Babiše kradě lidem v ČR lepší budoucnost.",
+      "type": "paraphrase",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3166_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, kterou nelze fakticky ověřit. Hodnocení kvality „budoucnosti“ závisí na politických prioritách a ekonomických ukazatelích, které jsou předmětem politického střetu."
+    },
+    {
+      "text": "Roční státní dluh, který Andrej Babiš připravuje, bude činit skoro 400 miliard, což činí mimochodem asi 36 tisíc korun na hlavu.",
+      "type": "citation",
+      "speaker": "Předseda Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3166_highlight_01.jpg",
+      "context": "Výše schodku státního rozpočtu je ověřitelný údaj dle zákona o státním rozpočtu pro daný rok. Přepočet na obyvatele (cca 10,5 milionu lidí) je matematicky korektní, nicméně dluh na hlavu je pouze ilustrativní statistika, která nezohledňuje reálnou ekonomickou zátěž jednotlivých občanů."
+    },
+    {
+      "text": "Vláda nevymáhá 7,5 miliardy protizákonně vyplacených dotací Agrofertu.",
+      "type": "citation",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3166_highlight_02.jpg",
+      "context": "Otázka dotací pro koncern Agrofert je předmětem dlouhodobých auditů Evropské komise a následných správních řízení. Částka 7,5 miliardy není oficiálně potvrzenou částkou „protizákonně vyplacených“ dotací, o které by existoval pravomocný rozsudek či konečné rozhodnutí o nevymožení; jde o předmět probíhajících právních sporů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Předseda Havel (TOP 09)\n**Co:** Vyzval poslance hnutí Motoristé, aby hlasovali proti vládě, jinak zpochybnil jejich svědomí.\n**Proč:** Je to politicky citlivé, protože se snaží vyvolat rozkol ve vládní koalici a přímo útočí na integritu konkrétního koaličního partnera.\n**Čas:** 1/06:07",
+      "speaker": "Předseda Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3166_controversy_00.jpg",
+      "context": "Výzva k hlasování a zpochybnění svědomí jsou standardní součástí politické debaty a parlamentního boje. Faktograficky nelze ověřit, zda poslanec skutečně má či nemá svědomí, neboť jde o hodnotový soud."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-25T14:30:32",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3167",
+    "name": "Voda pro Česko",
+    "classification": "Seminář",
+    "start_date": "2026-09-25T08:30",
+    "end_date": "2026-09-25T12:00",
+    "sources": [
+      "final/event_3167_2026-09-25_voda-pro-cesko.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925095307.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925100003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925101001.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925102001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925103001.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925104001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925105001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925110001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925111001.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925112001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925113001.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925114001.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A108/2026/09/25/_20260925115001.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Z poskytnutého přepisu nelze identifikovat téma ani účel jednání. Z názvu „Voda pro Česko“ lze pouze usuzovat, že se seminář zabýval problematikou vodního hospodářství, avšak samotný text přepisu neobsahuje žádné informace o průběhu, diskutovaných návrzích či cílech.",
+    "main_points": [
+      "**Neidentifikovaný řečník** — Obsah projevu není v přepisu obsažen."
+    ],
+    "outcome": "Z přepisu nelze vyvodit žádný závěr, rozhodnutí ani konsenzus.",
+    "notes": "Přepis je zcela nečitelný z hlediska obsahu. Obsahuje pouze časové značky a automaticky generované hlášky o kvalitě přepisu. Chybí jakákoliv věcná informace."
+  },
+  "entities": {
+    "speakers": [],
+    "parties": [],
+    "institutions": []
+  },
+  "highlights": [],
+  "controversial": [],
+  "quality": {
+    "transcript_quality": "poor",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
