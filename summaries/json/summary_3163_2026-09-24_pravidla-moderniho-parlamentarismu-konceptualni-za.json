@@ -1,0 +1,280 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-25T02:33:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3163",
+    "name": "Konference \"Pravidla moderního parlamentarismu: Konceptuální základy nového jednacího řádu Poslanecké sněmovny\"",
+    "classification": "Konference",
+    "start_date": "2026-09-24T14:05",
+    "end_date": "2026-09-24T18:53",
+    "sources": [
+      "final/event_3163_2026-09-24_pravidla-moderniho-parlamentarismu-konceptualni-za.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924140003.mp4",
+        "from_sec": 302
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924141008.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924142002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924143006.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924144007.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924145007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924150002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924151002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924152000.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924153009.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924154009.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924155009.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924160006.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924161006.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924162006.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924163004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924164004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924165006.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924170006.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924171008.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924172003.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924173007.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924174003.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924175002.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924180002.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924181002.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924182002.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924183002.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/09/24/_20260924184007.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 29,
+    "parts_total": 29,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Konference se zaměřila na reflexi fungování Poslanecké sněmovny (PS) v kontextu nedávno schválené novely jednacího řádu a úvahy o vytvoření zcela nového jednacího řádu. Cílem bylo analyzovat konceptuální základy parlamentarismu, efektivitu zákonodárného procesu, kontrolu exekutivy a roli plenární rozpravy.\n\nJednání reflektovalo napětí mezi potřebou akceschopnosti vládní většiny a právy opozice, přičemž zdůraznilo, že samotná legislativní pravidla nemohou nahradit chybějící politickou kulturu. Akce sloužila jako platforma pro dialog mezi akademickou sférou a politickými představiteli napříč politickým spektrem.",
+    "main_points": [
+      "**Barbora Urbanová (STAN)** — Zdůraznila, že nový jednací řád je pouze základem a klíčová je politická kultura. `[1/04:56]`",
+      "**Robert Zbíral (PF MU)** — Prezentoval data o nízké důvěře v parlament (cca 20 %). `[4/08:02]`",
+      "**David Jágr a Zdenka Mansfeldová** — Analyzovali posun od „pracovního parlamentu“ k „parlamentu proslovů“. `[2/06:03]`",
+      "**Marian Kokeš (PF UP)** — Zdůraznil, že legitimita parlamentu nestojí jen na volbách, ale na dlouhodobé „rozptýlené důvěře“. `[6/02:03]`",
+      "**Jindřiška Syllová (PI)** — Kritizovala byrokratizaci legislativního procesu a navrhla opoziční dny. `[8/04:26]`",
+      "**Marie Zámečníková (PF MU)** — Navrhla čtyři okruhy pro nový jednací řád: role parlamentu, rozdělení práce, distribuce práv a zvláštní procedury. `[15/06:00]`",
+      "**Jan Kysela (PF UK)** — Uvedl, že v oblasti kontroly exekutivy jednací řád netrpí deficity, problémem je politická polarizace. `[17/04:05]`",
+      "**Jan Wintr (PF UK)** — Navrhl zavedení střídání řečníků „pro a proti“ a stanovení pevných časových limitů. `[19/02:00]`",
+      "**Radek Vondráček (ANO)** — Obhájil individualismus parlamentu a navrhl pracovní skupinu pro nový jednací řád. `[24/04:01]`",
+      "**Marek Benda (ODS)** — Vyjádřil skepsi k radikálním změnám, parlament musí zůstat konfliktním místem. `[10/02:16]`"
+    ],
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale k širokému konsenzu v následujících bodech:\n* Současný jednací řád je příliš individualistický a umožňuje obstrukce, které nevedou k věcnému výsledku.\n* Je nutné vytvořit pracovní skupinu pro přípravu nového jednacího řádu.\n* Politická kultura je důležitější než technické změny pravidel.\n* Existuje shoda na potřebě posílit roli poslaneckých klubů a zefektivnit projednávání zákonů v garančních výborech.",
+    "notes": "Přepis obsahuje četné technické artefakty (opakující se fráze, useknutá slova). Části 13 a 14 jsou prakticky nečitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Robert Zbíral",
+        "person_id": null,
+        "affiliation": "PF MU"
+      },
+      {
+        "name": "David Jágr",
+        "person_id": null,
+        "affiliation": "FSV UK"
+      },
+      {
+        "name": "Zdenka Mansfeldová",
+        "person_id": null,
+        "affiliation": "SOÚ AV ČR"
+      },
+      {
+        "name": "Marian Kokeš",
+        "person_id": null,
+        "affiliation": "PF UP"
+      },
+      {
+        "name": "Jindřiška Syllová",
+        "person_id": null,
+        "affiliation": "Parlamentní institut"
+      },
+      {
+        "name": "Marie Zámečníková",
+        "person_id": null,
+        "affiliation": "PF MU"
+      },
+      {
+        "name": "Jan Kysela",
+        "person_id": null,
+        "affiliation": "PF UK"
+      },
+      {
+        "name": "Jan Wintr",
+        "person_id": "psp:person:6081",
+        "affiliation": "PF UK"
+      },
+      {
+        "name": "Radek Vondráček",
+        "person_id": "psp:person:6165",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Marek Benda",
+        "person_id": "psp:person:4",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "PF MU",
+      "PF UK",
+      "SOÚ AV ČR",
+      "Parlamentní institut"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Žádný člověk si nemůže být jist svým životem, majetkem ani svobodou, dokud parlament zasedá.",
+      "type": "paraphrase",
+      "speaker": "Marek Benda",
+      "affiliation": "ODS",
+      "timestamp": "10/03:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3163_highlight_00.jpg",
+      "context": "Jde o parafrázi citátu připisovaného Gideonovi Tremainovi (často citováno v kontextu anglosaského práva). Výrok je nadsázkou vyjadřující skepsi k legislativní aktivitě a není faktickým tvrzením, které by bylo možné ověřit daty."
+    },
+    {
+      "text": "Parlament je jak živý organismus, vždycky si nějakou cestu najde.",
+      "type": "citation",
+      "speaker": "Radek Vondráček",
+      "affiliation": "ANO",
+      "timestamp": "24/07:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3163_highlight_01.jpg",
+      "context": "Metafora popisující parlamentní procesy. Nelze nezávisle ověřit, jde o subjektivní politické hodnocení fungování instituce."
+    },
+    {
+      "text": "Změna jednacího řádu je často jenom lenost.",
+      "type": "paraphrase",
+      "speaker": "Jindřiška Syllová",
+      "affiliation": "Parlamentní institut",
+      "timestamp": "21/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3163_highlight_02.jpg",
+      "context": "Subjektivní názor na motivaci legislativních změn. Nelze nezávisle ověřit, neboť motivace poslanců při úpravách jednacího řádu (zákon č. 90/1995 Sb.) jsou individuální a nekvantifikovatelné."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Radek Vondráček (ANO)\n* **Co:** Navrhl, aby se třetí čtení zákonů konalo bez rozpravy (pouze hlasování).\n* **Proč:** Omezuje prostor pro poslední politickou oponenturu před finálním schválením zákona.\n* **Čas:** 26/02:10",
+      "speaker": "Radek Vondráček",
+      "affiliation": "ANO",
+      "timestamp": "26/02:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3163_controversy_00.jpg",
+      "context": "Jednací řád Poslanecké sněmovny (zákon č. 90/1995 Sb.) v § 95 skutečně umožňuje omezení rozpravy ve třetím čtení. Návrh na zrušení rozpravy je legitimním procedurálním nástrojem, jehož dopad na politickou oponenturu je předmětem politické debaty, nikoliv faktické chyby."
+    },
+    {
+      "statement": "* **Kdo:** Marek Benda (ODS)\n* **Co:** Označil měření důvěry v parlament za „prostý nonsense“.\n* **Proč:** Zpochybňuje legitimitu sociologických výzkumů, které jsou klíčové pro hodnocení stavu demokracie.\n* **Čas:** 10/02:16",
+      "speaker": "Marek Benda",
+      "affiliation": "ODS",
+      "timestamp": "10/02:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3163_controversy_01.jpg",
+      "context": "Důvěra v parlament je pravidelně měřena institucemi jako CVVM (Centrum pro výzkum veřejného mínění) či STEM. Označení těchto výzkumů za „nonsense“ je politickým názorem na metodologii či relevanci sociologických dat, nikoliv faktickým vyvrácením jejich existence."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
