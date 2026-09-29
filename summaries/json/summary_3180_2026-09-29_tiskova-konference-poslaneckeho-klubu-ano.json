@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T19:25:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3180",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-29T13:40",
+    "end_date": "2026-09-29T14:00",
+    "sources": [
+      "final/event_3180_2026-09-29_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5629_video-psp-2026929-1340-43-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána v reakci na opozicí vyvolanou mimořádnou schůzi Poslanecké sněmovny, jejímž cílem je vyslovení nedůvěry vládě. Představitelé hnutí ANO označili toto jednání za předvolební „meeting“ opozice, který nemá šanci na úspěch.\n\nCílem konference bylo prezentovat vládní úspěchy, kritizovat kauzy minulé vlády a obhájit kroky vlády v oblasti energetiky, legislativy a zeštíhlování státní správy.",
+    "main_points": [
+      "**Andrej Babiš (ANO)** — Zdůraznil, že vláda je připravena na schůzi o nedůvěře a vnímá ji jako politický boj. Kritizoval opozici za kauzy spojené s „kampeličkou“ a nakládáním s bitcoiny. [1/00:00]",
+      "**Karel Havlíček (ANO)** — Prezentoval hospodářské výsledky: snížení energetické inflace na 0 %, zrušení „zelené daně“, zavedení nového stavebního zákona a sloučení agentur do CzechBusiness. Plánuje 10% redukci úředníků. [1/04:04]",
+      "**Taťána Malá (ANO)** — Obvinila opozici z porušování dohod ohledně zkrácených lhůt pro projednávání zákonů a uvedla, že spor o „zypování“ pramení z tlaku bank a penzijních společností. [1/10:26]"
+    ],
+    "outcome": "Vláda si je jistá svou stabilitou a počítá s tím, že hlasování o nedůvěře ustojí. Koalice hodlá využít prostor ve Sněmovně k prezentaci svých výsledků a konfrontaci opozice s její minulostí. Panuje konsenzus, že vztahy s opozicí jsou napjaté kvůli nedodržování dohod.",
+    "notes": "Přepis obsahuje občasné technické chyby v přepisu jmen a pojmů, které však nebrání pochopení kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Andrej Babiš",
+        "person_id": "psp:person:6150",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Karel Havlíček",
+        "person_id": "psp:person:6621",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Taťána Malá",
+        "person_id": "psp:person:6468",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "ODS",
+      "TOP 09",
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "CzechBusiness",
+      "OECD"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V roce 2022 už jsme měli přes 40% energetickou inflaci a patřili jsme mezi nejhorší země ze všech států OECD, zatímco nyní máme 0% energetickou inflaci.",
+      "type": "paraphrase",
+      "speaker": "Karel Havlíček",
+      "affiliation": "ANO",
+      "timestamp": "1/04:35",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3180_highlight_00.jpg",
+      "context": "Data Eurostatu potvrzují, že v roce 2022 patřilo Česko k zemím s nejvyšším růstem cen energií v EU/OECD. Tvrzení o aktuální 0% energetické inflaci je zavádějící, neboť podle dat ČSÚ se ceny energií pro domácnosti v roce 2024 meziročně vyvíjely v závislosti na konkrétní komoditě a regulovaných složkách, přičemž celková inflace v energetice není nulová."
+    },
+    {
+      "text": "Bezhlavé škrty my neděláme, my děláme promyšlené škrty a zbavujeme se úředníků, které nepotřebujeme.",
+      "type": "citation",
+      "speaker": "Karel Havlíček",
+      "affiliation": "ANO",
+      "timestamp": "1/15:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3180_highlight_01.jpg",
+      "context": "Tvrzení o „promyšlených škrtech“ je politickým hodnocením, které nelze nezávisle ověřit jako fakt. Počet státních zaměstnanců v ČR dlouhodobě stagnuje nebo mírně roste, přičemž konkrétní dopady redukce úřednických míst jsou předmětem politického sporu mezi vládní koalicí a opozicí."
+    },
+    {
+      "text": "Opozice volala mimořádnou schůzi, aby vyslovila nedůvěru naší vládě. Na vyslovení nedůvěry je potřeba 101 hlasů. Oni mají 92, takže výsledek se dá očekávat.",
+      "type": "citation",
+      "speaker": "Andrej Babiš",
+      "affiliation": "ANO",
+      "timestamp": "1/00:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3180_highlight_02.jpg",
+      "context": "Podle čl. 72 Ústavy ČR je k vyslovení nedůvěry vládě skutečně potřeba nadpoloviční většina všech poslanců, tedy minimálně 101 hlasů. Počet 92 poslanců odpovídá aktuálnímu součtu mandátů hnutí ANO (72) a SPD (20), což potvrzuje matematickou nemožnost prosadit nedůvěru bez podpory dalších subjektů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Karel Havlíček (ANO) obvinil opozici z toho, že v době své vlády „porcovali peníze“ (50 % pro TOP 09, 30 % pro STAN) a že jejich politika byla „jako když si děti hrají na doktory“.",
+      "speaker": "Karel Havlíček",
+      "affiliation": "ANO",
+      "timestamp": "1/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3180_controversy_00.jpg",
+      "context": "Výrok o „porcování peněz“ v poměru 50 % pro TOP 09 a 30 % pro STAN je nepodložené tvrzení. Rozpočtové určení daní a dotace jsou v ČR legislativně ukotveny a rozdělovány na základě zákonných pravidel a schválených rozpočtů, nikoliv na základě stranických kvót."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T19:25:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3181",
+    "name": "Společná tisková konference opozice po odborném kulatém stolu k podpoře v nezaměstnanosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-29T15:15",
+    "end_date": "2026-09-29T15:23",
+    "sources": [
+      "final/event_3181_2026-09-29_spolecna-tiskova-konference-opozice-po-odbornem-ku.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5627_video-psp-2026929-1513-51-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání proběhlo formou společné tiskové konference opozičních stran (Piráti, TOP 09, STAN, KDU-ČSL, ODS) po odborném kulatém stolu věnovaném problematice podpory v nezaměstnanosti. Cílem konference bylo prezentovat jednotný nesouhlas opozice s vládním záměrem zrušit či omezit stávající systém podpory v nezaměstnanosti.\n\nOpoziční představitelé kritizovali vládu za to, že své kroky nekonzultovala s odbornou veřejností, postrádá analytické podklady a ignoruje data, která potvrzují efektivitu současného nastavení systému. Jednání se konalo v den, kdy opozice iniciovala schůzi k vyslovení nedůvěry vládě, přičemž téma podpory v nezaměstnanosti bylo označeno za jeden z klíčových důvodů pro tento krok.",
+    "main_points": [
+      "**Olga Richterová (Piráti)** — Upozornila na absenci konzultací vlády s odborníky. Varovala, že vládní kroky povedou k poklesu reálných mezd a jsou v rozporu s dřívějším rozhodnutím. `[1/02:06]`",
+      "**Pavla Pivoňka Vaňková (STAN)** — Vyzdvihla shodu mezi opozicí, odbory a zaměstnavateli. Označila vládní návrh za nesystémový a nepodložený daty. `[1/02:06]`",
+      "**Zdeňka Blišťanová (TOP 09)** — Zdůraznila liknavost ministerstva při práci s daty a absenci analýzy dopadů. `[1/04:11]`",
+      "**Jiří Havránek (ODS)** — Kritizoval „dojmologii“ premiéra a ministra. Upozornil na nutnost pozitivních kroků pro mobilitu zaměstnanců. `[1/04:11]`",
+      "**Marian Jurečka (KDU-ČSL)** — Uvedl, že data potvrzují správnost předchozí reformy. Varoval před dopady na osoby nad 52 let a rodiče. `[1/06:04]`",
+      "**Ekonomické aspekty** — Podpora je pojistný systém, stát na něm letos vybere cca 32 miliard Kč, přičemž v rozpočtu zůstává přebytek."
+    ],
+    "outcome": "Opoziční strany deklarovaly jednotný postoj proti vládnímu návrhu. Konsenzem je, že vládní postup je nekoncepční, nebezpečný pro trh práce a sociálně necitlivý. Opozice hodlá proti tomuto kroku aktivně vystupovat až do konce roku a využít k tomu i probíhající proces vyslovování nedůvěry vládě.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a useknutá slova. Některé pasáže jsou stylisticky neobratné v důsledku automatického přepisu, avšak hlavní argumentační linie jsou zřetelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Zdeňka Blišťanová",
+        "person_id": "psp:person:6992",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jiří Havránek",
+        "person_id": "psp:person:6755",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "TOP 09",
+      "STAN",
+      "KDU-ČSL",
+      "ODS",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo práce a sociálních věcí",
+      "Svaz průmyslu a dopravy",
+      "Hospodářská komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Odborná veřejnost, odbory i zaměstnavatelské svazy se shodují v tom, že toto opatření je nesystémové, nepodložené daty a že je třeba udělat všechno proti tomu, aby nevstoupilo v platnost.",
+      "type": "paraphrase",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "1/02:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3181_highlight_00.jpg",
+      "context": "Tvrzení o jednotném postoji odborů a zaměstnavatelů je subjektivním politickým hodnocením. Nelze nezávisle ověřit, zda se všechny tyto subjekty shodují na všech bodech, neboť jejich zájmy bývají v legislativním procesu často protichůdné."
+    },
+    {
+      "text": "Na letošní rok vyberou od lidí zhruba 32 miliard korun. Velká částka z těchto peněz v státním rozpočtu zůstává. Minimálně 7 miliard korun zůstane.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3181_highlight_01.jpg",
+      "context": "Údaje o výběru pojistného a zůstatku v rozpočtu se vztahují k hospodaření státu, konkrétní čísla je nutné konfrontovat se závěrečným účtem kapitoly Ministerstva práce a sociálních věcí nebo státním rozpočtem ČR pro daný rok. Nelze nezávisle ověřit bez specifikace konkrétního fondu či odvodové položky, ke které se částky vztahují."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Zrušení/úprava systému podpory v nezaměstnanosti.\n- **Kdo:** Vláda (premiér Andrej Babiš, ministr Aleš Juchelka).\n- **Co:** Změna systému podpory v nezaměstnanosti bez předchozích konzultací a analýz dopadů.\n- **Proč:** Opozice a odborníci to považují za krok proti zaměstnancům, který ignoruje pojistný charakter systému a negativně ovlivní zranitelné skupiny (lidé 52+, rodiče).\n- **Čas:** 1/02:06",
+      "speaker": "Andrej Babiš / Aleš Juchelka",
+      "affiliation": "Vláda ČR",
+      "timestamp": "1/02:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3181_controversy_00.jpg",
+      "context": "Tvrzení obsahuje faktické nepřesnosti v přiřazení rolí (Andrej Babiš nebyl v době návrhu premiérem, Aleš Juchelka nebyl ministrem). Procesní námitky ohledně absence analýz dopadů (RIA) jsou častým předmětem parlamentních sporů, jejich pravdivost závisí na konkrétním legislativním procesu daného zákona."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
