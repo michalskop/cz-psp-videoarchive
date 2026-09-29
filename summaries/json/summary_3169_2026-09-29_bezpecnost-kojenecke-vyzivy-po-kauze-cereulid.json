@@ -1,0 +1,200 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T15:32:27",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3169",
+    "name": "Bezpečnost kojenecké výživy po kauze CEREULID",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-09-29T09:10",
+    "end_date": "2026-09-29T11:34",
+    "sources": [
+      "final/event_3169_2026-09-29_bezpecnost-kojenecke-vyzivy-po-kauze-cereulid.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929091007.mp4",
+        "from_sec": 33
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929092007.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929093007.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929094007.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929095007.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929101007.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929102007.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929103007.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929104007.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929105007.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929110007.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929111007.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929112007.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A22/2026/09/29/_20260929113007.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 14,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na systémové selhání státu a výrobců při řešení kauzy kontaminované kojenecké výživy toxinem Cereulid. Cílem bylo analyzovat nedostatky v komunikaci mezi úřady, výrobci a rodiči, identifikovat mezery v legislativě a představit návrh nového zákona o bezpečnosti kojenecké a dětské výživy.\n\nHlavním motivem byla snaha zajistit, aby se situace, kdy rodiče museli na vlastní pěst zjišťovat zdravotní rizika pro své děti, již neopakovala.",
+    "main_points": [
+      "**Poslankyně (organizátorka)** — Představila návrh zákona o bezpečnosti kojenecké výživy, který zavádí 12hodinovou lhůtu pro varování veřejnosti, povinnou registraci skladů a přísnější sankce. `[1/02:00]`",
+      "**Gabriela Vrábělová (rodič)** — Popsala bagatelizaci problémů ze strany úřadů a lékařů. Stát odmítal testovat vzorky, které v zahraničí potvrdily vysokou toxicitu. `[1/06:00]`",
+      "**Sylvie Komanová (rodič)** — Svědectví o vážných zdravotních komplikacích syna a psychickém dopadu kauzy na rodinu. `[2/08:03]`",
+      "**Václav Kunc (rodič)** — Požadavek na sankce v řádu miliard a okamžité zastavení prodeje při podezření na závadnost. `[4/00:00]`",
+      "**Aneta Majerčíková (IPFAN)** — Kritika nízkých sankcí a nekoordinovanosti úřadů. Navrhuje sankce jako procento z obratu. `[5/08:01]`",
+      "**MUDr. Cabrnochová (praktičtí lékaři)** — Potřeba systémového napojení pediatrů na varovné notifikace. `[6/08:02]`",
+      "**Karla Maříková (MZ)** — Přiznala paralýzu komise pro výživu kojenců a přislíbila konstruktivní jednání o zákoně. `[7/06:16]`",
+      "**Zástupci SZPI a SVS** — Obhajoba stávajícího systému RASFF a upozornění na limity národní legislativy vůči zahraničním výrobcům. `[10/06:00]`"
+    ],
+    "outcome": "Jednání vedlo ke konsenzu o nutnosti legislativních změn. Bude pokračovat debata nad úpravou návrhu zákona, ministerstva připravují memorandum o koordinaci a bude přehodnocena účast rodičů v poradních orgánech.",
+    "notes": "Přepis obsahuje chyby v diakritice a občasné opakující se nesmyslné fráze, které byly ignorovány. Části záznamu jsou místy useknuté."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Poslankyně",
+        "person_id": null,
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Gabriela Vrábělová",
+        "person_id": null,
+        "affiliation": "Rodič"
+      },
+      {
+        "name": "Sylvie Komanová",
+        "person_id": null,
+        "affiliation": "Rodič"
+      },
+      {
+        "name": "Václav Kunc",
+        "person_id": "psp:person:2227",
+        "affiliation": "Rodič"
+      },
+      {
+        "name": "Aneta Majerčíková",
+        "person_id": null,
+        "affiliation": "IPFAN"
+      },
+      {
+        "name": "MUDr. Cabrnochová",
+        "person_id": "psp:person:6299",
+        "affiliation": "Praktičtí lékaři"
+      },
+      {
+        "name": "Karla Maříková",
+        "person_id": "psp:person:6469",
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Petr Čejka",
+        "person_id": null,
+        "affiliation": "SZPI"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Ministerstvo zdravotnictví",
+      "Ministerstvo zemědělství",
+      "SZPI",
+      "SVS",
+      "IPFAN"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Problém není v tom, že někdo porušil pravidla, ale problém je v těch samotných pravidlech.",
+      "type": "citation",
+      "speaker": "Poslankyně",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/03:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3169_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení legislativního rámce, které nelze fakticky ověřit jako pravdivé či nepravdivé. Hodnocení kvality pravidel je věcí politické debaty a legislativního procesu."
+    },
+    {
+      "text": "Jak může test nemít relevantní přidanou hodnotu v okamžiku, kdy o něj žádá rodič, a následně mít dostatečnou hodnotu na to, aby podle jeho výsledku stát potvrdil případ dítěte?",
+      "type": "citation",
+      "speaker": "Gabriela Vrábělová",
+      "affiliation": "Rodič",
+      "timestamp": "2/00:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3169_highlight_01.jpg",
+      "context": "Tvrzení poukazuje na procesní nekonzistenci v posuzování zdravotních či diagnostických testů. Zda má test „relevantní hodnotu“, závisí na metodikách stanovených příslušnými resorty (např. MZ ČR) a jejich právní závaznosti v rámci správního řízení."
+    },
+    {
+      "text": "Nechci, aby příště bezpečnost dítěte závisela na tom, jestli narazíte na aktivního pediatra, správného úředníka nebo novináře.",
+      "type": "citation",
+      "speaker": "Gabriela Vrábělová",
+      "affiliation": "Rodič",
+      "timestamp": "2/03:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3169_highlight_02.jpg",
+      "context": "Jde o vyjádření obavy o systémové selhání státní správy. Nelze nezávisle ověřit, zda bezpečnost dětí závisí na individuální aktivitě úředníků, nicméně jde o častou kritiku byrokratické nepředvídatelnosti v sociální a zdravotní agendě."
+    },
+    {
+      "text": "Obě dvě, jak Nestlé, tak Danone, jsou největší potravinářské společnosti na světě; pro ně 10 milionů není nic.",
+      "type": "citation",
+      "speaker": "Aneta Majerčíková",
+      "affiliation": "IPFAN",
+      "timestamp": "6/05:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3169_highlight_03.jpg",
+      "context": "Dle žebříčků (např. Forbes Global 2000) se společnosti Nestlé a Danone skutečně řadí mezi největší potravinářské firmy světa s tržbami v řádech desítek miliard eur. Tvrzení o tom, že částka 10 milionů Kč je pro tyto korporace zanedbatelná, je ekonomickým odhadem založeným na jejich celkovém obratu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na sankce ve výši 100 milionů Kč nebo procenta z obratu. Poslankyně a rodiče požadují radikální zvýšení pokut, zatímco státní úředníci argumentují nutností přiměřenosti v rámci správního řízení.",
+      "speaker": "Poslankyně a rodiče",
+      "affiliation": null,
+      "timestamp": "11/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3169_controversy_00.jpg",
+      "context": "Výše pokut ve správním řízení se řídí zákonem č. 250/2016 Sb., o odpovědnosti za přestupky. Argumentace „přiměřeností“ je standardním právním principem, zatímco požadavek na zvýšení sankcí na 100 milionů Kč či procenta z obratu je politickým návrhem na změnu legislativy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

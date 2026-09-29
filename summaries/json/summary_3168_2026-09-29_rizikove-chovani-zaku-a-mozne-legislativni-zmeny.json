@@ -1,0 +1,224 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T15:38:11",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3168",
+    "name": "Rizikové chování žáků a možné legislativní změny",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-09-29T09:02",
+    "end_date": "2026-09-29T12:03",
+    "sources": [
+      "final/event_3168_2026-09-29_rizikove-chovani-zaku-a-mozne-legislativni-zmeny.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929090003.mp4",
+        "from_sec": 122
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929090008.mp4",
+        "from_sec": 117
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929091007.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929092007.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929092202.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929093008.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929094008.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929095008.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929100008.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929102008.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929103008.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929104008.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929105008.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929110008.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929111008.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929112008.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929113008.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929114008.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929115008.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/09/29/_20260929120008.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 20,
+    "parts_total": 21,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se zaměřilo na narůstající problém rizikového chování žáků v českých školách, který se projevuje verbální i fyzickou agresí vůči pedagogům a spolužákům. Cílem kulatého stolu bylo pojmenovat systémové nedostatky, diskutovat o možnostech posílení právní ochrany pedagogů a hledat cesty k efektivnější spolupráci mezi školami, orgány sociálně-právní ochrany dětí (OSPOD), policií a zákonnými zástupci.\n\nSeminář reagoval na podněty z terénu, kde ředitelé škol často narážejí na legislativní limity a nedostatečnou součinnost rodin, což vede k pocitu systémové bezmoci. Diskuse se dotkla i otázek rodičovské odpovědnosti a případných legislativních úprav, které by školám poskytly účinnější nástroje pro zajištění bezpečného prostředí.",
+    "main_points": [
+      "**Neidentifikovaný řečník (poslanec)** — Inicioval debatu o legislativních změnách a ochraně pedagogů. `[2/04:03]`",
+      "**Marta Jeřábková (MŠMT)** — Upozornila na nárůst agresivity a problém „náročných rodičů“. `[3/02:05]`",
+      "**Jolana Vaničková (ZŠ Nečín)** — Popsala případ fyzického napadení učitelů a kritizovala neprovázanost institucí. `[4/00:00]`",
+      "**Zuzana Ágová a Ladislav Vondruška (OSPOD Nymburk)** — Prezentovali proaktivní model spolupráce a případové konference. `[7/08:07]`",
+      "**Nina Hrušková-Dykojová (Policie ČR)** — Představila projekt „Guardian“ propojující školy s policií. `[10/00:00]`",
+      "**Tereza Polesná (SVP Slaný)** — Varovala před manipulativními rodiči z vyšších sociálních vrstev. `[10/02:05]`",
+      "**Lenka Hečková (Society for All)** — Kritizovala dočasné vylučování žáků jako neúčinné řešení. `[10/06:09]`",
+      "**Michal Bánovec (MŠMT)** — Srovnal zahraniční přístupy a zdůraznil nutnost prevence. `[13/04:25]`",
+      "**Michal Černý (MŠMT)** — Uvedl, že ministerstvo zvažuje varianty řešení, ale zatím nemá hotový návrh. `[15/02:00]`",
+      "**Michal Franik (Ministerstvo spravedlnosti)** — Vyjádřil otevřenost k diskusi o ochraně učitelů, ale varoval před automatismy. `[17/04:05]`"
+    ],
+    "outcome": "Jednání nevedlo k okamžitému legislativnímu rozhodnutí, ale vytvořilo shodu na nutnosti meziresortní spolupráce. Účastníci se shodli na potřebě sjednotit metodické postupy OSPODů napříč kraji a posílit roli sociálních pedagogů.",
+    "notes": "Přepis obsahuje tiché pasáže v úvodu a občasné technické chyby. Části přepisu od 12/04:15 do 13/02:00 jsou nesrozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Marta Jeřábková",
+        "person_id": null,
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Jolana Vaničková",
+        "person_id": "psp:person:1988",
+        "affiliation": "ZŠ Nečín"
+      },
+      {
+        "name": "Zuzana Ágová",
+        "person_id": "psp:person:6288",
+        "affiliation": "OSPOD Nymburk"
+      },
+      {
+        "name": "Ladislav Vondruška",
+        "person_id": null,
+        "affiliation": "OSPOD Nymburk"
+      },
+      {
+        "name": "Nina Hrušková-Dykojová",
+        "person_id": null,
+        "affiliation": "Policie ČR"
+      },
+      {
+        "name": "Tereza Polesná",
+        "person_id": null,
+        "affiliation": "SVP Slaný"
+      },
+      {
+        "name": "Lenka Hečková",
+        "person_id": null,
+        "affiliation": "Society for All"
+      },
+      {
+        "name": "Michal Bánovec",
+        "person_id": "psp:person:6038",
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Michal Černý",
+        "person_id": null,
+        "affiliation": "MŠMT"
+      },
+      {
+        "name": "Michal Franik",
+        "person_id": "psp:person:260",
+        "affiliation": "Ministerstvo spravedlnosti"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "MŠMT",
+      "Ministerstvo spravedlnosti",
+      "Policie ČR",
+      "OSPOD"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Každý školní den evidujeme v průměru 8 až 10 incidentů spáchaných dětmi a mladistvími, které vyžadují zásah.",
+      "type": "paraphrase",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "3/07:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3168_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Policejní statistiky (PČR) sice evidují kriminalitu mladistvých, ale neexistuje centrální veřejný registr všech „incidentů“ ve školách, které vyžadují zásah, neboť metodika hlášení se liší podle typu události a školy."
+    },
+    {
+      "text": "Škola jako instituce se nabízí jako cíl dehonestace a vyhrožování, přičemž rodiče mají v digitálním světě výbornou inspiraci, jak na pedagogy tlačit.",
+      "type": "paraphrase",
+      "speaker": "Jana Jiřábková",
+      "affiliation": "MŠMT",
+      "timestamp": "19/04:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3168_highlight_01.jpg",
+      "context": "Jde o subjektivní hodnocení společenského trendu. Nárůst kyberšikany a tlaku rodičů na pedagogy potvrzují zprávy České školní inspekce (ČŠI) i profesní organizace jako Učitelská platforma, které upozorňují na zhoršující se klima ve školách vlivem digitální komunikace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh na zákonnou možnost dočasně vyloučit agresivního žáka z výuky. Je to kontroverzní kvůli střetu s ústavním právem na vzdělání a obavám z „odkládání“ problémových dětí bez řešení.",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "16/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3168_controversy_00.jpg",
+      "context": "Návrh naráží na čl. 33 Listiny základních práv a svobod, který zaručuje právo na vzdělání. Legislativní proces v této věci je předmětem odborné debaty, přičemž odpůrci varují před porušením inkluzivních principů školského zákona (č. 561/2004 Sb.) a rizikem sociální exkluze žáků."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

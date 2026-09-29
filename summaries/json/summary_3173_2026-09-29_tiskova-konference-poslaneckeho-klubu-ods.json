@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T15:41:36",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3173",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-29T11:40",
+    "end_date": "2026-09-29T11:59",
+    "sources": [
+      "final/event_3173_2026-09-29_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5620_video-psp-2026929-1140-4-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS byla svolána v souvislosti s podáním návrhu na vyslovení nedůvěry vládě Andreje Babiše. Cílem vystoupení bylo představit hlavní argumenty opozice a zdůraznit, že se nejedná o politické divadlo, ale o reakci na vážné systémové problémy vládnutí.\n\nPředstavitelé ODS definovali tři hlavní pilíře kritiky: nezodpovědnou rozpočtovou politiku, nevyřešený střet zájmů premiéra a útoky vlády na demokratické instituce.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizuje „rozpočtový armagedon“ a útoky na nezávislé instituce. Požaduje důkazy pro premiérova tvrzení o justici, jinak rezignaci. `[1/02:04]`",
+      "**Eva de Croix (ODS)** — Střet zájmů vnímá jako ohrožení právního státu. Upozorňuje na nečinnost státu při vymáhání dotací Agrofertu a riziko promlčení nároků. `[1/04:04]`",
+      "**Vojtěch Munzar (ODS)** — Označil deficit 386 miliard Kč za „rozpočtové peklo“. Upozornil na porušování vládních slibů a nebezpečí dluhové spirály. `[1/10:02]`",
+      "**Marek Benda (ODS)** — Procedurální kritika vládní strategie v Poslanecké sněmovně; očekává dlouhé jednání přesahující jeden den. `[1/14:02]`"
+    ],
+    "outcome": "Opozice zahájila proces vyslovení nedůvěry vládě. Neplánuje zákulisní vyjednávání, ale hodlá využít parlamentní rozpravu k podrobné kritice vládních resortů. Jednání bude pokračovat minimálně do druhého dne.",
+    "notes": "Přepis obsahuje drobné chyby ve jménech a občasné halucinace, které byly pro účely shrnutí opraveny."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Eva de Croix",
+        "person_id": "psp:person:6727",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Marek Benda",
+        "person_id": "psp:person:4",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Státní zemědělský a intervenční fond",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Rozpočet, na který se mohli už rok připravovat, je rozpočtovým peklem; 386 miliard navrženého deficitu je druhý nejvyšší schodek v historii České republiky.",
+      "type": "paraphrase",
+      "speaker": "Vojtěch Munzar",
+      "affiliation": "ODS",
+      "timestamp": "1/11:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3173_highlight_00.jpg",
+      "context": "Návrh deficitu státního rozpočtu na rok 2025 ve výši 241 miliard Kč (vládní návrh) se liší od tvrzených 386 miliard, což byla hodnota schodku v roce 2023. Historicky nejvyšší schodek ČR byl v roce 2021 (419,7 mld. Kč), následovaný rokem 2020 (367,4 mld. Kč) a 2023 (288,5 mld. Kč po revizi ČSÚ). Tvrzení o 386 miliardách jako druhém nejvyšším schodku je fakticky nepřesné vzhledem k aktuálním datům MF ČR a ČSÚ."
+    },
+    {
+      "text": "Střet zájmu není jenom o dotacích, není jenom o Andreji Babišovi a Agrofertu, střet zájmu je otázka právního státu.",
+      "type": "citation",
+      "speaker": "Eva de Croix",
+      "affiliation": "ODS",
+      "timestamp": "1/04:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3173_highlight_01.jpg",
+      "context": "Střet zájmů je právní pojem definovaný v zákoně č. 159/2006 Sb. (o střetu zájmů). Výrok o tom, že jde o otázku právního státu, je politickým hodnocením a interpretací principů demokratického zřízení, nikoliv ověřitelným faktickým údajem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** Výzva Andreji Babišovi, aby buď předložil důkazy o „kupování trestních stíhání“, nebo rezignoval.\n**Proč:** Jde o přímé zpochybnění integrity justice a právního státu ze strany premiéra, což je politicky vysoce citlivé téma.\n**Čas:** 1/02:04",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3173_controversy_00.jpg",
+      "context": "Výrok je politickou výzvou založenou na interpretaci výroků Andreje Babiše o „kupování trestních stíhání“. Zda Andrej Babiš taková tvrzení pronesl a zda existují důkazy pro jeho obvinění, je předmětem politické debaty; samotná existence důkazů či jejich absence je v rovině politického sporu, nikoliv nezávisle ověřitelného faktu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

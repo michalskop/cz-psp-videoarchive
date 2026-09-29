@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T15:39:21",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3177",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-29T12:42",
+    "end_date": "2026-09-29T13:01",
+    "sources": [
+      "final/event_3177_2026-09-29_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5624_video-psp-2026929-1242-52-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána v souvislosti s projednáváním vyslovení nedůvěry vládě Andreje Babiše v Poslanecké sněmovně. Zástupci Pirátů prezentovali důvody, proč jejich klub podpořil vyvolání této schůze a proč hodlají hlasovat pro pád vlády.\n\nHlavním cílem bylo kritizovat vládní politiku, kterou řečníci označili za „rozpočtový a společenský horor“. Piráti vládě vyčítají zejména neudržitelné zadlužování státu, nečinnost v energetické krizi, střet zájmů premiéra Babiše a zhoršování životní úrovně občanů skrze nekoncepční kroky v oblasti bydlení, školství a sociální politiky.",
+    "main_points": [
+      "**Zdeněk Hřib (předseda Pirátů)** — Kritizoval rekordní schodek státního rozpočtu (386 miliard Kč). Upozornil na přímou souvislost mezi státním dluhem a růstem úrokových sazeb u hypoték. V energetice vládě vytkl nečinnost a závislost na dluhově financovaných opatřeních. Označil premiéra za „dotačního feťáka“ a vyzval k vrácení 7,5 miliardy Kč neoprávněně vyplacených dotací. `[1/00:45]`",
+      "**Olga Richterová (předsedkyně klubu Pirátů)** — Zaměřila se na sociální dopady. Kritizovala záměr snížit podporu v nezaměstnanosti, rušení protikorupčních pojistek (služební a nominační zákon) a „vykostění“ zákona o podpoře bydlení. Zmínila kauzy „papalášství“ a nepřiznaných bytů u členů hnutí ANO. `[1/06:20]`",
+      "**Katřina Stojanová (místopředsedkyně Pirátů)** — Zdůraznila krizi dostupnosti bydlení („best in housing crisis“). Kritizovala nezájem vlády o klimatickou krizi, duševní zdraví mladé generace a škrty v rozpočtu ministerstva školství. Oznámila, že Piráti analyzují podklady k případu „zakleknutí“ na firmu FAU a zvažují podání trestního oznámení. `[1/12:16]`"
+    ],
+    "outcome": "Piráti potvrdili své odhodlání hlasovat pro vyslovení nedůvěry vládě. Vyjádřili nespokojenost s postupem vládní koalice, která podle nich jednostranně zrušila dohodu o pořadí řečníků na plénu sněmovny. Piráti vyzvali ostatní opoziční strany a poslance vládních stran, aby se k návrhu na nedůvěru připojili.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se nesmyslné fráze a chybějící diakritiku. Části textu jsou fragmentované, nicméně hlavní argumentační linie jsou zřetelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Katřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO",
+      "Motoristé sobě"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "Agrofert",
+      "FAU"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Babišova vláda udělá druhý největší schodek v dějinách samostatné České republiky, což je rozpočtový horor.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3177_highlight_00.jpg",
+      "context": "Státní rozpočet za rok 2021 (vláda Andreje Babiše) skončil se schodkem 419,7 miliardy Kč, což byl v té době historicky nejvyšší deficit. V kontextu historie ČR jde o druhý nejvyšší schodek po roce 2020 (569,1 mld. Kč), který byl ovlivněn pandemií covid-19."
+    },
+    {
+      "text": "Andrej Babiš je v podstatě takový dotační feťák, protože je závislý na tom, aby ty dotace dostal.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:27",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3177_highlight_01.jpg",
+      "context": "Jde o hodnotící politickou metaforu, nikoliv o faktické tvrzení, které lze objektivně ověřit. Holding Agrofert, spojený s Andrejem Babišem, je dlouhodobým příjemcem významných objemů národních i evropských dotací, což je doložitelné z registrů dotací (např. CEDR MF ČR)."
+    },
+    {
+      "text": "Ve srovnání s ostatními evropskými zeměmi jsme 'best in housing crisis', což je vzkaz mé generaci, že nebudou mít střechu nad hlavou.",
+      "type": "citation",
+      "speaker": "Katřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/12:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3177_highlight_02.jpg",
+      "context": "Česká republika dlouhodobě vykazuje jednu z nejnižších dostupností bydlení v EU, což potvrzují data Eurostatu i indexy dostupnosti bydlení (např. Deloitte Property Index). Tvrzení o „best in housing crisis“ je nadsázkou reflektující vysoký poměr cen nemovitostí vůči příjmům obyvatel."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Katřina Stojanová (Piráti)\n**Co:** Oznámení, že Piráti analyzují podklady k případu firmy FAU a zvažují podání trestního oznámení na premiéra Babiše kvůli možnému zneužití státní moci proti konkurenční firmě.\n**Proč:** Jde o přímé obvinění premiéra z trestné činnosti a zneužívání státních institucí k likvidaci obchodní konkurence holdingu Agrofert.",
+      "speaker": "Katřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/14:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3177_controversy_00.jpg",
+      "context": "Kauza FAU se týká zajišťovacích příkazů Finanční správy z roku 2016, které vedly k úpadku firmy. V roce 2020 Nejvyšší správní soud pravomocně rozhodl, že zajišťovací příkazy byly nezákonné; otázka politického ovlivňování premiérem zůstává předmětem politických debat a vyšetřování, nikoliv soudně prokázaným faktem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T15:41:02",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3172",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-29T12:00",
+    "end_date": "2026-09-29T12:20",
+    "sources": [
+      "final/event_3172_2026-09-29_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5619_video-psp-2026929-120-1-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem rekapitulace prvních devíti měsíců působení vlády vedené hnutím SPD. Předseda hnutí Tomio Okamura a poslanec Radek Koten prezentovali dosažené legislativní úspěchy, ekonomické ukazatele a kroky v oblasti bezpečnosti a migrační politiky.\n\nCílem vystoupení bylo obhájit vládní kroky, zdůraznit odklon od politiky předchozí „Fialovy vlády“ a představit budoucí priority, jako je stabilizace rozpočtu, podpora rodin a zpřísnění pravidel pro cizince.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prezentoval ekonomické výsledky: pokles cen elektřiny o 11 %, plynu o 5 % a potravin (máslo -42 %). Uvedl inflaci pod 2 %. Zmínil sociální opatření: zvýšení platů o 9 %, navýšení rodičovského příspěvku na 400 000 Kč a daňové slevy. Oznámil legislativní změny v oblasti trestního práva a odmítnutí migračního paktu EU. `[1/00:00]`",
+      "**Radek Koten (SPD)** — Představil nový cizinecký zákon (digitalizace, povinná registrace občanů EU) a zpřísnění podmínek pro ukrajinské uprchlíky (podmínka fyzického pobytu a ekonomické aktivity). Oznámil konec výjimek pro ukrajinská vozidla (povinné STK a emise v ČR, možnost kaucí 10–30 tisíc Kč). `[1/14:04]`"
+    ],
+    "outcome": "Jednání bylo prezentací vládních úspěchů. Nebylo předmětem hlasování, šlo o informativní vystoupení. Dominujícím postojem je odmítnutí kritiky ze strany opozice a potvrzení pokračování v nastaveném kurzu, včetně plánovaného snížení věku odchodu do důchodu na 65 let a zrušení poplatků za veřejnoprávní média.",
+    "notes": "Přepis obsahuje několik nesrozumitelných pasáží (zejména v časech `04:02`, `10:05` a `14:04`), kde se text opakuje nebo je fragmentovaný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radek Koten",
+        "person_id": "psp:person:6508",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "ČSSU",
+      "EU"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokles ceny elektřiny je o 11 % ve srovnání se stejným obdobím loňského roku, kdy ještě vládla bývalá Fialova vláda.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3172_highlight_00.jpg",
+      "context": "Tvrzení je zavádějící. Fialova vláda je stále u moci, nejde tedy o „bývalou vládu“. Vývoj cen elektřiny pro domácnosti je navíc ovlivněn tržními cenami na burze a regulovanou složkou ceny, kterou stanovuje Energetický regulační úřad (ERÚ), nikoliv pouze vládní politika."
+    },
+    {
+      "text": "Zvýšili jsme platy ve veřejném sektoru až o 9 % v letošním roce a budeme tímto způsobem zvyšovat i v příštím roce.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/01:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3172_highlight_01.jpg",
+      "context": "Tvrzení je nepravdivé. Vláda v roce 2024 plošně platy ve veřejném sektoru nezvýšila o 9 %; u některých nepedagogických pracovníků a státních zaměstnanců došlo naopak k jejich zmrazení či poklesu reálné hodnoty vlivem inflace. O plošném 9% růstu pro příští rok nebylo v době výroku rozhodnuto."
+    },
+    {
+      "text": "Ukrajinská auta budou muset povinně procházet pravidelnými technickými prohlídkami a měřením emisí na českých stanicích STK.",
+      "type": "citation",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/19:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3172_highlight_02.jpg",
+      "context": "Ministerstvo dopravy ČR skutečně připravuje legislativní změny (novela zákona č. 56/2001 Sb.), které mají zavést povinnou registraci vozidel cizinců s dlouhodobým pobytem v ČR do registru silničních vozidel, což by následně znamenalo povinnost absolvovat technické prohlídky v ČR."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Odstranění ukrajinské vlajky ze Sněmovny a odmítnutí sjezdu sudetoněmeckého Landsmannschaftu. Jde o silně symbolické kroky, které polarizují společnost a mění dosavadní diplomatický a politický konsenzus v ČR.",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/12:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3172_controversy_00.jpg",
+      "context": "Odstranění vlajky je politickým aktem, nikoliv zákonnou změnou. K účasti na sjezdu sudetoněmeckého Landsmannschaftu neexistuje v ČR právní zákaz, jde o rozhodnutí jednotlivých politiků, které se historicky liší napříč politickým spektrem."
+    },
+    {
+      "statement": "Zavedení kaucí 10–30 tisíc Kč pro řidiče ukrajinských vozidel a možnost zabavení registračních značek či odtahu vozidla. Opatření cílené na konkrétní skupinu cizinců, které může být vnímáno jako diskriminační.",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/18:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3172_controversy_01.jpg",
+      "context": "Návrh na kauce pro ukrajinské řidiče není součástí platné legislativy. Zavedení opatření cílených výhradně na jednu národnostní skupinu by pravděpodobně bylo v rozporu s antidiskriminačním zákonem (zákon č. 198/2009 Sb.) a pravidly EU o volném pohybu a rovnosti zacházení."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-29T15:39:44",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3176",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-09-29T12:21",
+    "end_date": "2026-09-29T12:41",
+    "sources": [
+      "final/event_3176_2026-09-29_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5623_video-psp-2026929-1221-30-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu TOP 09 byla svolána v souvislosti s vyvoláním hlasování o nedůvěře vládě Andreje Babiše. Hlavním cílem vystoupení bylo představit důvody tohoto kroku, mezi které patří zejména střet zájmů premiéra, rekordní zadlužování státu, neuspokojivá bezpečnostní a zahraniční politika a selhání v oblasti podpory vysokého školství a obnovy regionů po povodních.\n\nZástupci TOP 09 kritizovali vládní koalici za nedodržování dohod v Poslanecké sněmovně a za to, že vládní politika je v přímém rozporu s předvolebními sliby. Konference sloužila také jako výzva pro koaliční poslance (zejména hnutí Motoristé), aby při hlasování o nedůvěře zohlednili své původní programové priority a odpovědnost vůči občanům.",
+    "main_points": [
+      "**Matěj Ondřej Hovl (TOP 09)** — Argumentoval střetem zájmů premiéra Babiše a rozpory mezi jeho sliby a realitou. Kritizoval rekordní schodek státního rozpočtu (téměř 400 mld. Kč), přirovnávaje jej k havárii v Černobylu. Upozornil na nedostatek financí pro vysoké školy, což ohrozí přijetí 9–10 tisíc maturantů. `[1/00:20]`",
+      "**Michal Zuna (TOP 09)** — Zaměřil se na selhání v zahraniční a obranné politice. Kritizoval neplnění závazku 2 % HDP na obranu (aktuálně 1,8 %) a odmítání pomoci Ukrajině či připojení se k iniciativám spojenců (např. jaderný deštník). `[1/07:15]`",
+      "**Zdenice Blišťanová (TOP 09)** — Jako starostka Jeseníku kritizovala pomalou a nedostatečnou pomoc státu při obnově regionu po povodních. Uvedla, že město musí projekty předfinancovávat, protože státní peníze nepřicházejí včas, což brzdí obnovu infrastruktury. `[1/10:14]`",
+      "**Jan Jakub (TOP 09)** — Informoval o porušení dohod na grémiu Poslanecké sněmovny ze strany vládní koalice. Uvedl, že opozice opustila jednání, protože dohody o projednávání zákonů nejsou dodržovány. `[1/14:17]`"
+    ],
+    "outcome": "Jednání nevedlo k žádnému formálnímu rozhodnutí, neboť šlo o tiskovou konferenci opozičního klubu. Dominujícím postojem TOP 09 je pevné odhodlání hlasovat pro nedůvěru vládě a pokračovat v ostré opoziční politice. Opozice se shodla na společném postupu při svolání schůze o nedůvěře.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Matěj Ondřej Hovl“ pravděpodobně odkazuje na Matěje Ondřeje Havla, „Zulun“ na ministra obrany, „Jan Jakub“ na Jana Jakuba). Text je místy nesrozumitelný kvůli výpadkům v automatickém přepisu, zejména v pasážích o dohodách na grémiu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Hovl",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Michal Zuna",
+        "person_id": "psp:person:6796",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Zdenice Blišťanová",
+        "person_id": null,
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakub",
+        "person_id": "psp:person:6459",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ANO",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská komise",
+      "NATO"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Andrej Babiš vás všechny, nás všechny obelhal ve svém videu, kde sám sebe dojímal k slzám, jak se musí zbavit Agrofertu.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Hovl",
+      "affiliation": "TOP 09",
+      "timestamp": "1/00:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3176_highlight_00.jpg",
+      "context": "Andrej Babiš v roce 2017 vložil akcie svých firem do svěřenských fondů v souladu se zákonem o střetu zájmů (č. 159/2006 Sb.). Kritici dlouhodobě namítají, že si nad majetkem udržel faktický vliv, což bylo předmětem auditů Evropské komise, které konstatovaly střet zájmů."
+    },
+    {
+      "text": "Meziročně nám kapitola vysokých škol klesá skoro o 300 milionů korun v návrhu rozpočtu, což jde tedy proti sobě.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Hovl",
+      "affiliation": "TOP 09",
+      "timestamp": "1/04:23",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3176_highlight_01.jpg",
+      "context": "Návrh rozpočtu kapitoly MŠMT na vysoké školství podléhá každoročním úpravám v rámci projednávání zákona o státním rozpočtu. Konkrétní meziroční srovnání závisí na započtení investičních výdajů a prostředků z fondů EU, které mohou meziročně kolísat."
+    },
+    {
+      "text": "Dle dat NATO budeme v letošním roce plnit závazek výdajů na obranu pouze 1,8 % HDP.",
+      "type": "paraphrase",
+      "speaker": "Michal Zuna",
+      "affiliation": "TOP 09",
+      "timestamp": "1/07:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3176_highlight_02.jpg",
+      "context": "Podle aktuálních odhadů NATO a Ministerstva obrany ČR se výdaje na obranu pro rok 2024 pohybují kolem 2 % HDP, což je zákonný cíl stanovený zákonem č. 214/2023 Sb. Tvrzení o 1,8 % neodpovídá oficiálním predikcím pro rok 2024, které počítají s dosažením hranice 2 %."
+    },
+    {
+      "text": "Na desítky milionů korun na obnovu po povodních čekáme tři, někdy i čtyři měsíce.",
+      "type": "citation",
+      "speaker": "Zdenice Blišťanová",
+      "affiliation": "TOP 09",
+      "timestamp": "1/12:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3176_highlight_03.jpg",
+      "context": "Rychlost vyplácení dotací na obnovu po živelních pohromách závisí na administrativní náročnosti žádostí podávaných k Ministerstvu pro místní rozvoj či Ministerstvu financí. Konkrétní délka řízení se liší případ od případu a nelze ji paušálně ověřit bez znalosti konkrétních spisů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Matěj Ondřej Hovl (TOP 09)\n**Co:** Označil poslance hnutí Motoristé za „onuce Andreje Babiše“, kteří nemají vlastní politiku a zaprodali se.\n**Proč:** Jde o silný politický útok na koaličního partnera vládního hnutí, který má vyvolat pochybnosti o jejich integritě a motivovat je k hlasování proti vládě.\n**Čas:** 1/16:01",
+      "speaker": "Matěj Ondřej Hovl",
+      "affiliation": "TOP 09",
+      "timestamp": "1/16:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3176_controversy_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, nikoliv o faktické tvrzení, které by bylo možné objektivně verifikovat či vyvrátit pomocí dat."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
