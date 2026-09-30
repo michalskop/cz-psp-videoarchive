@@ -1,0 +1,199 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-30T19:13:09",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3175",
+    "name": "Spotřební zdanění alkoholu: cesta k efektivnímu a udržitelnému systému",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-09-30",
+    "end_date": "2026-09-30",
+    "sources": [
+      "final/event_3175_2026-09-30_spotrebni-zdaneni-alkoholu-cesta-k-efektivnimu-a-u.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930140002.mp4",
+        "from_sec": 68
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930141002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930142002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930143002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930144002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930145002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930150002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930151002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930152002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930153002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930154002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930155002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930160002.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 13,
+    "parts_total": 13,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání kulatého stolu se zaměřilo na problematiku spotřebního zdanění alkoholických nápojů v České republice. Hlavním cílem bylo diskutovat o efektivitě současného daňového systému, který je vnímán jako nesystémový a nekonzistentní, a hledat cesty k jeho udržitelnosti a spravedlivějšímu nastavení. Diskuse se točila kolem otázky, zda by mělo být zdanění sjednoceno na základě obsahu etanolu v nápoji, a jaký dopad by měly různé scénáře daňových reforem na státní rozpočet, zaměstnanost v oboru a veřejné zdraví.\n\nJednání reflektovalo potřebu propojit ekonomické zájmy státu (výběr daní) s odbornými poznatky z oblasti adiktologie a zdravotnictví. Účastníci se shodli, že současný systém, kdy jsou lihoviny zdaněny výrazně více než pivo a tiché víno (které je od spotřební daně osvobozeno), vytváří prostor pro substituci spotřeby, přeshraniční nákupy a podporuje černý trh.",
+    "main_points": [
+      "**Neidentifikovaný řečník (předsedající)** — Otevřel debatu s důrazem na potřebu předvídatelného daňového rámce. `[1/01:08]`",
+      "**Goran Serdarhevič (Frontier Economics)** — Prezentoval studii ekonomické stopy alkoholového průmyslu a navrhl scénáře reformy od fiskální po sjednocení daní dle etanolu. `[2/00:00]`",
+      "**Pavel Dvořáček (Unie výrobců a dovozců lihovin)** — Argumentoval, že zdanění lihovin je na hranici Lafferovy křivky a upozornil na nárůst černého trhu. `[4/02:11]`",
+      "**Zástupce Ministerstva financí (p. Kouba)** — Zpochybnil metodiku studie v oblasti zaměstnanosti a upozornil na právní složitost harmonizace daní v EU. `[5/02:06]`",
+      "**Zástupce Ministerstva zemědělství (p. Štěpánek)** — Podpořil zachování přidané hodnoty v ČR a varoval před dopady na zemědělské subjekty. `[6/00:00]`",
+      "**Petr Milas (Potravinářská komora)** — Zdůraznil potřebu dat z černé zóny a propojení daňových údajů se zdravotními statistikami. `[6/04:03]`",
+      "**Pavel Miller (Celní správa)** — Uvedl data o záchytech nelegálního alkoholu a potvrdil nárůst přeshraničních transportů. `[6/08:08]`",
+      "**Josef Šedivý (Sananim)** — Uvedl, že z pohledu adiktologie jsou rozdíly mezi typy alkoholu z hlediska závislosti irelevantní. `[7/02:02]`",
+      "**Kateřina Horáčková a Matyáš Lucký (Ministerstvo zdravotnictví)** — Upozornili na 7 000 úmrtí ročně v souvislosti s alkoholem a podpořili zdanění dle obsahu etanolu. `[7/06:11]`",
+      "**Daniel Prokop (Sociolog/Nerv)** — Doporučil efektivní zdanění piva a vína na úrovni 60 % sazby lihovin. `[8/00:00]`"
+    ],
+    "outcome": "Jednání nevedlo k formálnímu hlasování, ale potvrdilo dominující postoj, že současný systém zdanění alkoholu je suboptimální a vyžaduje reformu. Panovala shoda na nutnosti pracovat s kvalitnějšími daty a na tom, že debata o daních musí být propojena s debatou o zdravotních dopadech a prevenci. Ministerstvo financí přislíbilo další odbornou diskusi, přičemž zaznělo, že politické rozhodnutí o sazbách by mělo ideálně padnout v příštím roce.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené automatickým přepisem (chybějící diakritika, useknutá slova). Části 10–13 obsahují opakující se nesmyslné fráze, které byly ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Goran Serdarhevič",
+        "person_id": null,
+        "affiliation": "Frontier Economics"
+      },
+      {
+        "name": "Pavel Dvořáček",
+        "person_id": "psp:person:5546",
+        "affiliation": "Unie výrobců a dovozců lihovin"
+      },
+      {
+        "name": "p. Kouba",
+        "person_id": null,
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "p. Štěpánek",
+        "person_id": "psp:person:3998",
+        "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "Petr Milas",
+        "person_id": null,
+        "affiliation": "Potravinářská komora"
+      },
+      {
+        "name": "Pavel Miller",
+        "person_id": null,
+        "affiliation": "Celní správa"
+      },
+      {
+        "name": "Josef Šedivý",
+        "person_id": "psp:person:3647",
+        "affiliation": "Sananim"
+      },
+      {
+        "name": "Kateřina Horáčková",
+        "person_id": null,
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Matyáš Lucký",
+        "person_id": null,
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Daniel Prokop",
+        "person_id": null,
+        "affiliation": "Nerv"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Ministerstvo financí",
+      "Ministerstvo zemědělství",
+      "Ministerstvo zdravotnictví",
+      "Celní správa",
+      "Potravinářská komora"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Alkohol je jen jeden a doufáme, že už jsou vyvrácené ty mýty o tom, že jedna sklenička denně je zdraví prospěšná.",
+      "type": "citation",
+      "speaker": "Kateřina Horáčková",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "7/09:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3175_highlight_00.jpg",
+      "context": "Světová zdravotnická organizace (WHO) v roce 2023 skutečně vydala prohlášení, že žádná úroveň konzumace alkoholu není pro lidské zdraví bezpečná. Dřívější studie naznačující benefity mírné konzumace jsou dnes odbornou veřejností zpochybňovány kvůli metodologickým chybám a vlivu dalších faktorů."
+    },
+    {
+      "text": "Za tu hodinu, co jsme si tady povídali, v průměru zemřel jeden člověk kvůli alkoholu a když skončíme, zemře další.",
+      "type": "citation",
+      "speaker": "Matyáš Teodor Lucký",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "7/08:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3175_highlight_01.jpg",
+      "context": "Dle dat Státního zdravotního ústavu (SZÚ) a Národního monitorovacího střediska pro drogy a závislosti je alkohol v ČR spojován s přibližně 6 000 až 7 000 úmrtími ročně. Statisticky to odpovídá zhruba 16–19 úmrtím denně, což potvrzuje řádovou správnost tvrzení o úmrtí v řádu desítek minut."
+    },
+    {
+      "text": "Zvýšení daně u lihovin v roce 2023 nepřineslo očekávané příjmy, ale naopak vedlo k propadu výběru o 3 miliardy korun.",
+      "type": "paraphrase",
+      "speaker": "Goran Serdarhevič",
+      "affiliation": "Frontier Economics",
+      "timestamp": "3/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3175_highlight_02.jpg",
+      "context": "Podle dat Ministerstva financí ČR a Celní správy výběr spotřební daně z lihu v roce 2023 skutečně zaostal za očekáváním a meziročně klesl. Interpretace, že za propad může výhradně zvýšení sazby, je však předmětem odborné debaty, neboť roli hraje i předzásobení obchodníků v roce 2022 a změny v chování spotřebitelů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zavedení spotřební daně na tiché víno. Je to politicky extrémně citlivé téma kvůli vinařské lobby, kulturní tradici a obavám z likvidace malých vinařů.",
+      "speaker": "Daniel Prokop",
+      "affiliation": "Nerv",
+      "timestamp": "8/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3175_controversy_00.jpg",
+      "context": "Tiché víno je v ČR aktuálně osvobozeno od spotřební daně, což je v rámci EU unikátní výjimka. Debata o zdanění je dlouhodobě politicky citlivá kvůli silnému vlivu vinařských asociací a argumentům o podpoře regionálního zemědělství a turismu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
