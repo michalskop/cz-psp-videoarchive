@@ -1,0 +1,169 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-09-30T14:09:53",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3174",
+    "name": "Světový den srdce: Systémová řešení pro záchranu života",
+    "classification": "Seminář",
+    "start_date": "2026-09-30T11:00",
+    "end_date": "2026-09-30T12:32",
+    "sources": [
+      "final/event_3174_2026-09-30_svetovy-den-srdce-systemova-reseni-pro-zachranu-zi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930110003.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930111003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930112003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930113003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930114003.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930115003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930120003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930121003.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930122003.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/09/30/_20260930123003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 10,
+    "parts_total": 10,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se konal u příležitosti Světového dne srdce a jeho hlavním cílem byla diskuse o systémových řešeních v oblasti kardiovaskulární prevence a urgentní medicíny, se zvláštním důrazem na problematiku náhlé zástavy oběhu a dostupnost automatizovaných externích defibrilátorů (AED).\n\nCílem setkání bylo identifikovat bariéry, které brání laikům v poskytování první pomoci (strach, nedostatek informací, obavy z poškození pacienta), a navrhnout systémové změny, které by zvýšily šance na přežití pacientů. Jednání propojilo odborníky z oblasti kardiologie a resuscitace, zástupce soukromého sektoru (Kaufland), pacientské organizace (ČAKO), aplikaci Záchranka a Ministerstvo zdravotnictví ČR.",
+    "main_points": [
+      "**Prof. MUDr. Věra Adámková (kardioložka, poslankyně)** — zdůraznila význam prevence a nutnost odbourat strach laiků z resuscitace. `[1/02:04]`",
+      "**Prof. MUDr. Petr Šťourač (Česká resuscitační rada)** — ilustroval bariéry v resuscitaci na příkladu z Antarktidy a zdůraznil, že včasná defibrilace signifikantně zvyšuje šanci na přežití. `[1/08:07]`",
+      "**Ing. Renata Majerl (Kaufland ČR)** — představila iniciativu „Z lásky k srdci“, v rámci které firma vybavila své provozovny AED a školí zaměstnance. `[2/08:02]`",
+      "**Mgr. Filip Malenák (aplikace Záchranka)** — popsal technické aspekty databáze AED a navrhl sjednocení kategorizace přístrojů a automatizované ověřování jejich funkčnosti. `[7/06:04]`",
+      "**Martina Mochagen (ČAKO)** — zdůraznila nutnost osvěty a vnímání AED jako běžné součásti veřejného prostoru. `[5/04:08]`",
+      "**Dr. Eva Smržová (Ministerstvo zdravotnictví ČR)** — informovala o přípravě projektu na standardizaci vzdělávání v první pomoci pro celou ČR. `[6/08:07]`",
+      "**Odborný asistent Bém (ČVUT)** — prezentoval ekonomické dopady, kde investice do AED a edukace šetří náklady na následnou péči. `[4/00:00]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus všech zúčastněných stran na potřebě vytvořit komunikační most mezi koalicí „Z lásky k srdci“ a Ministerstvem zdravotnictví. Hlavní závěry zahrnují:\n* **Priorita edukace:** Vzdělávání veřejnosti je klíčem k odbourání bariér.\n* **Systémová data:** Nutnost vytvořit centrální, validovanou databázi AED.\n* **Metodika:** Ministerstvo zdravotnictví připraví metodiku pro standardizaci první pomoci a umístění AED.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen a občasné opakující se fráze způsobené automatickým rozpoznáváním řeči."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Věra Adámková",
+        "person_id": "psp:person:6254",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Petr Šťourač",
+        "person_id": null,
+        "affiliation": "Česká resuscitační rada"
+      },
+      {
+        "name": "Renata Majerl",
+        "person_id": null,
+        "affiliation": "Kaufland ČR"
+      },
+      {
+        "name": "Filip Malenák",
+        "person_id": null,
+        "affiliation": "Aplikace Záchranka"
+      },
+      {
+        "name": "Martina Mochagen",
+        "person_id": null,
+        "affiliation": "ČAKO"
+      },
+      {
+        "name": "Eva Smržová",
+        "person_id": null,
+        "affiliation": "Ministerstvo zdravotnictví ČR"
+      },
+      {
+        "name": "Bém",
+        "person_id": "psp:person:5895",
+        "affiliation": "ČVUT"
+      }
+    ],
+    "parties": [
+      "Kaufland",
+      "ČAKO"
+    ],
+    "institutions": [
+      "Ministerstvo zdravotnictví ČR",
+      "Česká resuscitační rada",
+      "ČVUT"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Jenom jeden z deseti lidí ví, kde v okolí jejich bydliště se nachází AED.",
+      "type": "paraphrase",
+      "speaker": "Petr Šťourač",
+      "affiliation": "Česká resuscitační rada",
+      "timestamp": "2/02:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3174_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Neexistuje žádná celostátní statistika, která by přesně kvantifikovala povědomí veřejnosti o umístění AED, ačkoliv odborné studie (např. záchranářské projekty) dlouhodobě potvrzují nízkou informovanost obyvatel."
+    },
+    {
+      "text": "Cena jednoho AED se pohybuje kolem 60 tisíc, ale investice do edukace a těchto přístrojů se nám z ekonomického pohledu výrazně vyplatí.",
+      "type": "paraphrase",
+      "speaker": "Bém",
+      "affiliation": "ČVUT",
+      "timestamp": "4/05:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3174_highlight_01.jpg",
+      "context": "Cena AED se v ČR skutečně pohybuje v rozmezí 30–70 tisíc Kč dle modelu a výbavy. Ekonomická výhodnost (tzv. cost-benefit analýza) je podložena studiemi o zvýšení šance na přežití při náhlé zástavě oběhu, což snižuje následné náklady na dlouhodobou zdravotní péči."
+    },
+    {
+      "text": "Velmi vás všechny prosím, kdybych teď byla potřeba resuscitovat, nehleďte na mé žebro, ono se mi zahojí a resuscitujte.",
+      "type": "citation",
+      "speaker": "Věra Adámková",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "2/06:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3174_highlight_02.jpg",
+      "context": "Jde o apel na laickou první pomoc. Zlomenina žeber je při správně prováděné resuscitaci (masáži srdce) častým a očekávaným jevem, který je z hlediska záchrany života sekundární; legislativa ČR (např. § 150 trestního zákoníku) navíc chrání zachránce před postihem za neúmyslné poškození zdraví při poskytování pomoci."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Financování výměny elektrod u AED pro malé subjekty/spolky.\n- **Kdo:** Odborný asistent Bém (ČVUT).\n- **Co:** Navrhl vytvoření dotačního titulu nebo subvencí pro malé organizace na výměnu elektrod po použití či expiraci.\n- **Proč:** Je to politicky citlivé, protože jde o přímé čerpání veřejných prostředků na údržbu soukromých či spolkových přístrojů.",
+      "speaker": "Bém",
+      "affiliation": "ČVUT",
+      "timestamp": "9/04:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3174_controversy_00.jpg",
+      "context": "Návrh na dotační titul pro údržbu AED (elektrody mají omezenou životnost obvykle 2–5 let) nemá v současné legislativě oporu. Financování údržby soukromého majetku z veřejných rozpočtů by vyžadovalo úpravu pravidel pro poskytování dotací, což je politicky předmětem debaty o efektivitě vynakládání prostředků státu versus přínosu pro veřejné zdraví."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
