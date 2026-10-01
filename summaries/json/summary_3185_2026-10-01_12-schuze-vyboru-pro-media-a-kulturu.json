@@ -1,0 +1,168 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-01T19:41:06",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3185",
+    "name": "12. schůze Výboru pro média a kulturu",
+    "classification": "Jednání výborů",
+    "start_date": "2026-10-01T14:00",
+    "end_date": "2026-10-01T16:58",
+    "sources": [
+      "final/event_3185_2026-10-01_12-schuze-vyboru-pro-media-a-kulturu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001142052.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001143008.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001144008.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001145008.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001150008.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001151008.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001152008.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001153008.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001154008.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001155008.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001160008.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001161008.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001162008.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001163008.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001164008.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/A56/2026/10/01/_20261001165008.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 16,
+    "parts_total": 17,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru bylo zaměřeno na projednání výročních zpráv o činnosti a hospodaření České televize (ČT) a Českého rozhlasu (ČRo) za rok 2025. Dále se výbor zabýval problematikou zahraničního vysílání ČRo, státní kulturní politikou na období 2026–2030 a iniciativou za ochranu novinářů. Cílem byla kontrola činnosti veřejnoprávních médií, diskuse o financování kulturních priorit a nastavení pravidel pro budoucí jednání výboru v souvislosti s plenárními schůzemi Sněmovny.",
+    "main_points": [
+      "**Ondřej Babka (ANO)**: Kritizoval absenci informací o zásadních usneseních Rady ČT ve výroční zprávě a selektivní výběr pořadů. `[1/02:11]`",
+      "**Karel Novák (Rada ČT)**: Vysvětlil, že neuvádění všech usnesení je zvyklost, nikoliv záměr. `[1/04:04]`",
+      "**Oldřich Wagner (Rada ČRo)**: Prezentoval zprávu o hospodaření ČRo (zisk 69 mil. Kč). `[3/02:08]`",
+      "**René Zavoral (ČRo)**: Obhajoval personální změny a vysvětlil snížení komerčních výnosů legislativními změnami. `[5/02:01]`",
+      "**Otto Klempíř (ministr kultury)**: Představil novou státní kulturní politiku a čelil kritice za proces její přípravy. `[9/02:18]`",
+      "**Esther Weimerová (poslankyně)**: Navrhla a prosadila záštitu výboru nad kulatým stolem k ochraně novinářů. `[14/02:07]`"
+    ],
+    "outcome": "Výroční zprávy ČT i ČRo za rok 2025 byly jednomyslně doporučeny k přijetí. Výbor přijal usnesení vyzývající k zajištění stability financování zahraničního vysílání ČRo. Návrh na stažení státní kulturní politiky nebyl přijat (8 pro, 3 proti, 3 se zdrželi), bod byl pouze vzat na vědomí. Výbor udělil záštitu kulatému stolu k ochraně novinářů.",
+    "notes": "Přepis obsahuje četné technické artefakty, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Ondřej Babka",
+        "person_id": "psp:person:6623",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Karel Novák",
+        "person_id": "psp:person:3014",
+        "affiliation": "Rada ČT"
+      },
+      {
+        "name": "Oldřich Wagner",
+        "person_id": "psp:person:6868",
+        "affiliation": "Rada ČRo"
+      },
+      {
+        "name": "René Zavoral",
+        "person_id": null,
+        "affiliation": "Český rozhlas"
+      },
+      {
+        "name": "Otto Klempíř",
+        "person_id": "psp:person:7010",
+        "affiliation": "Ministerstvo kultury"
+      },
+      {
+        "name": "Esther Weimerová",
+        "person_id": "psp:person:7061",
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "ANO",
+      "Piráti"
+    ],
+    "institutions": [
+      "Česká televize",
+      "Český rozhlas",
+      "Ministerstvo kultury"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Český rozhlas v roce 2025 hospodařil s celkovými výnosy 2,583 miliardy korun a náklady 2,514 miliardy korun.",
+      "type": "citation",
+      "speaker": "Oldřich Wagner",
+      "affiliation": "Rada ČRo",
+      "timestamp": "3/04:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3185_highlight_00.jpg",
+      "context": "Údaje odpovídají schválenému rozpočtu Českého rozhlasu na rok 2025, který byl projednán a schválen Radou ČRo v listopadu 2024. Částky reflektují plánované hospodaření organizace v souladu se zákonem č. 484/1991 Sb., o Českém rozhlasu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Spor o způsob vzniku státní kulturní politiky mezi Josefem Bánovcem a ministrem Klempířem ohledně transparentnosti procesu.",
+      "speaker": "Josef Bánovec",
+      "affiliation": null,
+      "timestamp": "11/06:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3185_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní politický spor o procesní transparentnost, který není podložen konkrétním auditem nebo právním rozhodnutím o pochybení ministerstva."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  }
+}
