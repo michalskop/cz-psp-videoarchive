@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-01T14:44:46",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3187",
+    "name": "Tisková konference Starostů a nezávislých po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-01T11:03",
+    "end_date": "2026-10-01T11:32",
+    "sources": [
+      "final/event_3187_2026-10-01_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5637_video-psp-2026101-113-20-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala v průběhu probíhajícího hlasování o nedůvěře vládě Andreje Babiše v Poslanecké sněmovně. Cílem představitelů hnutí STAN bylo zdůvodnit, proč opozice k tomuto kroku přistoupila, a upozornit na konkrétní vládní selhání, která podle nich ohrožují budoucnost země.\n\nHlavními kritizovanými tématy byly návrh státního rozpočtu s deficitem bezmála 400 miliard korun, útoky na nezávislost institucí a justice, střet zájmů premiéra a problematické legislativní návrhy, jako je novela zákoníku práce či startupový zákon.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Argumentuje, že vláda „projídá budoucnost“ a zadlužuje zemi i v době ekonomického růstu. Varoval před „zaklekáváním“ na samosprávy a snahou státu sahat na jejich finanční rezervy. Hlasování o nedůvěře považuje za nezbytné nastavení zrcadla vládě, i když je matematicky předem jasné, že vláda nepadne. `[1/01:03]`",
+      "**Pavla Pivoňka Vaňková (STAN)** — Kritizovala novelu zákoníku práce, která podle ní pod záminkou transpozice evropské směrnice rozvolňuje platformovou práci a legalizuje „švarcsystém“. Upozornila na negativní dopady snížení podpory v nezaměstnanosti pro lidi nad 50 let, ženy vracející se z rodičovské a pečující osoby. `[1/04:04]`",
+      "**Jan Paparenovský (STAN)** — Vyjádřil se ke startupovému zákonu. Oceňuje, že vláda navazuje na práci předchozího vedení MPO, ale kritizuje absenci úpravy zaměstnaneckých akcií a nedostatečnou flexibilitu pro zaměstnance startupů. Vyzval k širší podpoře ekonomiky s vyšší přidanou hodnotou. `[1/08:05]`"
+    ],
+    "outcome": "Jednání o nedůvěře vládě bude pokračovat, přestože opozice přiznává, že nemá dostatek hlasů (92 vs. 108) k jejímu svržení. STAN vnímá tento proces jako legitimní opoziční nástroj pro komunikaci vládních selhání směrem k veřejnosti před blížícími se volbami. Konsenzem hnutí je, že vláda postrádá demokratické prostředí a její rozpočtová politika je „ekonomickým zločinem na budoucích generacích“.",
+    "notes": "Přepis obsahuje opakující se technické chyby (např. „stále nezapadá na vývoj“), které byly pro účely shrnutí ignorovány. Jména řečníků byla v přepisu místy zkomolena (např. „Pavlupina Kavenková“), v textu byla opravena na základě kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Paparenovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo průmyslu a obchodu"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Bavíme se tady o schodku, který je bezmála 400 miliard korun, a to bez toho, abychom mysleli na budoucnost a na nějaké rezervy pro potenciální krize.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/00:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3187_highlight_00.jpg",
+      "context": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 241 miliard korun, nicméně v kontextu předchozích let (např. rok 2023 se schodkem 288,5 mld. Kč) je debata o vysokých deficitech a tvorbě rezerv standardním tématem fiskální politiky. Údaj o „bezmála 400 miliardách“ neodpovídá aktuálnímu návrhu rozpočtu pro rok 2025, může však odkazovat na kumulované deficity nebo jiné rozpočtové rámce."
+    },
+    {
+      "text": "Chcete zlegalizovat 90 % švarcsystémů místo toho, abyste podpořili ty zaměstnance, kteří do systému přivádějí daně a odvody v té nejvyšší míře.",
+      "type": "citation",
+      "speaker": "Pavla Pivoňka Vaňková",
+      "affiliation": "STAN",
+      "timestamp": "1/05:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3187_highlight_01.jpg",
+      "context": "Švarcsystém je v ČR nelegální podle zákona č. 262/2006 Sb. (zákoník práce). Tvrzení o „legalizaci 90 % švarcsystémů“ je politickou interpretací konkrétního legislativního návrhu; nelze nezávisle ověřit, zda by navrhované změny vedly k takto vysokému procentuálnímu nárůstu legalizace švarcsystému."
+    },
+    {
+      "text": "Víme, že jim vadí ten schodek rozpočtu, že vědí, že je to blbě, ale nenajdou odvahu říct to veřejně, protože v hnutí ANO nepanuje demokratické prostředí.",
+      "type": "paraphrase",
+      "speaker": "Jan Paparenovský",
+      "affiliation": "STAN",
+      "timestamp": "1/24:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3187_highlight_02.jpg",
+      "context": "Tvrzení o vnitřních poměrech v hnutí ANO a absenci demokratického prostředí je subjektivním politickým hodnocením. Vnitřní fungování politických stran je upraveno zákonem č. 424/1991 Sb., o sdružování v politických stranách, ale míra vnitrostranické demokracie je věcí politické kultury a vnitřních stanov, nikoliv objektivně měřitelný fakt."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vít Rakušan (STAN) označil vládní rozpočtovou politiku za „zločinnou“ a „ekonomický zločin na České republice“. Jde o velmi silnou rétoriku, která kriminalizuje standardní politický proces sestavování rozpočtu a ostře polarizuje politickou debatu.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/24:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3187_controversy_00.jpg",
+      "context": "Označení rozpočtové politiky za „zločinnou“ je hodnotící politický výrok, nikoliv právní či ekonomický fakt. Sestavování rozpočtu je zákonný proces dle zákona č. 218/2000 Sb., o rozpočtových pravidlech, a jeho kritika je legitimní součástí parlamentní debaty, byť v tomto případě vedená silnou rétorikou."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

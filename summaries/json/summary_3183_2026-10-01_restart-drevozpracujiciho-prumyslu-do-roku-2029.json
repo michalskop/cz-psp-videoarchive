@@ -1,0 +1,275 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-01T14:44:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3183",
+    "name": "Restart dřevozpracujícího průmyslu do roku 2029",
+    "classification": "Seminář",
+    "start_date": "2026-10-01T09:07",
+    "end_date": "2026-10-01T13:41",
+    "sources": [
+      "final/event_3183_2026-10-01_restart-drevozpracujiciho-prumyslu-do-roku-2029.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001090001.mp4",
+        "from_sec": 449
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001091001.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001092001.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001093001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001094001.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001095001.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001100001.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001101001.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001102001.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001103001.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001104001.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001105001.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001110001.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001111001.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001112001.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001113001.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001114001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001115001.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001120001.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001121001.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001122001.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001123001.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001124001.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001125001.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001130001.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001131001.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001132001.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001133001.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/01/_20261001134001.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 29,
+    "parts_total": 29,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se konal 1. října 2026 v Poslanecké sněmovně pod záštitou Zemědělského výboru. Cílem bylo definovat strategický význam dřevozpracujícího průmyslu jako pilíře české ekonomiky a venkova. Účastníci diskutovali o nutnosti zvýšení přidané hodnoty zpracování dřeva v ČR, podpoře dřevostaveb a vytvoření stabilního marketingového nástroje pro propagaci dřeva.\n\nHlavním politickým cílem je restart sektoru prostřednictvím „Lesnicko-dřevařského fondu“ (LDF), který by zajistil systémové financování marketingu a osvěty, a snížení objemu exportu surové kulatiny ve prospěch domácího zpracování.",
+    "main_points": [
+      "**Monika Oborná (Zemědělský výbor)** — Dřevozpracující průmysl je klíčovým pilířem budoucnosti českého venkova. `[2/00:00]`",
+      "**Martin Šebestyán (MZe)** — Stát podporuje využití dřeva ve veřejných stavbách jako příklad dobré praxe. `[2/02:00]`",
+      "**Zdeněk Zajíček (Hospodářská komora)** — Sektor vyžaduje politickou kontinuitu a shodu na strategických investicích. `[2/04:00]`",
+      "**Robert Marušák (FLD ČZU)** — Upozornil na podfinancování technických oborů dřevařství oproti humanitním. `[3/00:00]`",
+      "**Jaroslav Kubišta (NLI)** — Představil data 4. cyklu inventarizace lesů: zásoba smrku 356 mil. m³, celková 801 mil. m³. `[3/08:07]`",
+      "**Roman Dudík (FLD ČZU)** — Zvýšení podílu dřevostaveb na 25 % by přineslo miliardy do HDP. `[6/04:12]`",
+      "**Petr Pražan (SPDŠR)** — Kritizoval vysoký export kulatiny a nejvyšší ceny suroviny v ČR, které ničí konkurenceschopnost. `[11/02:07]`",
+      "**Josef Vojáček (Lesy ČR)** — Státní podnik musí hospodařit tržně a spravedlivě rozdělovat dříví mezi zpracovatele na základě reálných kapacit. `[19/08:10]`",
+      "**Patrik Mlynář (MZe)** — Představil návrh Lesnicko-dřevařského fondu (LDF) s ročním rozpočtem 35–40 mil. Kč. `[23/02:19]`"
+    ],
+    "outcome": "Účastníci se shodli na nutnosti zřízení Lesnicko-dřevařského fondu (LDF) a přípravě souhrnného dokumentu s aktuálními problémy, který bude předložen vládě. Cílem je prosadit legislativní změny pro zřízení fondu a zajistit podporu dřeva ve státních zakázkách.",
+    "notes": "Přepis obsahuje chyby v diakritice a občasné halucinace (opakující se nesmyslné fráze), které byly pro účely shrnutí ignorovány. Části 14–16 záznamu obsahují dlouhé pasáže ticha nebo nesrozumitelného šumu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Monika Oborná",
+        "person_id": "psp:person:6475",
+        "affiliation": "Zemědělský výbor"
+      },
+      {
+        "name": "Martin Šebestyán",
+        "person_id": "psp:person:7072",
+        "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "Zdeněk Zajíček",
+        "person_id": "psp:person:283",
+        "affiliation": "Hospodářská komora"
+      },
+      {
+        "name": "Robert Marušák",
+        "person_id": null,
+        "affiliation": "FLD ČZU"
+      },
+      {
+        "name": "Jan Typner",
+        "person_id": "psp:person:4197",
+        "affiliation": "Mendelova univerzita"
+      },
+      {
+        "name": "Jaroslav Kubišta",
+        "person_id": "psp:person:5834",
+        "affiliation": "Národní lesnický institut"
+      },
+      {
+        "name": "Roman Dudík",
+        "person_id": null,
+        "affiliation": "FLD ČZU"
+      },
+      {
+        "name": "Petr Pražan",
+        "person_id": null,
+        "affiliation": "SPDŠR"
+      },
+      {
+        "name": "Josef Vojáček",
+        "person_id": "psp:person:4524",
+        "affiliation": "Lesy ČR"
+      },
+      {
+        "name": "Petr Král",
+        "person_id": "psp:person:6582",
+        "affiliation": "Vojenské lesy a statky"
+      },
+      {
+        "name": "Patrik Mlynář",
+        "person_id": null,
+        "affiliation": "Ministerstvo zemědělství"
+      },
+      {
+        "name": "David Pražák",
+        "person_id": "psp:person:6527",
+        "affiliation": "Poslanecká sněmovna"
+      }
+    ],
+    "parties": [
+      "Hospodářská komora",
+      "Agrární komora"
+    ],
+    "institutions": [
+      "Ministerstvo zemědělství",
+      "Lesy ČR",
+      "Vojenské lesy a statky",
+      "ČZU",
+      "Mendelova univerzita"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika vlastní ropu, což je samotné dřevo, ale nejsme schopni s ním nakládat a rozvíjet se tak, jako to dělají šejkové s ropou.",
+      "type": "citation",
+      "speaker": "David Pražák",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "24/04:14",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3183_highlight_00.jpg",
+      "context": "Výrok je fakticky nepřesný, neboť dřevo není ropa a biologický materiál nelze s ropnými produkty z hlediska ekonomického využití přímo srovnávat. Srovnání s ropnými šejky je metaforou, nikoliv ekonomickým faktem, a ignoruje odlišnou povahu obnovitelných a neobnovitelných zdrojů."
+    },
+    {
+      "text": "Každý pátý kmen vytěžený v České republice odjíždí do Rakouska, což rozhodně nejsou čísla, kterými bychom se měli chlubit.",
+      "type": "citation",
+      "speaker": "Petr Pražan",
+      "affiliation": "SPDŠR",
+      "timestamp": "12/03:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3183_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Podle dat ČSÚ a MZe ČR je vývoz surového dříví významný, ale přesný podíl 'každého pátého kmene' (20 %) závisí na konkrétním roce a druhu dřeviny; oficiální statistiky exportu dříví do Rakouska se obvykle pohybují v řádech jednotek až nižších desítek procent celkové těžby."
+    },
+    {
+      "text": "Nejde o to, kolik dřeva zpracujeme, ale kolik hodnoty vložíme do každého kubíku.",
+      "type": "citation",
+      "speaker": "Jan Typner",
+      "affiliation": "Mendelova univerzita",
+      "timestamp": "17/01:18",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3183_highlight_02.jpg",
+      "context": "Tvrzení odpovídá ekonomickému konsenzu o přidané hodnotě v dřevozpracujícím průmyslu. Zaměření na hlubší zpracování (např. nábytek, stavební prvky) místo exportu surové kulatiny je dlouhodobým cílem lesnické politiky ČR definovaným v Národním lesnickém programu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Zavedení povinných odvodů do Lesnicko-dřevařského fondu (5 Kč/ha pro vlastníky, 1 Kč/m³ pro zpracovatele).",
+      "speaker": "Patrik Mlynář",
+      "affiliation": "Ministerstvo zemědělství",
+      "timestamp": "24/02:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3183_controversy_00.jpg",
+      "context": "Návrh na zřízení Lesnicko-dřevařského fondu je předmětem dlouhodobých politických diskusí. V současné legislativě (zákon č. 289/1995 Sb., o lesích) takový povinný odvod v této podobě neexistuje; jde o návrh na zavedení nového finančního nástroje."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

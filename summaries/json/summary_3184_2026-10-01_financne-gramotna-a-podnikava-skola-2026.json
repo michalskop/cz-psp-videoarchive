@@ -1,0 +1,252 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-01T14:43:41",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3184",
+    "name": "Finančně gramotná a podnikavá škola 2026",
+    "classification": "Seminář",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-01",
+    "sources": [
+      "final/event_3184_2026-10-01_financne-gramotna-a-podnikava-skola-2026.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001091005.mp4",
+        "from_sec": 285
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001092001.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001093001.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001094001.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001095005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001100003.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001101009.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001102006.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001103000.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001104008.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001105008.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001110008.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001111007.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001112007.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001113006.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001114008.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001115001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001120006.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001121007.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001122002.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001123004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001124001.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001125009.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001130004.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001131004.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001132004.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001133004.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/01/_20261001134005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 28,
+    "parts_total": 28,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář „Finančně gramotná a podnikavá škola 2026“ se konal v prostorách Poslanecké sněmovny Parlamentu ČR. Cílem akce bylo podpořit rozvoj finanční gramotnosti a podnikavosti na základních a středních školách v České republice. Konference sloužila jako platforma pro sdílení zkušeností mezi pedagogy, představení nových metodických nástrojů a certifikačních procesů a posílení spolupráce mezi školami, odborníky z praxe a neziskovým sektorem.\n\nHlavním organizátorem byla obecně prospěšná společnost Your Chance, která se dlouhodobě věnuje integraci finančního vzdělávání do školních vzdělávacích programů. Účastníci se zaměřili na praktické aspekty výuky, integraci digitálních technologií a význam rozvoje „podnikavých kompetencí“ u žáků, které jim mají pomoci lépe se orientovat v ekonomickém životě 21. století.",
+    "main_points": [
+      "**Jiří Barták (místopředseda Poslanecké sněmovny)** — Zdůraznil důležitost finanční gramotnosti jako samostatného předmětu i průřezového tématu. Poděkoval projektu „Bankéři do škol“ za přímé zapojení odborníků z praxe do výuky. `[1/06:09]`",
+      "**Jana Merunková (zakladatelka a ředitelka Your Chance)** — Představila vizi „Finančně gramotná škola 2030“, jejímž cílem je dosáhnout 1 000 certifikovaných škol. Hovořila o mezinárodním přesahu aktivit a o ukončení soutěže „Rozpočti si to“. `[2/08:02]`",
+      "**Katka Lichtenberková (Národní pedagogický institut / Your Chance)** — Představila novou webovou a mobilní platformu `financialliteracy.world` pro sdílení inspirativní praxe mezi školami. Oznámila spuštění nové soutěže založené na deskové hře „Cesta k bohatství“. `[3/08:10]`",
+      "**Kristýna Pyszková (Miss World, Piško Foundation)** — Představila vzdělávací aplikaci „Money Monsters“ (Finanční příšerky), která hravou formou učí děti a teenagery základům financí. `[13/00:00]`",
+      "**Jiří Koleniak (generální ředitel Newton University)** — Prezentoval koncept „Newton Family“ a důraz na propojování teorie s praxí. Nabídl 20 stipendií pro pedagogy a pracovníky v sociálních službách. `[14/06:14]`",
+      "**Viktor Pilarčík (spolutvůrce hry „Cesta k bohatství“)** — Vysvětlil principy deskové hry, která simuluje reálné ekonomické situace a je určena pro projektové dny. `[7/02:10]`",
+      "**Zástupci škol (panelová diskuse)** — Jakub Němčík (Gymnázium Dačice), Roman Přikryl (ZŠ a SŠ Tišnov) a Nikola Vykidalová (ZŠ Loděnice) sdíleli zkušenosti s implementací finanční gramotnosti do výuky (včetně problémů s časovou dotací a propojování s odbornými předměty). `[17/00:00]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus v tom, že finanční gramotnost je klíčovou kompetencí pro budoucí uplatnění žáků. Nebylo přijato žádné formální legislativní rozhodnutí, ale došlo k dohodě o prohloubení spolupráce mezi školami prostřednictvím nové digitální platformy. Dominujícím postojem je odklon od čistě teoretické výuky směrem k zážitkové pedagogice, využívání herních prvků a přímému propojování s kariérovým poradenstvím.",
+    "notes": "Přepis obsahuje občasné výpadky diakritiky a opakující se fráze způsobené chybami v automatickém rozpoznávání řeči. Části 10–12 a 23–27 obsahují pouze minimální nebo nesrozumitelný text."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jiří Barták",
+        "person_id": "psp:person:6987",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jana Merunková",
+        "person_id": "psp:person:6324",
+        "affiliation": "Your Chance"
+      },
+      {
+        "name": "Katka Lichtenberková",
+        "person_id": null,
+        "affiliation": "Národní pedagogický institut / Your Chance"
+      },
+      {
+        "name": "Kristýna Pyszková",
+        "person_id": null,
+        "affiliation": "Piško Foundation"
+      },
+      {
+        "name": "Jiří Koleniak",
+        "person_id": null,
+        "affiliation": "Newton University"
+      },
+      {
+        "name": "Viktor Pilarčík",
+        "person_id": null,
+        "affiliation": "Cesta k bohatství"
+      },
+      {
+        "name": "Jakub Němčík",
+        "person_id": null,
+        "affiliation": "Gymnázium Dačice"
+      },
+      {
+        "name": "Roman Přikryl",
+        "person_id": null,
+        "affiliation": "ZŠ a SŠ Tišnov"
+      },
+      {
+        "name": "Nikola Vykidalová",
+        "person_id": null,
+        "affiliation": "ZŠ Loděnice"
+      }
+    ],
+    "parties": [
+      "Poslanecká sněmovna"
+    ],
+    "institutions": [
+      "Your Chance",
+      "Newton University",
+      "Národní pedagogický institut",
+      "Piško Foundation"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Finanční gramotnost není jen o tom, že víme, jestli je kreditní nebo debitní karta, co která umí a co neumí.",
+      "type": "citation",
+      "speaker": "Jiří Barták",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "1/08:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3184_highlight_00.jpg",
+      "context": "Jde o subjektivní definici pojmu finanční gramotnost. Odborné definice (např. dle OECD nebo MF ČR) skutečně definují finanční gramotnost šířeji jako soubor znalostí, dovedností a postojů umožňujících činit informovaná rozhodnutí."
+    },
+    {
+      "text": "Podle agentury Ipsos třetina Čechů má stále nízkou úroveň finanční gramotnosti.",
+      "type": "citation",
+      "speaker": "Kristýna Pyszková",
+      "affiliation": "Piško Foundation",
+      "timestamp": "13/03:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3184_highlight_01.jpg",
+      "context": "Tvrzení odpovídá dlouhodobým výzkumům agentury Ipsos (např. Index finanční gramotnosti), které pravidelně ukazují, že přibližně 30 % české populace vykazuje nízkou úroveň finanční gramotnosti. Data jsou veřejně dostupná v reportech agentury."
+    },
+    {
+      "text": "Podnikavost je jen a jen ochota a schopnost převzít odpovědnost za svůj život.",
+      "type": "citation",
+      "speaker": "Jiří Koleniak",
+      "affiliation": "Newton University",
+      "timestamp": "15/04:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3184_highlight_02.jpg",
+      "context": "Jde o subjektivní názorovou interpretaci pojmu 'podnikavost'. V pedagogickém a ekonomickém kontextu (např. rámec EntreComp Evropské komise) je podnikavost definována komplexněji jako schopnost proměnit příležitosti a nápady v hodnotu pro ostatní."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Pro zavedení finanční gramotnosti jako samostatného předmětu museli na Gymnáziu Dačice ubrat jednu hodinu matematiky týdně.",
+      "speaker": "Jakub Němčík",
+      "affiliation": "Gymnázium Dačice",
+      "timestamp": "17/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3184_controversy_00.jpg",
+      "context": "Nelze nezávisle ověřit bez nahlédnutí do konkrétního školního vzdělávacího programu (ŠVP) Gymnázia Dačice. Redukce hodin v rámci disponibilní časové dotace je v souladu se zákonem č. 561/2004 Sb. (školský zákon), který umožňuje školám upravovat učební plány."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

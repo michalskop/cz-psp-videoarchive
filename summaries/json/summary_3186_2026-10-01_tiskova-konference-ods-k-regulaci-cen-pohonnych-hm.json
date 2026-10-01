@@ -1,0 +1,108 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-01T14:45:19",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3186",
+    "name": "Tisková konference ODS k regulaci cen pohonných hmot",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-01T10:31",
+    "end_date": "2026-10-01T10:51",
+    "sources": [
+      "final/event_3186_2026-10-01_tiskova-konference-ods-k-regulaci-cen-pohonnych-hm.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5634_video-psp-2026101-1031-11-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem vyjádření postoje ODS k vládním opatřením v oblasti cen pohonných hmot, konkrétně ke snížení spotřební daně na naftu a plánované regulaci marží čerpacích stanic. Zástupci ODS kritizovali vládní zásahy jako nekoncepční a varovali před negativními dopady na menší regionální čerpací stanice.\n\nSoučástí konference byla rovněž obhajoba postupu opozice při vyvolání hlasování o nedůvěře vládě, které probíhalo v Poslanecké sněmovně. ODS zdůraznila, že jejich cílem je upozornit na neudržitelné hospodaření vlády, astronomický rozpočtový deficit a střety zájmů premiéra Andreje Babiše.",
+    "main_points": [
+      "**Martin Kubka (ODS)** — Kritizoval regulaci cen na čerpacích stanicích jako „léky na bolest hlavy, když bolí žaludek“. Uvedl, že problém vysokých cen leží u rafinérií a distributorů, nikoliv u čerpadlářů. `[1/01:00]`",
+      "**Jan Skopeček (ODS)** — Podpořil snížení spotřební daně, ale kritizoval, že se opatření nevztahuje i na benzín. Varoval, že regulace marží může vést k nedostatku paliv. `[1/03:00]`",
+      "**Ivan Adamec (ODS)** — Vystoupil proti sektorové dani, kterou označil za neefektivní. Upozornil na paradox, že český stát bude danit polskou firmu (Unipetrol). `[1/05:00]`",
+      "Opozice považuje hlasování o nedůvěře vládě za nezbytný krok kvůli deficitu státního rozpočtu ve výši 386 miliard Kč."
+    ],
+    "outcome": "Jednání nevedlo k žádnému formálnímu rozhodnutí, neboť šlo o tiskovou konferenci opoziční strany. ODS potvrdila, že bude v parlamentu pokračovat v odporu proti vládní podobě sektorové daně a bude prosazovat systémové změny vedoucí k úsporám ve státním rozpočtu.",
+    "notes": "Přepis obsahuje četné gramatické chyby, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kubka",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Ivan Adamec",
+        "person_id": "psp:person:5439",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Unie nezávislých petrolejářů ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda pojmenuje, že ji bolí žaludek, ale nasadí léky na bolesti hlavy.",
+      "type": "paraphrase",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3186_highlight_00.jpg",
+      "context": "Jde o metaforické politické hodnocení, nikoliv o faktické tvrzení. Nelze nezávisle ověřit, zda zvolená vládní opatření odpovídají identifikovaným problémům, neboť jde o subjektivní politickou interpretaci priorit."
+    },
+    {
+      "text": "Sektorová daň obecně nikdy nesplní to, co od ní očekávají.",
+      "type": "citation",
+      "speaker": "Ivan Adamec",
+      "affiliation": "ODS",
+      "timestamp": "1/06:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3186_highlight_01.jpg",
+      "context": "Efektivita sektorových daní je předmětem dlouhodobých ekonomických debat. Zkušenosti ze zahraničí (např. Maďarsko) ukazují, že dopady jsou smíšené – mohou přinést krátkodobý fiskální výnos, ale často vedou k přenesení nákladů na spotřebitele nebo k odlivu kapitálu."
+    },
+    {
+      "text": "Astronomický schodek 386 miliard korun znamená opravdu vážnou negativní zprávu.",
+      "type": "citation",
+      "speaker": "Martin Kubka",
+      "affiliation": "ODS",
+      "timestamp": "1/10:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3186_highlight_02.jpg",
+      "context": "Schodek státního rozpočtu ČR za rok 2023 činil 288,5 miliardy korun. Částka 386 miliard odpovídá schválenému schodku státního rozpočtu pro rok 2022 (po novele), což je údaj ověřitelný v datech Ministerstva financí ČR."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma: Sektorová daň a „polský model“**\n- **Kdo:** Ivan Adamec (ODS)\n- **Co:** Kritika zavedení sektorové daně na paliva, která má být cílená na jednu firmu (Unipetrol).\n- **Proč:** Je to politicky citlivé, protože jde o daň na firmu vlastněnou polským státem, což může vyvolat diplomatické napětí a ekonomické komplikace.\n- **Čas:** 1/05:00",
+      "speaker": "Ivan Adamec",
+      "affiliation": "ODS",
+      "timestamp": "1/05:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3186_controversy_00.jpg",
+      "context": "Zavedení daně cílené na konkrétní subjekt (tzv. 'lex Unipetrol') by bylo v českém právním prostředí neobvyklé a mohlo by být v rozporu s principem daňové neutrality. Diplomatické napětí s Polskem je reálným rizikem vzhledem k vlastnické struktuře společnosti PKN Orlen."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
