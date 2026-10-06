@@ -1,0 +1,179 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-06T14:45:15",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3190",
+    "name": "Klíčové pilíře české státnosti: hrdinství a vlastenectví vs. historický revizionismus a kolaborace",
+    "classification": "Seminář",
+    "start_date": "2026-10-06T10:06",
+    "end_date": "2026-10-06T12:24",
+    "sources": [
+      "final/event_3190_2026-10-06_klicove-pilire-ceske-statnosti-hrdinstvi-a-vlasten.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006100005.mp4",
+        "from_sec": 411
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006101005.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006102005.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006103005.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006104005.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006105005.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006110005.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006111005.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006112005.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006113005.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006114005.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006115005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006120005.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006121005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/06/_20261006122005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se zaměřil na reflexi české státnosti, národní identity a vlastenectví v kontextu historických zkušeností a současných geopolitických výzev. Cílem akce bylo otevřít diskuzi o významu suverenity, kriticky zhodnotit vliv nadnárodních struktur a analyzovat fenomény jako historický revizionismus, kolaborace a oikofobie.\n\nJednání se snažilo definovat „pilíře domova“ (jazyk, krajina, víra) a varovat před vnitřním rozkladem společnosti způsobeným ztrátou národní hrdosti a vlivem cizích zájmů.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Zdůraznil, že státnost je výsledkem vůle národa k existenci. Kritizoval EU za ekonomický úpadek a snahu o rozpuštění národních kultur prostřednictvím migrace. `[1/08:04]`",
+      "**Petr Bahrník (historik)** — Státnost definoval jako instituci, které vděčíme za stabilitu. Varoval před iluzí, že se jednotlivci vyhnou dopadům celospolečenského úpadku. `[2/04:04]`",
+      "**Jiří Hejlek (filozof)** — Národ popsal jako pospolitost předků, současníků a potomků. Kritizoval „atlantický model“ plutokracie a kosmopolitismus jako nástroje rozkladu národů. `[3/08:05]`",
+      "**Petr Drulák (spolek Svatopluk)** — Analyzoval „kooptaci elit“ jako nejefektivnější nástroj impérií k ovládnutí provincií. `[6/00:00]`",
+      "**Michal Semín (publicista)** — Zpochybnil „masarykovský“ výklad dějin založený na husitství. Argumentoval, že katolická tradice byla klíčová pro národní obrození. `[9/07:00]`",
+      "**Michal Téra (historik)** — Definoval pilíře státnosti jako identitu, teritorium a kulturu. Varoval před demografickým propadem. `[11/06:10]`",
+      "**Miloš Zeman (bývalý prezident)** — Varoval před „latentní kolaborací“ a podpořil právo na občanskou neposlušnost. `[13/04:06]`"
+    ],
+    "outcome": "Seminář nevyústil v legislativní rozhodnutí, ale sloužil jako platforma pro ideovou výměnu názorů. Dominujícím postojem byl důraz na suverenitu, kritika současného politického establishmentu a potřeba návratu ke křesťanským tradicím a národní identitě.",
+    "notes": "Přepis obsahuje četné technické chyby (chybějící diakritika, useknutá slova, opakující se nesmyslné fráze v částech 8 a 9). Obsah byl rekonstruován na základě srozumitelných pasáží."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Petr Bahrník",
+        "person_id": null,
+        "affiliation": "historik"
+      },
+      {
+        "name": "Jiří Hejlek",
+        "person_id": "psp:person:1858",
+        "affiliation": "filozof"
+      },
+      {
+        "name": "Petr Drulák",
+        "person_id": "psp:person:243",
+        "affiliation": "spolek Svatopluk"
+      },
+      {
+        "name": "Michal Semín",
+        "person_id": "psp:person:6383",
+        "affiliation": "publicista"
+      },
+      {
+        "name": "Michal Téra",
+        "person_id": null,
+        "affiliation": "historik"
+      },
+      {
+        "name": "Miloš Zeman",
+        "person_id": "psp:person:253",
+        "affiliation": "bývalý prezident"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna PČR",
+      "Sudetoněmecký landsmanšaft"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Stát existuje především tehdy, pokud existuje vůle jeho občanů a národa jej zachovat, bránit jako svrchovanost a předat dalším generacím.",
+      "type": "citation",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/08:34",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3190_highlight_00.jpg",
+      "context": "Jde o politicko-filozofické tvrzení o podstatě státu, které vychází z konceptu společenské smlouvy a národní suverenity. Toto tvrzení není faktograficky ověřitelné, neboť definice státu a jeho účelu je předmětem politické debaty, nikoliv empirických dat."
+    },
+    {
+      "text": "Česká republika je jediný stát ve střední Evropě, který nemá určený státní jazyk vyšší zákonnou normou.",
+      "type": "citation",
+      "speaker": "Petr Bahrník",
+      "affiliation": "historik",
+      "timestamp": "3/05:27",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3190_highlight_01.jpg",
+      "context": "Tvrzení je zavádějící. Ačkoliv ČR nemá zákon o státním jazyce, čeština je ukotvena jako úřední jazyk v Ústavě ČR (čl. 1) a Listině základních práv a svobod, které mají sílu ústavního zákona. Ostatní státy střední Evropy mají sice speciální jazykové zákony, ale ústavní zakotvení češtiny je z hlediska právní síly na nejvyšší možné úrovni."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Miloš Zeman v odpovědi na dotaz ohledně „polofašistických bojůvek“ a nečinnosti policie zmínil jako legitimní nástroj právo na občanskou neposlušnost.",
+      "speaker": "Miloš Zeman",
+      "affiliation": "bývalý prezident",
+      "timestamp": "14/08:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3190_controversy_00.jpg",
+      "context": "Miloš Zeman se v minulosti opakovaně vyjadřoval k občanské neposlušnosti v kontextu demonstrací. Nelze nezávisle ověřit konkrétní výrok bez znalosti přesného data a kontextu, neboť bývalý prezident se k tématům „bojůvek“ a policie vyjadřoval v různých obdobích a v odlišných souvislostech."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
