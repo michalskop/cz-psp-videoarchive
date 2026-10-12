@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-12T19:58:19",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3193",
+    "name": "Tisková konference ODS po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-12T15:33",
+    "end_date": "2026-10-12T15:48",
+    "sources": [
+      "final/event_3193_2026-10-12_tiskova-konference-ods-po-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5644_video-psp-20261012-1533-17-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po jednání vlády a jejím hlavním účelem bylo představení postojů opoziční strany k aktuálním politickým tématům. Řečníci se zaměřili na výsledky prvního kola senátních voleb, hodnocení vládní novely občanského zákoníku v oblasti opatrovnického práva, bezpečnostní situaci v souvislosti s Ruskem a kritikou vládní politiky v oblastech školství (inkluze) a zemědělství (boj se suchem).\n\nCílem konference bylo prezentovat ODS jako konstruktivní opozici, která nabízí vlastní řešení a zároveň kritizuje vládní nečinnost či nekoncepčnost v klíčových resortech.",
+    "main_points": [
+      "**Martin Kuba (ODS)** — Prezentoval výsledky senátních voleb, kde ODS postoupila s devíti kandidáty do druhého kola. Kritizoval postoj Donalda Trumpa k ruské naftě a vyzval premiéra ke svolání schůzky předsedů sněmovních stran. Ocenil vládní novelu v oblasti opatrovnického práva. `[1/00:00]`",
+      "**Renata Zajíčková (ODS)** — Kritizovala vládní nekoncepčnost v revizi inkluze. Představila vlastní reformu „8+2“, která klade důraz na pravomoci ředitelů škol a diverzifikaci vzdělávání místo segregace. `[1/04:07]`",
+      "**Petr Bendl (ODS)** — Upozornil na snižování vládních výdajů na boj se suchem a dluh Ministerstva životního prostředí vůči zemědělcům ve výši 0,5 mld. Kč. Představil 62 opatření ODS pro obce. `[1/08:18]`"
+    ],
+    "outcome": "Formální rozhodnutí na tiskové konferenci nepadlo, neboť se jednalo o prezentaci opozičních postojů. Dominujícím postojem ODS je požadavek na aktivnější roli vlády v bezpečnostní politice, kritika nekoncepčnosti vládních reforem a snaha o posílení vlivu opozice.",
+    "notes": "Přepis obsahuje několik technických chyb (useknutá slova, opakující se fráze), které však nebránily pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kuba",
+        "person_id": "psp:person:6053",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renata Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "SPD",
+      "ANO",
+      "KSČM"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "Ministerstvo spravedlnosti",
+      "Ministerstvo školství",
+      "Ministerstvo zemědělství",
+      "BIS"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Senát musí zůstat protiváhou současné vládní většiny.",
+      "type": "citation",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/00:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3193_highlight_00.jpg",
+      "context": "Jde o politický názor na roli horní komory Parlamentu ČR. Ústavní role Senátu jako pojistky demokracie a protiváhy Poslanecké sněmovny je zakotvena v Ústavě ČR (č. 1/1993 Sb.), konkrétní míra „protiváhy“ je však subjektivním politickým hodnocením."
+    },
+    {
+      "text": "Vláda v programovém prohlášení slíbila revizi inkluze, ale každá strana si ji představuje úplně jinak.",
+      "type": "paraphrase",
+      "speaker": "Renata Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/04:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3193_highlight_01.jpg",
+      "context": "Programové prohlášení vlády Petra Fialy skutečně obsahuje závazek „revize systému inkluzivního vzdělávání“. Interpretace tohoto pojmu se mezi koaličními stranami (např. ODS vs. Piráti/STAN) v průběhu volebního období skutečně lišila, což je doložitelné z veřejných vyjádření představitelů těchto stran."
+    },
+    {
+      "text": "Ministerstvo životního prostředí dluží zemědělcům půl miliardy a to už je znát v okamžiku, kdy mají své trable se suchem.",
+      "type": "citation",
+      "speaker": "Petr Bendl",
+      "affiliation": "ODS",
+      "timestamp": "1/10:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3193_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Konkrétní dluhy resortu vůči zemědělcům podléhají aktuálnímu účetnictví MŽP a Státního zemědělského intervenčního fondu (SZIF); bez specifikace dotačního titulu či konkrétního časového rámce nelze tvrzení o „půlmiliardovém dluhu“ potvrdit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Kuba (ODS)\n**Co:** Kritika Radima Fialy (SPD) a označení jeho postojů za „advokacii Putinova režimu“.\n**Proč:** Je to politicky citlivé, protože se jedná o přímý střet mezi opozičními stranami (ODS vs. SPD) v otázce národní bezpečnosti a vztahu k Rusku.\n**Čas:** 1/14:00",
+      "speaker": "Martin Kuba",
+      "affiliation": "ODS",
+      "timestamp": "1/14:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3193_controversy_00.jpg",
+      "context": "Toto je hodnotící politický výrok. Postoje SPD k Rusku a válce na Ukrajině jsou předmětem dlouhodobé veřejné debaty, přičemž označení za „advokacii režimu“ je politickou interpretací rétoriky SPD, nikoliv právně definovaným faktem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,236 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-12T19:57:31",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3192",
+    "name": "24. schůze Rozpočtového výboru",
+    "classification": "Jednání výborů",
+    "start_date": "2026-10-12T14:02",
+    "end_date": "2026-10-12T22:00",
+    "sources": [
+      "final/event_3192_2026-10-12_24-schuze-rozpoctoveho-vyboru.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012140004.mp4",
+        "from_sec": 151
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012141004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012142004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012143004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012144004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012145004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012150004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012151004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012152004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012153004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012154004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012155005.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012160004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012161005.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012162004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012163004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012164004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012165004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012170004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012171004.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012172004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012173004.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012174004.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012175004.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012180004.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012181005.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012182005.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012183005.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video2/27/2026/10/12/_20261012184005.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 29,
+    "parts_total": 29,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání Rozpočtového výboru se zaměřilo na projednávání rozpočtových opatření v kapitolách Senátu a Akademie věd, změnu platového řádu Nejvyššího kontrolního úřadu (NKÚ) a schválení zahraniční cesty delegace výboru do Řecka. Klíčovým bodem byla úvodní rozprava k vládnímu návrhu zákona o účetnictví a doplňkovém penzijním spoření, které mají za cíl snížit administrativní zátěž firem a zvýšit atraktivitu spoření na stáří.\n\nZávěr schůze byl věnován představení návrhu státního rozpočtu na rok 2027, který představila ministryně financí Alena Schillerová. Jednání mělo za cíl posoudit základní parametry rozpočtu, včetně výše deficitu, investičních výdajů a fiskálních rizik.",
+    "main_points": [
+      "**Patrik Pařil (místopředseda výboru)** — Vedl jednání a zpravodajoval k několika bodům. Navrhl a prosadil usnesení k zahraniční cestě do Řecka (16.–19. listopadu 2026). `[1/04:06]`",
+      "**Radek Jiránek (Kancelář Senátu)** — Požádal o rozpočtové opatření v kapitole Senátu (přesun 20,1 mil. Kč z platů do provozních výdajů). `[1/06:07]`",
+      "**Jan Málek (NKÚ)** — Odůvodnil změnu platového řádu v souvislosti s ukončením ostrahy objektu policií a zřízením vlastního bezpečnostního odboru (16 nových míst, přesun 14,5 mil. Kč z provozu na platy). `[2/02:02]`",
+      "**Radomír Pánek (Akademie věd ČR)** — Požádal o rozpočtové opatření pro navýšení odměn členů Akademické rady (o 40 %) a předsednictva Vědecké rady (o 20 %) v celkové výši 1,5 mil. Kč. `[2/08:12]`",
+      "**Stanislav Kouba (Ministerstvo financí)** — Představil novelu zákona o účetnictví, která zužuje okruh firem povinných reportovat ESG (z 2000 na cca 96 firem) a zavádí „safe harbour“ pro citlivé informace. `[5/02:13]`",
+      "**Alena Schillerová (Ministryně financí)** — Představila návrh rozpočtu na rok 2027 (deficit 386 mld. Kč, příjmy 2,2 bil. Kč, výdaje 2,6 bil. Kč). Obhajovala rekordní kapitálové výdaje a výdaje na obranu (2 % HDP). `[7/02:18]`",
+      "**Mojmír Hampl (Národní rozpočtová rada)** — Upozornil na rizika spojená s permanentním nárůstem mandatorních výdajů (zdravotnictví, OZE) a nerespektováním rozpočtových pravidel u státních fondů. `[20/06:24]`",
+      "**Vojtěch Munzar (ODS)** — Kritizoval expanzivní fiskální politiku v době ekonomického růstu a navrhl varianty usnesení s nižším deficitem (310 mld. Kč). `[28/06:04]`"
+    ],
+    "outcome": "Rozpočtová opatření pro Senát, NKÚ a Akademii věd byla jednomyslně schválena. Byla schválena zahraniční cesta do Řecka. Projednávání zákona o účetnictví a doplňkovém penzijním spoření bylo přerušeno do 27. října 2026 za účelem podání pozměňovacích návrhů. Návrh státního rozpočtu na rok 2027 byl projednán v prvním čtení; opozice (STAN, Piráti) předložila návrhy usnesení neschvalující základní parametry rozpočtu kvůli vysokému deficitu.",
+    "notes": "Přepis obsahuje četné technické chyby (opakující se fráze „Představující se na výboru“, „Představující zákon“), které byly pro účely shrnutí ignorovány. Části přepisu v závěru (od 18. části) vykazují vysokou míru halucinací modelu, obsahují nesmyslné opakování a fragmenty textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Patrik Pařil",
+        "person_id": "psp:person:7031",
+        "affiliation": "Rozpočtový výbor"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "Ministerstvo financí"
+      },
+      {
+        "name": "Mojmír Hampl",
+        "person_id": "psp:person:5540",
+        "affiliation": "Národní rozpočtová rada"
+      },
+      {
+        "name": "Vojtěch Munzar",
+        "person_id": "psp:person:6486",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "STAN",
+      "Piráti",
+      "SPD"
+    ],
+    "institutions": [
+      "Senát",
+      "NKÚ",
+      "Akademie věd ČR",
+      "Ministerstvo financí",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Státní rozpočet jako nejobjemnější složka veřejných rozpočtů hospodařil se schodkem 290,7 miliardy korun.",
+      "type": "paraphrase",
+      "speaker": "Alena Schillerová",
+      "affiliation": "Ministerstvo financí",
+      "timestamp": "14/04:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3192_highlight_00.jpg",
+      "context": "Údaj odpovídá výsledku státního rozpočtu ČR za rok 2023, který byl dle dat Ministerstva financí ČR uzavřen se schodkem 288,5 miliardy korun (včetně započtení některých specifických operací se částka blíží uváděným 290,7 mld. Kč). Jde o ověřitelný údaj ze závěrečného účtu kapitoly státního rozpočtu."
+    },
+    {
+      "text": "Státní dluh dosáhl na konci roku 2025 přibližně 3,7 bilionů a od roku 2021 se zvýšil o 1,2 bilionů.",
+      "type": "citation",
+      "speaker": "Jan Málek",
+      "affiliation": "NKÚ",
+      "timestamp": "14/08:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3192_highlight_01.jpg",
+      "context": "Státní dluh ČR ke konci roku 2023 činil 3,11 bilionu Kč. Tvrzení o 3,7 bilionech ke konci roku 2025 je predikcí, nikoliv historickým faktem, a nárůst o 1,2 bilionu od roku 2021 odpovídá trendu zadlužování v daném období dle dat MF ČR a zpráv NKÚ."
+    },
+    {
+      "text": "Na novou 100 Kč příjmů připadá téměř 200 Kč nových výdajů.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "22/06:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3192_highlight_02.jpg",
+      "context": "Toto tvrzení je metaforickým vyjádřením strukturálního deficitu a vysokého podílu mandatorních výdajů v rozpočtu. Nelze jej interpretovat jako přesný matematický poměr všech příjmů a výdajů státu, jde o politickou interpretaci rozpočtové nerovnováhy."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Poslanec Ševčík (SPD) označil návrh zákona o účetnictví za „idiotský“ a projev směřování k „Eurosajuzu“ a „horšímu než RVHP“.",
+      "speaker": "Ševčík",
+      "affiliation": "SPD",
+      "timestamp": "6/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3192_controversy_00.jpg",
+      "context": "Výrok je hodnotícím politickým soudem poslance. Označení „Eurosajuz“ či „horší než RVHP“ jsou subjektivní politické metafory, které nelze fakticky ověřit, neboť se nejedná o věcnou argumentaci k obsahu zákona o účetnictví."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,221 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-12T19:56:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3194",
+    "name": "Opominutý význam patologie v posledních letech pro klinickou praxi",
+    "classification": "Seminář",
+    "start_date": "2026-10-12T15:02",
+    "end_date": "2026-10-12T19:00",
+    "sources": [
+      "final/event_3194_2026-10-12_opominuty-vyznam-patologie-v-poslednich-letech-pro.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012150004.mp4",
+        "from_sec": 145
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012151002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012152004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012153004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012154004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012155004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012160004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012161004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012162004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012163004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012164004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012165004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012170006.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012171006.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012172006.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012173006.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012174001.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012175006.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012180003.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012181005.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012182004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012183000.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/J205P1/2026/10/12/_20261012184009.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 23,
+    "parts_total": 23,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se konal 12. října 2026 v Poslanecké sněmovně ČR pod záštitou poslance Libora Vondráčka. Cílem akce bylo otevřít odbornou a veřejnou debatu o dopadech pandemie covid-19, zejména v souvislosti s plošným očkováním mRNA preparáty, a zdůraznit nezastupitelnou roli patologie při zpětném hodnocení kvality medicínské péče a bezpečnosti léčiv.\n\nOrganizátoři (v čele s Janou Gandelovičovou a Darinou Kočiš) kritizovali absenci oficiální reflexe covidové doby, nedostatečnou analýzu dat o úmrtnosti a nízkou míru provádění pitev u náhlých úmrtí. Seminář si kladl za cíl představit data z mezinárodních studií a histopatologických nálezů, které podle řečníků naznačují závažné bezpečnostní signály spojené s vakcinací.",
+    "main_points": [
+      "**Libor Vondráček (poslanec)** — Poskytl záštitu semináři s cílem podpořit diskuzi založenou na datech (evidence-based medicine) bez ideologického zabarvení. `[1/04:01]`",
+      "**Jana Gandelovičová (kardioložka)** — Zdůraznila roli patologie jako „arbitra medicíny“ a kritizovala nízkou míru pitev v ČR během pandemie. `[1/08:12]`",
+      "**Ute Krüger (patoložka)** — Prezentovala histopatologický atlas „Vaccinated Dead“ a upozornila na agresivnější průběhy nádorových onemocnění po očkování. `[2/02:00]`",
+      "**Wiebke Maniche (lékařka)** — Představila statistickou analýzu dat z Dánska, Švédska a Německa, poukázala na rozdílnou toxicitu šarží vakcín. `[10/02:00]`",
+      "**Tomáš Fürst (matematik)** — Kritizoval SÚKL za nečinnost při hlášení nežádoucích účinků a selhání principu předběžné opatrnosti. `[18/02:00]`",
+      "**Aleš Novotný (lékař)** — Shrnul německou diskuzi o covidových opatřeních a označil je za vědecky nepodložená. `[19/02:00]`",
+      "**Karel Janeček (mecenáš)** — Označil plošné očkování dětí za „zločin proti principům života“ a vyzval k vyvození odpovědnosti. `[22/00:00]`"
+    ],
+    "outcome": "Formální závěr nebyl přijat, neboť se jednalo o seminář, nikoliv o hlasování. Dominujícím postojem řečníků a organizátorů byla výzva k:\n* Obnovení transparentnosti v nakládání s daty o očkování.\n* Důslednému provádění pitev u úmrtí v časové souvislosti s očkováním.\n* Vyvození politické a odborné odpovědnosti za postup během pandemie.\n* Zajištění nezávislého vědeckého zkoumání dlouhodobých následků mRNA preparátů.",
+    "notes": "Přepis obsahuje četné technické artefakty (opakující se fráze, useknutá slova, chybějící diakritiku). Části 8, 9 a 17 obsahují technické pauzy nebo jsou nesrozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "Poslanec"
+      },
+      {
+        "name": "Jana Gandelovičová",
+        "person_id": null,
+        "affiliation": "Kardioložka"
+      },
+      {
+        "name": "Ute Krüger",
+        "person_id": null,
+        "affiliation": "Patoložka"
+      },
+      {
+        "name": "Wiebke Maniche",
+        "person_id": null,
+        "affiliation": "Lékařka"
+      },
+      {
+        "name": "Tomáš Fürst",
+        "person_id": null,
+        "affiliation": "Matematik"
+      },
+      {
+        "name": "Aleš Novotný",
+        "person_id": null,
+        "affiliation": "Lékař"
+      },
+      {
+        "name": "Karel Janeček",
+        "person_id": "psp:person:1855",
+        "affiliation": "Mecenáš"
+      }
+    ],
+    "parties": [
+      "Svobodní"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna ČR",
+      "SÚKL",
+      "RKI"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Patologie je stěžejní obor medicíny, který nám, klinikům, pomáhá v určení diagnózy a tím nasměruje adekvátní terapii individuálně pro pacienta.",
+      "type": "paraphrase",
+      "speaker": "Jana Gandelovičová",
+      "affiliation": "Kardioložka",
+      "timestamp": "1/09:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3194_highlight_00.jpg",
+      "context": "Tvrzení odpovídá medicínskému konsenzu. Patologie je základním diagnostickým oborem, který prostřednictvím histologického a cytologického vyšetření určuje povahu onemocnění a přímo ovlivňuje volbu léčebného postupu (např. v onkologii)."
+    },
+    {
+      "text": "Tři ze čtyř hlášených nežádoucích účinků v našich datech se týkaly žen, což je silný signál, který by měl být prozkoumán.",
+      "type": "paraphrase",
+      "speaker": "Wiebke Maniche",
+      "affiliation": "Lékařka",
+      "timestamp": "11/02:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3194_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit bez přístupu ke konkrétnímu datovému souboru, na který řečnice odkazuje. Statistické rozdíly ve výskytu nežádoucích účinků mezi pohlavími jsou v medicíně běžně sledovaným jevem, vyžadujícím další analýzu kauzality."
+    },
+    {
+      "text": "SÚKL nezastavil ani jednu šarži, přestože dostal obrovské množství hlášení na vedlejší účinky včetně úmrtí.",
+      "type": "paraphrase",
+      "speaker": "Tomáš Fürst",
+      "affiliation": "Matematik",
+      "timestamp": "19/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3194_highlight_02.jpg",
+      "context": "SÚKL má zákonnou pravomoc pozastavit šarži léčiva, pokud existuje důvodné podezření na ohrožení bezpečnosti. Tvrzení, že SÚKL nezastavil žádnou šarži, je v rozporu s veřejně dostupnými záznamy ústavu, který v minulosti šarže (např. u vakcín či jiných léčiv) z preventivních důvodů stahoval či pozastavoval."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Karel Janeček označil konkrétní osoby (Hel, Smejkal, Konvalinka) za „zločince“, kteří musí být označeni a nést následky. Jde o přímý útok na konkrétní představitele české vědy a medicíny, což je politicky vysoce citlivé.",
+      "speaker": "Karel Janeček",
+      "affiliation": "Mecenáš",
+      "timestamp": "22/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3194_controversy_00.jpg",
+      "context": "Výrok je subjektivním hodnotícím soudem a politickým prohlášením, nikoliv faktickým tvrzením. Označení osob za „zločince“ v kontextu veřejné debaty o pandemii COVID-19 je předmětem ostré společenské polarizace a právně nebylo v tomto smyslu potvrzeno žádným soudním rozhodnutím."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
