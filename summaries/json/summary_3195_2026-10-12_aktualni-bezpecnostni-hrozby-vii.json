@@ -1,0 +1,256 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-12T14:54:40",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3195",
+    "name": "Aktuální bezpečnostní hrozby VII.",
+    "classification": "Konference",
+    "start_date": "2026-10-12T08:59",
+    "end_date": "2026-10-12T16:00",
+    "sources": [
+      "final/event_3195_2026-10-12_aktualni-bezpecnostni-hrozby-vii.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012085004.mp4",
+        "from_sec": 593
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012090004.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012091004.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012092004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012093004.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012094004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012095004.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012100004.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012102004.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012103004.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012104004.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012105004.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012110004.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012111004.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012112004.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012113004.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012114004.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012115004.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012120004.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012121004.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012122004.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012123004.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012124004.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012125004.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012130004.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012131004.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012132004.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012133004.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/12/_20261012134004.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 29,
+    "parts_total": 30,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Konference se zaměřila na analýzu současné bezpečnostní situace v kontextu ruské agrese na Ukrajině, hybridních hrozeb a technologického vývoje. Cílem bylo poskytnout platformu pro expertní diskuzi mezi zástupci bezpečnostních složek, armády, státní správy a zahraničními partnery.\n\nJednání sloužilo jako kontrolní a koordinační prvek v systému národní bezpečnosti. Důraz byl kladen na nadstranický přístup k vnitřní bezpečnosti, posílení rezilience společnosti a nutnost zrychlení akvizičních procesů v reakci na dynamicky se měnící bezpečnostní prostředí.",
+    "main_points": [
+      "**Pavel Žáček (Poslanecká sněmovna)** — Zdůraznil nadstranickou povahu konference a roli Sněmovny jako kontrolního prvku. Upozornil na nutnost zrychlení akvizic a potřebu vytvoření pozice národního bezpečnostního poradce. `[2/02:07]`",
+      "**Michal Koudelka (BIS)** — Označil Rusko za největší bezpečnostní hrozbu pro ČR. Varoval před „kognitivní válkou“ a ruskými subverzními operacemi. Upozornil na zneužívání AI v dezinformačních kampaních. `[3/00:00]`",
+      "**Martin Vondrášek (Policie ČR)** — Prezentoval stabilní stav kriminality, ale varoval před přesunem trestné činnosti do virtuálního prostoru. Zdůraznil potřebu personální stabilizace policie. `[5/04:14]`",
+      "**Jiří Mazánek (NCOZ)** — Varoval před „zločinem jako službou“ a praním špinavých peněz skrze realitní trh a kryptoměny. Apeloval na nutnost stát se „digitální policií“. `[9/00:00]`",
+      "**Filip Dvořák (Expert na AI)** — Analyzoval rizika AI, zejména „ekonomiku tokenů“ a možnost zneužití otevřených modelů útočníky. Varoval před technologickou závislostí na USA. `[13/00:00]`",
+      "**Jean-Francois Blanger (Royal Danish Defence College)** — Představil koncept „strategické nezávislosti“ Evropy a vyzval k masivním investicím do evropského zbrojního průmyslu. `[22/00:00]`"
+    ],
+    "outcome": "Nebyla přijata formální usnesení, ale vykrystalizoval konsenzus o nutnosti:\n* Zrychlit legislativní úpravy pro boj s kyberkriminalitou a nelegálním zaměstnáváním.\n* Prohloubit spolupráci mezi zpravodajskými službami, policií a soukromým sektorem.\n* Budovat evropskou strategickou nezávislost v oblasti obranných technologií.\n* Připravit se na scénáře po skončení konfliktu na Ukrajině.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se halucinace (zejména v částech 20–21). Části 20 a 21 jsou z velké části nesrozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Pavel Žáček",
+        "person_id": "psp:person:5226",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Michal Koudelka",
+        "person_id": "psp:person:6392",
+        "affiliation": "BIS"
+      },
+      {
+        "name": "Martin Vondrášek",
+        "person_id": "psp:person:3075",
+        "affiliation": "Policie ČR"
+      },
+      {
+        "name": "Jiří Mazánek",
+        "person_id": "psp:person:5987",
+        "affiliation": "NCOZ"
+      },
+      {
+        "name": "Filip Dvořák",
+        "person_id": null,
+        "affiliation": "Expert na AI"
+      },
+      {
+        "name": "Jean-Francois Blanger",
+        "person_id": null,
+        "affiliation": "Royal Danish Defence College"
+      },
+      {
+        "name": "Vasyl Zvarych",
+        "person_id": null,
+        "affiliation": "Velvyslanec Ukrajiny"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "NATO",
+      "EU"
+    ],
+    "institutions": [
+      "BIS",
+      "Policie ČR",
+      "NCOZ",
+      "NÚKIB",
+      "Royal Danish Defence College"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Rusko je největší bezpečnostní hrozbou pro Českou republice a ještě dlouho tomu tak bude.",
+      "type": "citation",
+      "speaker": "Michal Koudelka",
+      "affiliation": "BIS",
+      "timestamp": "3/01:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3195_highlight_00.jpg",
+      "context": "Toto tvrzení koresponduje s Výročními zprávami BIS, které dlouhodobě označují aktivity ruských zpravodajských služeb za hlavní hrozbu pro bezpečnost a stabilitu ČR. Hodnocení vychází z analýz kontrarozvědky o kybernetických útocích, dezinformačních kampaních a vlivových operacích."
+    },
+    {
+      "text": "Kriminalita se přesouvá ze světa fyzického do světa virtuálního a bude to pokračovat i v následujících letech.",
+      "type": "citation",
+      "speaker": "Martin Vondrášek",
+      "affiliation": "Policie ČR",
+      "timestamp": "6/01:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3195_highlight_01.jpg",
+      "context": "Statistiky Policie ČR dlouhodobě potvrzují trend nárůstu kybernetické kriminality, zejména v oblasti podvodů na internetu a útoků na platební systémy. Tento vývoj reflektuje celoevropský trend digitalizace ekonomiky a přesunu kriminálních aktivit do online prostoru."
+    },
+    {
+      "text": "Pokud se nestaneme digitální policií a zůstaneme na úrovni, tak nemáme šanci.",
+      "type": "citation",
+      "speaker": "Jiří Mazánek",
+      "affiliation": "NCOZ",
+      "timestamp": "11/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3195_highlight_02.jpg",
+      "context": "Jde o expertní názor na nutnost technologické modernizace bezpečnostních sborů. Potřeba investic do kybernetických kapacit a specializovaných útvarů je v souladu s vládní Koncepcí rozvoje Policie ČR a strategiemi kybernetické bezpečnosti státu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kontroverzní návrh:** Zrušení nebo omezení činnosti soukromých bezpečnostních agentur v oblasti odposlechů a sledování.\n    * **Kdo:** Identifikováno v diskuzi (poslanec).\n    * **Proč:** Obava ze zneužití techniky soukromými subjekty, nad kterými není dostatečná kontrola. `[16/02:09]`",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "16/02:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3195_controversy_00.jpg",
+      "context": "Činnost soukromých bezpečnostních služeb v ČR upravuje zákon č. 274/2021 Sb. (o soukromých bezpečnostních službách). Návrhy na omezení jejich pravomocí v oblasti sledování jsou předmětem politické debaty o hranici mezi soukromým podnikáním a pravomocemi státních orgánů činných v trestním řízení."
+    },
+    {
+      "statement": "* **Kontroverzní výrok:** Kritika premiéra Babiše ohledně nedostatečné razance v bezpečnostní politice a absence národního bezpečnostního poradce.\n    * **Kdo:** Radoslav Radu (dotaz z pléna), Pavel Žáček (reakce).\n    * **Proč:** Politicky citlivé téma zpochybňující efektivitu současné vlády v bezpečnostní architektuře. `[19/02:00]`",
+      "speaker": "Radoslav Radu",
+      "affiliation": null,
+      "timestamp": "19/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3195_controversy_01.jpg",
+      "context": "Funkce národního bezpečnostního poradce není v ČR legislativně ukotvena jako stálý ústavní post, což je předmětem dlouhodobé politické kritiky opozice. Efektivita bezpečnostní architektury je subjektivním politickým hodnocením, které nelze objektivně změřit bez definovaných výkonnostních ukazatelů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
