@@ -1,0 +1,145 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-14T15:02:58",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3199",
+    "name": "11. schůze Výboru pro zdravotnictví",
+    "classification": "Jednání výborů",
+    "start_date": "2026-10-14T07:44",
+    "end_date": "2026-10-14T08:25",
+    "sources": [
+      "final/event_3199_2026-10-14_11-schuze-vyboru-pro-zdravotnictvi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/14/_20261014074003.mp4",
+        "from_sec": 267
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/14/_20261014075003.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/14/_20261014080003.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/14/_20261014081003.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/14/_20261014082003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 5,
+    "parts_total": 5,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání 11. schůze Výboru pro zdravotnictví se konalo 14. října 2026. Hlavním bodem programu bylo projednání vládního návrhu zákona o pojistném na veřejné zdravotní pojištění (sněmovní tisk 235), jehož cílem je zajistit finanční stabilitu systému veřejného zdravotního pojištění pro rok 2027 prostřednictvím mimořádné valorizace plateb za státní pojištěnce.\n\nKromě legislativního procesu se výbor zabýval otázkami financování pacientských organizací, problematikou úhradové vyhlášky pro fakultní nemocnice, digitalizací zdravotnictví a přípravou výběrového řízení na leteckou záchrannou službu. Cílem bylo stanovit stanoviska výboru k předloženým návrhům a schválit proceduru pro nadcházející třetí čtení v Poslanecké sněmovně.",
+    "main_points": [
+      "**Jiří Mašek (ANO, předseda výboru)** — Vedl jednání, konstatoval potřebu finanční stability systému. Navrhl hlasovací proceduru pro sněmovní tisk 235. [1/04:24]",
+      "**Ministr zdravotnictví** — Obhájil nutnost valorizace plateb za státní pojištěnce pro rok 2027. K pozměňovacímu návrhu Michaely Šebelové uvedl, že je předčasný. [1/06:19]",
+      "**Michaela Šebelová (STAN)** — Předložila pozměňovací návrh (návrh B) na podporu financování pacientských organizací. [2/04:10]",
+      "**Tom Filip (ODS)** — Podpořil diskuzi o financování pacientských organizací a upozornil na rizika úhradové vyhlášky pro fakultní nemocnice. [3/02:03]",
+      "**Štěpán Slovák (ANO)** — Dotazoval se na podporu návrhu pana Šťastného a zdůraznil potřebu vyvarovat se „přílepků“. [3/00:00]",
+      "**David Kasal (ANO)** — Upozornil na nedostatky v digitalizaci zdravotnictví a zpoždění výběrového řízení na leteckou záchrannou službu. [4/08:03]"
+    ],
+    "outcome": "Výbor přijal usnesení č. 58 k vládnímu návrhu zákona (tisk 235):\n* **Návrh A (poslanec Šťastný):** Výbor přijal doporučující stanovisko.\n* **Návrh B (poslankyně Šebelová):** Výbor přijal nedoporučující stanovisko.\n* **Výjezdní zasedání:** Schválen výjezd do Jihomoravského kraje (11.–12. listopadu 2026).\n* **Další postup:** Výbor se dohodl na projednání dalších bodů v „variabilním týdnu“ (3.–6. listopadu).",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se halucinace („Představující se na návštěvních výborů“) a místy useknuté věty. Hlasování o usnesení bylo komplikované z důvodu odchodu některých členů výboru v závěru schůze."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jiří Mašek",
+        "person_id": "psp:person:6534",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Ministr zdravotnictví",
+        "person_id": null,
+        "affiliation": "Ministerstvo zdravotnictví"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Tom Filip",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "David Kasal",
+        "person_id": "psp:person:6209",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO",
+      "STAN",
+      "ODS"
+    ],
+    "institutions": [
+      "Výbor pro zdravotnictví",
+      "Ministerstvo zdravotnictví",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V roce 2027 se neobejdeme bez mimořádné valorizace vzhledem k deficitnímu hospodaření systému ve zdravotním pojištění v posledních letech.",
+      "type": "paraphrase",
+      "speaker": "Ministr zdravotnictví",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "1/07:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3199_highlight_00.jpg",
+      "context": "Hospodaření systému veřejného zdravotního pojištění je závislé na výběru pojistného a výdajích na péči. Podle dat ÚZIS a MF ČR se systém v posledních letech potýká s tlakem na rozpočet, nicméně potřeba mimořádné valorizace v roce 2027 je predikcí budoucího vývoje, kterou nelze fakticky potvrdit jako hotový fakt."
+    },
+    {
+      "text": "Pacientské organizace vykonávají důležitou práci a zasloužily by si stabilní a předvídatelné financování.",
+      "type": "citation",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "2/05:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3199_highlight_01.jpg",
+      "context": "Jde o politický názor a hodnotové vyjádření. Financování pacientských organizací je v současnosti řešeno převážně formou dotačních programů Ministerstva zdravotnictví, což je systém, který je často kritizován pro svou roční periodicitu a nedostatečnou dlouhodobou jistotu."
+    },
+    {
+      "text": "Letecká záchranná služba je největší zakázka v historii ministerstva zdravotnictví, proto jsme to dělali velmi pečlivě.",
+      "type": "citation",
+      "speaker": "Ministr zdravotnictví",
+      "affiliation": "Ministerstvo zdravotnictví",
+      "timestamp": "5/04:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3199_highlight_02.jpg",
+      "context": "Veřejná zakázka na zajištění provozu letecké záchranné služby (LZS) patří z hlediska finančního objemu (v řádech miliard korun) k nejvýznamnějším kontraktům resortu zdravotnictví. Tvrzení o „největší zakázce v historii“ je subjektivní hodnocení, které závisí na započítání inflace a rozsahu jednotlivých tendrů v čase."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Návrh Michaely Šebelové na zrušení 5% hranice pro financování pacientských organizací. Michaela Šebelová (STAN) navrhla zrušení 5% hranice, která podle ní brání efektivnímu financování organizací. Ministr zdravotnictví návrh odmítl jako předčasný a legislativně problematický, což vyvolalo spor o to, zda je současný systém funkční.",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "3/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3199_controversy_00.jpg",
+      "context": "Jedná se o legislativní spor o nastavení pravidel pro dotační tituly. Zrušení 5% hranice (spoluúčasti či limitu) je předmětem odborné diskuse; zda je návrh legislativně problematický, je právní interpretace Ministerstva zdravotnictví, nikoliv objektivní fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

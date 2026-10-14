@@ -1,0 +1,126 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-14T15:04:00",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3204",
+    "name": "Tisková konference poslaneckého klubu ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-13T13:22",
+    "end_date": "2026-10-13T13:40",
+    "sources": [
+      "final/event_3204_2026-10-13_tiskova-konference-poslaneckeho-klubu-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5659_video-psp-20261013-1322-8-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem vyjádření postoje ODS k aktuálnímu politickému dění, výsledkům voleb a legislativním bodům projednávaným v Poslanecké sněmovně. Hlavními tématy bylo druhé kolo senátních voleb, projednávání prezidentského veta zákona o státní službě, návrh na zavedení windfall tax pro rafinérie a kritika vládní legislativní činnosti v oblasti justice a evropské agendy.\n\nCílem bylo mobilizovat voliče pro druhé kolo senátních voleb, vymezit se vůči vládní politice (hnutí ANO a koaliční partneři) a prezentovat ODS jako stranu hájící odbornost a ústavní principy.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Vyzval voliče k účasti ve druhém kole senátních voleb jako k „hrázi“ proti zadlužování státu a útokům na instituce. Kritizoval vládní návrh zákona o státní službě jako „hloupou odvetu“ za spory s Hradem a promarněnou příležitost k reformě. Odmítl zavedení windfall tax pro rafinérie, neboť podle něj ohrožuje investice a zaměstnanost. `[1/01:00]`",
+      "**Eva Decroix (ODS)** — Kritizovala způsob předkládání justičních tisků ministrem spravedlnosti (chybějící projednání v Legislativní radě vlády, tzv. gold plating). Varovala před riziky novely trestního zákoníku (náhradní mateřství) a nesouhlasila se snahou umožnit zastupování před soudem právnickým osobám namísto advokátů. `[1/03:20]`",
+      "**Karel Haas (ODS)** — Označil legislativní provedení zákona o státní službě za „legislativní paskvil“ (hodnocení 4–5). Upozornil na problematické přílepky, např. zrušení dozorčí komise Národní sportovní agentury, která kontroluje 8 miliard korun. Kritizoval omezení ústavní pravomoci prezidenta jmenovat vedoucí zastupitelských misí běžným zákonem. `[1/06:30]`",
+      "**Petr Sokol (ODS)** — Zaměřil se na nadcházející Evropskou radu. Kritizoval vládu za podporu evropských unijních daní, nedostatečnou aktivitu v otázce migrace (nepřipojení se k „rwandskému řešení“) a váhavý postoj k podpoře Ukrajiny. `[1/08:45]`"
+    ],
+    "outcome": "ODS se rozhodla nepodpořit vládní podobu zákona o státní službě při přehlasování prezidentského veta. Strana zvažuje podání ústavní stížnosti v bodě, který omezuje ústavní pravomoci prezidenta při jmenování diplomatů. V otázce povolebních koalic ODS preferuje sestavování vlád bez hnutí ANO, ačkoliv konečné rozhodnutí ponechává na místních organizacích.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Eva Decroix",
+        "person_id": "psp:person:6727",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Karel Haas",
+        "person_id": "psp:person:6751",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Sokol",
+        "person_id": "psp:person:7045",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO",
+      "STAN",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Evropská rada",
+      "Národní sportovní agentura"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zrušení toho byrokratického molochu je správná cesta, ale legislativní provedení ze strany současné koalice je za čtyři mínus.",
+      "type": "paraphrase",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/07:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3204_highlight_00.jpg",
+      "context": "Hodnocení kvality legislativního procesu je subjektivním politickým názorem. Objektivní ověření kvality 'za čtyři mínus' není možné, neboť jde o hodnotící úsudek řečníka."
+    },
+    {
+      "text": "Ten návrh na windfall tax pro rafinérie může přivodit víc problémů než pozitivních výsledků a pohonné hmoty naopak zdražit.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3204_highlight_01.jpg",
+      "context": "Ekonomické dopady zdanění mimořádných zisků (windfall tax) jsou předmětem odborných debat. Vliv na koncové ceny pohonných hmot je teoreticky možný skrze přenos nákladů na spotřebitele, ale míra tohoto vlivu závisí na tržní situaci a konkrétním nastavení daňové sazby."
+    },
+    {
+      "text": "Dozorčí komise Národní sportovní agentury bezúplatně kontroluje cca 8 miliard korun ročně, jejich zrušení je materiální přílepek, který nemá v zákoně co dělat.",
+      "type": "paraphrase",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/08:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3204_highlight_02.jpg",
+      "context": "Rozpočet Národní sportovní agentury se v posledních letech skutečně pohybuje v řádech miliard korun (dle zákona o státním rozpočtu). Otázka, zda je zrušení dozorčí komise 'materiálním přílepkem', je právní interpretací legislativního procesu, nikoliv faktickým údajem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Martin Kupka označil návrh na zavedení windfall tax pro rafinérie za škodlivý, mířící na jednu firmu, což může poškodit ekonomiku a zaměstnanost v Litvínově a Kralupech.",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/12:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3204_controversy_00.jpg",
+      "context": "V ČR je jediným provozovatelem rafinérií společnost ORLEN Unipetrol, která provozuje závody v Litvínově a Kralupech nad Vltavou. Dopad zdanění na zaměstnanost je předmětem ekonomických analýz, které se liší podle zvolených modelů a předpokladů."
+    },
+    {
+      "statement": "Karel Haas kritizoval „malichernou pomstu“ party kolem Libora Vondráčka vůči prezidentovi republiky skrze zákon o státní službě.",
+      "speaker": "Karel Haas",
+      "affiliation": "ODS",
+      "timestamp": "1/08:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3204_controversy_01.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o politickou interpretaci motivace jiných subjektů, kterou nelze objektivně doložit fakty ani veřejnými dokumenty."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

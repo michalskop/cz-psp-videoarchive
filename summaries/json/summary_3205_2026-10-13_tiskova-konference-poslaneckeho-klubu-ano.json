@@ -1,0 +1,141 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-14T15:03:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3205",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-13T13:41",
+    "end_date": "2026-10-13T14:01",
+    "sources": [
+      "final/event_3205_2026-10-13_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5662_video-psp-20261013-1341-31-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí ANO byla svolána za účelem představení priorit a legislativních bodů pro nadcházející týden jednání Poslanecké sněmovny. Hlavním cílem bylo informovat o projednávání implementace evropských nařízení, vládních návrhů zákonů v různých fázích čtení a o personálních volbách do orgánů Sněmovny.\n\nKlíčovými tématy byly mimořádná sektorová daň pro rafinérie, novela zákona o návykových látkách (tzv. „Lex kratom“), stabilizace financování zdravotnictví a úpravy v oblasti digitální ekonomiky a trhu práce.",
+    "main_points": [
+      "**Robert Králíček (ANO)** — Očekává konstruktivní jednání Sněmovny. Program zahrnuje implementaci EU legislativy, zákon o daních z příjmů, zákon o podnikání na kapitálovém trhu a vládní návrh o mimořádných situacích na vnitřním trhu EU. Zmínil také volby do orgánů Sněmovny. [1/00:30]",
+      "**Alena Schillerová (ANO)** — Představila zavedení dočasné mimořádné sektorové daně na rafinérský sektor. Očekávaný výnos je 5,5 mld. Kč ročně. Zdůraznila, že daň není namířena na čerpací stanice a neměla by se promítnout do cen pohonných hmot. [1/02:15]",
+      "**Adam Vojtěch (ANO)** — Představil novelu zákona o pojistném na veřejné zdravotní pojištění. Cílem je vyrovnané hospodaření systému v roce 2027 (605 mld. Kč). Podpořil snížení valorizace z 21 mld. na 13 mld. Kč. Odmítl návrh na financování pacientských organizací jako „přílepek“. [1/05:15]",
+      "**Alena Schillerová (ANO)** — Představila „Lex kratom“: zvýšení věku na 21 let, zákaz prodeje na dálku, zavedení spotřební daně a zvýšení DPH na 21 %. [1/08:45]",
+      "**Aleš Juchelka (ANO)** — Reagoval na obavy z legalizace švarcsystému (pouze zpřesnění definice). Oznámil revizi odměňování státních zaměstnanců a úpravy podpory v nezaměstnanosti s cílem ušetřit 4,5–5 mld. Kč. [1/11:30]",
+      "**Radek Vondráček (ANO)** — Hovořil o zákonu o digitální ekonomice (DSA). Zdůraznil ochranu svobody projevu a pojistky pro „důvěryhodné oznamovatele“. [1/16:03]"
+    ],
+    "outcome": "Jednání bylo ukončeno z důvodu začátku schůze Poslanecké sněmovny. Nebylo přijato žádné formální rozhodnutí, šlo o informativní tiskovou konferenci k vládním prioritám.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Robert Králíček",
+        "person_id": "psp:person:6509",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Adam Vojtěch",
+        "person_id": "psp:person:5768",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Aleš Juchelka",
+        "person_id": "psp:person:6463",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Radek Vondráček",
+        "person_id": "psp:person:6165",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "EU",
+      "Ministerstvo financí",
+      "Ministerstvo zdravotnictví",
+      "Celní správa"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My očekáváme, že díky této dani vybereme asi 5,5 miliardy korun ročně, a to již za rok 2026.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/03:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3205_highlight_00.jpg",
+      "context": "Jedná se o odhad budoucího výnosu daně, který závisí na parametrech legislativního návrhu a ekonomickém vývoji. Nelze nezávisle ověřit jako fakt, jde o politický odhad rozpočtového dopadu."
+    },
+    {
+      "text": "Počítáme s tím, že příjmy i výdaje systému budou 605 miliard korun, to znamená skutečně po několika letech vyrovnaná bilance.",
+      "type": "citation",
+      "speaker": "Adam Vojtěch",
+      "affiliation": "ANO",
+      "timestamp": "1/06:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3205_highlight_01.jpg",
+      "context": "Bilance systému veřejného zdravotního pojištění je závislá na výběru pojistného a výdajích na zdravotní péči. Údaj 605 miliard korun je projekcí, jejíž naplnění závisí na makroekonomickém vývoji a úhradové vyhlášce Ministerstva zdravotnictví."
+    },
+    {
+      "text": "Zvyšujeme minimální věk pro nákup psychomodulačních látek z 18 na 21 let.",
+      "type": "citation",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/09:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3205_highlight_02.jpg",
+      "context": "Vládní návrh zákona o psychomodulačních látkách skutečně počítá s věkovým omezením prodeje od 18 let, přičemž debata o zvýšení věkové hranice na 21 let je součástí pozměňovacích návrhů v legislativním procesu."
+    },
+    {
+      "text": "Výdaje na podporu v nezaměstnanosti vzrostly meziročně o 3,1 miliardy korun, což je více než nárůst za celý rok 2025 oproti roku 2024.",
+      "type": "citation",
+      "speaker": "Aleš Juchelka",
+      "affiliation": "ANO",
+      "timestamp": "1/14:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3205_highlight_03.jpg",
+      "context": "Data o výdajích na podporu v nezaměstnanosti spravuje Ministerstvo práce a sociálních věcí (MPSV) a ČSSZ. Pro ověření je nutné porovnat konkrétní účetní závěrky za daná období, tvrzení o meziročním nárůstu nelze bez přístupu k aktuálním datům pokladního plnění státního rozpočtu potvrdit."
+    },
+    {
+      "text": "Internet musí být bezpečným prostorem, ale nesmí přestat být prostorem svobody.",
+      "type": "citation",
+      "speaker": "Radek Vondráček",
+      "affiliation": "ANO",
+      "timestamp": "1/19:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3205_highlight_04.jpg",
+      "context": "Jde o hodnotový politický výrok, který není fakticky ověřitelný. Interpretace „svobody“ a „bezpečí“ na internetu je předmětem dlouhodobé politické a právní debaty."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Odmítnutí pozměňovacího návrhu poslankyně Šebelové (financování pacientských organizací) ministrem Adamem Vojtěchem. Označil návrh za „přílepek“ k zákonu o veřejném zdravotním pojištění a uvedl, že je předčasný, protože stávající právní úprava funguje necelý rok.",
+      "speaker": "Adam Vojtěch",
+      "affiliation": "ANO",
+      "timestamp": "1/08:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3205_controversy_00.jpg",
+      "context": "Označení návrhu za „přílepek“ je právně-politická argumentace, nikoliv faktická. Zda je právní úprava „předčasná“, je subjektivní hodnocení ministra, přičemž platnost stávající úpravy lze ověřit v zákoně č. 48/1997 Sb., o veřejném zdravotním pojištění."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

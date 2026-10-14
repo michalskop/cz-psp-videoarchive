@@ -1,0 +1,135 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-14T15:06:13",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3200",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-13T12:00",
+    "end_date": "2026-10-13T12:22",
+    "sources": [
+      "final/event_3200_2026-10-13_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5653_video-psp-20261013-120-2-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí SPD se zaměřila na prezentaci výsledků nedávného koaličního jednání a stanovení priorit pro nadcházející legislativní proces. Hlavními tématy byla revize inkluze, postoj k válce na Ukrajině a podpora mírových jednání, problematika emisních povolenek, úprava sociálních dávek pro cizince, zpřísnění pobytových podmínek a legislativní opatření v oblasti bezpečnosti a transparentnosti neziskového sektoru.\n\nCílem konference bylo informovat veřejnost o prosazování programu SPD v rámci vládní koalice a zdůraznit důraz hnutí na národní suverenitu, bezpečnost občanů a ekonomickou efektivitu státu.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Prosazení revize inkluze, požadavek na mírová jednání na Ukrajině, odklad emisních povolenek ETS2, snížení dávek pro Ukrajince o polovinu, příprava zákona typu FARA pro neziskovky, zpřísnění vyhošťování cizinců, podpora kandidátů ANO v Senátu, zákon „můj dům, můj hrad“, zakotvení hotovosti do ústavy, jednorázová dávka 2 000 Kč pro důchodce, zrušení poplatků ČT/ČRo, překvalifikování nelegální migrace na trestný čin. `[1/00:00]`",
+      "**Radek Koten (SPD)** — Podmínění humanitární dávky ekonomickou aktivitou, propojení registrů pro kontrolu cizinců, konec výjimek pro ukrajinská vozidla (technické kontroly). `[1/10:04]`",
+      "**Jindřich Rajchl (SPD)** — Novela trestního zákoníku pro povinnou součinnost orgánů činných v trestním řízení se sněmovními vyšetřovacími komisemi. `[1/14:00]`",
+      "**Libor Vondráček (SPD)** — Přehlasování veta Senátu a prezidenta u služebního zákona pro zefektivnění státní správy. `[1/16:02]`"
+    ],
+    "outcome": "Jednání potvrdilo shodu vládní koalice na řadě legislativních priorit, zejména v oblasti zpřísnění podmínek pro cizince, úpravy sociálních dávek a posílení bezpečnosti (institut nutné obrany). SPD se profiluje jako hybatel těchto změn a deklaruje podporu kandidátům hnutí ANO v senátních volbách jako strategický krok pro prosazení vládního programu.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a useknutá slova, které nemají vliv na pochopení obsahu. Závěr tiskové konference byl zkrácen kvůli časovému vytížení prostorů jinou politickou stranou."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radek Koten",
+        "person_id": "psp:person:6508",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jindřich Rajchl",
+        "person_id": "psp:person:7037",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská rada",
+      "Ministerstvo práce a sociálních věcí",
+      "Ministerstvo spravedlnosti",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Prosadili jsme, že by byla zrušena stávající forma inkluze a dojde k zásadní revizi.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3200_highlight_00.jpg",
+      "context": "Současná podoba společného vzdělávání (inkluze) vychází z novely školského zákona č. 82/2015 Sb. Žádná legislativní změna, která by inkluzi plošně zrušila, nebyla v tomto volebním období přijata."
+    },
+    {
+      "text": "Navrhujeme vyplacení jednorázové dávky 2 000 Kč všem příjemcům všech důchodů.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/08:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3200_highlight_01.jpg",
+      "context": "Jedná se o politický návrh SPD, nikoliv o platnou právní úpravu. O výplatě jednorázových dávek důchodcům rozhoduje vláda a Parlament ČR prostřednictvím zákonů, v současnosti takový návrh není součástí platné legislativy."
+    },
+    {
+      "text": "Návrh přinese úspory na sociálních dávkách, ale také zvýší výběr daní a pojištění snížením práce načerno.",
+      "type": "citation",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/12:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3200_highlight_02.jpg",
+      "context": "Tvrzení o úsporách a vyšším výběru daní v důsledku konkrétního návrhu je hypotetické a nelze jej nezávisle ověřit bez konkrétní ekonomické analýzy dopadů (RIA) daného opatření."
+    },
+    {
+      "text": "Orgány činné v trestním řízení budou povinny poskytovat potřebnou součinnost všem sněmovním vyšetřovacím komisím.",
+      "type": "citation",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "SPD",
+      "timestamp": "1/14:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3200_highlight_03.jpg",
+      "context": "Povinnost součinnosti orgánů činných v trestním řízení (OČTŘ) vůči vyšetřovacím komisím je omezena zákonem č. 141/1961 Sb. (trestní řád) a ústavními principy dělby moci. OČTŘ nejsou ze zákona povinny poskytovat informace, které by ohrozily probíhající živé trestní řízení."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Zrušení dávek pro Ukrajince**\n- **Kdo:** Tomio Okamura (SPD)\n- **Co:** Návrh na okamžité zrušení všech dávek pro Ukrajince.\n- **Proč:** Politicky citlivé téma vyvolávající debaty o humanitární pomoci, integraci a zneužívání sociálního systému.\n- **Čas:** 1/02:01",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/02:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3200_controversy_00.jpg",
+      "context": "Podmínky pro poskytování humanitární dávky uprchlíkům z Ukrajiny upravuje zákon č. 66/2022 Sb. (tzv. Lex Ukrajina). Okamžité zrušení všech dávek je politickým požadavkem SPD, nikoliv platným zákonným stavem."
+    },
+    {
+      "statement": "**Zákon typu FARA pro neziskové organizace**\n- **Kdo:** Tomio Okamura (SPD)\n- **Co:** Zavedení povinnosti transparentního financování pro neziskové organizace s politickým programem.\n- **Proč:** Kritici (včetně zmínky o slovenském Ústavním soudu) varují před omezováním občanské společnosti a stigmatizací neziskového sektoru.\n- **Čas:** 1/03:01",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/03:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3200_controversy_01.jpg",
+      "context": "Návrh na evidenci zahraničního financování neziskových organizací (analogie k americkému FARA) je dlouhodobým tématem SPD. Podobné legislativy v zahraničí (např. Maďarsko, Gruzie) čelily kritice ze strany orgánů EU a mezinárodních organizací pro možný rozpor s principy právního státu a svobody sdružování."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-14T15:05:29",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3201",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-13T12:23",
+    "end_date": "2026-10-13T12:40",
+    "sources": [
+      "final/event_3201_2026-10-13_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5656_video-psp-20261013-1223-29-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se konala po komunálních a senátních volbách. Hlavním cílem bylo zhodnotit volební výsledky, vyjádřit postoj k aktuálním vládním návrhům a představit priority strany pro nadcházející období.\n\nLidovci se zaměřili především na kritiku vládního záměru omezit podporu v nezaměstnanosti, což označili za „tupý škrt“ poškozující lidi nad 50 let a osoby vracející se z rodičovské dovolené či péče o blízké. Dále se řešila otázka zavedení daně pro rafinérie a reflexe volebních výsledků, kde strana obhájila pozici nejsilnější komunální strany, přestože zaznamenala úbytek zastupitelů v malých obcích.",
+    "main_points": [
+      "**Jan Grolich (předseda KDU-ČSL)** — Vyzdvihl smířlivý styl kampaně, který podle něj dokázal čelit útokům hnutí ANO. Ocenil výsledky v Brně a velkých městech. Kritizoval vládní škrty v podpoře nezaměstnanosti a oznámil jednání s odbory. Uvedl, že strana během volebního víkendu získala 50 nových členů. `[1/01:00]`",
+      "**Marian Jurečka (KDU-ČSL)** — Ostrá kritika vládního návrhu na snížení podpory v nezaměstnanosti pro lidi 52+ a pečující osoby (snížení až o 10 000 Kč měsíčně). Argumentoval, že stávající systém umožňuje lidem najít si kvalitnější práci, což zvyšuje příjmy státu o 8–12 %. Navrhl umožnit souběh předčasného důchodu a práce. `[1/02:03]`",
+      "**Benjamin Činčila (KDU-ČSL)** — Poukázal na chaotické jednání vlády, která dříve podporu zvýšila a nyní ji chce škrtnout. Upozornil, že opatření není ani v legislativním procesu, což považuje za právní problém. `[1/04:01]`",
+      "**Tematické body (obecné):**\n    * **Daň z rafinérií:** Lidovci ji odmítají v navržené podobě (zpětná platnost, nekoncepčnost). Pokud by byla zavedena, výnosy by měly jít cíleně postiženým rodinám a firmám, nikoliv do plošných dotací. `[1/07:05]`\n    * **Bezpečnostní situace:** Grolich vyjádřil znepokojení nad obratem v politice Donalda Trumpa vůči Rusku a zdůraznil nutnost jednoty EU. `[1/12:01]`\n    * **Trestní zákoník:** Návrh SPD na kriminalizaci nelegálního překročení hranic označil Grolich za populistické strašení lidí, které nemá opodstatnění. `[1/14:02]`"
+    ],
+    "outcome": "Formální rozhodnutí nepadlo, neboť šlo o tiskovou konferenci. Konsenzem strany je však:\n* Tvrdý odpor proti vládnímu návrhu na osekání podpory v nezaměstnanosti.\n* Příprava na jednání s odbory.\n* Pokračování v analýze volebních výsledků před pondělním celostátním orgánem strany.\n* Odmítavý postoj k plošnému zavedení daně z rafinérií bez jasného cíleného využití prostředků.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Grolich",
+        "person_id": "psp:person:6669",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Benjamin Činčila",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "ANO",
+      "SPD",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská unie",
+      "Evropská rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Tato vláda chce dát lidem podporu jenom pouhý měsíc, což je pro nás nepřijatelné.",
+      "type": "paraphrase",
+      "speaker": "Jan Grolich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3201_highlight_00.jpg",
+      "context": "Tvrzení nelze nezávisle ověřit bez specifikace konkrétního legislativního návrhu nebo vládního opatření, ke kterému se řečník vztahuje. Délka podpory se liší podle typu dávky (např. dávky v hmotné nouzi vs. mimořádná okamžitá pomoc)."
+    },
+    {
+      "text": "Prokazatelně je možné, aby souběh předčasného důchodu a práce přinesl příjmy do státního rozpočtu.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/10:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3201_highlight_01.jpg",
+      "context": "Ekonomicky jde o teoreticky možný scénář, kdy zdanění příjmů pracujících důchodců převýší náklady na výplatu důchodu. Podle dat ČSSZ a MF ČR však vliv na rozpočet závisí na konkrétním nastavení parametrů valorizace a výše výdělků, což je předmětem odborných debat o udržitelnosti důchodového systému."
+    },
+    {
+      "text": "Neznamená to nižší ceny pro občany, zavedení nové daně k tomu nikdy nevede.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/07:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3201_highlight_02.jpg",
+      "context": "Ekonomická teorie (např. přenos daňové zátěže) potvrzuje, že zavedení nové daně obvykle vede k růstu cen pro konečného spotřebitele, pokud je poptávka po zboží neelastická. Tvrzení je v souladu s obecnými principy fiskální ekonomie, ačkoliv dopad na konkrétní ceny závisí na tržním prostředí."
+    },
+    {
+      "text": "Během volebního víkendu se k nám přihlásilo 50 nových členů.",
+      "type": "citation",
+      "speaker": "Jan Grolich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:22",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3201_highlight_03.jpg",
+      "context": "Nelze nezávisle ověřit bez přístupu k interní členské evidenci KDU-ČSL. Jde o subjektivní tvrzení o vnitřních procesech politické strany."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kontroverzní návrh: Kriminalizace nelegálního překročení hranic**\n    * **Kdo:** Tomio Okamura (SPD) – citováno Janem Grolichem (KDU-ČSL).\n    * **Co:** Návrh, aby nelegální překročení hranic bylo opět trestným činem (jako před rokem 1990).\n    * **Proč:** Politicky citlivé téma evokující komunistickou legislativu a vyvolávající obavy z migrace; Grolich to označil za populistické strašení.\n    * **Čas:** 1/14:02",
+      "speaker": "Jan Grolich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/14:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3201_controversy_00.jpg",
+      "context": "Nelegální překročení státní hranice bylo v ČR dekriminalizováno v roce 1990. Návrhy na jeho opětovnou kriminalizaci se v politické debatě objevují opakovaně, avšak v současné legislativě (trestní zákoník č. 40/2009 Sb.) není nelegální překročení hranice samo o sobě trestným činem, pouze přestupkem proti zákonu o pobytu cizinců."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

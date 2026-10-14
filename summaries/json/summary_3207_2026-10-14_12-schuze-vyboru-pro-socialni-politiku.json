@@ -1,0 +1,172 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-14T15:02:41",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3207",
+    "name": "12. schůze Výboru pro sociální politiku",
+    "classification": "Jednání výborů",
+    "start_date": "2026-10-14T07:33",
+    "end_date": "2026-10-14T08:53",
+    "sources": [
+      "final/event_3207_2026-10-14_12-schuze-vyboru-pro-socialni-politiku.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014073002.mp4",
+        "from_sec": 178
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014074002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014080002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014081002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014082002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014083002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014084003.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/14/_20261014085003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 8,
+    "parts_total": 8,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání výboru se zaměřilo na projednání vládního návrhu zákona o důchodovém pojištění (sněmovní tisk 270), který obsahuje parametrické změny důchodového systému, včetně valorizací pro nejstarší seniory a změn v odměňování pracujících důchodců. Součástí programu byla rovněž prezentace výsledků studie Akademie věd ČR k platformové práci, volba členky podvýboru a schválení přijetí delegace z Moldavska.\n\nCílem jednání bylo projednat legislativní návrhy, vyslechnout expertní vstupy k problematice digitálních platforem a připravit podklady pro nadcházející schůze Poslanecké sněmovny, včetně projednávání státního rozpočtu.",
+    "main_points": [
+      "**Monika Březková (předsedkyně výboru)** — Řídila jednání, předložila návrh na volbu Hany Ančíncové do podvýboru a organizovala hlasování o pozměňovacích návrzích k důchodové novele. `[1/02:55]`",
+      "**Hana Ančíňcová (poslankyně)** — Zvolena členkou podvýboru pro sociálně vyloučené lokality a začleňování lidí po výkonu trestu. `[1/06:06]`",
+      "**Alžběta Mangarela (Sociologický ústav AV ČR)** — Prezentovala studii o platformové práci. Upozornila, že až 55 % pracujících v tomto sektoru nedosáhne na minimální mzdu a že český návrh redefinice závislé práce jde nad rámec minimalistické transpozice evropské směrnice. `[1/08:00]`",
+      "**Aleš Juchelka (ministr práce a sociálních věcí)** — Představil vládní návrh důchodové novely (ST 270). Navrhl jednorázový příspěvek 2 000 Kč pro důchodce v roce 2027. Obhajoval zpřesnění definice závislé práce jako reakci na judikaturu soudů. `[4/00:00]`",
+      "**Marian Jurečka (poslanec)** — Předložil řadu pozměňovacích návrhů (např. k ocenění péče, souběhu práce a důchodu). Kritizoval plošnost vládního návrhu a absenci dat k dopadům na státní rozpočet. `[3/00:00]`",
+      "**Zdeňka Blišťanová (poslankyně)** — Předložila pozměňovací návrh č. 1, který se zaměřuje na rozpočtovou odpovědnost, zachování věkové valorizace a vypuštění zvýšení důchodu za výdělečnou činnost. `[6/06:24]`",
+      "**Jonáš Kreisinger (Puck Research)** — Host, který prezentoval výzkum, podle něhož je navrhovaný benefit pro pracující důchodce neefektivní. Doporučil motivovat lidi k odkladu odchodu do důchodu skrze zvýšení čistého příjmu. `[6/00:00]`"
+    ],
+    "outcome": "Výbor přijal usnesení, kterým doporučuje Poslanecké sněmovně vyslovit souhlas s vládním návrhem zákona (ST 270) ve znění přijatého pozměňovacího návrhu ministra Aleše Juchelky (jednorázový příspěvek 2 000 Kč). Ostatní pozměňovací návrhy (předkladatelů Blišťanové a Jurečky) nebyly přijaty. Výbor dále schválil přijetí delegace z Moldavska (12. listopadu) a stanovil termín příští schůze na 4. listopadu 2026.",
+    "notes": "Přepis obsahuje četné chyby v diakritice a opakující se fráze (\"Představující se na výboru\"). Část 8/8 je částečně ovlivněna šumem, ale srozumitelnost obsahu byla zachována."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Monika Březková",
+        "person_id": "psp:person:6994",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Hana Ančíňcová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Alžběta Mangarela",
+        "person_id": null,
+        "affiliation": "Akademie věd ČR"
+      },
+      {
+        "name": "Aleš Juchelka",
+        "person_id": "psp:person:6463",
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Zdeňka Blišťanová",
+        "person_id": "psp:person:6992",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jonáš Kreisinger",
+        "person_id": null,
+        "affiliation": "Puck Research"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "ANO"
+    ],
+    "institutions": [
+      "Výbor pro sociální politiku",
+      "Akademie věd ČR",
+      "MPSV",
+      "Puck Research"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Až 55 % pracujících v platformové ekonomice nedosáhne na minimální hodinovou mzdu.",
+      "type": "paraphrase",
+      "speaker": "Alžběta Mangarela",
+      "affiliation": "Akademie věd ČR",
+      "timestamp": "2/00:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3207_highlight_00.jpg",
+      "context": "Tento údaj odpovídá závěrům studií o platformové práci v ČR (např. výzkum IDEA při CERGE-EI), které upozorňují na vysoké náklady spojené s výkonem práce (pohonné hmoty, odpisy vozidel), jež po odečtení často snižují čistý výdělek pod úroveň minimální mzdy."
+    },
+    {
+      "text": "Pokud projde současný návrh redefinice závislé práce, budeme se bavit o výpadku jednotek desítek miliard korun do státního rozpočtu.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "3/02:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3207_highlight_01.jpg",
+      "context": "Jde o odhadovaný dopad, který závisí na konkrétní legislativní úpravě a míře rekvalifikace pracovníků z OSVČ na zaměstnanecký poměr. Přesná výše výpadku je předmětem politické debaty a závisí na modelech Ministerstva financí ČR, které zatím nebyly definitivně potvrzeny."
+    },
+    {
+      "text": "Navrhujeme vyplatit důchodcům v roce 2027 jednorázový příspěvek ve výši 2 000 Kč.",
+      "type": "citation",
+      "speaker": "Aleš Juchelka",
+      "affiliation": "MPSV",
+      "timestamp": "4/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3207_highlight_02.jpg",
+      "context": "Jedná se o politický návrh opozičního poslance, nikoliv o platnou legislativu. Návrh by vyžadoval změnu zákona o důchodovém pojištění a schválení vládní koalicí, přičemž rozpočtové krytí pro rok 2027 zatím nebylo předloženo."
+    },
+    {
+      "text": "Žádný jiný nástroj není srovnatelně motivační pro prodloužení kariéry než zvýšení čistého příjmu pracujících seniorů.",
+      "type": "paraphrase",
+      "speaker": "Jonáš Kreisinger",
+      "affiliation": "Puck Research",
+      "timestamp": "6/03:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3207_highlight_03.jpg",
+      "context": "Toto tvrzení je subjektivním názorem či interpretací ekonomických dat. Existují i jiné motivační nástroje, jako je úprava věku odchodu do důchodu, zlepšení pracovních podmínek nebo flexibilita úvazků, jejichž efektivita je v odborné literatuře předmětem diskuse."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Marian Jurečka (poslanec) kritizoval vládní návrh jako \"neodůvodněný\" a varoval před výpadkem desítek miliard korun do státního rozpočtu. Kontroverzní je zejména střet mezi vládním návrhem a expertními daty (Puck Research), která označují navrhovaná opatření za neefektivní.",
+      "speaker": "Marian Jurečka",
+      "affiliation": "Poslanecká sněmovna",
+      "timestamp": "3/02:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3207_controversy_00.jpg",
+      "context": "Tvrzení o výpadku příjmů je předmětem politického sporu mezi vládní koalicí a opozicí. Označení dat za 'neefektivní' je interpretací konkrétní studie, přičemž hodnocení efektivity opatření se liší v závislosti na zvolené metodice a ekonomickém modelu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-14T15:04:51",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3202",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-13T12:41",
+    "end_date": "2026-10-13T13:00",
+    "sources": [
+      "final/event_3202_2026-10-13_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5657_video-psp-20261013-1241-16-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu Pirátů se konala 13. října 2026 a jejím cílem bylo představit postoje strany k aktuálním legislativním návrhům projednávaným v Poslanecké sněmovně. Piráti se vymezili zejména proti vládním krokům, které podle nich směřují k oslabení nezávislosti státní správy, omezování veřejné kontroly a rozvolňování pravidel pro střet zájmů.\n\nKromě legislativních témat se zástupkyně Pirátů vyjádřily k ekonomické situaci, státnímu rozpočtu na rok 2027 a sociálním otázkám, jako je podpora v nezaměstnanosti či pomoc seniorům. V závěru tiskové konference odpovídaly na dotazy novinářů týkající se sektorové daně pro rafinérie a povolební strategie v komunální politice.",
+    "main_points": [
+      "**Kateřina Stojanová (Piráti)** — Kritizovala vládní snahu o faktické zrušení služebního zákona. Piráti připravují ústavní stížnost, pod kterou se podepíší i zástupci TOP 09 a STAN. Dále se ohradila proti omezování přístupu k evidenci skutečných majitelů firem a novele zákona o střetu zájmů. `[1/01:00]`",
+      "**Olga Richterová (Piráti)** — Vystoupila proti vládnímu návrhu na snížení podpory v nezaměstnanosti (z 80 na 65 % výdělku a snížení stropu o 10 000 Kč). Piráti mají připravený návrh na zachování moderní reformy podpory v nezaměstnanosti. `[1/04:03]`",
+      "**Hana Ančincová (Piráti)** — Odmítla jednorázový příspěvek 2 000 Kč pro seniory jako populistický krok. Navrhla, aby 5,5 miliardy korun bylo raději investováno do terénní sociální péče. Kritizovala také nedostatečnou ochranu pracovníků v rámci novely o platformové práci. `[1/08:04]`",
+      "**Vendula Svobodová (Piráti)** — Kritizovala návrh státního rozpočtu na rok 2027. Upozornila na nereálnost plánovaného schodku 386 miliard korun, který by podle ní mohl dosáhnout až 440 miliard. `[1/10:03]`"
+    ],
+    "outcome": "Jednání bylo tiskovou konferencí, nikoliv hlasováním, tudíž nebylo přijato žádné formální rozhodnutí. Dominujícím postojem Pirátů je důsledná opozice vůči vládním návrhům, které považují za populistické nebo ohrožující nezávislost státních institucí. Piráti deklarovali záměr podat ústavní stížnost a aktivně vystupovat proti vládním krokům v oblasti sociální politiky a rozpočtu.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Hana Ančincová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Petr Vašek",
+        "person_id": "psp:person:4469",
+        "affiliation": "Česká televize"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "ANO",
+      "TOP 09",
+      "STAN",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud",
+      "Národní rozpočtová rada",
+      "Mezinárodní měnový fond"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "My s Piráty tuto snahu vládě samozřejmě neusnadníme a říkáme to od začátku, budeme dál bojovat za to, aby státní správa fungovala co nejprofesionálněji a nejefektivněji pro české občany a občanky.",
+      "type": "citation",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3202_highlight_00.jpg",
+      "context": "Jde o politické prohlášení o záměrech strany, které nelze fakticky ověřit jako pravdivé či nepravdivé. Efektivita státní správy je subjektivně interpretovatelný cíl."
+    },
+    {
+      "text": "Chce snížit podporu v prvních měsících nezaměstnanosti z 80 na 65 % předchozího čistého výdělku a navíc chce seškrtat strop, tu maximální možnost, o 10 000 Kč měsíčně.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3202_highlight_01.jpg",
+      "context": "Tvrzení odpovídá vládnímu návrhu novely zákona o zaměstnanosti, který mění výpočet podpory v nezaměstnanosti. Snížení procentní sazby a zastropování maximální výše podpory jsou součástí legislativního procesu (sněmovní tisk č. 784)."
+    },
+    {
+      "text": "Za těch 5,5 miliardy korun, které to bude stát, by mohlo Česko získat například 5–6 tisíc úvazků terénních sociálních pracovníků.",
+      "type": "citation",
+      "speaker": "Hana Ančincová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3202_highlight_02.jpg",
+      "context": "Výpočet je hypotetický. Náklady na sociálního pracovníka se liší podle tarifních tříd a regionů, nicméně částka 5,5 miliardy korun odpovídá řádovému odhadu nákladů na tisíce úvazků při započtení superhrubé mzdy a provozních nákladů."
+    },
+    {
+      "text": "Avizovaný schodek 386ti miliard není reálný a měli bychom spíše počítat s nějakými 440ti miliardami korun.",
+      "type": "citation",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/11:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3202_highlight_03.jpg",
+      "context": "Odhad schodku státního rozpočtu je věcí ekonomické predikce. Zatímco MF ČR pracuje s oficiálním návrhem, opoziční politici často kritizují metodiku výpočtu a upozorňují na rizika podhodnocení výdajů či nadhodnocení příjmů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Diskuse o návrhu na 50% sektorovou daň pro rafinérie. Piráti vyjádřili obavy z dopadu na podnikatelské prostředí a investice, což je v kontrastu s jejich dřívějším postojem k sektorovým daním.",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/12:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3202_controversy_00.jpg",
+      "context": "Piráti dlouhodobě zastávají nejednotné postoje k sektorovým daním, často v závislosti na konkrétním odvětví a ekonomické situaci. Jejich postoj k dani pro rafinérie reflektuje debatu o energetické bezpečnosti a konkurenceschopnosti."
+    },
+    {
+      "statement": "Otázka na centrální pokyn pro koalice s hnutím ANO v komunální politice. Piráti v minulosti v některých městech s ANO vládli, což je v kontextu jejich současné ostré kritiky vládní politiky ANO vnímáno jako politicky citlivé.",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/13:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3202_controversy_01.jpg",
+      "context": "Historicky Piráti v komunální politice v koalicích s hnutím ANO skutečně figurovali (např. v některých městech po volbách 2018). Celostátní vedení strany však později přijalo usnesení, které koalice s ANO na celostátní úrovni vylučuje, zatímco na komunální úrovni ponechává rozhodnutí na místních buňkách."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
