@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-15T15:17:38",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3210",
+    "name": "Tisková konference Starostů a nezávislých po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-15T11:00",
+    "end_date": "2026-10-15T11:17",
+    "sources": [
+      "final/event_3210_2026-10-15_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5667_video-psp-20261015-110-7-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení postojů a návrhů hnutí STAN k aktuálním politickým a legislativním otázkám. Hlavními tématy byla energetická koncepce státu, nadcházející druhé kolo senátních voleb, legislativní úpravy prodeje kratomu a alkoholu, problematika inkluze ve školství a kauza údajného střetu zájmů na Ministerstvu práce a sociálních věcí (MPSV).\n\nCílem vystoupení bylo kritizovat současnou vládní politiku (vláda Andreje Babiše) a představit konstruktivní alternativy, které hnutí STAN prosazuje prostřednictvím své stínové vlády.",
+    "main_points": [
+      "**Lukáš Vlček (STAN)** — Kritizoval závislost ČR na fosilních palivech a absenci systematické energetické koncepce. Navrhuje investice do nových zdrojů a modernizaci přenosových soustav. K senátním volbám vyzval k podpoře kandidátů STAN. Představil pozměňovací návrh k „Lex kratom“ a navrhl regulaci online prodeje alkoholu. `[01:00]`",
+      "**Jan Berky (STAN)** — Vyjádřil se k inkluzi ve školství. Podpořil společné vzdělávání, ale kritizoval nejasnosti v parametrizaci počtu asistentů pedagoga a obavy z dopadů na menší školy. `[06:05]`",
+      "**Pavla Pivoňková (STAN)** — Otevřela kauzu „Semancová“ na MPSV. Upozornila na zjištění NKÚ, podle kterého nebylo možné uplatnit 83 milionů korun v rámci vyúčtování s EU kvůli střetu zájmů poradkyně ministra Juchelky. `[10:20]`"
+    ],
+    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale prezentací opoziční strategie. Konsenzem hnutí STAN je:\n* Požadavek na širokou politickou shodu o energetické koncepci.\n* Odmítnutí plošných vládních opatření v rozpočtu ve prospěch cílených investic.\n* Podpora regulace návykových látek (kratom, alkohol) založená na přísné kontrole věku.\n* Pokračování v tlaku na ministra Juchelku ohledně kauzy střetu zájmů na MPSV.",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže, kde dochází k výpadkům slov či zkomoleninám. Části textu jsou zjevně ovlivněny automatickým přepisem."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lukáš Vlček",
+        "person_id": "psp:person:6789",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "NKÚ",
+      "MPSV",
+      "Senát"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika je extrémně závislá na dovozu fosilních paliv, ale od vlády Andreje Babiše nevidíme nějaká systematická dlouhodobá řešení.",
+      "type": "paraphrase",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/00:13",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3210_highlight_00.jpg",
+      "context": "ČR je skutečně vysoce závislá na dovozu ropy a zemního plynu, přičemž podíl dovozu z Ruska se po roce 2022 výrazně snížil. Tvrzení o absenci systematických řešení za minulé vlády je politickým hodnocením; v daném období byla zahájena např. výstavba terminálu na LNG v Nizozemsku, ale kritici často poukazují na pomalý rozvoj obnovitelných zdrojů."
+    },
+    {
+      "text": "83 milionů korun z MPSV nemohlo být uplatněno v rámci vyúčtování s Evropou, protože došlo k porušení rozpočtové kázně.",
+      "type": "paraphrase",
+      "speaker": "Pavla Pivoňková",
+      "affiliation": "STAN",
+      "timestamp": "1/10:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3210_highlight_01.jpg",
+      "context": "Tato částka odpovídá nálezu Nejvyššího kontrolního úřadu (NKÚ) z roku 2023, který prověřoval čerpání prostředků z Operačního programu Zaměstnanost. NKÚ konstatoval, že v důsledku pochybení při zadávání zakázek a porušení rozpočtové kázně nebylo možné tyto výdaje proplatit z fondů EU a musely být kryty ze státního rozpočtu."
+    },
+    {
+      "text": "Státní rozpočet nesmí plýtvat na plošné dárečky, ale musí systematicky investovat do nových zdrojů energie.",
+      "type": "paraphrase",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/01:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3210_highlight_02.jpg",
+      "context": "Jde o politický názor na rozpočtovou prioritu, nikoliv o ověřitelný fakt. Definice „plošných dárečků“ je subjektivní a v politické debatě se často používá pro označení sociálních transferů, zatímco investice do energetiky jsou v souladu s aktuální vládní strategií (např. podpora jaderné energetiky a OZE)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Lukáš Vlček navrhuje zrušení zákazu online prodeje kratomu a zavedení přísné regulace online prodeje alkoholu.\n* **Proč:** Je to politicky citlivé, protože jde proti vládnímu trendu omezování dostupnosti návykových látek a otevírá debatu o regulaci trhu s alkoholem, což je v ČR tradičně velmi citlivé téma.",
+      "speaker": "Lukáš Vlček",
+      "affiliation": "STAN",
+      "timestamp": "1/04:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3210_controversy_00.jpg",
+      "context": "Návrh na regulaci online prodeje kratomu a alkoholu je politickým záměrem, nikoliv platnou legislativou. V ČR aktuálně probíhá debata o novele zákona o návykových látkách, přičemž regulace online prodeje alkoholu naráží na silný odpor výrobců a prodejců, a dosud nebyla v Poslanecké sněmovně legislativně ukotvena."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

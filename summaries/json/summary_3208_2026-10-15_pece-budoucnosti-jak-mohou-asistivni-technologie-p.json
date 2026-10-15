@@ -1,0 +1,233 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-15T15:17:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3208",
+    "name": "Péče budoucnosti: jak mohou asistivní technologie pomáhat lidem",
+    "classification": "Seminář",
+    "start_date": "2026-10-15T09:33",
+    "end_date": "2026-10-15T12:30",
+    "sources": [
+      "final/event_3208_2026-10-15_pece-budoucnosti-jak-mohou-asistivni-technologie-p.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015093002.mp4",
+        "from_sec": 203
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015093004.mp4",
+        "from_sec": 201
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015094002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015094004.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015095002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015095004.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015100002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015101002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015102002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015103002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015104002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015105002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015105003.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015110002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015110003.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015111002.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015111003.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015112002.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015113002.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015114002.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015114003.mp4"
+      },
+      {
+        "part": 22,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015115002.mp4"
+      },
+      {
+        "part": 23,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015115003.mp4"
+      },
+      {
+        "part": 24,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015120002.mp4"
+      },
+      {
+        "part": 25,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015120003.mp4"
+      },
+      {
+        "part": 26,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015121002.mp4"
+      },
+      {
+        "part": 27,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015121003.mp4"
+      },
+      {
+        "part": 28,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015122002.mp4"
+      },
+      {
+        "part": 29,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015122003.mp4"
+      },
+      {
+        "part": 30,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015123002.mp4"
+      },
+      {
+        "part": 31,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/15/_20261015123003.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 31,
+    "parts_total": 31,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář „Péče budoucnosti: jak mohou asistivní technologie pomáhat lidem“ se konal 15. října 2026 v Poslanecké sněmovně. Cílem jednání bylo diskutovat o inovacích v asistivních technologiích a jejich roli při řešení demografické výzvy, které čelí Česká republika v souvislosti se stárnutím populace. Seminář se zaměřil na provázání sociální a zdravotní péče, podporu pečujících osob a efektivní implementaci moderních technologií do praxe sociálních služeb.\n\nHlavním záměrem bylo identifikovat bariéry, které brání širšímu využívání těchto technologií, a hledat cesty k jejich systémovému zavedení. Diskuse se soustředila na potřebu legislativních změn, srozumitelnější financování, osvětu a vytvoření metodické podpory pro poskytovatele služeb.",
+    "main_points": [
+      "**Hana Ančíncová (Poslankyně)** — Zdůraznila nutnost inovací kvůli demografickému vývoji a nedostatku pracovníků. `[1/03:24]`",
+      "**Jiřina Žežulová (MPSV)** — Potvrdila, že technologie jsou klíčové pro zachování důstojnosti seniorů, ale nesmí nahradit lidský kontakt. `[1/06:05]`",
+      "**Daniela Lusková (APSS ČR)** — Představila katalog 189 asistivních technologií a zdůraznila, že technologie musí být vždy navázány na konkrétní potřeby klienta. `[3/02:03]`",
+      "**Andrea Faltusová (ARR Libereckého kraje)** — Popsala projekt „Test Before Invest“ a praktické testování robotů pro klienty s autismem. `[18/02:06]`",
+      "**Šimon Pěčka (TIC Zlín)** — Navrhl racionalizaci sociálních služeb skrze měření nákladové efektivity technologií. `[20/06:00]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus, že asistivní technologie jsou nezbytnou součástí budoucnosti sociální péče. Byla definována shoda na nutnosti legislativní podpory (novela zákona o sociálních službách), meziresortní spolupráce mezi MPSV a MZ a vytvoření metodické podpory pro poskytovatele služeb.",
+    "notes": "Přepis obsahuje opakující se halucinace, které byly ignorovány. Části 10–13 obsahují značné množství nesrozumitelného textu, obsah byl rekonstruován z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Hana Ančíncová",
+        "person_id": "psp:person:6986",
+        "affiliation": "Poslanecká sněmovna"
+      },
+      {
+        "name": "Jiřina Žežulová",
+        "person_id": null,
+        "affiliation": "MPSV"
+      },
+      {
+        "name": "Daniela Lusková",
+        "person_id": null,
+        "affiliation": "APSS ČR"
+      },
+      {
+        "name": "Andrea Faltusová",
+        "person_id": null,
+        "affiliation": "ARR Libereckého kraje"
+      },
+      {
+        "name": "Šimon Pěčka",
+        "person_id": null,
+        "affiliation": "TIC Zlín"
+      }
+    ],
+    "parties": [
+      "Poslanecká sněmovna"
+    ],
+    "institutions": [
+      "MPSV",
+      "APSS ČR",
+      "TIC Zlín"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika stojí v tuto chvíli před největší sociální změnou za posledních 30 let, kdy dramaticky naroste počet lidí starších 85 let.",
+      "type": "paraphrase",
+      "speaker": "Daniela Lusková",
+      "affiliation": "APSS ČR",
+      "timestamp": "3/02:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3208_highlight_00.jpg",
+      "context": "Demografické projekce ČSÚ potvrzují, že počet osob ve věku 85 a více let bude v příštích desetiletích prudce narůstat v důsledku stárnutí silných populačních ročníků. Označení za „největší sociální změnu za 30 let“ je interpretací demografického vývoje, který skutečně představuje zásadní výzvu pro udržitelnost systému dlouhodobé péče."
+    },
+    {
+      "text": "Skutečný pokrok neměříme počtem robotů, které dokážeme nasadit, ale tím, jak dokážeme zlepšit kvalitu lidí, kteří naši pomoc potřebují.",
+      "type": "citation",
+      "speaker": "Jiřina Žežulová",
+      "affiliation": "MPSV",
+      "timestamp": "1/09:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3208_highlight_01.jpg",
+      "context": "Jde o hodnotové a politické vyjádření, které nelze fakticky ověřit, neboť definice „skutečného pokroku“ je subjektivní. V kontextu sociální politiky jde o důraz na humanizaci péče oproti technologickému determinismu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Šimon Pěčka (TIC Zlín) navrhuje tvrdou racionalizaci sociálních služeb a měření „return of investment“ u technologií. Toto téma je politicky citlivé, protože v sociálních službách je kladen důraz na lidský přístup a „efektivita“ může být vnímána jako snaha o snižování nákladů na úkor kvality péče.",
+      "speaker": "Šimon Pěčka",
+      "affiliation": "TIC Zlín",
+      "timestamp": "22/04:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3208_controversy_00.jpg",
+      "context": "Návrh na měření návratnosti investic (ROI) v sociálních službách je legitimním ekonomickým nástrojem, avšak v českém prostředí sociální práce jde o kontroverzní téma. Standardy kvality sociálních služeb jsou definovány zákonem č. 108/2006 Sb., přičemž debata o efektivitě vs. kvalitě péče je dlouhodobým politickým střetem mezi důrazem na fiskální odpovědnost a ochranou práv klientů."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

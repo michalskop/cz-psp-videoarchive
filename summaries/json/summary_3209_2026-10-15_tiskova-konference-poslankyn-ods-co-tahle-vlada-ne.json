@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-15T15:17:53",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3209",
+    "name": "Tisková konference poslankyň ODS: Co tahle vláda (ne)dělá pro děti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-15T08:32",
+    "end_date": "2026-10-15T09:54",
+    "sources": [
+      "final/event_3209_2026-10-15_tiskova-konference-poslankyn-ods-co-tahle-vlada-ne.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5665_video-psp-20261015-832-10-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslankyň ODS (Eva Decroix, Renáta Zajíčková, Lucie Bartošová) byla svolána v reakci na vydání závěrečné zprávy Komise pro přezkum nepřirozených úmrtí dětí. Cílem bylo kriticky zhodnotit přístup současné vlády k ochraně ohrožených dětí a k reformám v oblasti školství.\n\nPoslankyně upozornily na to, že vláda sice disponuje odbornými podklady, ale nedokáže je efektivně implementovat. Kritika směřovala zejména k nečinnosti v oblasti reformy OSPOD, podfinancování ústavní péče a chaotickému řízení resortu školství, které podle řečnic vede k nerovnostem a neřeší skutečné problémy budoucí generace.",
+    "main_points": [
+      "**Eva Decroix (ODS)** — Kritizuje vládu za neschopnost pracovat se závěry odborné komise. Navrhuje posílení koordinační role OSPOD, stanovení udržitelného počtu případů na pracovníka a zavedení institutu „advokáta dítěte“. Argumentuje, že registr OSPOD problémy nevyřeší a je nutná systémová reforma. `[1/02:12]`",
+      "**Renáta Zajíčková (ODS)** — Kritizuje kroky ministra školství Plagy, zejména zrušení ověřování kombinované výuky, plošný zákaz mobilů a zpomalení revize vzdělávacích programů. Varuje před vznikem „dvourychlostního školství“ a kritizuje rozpočet na rok 2027. `[1/10:00]`",
+      "**Lucie Bartošová (ODS)** — Upozorňuje na kritický stav náhradní výchovné péče. Uvádí, že loni bylo odebráno 3 600 dětí, přičemž systém trpí nedostatkem kapacit a chybějící specializovanou péčí pro děti s psychiatrickými diagnózami. `[1/18:08]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale politickým apelem. Poslankyně vyzvaly vládu k zahájení systémových reforem. Lucie Bartošová pozvala veřejnost na jednání podvýboru dne 10. 12., kde má být téma náhradní péče znovu otevřeno.",
+    "notes": "Přepis obsahuje četné překlepy a gramatické nesrovnalosti způsobené automatickým přepisem, obsah je však srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Eva Decroix",
+        "person_id": "psp:person:6727",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renáta Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Lucie Bartošová",
+        "person_id": "psp:person:6989",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "OSPOD",
+      "Ministerstvo školství",
+      "Ministerstvo práce a sociálních věcí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V ČR máme za loňský rok odebraných zhruba 3600 dětí celkem, což je alarmující číslo.",
+      "type": "citation",
+      "speaker": "Lucie Bartošová",
+      "affiliation": "ODS",
+      "timestamp": "1/20:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3209_highlight_00.jpg",
+      "context": "Podle dat Úřadu pro mezinárodněprávní ochranu dětí a statistik MPSV se počet dětí v ústavní výchově a náhradní péči dlouhodobě pohybuje v řádech tisíců. Číslo 3600 odpovídá přibližným statistikám dětí nově umísťovaných do náhradní péče za rok, interpretace „alarmující“ je však subjektivním politickým hodnocením."
+    },
+    {
+      "text": "V okamžiku, kdy OSPOD nezvládá svojí práci, tak jediné, co na to říkáme, že zavedeme jednotný registr, no tak je zřejmé, že pak taková komise se sešla úplně zbytečně.",
+      "type": "citation",
+      "speaker": "Eva Decroix",
+      "affiliation": "ODS",
+      "timestamp": "1/03:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3209_highlight_01.jpg",
+      "context": "Jedná se o politický názor na efektivitu legislativních změn a fungování orgánů sociálně-právní ochrany dětí (OSPOD). Efektivita zavedení jednotného registru je předmětem odborné debaty mezi ministerstvem a experty na sociální práci, nelze tedy objektivně potvrdit, zda je komise „zbytečná“."
+    },
+    {
+      "text": "Pokud budeme jenom látat a zalepit díry, tak bohužel to odnese naše budoucí generace.",
+      "type": "citation",
+      "speaker": "Renáta Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/18:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3209_highlight_02.jpg",
+      "context": "Jde o hodnotící politickou proklamaci týkající se dlouhodobé udržitelnosti veřejných politik. Nelze nezávisle ověřit, neboť jde o rétorickou figuru bez konkrétního měřitelného základu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Plošný zákaz mobilních telefonů ve školách navržený ministrem Plagou a Andrejem Babišem. Renáta Zajíčková (ODS) jej označila za autoritářský krok, který nefunguje v zahraničí a omezuje svobodu.",
+      "speaker": "Renáta Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/12:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3209_controversy_00.jpg",
+      "context": "Zákaz mobilů ve školách je v zahraničí (např. Francie, Nizozemsko) řešen různě, přičemž výsledky studií o dopadu na vzdělávání nejsou jednoznačné. Označení za „autoritářský krok“ je politickou interpretací, nikoliv právní definicí."
+    },
+    {
+      "statement": "Zavedení spádovosti pedagogicko-psychologických poraden. Renáta Zajíčková (ODS) argumentuje, že to omezuje svobodnou volbu rodičů a může prodloužit čekací doby v již tak přetížených poradnách.",
+      "speaker": "Renáta Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/24:14",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3209_controversy_01.jpg",
+      "context": "Spádovost poraden je vnímána jako nástroj pro lepší organizaci kapacit, zatímco kritici ji skutečně vnímají jako omezení volby. Kapacity pedagogicko-psychologických poraden jsou dlouhodobě přetížené, což potvrzují výroční zprávy České školní inspekce."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
