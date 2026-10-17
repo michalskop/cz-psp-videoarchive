@@ -1,0 +1,164 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-17T14:48:26",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3211",
+    "name": "Na charakteru záleží",
+    "classification": "Seminář",
+    "start_date": "2026-10-16T10:00",
+    "end_date": "2026-10-16T12:28",
+    "sources": [
+      "final/event_3211_2026-10-16_na-charakteru-zalezi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016100002.mp4",
+        "from_sec": 13
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016101002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016102002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016103002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016104002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016105002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016110002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016111002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016112002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016113002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016114002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016115002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016120002.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016121002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/16/_20261016122002.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 15,
+    "parts_total": 15,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář s názvem „Na charakteru záleží“ se konal v Poslanecké sněmovně s cílem reflektovat roli morálky, etiky a charakteru v současné společnosti, vzdělávání a politice. Inspirací pro setkání byla kniha *Luciferův efekt* psychologa Philippa Zimbarda, která zkoumá, jak vnější okolnosti a tlak prostředí ovlivňují lidské chování a schopnost jedinců odolat zlu.\n\nCílem akce bylo otevřít diskuzi o tom, jak pěstovat pevný charakter, jak překonávat propast mezi poznáním dobra a jeho skutečným konáním a jakým způsobem lze v politickém i pedagogickém prostředí kultivovat lidskost a odpovědnost.",
+    "main_points": [
+      "**Barbora Pipášová (Piráti)** — Poukázala na potřebu humanity v politice a školství. Zdůraznila, že morálka eroduje, pokud lidé mlčí k nespravedlnosti. `[1/04:02]`",
+      "**Jan Hábl (Univerzita Hradec Králové)** — Představil koncept „rozoumku“ a „propasti mezi poznáním a konáním“. Navrhl cestu k integritě charakteru skrze mosty: habituaci, imitaci, identifikaci, interiorizaci a pokání. `[1/02:08]`",
+      "**Pavel Vacek (Univerzita Hradec Králové)** — Zaměřil se na psychologické experimenty (Milgram, Zimbardo). Varoval před dehumanizací a vlivem skupinové poslušnosti. Navrhl 8 bodů pro obranu proti totalitním tendencím. `[7/04:03]`"
+    ],
+    "outcome": "Jednání nemělo formální legislativní výstup, šlo o odborný seminář. Dominujícím postojem byla shoda na tom, že charakter vyžaduje vědomý trénink a že je nutné posilovat osobní zodpovědnost a kritické myšlení jako nástroje proti erozi morálky.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Barbora Pipášová",
+        "person_id": "psp:person:7035",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Jan Hábl",
+        "person_id": "psp:person:3431",
+        "affiliation": "Univerzita Hradec Králové"
+      },
+      {
+        "name": "Pavel Vacek",
+        "person_id": "psp:person:2592",
+        "affiliation": "Univerzita Hradec Králové"
+      }
+    ],
+    "parties": [
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Univerzita Hradec Králové"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pevný charakter není něco, s čím se člověk automaticky rodí, je to postoj, který musíme vědomě pěstovat a neustále trénovat.",
+      "type": "paraphrase",
+      "speaker": "neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "1/02:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3211_highlight_00.jpg",
+      "context": "Jde o filozofické a etické tvrzení o povaze lidského charakteru. Nelze nezávisle ověřit jako fakt, neboť se jedná o subjektivní názor na osobnostní rozvoj."
+    },
+    {
+      "text": "Lidskost není docela v pořádku, ale není docela ztracena.",
+      "type": "citation",
+      "speaker": "Jan Hábl",
+      "affiliation": "Univerzita Hradec Králové",
+      "timestamp": "6/03:09",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3211_highlight_01.jpg",
+      "context": "Jde o hodnotový soud o stavu společnosti. Nelze nezávisle ověřit, neboť definice „lidskosti“ a jejího stavu není měřitelná objektivními daty."
+    },
+    {
+      "text": "Čím déle se díváme do propasti, tím spíše nás ta propast pohltí.",
+      "type": "citation",
+      "speaker": "Pavel Vacek",
+      "affiliation": "Univerzita Hradec Králové",
+      "timestamp": "10/01:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3211_highlight_02.jpg",
+      "context": "Jedná se o metaforické vyjádření (parafráze myšlenky Friedricha Nietzscheho). Nelze nezávisle ověřit jako fakt, jde o filozofickou úvahu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Pavel Vacek kritizoval inkluzi ve školství a vliv influencerů. Uvedl, že školství škodí lidé, kteří mu nerozumí, a označil influencery za neoprávněnou autoritu.",
+      "speaker": "Pavel Vacek",
+      "affiliation": "Univerzita Hradec Králové",
+      "timestamp": "12/06:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3211_controversy_00.jpg",
+      "context": "Tvrzení o kritice inkluze a vlivu influencerů je ověřitelné jako záznam názorového postoje Pavla Vacka z jeho veřejných vystoupení. Hodnocení „škodlivosti“ osob ve školství je subjektivním názorem řečníka, nikoliv objektivně měřitelným faktem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
