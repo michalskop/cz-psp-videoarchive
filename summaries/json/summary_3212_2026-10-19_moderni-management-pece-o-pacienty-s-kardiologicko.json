@@ -1,0 +1,51 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-19T14:51:18",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3212",
+    "name": "Moderní management péče o pacienty s kardiologicko-pneumologickým onemocněním na příkladu léčby srdečního selhání a CHOPN",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-10-19T12:50",
+    "end_date": "2026-10-19T17:00",
+    "sources": [
+      "final/event_3212_2026-10-19_moderni-management-pece-o-pacienty-s-kardiologicko.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/19/_20261019131037.mp4"
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/19/_20261019134606.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 2,
+    "parts_total": 2,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání se mělo věnovat modernímu managementu péče o pacienty s kardiologicko-pneumologickým onemocněním, konkrétně léčbě srdečního selhání a CHOPN. Cílem bylo diskutovat postupy v péči o tyto pacienty.",
+    "main_points": [
+      "Záznam neobsahuje žádné věcné informace, pouze opakující se technické artefakty a halucinace modelu."
+    ],
+    "outcome": "Výsledek jednání nelze z přepisu určit, neboť záznam neobsahuje žádný srozumitelný obsah.",
+    "notes": "Přepis je zcela nečitelný a obsahuje pouze opakující se textové řetězce (např. 'Představující se na www.hradeckralove.org')."
+  },
+  "entities": {
+    "speakers": [],
+    "parties": [],
+    "institutions": []
+  },
+  "highlights": [],
+  "controversial": [],
+  "quality": {
+    "transcript_quality": "poor",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
