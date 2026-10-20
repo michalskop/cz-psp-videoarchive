@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T14:28:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3220",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-20T12:22",
+    "end_date": "2026-10-20T12:37",
+    "sources": [
+      "final/event_3220_2026-10-20_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5680_video-psp-20261020-1222-18-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL se zaměřila na tři hlavní okruhy: kritiku vládního návrhu státního rozpočtu na rok 2027, nesouhlas se změnami v podpoře v nezaměstnanosti a vyjádření k aktuálnímu politickému dění, včetně vnitrostranického růstu a vztahů s koaličními partnery (TOP 09).\n\nCílem jednání bylo prezentovat opoziční postoj lidovců k hospodářské politice vlády, kterou označili za nekoncepční a „krizovou v době, kdy krize neexistuje“. Zároveň chtěli zdůraznit stabilitu a růst členské základny KDU-ČSL jako reakci na úspěchy v nedávných volbách.",
+    "main_points": [
+      "**Josef Nerušil (KDU-ČSL)** — Odsoudil útoky na novináře a politickou kulturu vládní koalice. Oznámil úspěch KDU-ČSL v komunálních a senátních volbách. Uvedl, že strana zaznamenala příliv 132 nových členů za posledních 10 dní a celkem přes 400 od posledního sjezdu. `[1/00:00]`",
+      "**Benjamin Činčila (KDU-ČSL)** — Kritizoval návrh státního rozpočtu na rok 2027 se schodkem 386 miliard Kč. Upozornil, že strukturální schodek bude vyšší než v letech covidové krize. Postrádá vládní rezervy pro případné krize a konkrétní harmonogram reforem. `[1/02:09]`",
+      "**Marian Jurečka (KDU-ČSL)** — Zaměřil se na kritiku „tupého škrtu“ 5 miliard Kč v podpoře v nezaměstnanosti. Varoval před negativními dopady na lidi vracející se z rodičovské dovolené či pečující osoby. Kritizoval také rozvolnění systému „švarcsystému“. `[1/06:07]`"
+    ],
+    "outcome": "KDU-ČSL jasně deklarovala, že bude v Poslanecké sněmovně hlasovat proti vládním návrhům, které považuje za asociální a rozpočtově nezodpovědné. Strana se profiluje jako rostoucí politická síla, přičemž odmítá eskalaci napětí s TOP 09.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, nedokončená slova a opakující se fráze. Některé pasáže byly kvůli špatné kvalitě přepisu obtížně srozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Josef Nerušil",
+        "person_id": "psp:person:6664",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Benjamin Činčila",
+        "person_id": "psp:person:6998",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "TOP 09",
+      "SPD",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ten strukturální schodek bude vyšší než v obou covidových letech, přestože nezaměstnanost je nízká a máme hospodářský růst.",
+      "type": "paraphrase",
+      "speaker": "Benjamin Činčila",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3220_highlight_00.jpg",
+      "context": "Strukturální deficit je očištěn o vliv hospodářského cyklu. Podle dat Národní rozpočtové rady a MF ČR se strukturální saldo v posledních letech pohybuje v jiných relacích než v letech 2020–2021, kdy byly deficity ovlivněny mimořádnými výdaji na covidová opatření; tvrzení o vyšším strukturálním schodku vyžaduje metodologické srovnání konkrétních let."
+    },
+    {
+      "text": "Za posledních deset dní od prvního kola senátních voleb k nám vstoupilo 132 nových členů, celkově od sjezdu je to více než 400.",
+      "type": "citation",
+      "speaker": "Josef Nerušil",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3220_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Interní členské statistiky politických stran nejsou veřejně dostupné v reálném čase a podléhají evidenci dané strany."
+    },
+    {
+      "text": "Škrtat 5 miliard korun na podpoře v nezaměstnanosti je hloupý a tupý krok, který poškodí lidi, kteří poctivě celý život pracují.",
+      "type": "paraphrase",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3220_highlight_02.jpg",
+      "context": "Návrh na snížení výdajů na podporu v nezaměstnanosti je součástí vládních úsporných balíčků. Dopad na konkrétní skupiny obyvatel je předmětem politické debaty, nikoliv objektivně měřitelný fakt, neboť závisí na nastavení parametrů podpory v zákoně č. 435/2004 Sb., o zaměstnanosti."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika vládního návrhu na zrušení podpory v nezaměstnanosti (tisk 300) a varování před rozvolněním švarcsystému, což je vnímáno jako asociální krok poškozující nejzranitelnější skupiny obyvatel.",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3220_controversy_00.jpg",
+      "context": "Tisk 300 (vládní návrh zákona) skutečně obsahuje úpravy v oblasti podpory v nezaměstnanosti. Interpretace těchto změn jako „asociálních“ či „poškozujících“ je politickým hodnocením, nikoliv faktickým popisem legislativního textu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

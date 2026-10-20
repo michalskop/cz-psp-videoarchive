@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T14:33:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3217",
+    "name": "Tisková konference Zelených: Švarcsystém, rozpočet a vývoj po volbách",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-20T11:00",
+    "end_date": "2026-10-20T11:17",
+    "sources": [
+      "final/event_3217_2026-10-20_tiskova-konference-zelenych-svarcsystem-rozpocet-a.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5677_video-psp-20261020-110-13-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference strany Zelených se zaměřila na tři hlavní okruhy: kritiku vládní novely Zákonníku práce, vyhodnocení výsledků komunálních a senátních voleb a upozornění na kauzy spojené s ochranou životního prostředí a vlivem velkých těžařských firem na státní správu.\n\nCílem konference bylo prezentovat postoje Zelených k legislativním změnám, které podle nich legalizují švarcsystém, a zdůraznit jejich politickou relevanci po úspěšných komunálních volbách. Zároveň chtěly poslankyně upozornit na selhání státu při vymáhání odpovědnosti těžařských společností v kauzách Horní Jiřetín a Heřmanická halda.",
+    "main_points": [
+      "**Irena Ferčíková-Konečná (Zelení)** — Kritika novely Zákonníku práce:\n    * Varuje, že redefinice závislé práce v § 2 fakticky legalizuje švarcsystém.\n    * Uvádí, že podle výzkumu *PacResearch* změna zlegalizuje 70–90 % švarcsystému a „hodí přes palubu“ 50–80 tisíc lidí.\n    * Argumentuje negativním dopadem na státní rozpočet (výpadek odvodů) a sociální stabilitu (riziko chudoby budoucích seniorů).\n    * Navrhuje seminář k tématu v pátek v Konírně. `[1/02:08]`",
+      "**Gabriela Svárovská (Zelení)** — Komunální volby a kauzy těžařů:\n    * Vyzdvihla úspěch v Horním Jiřetíně (8 z 11 mandátů, 70 % hlasů pro kandidátku se starostou Vladimírem Buřtem).\n    * Kritizuje stát za to, že v kauze Horní Jiřetín dovolil těžařům (skupina Seven) snížit rezervu na rekultivace o více než miliardu korun, přičemž obec byla vynechána z kompenzací.\n    * Upozornila na kauzu Heřmanická halda v Ostravě, kde ministerstvo životního prostředí údajně převzalo argumentaci firmy *Rydera Bohemia* do svého rozhodnutí, což může stát státní rozpočet stovky milionů až miliardu korun.\n    * Kritizuje nízké zastoupení žen v nově zvoleném Senátu (pokles na 17 %). `[1/06:02]`",
+      "**Tematické body (obecné)**:\n    * Zelení mají po volbách 160 mandátů v 89 obcích.\n    * Potvrzení příslušnosti obou poslankyň k poslaneckému klubu Pirátů, přičemž zdůraznily svou autonomii jako samostatné politické strany."
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o informativní tiskovou konferenci. Závěrem bylo potvrzení, že Zelení budou v rámci své parlamentní práce nadále prosazovat vlastní témata (např. novela Horního zákona) a využívat prostor pro samostatné mediální výstupy, přestože zůstávají součástí poslaneckého klubu Pirátů.",
+    "notes": "Přepis obsahuje opakující se halucinace (např. „vývoj po volbách je vývoj po volbách“, „Zákonník zákonníků práce“), které byly pro účely shrnutí ignorovány. Části textu jsou nesrozumitelné kvůli chybějící diakritice a useknutým slovům, nicméně hlavní argumentační linie jsou z kontextu patrné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Irena Ferčíková-Konečná",
+        "person_id": "psp:person:7003",
+        "affiliation": "Zelení"
+      },
+      {
+        "name": "Gabriela Svárovská",
+        "person_id": "psp:person:7049",
+        "affiliation": "Zelení"
+      }
+    ],
+    "parties": [
+      "Zelení",
+      "Piráti",
+      "ODS",
+      "Hnutí ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Ministerstvo životního prostředí",
+      "Asociace platformových pracovníků"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Podle nedávného výzkumu PacResearch nová definice zlegalizuje 70 až 90 % dnešního švarcsystému a stát tak hodí přes palubu 50 až 80 tisíc lidí.",
+      "type": "citation",
+      "speaker": "Irena Ferčíková-Konečná",
+      "affiliation": "Zelení",
+      "timestamp": "1/03:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3217_highlight_00.jpg",
+      "context": "Nelze nezávisle ověřit. Výzkum instituce 'PacResearch' není ve veřejně dostupných databázích standardních analytických center dohledatelný a metodika výpočtu dopadů na švarcsystém není veřejně známá."
+    },
+    {
+      "text": "Pravidla máme, ale silný hráč s nimi nesouhlasí a stát se proti němu nedokáže prosadit.",
+      "type": "citation",
+      "speaker": "Gabriela Svárovská",
+      "affiliation": "Zelení",
+      "timestamp": "1/09:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3217_highlight_01.jpg",
+      "context": "Jde o subjektivní politické hodnocení výkonu státní správy. Efektivita vymáhání práva vůči velkým korporacím je předmětem dlouhodobé politické debaty, nikoliv exaktně měřitelný fakt."
+    },
+    {
+      "text": "Senát sice zůstává pojistkou demokracie, ale zatím také pojistkou patriarchátu.",
+      "type": "citation",
+      "speaker": "Gabriela Svárovská",
+      "affiliation": "Zelení",
+      "timestamp": "1/15:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3217_highlight_02.jpg",
+      "context": "Tvrzení o 'pojistce patriarchátu' je politickou interpretací složení Senátu PČR. Fakticky lze ověřit pouze zastoupení žen v Senátu, které se dlouhodobě pohybuje v nízkých jednotkách procent (aktuálně cca 15–20 %)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kontroverzní návrh:** Legalizace švarcsystému prostřednictvím novely Zákonníku práce.\n    * **Kdo:** Irena Ferčíková-Konečná (Zelení).\n    * **Co:** Tvrdí, že vládní návrh (připisovaný ministrovi Juchelkovi) zlegalizuje švarcsystém a znevýhodní poctivé zaměstnavatele.\n    * **Proč:** Jde o zásadní střet o podobu pracovního trhu, který ohrožuje příjmy státního rozpočtu a sociální jistoty zaměstnanců.\n    * **Čas:** `1/02:08`",
+      "speaker": "Irena Ferčíková-Konečná",
+      "affiliation": "Zelení",
+      "timestamp": "1/02:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3217_controversy_00.jpg",
+      "context": "Návrh novely Zákonníku práce je předmětem legislativního procesu. Tvrzení o legalizaci švarcsystému je interpretací opozice; právní dopady novely na zastřené zaměstnávání jsou předmětem odborných sporů mezi právníky a Ministerstvem práce a sociálních věcí."
+    },
+    {
+      "statement": "* **Kontroverzní kauza:** Oligarchizace a selhání státu v kauzách Horní Jiřetín a Heřmanická halda.\n    * **Kdo:** Gabriela Svárovská (Zelení).\n    * **Co:** Obvinila stát z neschopnosti prosadit se proti silným hráčům (Pavel Tykač, firma Rydera Bohemia) a z přebírání argumentace firem úředníky ministerstva.\n    * **Proč:** Politicky citlivé téma střetu zájmů, korupčního rizika a ochrany veřejných prostředků.\n    * **Čas:** `1/08:24`",
+      "speaker": "Gabriela Svárovská",
+      "affiliation": "Zelení",
+      "timestamp": "1/08:24",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3217_controversy_01.jpg",
+      "context": "Kauzy Horní Jiřetín a Heřmanická halda jsou reálné případy týkající se těžební činnosti a sanací. Obvinění ze selhání státu a přebírání argumentace firem úředníky je politickým hodnocením, které se opírá o kritiku činnosti MPO a MŽP v těchto oblastech."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

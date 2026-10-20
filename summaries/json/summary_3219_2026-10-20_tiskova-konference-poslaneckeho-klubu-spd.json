@@ -1,0 +1,123 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T14:30:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3219",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-20T11:59",
+    "end_date": "2026-10-20T12:20",
+    "sources": [
+      "final/event_3219_2026-10-20_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5679_video-psp-20261020-1159-22-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu SPD se zaměřila na představení legislativních priorit hnutí v rámci vládní koalice. Hlavními tématy byla ochrana zvířat, úpravy trestního zákoníku, zpřísnění podmínek pro pobyt cizinců (zejména občanů Ukrajiny), zrušení systému inkluze ve školství a ekonomická opatření, jako je zvyšování platů ve veřejné sféře či revize emisních povolenek.\n\nCílem konference bylo informovat veřejnost o konkrétních návrzích zákonů, které mají za úkol posílit bezpečnost, omezit zneužívání sociálních dávek, zajistit spravedlivější podmínky pro české občany a chránit národní suverenitu v rámci legislativy EU.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Představil návrhy na ochranu zvířat, zvýšení trestů za jejich týrání, přípravu zákona FARA, zrušení inkluze a zvýšení platů ve veřejné sféře o 9 %. `[1/00:00]`",
+      "**Radim Fiala (SPD)** — Představil novelu zákona o rostlinolékařské péči, která modernizuje zemědělství a snižuje administrativu. `[1/12:02]`",
+      "**Jindřich Rajchl (SPD)** — Oznámil zrušení paragrafu 318a a úpravu paragrafu 405 trestního zákoníku s cílem posílit svobodu slova. `[1/14:04]`",
+      "**Radek Koten (SPD)** — Představil zpřísnění podmínek pro pobyt Ukrajinců a zavedení povinných technických kontrol pro ukrajinská vozidla. `[1/18:20]`"
+    ],
+    "outcome": "Jednání potvrdilo shodu vládní koalice na prioritních zákonech, které směřují do legislativního procesu. Dominujícím postojem je snaha o zpřísnění trestů, omezení vlivu zahraničních subjektů, ochranu českých občanů před ekonomickými dopady a revizi dosavadních liberálních politik.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radim Fiala",
+        "person_id": "psp:person:5459",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jindřich Rajchl",
+        "person_id": "psp:person:7037",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Radek Koten",
+        "person_id": "psp:person:6508",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropská unie",
+      "Ministerstvo zemědělství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Od ledna bude naše vládní koalice zvyšovat lidem pracujícím ve veřejné sféře platy až o 9 %.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/09:18",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3219_highlight_00.jpg",
+      "context": "Vláda ČR v srpnu 2024 schválila zvýšení platových tarifů ve veřejné sféře od 1. ledna 2025. Navýšení se pohybuje v rozmezí 5 až 9 % v závislosti na konkrétní platové třídě a stupni, přičemž nejvyšší nárůst se týká nejnižších tarifních tříd."
+    },
+    {
+      "text": "Navrhujeme zrušení stávajícího systému inkluze a zásadní revizi, která zahrnuje zastropování počtu asistentů pedagoga.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/05:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3219_highlight_01.jpg",
+      "context": "Jedná se o politický návrh SPD, nikoliv o platnou legislativu. Systém inkluze se řídí školským zákonem (č. 561/2004 Sb.) a vyhláškou č. 27/2016 Sb., přičemž počty asistentů pedagoga jsou vázány na doporučení školských poradenských zařízení, nikoliv na plošné zastropování."
+    },
+    {
+      "text": "Pokud jakýkoliv písemný projev podněcuje k nenávisti a násilí, pak je správné, aby byl trestán, ale pokud se jedná jen o odchylný názor na historickou událost, pak trestný být nesmí.",
+      "type": "citation",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "SPD",
+      "timestamp": "1/17:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3219_highlight_02.jpg",
+      "context": "Tento výrok je právně-filozofickým tvrzením. V českém právním řádu (§ 405 trestního zákoníku) je trestné popírání, zpochybňování nebo schvalování genocidia, přičemž hranice mezi „odchylným názorem“ a trestným činem je předmětem judikatury soudů, nikoliv paušálního pravidla."
+    },
+    {
+      "text": "Ukrajinská auta budou muset povinně procházet pravidelnými technickými prohlídkami a měřením emisí na českých stanicích technické kontroly.",
+      "type": "citation",
+      "speaker": "Radek Koten",
+      "affiliation": "SPD",
+      "timestamp": "1/19:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3219_highlight_03.jpg",
+      "context": "Od 1. ledna 2024 platí novela zákona č. 56/2001 Sb., která ukládá povinnost registrace vozidel provozovaných osobami s dočasnou ochranou v registru silničních vozidel. S touto registrací je spojena i povinnost podrobit vozidlo technické prohlídce v ČR, pokud ji vozidlo dosud neabsolvovalo."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jindřich Rajchl (SPD)\n**Co:** Návrh na zrušení paragrafu 318a (neoprávněná činnost pro cizí moc) a úpravu paragrafu 405 (schvalování genocidia).\n**Proč:** Kontroverzní z hlediska národní bezpečnosti a mezinárodních závazků, neboť kritici považují tyto paragrafy za klíčové pro ochranu státu před hybridními hrozbami.\n**Čas:** 1/14:04",
+      "speaker": "Jindřich Rajchl",
+      "affiliation": "SPD",
+      "timestamp": "1/14:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3219_controversy_00.jpg",
+      "context": "Paragraf 318a (neoprávněná činnost pro cizí moc) a § 405 (popírání, zpochybňování, schvalování a ospravedlňování genocidia) jsou platnou součástí trestního zákoníku č. 40/2009 Sb. Návrh na jejich zrušení či úpravu je politickým záměrem, který by vyžadoval legislativní proces v Parlamentu ČR."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

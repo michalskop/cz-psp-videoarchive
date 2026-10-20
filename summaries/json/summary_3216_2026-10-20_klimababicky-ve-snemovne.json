@@ -1,0 +1,159 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T14:25:39",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3216",
+    "name": "Klimababičky ve sněmovně",
+    "classification": "Seminář",
+    "start_date": "2026-10-20T09:17",
+    "end_date": "2026-10-20T10:52",
+    "sources": [
+      "final/event_3216_2026-10-20_klimababicky-ve-snemovne.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020091008.mp4",
+        "from_sec": 447
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020092008.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020093008.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020094008.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020095008.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020100008.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020101008.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020102008.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020103008.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020104008.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/A106/2026/10/20/_20261020105008.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 11,
+    "parts_total": 11,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Seminář se konal 20. října 2026 v Poslanecké sněmovně za účasti zástupkyň švýcarského sdružení Klimaseniorinnen (Klimababičky) a českých klimatických aktivistů. Cílem setkání bylo sdílet zkušenosti se strategickou klimatickou litigací a diskutovat o mezigenerační solidaritě.\n\nJednání reflektovalo úspěch švýcarských seniorek u Evropského soudu pro lidská práva (ESLP) a jeho význam pro podobné iniciativy v České republice.",
+    "main_points": [
+      "**Gabriela Svárovská (MEP)** — Zdůraznila, že klimatická politika je otázkou lidských práv. `[2/02:02]`",
+      "**David (Klimažaloba)** — Upozornil na nutnost specifické argumentace v českém právním prostředí. `[2/04:07]`",
+      "**Marianne Roth a Marianne Huber (Klimaseniorinnen)** — Popsaly devítiletou cestu k ESLP; zdůraznily, že vláda dodává data, ale neřeší cíle. `[2/06:05]`",
+      "**Ivona (Klimababičky ČR)** — Popsala českou iniciativu a právní kroky proti nečinnosti státu. `[4/02:01]`",
+      "**Eba Tylová (Udržitelný život)** — Varovala před kritickým stavem vodních zdrojů v ČR. `[9/02:00]`"
+    ],
+    "outcome": "Nebylo přijato formální rozhodnutí. Konsenzem je nutnost pokračovat v právních krocích a interpelacích. Švýcarské zástupkyně nabídly českým aktivistům sdílení know-how a podporu.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a useknutá slova. Obsah byl rekonstruován z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Gabriela Svárovská",
+        "person_id": "psp:person:7049",
+        "affiliation": "MEP"
+      },
+      {
+        "name": "David",
+        "person_id": "psp:person:355",
+        "affiliation": "Klimažaloba"
+      },
+      {
+        "name": "Marianne Roth",
+        "person_id": null,
+        "affiliation": "Klimaseniorinnen"
+      },
+      {
+        "name": "Marianne Huber",
+        "person_id": null,
+        "affiliation": "Klimaseniorinnen"
+      },
+      {
+        "name": "Ivona",
+        "person_id": null,
+        "affiliation": "Klimababičky ČR"
+      },
+      {
+        "name": "Eba Tylová",
+        "person_id": null,
+        "affiliation": "Udržitelný život"
+      }
+    ],
+    "parties": [
+      "Klimaseniorinnen",
+      "Klimažaloba",
+      "Klimatická koalice"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Evropský soud pro lidská práva",
+      "IPCC"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Švýcarská vláda dodává solidní data o klimatické změně, ale nedodává řešení.",
+      "type": "paraphrase",
+      "speaker": "Marianne Huber",
+      "affiliation": "Klimaseniorinnen",
+      "timestamp": "7/04:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3216_highlight_00.jpg",
+      "context": "Švýcarský Federální úřad pro životní prostředí (FOEN) pravidelně publikuje podrobné zprávy o stavu klimatu. Tvrzení o absenci řešení je subjektivním politickým hodnocením, neboť švýcarská vláda přijala řadu opatření, jako je zákon o CO2, jejichž dostatečnost je však předmětem sporů mezi vládou a klimatickými organizacemi."
+    },
+    {
+      "text": "Klimatická litigace není jen o vědě, je to součást globálního hnutí za lidská práva.",
+      "type": "paraphrase",
+      "speaker": "Ivona",
+      "affiliation": "Klimababičky ČR",
+      "timestamp": "5/02:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3216_highlight_01.jpg",
+      "context": "Klimatická litigace (soudní spory o klima) je mezinárodně uznávaný právní trend, kdy jsou klimatické cíle vymáhány skrze ochranu lidských práv. Příkladem je rozsudek Evropského soudu pro lidská práva ve věci KlimaSeniorinnen v. Švýcarsko (2024), který potvrdil, že nedostatečná klimatická opatření mohou porušovat právo na respektování soukromého a rodinného života."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Označení klimatických aktivistů za „marionety Greenpeace“ ze strany některých poslanců.",
+      "speaker": "Marianne Huber",
+      "affiliation": "Klimaseniorinnen",
+      "timestamp": "10/02:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3216_controversy_00.jpg",
+      "context": "Označení aktivistů za „marionety“ je politickou rétorikou, nikoliv faktickým tvrzením. Neexistují veřejně dostupné důkazy, které by plošně potvrzovaly přímé řízení nezávislých organizací jako Klimaseniorinnen ze strany Greenpeace, ačkoliv tyto subjekty často spolupracují v rámci širších koalic."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

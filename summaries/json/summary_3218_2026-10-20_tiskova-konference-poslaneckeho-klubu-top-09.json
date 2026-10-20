@@ -1,0 +1,111 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T14:31:58",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3218",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-20T11:20",
+    "end_date": "2026-10-20T11:41",
+    "sources": [
+      "final/event_3218_2026-10-20_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5678_video-psp-20261020-1120-25-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána před jednáním Poslanecké sněmovny za účelem vyjádření postoje TOP 09 k výsledkům senátních voleb, aktuální zahraničněpolitické situaci, projednávané novele zákona na ochranu zvířat a návrhu státního rozpočtu.\n\nKromě legislativních témat se konference věnovala vnitřní politické situaci v TOP 09, konkrétně odchodům členů jihomoravské organizace ke straně KDU-ČSL, což vedení strany vnímá jako nekooperativní krok ze strany hejtmana Jana Grolicha, který může ohrozit jednotu opozice.",
+    "main_points": [
+      "**Matěj Ondřej Havel (předseda TOP 09)** — Vyzdvihl úspěch demokratických stran v senátních volbách (výsledek 0:27 pro hnutí ANO a SPD). Odmítl snahy o změnu volebního systému po prohraných volbách. K zahraniční politice uvedl, že i přes kritiku Donalda Trumpa zůstávají USA klíčovým spojencem, ale ČR se musí připravit na větší míru vlastní bezpečnostní soběstačnosti. `[1/00:00]`",
+      "**Jiří Pospíšil (1. místopředseda TOP 09)** — Představil iniciativu TOP 09 k novele zákona na ochranu zvířat (sněmovní tisk 174). Kritizoval Ministerstvo zemědělství za odmítavý postoj k jejich deseti pozměňovacím návrhům. Navrhuje zavedení přísnějšího monitoringu jatek (kamerové systémy) jako reakci na kauzu Jatka Albeř. `[1/04:06]`",
+      "**Jan Jakob (předseda poslaneckého klubu TOP 09)** — Ostrá kritika vládního návrhu rozpočtu se schodkem 386 miliard korun. TOP 09 navrhuje dvě alternativy: snížení schodku na 310 miliard (dodržení maastrichtských kritérií pod 3 % HDP) nebo na 290 miliard korun. Argumentuje, že běžné výdaje by měly být kryty příjmy, nikoliv dluhem. `[1/06:01]`",
+      "**Téma odchodů členů (reakce Havla a Pospíšila)** — Vedení strany potvrdilo odchody členů na jižní Moravě ke KDU-ČSL. Pospíšil označil jednání Jana Grolicha za „medvědí službu“ opozici, která tříští síly namísto soustředění se na porážku Andreje Babiše. `[1/10:54]`"
+    ],
+    "outcome": "TOP 09 jasně deklarovala, že vládní návrh rozpočtu v prvním čtení nepodpoří a bude prosazovat jeho přepracování. V oblasti legislativy na ochranu zvířat strana hodlá předložit vlastní pozměňovací návrhy. V otázce vnitřních sporů s KDU-ČSL strana vyjádřila politování nad postupem Jana Grolicha, ale zdůraznila, že se nejedná o plošný rozpad organizace, nýbrž o odchod zlomku členů.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a opakující se nesmyslné fráze (např. „Představující se na návštěvních výzvách“), které byly pro účely shrnutí ignorovány. Části textu týkající se konkrétních jmen a míst byly rekonstruovány z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jiří Pospíšil",
+        "person_id": "psp:person:3336",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "KDU-ČSL",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo zemědělství"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda žádá sněmovnu, aby schválila schodek státního rozpočtu 386 miliard korun, což je krizový rozpočet bez hospodářské krize.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3218_highlight_00.jpg",
+      "context": "Návrh zákona o státním rozpočtu na rok 2024 skutečně počítá se schodkem 252 miliard korun, nicméně v kontextu celkového hospodaření a mimořádných výdajů je debata o výši deficitu předmětem politické interpretace. Označení za „krizový rozpočet“ je subjektivní politické hodnocení, nikoliv právní či ekonomický termín."
+    },
+    {
+      "text": "Požadujeme, aby vláda alespoň nezvyšovala tempo zadlužování a vrátila deficit veřejných financí pod 3 % hrubého domácího produktu.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3218_highlight_01.jpg",
+      "context": "Pravidlo deficitu veřejných financí pod 3 % HDP je zakotveno v Paktu stability a růstu EU. Česká republika se v posledních letech pohybuje nad touto hranicí (dle dat ČSÚ a Eurostatu), přičemž snaha o návrat pod tuto úroveň je dlouhodobým cílem fiskální konsolidace vlády."
+    },
+    {
+      "text": "Výsledek pro Hnutí ANO v senátních volbách je 0 ku 27, nemají ani jeden mandát.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/00:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3218_highlight_02.jpg",
+      "context": "Tvrzení je fakticky správné. V senátních volbách v roce 2024 hnutí ANO nezískalo v druhém kole ani jeden mandát z 27 obsazovaných křesel, což potvrzují oficiální výsledky zveřejněné Českým statistickým úřadem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jiří Pospíšil (TOP 09)\n**Co:** Označil organizované přechody členů k lidovcům za „medvědí službu“ opozici.\n**Proč:** Je to politicky citlivé, protože to narušuje jednotu demokratických stran a spolupráci v rámci opozice, což je klíčové pro budoucí volební úspěch proti hnutí ANO.\n**Čas:** 1/14:02",
+      "speaker": "Jiří Pospíšil",
+      "affiliation": "TOP 09",
+      "timestamp": "1/14:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3218_controversy_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení vnitřních procesů v rámci koaličních a opozičních stran. Nelze nezávisle ověřit, zda jde o „medvědí službu“, neboť jde o interpretaci politické strategie a dopadů přestupů členů mezi politickými subjekty."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

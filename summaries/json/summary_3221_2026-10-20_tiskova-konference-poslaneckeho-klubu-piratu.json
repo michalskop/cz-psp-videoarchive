@@ -1,0 +1,146 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T14:26:17",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3221",
+    "name": "Tisková konference poslaneckého klubu Pirátů",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-20T12:40",
+    "end_date": "2026-10-20T13:01",
+    "sources": [
+      "final/event_3221_2026-10-20_tiskova-konference-poslaneckeho-klubu-piratu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5681_video-psp-20261020-1240-21-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu Pirátů se zaměřila na kritiku vládního návrhu státního rozpočtu na rok 2027, který Piráti označují za druhý nejhorší v historii ČR. Hlavním cílem bylo představit opoziční pohled na ekonomickou situaci země, upozornit na údajné chyby ve vládních výpočtech a prezentovat konkrétní pozměňovací návrhy, které mají za cíl snížit rozpočtový schodek a podpořit investice do vzdělávání, bydlení a sociálních služeb.\n\nKromě rozpočtu se řečníci věnovali dalším aktuálním legislativním tématům, včetně kritiky změn v podpoře v nezaměstnanosti, dotační politiky vůči velkým agroholdingům, změn na Ministerstvu kultury a Ministerstvu školství, financování zdravotnictví a novely zákona na ochranu zvířat.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládní rozpočet na rok 2027 s plánovaným schodkem 386 miliard Kč. Upozornil na chybějící položky (30 mld. na Dukovany) a nesrovnalosti v odhadech ekonomického růstu a úroků státního dluhu. Odhaduje reálný schodek až na 440 miliard Kč. `[1/02:02]`",
+      "**Vendula Svobodová (Piráti)** — Navrhla snížení schodku rozpočtu o 40 miliard Kč (20 mld. úspory v dotacích na MZe a MPO, 20 mld. zvýšení „daně z neřestí“). Prosazuje investice do obecního bydlení a studentských kolejí namísto „populistických dárečků“. `[1/04:00]`",
+      "**Olga Richterová (Piráti)** — Kritizovala vládní záměr snížit podporu v nezaměstnanosti. Argumentuje, že jde o pojistný systém, nikoliv charitu, a že snížení podpory zhorší vyjednávací pozici zaměstnanců při hledání nové práce. `[1/06:04]`",
+      "**Ivan Bartoš (Piráti)** — Napadl dotační programy pro velké agroholdingy (200 mil. Kč) a kritizoval novelu zákona o střetu zájmů, která má podle něj umožnit firmám spojeným s premiérem čerpat dotace bez omezení. `[1/10:06]`",
+      "**Andrea Hoffmanová (Piráti)** — Kritizovala změny na Ministerstvu kultury (nové dotační podmínky, autocenzura umělců, odchody odborníků z komisí) a parametrizaci asistentů pedagoga, která podle ní znevýhodňuje malé školy a sociálně vyloučené oblasti. `[1/14:07]`",
+      "**Eva Šrámková (Piráti)** — Upozornila na nedostatečné financování zdravotnictví a kritizovala ministra Vojtěcha za neschopnost prosadit systémové reformy (např. očkování v lékárnách). `[1/16:04]`",
+      "**Jana Padková (Piráti)** — Představila pozměňovací návrhy k zákonu na ochranu zvířat, včetně povinného čipování koček a kastrací velkých šelem v soukromých chovech. `[1/18:03]`"
+    ],
+    "outcome": "Piráti vyjádřili jednoznačný nesouhlas s vládním návrhem rozpočtu a avizovali, že budou hlasovat proti němu. Zároveň deklarovali přípravu a předložení série pozměňovacích návrhů v oblastech rozpočtu, sociální politiky a ochrany zvířat. Konsenzem klubu je odmítnutí vládní politiky, kterou považují za „projídání budoucnosti“ a upřednostňování zájmů velkých firem před potřebami občanů.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a překlepy (např. „shodek“ místo „schodek“, „peň“ místo „paní“), které však nemají vliv na pochopení obsahu. Části textu jsou mírně fragmentované, ale srozumitelné."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Andrea Hofmanová",
+        "person_id": "psp:person:6905",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Eva Šrámková",
+        "person_id": "psp:person:7046",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Jana Padková",
+        "person_id": "psp:person:7032",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Piráti",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo financí",
+      "Ministerstvo zemědělství",
+      "Ministerstvo průmyslu a obchodu",
+      "Ministerstvo kultury",
+      "Ministerstvo školství",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Představujeme, že sečteno podtrženo nám z toho vychází, že ten schodek nebude těch 386 miliard, ale budeme se blížit spíše ke 440 miliardám příští rok.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3221_highlight_00.jpg",
+      "context": "Odhad schodku státního rozpočtu je predikcí založenou na makroekonomických modelech. Oficiální návrh rozpočtu předkládá Ministerstvo financí ČR; tvrzení o vyšším schodku je politickým odhadem opozičního politika, který není podložen aktuálními daty MF ČR."
+    },
+    {
+      "text": "Piráti přicházejí s návrhem, aby sněmovna vrátila rozpočet k přepracování a budeme požadovat snížení schodků alespoň o těch 40 miliard korun.",
+      "type": "citation",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:39",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3221_highlight_01.jpg",
+      "context": "Jedná se o legitimní politický požadavek v rámci rozpočtového procesu dle zákona č. 218/2000 Sb., o rozpočtových pravidlech. Návrh na vrácení rozpočtu k přepracování je standardním parlamentním nástrojem opozice."
+    },
+    {
+      "text": "Data ukazují, že i při vynucené změně zaměstnání stoupnou lidem mzdy zhruba o 10 %, i když nechtěli odejít.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3221_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Tvrzení o 10% nárůstu mezd při vynucené změně zaměstnání závisí na konkrétní metodice a zdrojových datech (např. ČSÚ nebo MPSV), která nebyla specifikována."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Ivan Bartoš (Piráti)\n* **Co:** Obvinil premiéra Andreje Babiše z ovlivňování legislativy ve svůj prospěch prostřednictvím novely zákona o střetu zájmů.\n* **Proč:** Jde o přímé obvinění premiéra z korupčního jednání a zneužívání moci, což je politicky vysoce citlivé téma.\n* **Čas:** 1/10:06",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3221_controversy_00.jpg",
+      "context": "Jde o politické obvinění z konfliktu zájmů. V minulosti se touto problematikou zabývaly instituce EU (auditní zprávy Evropské komise) i české orgány, přičemž interpretace těchto nálezů zůstává předmětem dlouhodobého politického sporu."
+    },
+    {
+      "statement": "* **Kdo:** Andrea Hoffmanová (Piráti)\n* **Co:** Přirovnala nové dotační podmínky na Ministerstvu kultury k cenzuře před rokem 1989.\n* **Proč:** Srovnání s totalitním režimem je silným rétorickým nástrojem, který vyvolává napětí v kulturní obci a politické debatě.\n* **Čas:** 1/14:07",
+      "speaker": "Andrea Hoffmanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/14:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3221_controversy_01.jpg",
+      "context": "Jde o subjektivní rétorické přirovnání. Srovnání s cenzurou před rokem 1989 je politickou interpretací dotační politiky státu a nelze jej fakticky verifikovat jako objektivní stav."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
