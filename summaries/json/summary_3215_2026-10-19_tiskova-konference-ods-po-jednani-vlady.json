@@ -1,0 +1,109 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T02:37:14",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3215",
+    "name": "Tisková konference ODS po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-19T15:30",
+    "end_date": "2026-10-19T15:49",
+    "sources": [
+      "final/event_3215_2026-10-19_tiskova-konference-ods-po-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5675_video-psp-20261019-1530-56-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po jednání vlády a jejím hlavním cílem bylo zhodnocení výsledků senátních voleb, kritika vládní politiky v oblastech školství, zemědělství a zahraničních vztahů a představení postojů strany k nadcházejícímu projednávání státního rozpočtu.\n\nPředstavitelé ODS prezentovali výsledky voleb jako jasné vítězství opozice a porážku vládních stran, přičemž varovali před údajnou „odvetou“ vlády vůči veřejnosti. Zároveň strana deklarovala své priority pro nadcházející parlamentní týden, zejména v oblasti úspor a systémových reforem.",
+    "main_points": [
+      "**Martin Kupka (ODS)**: Vyzdvihl volební úspěch ODS (zisk 2 křesel navíc), kritizoval vládní záměry v oblasti médií a neziskového sektoru a odsoudil výroky ministra Macinky. `[1/00:00]`",
+      "**Renáta Zajíčková (ODS)**: Požaduje revizi inkluze, kritizuje vládní návrh na spádovost pedagogicko-psychologických poraden a prosazuje reformu 8+2. `[1/04:04]`",
+      "**Petr Bendl (ODS)**: Kritizoval vládu za škrty v boji proti suchu a upřednostňování dotací pro velké agroholdingy. `[1/10:01]`",
+      "**Státní rozpočet**: ODS připravuje vlastní návrh úspor, který má být o desítky miliard nižší než vládní verze. `[1/12:08]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale prezentací politického postoje. ODS potvrdila svou roli opoziční síly, která se bude v Poslanecké sněmovně stavět proti vládním návrhům v oblasti školství a sociální politiky. Strana se připravuje na projednávání rozpočtu, kde hodlá předložit vlastní alternativní plán úspor.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky slov, které však nebrání pochopení hlavních argumentů řečníků."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renáta Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "ODS posílila nejvíce ze všech současných uskupení a kromě obhajoby pěti senátních křesel se podařilo ještě dva senátory získat navíc.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3215_highlight_00.jpg",
+      "context": "V senátních volbách v roce 2024 ODS obhájila 5 mandátů a získala 2 navíc, celkem tedy 7 zvolených senátorů. Tvrzení o zisku dvou křesel navíc oproti obhajovaným je fakticky správné, nicméně hodnocení „posílila nejvíce ze všech“ je subjektivní interpretací, neboť závisí na zvolené metodice (např. celkový počet mandátů v Senátu vs. volební zisk v daném roce)."
+    },
+    {
+      "text": "Představíme konkrétní návrhy úspor a zároveň schodek, který bude řádově o desítky miliard nižší, než je ten, který představila Alena Schillerová.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/12:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3215_highlight_01.jpg",
+      "context": "Schodek státního rozpočtu pro rok 2024 byl schválen ve výši 252 miliard Kč, zatímco rozpočet na rok 2021 (předkládaný Alenou Schillerovou) skončil se schodkem 419,7 miliardy Kč. Srovnání je však nutné vnímat v kontextu odlišných ekonomických podmínek, zejména dopadů pandemie covid-19 a energetické krize."
+    },
+    {
+      "text": "V některých školách, například v malotřídkách, jsou na 14 žáků dva asistenti pedagoga; to je předimenzovanost a vykazuje to prvky neefektivity.",
+      "type": "paraphrase",
+      "speaker": "Renáta Zajíčková",
+      "affiliation": "ODS",
+      "timestamp": "1/06:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3215_highlight_02.jpg",
+      "context": "Počet asistentů pedagoga je v ČR regulován vyhláškou č. 27/2016 Sb. a závisí na doporučení školských poradenských zařízení na základě individuálních potřeb žáků se speciálními vzdělávacími potřebami. Tvrzení o „předimenzovanosti“ je politickým názorem na efektivitu inkluzivního vzdělávání, nikoliv objektivním konstatováním porušení norem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Martin Kupka (ODS)\n**Co:** „Na to chci říct jediné, tohle by si ve slušné společnosti a v normální společnosti zasloužilo pár facek.“ (reakce na výroky ministra Macinky).\n**Proč:** Použití fyzické konotace („facky“) v politické debatě je považováno za agresivní a za hranou standardní politické kultury.\n**Čas:** 1/02:18",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:18",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3215_controversy_00.jpg",
+      "context": "Výrok je subjektivním hodnotícím soudem a vyjádřením politického postoje. Použití metafory o „fackách“ v parlamentní debatě je předmětem etické diskuse o politické kultuře, ale fakticky jej nelze ověřit jako pravdivé či nepravdivé tvrzení."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

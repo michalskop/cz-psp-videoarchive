@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-20T02:37:00",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3214",
+    "name": "Tisková konference Mladé vlády České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-19T16:01",
+    "end_date": "2026-10-19T16:13",
+    "sources": [
+      "final/event_3214_2026-10-19_tiskova-konference-mlade-vlady-ceske-piratske-stra.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5673_video-psp-20261019-161-17-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference „Mladé vlády České pirátské strany“ se zaměřila na kritiku vládní dotační politiky, návrhy na posílení participace mladých lidí v politice a řešení socioekonomických problémů mladé generace. Hlavním cílem bylo představit priority, které zástupci Mladé vlády hodlají projednat na nadcházející schůzce s prezidentem republiky.\n\nJednání se neslo v duchu opoziční kritiky současné vlády, zejména v otázce střetu zájmů premiéra Babiše a přidělování dotací velkým agroholdingům na úkor mladých rodin a dostupného bydlení. Zároveň byla představena vize institucionálního zapojení mladých lidí do správy obcí a návrhy na podporu studentů.",
+    "main_points": [
+      "**Samuel Wolpe (Piráti, ministr Mladé vlády pro bezpečnost a boj s dezinformacemi)** — Kritika vládního schválení dotací ve výši 200 milionů Kč pro velké agroholdingy; označil stát za „bankomat pro nejbohatší“. Upozornil na přetrvávající střet zájmů premiéra Babiše a připomněl kauzu neoprávněně vyplacených 7,5 miliardy Kč z minulosti. Prosazuje snížení věkové hranice pro volební právo v komunálních volbách na 16 let; kritizoval vládu za zamítnutí tohoto návrhu. `[1/02:03]`",
+      "**Kristian Sušer (ministr Mladé vlády pro moderní vzdělávání, vědu a duševní zdraví)** — Navrhuje vznik „mladých rad“ při obecních zastupitelstvech, které by umožnily mladým lidem (včetně žáků ZŠ a SŠ) podílet se na rozvoji obcí. Inspirací je model z Walesu; chce po prezidentovi, aby motivoval obce k jejich zřizování. Kritizuje „řetězení“ krátkodobých nájemních smluv (často na 1 rok či 3 měsíce), které drží nájemníky v nejistotě a brání jim bránit se nespravedlivým podmínkám. `[1/04:04]`",
+      "**Marcela Šimková (ministrině Mladé vlády pro rodiny, práci a férové příležitosti)** — Upozornila na vysoký podíl studentů, kteří musí při studiu pracovat, aby si mohli dovolit nájem, což vede k prodlužování studia nebo jeho předčasnému ukončení. Navrhuje systém „studentských vratných grantů“ jako finanční podporu, která by byla splácena až po dosažení určité příjmové hranice po dokončení studia. `[1/08:00]`"
+    ],
+    "outcome": "Formální rozhodnutí na tiskové konferenci nebyla přijímána, šlo o prezentaci postojů a plánů. Konsenzem Mladé vlády je nutnost mezigenerační solidarity, většího zapojení mladých do rozhodování o obcích a systémová podpora studentů a nájemníků. Zástupci potvrdili, že jejich prioritou pro nejbližší období je zítřejší jednání s prezidentem republiky, kde budou tyto návrhy prezentovat.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Baviš“ místo Babiš, „ADLu Suchardu“ místo Adélu Šípovou) a občasné opakování slov způsobené automatickým přepisem. Kontext byl však srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Samuel Wolpe",
+        "person_id": "psp:person:7057",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Kristian Sušer",
+        "person_id": null,
+        "affiliation": "Mladá vláda"
+      },
+      {
+        "name": "Marcela Šimková",
+        "person_id": "psp:person:6476",
+        "affiliation": "Mladá vláda"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana",
+      "ANO",
+      "SPD",
+      "Motoristé sobě"
+    ],
+    "institutions": [
+      "Mladá vláda",
+      "Evropská komise",
+      "Senát PČR",
+      "Prezident republiky"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Na mladé rodiny peníze nejsou, ale pro největší agroholdingy tam se peníze najdou vždycky.",
+      "type": "paraphrase",
+      "speaker": "Samuel Wolpe",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3214_highlight_00.jpg",
+      "context": "Tvrzení je politickou interpretací rozpočtových priorit. Podle dat SZIF (Státní zemědělský intervenční fond) jsou dotace rozdělovány podle pravidel EU a národních programů, přičemž debata o jejich koncentraci u velkých zemědělských podniků je dlouhodobým tématem politických sporů, nikoliv jednoznačně ověřitelným faktem."
+    },
+    {
+      "text": "Česko patří mezi země s nejvyšším podílem studentů, kteří při studiu pracují, což by neměla být podmínka, bez které člověk nemůže studovat.",
+      "type": "paraphrase",
+      "speaker": "Marcela Šimková",
+      "affiliation": "Mladá vláda",
+      "timestamp": "1/08:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3214_highlight_01.jpg",
+      "context": "Podle dat Eurostatu a šetření ČSÚ se podíl pracujících studentů v ČR skutečně dlouhodobě pohybuje nad průměrem EU. Jde o ověřitelný fakt, nicméně interpretace, že by studium nemělo být podmíněno prací, je legitimní politický názor na sociální politiku státu."
+    },
+    {
+      "text": "Chceme otevřít debatu o tom, jak lépe chránit lidi žijící v nájmu a jak omezit situace, kdy se z krátkodobých smluv stává nástroj, který nájemníky drží v permanentní nejistotě.",
+      "type": "citation",
+      "speaker": "Kristian Sušer",
+      "affiliation": "Mladá vláda",
+      "timestamp": "1/05:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3214_highlight_02.jpg",
+      "context": "Jde o politický záměr, nikoliv o faktické tvrzení. Legislativní rámec nájemního bydlení v ČR upravuje občanský zákoník (zákon č. 89/2012 Sb.), přičemž otázka ochrany nájemníků a délky nájemních smluv je předmětem probíhajících odborných diskusí na Ministerstvu pro místní rozvoj."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Samuel Wolpe (Piráti) označil vládní dotační programy pro agroholdingy za „bankomat pro ty nejbohatší“ a kritizoval vládu za to, že hlas mladé generace „vůbec nezajímá“. Jde o přímý útok na vládní politiku a střet zájmů premiéra, což je politicky vysoce citlivé téma.",
+      "speaker": "Samuel Wolpe",
+      "affiliation": "Piráti",
+      "timestamp": "1/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3214_controversy_00.jpg",
+      "context": "Označení dotačních programů za „bankomat“ je subjektivní politická rétorika. Otázka střetu zájmů premiéra byla v minulosti předmětem auditů Evropské komise, které konstatovaly porušení pravidel v oblasti střetu zájmů, což je doložitelný faktický základ pro politickou kritiku."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
