@@ -1,0 +1,95 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-22T02:24:10",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3229",
+    "name": "Tisková konference ODS k lepšímu rozpočtu",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-21T10:03",
+    "end_date": "2026-10-21T10:38",
+    "sources": [
+      "final/event_3229_2026-10-21_tiskova-konference-ods-k-lepsimu-rozpoctu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5690_video-psp-20261021-103-19-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána představiteli ODS (Martin Kupka, Jan Skopeček) jako reakce na vládní návrh státního rozpočtu na rok 2027, který předložila ministryně financí Alena Schillerová. ODS označila tento návrh za „rozpočtový armagedon“ a „destrukci odpovědného hospodaření“, která je zcela mimo ekonomickou realitu.\n\nCílem vystoupení bylo představit alternativní návrh úspor, který by snížil plánovaný deficit o více než 100 miliard korun (z vládních 386 mld. na 284 mld. Kč). ODS argumentuje, že v době ekonomického růstu je fiskální expanze vlády proinflační a poškozuje budoucí generace.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládu za „rozpočtový armagedon“ a přirovnal její hospodaření k „notorickému alkoholikovi“. Zdůraznil, že návrh ODS cílí na úspory v dotačním byznysu, provozu státu a platbách za státní pojištěnce. `[1/01:05]`",
+      "**Jan Skopeček (ODS)** — Představil konkrétní úsporná opatření v hodnotě 101,6 mld. Kč. Uvedl, že rozpočet vlády je „mimo realitu“ a ignoruje ekonomický cyklus. `[1/04:01]`",
+      "**Hlavní úspory:** Platy ve veřejné sféře (-20 mld. Kč), zdravotnictví (-11,1 mld. Kč), provoz státu (-10 mld. Kč) a snížení národních dotací."
+    ],
+    "outcome": "ODS hodlá svůj návrh předložit jako pozměňovací materiál v rámci projednávání rozpočtu v Poslanecké sněmovně. Pokud vládní koalice prosadí svůj návrh v prvním čtení, ODS se pokusí v druhém čtení převést prostředky do rozpočtové rezervy, aby fakticky snížila schodek.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a opakující se fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká národní banka",
+      "Národní rozpočtová rada"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Náš návrh při současných okolnostech snižuje schodek státního rozpočtu pro rok 2027 o 101,6 miliardy korun na úroveň 284 miliard.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/17:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3229_highlight_00.jpg",
+      "context": "Tvrzení vychází z vládních rozpočtových výhledů a plánů na konsolidaci veřejných financí. Reálný dopad na schodek v roce 2027 závisí na budoucím vývoji makroekonomických ukazatelů a plnění příjmové i výdajové strany rozpočtu, což nelze v současnosti s jistotou potvrdit."
+    },
+    {
+      "text": "Téměř 100 miliard, 96 miliard, si stát v příštím roce půjčuje na provoz a projídá je na dluh na úkor budoucích generací.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/07:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3229_highlight_01.jpg",
+      "context": "Výrok odkazuje na strukturální deficit státního rozpočtu, tedy část schodku, která není kryta investicemi. Podle dat Ministerstva financí ČR je podíl běžných výdajů na dluh dlouhodobým tématem politické debaty, přičemž interpretace „projídání“ je subjektivním politickým hodnocením ekonomické situace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Snížení platby za státní pojištěnce o 11,1 mld. Kč.\n- **Kdo:** Jan Skopeček (ODS).\n- **Proč:** Je to citlivé, protože zdravotnictví je podfinancované a jakékoli škrty mohou být vnímány jako ohrožení dostupnosti péče.",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/10:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3229_controversy_00.jpg",
+      "context": "Platba za státní pojištěnce je zákonem stanovená částka, kterou stát odvádí do systému veřejného zdravotního pojištění. Návrh na její snížení je předmětem politického sporu o udržitelnost systému; dopady na dostupnost péče jsou předmětem odborných analýz zdravotních pojišťoven a Ministerstva zdravotnictví ČR."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

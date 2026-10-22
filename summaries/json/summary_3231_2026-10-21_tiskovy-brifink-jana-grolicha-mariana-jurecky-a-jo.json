@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-22T02:24:59",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3231",
+    "name": "Tiskový brífink Jana Grolicha, Mariana Jurečky a Josefa Středuly po společném jednání",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-21T17:40",
+    "end_date": "2026-10-21T17:57",
+    "sources": [
+      "final/event_3231_2026-10-21_tiskovy-brifink-jana-grolicha-mariana-jurecky-a-jo.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5693_video-psp-20261021-1740-15-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tiskový brífink se uskutečnil po společném jednání vedení KDU-ČSL a předsedy ČMKOS Josefa Středuly. Hlavním tématem byla koordinace postupu proti vládním návrhům v novele zákoníku práce, konkrétně proti krácení podpory v nezaměstnanosti a změnám v definici závislé práce, které podle řečníků legalizují švarcsystém.\n\nÚčastníci vyzvali vládu ke stažení těchto návrhů s argumentem, že postihují nejzranitelnější skupiny, nejsou podloženy daty a mohou vést k významným rozpočtovým ztrátám.",
+    "main_points": [
+      "**Jan Grolich (KDU-ČSL)** — Kritizoval krácení podpory v nezaměstnanosti a varoval, že legalizace švarcsystému může stát připravit o 2,5 miliardy korun na každých 10 000 zaměstnanců. `[1/00:45]`",
+      "**Marian Jurečka (KDU-ČSL)** — Apeloval na vládu, aby návrhy stáhla kvůli absenci dat. Oznámil, že KDU-ČSL bude usilovat o zastavení těchto změn ve druhém a třetím čtení. `[1/02:15]`",
+      "**Monika Brzesková (KDU-ČSL)** — Potvrdila shodu s odbory a oznámila požadavek na předložení dat k novele na jednání sociálního výboru 11. listopadu. `[1/03:40]`",
+      "**Josef Středula (ČMKOS)** — Upozornil na možnou redukci podpory až o 10 000 Kč a kritizoval ignorování sociálního dialogu vládou. Varoval také před snižováním prostředků na sociální služby v letech 2027–2029. `[1/04:20]`"
+    ],
+    "outcome": "Nebyl dosažen formální vládní výsledek. Účastníci se shodli na společné výzvě vládě ke stažení sporných bodů. KDU-ČSL plánuje načíst pozměňovací návrhy k vyjmutí těchto bodů ze zákona a odbory hodlají vyvinout tlak prostřednictvím účasti na jednání sociálního výboru.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Grolich",
+        "person_id": "psp:person:6669",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Monika Brzesková",
+        "person_id": "psp:person:6994",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Josef Středula",
+        "person_id": null,
+        "affiliation": "ČMKOS"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "ČMKOS",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Výbor pro sociální politiku",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Když je těm lidem dána dobrá podpora a dostatek prostoru, tak si mohou při nové práci povýšit plat až o 12 %.",
+      "type": "paraphrase",
+      "speaker": "Jan Grolich",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/00:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3231_highlight_00.jpg",
+      "context": "Tvrzení o 12% nárůstu platu je obecným odhadem efektivity rekvalifikačních programů a aktivní politiky zaměstnanosti. Konkrétní data o mzdovém růstu po změně zaměstnání se liší podle oboru a regionu; nelze nezávisle ověřit jako univerzální pravidlo bez specifikace konkrétní studie či metodiky."
+    },
+    {
+      "text": "Při 20 tisících zaměstnancích, kteří přejdou ze zaměstnaneckého poměru do švarcsystému, tak ta částka bude rovna tomu, co chtějí ušetřit na nezaměstnaných.",
+      "type": "citation",
+      "speaker": "Josef Středula",
+      "affiliation": "ČMKOS",
+      "timestamp": "1/08:34",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3231_highlight_01.jpg",
+      "context": "Výpočet závisí na odhadu daňových a odvodových ztrát při přechodu na švarcsystém (OSVČ vs. zaměstnanec). Jde o teoretický model, jehož přesnost nelze ověřit bez znalosti konkrétních parametrů výpočtu, které Josef Středula nepředložil."
+    },
+    {
+      "text": "Vládní koalice k tomu nemá žádné data, žádné podklady, které by opravňovaly takovouto změnu.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:38",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3231_highlight_02.jpg",
+      "context": "Tvrzení o absenci dat je politickým hodnocením legislativního procesu. Vládní návrhy zákonů jsou standardně doprovázeny důvodovou zprávou a hodnocením dopadů regulace (RIA), nicméně opozice často napadá kvalitu či úplnost těchto podkladů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Josef Středula (ČMKOS) zpochybnil logiku vládních úspor, když uvedl, že pokud by vláda postupovala podle své logiky krácení podpory, mohla by ji zrušit úplně. Zároveň naznačil, že návrh se chce „někomu zavděčit“ a zmínil Ministerstvo financí (Letenská 32).",
+      "speaker": "Josef Středula",
+      "affiliation": "ČMKOS",
+      "timestamp": "1/06:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3231_controversy_00.jpg",
+      "context": "Výrok o zrušení podpory je rétorickou nadsázkou (reductio ad absurdum) kritizující vládní úsporná opatření. Ministerstvo financí sídlí na adrese Letenská 32, Praha 1, což je fakticky správný údaj, nikoliv však důkaz o záměru návrhu."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

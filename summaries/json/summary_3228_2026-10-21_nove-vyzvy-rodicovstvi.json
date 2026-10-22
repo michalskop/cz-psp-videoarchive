@@ -1,0 +1,263 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-22T02:23:39",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3228",
+    "name": "Nové výzvy rodičovství",
+    "classification": "Kulatý stůl",
+    "start_date": "2026-10-21T10:05",
+    "end_date": "2026-10-21T13:24",
+    "sources": [
+      "final/event_3228_2026-10-21_nove-vyzvy-rodicovstvi.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021100002.mp4",
+        "from_sec": 343
+      },
+      {
+        "part": 2,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021101002.mp4"
+      },
+      {
+        "part": 3,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021102002.mp4"
+      },
+      {
+        "part": 4,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021103002.mp4"
+      },
+      {
+        "part": 5,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021104002.mp4"
+      },
+      {
+        "part": 6,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021105002.mp4"
+      },
+      {
+        "part": 7,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021110002.mp4"
+      },
+      {
+        "part": 8,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021111002.mp4"
+      },
+      {
+        "part": 9,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021112002.mp4"
+      },
+      {
+        "part": 10,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021113002.mp4"
+      },
+      {
+        "part": 11,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021114002.mp4"
+      },
+      {
+        "part": 12,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021115002.mp4"
+      },
+      {
+        "part": 13,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021120002.mp4"
+      },
+      {
+        "part": 14,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021121002.mp4"
+      },
+      {
+        "part": 15,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021122002.mp4"
+      },
+      {
+        "part": 16,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021123002.mp4"
+      },
+      {
+        "part": 17,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021124002.mp4"
+      },
+      {
+        "part": 18,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021125002.mp4"
+      },
+      {
+        "part": 19,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021130002.mp4"
+      },
+      {
+        "part": 20,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021131002.mp4"
+      },
+      {
+        "part": 21,
+        "url": "https://videoarchiv.psp.cz/video2/K48/2026/10/21/_20261021132002.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 21,
+    "parts_total": 21,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Jednání bylo čtvrtým kulatým stolem ze série „Systémová podpora rodiny jako investice do budoucnosti“. Cílem setkání bylo identifikovat nové výzvy, kterým současní rodiče čelí, a diskutovat o možnostech systémové podpory rodin. Diskuse se zaměřila na propojení teoretických poznatků z výzkumů (mentální zátěž, rodičovská lítost, vliv technologií) s příklady dobré praxe v oblasti komunitní podpory, poradenství a krizové intervence.\n\nÚčelem bylo vytvořit prostor pro sdílení zkušeností mezi odborníky, neziskovým sektorem a politickou reprezentací, aby bylo možné lépe nastavit systém podpory rodin v České republice.",
+    "main_points": [
+      "**Václav Pláteník (poslanec, Parlament ČR)** — Zdůraznil propojení duševního zdraví rodičů s vývojem dětí. Uvedl, že rodičovství je dovednost, kterou je třeba se učit, a stát musí vytvářet předvídatelné prostředí. `[1/08:01]`",
+      "**Dana Lipová (nadace Sirius)** — Prezentovala analýzu mediálního obrazu rodičovství, který je často vykreslován jako extrémně náročná a izolovaná činnost. Upozornila na rizika spojená s využíváním AI při výchově dětí. `[2/02:07]`",
+      "**Silva H. (RILSA)** — Prezentovala výsledky výzkumu „Zpráva o rodině“. Uvedla, že rodina je stále vysokou hodnotou, ale rodiče i bezdětní pociťují vysokou míru vyčerpání a obavy z ekonomické nejistoty a klimatických změn. `[3/02:16]`",
+      "**Eliška Kodyšová a Miroslav Lýbal (Aperio)** — Představili koncept „mentální zátěže“. Výzkum ukázal, že ženy nesou výrazně vyšší mentální zátěž, což vede k pocitu nespravedlnosti. `[4/04:00]`",
+      "**Simona Hoskovcová (UNYP)** — Hovořila o psychické odolnosti a komunitě. Zdůraznila, že v krizových situacích je klíčová sounáležitost a „každodenní hrdinství“. `[5/04:00]`",
+      "**Lenka Štěpánková (Masarykova univerzita)** — Představila téma „rodičovské lítosti“. Zdůraznila, že tento pocit existuje spolu s láskou a je nutné jej destigmatizovat. `[6/02:06]`",
+      "**Tereza Komárková (Česká asociace pro psychoterapii)** — Zaměřila se na vliv AI. Doporučuje výchovu k „digitálnímu občanství“ namísto pouhé digitální gramotnosti. `[11/06:16]`",
+      "**Elena Lenártová a Petra Nebesová (Poradna pro rodinu / Triangle)** — Popsaly potřeby klientů v poradnách: potřebu uznání, bezpečí a sklidnění nejistot. `[12/06:00]`",
+      "**Štěpán Jindra (nadace Sirius)** — Představil portál „Šance dětem“ jako nástroj pro rodiče, který nabízí odborně garantované informace. `[14/02:04]`",
+      "**Kateřina (Linka bezpečí)** — Upozornila na nárůst suicidálních tendencí u dětí a potřebu krizové intervence pro rodiče. `[15/02:04]`",
+      "**Jana Divoká (psychoterapeutka)** — Popsala vliv společenských krizí na děti a doporučila koncept PACE (hravost, přijetí, zvídavost, empatie). `[16/02:06]`",
+      "**Veronika Vlková (Nová trojka) a Hana Školoudová (Centrum Ráj)** — Prezentovaly příklady dobré praxe rodinných center jako „záchytné sítě“ v obcích. Zdůraznily potřebu systémového financování. `[17/04:06]`"
+    ],
+    "outcome": "Jednání potvrdilo konsenzus v tom, že rodinná centra a preventivní služby jsou klíčovou infrastrukturou, která vyžaduje systémové a víceleté financování. Dominujícím postojem je potřeba destigmatizace rodičovských potíží (lítost, vyhoření, mentální zátěž) a nutnost podpory partnerských vztahů jako základu pro stabilitu rodiny. Poslanec Pláteník přislíbil otevřenost k legislativním podnětům a snahu o ukotvení rodinných center v zákoně.",
+    "notes": "Přepis obsahuje místy opakující se nesmyslné fráze, které byly pro účely shrnutí ignorovány. Části 9 a 10 záznamu jsou v přepisu srozumitelné pouze částečně."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Václav Pláteník",
+        "person_id": "psp:person:7036",
+        "affiliation": "Parlament ČR"
+      },
+      {
+        "name": "Dana Lipová",
+        "person_id": "psp:person:6652",
+        "affiliation": "nadace Sirius"
+      },
+      {
+        "name": "Silva H.",
+        "person_id": null,
+        "affiliation": "RILSA"
+      },
+      {
+        "name": "Eliška Kodyšová",
+        "person_id": null,
+        "affiliation": "Aperio"
+      },
+      {
+        "name": "Miroslav Lýbal",
+        "person_id": null,
+        "affiliation": "Aperio"
+      },
+      {
+        "name": "Simona Hoskovcová",
+        "person_id": null,
+        "affiliation": "UNYP"
+      },
+      {
+        "name": "Lenka Štěpánková",
+        "person_id": "psp:person:6086",
+        "affiliation": "Masarykova univerzita"
+      },
+      {
+        "name": "Tereza Komárková",
+        "person_id": null,
+        "affiliation": "Česká asociace pro psychoterapii"
+      },
+      {
+        "name": "Elena Lenártová",
+        "person_id": null,
+        "affiliation": "Poradna pro rodinu"
+      },
+      {
+        "name": "Petra Nebesová",
+        "person_id": null,
+        "affiliation": "Triangle"
+      },
+      {
+        "name": "Štěpán Jindra",
+        "person_id": null,
+        "affiliation": "nadace Sirius"
+      },
+      {
+        "name": "Kateřina",
+        "person_id": null,
+        "affiliation": "Linka bezpečí"
+      },
+      {
+        "name": "Jana Divoká",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Veronika Vlková",
+        "person_id": "psp:person:4431",
+        "affiliation": "Nová trojka"
+      },
+      {
+        "name": "Hana Školoudová",
+        "person_id": null,
+        "affiliation": "Centrum Ráj"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL"
+    ],
+    "institutions": [
+      "Parlament ČR",
+      "RILSA",
+      "Aperio",
+      "UNYP",
+      "Masarykova univerzita",
+      "Česká asociace pro psychoterapii",
+      "Linka bezpečí",
+      "nadace Sirius"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Rodičovská lítost existuje spolu s láskou a starostlivostí; netýká se konkrétního dítěte, ale rodičovské role.",
+      "type": "paraphrase",
+      "speaker": "Lenka Štěpánková",
+      "affiliation": "Masarykova univerzita",
+      "timestamp": "7/00:01",
+      "screenshot_path": "summaries/screenshots/event_3228_highlight_00.jpg",
+      "context": "Jde o psychologický koncept (tzv. parental regret), který je předmětem odborných studií v sociologii a psychologii. Výzkumy (např. Orna Donath) potvrzují, že tento fenomén existuje nezávisle na citovém vztahu ke konkrétnímu dítěti a souvisí spíše s náročností rodičovské role."
+    },
+    {
+      "text": "Rodinné centrum není jen volnočasový klub, je to stejně důležitá občanská vybavenost jako pošta nebo základní škola.",
+      "type": "citation",
+      "speaker": "Hana Školoudová",
+      "affiliation": "Centrum Ráj",
+      "timestamp": "19/05:50",
+      "screenshot_path": "summaries/screenshots/event_3228_highlight_01.jpg",
+      "context": "Zařazení mezi občanskou vybavenost je politickým a společenským názorem, nikoliv zákonnou definicí. Podle vyhlášky č. 501/2006 Sb. o obecných požadavcích na využívání území jsou jako občanská vybavenost definovány zejména stavby pro vzdělávání, zdravotnictví či veřejnou správu; rodinná centra mezi ně v legislativě standardně řazena nejsou."
+    },
+    {
+      "text": "Rodičovství je dovednost, kterou je třeba se učit, a k tomu musí být vytvořena infrastruktura.",
+      "type": "paraphrase",
+      "speaker": "Václav Pláteník",
+      "affiliation": "Parlament ČR",
+      "timestamp": "21/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3228_highlight_02.jpg",
+      "context": "Tvrzení je politickou proklamací o roli státu v podpoře rodinné politiky. Infrastruktura pro podporu rodičovství (např. poradny, vzdělávací programy) je v ČR financována kombinací dotačních titulů MPSV a obecních rozpočtů, neexistuje však zákonná povinnost státu takovou infrastrukturu plošně zajišťovat."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma: Rodičovská lítost**\n* **Kdo:** Lenka Štěpánková (Masarykova univerzita)\n* **Co:** Prezentovala výzkum o rodičích, kteří litují svého rozhodnutí mít děti.\n* **Proč:** Jde o silné společenské tabu, které je vnímáno jako „rouhání“ vůči ideálu bezpodmínečné rodičovské lásky.\n* **Čas:** 6/02:06",
+      "speaker": "Lenka Štěpánková",
+      "affiliation": "Masarykova univerzita",
+      "timestamp": "6/02:06",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3228_controversy_00.jpg",
+      "context": "Výzkum rodičovské lítosti je v akademické obci uznávaným tématem, které se zaměřuje na sociální tlaky a nároky kladené na rodiče. Společenské vnímání tohoto tématu jako tabu je doložitelným sociologickým faktem, který kontrastuje s tradičním společenským ideálem bezpodmínečného rodičovství."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
