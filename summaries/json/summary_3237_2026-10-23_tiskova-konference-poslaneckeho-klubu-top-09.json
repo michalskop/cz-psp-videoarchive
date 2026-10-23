@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-23T14:18:01",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3237",
+    "name": "Tisková konference poslaneckého klubu TOP 09",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-23T11:29",
+    "end_date": "2026-10-23T11:45",
+    "sources": [
+      "final/event_3237_2026-10-23_tiskova-konference-poslaneckeho-klubu-top-09.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5703_video-psp-20261023-1129-21-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána v reakci na náhlý a nečekaný postup vládní koalice v Poslanecké sněmovně, který se týká změny financování veřejnoprávních médií (Česká televize a Český rozhlas). Představitelé TOP 09 označili tento krok za „zločineckou strategii“ a pokus o ovládnutí médií po vzoru Viktora Orbána v Maďarsku.\n\nCílem konference bylo deklarovat odhodlání opozice bránit nezávislost veřejnoprávních médií prostřednictvím parlamentních obstrukcí a mobilizace veřejnosti. TOP 09 kritizuje jak samotný záměr změny financování, tak způsob, jakým byl tento bod do programu schůze zařazen bez předchozího projednání na organizačním výboru či grémiu.",
+    "main_points": [
+      "**Matěj Ondřej Havel (TOP 09)** — Označil vládní postup za „pomstu za prohrané volby“ a snahu o vytvoření hlásné trouby vlády. Kritizoval zneužití nedávné změny jednacího řádu a varoval před „maďarským scénářem“. `[1/00:30]`",
+      "**Jan Jakob (TOP 09)** — Vyvracel argumenty vlády o „severském modelu“ financování, který označil za lež. Upozornil na finanční nejistotu a fakt, že přechod na státní rozpočet bude daňové poplatníky stát o 300 milionů korun více ročně na úrocích. `[1/04:30]`",
+      "Opozice hodlá využít všech parlamentních prostředků k blokování návrhu a vyzvala občanskou společnost k podpoře a protestům."
+    ],
+    "outcome": "Nebyl dosažen žádný konsenzus s vládní koalicí. TOP 09 potvrdila, že jejich postojem je odmítnutí jakékoli změny současného systému financování, který považují za funkční a dostatečně robustní. Opozice je připravena pokračovat v obstrukcích po dobu celého víkendu.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se nesmyslné fráze a useknutá slova. Obsah byl rekonstruován na základě srozumitelných částí textu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Matěj Ondřej Havel",
+        "person_id": "psp:person:6754",
+        "affiliation": "TOP 09"
+      },
+      {
+        "name": "Jan Jakob",
+        "person_id": "psp:person:6687",
+        "affiliation": "TOP 09"
+      }
+    ],
+    "parties": [
+      "TOP 09",
+      "ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Veřejnoprávní média mají možnost kontrolovat jakoukoliv veřejnou moc a to je právě to, co chce vláda Andreje Babiše nyní zničit.",
+      "type": "paraphrase",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/03:41",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3237_highlight_00.jpg",
+      "context": "Tvrzení o záměru vlády Andreje Babiše zničit veřejnoprávní média je politickou interpretací. Fakticky lze ověřit, že v minulosti docházelo ke kritice nezávislosti médií ze strany hnutí ANO, ale konkrétní legislativní kroky k „zničení“ médií nebyly realizovány."
+    },
+    {
+      "text": "To, že budou zrušeny poplatky, neznamená, že lidé nebudou za služby médií platit; budou to platit všichni daňoví poplatníci a budou to platit i s úroky, protože financování půjde na dluh.",
+      "type": "paraphrase",
+      "speaker": "Jan Jakob",
+      "affiliation": "TOP 09",
+      "timestamp": "1/06:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3237_highlight_01.jpg",
+      "context": "Pokud by byly zrušeny koncesionářské poplatky a financování by bylo převedeno přímo na státní rozpočet, výdaje by se staly součástí státního rozpočtu. Pokud by státní rozpočet vykazoval deficit, bylo by financování médií fakticky kryto dluhem, což odpovídá principu fungování státních financí v deficitním režimu."
+    },
+    {
+      "text": "My nechceme, aby se veřejnoprávní média stala hlásnou troubou jakékoliv vlády, ať je to tahleta nebo jakákoliv příští.",
+      "type": "citation",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/00:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3237_highlight_02.jpg",
+      "context": "Jedná se o politický postoj a deklaraci záměru. Nezávislost veřejnoprávních médií je v ČR legislativně ukotvena v zákonech č. 483/1991 Sb. (ČT) a č. 484/1991 Sb. (ČRo), které definují mechanismy volby rad a financování."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Matěj Ondřej Havel (TOP 09) přirovnal vládní koalici k diktátorům a jejich poslance k „otrokům“, kteří musí plnit příkazy Andreje Babiše a Tomia Okamury.",
+      "speaker": "Matěj Ondřej Havel",
+      "affiliation": "TOP 09",
+      "timestamp": "1/12:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3237_controversy_00.jpg",
+      "context": "Výrok je subjektivním politickým hodnocením a rétorickou nadsázkou. Nelze nezávisle ověřit, zda poslanci jednají jako „otroci“, neboť hlasování v Poslanecké sněmovně je svobodným projevem mandátu poslance dle Ústavy ČR."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

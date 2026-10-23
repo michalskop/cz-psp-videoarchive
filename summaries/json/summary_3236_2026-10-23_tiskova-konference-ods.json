@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-23T14:18:42",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3236",
+    "name": "Tisková konference ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-23T11:01",
+    "end_date": "2026-10-23T11:19",
+    "sources": [
+      "final/event_3236_2026-10-23_tiskova-konference-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5702_video-psp-20261023-111-23-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala v reakci na aktuální dění v Poslanecké sněmovně, konkrétně v souvislosti s vládním návrhem na změnu financování veřejnoprávních médií (Česká televize a Český rozhlas). Představitelé ODS označili tento krok za útok na nezávislost médií a právní stát, který vnímají jako odvetu vládní koalice za neúspěch v senátních volbách.\n\nCílem konference bylo deklarovat odpor opozice vůči tomuto návrhu, informovat veřejnost o hrozbách spojených se zestátněním financování médií a zdůraznit odhodlání opozice využít všech dostupných parlamentních i mimoparlamentních nástrojů k zablokování vládního postupu.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládní „válcovací mašinerii“ a útok na veřejnoprávní média. Upozornil na paralelu se Slovenskem, kde přímá vazba na státní rozpočet vedla k politické manipulaci s financováním. Zdůraznil, že ODS bude bránit nezávislost médií všemi prostředky, včetně Senátu a případné ústavní stížnosti. `[1/01:00]`",
+      "**Marek Benda (ODS)** — Označil postup vládní koalice za „prasárnu“. Vyjádřil rozhořčení nad tím, že vláda prosazuje takto zásadní změny bez řádné debaty a v rychlém sledu, čímž se snaží znemožnit reakci společnosti. `[1/04:07]`",
+      "**Martin Baxa (ODS)** — Uvedl, že návrh (sněmovní tisk 231) směřuje k zestátnění financování médií veřejné služby. Zdůraznil, že nezávislá novinařina je pilířem demokratické společnosti a opozice v této věci postupuje jednotně. `[1/06:00]`"
+    ],
+    "outcome": "Jednání nevedlo k žádnému formálnímu rozhodnutí, neboť šlo o tiskovou konferenci opoziční strany. ODS vyjádřila jasný konsenzus v otázce odporu proti vládnímu návrhu. Zástupci strany avizovali, že budou v rámci sněmovny bojovat proti návrhu „do roztrhání těla“, hodlají využít Senát jako pojistku a nevylučují ani podání k Ústavnímu soudu.",
+    "notes": "Přepis obsahuje několik technických chyb (chybějící diakritika, opakující se fráze, useknutá slova). Části textu v závěru (např. „Představující se na poslancům“) jsou nesrozumitelné, ale kontext debaty o médiích a letišti Praha zůstává zachován."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Marek Benda",
+        "person_id": "psp:person:4",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Martin Baxa",
+        "person_id": "psp:person:6435",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Senát",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda ukazuje, že útočí na všechno, co se pojí s tradičním řádem právního státu – soudy, ústavní instituce a média.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3236_highlight_00.jpg",
+      "context": "Toto tvrzení je politickým hodnocením a subjektivním názorem řečníka. Neexistují objektivní data, která by potvrzovala systematický útok vlády na instituce právního státu; jde o rétorický obrat používaný v rámci politického boje."
+    },
+    {
+      "text": "V okamžiku, kdy se média a veřejné služby navážou na státní rozpočet, tak stačí jednoduché hlasování o jakémkoliv zákonu a rázem se ta původní schválená výše podpory sníží.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/13:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3236_highlight_01.jpg",
+      "context": "Z hlediska legislativního procesu je tvrzení fakticky správné. Pokud je financování institucí přímo vázáno na zákon o státním rozpočtu, může Poslanecká sněmovna v rámci rozpočtového procesu výši prostředků změnit prostou většinou hlasů."
+    },
+    {
+      "text": "To, co se tady odehrálo teď v dopoledních hodinách, po tom, co vedeme naprosto seriózní debaty, je prasárna.",
+      "type": "citation",
+      "speaker": "Marek Benda",
+      "affiliation": "ODS",
+      "timestamp": "1/04:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3236_highlight_02.jpg",
+      "context": "Výraz „prasárna“ je subjektivní hodnotící soud a expresivní politická rétorika. Nelze nezávisle ověřit, zda postup vlády naplňuje definici tohoto výrazu, neboť jde o vyjádření názoru na politickou kulturu jednání."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Marek Benda (ODS)\n**Co:** Označil vládní postup při projednávání zákona o médiích za „prasárnu“.\n**Proč:** Použití takto expresivního výrazu v oficiálním politickém projevu je politicky citlivé a zdůrazňuje hloubku konfliktu mezi koalicí a opozicí.\n**Čas:** 1/04:07",
+      "speaker": "Marek Benda",
+      "affiliation": "ODS",
+      "timestamp": "1/04:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3236_controversy_00.jpg",
+      "context": "Označení postupu za „prasárnu“ je subjektivní politické hodnocení. Fakt, že k němu došlo, je ověřitelný ze stenografického záznamu jednání Poslanecké sněmovny, avšak samotný výrok není faktografickým tvrzením, které by podléhalo verifikaci."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

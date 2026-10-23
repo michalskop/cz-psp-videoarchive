@@ -1,0 +1,124 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-23T14:19:25",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3233",
+    "name": "Tisková konference Ireny Ferčíkové Konečné k semináři Zaměstnanci vs. změna závislé práce",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-23T08:40",
+    "end_date": "2026-10-23T08:58",
+    "sources": [
+      "final/event_3233_2026-10-23_tiskova-konference-ireny-fercikove-konecne-k-semin.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5697_video-psp-20261023-840-35-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala u příležitosti odborného semináře věnovaného chystaným změnám v zákoníku práce, konkrétně redefinici závislé práce a novému zákonu o platformové práci. Cílem akce bylo upozornit na rizika spojená s vládním návrhem, který podle řečníků není přímou implementací evropské směrnice, ale problematickým „přílepkem“.\n\nHlavní obavou řečníků je, že redefinice závislé práce povede k masivnímu rozmachu tzv. švarcsystému, což způsobí drastické výpadky ve veřejných rozpočtech. Řečníci přirovnali dopady tohoto kroku k negativním důsledkům zrušení superhrubé mzdy a zdůraznili potřebu řešit platformovou práci odděleně od obecné redefinice závislé práce.",
+    "main_points": [
+      "**Irena Ferčíková Konečná (poslankyně)** — Upozornila, že redefinice závislé práce není vyžadována evropskou směrnicí a jde o nadbytečný krok. Varovala před obrovskými výpadky veřejných financí. `[1/00:00]`",
+      "**Pavla Pivoňka Vaňková (poslankyně, STAN)** — Vyjádřila ostrý nesouhlas s postupem MPSV a slíbila, že opozice udělá vše pro to, aby návrh zastavila. `[1/02:00]`",
+      "**Josef Středula (ČMKOS)** — Varoval, že dopad na rozpočet při přechodu 10 000 lidí na švarcsystém je 2,4 miliardy Kč. Oznámil start kampaně ČMKOS. `[1/04:10]`",
+      "**Bára Millerová (ICT odbory)** — Zdůraznila, že změna zvětšuje nerovnováhu mezi zaměstnavateli a zaměstnanci a oslabuje ochranu pracujících. `[1/06:08]`",
+      "**Zdeněk Neubauer (Asociace platformových pracovníků)** — Představil 5 požadavků pro platformové pracovníky, včetně hlasu pro OSVČ a odpovědnosti flotil. `[1/08:05]`"
+    ],
+    "outcome": "Jednání vyústilo v jasný odpor opozičních poslanců a zástupců odborů proti vládnímu návrhu redefinice závislé práce. Nebylo dosaženo žádné dohody s vládou; naopak, odbory zahajují kampaň a poslankyně hodlají využít parlamentní nástroje k oddálení či zvrácení návrhu. Konsenzem je, že platformová práce musí být řešena samostatným zákonem.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen a občasné opakování nesmyslných frází, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Irena Ferčíková Konečná",
+        "person_id": "psp:person:7003",
+        "affiliation": null
+      },
+      {
+        "name": "Pavla Pivoňka Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Josef Středula",
+        "person_id": null,
+        "affiliation": "ČMKOS"
+      },
+      {
+        "name": "Bára Millerová",
+        "person_id": null,
+        "affiliation": "ICT odbory"
+      },
+      {
+        "name": "Zdeněk Neubauer",
+        "person_id": null,
+        "affiliation": "Asociace platformových pracovníků"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ČMKOS",
+      "Piráti",
+      "KDU-ČSL",
+      "TOP 09"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "MPSV",
+      "Asociace platformových pracovníků"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Pokud by se redefinice týkala všech zaměstnanců, dopad na veřejné rozpočty by byl vyšší než jeden bilion korun.",
+      "type": "citation",
+      "speaker": "Josef Středula",
+      "affiliation": "ČMKOS",
+      "timestamp": "1/05:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3233_highlight_00.jpg",
+      "context": "Tento odhad nelze nezávisle ověřit, neboť závisí na konkrétním legislativním návrhu a metodice výpočtu dopadů na odvody sociálního a zdravotního pojištění. Oficiální analýzy dopadů (RIA) k aktuálním návrhům redefinice závislé práce takto vysoké částky obvykle neuvádějí."
+    },
+    {
+      "text": "Změna redefinice závislé práce zvětšuje nerovnováhu mezi zaměstnavateli a zaměstnanci a přenáší na pracující další rizika a náklady.",
+      "type": "citation",
+      "speaker": "Bára Millerová",
+      "affiliation": "ICT odbory",
+      "timestamp": "1/07:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3233_highlight_01.jpg",
+      "context": "Jde o subjektivní interpretaci dopadů legislativní změny. Změna definice závislé práce může ovlivnit míru právní ochrany pracovníků, nicméně otázka přenosu rizik je předmětem politické debaty mezi zástupci zaměstnanců a zaměstnavatelů."
+    },
+    {
+      "text": "Nechceme z kurýrů a řidičů dělat plošně zaměstnance, chceme ale, aby zákon chránil i ty, kdo zůstanou v režimu osob samostatně výdělečně činných.",
+      "type": "citation",
+      "speaker": "Zdeněk Neubauer",
+      "affiliation": "Asociace platformových pracovníků",
+      "timestamp": "1/11:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3233_highlight_02.jpg",
+      "context": "Tento výrok reflektuje snahu o úpravu zákoníku práce (např. v souvislosti s transpozicí směrnice EU o platformové práci). Cílem je zajistit minimální standardy ochrany pro osoby pracující přes digitální platformy, aniž by došlo k automatické rekvalifikaci všech OSVČ na zaměstnance."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Josef Středula (ČMKOS) varoval, že vládní návrh fakticky legalizuje švarcsystém, což označil za „vypíchnutí očí“ státnímu rozpočtu. Je to politicky citlivé, protože to přímo útočí na fiskální odpovědnost vlády a její schopnost vybírat daně.",
+      "speaker": "Josef Středula",
+      "affiliation": "ČMKOS",
+      "timestamp": "1/04:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3233_controversy_00.jpg",
+      "context": "Tvrzení o legalizaci švarcsystému je politickou interpretací návrhu. Z právního hlediska je švarcsystém (výkon závislé práce mimo pracovněprávní vztah) definován v zákoně č. 435/2004 Sb., o zaměstnanosti; zda návrh fakticky oslabuje jeho vymáhání, je předmětem odborného sporu mezi právníky a ministerstvy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

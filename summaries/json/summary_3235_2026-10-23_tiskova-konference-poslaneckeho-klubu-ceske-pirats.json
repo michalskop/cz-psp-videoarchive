@@ -1,0 +1,102 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-23T14:19:05",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3235",
+    "name": "Tisková konference poslaneckého klubu České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-23T10:27",
+    "end_date": "2026-10-23T10:39",
+    "sources": [
+      "final/event_3235_2026-10-23_tiskova-konference-poslaneckeho-klubu-ceske-pirats.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5699_video-psp-20261023-1027-53-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána v reakci na aktuální kroky vlády (koalice hnutí ANO, Motoristů sobě a SPD), která na program jednání Poslanecké sněmovny zařadila návrh na změnu financování médií veřejné služby. Pirátská strana tento krok vnímá jako přímý útok na nezávislost České televize a Českého rozhlasu a jako pokus o jejich faktické ovládnutí či likvidaci.\n\nCílem konference bylo informovat veřejnost o rizicích spojených s převodem financování médií pod státní rozpočet, upozornit na paralely s politickým vývojem v Maďarsku a na Slovensku a deklarovat připravenost opozice proti tomuto návrhu vystoupit.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Označil vládní návrh za „aroganci moci“ a pomstu za neúspěšné volby. Upozornil, že převod poplatků do státního rozpočtu prohloubí deficit, který je již nyní nejhorší v historii ČR (386 miliard Kč). Kritizoval vládu za neplnění slibů a označil útok na média za ohrožení základních kamenů demokracie. `[1/01:00]`",
+      "**Andrea Hofmanová (Piráti)** — Zdůraznila, že poplatky jsou klíčem k nezávislosti médií. Upozornila, že vládní plán zahrnuje nejen ztrátu nezávislosti, ale i razantní škrty v rozpočtech ČT a ČRo. Argumentovala, že tento krok je v rozporu s evropskou legislativou (EMFP). `[1/03:15]`",
+      "**Ivan Bartoš (Piráti)** — Varoval před „maďarským scénářem“ zestátnění médií a umlčování opozičních názorů. Zmínil i další znepokojivé kroky vlády, jako jsou kontroly divadelních institucí či „defunding“ vysokých škol. Vyzval občanskou společnost k ostražitosti. `[1/05:15]`"
+    ],
+    "outcome": "Pirátská strana se v rámci opozice koordinuje a je připravena proti vládnímu návrhu vystoupit v Poslanecké sněmovně. Zástupci strany deklarovali, že budou usilovat o věcnou debatu a využijí všechny dostupné parlamentní prostředky k obraně nezávislosti veřejnoprávních médií.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Andrea Hofmanová",
+        "person_id": "psp:person:6905",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Ivan Bartoš",
+        "person_id": "psp:person:6433",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana",
+      "ANO",
+      "Motoristé sobě",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Převod financování médií veřejné služby pod státní rozpočet je nezodpovědný holý nesmysl.",
+      "type": "citation",
+      "speaker": "Andrea Hofmanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3235_highlight_00.jpg",
+      "context": "Financování médií veřejné služby (ČT, ČRo) je v současnosti zajištěno koncesionářskými poplatky, což je zákonný mechanismus (zákon č. 483/1991 Sb. a č. 484/1991 Sb.) navržený k zajištění nezávislosti na státním rozpočtu. Převod pod státní rozpočet by znamenal přímou závislost na rozhodování vlády a parlamentu, což odborníci i mezinárodní organizace (např. EBU) dlouhodobě označují za riziko pro nezávislost médií."
+    },
+    {
+      "text": "To, co tady sledujeme, je klasický maďarský scénář podle notiček pana Orbána.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3235_highlight_01.jpg",
+      "context": "Tvrzení o „maďarském scénáři“ je politickou interpretací, nikoliv ověřitelným faktem. V Maďarsku došlo k centralizaci médií pod vládní vliv prostřednictvím mediální rady a nadace KESMA, což vedlo k výraznému omezení plurality; zda kroky české vlády směřují k identickému modelu, je předmětem politické debaty, nikoliv prokázaným legislativním stavem."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Ivan Bartoš (Piráti)\n**Co:** Přirovnal kroky vlády k postupu Viktora Orbána v Maďarsku a zmínil „zestátnění televize a následné vyblokování veškerých jiných politických názorů“.\n**Proč:** Jde o silné politické obvinění z autoritářských praktik, které přímo napadá legitimitu vládní koalice.\n**Čas:** 1/05:15",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3235_controversy_00.jpg",
+      "context": "Tvrzení o „zestátnění“ médií veřejné služby v ČR v současnosti neodpovídá legislativní realitě, neboť žádný zákon o zestátnění nebyl přijat. Obvinění z „vyblokování jiných názorů“ je subjektivní politické hodnocení; v českém mediálním prostoru nadále působí široké spektrum soukromých médií a veřejnoprávní média podléhají zákonné povinnosti objektivity a vyváženosti."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
