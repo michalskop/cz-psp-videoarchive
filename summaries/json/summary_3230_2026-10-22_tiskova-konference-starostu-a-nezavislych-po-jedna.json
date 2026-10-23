@@ -1,0 +1,120 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-23T02:09:33",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3230",
+    "name": "Tisková konference Starostů a nezávislých po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-22T11:02",
+    "end_date": "2026-10-22T11:36",
+    "sources": [
+      "final/event_3230_2026-10-22_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5692_video-psp-20261022-112-9-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí Starostové a nezávislí (STAN) se konala po jednání jejich „Kabinetu budoucnosti“. Hlavním účelem bylo vyjádřit nesouhlas s aktuálními kroky vládní koalice, které řečníci označili za ideologicky motivované a škodlivé pro bezpečnost a stabilitu země. Hnutí kritizovalo zejména snahy o změny v financování veřejnoprávních médií, oslabování bezpečnostní legislativy (paragraf o činnosti pro cizí moc) a chaotickou zahraniční politiku.\n\nDalším klíčovým tématem byla eskalace napětí v Poslanecké sněmovně, konkrétně incident, při kterém poslanec SPD Ševčík verbálně napadl předsedkyni klubu STAN Michaelu Šebelovou. Řečníci ostře odsoudili chování poslance Ševčíka i reakci předsedy Sněmovny Tomia Okamury, kterého obvinili ze selhání v roli nestranného předsedy a z agresivního vystupování vůči opozičním politikům.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval vládu za to, že po volebních neúspěších neřeší problémy občanů v regionech, ale věnuje se „kulturním válkám“. Odmítl změny v poplatcích za rozhlas a televizi, varoval před zrušením paragrafu o činnosti pro cizí moc a popsal incident s poslancem Ševčíkem a předsedou Sněmovny Okamurou. `[1/02:01]`",
+      "**Barbora Urbanová (STAN)** — Zaměřila se na tzv. „ruský zákon“ (legislativa o neziskových organizacích), který označila za šikanu občanské společnosti. Kritizovala vládu za to, že odmítla podpořit oslavy 17. listopadu. `[1/12:04]`",
+      "**Karel Dvořák (STAN)** — Představil podání k Ústavnímu soudu ve věci tzv. „Lex pomsta“ (omezení pravomocí prezidenta při jmenování velvyslanců), který STAN považuje za protiústavní změnu ústavy běžným zákonem. `[1/14:02]`",
+      "**Tematické body** — STAN odmítá nařčení z obstrukcí při projednávání rozpočtu a potvrzuje snahu vyhnout se koalicím s hnutím ANO v komunální politice."
+    ],
+    "outcome": "Formálního rozhodnutí v rámci tiskové konference nebylo dosaženo, šlo o prezentaci postojů opozice. Bylo však oznámeno, že:\n* Poslankyně Michaela Šebelová podá podnět mandátovému a imunitnímu výboru kvůli urážlivému chování poslance Ševčíka.\n* STAN podává návrh k Ústavnímu soudu ohledně „Lex pomsta“ a žádá o předběžné opatření.\n* Opoziční strany se shodly na podpoře mimořádných bodů na plénu Sněmovny souvisejících s včerejším incidentem.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Urbanová",
+        "person_id": "psp:person:6788",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "SPD",
+      "ANO",
+      "SPOLU"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "To poučení je úplně špatné; místo řešení problémů lidí v regionech se vládní strany začínají věnovat kulturním válkám.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/01:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3230_highlight_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení priorit vládní koalice. Pojem „kulturní války“ není definován zákonem a jeho interpretace závisí na politickém postoji mluvčího."
+    },
+    {
+      "text": "Mít takového předsedu Poslanecké sněmovny, jako je Tomio Okamura, je ostuda.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/23:59",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3230_highlight_01.jpg",
+      "context": "Jde o subjektivní hodnotící soud. Fakticky je nutné uvést, že předsedou Poslanecké sněmovny je od roku 2021 Markéta Pekarová Adamová (TOP 09), nikoliv Tomio Okamura, který zastává funkci místopředsedy."
+    },
+    {
+      "text": "Vláda se snaží svůj nevýkon v posledních měsících překrýt tím, že půjde po občanské společnosti a neziskových organizacích.",
+      "type": "paraphrase",
+      "speaker": "Barbora Urbanová",
+      "affiliation": "STAN",
+      "timestamp": "1/14:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3230_highlight_02.jpg",
+      "context": "Tvrzení o záměrném „překrývání nevýkonu“ útokem na neziskový sektor je politickou interpretací. Neexistují objektivní data, která by potvrzovala kauzální souvislost mezi vládní legislativou a snahou o diskreditaci občanské společnosti."
+    },
+    {
+      "text": "Měníte ústavu pomocí běžného zákona, což je z našeho hlediska nebezpečné a nepřijatelné.",
+      "type": "citation",
+      "speaker": "Karel Dvořák",
+      "affiliation": "STAN",
+      "timestamp": "1/16:26",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3230_highlight_03.jpg",
+      "context": "Tento výrok se týká legislativního procesu. Zda je konkrétní zákon v rozporu s ústavním pořádkem ČR, může závazně posoudit pouze Ústavní soud ČR na základě podaného návrhu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Vít Rakušan (STAN)\n**Co:** Označil předsedu Sněmovny Tomia Okamuru za „gaunera“, „malého politika“ a kritizoval jeho vulgární chování (používání slova „vole“) během incidentu.\n**Proč:** Je to vysoce kontroverzní, neboť jde o přímý útok na předsedu dolní komory Parlamentu, což narušuje standardní politickou kulturu a vztahy mezi vedením Sněmovny a opozicí.\n**Čas:** 1/10:05",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/10:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3230_controversy_00.jpg",
+      "context": "Tomio Okamura není předsedou Poslanecké sněmovny, ale jejím místopředsedou. Použití vulgarismů v jednacím sále je v rozporu s jednacím řádem Poslanecké sněmovny (zákon č. 90/1995 Sb.), přičemž konkrétní incidenty jsou předmětem záznamů v těsnopiseckých zprávách."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
