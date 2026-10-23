@@ -1,0 +1,122 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-23T19:11:40",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3238",
+    "name": "Tisková konference mladých poslanců opozice",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-23T13:00",
+    "end_date": "2026-10-23T13:11",
+    "sources": [
+      "final/event_3238_2026-10-23_tiskova-konference-mladych-poslancu-opozice.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5700_video-psp-20261023-130-12-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference mladých poslanců opozičních stran (ODS, STAN, Piráti, KDU-ČSL) byla svolána jako reakce na aktuální kroky vládní koalice (ANO, SPD, Motoristé) v Poslanecké sněmovně. Hlavním cílem bylo vyjádřit jednotný odpor proti snahám o politické ovládnutí a „zestátnění“ veřejnoprávních médií (Česká televize a Český rozhlas).\n\nPoslanci zdůraznili, že i přes své odlišné politické zaměření považují nezávislost médií za základní demokratickou hodnotu, kterou je nutné bránit. Kritizovali také způsob, jakým byl bod o změnách v médiích zařazen na program schůze, a varovali před dopady těchto kroků na stabilitu společnosti a kvalitu informací v digitálním věku.",
+    "main_points": [
+      "**Lucie Bartošová (ODS)** — Zdůraznila jednotu mladých poslanců napříč stranami v otázce obrany nezávislosti veřejnoprávních médií. Uvedla, že média jsou klíčová pro boj s dezinformacemi a vnitřními i vnějšími tlaky. Vyzvala parlamentní strany k respektování nezávislosti těchto institucí. `[1/01:00]`",
+      "**Ester Weimerová (STAN)** — Kritizovala vládní koalici za to, že místo řešení bezpečnosti, rozvoje regionů či duševního zdraví (např. zákon o digitálních platformách) vyvolává ideologické boje proti médiím. Argumentovala, že veřejnoprávní média jsou nezbytná pro národní identitu a dostupnost informací pro nízkopříjmové domácnosti. `[1/02:01]`",
+      "**Kateřina Stojanová (Piráti)** — Obvinila vládní koalici ze snahy ovládnout veřejnoprávní média. Upozornila na střet zájmů u oligarchů (zmínila spor s Pavlem Tykačem) a zdůraznila, že veřejnoprávní média jsou jedinou alternativou k mediálním domům vlastněným miliardáři. Vyzdvihla roli médií při inkluzi menšin a pomoci lidem v nouzi. `[1/04:04]`",
+      "**František Talíř (KDU-ČSL)** — Jako předseda mediálního výboru oznámil svolání jednání výboru na čtvrtek 29. října ve 14:00 v prostorách sněmovny, kde se bude téma „zestátnění“ médií řešit. Označil postup vlády za frustraci z prohraných voleb. `[1/06:03]`",
+      "**Tematické body:**\n* **Kritika procedury:** Způsob zařazení bodu o médiích na program schůze označili řečníci za „bezprecedentní prasárnu“, o které neměli tušení ani někteří členové vládní koalice.\n* **Role médií:** Média byla definována jako „informační kotva“ v chaotickém světě sociálních sítí a algoritmů.\n* **Politická kultura:** Poslanci vyjádřili zklamání nad tím, že vládní koalice porušuje včerejší přísliby o hledání společné řeči a vrací sněmovnu do „zákopové války“."
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o tiskové prohlášení. Konsenzem zúčastněných poslanců je aktivní odpor proti vládním návrhům směřujícím k omezení nezávislosti veřejnoprávních médií. Jako konkrétní krok bylo oznámeno svolání mediálního výboru na 29. října.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Lucie Bartošová",
+        "person_id": "psp:person:6989",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Ester Weimerová",
+        "person_id": "psp:person:7061",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "STAN",
+      "Piráti",
+      "KDU-ČSL",
+      "ANO",
+      "SPD",
+      "Motoristé"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Evropská komise"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nechceme zdědit svět, ve kterém mocní rozhodují o tom, co je pravda, a proto se této hrozbě postavíme společně jako jeden muž, jako jedna žena.",
+      "type": "paraphrase",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3238_highlight_00.jpg",
+      "context": "Jde o politickou rétoriku a vyjádření hodnotového postoje. Výrok nelze fakticky ověřit, neboť se jedná o subjektivní interpretaci společenského vývoje a politický apel."
+    },
+    {
+      "text": "Je to bezprecedentní prasárna, jakým způsobem byl tento bod zařazen.",
+      "type": "citation",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/07:34",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3238_highlight_01.jpg",
+      "context": "Hodnocení procedurálního postupu jako „prasárny“ je subjektivní politický názor. Zda byl bod zařazen v souladu s Jednacím řádem Poslanecké sněmovny (zákon č. 90/1995 Sb.), je věcí parlamentní procedury, nikoliv faktické pravdivosti výroku."
+    },
+    {
+      "text": "Veřejnoprávní média jsou naše informační kotva v chaotickém světě, kdy jsme přehlceni informacemi.",
+      "type": "citation",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/09:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3238_highlight_02.jpg",
+      "context": "Role veřejnoprávních médií (Česká televize, Český rozhlas) je definována zákonem č. 483/1991 Sb. a zákonem č. 484/1991 Sb. Jejich označení za „informační kotvu“ je hodnotový soud, který reflektuje jejich zákonnou povinnost poskytovat objektivní a vyvážené informace."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** František Talíř (KDU-ČSL)\n* **Co:** Označil způsob zařazení bodu o médiích na program schůze za „bezprecedentní prasárnu“.\n* **Proč:** Jde o velmi expresivní vyjádření na adresu vládní koalice, které eskaluje napětí v Poslanecké sněmovně a zpochybňuje legitimitu procedurálního postupu vlády.\n* **Čas:** 1/06:03",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/06:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3238_controversy_00.jpg",
+      "context": "Označení postupu za „bezprecedentní“ je politické tvrzení, které nelze objektivně verifikovat bez srovnání s historií všech procedurálních hlasování v PS PČR. Jde o expresivní kritiku parlamentní procedury, nikoliv o faktické tvrzení o datech či zákonech."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
