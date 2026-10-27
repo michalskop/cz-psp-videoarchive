@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-27T19:10:19",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3246",
+    "name": "Tisková konference Starostů a nezávislých po jednání rozpočtového výboru",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-27T15:55",
+    "end_date": "2026-10-27T16:09",
+    "sources": [
+      "final/event_3246_2026-10-27_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5711_video-psp-20261027-1555-32-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí Starostové a nezávislí (STAN) se konala po jednání rozpočtového výboru Poslanecké sněmovny. Cílem bylo prezentovat postoje hnutí k aktuálním legislativním návrhům, které výbor projednával, a kritizovat vládní rozpočtovou politiku.\n\nHlavními tématy byly dopady vládních návrhů na státní rozpočet, konkrétně kritika financování médií ze státního rozpočtu, návrh mimořádného zdanění rafinérií a reforma 3. pilíře penzijního systému. Zástupci STAN rovněž vyjádřili nesouhlas se zmrazením platů vrcholných politiků a obhajovali stávající automatický mechanismus jejich valorizace.",
+    "main_points": [
+      "**Neidentifikovaná řečnice (místopředsedkyně rozpočtového výboru, STAN)** — Kritizovala vládní návrh na zrušení koncesionářských poplatků, který podle ní přenáší náklady na státní rozpočet (cca 7,8 mld. Kč ročně). Upozornila na vysoké úroky z dluhu a varovala, že vláda vytváří trvalé výdaje v době, kdy plánuje snižovat deficit. Odhadla, že za 10 let tento krok vytvoří dluh přes 111 mld. Kč. `[1/02:02]`",
+      "**Jan Papajanovský (STAN)** — Vyjádřil podporu principu mimořádného zdanění rafinérií, ale kritizoval konkrétní vládní návrh. Navrhl dvě úpravy: \n- Zahrnutí zahraničních rafinérií do daně, aby nedocházelo ke znevýhodnění domácí produkce.\n- Změnu referenčního období pro výpočet daně na průměr několika let (místo pouze roku 2025), aby se předešlo ohrožení investic. `[1/04:00]`",
+      "**Neidentifikovaný řečník (STAN)** — Představil pět pozměňovacích návrhů k reformě 3. pilíře penzijního spoření, zaměřených na efektivitu a motivaci mladých lidí. Kritizoval ministryni financí Alenu Schillerovou za to, že odmítá zapracovat opoziční podněty a prosazuje zkrácené projednávání zákonů. `[1/08:07]`",
+      "**Postoj k platům politiků** — Zástupci STAN odmítli zmrazení platů a obhajovali stávající automatický valorizační mechanismus. Argumentovali, že automat je výsledkem dohody a že odpovídající odměna politiků je prevencí korupce a motivací pro odborníky. `[1/12:10]`"
+    ],
+    "outcome": "Jednání nevedlo k žádnému formálnímu rozhodnutí, neboť šlo o tiskovou konferenci opozičního subjektu. Konsenzem v rámci hnutí STAN je odmítání vládních návrhů v jejich současné podobě, zejména kvůli jejich dopadům na státní rozpočet a nedostatečné ochotě vlády diskutovat o pozměňovacích návrzích opozice.",
+    "notes": "Přepis obsahuje četné chyby v diakritice, useknutá slova a nesrozumitelné pasáže (např. v závěru části 1/1). Identita některých řečníků není v přepisu explicitně uvedena jménem, kromě Jana Papajanovského."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Neidentifikovaná řečnice",
+        "person_id": null,
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Rozpočtový výbor",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda navrhuje na rok 2027 obří schodek ve výši 386 miliard a do takového rozpočtu přidává další trvalý výdaj, který navíc poroste s inflací.",
+      "type": "paraphrase",
+      "speaker": "Neidentifikovaná řečnice",
+      "affiliation": "STAN",
+      "timestamp": "1/01:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3246_highlight_00.jpg",
+      "context": "Návrh rozpočtu na rok 2025 (nikoliv 2027) počítá se schodkem 241 mld. Kč. Tvrzení o schodku 386 mld. Kč v roce 2027 neodpovídá aktuálním vládním střednědobým výhledům, které směřují ke konsolidaci veřejných financí."
+    },
+    {
+      "text": "Pokud si při každoroční půjčce 7,8 miliardy korun připočteme úrok 5,2 %, vznikne za 10 let dluh přibližně 100 miliard korun.",
+      "type": "paraphrase",
+      "speaker": "Neidentifikovaná řečnice",
+      "affiliation": "STAN",
+      "timestamp": "1/02:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3246_highlight_01.jpg",
+      "context": "Výpočet je matematicky závislý na složeném úročení. Při roční půjčce 7,8 mld. Kč s úrokem 5,2 % by kumulovaný dluh po 10 letech při započtení úroků skutečně přesáhl 100 mld. Kč, nicméně jde o hypotetický model, nikoliv o oficiální vládní výdajovou položku."
+    },
+    {
+      "text": "Není zkrátka fér, aby na krizi někdo vydělával a někdo jiný úplně prodělával.",
+      "type": "citation",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/05:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3246_highlight_02.jpg",
+      "context": "Jde o subjektivní politické hodnocení sociální spravedlnosti a přerozdělování zdrojů v době ekonomické krize. Výrok nelze fakticky ověřit, neboť definice „férovosti“ je otázkou politické ideologie."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh: Zrušení koncesionářských poplatků**\n- **Kdo:** Neidentifikovaná řečnice (místopředsedkyně rozpočtového výboru, STAN).\n- **Co:** Kritika přenesení nákladů na státní rozpočet a varování před růstem státního dluhu o 111 mld. Kč za 10 let.\n- **Proč:** Politicky citlivé téma, neboť se dotýká financování veřejnoprávních médií a fiskální odpovědnosti vlády.\n- **Čas:** 1/02:02",
+      "speaker": "Neidentifikovaná řečnice",
+      "affiliation": "STAN",
+      "timestamp": "1/02:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3246_controversy_00.jpg",
+      "context": "Návrh na zvýšení koncesionářských poplatků (nikoliv jejich zrušení) je součástí vládní novely zákona o ČT a ČRo. Odhad růstu dluhu o 111 mld. Kč za 10 let je projekcí opozice či kritiků, která závisí na zvolené metodice výpočtu úrokových nákladů státního dluhu."
+    },
+    {
+      "statement": "**Kontroverzní návrh: Zmrazení platů politiků**\n- **Kdo:** Neidentifikovaný řečník (STAN).\n- **Co:** Odmítnutí zmrazení a obhajoba stávajícího automatu jako prevence korupce.\n- **Proč:** Veřejnost dlouhodobě vnímá platy politiků velmi citlivě, obhajoba jejich růstu je politicky nepopulární.\n- **Čas:** 1/12:10",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": "STAN",
+      "timestamp": "1/12:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3246_controversy_01.jpg",
+      "context": "Platy politiků se řídí zákonem č. 236/1995 Sb., který obsahuje automatický valorizační mechanismus. Argument, že automat snižuje korupční rizika, je legitimní politický názor, který je předmětem dlouhodobé odborné debaty o nezávislosti a motivaci volených zástupců."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
