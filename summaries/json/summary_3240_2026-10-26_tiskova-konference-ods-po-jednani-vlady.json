@@ -1,0 +1,110 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-27T02:12:33",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3240",
+    "name": "Tisková konference ODS po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-26T15:32",
+    "end_date": "2026-10-26T16:00",
+    "sources": [
+      "final/event_3240_2026-10-26_tiskova-konference-ods-po-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5705_video-psp-20261026-1532-46-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána v reakci na páteční jednání Poslanecké sněmovny, během kterého vládní koalice prosadila pevné hlasování o zákonu týkajícím se financování veřejnoprávních médií. ODS ostře kritizuje způsob vedení schůze předsedou sněmovny Tomiem Okamurou, zásah ochranné služby proti veřejnosti na galerii sněmovny a samotný záměr vlády změnit systém financování médií, což opozice vnímá jako pokus o jejich politické ovládnutí.\n\nCílem konference bylo deklarovat jednotný postoj opozice proti vládnímu návrhu, oznámit snahu o odvolání předsedy sněmovny a požadovat vyšetření zásahu policie na galerii.",
+    "main_points": [
+      "**Petr Kupka (ODS)** — Kritizoval vládní koalici za „bolševické metody“ a snahu ovládnout média. Upozornil, že vládní většina v pátek předřadila zákon a prosadila pevné hlasování na 4:36 ráno, čímž znemožnila více než 60 poslancům opozice vyjádřit se. Varoval před rizikem přímého financování médií ze státního rozpočtu. Navrhuje zařadit zákony o ČT a ČRo mezi „organické zákony“ s nutným souhlasem Senátu. `[1/02:06]`",
+      "**Jana Černochová (ODS)** — Popsala incident na galerii sněmovny, kde policie vyváděla občany s transparenty. Zpochybnila přiměřenost zásahu a uvedla, že podala dopis policejnímu prezidentovi s dotazy na právní rámec zásahu a pokyny, které policie obdržela. Kritizovala dvojí metr, kdy jsou zakazovány pokojné protesty na galerii. `[1/08:03]`",
+      "**Lucie Bartošová (ODS)** — Potvrdila jednotný postup opozice v mediálním výboru a přípravu pozměňovacích návrhů. Argumentovala, že koncesionářské poplatky jsou nejlepším modelem financování, a odmítla argumenty vlády o jejich neudržitelnosti, přičemž poukázala na meziroční nárůst výběru poplatků o 18 %. `[1/18:05]`"
+    ],
+    "outcome": "Opozice se shodla na následujících krocích:\n* **Odvolání předsedy:** ODS podpoří návrh na odvolání Tomia Okamury z postu předsedy Poslanecké sněmovny kvůli způsobu vedení schůze a jeho výrokům o ČT.\n* **Vyšetřování:** Požadavek na nezávislé prošetření zásahu policie na galerii sněmovny (dopis policejnímu prezidentovi, možná aktivita komise GIBS a bezpečnostního výboru).\n* **Legislativní odpor:** ODS bude usilovat o stažení vládního návrhu zákona a požaduje, aby se o budoucnosti veřejnoprávních médií jednalo „od čistého stolu“.",
+    "notes": "Přepis obsahuje opakující se chyby v diakritice a občasné halucinace, které byly pro účely shrnutí ignorovány. Části textu jsou mírně nesrozumitelné kvůli useknutým slovům, ale hlavní argumentační linie řečníků je zřejmá."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Petr Kupka",
+        "person_id": null,
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jana Černochová",
+        "person_id": "psp:person:5903",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Lucie Bartošová",
+        "person_id": "psp:person:6989",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Policie ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Je jasné, že za daných okolností v současné době tlak na přímé navázání financování veřejnoprávních médií na státní rozpočet je prostě méně nezávislá cesta, než je ten dosavadní stav koncesionářských poplatků.",
+      "type": "paraphrase",
+      "speaker": "Petr Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/03:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3240_highlight_00.jpg",
+      "context": "Nezávislost médií veřejné služby na státním rozpočtu je dlouhodobě diskutovaným tématem. Podle doporučení Rady Evropy (např. Rec(96)10) je systém koncesionářských poplatků považován za stabilnější a méně náchylný k politickému ovlivňování než přímé financování ze státního rozpočtu, které podléhá každoročnímu schvalování vládou a parlamentem."
+    },
+    {
+      "text": "Já odmítám to, aby takovéto zacházení s občany se omlouvalo tím, že policisté plnili nějaký v uvozovkách rozkaz, respektive pokyn tehdy předsedajícího sněmovny pana místopředsedy Bartáka.",
+      "type": "citation",
+      "speaker": "Jana Černochová",
+      "affiliation": "ODS",
+      "timestamp": "1/12:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3240_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit bez znalosti konkrétního incidentu a časového zařazení. Z hlediska zákona č. 273/2008 Sb., o Policii ČR, jsou policisté povinni plnit rozkazy nadřízených, pokud nejsou v rozporu se zákonem, přičemž odpovědnost za zákonnost pokynu nese vydavatel rozkazu."
+    },
+    {
+      "text": "Z poluletní zprávy o hospodaření ČTČR vyplývá, že je meziroční nárůst o 18 % v tom, co vybírá ČT od plátců.",
+      "type": "citation",
+      "speaker": "Lucie Bartošová",
+      "affiliation": "ODS",
+      "timestamp": "1/19:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3240_highlight_02.jpg",
+      "context": "Tvrzení je zavádějící. Výběr koncesionářských poplatků je zákonem stanovený (zákon č. 348/2005 Sb.) a jeho výše se nemění o 18 % v rámci jednoho roku bez legislativní změny. Nárůst příjmů ČT může být způsoben např. nárůstem počtu plátců nebo jinými účetními operacemi, nikoliv změnou sazby poplatku."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Petr Kupka (ODS) přirovnal vládní rétoriku k „slabikáři bolševiků z období před rokem 89“ a označil vládu za „vládu STBáků“. Je to politicky citlivé, protože přímo útočí na legitimitu vládních představitelů a spojuje jejich současné kroky s komunistickou minulostí.",
+      "speaker": "Petr Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3240_controversy_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a rétorickou figuru, nikoliv o faktické tvrzení ověřitelné daty. Spojování vládních představitelů s komunistickou minulostí (včetně evidence v seznamech spolupracovníků StB) je častým tématem politického boje, jehož pravdivost závisí na konkrétních osobách a jejich záznamech v archivech bezpečnostních složek."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

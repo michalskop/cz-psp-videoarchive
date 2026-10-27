@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-27T02:11:42",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3241",
+    "name": "Tisková konference zástupců opozičních stran k tzv. Lex pomsta",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-26T16:01",
+    "end_date": "2026-10-26T16:26",
+    "sources": [
+      "final/event_3241_2026-10-26_tiskova-konference-zastupcu-opozicnich-stran-k-tzv.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5708_video-psp-20261026-161-25-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána zástupci opozičních stran a nezávislými senátory k vyjádření odporu proti legislativní změně, tzv. „Lex pomsta“. Jde o novelu zákona o státních zaměstnancích, která omezuje pravomoci prezidenta republiky při jmenování a odvolávání vedoucích zastupitelských misí.\n\nCílem opozice je napadnout tento zákon u Ústavního soudu. Argumentují, že vláda postupuje v rozporu s ústavním pořádkem a snaží se účelově měnit pravidla hry kvůli osobním sporům s prezidentem.",
+    "main_points": [
+      "**Karel Dvořák (opoziční poslanec)** — Vláda vytváří zbytečné konflikty s prezidentem. Zákon omezuje ústavní pravomoci hlavy státu. Podána ústavní stížnost a žádost o předběžné opatření. `[1/02:01]`",
+      "**Stanislav Balík (senátor, ODS/TOP 09)** — Článek 63 Ústavy jasně definuje pravomoci prezidenta. Současná praxe kontrasignace funguje, není důvod ji měnit běžným zákonem. `[1/04:01]`",
+      "**Lochman (senátor)** — Stížnost podepsalo 38 senátorů napříč politickým spektrem. Ústava je „ESO“, které nelze přebít běžným zákonem. `[1/06:13]`",
+      "**Filip (poslanec, KDU-ČSL)** — Zákon je nepatřičný a forma „přílepku“ je nepřípustná. Vyjádřil plnou podporu ústavní stížnosti. `[1/08:02]`",
+      "**Miller (poslanec)** — Vláda řeší své „mindráky“ a osobní spory s Hradem účelovou změnou zákonů. Prezident není podřízeným ministra zahraničí. `[1/08:02]`"
+    ],
+    "outcome": "Ústavní stížnost byla podána v pátek 23. 10. 2026 skupinou 53 poslanců a 38 senátorů. Věc je evidována u Ústavního soudu pod spisovou značkou. Opozice zdůraznila, že jde o nadstranickou shodu obou komor parlamentu na ochraně ústavního pořádku.",
+    "notes": "Přepis obsahuje chyby v diakritice a občasné fragmenty vět. Jména řečníků byla identifikována z kontextu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "Opozice"
+      },
+      {
+        "name": "Stanislav Balík",
+        "person_id": "psp:person:6950",
+        "affiliation": "ODS/TOP 09"
+      },
+      {
+        "name": "Lochman",
+        "person_id": "psp:person:6779",
+        "affiliation": "Senát"
+      },
+      {
+        "name": "Filip",
+        "person_id": "psp:person:303",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Miller",
+        "person_id": "psp:person:2820",
+        "affiliation": "Opozice"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "TOP 09",
+      "KDU-ČSL",
+      "STAN",
+      "Piráti"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Ústavní soud"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Ústava je v tomto případě ESO a není možné ji přebít jakoukoliv jinou kartou.",
+      "type": "citation",
+      "speaker": "Lochman",
+      "affiliation": "Senát",
+      "timestamp": "1/05:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3241_highlight_00.jpg",
+      "context": "Ústava ČR (ústavní zákon č. 1/1993 Sb.) je základním zákonem státu s nejvyšší právní silou. V právním řádu ČR neexistuje norma, která by byla nadřazena ústavnímu pořádku, což potvrzuje i judikatura Ústavního soudu."
+    },
+    {
+      "text": "Vláda má řídit tuto zemi a nemá si řešit své mindráky s Hradem.",
+      "type": "citation",
+      "speaker": "Miller",
+      "affiliation": "Opozice",
+      "timestamp": "1/09:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3241_highlight_01.jpg",
+      "context": "Jde o politické hodnocení výkonu exekutivní moci a vztahů mezi ústavními činiteli. Vztahy mezi vládou a prezidentem republiky nejsou právně kodifikovány jako „řízení země“, jde o subjektivní politický názor na styl vládnutí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Výrok ministra zahraničí o „náběhu na vyvolávání občanské války“ v souvislosti s demonstracemi. Opozice to považuje za nepřijatelnou rétoriku člena vlády, která démonizuje pokojné demonstranty.",
+      "speaker": "Ministr zahraničí",
+      "affiliation": "Vláda",
+      "timestamp": "1/20:21",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3241_controversy_00.jpg",
+      "context": "Výrok ministra je politickým hodnocením situace a nelze jej objektivně verifikovat jako fakt. Právo na pokojné shromažďování je zaručeno Listinou základních práv a svobod (čl. 19), přičemž posouzení, zda demonstrace naplňují znaky destabilizace státu, je předmětem politické interpretace, nikoliv právní definice."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

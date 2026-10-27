@@ -1,0 +1,116 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-27T02:10:03",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3244",
+    "name": "Tisková konference České pirátské strany k situaci okolo veřejnoprávních médií a k dnešnímu jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-26T16:34",
+    "end_date": "2026-10-26T17:00",
+    "sources": [
+      "final/event_3244_2026-10-26_tiskova-konference-ceske-piratske-strany-k-situaci.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5709_video-psp-20261026-1634-1-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference České pirátské strany se zaměřila na kritiku vládního návrhu financování veřejnoprávních médií a na analýzu situace kolem nezávislosti médií. Piráti se distancovali od vládního návrhu a připomněli svůj vlastní návrh z roku 2017, který by financování řešil fixním podílem na DPH v rámci tzv. organického zákona.\n\nDalším tématem byla kritika vedení Poslanecké sněmovny pod předsedou Tomiem Okamurou, konkrétně způsob projednávání mediálních zákonů a vykázání občanů z galerie. V závěru konference se řečníci věnovali vládní novele důchodového pojištění pro podnikající pečující rodiče a vyjádřili se k energetické bezpečnosti a zahraniční politice.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládní návrh financování médií, který podle něj podsekává rozpočty ČT a ČRo. Navrhl návrat k pirátskému konceptu z roku 2017 (fixní podíl na DPH), ale s podmínkou, že půjde o „organický zákon“ (vyžadující souhlas Senátu) a s časovým odkladem. [1/02:09]",
+      "**Zdeněk Hřib (Piráti)** — Oznámil návrh na odvolání Tomia Okamury z vedení Sněmovny kvůli zmatečnému vedení schůze a porušování jednacího řádu. [1/06:02]",
+      "**Vendula Svobodová (Piráti)** — Představila vládní novelu důchodového pojištění pro podnikající pečující rodiče, která má sjednotit dobu pojištění a umožnit flexibilnější start podnikání po rodičovské dovolené. [1/08:02]",
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládní regulaci cen pohonných hmot jako neefektivní „projídání“ peněz na dluh, místo investic do energetické soběstačnosti. [1/20:05]",
+      "**Zdeněk Hřib (Piráti)** — Zdůraznil nutnost, aby se Evropa postavila na vlastní nohy v otázce bezpečnosti a investovala do obrany skrze český průmysl. [1/24:09]"
+    ],
+    "outcome": "Piráti deklarovali jasný postoj: odmítají vládní návrh financování médií, požadují jeho nahrazení modelem fixního podílu na DPH s ústavními garancemi a zahajují politický proces odvolání předsedy Sněmovny Tomia Okamury.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Vendula Svobodová",
+        "person_id": "psp:person:7051",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "NKÚ",
+      "Senát"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Klempířův návrh podsekává financování veřejnoprávních médií a nastavený proces valorizace by vedl k dalšímu postupnému krvácení rozpočtu ČT a ČR.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/02:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3244_highlight_00.jpg",
+      "context": "Návrh poslance Klempíře se týká úpravy koncesionářských poplatků a jejich valorizace. Zda by navržený mechanismus vedl k reálnému poklesu rozpočtu v čase, závisí na nastavení koeficientů vůči inflaci a vývoji počtu plátců, což je předmětem odborných ekonomických analýz."
+    },
+    {
+      "text": "Pokud bychom tady veřejnoprávní média podsekli o 20 %, vracíme je do roku 2008 a začne nastávat autocenzura.",
+      "type": "paraphrase",
+      "speaker": "Vendula Svobodová",
+      "affiliation": "Piráti",
+      "timestamp": "1/17:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3244_highlight_01.jpg",
+      "context": "Tvrzení o návratu do roku 2008 a vzniku autocenzury je subjektivní politickou interpretací. Přímá kauzalita mezi výší rozpočtu a mírou autocenzury není objektivně měřitelná a jde o spekulativní argument v rámci debaty o nezávislosti médií."
+    },
+    {
+      "text": "My se diskuzi nebráníme, ale pokud se to stanoví fixním podílem na DPH, musí to být organický zákon, který bude možné měnit pouze se souhlasem Senátu.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:28",
+      "screenshot_path": "summaries/screenshots/event_3244_highlight_02.jpg",
+      "context": "Změna způsobu financování na fixní podíl z DPH by vyžadovala legislativní změnu zákona o České televizi a Českém rozhlasu. Požadavek na formu ústavního či organického zákona je politickým návrhem, který má zajistit vyšší stabilitu financování proti běžným politickým změnám."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Odvolání Tomia Okamury z vedení Sněmovny.\n- **Kdo:** Zdeněk Hřib (Piráti).\n- **Co:** Návrh na odvolání předsedy Sněmovny a spuštění petice.\n- **Proč:** Politicky citlivé kvůli bezprecedentnímu útoku na nezávislost médií a porušování jednacího řádu.\n- **Čas:** 1/08:02",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3244_controversy_00.jpg",
+      "context": "Odvolání člena vedení Sněmovny je politický proces upravený jednacím řádem Poslanecké sněmovny. Návrh na odvolání je legitimním politickým nástrojem, nicméně tvrzení o „porušování jednacího řádu“ musí být podloženo konkrétními zápisy z jednání či rozhodnutími mandátového a imunitního výboru."
+    },
+    {
+      "statement": "**Kontroverzní výrok:** Kritika americké politiky a nákupů zbraní.\n- **Kdo:** Zdeněk Hřib (Piráti).\n- **Co:** Označení amerického prezidenta za „oranžového pána“ a kritika nákupů zbraní v USA namísto podpory českého průmyslu.\n- **Proč:** Zpochybňuje tradiční spojenectví a efektivitu vládní obranné politiky.\n- **Čas:** 1/20:05",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/20:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3244_controversy_01.jpg",
+      "context": "Kritika nákupů zbraní v zahraničí namísto podpory domácího průmyslu je legitimním politickým názorem. Data o podílu českého obranného průmyslu na státních zakázkách jsou veřejně dostupná prostřednictvím Ministerstva obrany ČR a registru smluv."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
