@@ -1,0 +1,123 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-30T14:13:13",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3249",
+    "name": "Tisková konference Starostů a nezávislých (po tiskové konferenci Pirátů)",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-29T17:58",
+    "end_date": "2026-10-29T18:17",
+    "sources": [
+      "final/event_3249_2026-10-29_tiskova-konference-starostu-a-nezavislych-po-tisko.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5715_video-psp-20261029-1758-7-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference hnutí Starostové a nezávislí (STAN) se konala v reakci na jednání sněmovního mediálního výboru a probíhající politickou debatu o návrhu nového zákona o financování České televize a Českého rozhlasu. Cílem vystoupení bylo vyjádřit zásadní nesouhlas s vládním návrhem, který opozice považuje za ohrožení nezávislosti veřejnoprávních médií a za krok vedoucí k jejich politickému ovládnutí.\n\nZástupci STAN kritizovali způsob, jakým vláda debatu o zákonu vede – zejména noční projednávání, omezování parlamentní diskuse a absenci věcných argumentů. Zároveň zdůraznili, že vládní koalice vytváří „kulturní válku“, aby odvrátila pozornost od ekonomických problémů země, a vyzvali veřejnost k další mobilizaci a protestům proti tomuto postupu.",
+    "main_points": [
+      "**Jan Lacina (STAN)** — Kritizoval vládu za pokrytectví, kdy po institucích požaduje úspory, zatímco sama hospodaří se schodkem 386 miliard korun. Upozornil na nebezpečí zadlužování státu v souvislosti s obsluhou dluhu (v roce 2038 až 100 miliard Kč). Přirovnal rétoriku vládních představitelů k praktikám před rokem 1989 a varoval před „maďarským či slovenským scénářem“ omezování médií a justice. `[1/01:10]`",
+      "**Ester Weimerová (STAN)** — Vyvracela argumenty vlády pro změnu financování. Uvedla, že mediální rady nejsou imunní vůči politickým tlakům, pokud v nich zasedají nekompetentní lidé či představitelé dezinformační scény. Zdůraznila, že současný systém financování je předvídatelný a že vláda svým postupem (noční jednání, omezení diskuse) sama zatahuje média do politického boje. `[1/04:30]`",
+      "**David Smoljak (STAN/Senát)** — Identifikoval pět hlavních chyb návrhu: rozpor s důvodovou zprávou (riziko pro nezávislost), rozpor s evropským nařízením EMFA (nepředvídatelnost financování), nemožnost dodržení memorand o veřejné službě, rozpor s programovým prohlášením vlády (zvyšování deficitu) a rozpor se „zdravým rozumem“. Navrhl zákon stáhnout a začít debatu od nuly. `[1/10:03]`",
+      "**Matěj Hlavatý (STAN)** — Odsoudil výroky ministra kultury o „Velkém pátku“ v souvislosti s parlamentní diskusí jako útok na demokracii. Poděkoval občanské společnosti za aktivitu a vyzval vládu ke stažení návrhu zákona. `[1/14:01]`"
+    ],
+    "outcome": "Jednání nevedlo k žádnému formálnímu konsenzu mezi koalicí a opozicí. Zástupci STAN potvrdili, že budou v mediálním výboru i na plénu Sněmovny nadále prosazovat stažení návrhu zákona z legislativního procesu. Dominujícím postojem hnutí je, že současný systém financování médií veřejné služby funguje dobře a jakýkoliv zásah do něj v této podobě je politicky motivovaným útokem na nezávislost médií.",
+    "notes": "Přepis obsahuje občasné výpadky v textu a nesrozumitelné pasáže (např. v dotazech novinářů). Jméno ministra kultury je v přepisu uváděno jako „Klempíř“, což je pravděpodobně chyba automatického přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jan Lacina",
+        "person_id": "psp:person:6737",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Ester Weimerová",
+        "person_id": "psp:person:7061",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "David Smoljak",
+        "person_id": "psp:person:6632",
+        "affiliation": "STAN/Senát"
+      },
+      {
+        "name": "Matěj Hlavatý",
+        "person_id": "psp:person:7011",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Senát",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda má dneska schodek 386 miliard korun a mistruje Českou televizi a Český rozhlas, aby šetřili, přitom obě instituce pracují s vyrovnaným rozpočtem.",
+      "type": "paraphrase",
+      "speaker": "Jan Lacina",
+      "affiliation": "STAN",
+      "timestamp": "1/00:58",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3249_highlight_00.jpg",
+      "context": "Schodek státního rozpočtu pro rok 2024 byl schválen ve výši 252 miliard Kč, nikoliv 386 miliard (což byla hodnota schodku za rok 2023). Česká televize a Český rozhlas jsou ze zákona č. 483/1991 Sb., resp. č. 484/1991 Sb., povinny hospodařit s vyrovnaným rozpočtem, což je fakticky doložitelné z jejich výročních zpráv."
+    },
+    {
+      "text": "Pokud by ten zákon prošel v této podobě, tak by to mělo zásadní dopad na podobu vysílání a média by nebyla schopna tu veřejnou službu udržet v té podobě jako doposud.",
+      "type": "paraphrase",
+      "speaker": "David Smoljak",
+      "affiliation": "STAN",
+      "timestamp": "1/12:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3249_highlight_01.jpg",
+      "context": "Toto tvrzení je politickým odhadem dopadů legislativní změny. Nelze nezávisle ověřit, zda by konkrétní úprava financování vedla k faktickému zániku veřejné služby, neboť jde o subjektivní interpretaci budoucího vývoje a kvality vysílání."
+    },
+    {
+      "text": "Vláda se zavázala ke snižování deficitu státního dluhu a najednou tady, naprosto bez důvodu, každý rok by přibylo zhruba 8 miliard korun, o které by se navýšil státní deficit.",
+      "type": "paraphrase",
+      "speaker": "David Smoljak",
+      "affiliation": "STAN",
+      "timestamp": "1/12:50",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3249_highlight_02.jpg",
+      "context": "Částka 8 miliard korun odpovídá odhadovanému nárůstu výdajů v případě plné valorizace koncesionářských poplatků a rozšíření definice poplatníka. Zda by tento výdaj přímo navýšil deficit státního rozpočtu, závisí na zvoleném modelu financování (zda by šlo o přímou dotaci ze státního rozpočtu, nebo o systém mimo něj)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Jan Lacina (STAN) označil ministra kultury za osobu, která „v ní ani na jednu vteřinu neměl usednout do židle ministra kultury a rozhodně už z ní měl být dávno pryč“.",
+      "speaker": "Jan Lacina",
+      "affiliation": "STAN",
+      "timestamp": "1/16:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3249_controversy_00.jpg",
+      "context": "Jde o subjektivní politické hodnocení a vyjádření názoru na osobu ministra. Výrok nelze fakticky ověřit, neboť se jedná o hodnotový soud o politické kompetenci."
+    },
+    {
+      "statement": "Jan Lacina (STAN) přirovnal výroky Andreje Babiše a Tomia Okamury k rétorice „tehdejších bolševiků“ z roku 1989.",
+      "speaker": "Jan Lacina",
+      "affiliation": "STAN",
+      "timestamp": "1/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3249_controversy_01.jpg",
+      "context": "Jde o politickou rétoriku a přirovnání. Srovnání s rétorikou KSČ z roku 1989 je subjektivní interpretací politického stylu a nelze jej objektivně verifikovat jako fakt."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

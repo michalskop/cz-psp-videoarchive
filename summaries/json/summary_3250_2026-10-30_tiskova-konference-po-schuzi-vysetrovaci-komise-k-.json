@@ -1,0 +1,90 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-30T14:14:36",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3250",
+    "name": "Tisková konference po schůzi vyšetřovací komise k tzv. kauze DOZIMETR",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-30",
+    "end_date": "2026-10-30",
+    "sources": [
+      "final/event_3250_2026-10-30_tiskova-konference-po-schuzi-vysetrovaci-komise-k-.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5718_video-psp-20261030-1255-13-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala po pátém zasedání vyšetřovací komise Poslanecké sněmovny zabývající se kauzou DOZIMETR. Hlavním cílem jednání bylo vyslechnutí státních zástupců (vrchního státního zástupce pana Štěpánka a dozorujícího státního zástupce pana Borguly), kteří byli částečně zbaveni mlčenlivosti pro účely komise.\n\nJednání se zaměřilo na procesní otázky, zejména na problematiku přístupu komise ke spisovému materiálu a legislativní úpravy, které by umožnily parlamentním vyšetřovacím komisím efektivnější práci. Komise se shodla na nutnosti novelizace trestního zákoníku, zákona o jednacím řádu Poslanecké sněmovny a zákona o státním zastupitelství.",
+    "main_points": [
+      "**Neidentifikovaný řečník (předsedající komise)** — Potvrdil intenzivní průběh jednání se státními zástupci. Uvedl, že příští zasedání proběhne 13. listopadu, kdy bude předvolán ředitel NCOZ Mazánek. Zdůraznil, že komise se snaží vyhnout „mediální show“ a nebude zveřejňovat jména soukromých osob předvolaných k výslechu. `[1/00:00]`",
+      "**Neidentifikovaný řečník (zástupce opozice)** — Deklaroval aktivní účast opozice na jednáních komise, aby se předešlo dojmu, že vyšetřování vedou pouze vládní strany. Potvrdil, že státní zástupci odpovídali v intencích svého zproštění mlčenlivosti. `[1/02:05]`",
+      "**Neidentifikovaný řečník (člen komise)** — Zdůraznil význam legislativní změny pro budoucí vyšetřovací komise. Uvedl, že státní zástupci potvrdili ochotu spolupracovat, pokud bude mít komise zákonné zmocnění k přístupu ke spisům, které v současné legislativě chybí. `[1/04:08]`"
+    ],
+    "outcome": "Komise se shodla na nutnosti legislativních změn, které umožní budoucím vyšetřovacím komisím přístup ke spisovému materiálu. Bylo rozhodnuto o pokračování práce na pozměňovacím návrhu k novele trestního zákoníku. Další zasedání komise je naplánováno na 13. listopadu 2026, kdy bude vyslechnut ředitel NCOZ.",
+    "notes": "Přepis obsahuje chyby v diakritice, useknutá slova a občasné halucinace (opakující se fráze o češtině a odborné terminologii). Identita jednotlivých řečníků není v přepisu explicitně uvedena jménem, proto jsou označeni jako „neidentifikovaný řečník“."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Neidentifikovaný řečník",
+        "person_id": null,
+        "affiliation": null
+      }
+    ],
+    "parties": [
+      "vládní koalice",
+      "opozice"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NCOZ",
+      "Ministerstvo spravedlnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Veškeré ty vyšetřovací komise, i ty, které vzniknou v budoucnu, bez toho spisového materiálu nemohou efektivně pracovat.",
+      "type": "paraphrase",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "1/05:57",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3250_highlight_00.jpg",
+      "context": "Vyšetřovací komise Poslanecké sněmovny mají podle zákona č. 90/1995 Sb. právo vyžadovat od orgánů činných v trestním řízení informace, avšak přístup k živým spisům je omezen ustanoveními trestního řádu o neveřejnosti přípravného řízení. Efektivita práce komise bez přístupu k těmto materiálům je předmětem politické debaty, nikoliv právní normy."
+    },
+    {
+      "text": "My jsme byli minule domluveni, že by to dokonce probrala komise a iniciovala to komise, což se teda nestalo.",
+      "type": "citation",
+      "speaker": "Neidentifikovaný řečník",
+      "affiliation": null,
+      "timestamp": "1/08:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3250_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Zápisy z neveřejných jednání výborů či komisí nejsou veřejně dostupné, tudíž nelze potvrdit, zda k takové dohodě došlo a zda byla následně porušena."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Otázka, zda by soudní jednání v kauze DOZIMETR nemohlo skončit dříve, než komise dojde k závěrům. Matěj Říha (CNN Prima News) se ptal na časový souběh soudního procesu a práce komise. Je to politicky citlivé, neboť to naznačuje možnou irelevanci práce komise, pokud soud rozhodne dříve.",
+      "speaker": "Matěj Říha",
+      "affiliation": "CNN Prima News",
+      "timestamp": "1/08:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3250_controversy_00.jpg",
+      "context": "Práce vyšetřovací komise Poslanecké sněmovny a soudní proces jsou dva odlišné procesy s odlišným účelem: komise zkoumá politickou odpovědnost, zatímco soud rozhoduje o vině a trestu podle trestního zákoníku. Časový souběh není právně vyloučen, ale může vést k procesním komplikacím, pokud by závěry komise mohly ovlivnit veřejné mínění nebo svědecké výpovědi v probíhajícím soudním řízení."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-10-30T14:14:18",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3247",
+    "name": "Tisková konference České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-10-29T17:32",
+    "end_date": "2026-10-29T17:39",
+    "sources": [
+      "final/event_3247_2026-10-29_tiskova-konference-ceske-piratske-strany.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5714_video-psp-20261029-1732-44-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "mixed",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference České pirátské strany se konala v průběhu zasedání mediálního výboru Poslanecké sněmovny dne 29. října 2026. Hlavním tématem byla kritika vládního návrhu zákona o financování veřejnoprávních médií, konkrétně záměru zrušit koncesionářské poplatky a nahradit je financováním ze státního rozpočtu.\n\nCílem vystoupení poslankyně Andrey Hoffmannové bylo upozornit na nedostatečnou odbornou diskuzi ze strany koalice, absenci odpovědí na konkrétní dotazy opozice a rizika spojená s ohrožením nezávislosti České televize a Českého rozhlasu. Piráti prosazují zachování poplatkového systému jako efektivnějšího a nezávislejšího modelu, přičemž varují před politizací mediálních rad.",
+    "main_points": [
+      "**Andrea Hoffmannová (Piráti)** — Kritizuje vládní koalici za to, že k debatě o změnách financování médií přizvala opozici až po prvním čtení zákona. `[1/02:47]`",
+      "Argumentuje, že poplatky jsou nejefektivnějším způsobem financování a případné problémy lze řešit digitalizací a úpravami systému, nikoliv jeho zrušením. `[1/02:47]`",
+      "Upozorňuje na chybějící analýzy k vládnímu návrhu, konkrétně na nejasný původ částky, která má být o 1,4 miliardy nižší než současný výnos. `[1/06:00]`",
+      "Varuje, že pokud se financování převede pod státní rozpočet při současném způsobu volby mediálních rad, média se dostanou pod absolutní politický tlak. `[1/04:03]`",
+      "Považuje současné mediální rady za zpolitizované „trafiky“ pro vysloužilé politiky a přátele vlády. `[1/04:03]`",
+      "Potvrzuje, že ačkoliv je jednání výboru nyní korektní, postrádá věcné odpovědi na otázky opozice, což nepovažuje za skutečný dialog. `[1/06:00]`"
+    ],
+    "outcome": "Jednání mediálního výboru pokračovalo i po tiskové konferenci. Pirátská strana nadále trvá na zachování poplatkového systému a odmítá vládní návrh v jeho současné podobě. Opozice podmiňuje svou případnou podporu změnám v návrhu zákona, které by zajistily nezávislost médií a vyřešily otázky financování a volby mediálních rad. Piráti jsou připraveni předložit pozměňovací návrhy a očekávají, zda na ně koalice bude reagovat před druhým čtením.",
+    "notes": "Přepis obsahuje pasáže, kde mikrofon nebyl sepnut nebo je zvuk nesrozumitelný (zejména v dotazech novinářů). Části přepisu jsou místy gramaticky neúplné kvůli automatickému přepisu, význam však zůstal zachován."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Andrea Hoffmannová",
+        "person_id": "psp:person:6905",
+        "affiliation": "Česká pirátská strana"
+      },
+      {
+        "name": "Filip Šusta",
+        "person_id": null,
+        "affiliation": "Česká televize"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Poplatky jsou stále nejefektivnějším způsobem řešení výběru platby za veřejnoprávní média.",
+      "type": "paraphrase",
+      "speaker": "Andrea Hoffmannová",
+      "affiliation": "Česká pirátská strana",
+      "timestamp": "1/03:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3247_highlight_00.jpg",
+      "context": "Efektivita koncesionářských poplatků je odborníky na média často obhajována jako nástroj zajišťující nezávislost na státním rozpočtu, neboť poplatky nejsou přímo závislé na politickém rozhodování o výši dotací. Alternativní modely financování (např. přímé dotace ze státního rozpočtu) jsou v evropském kontextu vnímány jako rizikovější z hlediska politického ovlivňování."
+    },
+    {
+      "text": "Pokud převedeme financování médií pod státní rozpočet a necháme současný systém volby mediálních rad, média se dostanou pod absolutní politický tlak.",
+      "type": "paraphrase",
+      "speaker": "Andrea Hoffmannová",
+      "affiliation": "Česká pirátská strana",
+      "timestamp": "1/04:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3247_highlight_01.jpg",
+      "context": "Tvrzení vychází z obavy, že pokud by o rozpočtu médií rozhodovala vláda a parlament, mohly by být prostředky využity jako nástroj nátlaku. V současném systému volby členů mediálních rad Poslaneckou sněmovnou je politický vliv již nyní předmětem kritiky, přímé financování ze státního rozpočtu by však tento vliv podle mnoha mediálních expertů dále posílilo."
+    },
+    {
+      "text": "Ptala jsem se, proč se předkladatel rozhodl navrhnout částku o 1,4 miliardy nižší, ale nebylo mi odpovězeno.",
+      "type": "citation",
+      "speaker": "Andrea Hoffmannová",
+      "affiliation": "Česká pirátská strana",
+      "timestamp": "1/06:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3247_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní tvrzení o průběhu komunikace mezi poslankyní a předkladatelem návrhu, které nelze z veřejně dostupných dat o legislativním procesu zpětně potvrdit ani vyvrátit."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Andrea Hoffmannová (Piráti)\n**Co:** Označila mediální rady za „trafiky pro vysloužilé poslance nebo různé přátele aktuální vlády“.\n**Proč:** Jde o přímé zpochybnění legitimity a nezávislosti orgánů, které dohlížejí na veřejnoprávní média, což je v politickém boji o kontrolu nad médii velmi citlivé téma.\n**Čas:** 1/04:03",
+      "speaker": "Andrea Hoffmannová",
+      "affiliation": "Česká pirátská strana",
+      "timestamp": "1/04:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3247_controversy_00.jpg",
+      "context": "Složení mediálních rad (Česká televize, Český rozhlas) je voleno Poslaneckou sněmovnou na základě nominací společenských organizací, přičemž v praxi jsou kandidáti často navrhováni politickými stranami. Označení za „trafiky“ je hodnotícím politickým soudem, který reflektuje častou kritiku politizace těchto orgánů, nikoliv právní definici."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
