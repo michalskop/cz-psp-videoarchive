@@ -1,0 +1,124 @@
+## 1. Téma a účel jednání
+
+Tisková konference České pirátské strany se zaměřila na kritiku aktuálních vládních kroků a představení vlastních legislativních priorit. Hlavními tématy byla reakce na rozhodnutí sportovní arbitráže umožňující účast ruských sportovců na mezinárodních soutěžích, kritika vládní koncepce výstavby Armády ČR (KVAČR) a nečinnost vlády v oblasti reformy antimonopolního úřadu a dostupného bydlení.
+
+Cílem konference bylo upozornit na nedostatečnou právní oporu pro bojkot ruských sportovců, poukázat na neplnění aliančních závazků v obraně a kritizovat klientelistické vazby v rámci Úřadu pro ochranu hospodářské soutěže (ÚOHS).
+
+---
+
+## 2. Hlavní body
+
+*   **Katarina Demetrašvili (Piráti)** — Kritizovala rozhodnutí sportovní arbitráže umožňující návrat ruských sportovců na mistrovství světa. Navrhuje legislativní úpravu po vzoru Lotyšska, která by zakázala českým reprezentacím hrát proti Rusku a Bělorusku a zakázala pořádání takových zápasů na území ČR. `[1/00:45]`
+*   **Ivan Bartoš (Piráti)** — Kritizoval vládní koncepci rozvoje armády (KVAČR). Upozornil, že ČR neplní 70 % požadavků NATO a současné rozpočtové plány vlády neumožňují modernizaci armády v potřebném tempu. Varoval, že odkládání nákupů techniky vede k prodražení o cca 15 % ročně. `[1/02:04]`
+*   **Ivan Bartoš (Piráti)** — Upozornil na blížící se konec mandátu předsedy ÚOHS Petra Mlsny. Kritizoval absenci výběrového řízení a Mlsnovy kontroverzní vazby. Piráti požadují reformu úřadu, která by omezila koncentraci moci v rukou předsedy a narovnala prostředí veřejných zakázek. `[1/06:04]`
+*   **Ivan Bartoš (Piráti)** — Zkritizoval vládní projekty dostupného bydlení jako opožděné o dva roky. Uvedl, že vláda promrhala čas a nyní nutí obce k novým soutěžím, místo aby podpořila již připravené projekty se stavebním povolením. `[1/10:05]`
+
+---
+
+## 3. Výsledek / závěr
+
+Jednání nemělo charakter hlasování, šlo o prezentaci postojů opoziční strany. Dominujícím postojem Pirátů je požadavek na aktivnější legislativní kroky vlády v oblasti bezpečnosti (zákaz zápasů s Ruskem), urychlení modernizace armády prostřednictvím úprav rozpočtu a provedení systémové reformy ÚOHS. Piráti deklarovali ochotu podpořit rozpočtové změny, pokud budou směřovat k naplnění cílů NATO.
+
+---
+
+## 4. Poznámky
+
+Přepis obsahuje několik nesrozumitelných pasáží (např. opakující se fráze o „vývoji vlády v obchodu Pirátů“ v části 1/10:05), které byly v rámci shrnutí ignorovány jako technické chyby přepisu.
+
+---
+
+## Doplňující otázky
+
+*   **Kdo:** Ivan Bartoš (Piráti)
+*   **Co:** Obvinil předsedu ÚOHS Petra Mlsnu z klientelistických vazeb a setkávání s Jaroslavem Faltýnkem ve věci mýtného.
+*   **Proč:** Jde o přímé obvinění vysoce postaveného státního úředníka z korupčního jednání a klientelismu, což je politicky vysoce citlivé téma ovlivňující důvěru v nezávislost antimonopolního úřadu.
+*   **Čas:** 1/06:04
+
+---
+
+## Klíčové citace pro veřejnost
+
+*   „Česká republika v tuto chvíli neplní 70 % požadavků NATO, což je obrovský problém, který potřebujeme začít neprodleně řešit.“ — **Ivan Bartoš (Piráti)** `[1/03:15]`
+*   „Dokud ruští vojáci zabíjejí ukrajinské civilisty i sportovce, tak ruští sportovci nemají na mezinárodních soutěžích co pohledávat.“ — **Katarina Demetrašvili (Piráti)** `[1/01:25]`
+*   „Pokud něco nenakupujeme teď a budeme to realizovat za 2–3 roky, bude to o 30–40 % dražší oproti stávající ceně.“ — **Ivan Bartoš (Piráti)** `[1/14:45]`
+
+---
+
+## JSON výstup
+
+```json
+{
+  "schema_version": "2",
+  "created_at": null,
+  "model_hint": null,
+  "event": {
+    "id": "3252",
+    "name": "Tisková konference České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-02T15:59",
+    "end_date": "2026-11-02T16:15",
+    "sources": []
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference České pirátské strany se zaměřila na kritiku aktuálních vládních kroků a představení vlastních legislativních priorit. Hlavními tématy byla reakce na rozhodnutí sportovní arbitráže umožňující účast ruských sportovců na mezinárodních soutěžích, kritika vládní koncepce výstavby Armády ČR (KVAČR) a nečinnost vlády v oblasti reformy antimonopolního úřadu a dostupného bydlení.\n\nCílem konference bylo upozornit na nedostatečnou právní oporu pro bojkot ruských sportovců, poukázat na neplnění aliančních závazků v obraně a kritizovat klientelistické vazby v rámci Úřadu pro ochranu hospodářské soutěže (ÚOHS).",
+    "main_points": [
+      "**Katarina Demetrašvili (Piráti)** — Kritizovala rozhodnutí sportovní arbitráže umožňující návrat ruských sportovců na mistrovství světa. Navrhuje legislativní úpravu po vzoru Lotyšska, která by zakázala českým reprezentacím hrát proti Rusku a Bělorusku a zakázala pořádání takových zápasů na území ČR. `[1/00:45]`",
+      "**Ivan Bartoš (Piráti)** — Kritizoval vládní koncepci rozvoje armády (KVAČR). Upozornil, že ČR neplní 70 % požadavků NATO a současné rozpočtové plány vlády neumožňují modernizaci armády v potřebném tempu. Varoval, že odkládání nákupů techniky vede k prodražení o cca 15 % ročně. `[1/02:04]`",
+      "**Ivan Bartoš (Piráti)** — Upozornil na blížící se konec mandátu předsedy ÚOHS Petra Mlsny. Kritizoval absenci výběrového řízení a Mlsnovy kontroverzní vazby. Piráti požadují reformu úřadu, která by omezila koncentraci moci v rukou předsedy a narovnala prostředí veřejných zakázek. `[1/06:04]`",
+      "**Ivan Bartoš (Piráti)** — Zkritizoval vládní projekty dostupného bydlení jako opožděné o dva roky. Uvedl, že vláda promrhala čas a nyní nutí obce k novým soutěžím, místo aby podpořila již připravené projekty se stavebním povolením. `[1/10:05]`"
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o prezentaci postojů opoziční strany. Dominujícím postojem Pirátů je požadavek na aktivnější legislativní kroky vlády v oblasti bezpečnosti (zákaz zápasů s Ruskem), urychlení modernizace armády prostřednictvím úprav rozpočtu a provedení systémové reformy ÚOHS. Piráti deklarovali ochotu podpořit rozpočtové změny, pokud budou směřovat k naplnění cílů NATO.",
+    "notes": "Přepis obsahuje několik nesrozumitelných pasáží (např. opakující se fráze o „vývoji vlády v obchodu Pirátů“ v části 1/10:05), které byly v rámci shrnutí ignorovány jako technické chyby přepisu."
+  },
+  "entities": {
+    "speakers": [
+      {"name": "Katarina Demetrašvili", "person_id": null, "affiliation": "Piráti"},
+      {"name": "Ivan Bartoš", "person_id": null, "affiliation": "Piráti"}
+    ],
+    "parties": ["Česká pirátská strana", "SPD", "ANO"],
+    "institutions": ["Armáda ČR", "ÚOHS", "NATO"]
+  },
+  "highlights": [
+    {
+      "text": "Česká republika v tuto chvíli neplní 70 % požadavků NATO, což je obrovský problém, který potřebujeme začít neprodleně řešit.",
+      "type": "citation",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/03:15"
+    },
+    {
+      "text": "Dokud ruští vojáci zabíjejí ukrajinské civilisty i sportovce, tak ruští sportovci nemají na mezinárodních soutěžích co pohledávat.",
+      "type": "citation",
+      "speaker": "Katarina Demetrašvili",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:25"
+    },
+    {
+      "text": "Pokud něco nenakupujeme teď a budeme to realizovat za 2–3 roky, bude to o 30–40 % dražší oproti stávající ceně.",
+      "type": "paraphrase",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/14:45"
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Ivan Bartoš (Piráti) obvinil předsedu ÚOHS Petra Mlsnu z klientelistických vazeb a setkávání s Jaroslavem Faltýnkem ve věci mýtného. Jde o přímé obvinění vysoce postaveného státního úředníka z korupčního jednání a klientelismu, což je politicky vysoce citlivé téma ovlivňující důvěru v nezávislost antimonopolního úřadu.",
+      "speaker": "Ivan Bartoš",
+      "affiliation": "Piráti",
+      "timestamp": "1/06:04"
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
+```
