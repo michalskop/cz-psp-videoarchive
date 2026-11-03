@@ -1,0 +1,106 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-03T14:13:46",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3259",
+    "name": "Tisková konference poslaneckého klubu KDU-ČSL",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-03T12:23",
+    "end_date": "2026-11-03T12:33",
+    "sources": [
+      "final/event_3259_2026-11-03_tiskova-konference-poslaneckeho-klubu-kdu-csl.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5726_video-psp-2026113-1223-18-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu KDU-ČSL (v přepisu označováni jako „Noví lidovci“) se konala 3. listopadu 2026 před zahájením jednání Poslanecké sněmovny. Hlavním tématem byla kritika vládní koalice v souvislosti s procesem projednávání a financování veřejnoprávních médií.\n\nPředstavitelé strany, František Talíř a Marian Jurečka, ostře kritizovali chaotický postup vládní koalice, nedostatečnou komunikaci s opozicí a údajné lži ohledně organizace veřejných protestů. Cílem konference bylo vyjasnit postoj KDU-ČSL k financování médií (preferují zachování koncesionářských poplatků) a vymezit se vůči politickým krokům vládní koalice a hnutí SPD v otázkách ústavních změn a kontroly médií.",
+    "main_points": [
+      "**František Talíř (KDU-ČSL)** — Kritizoval „chaos“ vládní koalice ohledně financování médií. Uvedl, že koalice odmítala diskuzi po dobu jednoho roku, aby ji následně pod tlakem veřejnosti a blížících se lhůt otevřela. Odmítl tvrzení, že protesty veřejnosti organizuje opozice, a označil to za urážku občanů. Poukázal na nekonzistentní vyjádření vládních představitelů. `[1/01:00]`",
+      "**Marian Jurečka (KDU-ČSL)** — Potvrdil, že opakovaně žádal o expertní debatu o financování médií, což bylo koalicí odmítnuto. Kritizoval netransparentní přípravu programu sněmovny. Zdůraznil, že KDU-ČSL prosazuje projednání zákonů o digitální ekonomice a úpravu zákona o veřejném zdravotním pojištění. `[1/03:15]`",
+      "**Postoj k ústavní změně (NKÚ v médiích)** — Jurečka odmítl tvrzení předsedy SPD Tomia Okamury, že existuje „dohoda na cestě“ ohledně zapojení Nejvyššího kontrolního úřadu do kontroly médií. KDU-ČSL podmiňuje svou podporu přijetím pozměňovacího návrhu, který by rozšířil článek 40 Ústavy o mediální zákony. `[1/06:04]`",
+      "**Stávka v ČT a Českém rozhlase** — KDU-ČSL vyjádřila pochopení a podporu důvodům stávky zaměstnanců veřejnoprávních médií, přičemž svou roli v parlamentu vnímá jako obranu proti snahám o jejich ovládnutí. `[1/08:19]`"
+    ],
+    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale tiskovým prohlášením. Konsenzem klubu KDU-ČSL zůstává odmítnutí financování médií ze státního rozpočtu a trvání na zachování koncesionářských poplatků. Strana deklarovala připravenost k věcné diskuzi o vládních tiscích, ale zároveň odmítla jakoukoli zákulisní dohodu s hnutím SPD ohledně ústavních změn bez splnění jejich podmínek (pojistka proti přehlasování Senátu).",
+    "notes": "Přepis obsahuje místy nesrozumitelné pasáže způsobené výpadky textu, které však nemění celkový kontext sdělení."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "František Talíř",
+        "person_id": "psp:person:7052",
+        "affiliation": "KDU-ČSL"
+      },
+      {
+        "name": "Marian Jurečka",
+        "person_id": "psp:person:6205",
+        "affiliation": "KDU-ČSL"
+      }
+    ],
+    "parties": [
+      "KDU-ČSL",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Nejvyšší kontrolní úřad"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nejlepší model financování považujeme zachování koncesionářských poplatků.",
+      "type": "citation",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/02:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3259_highlight_00.jpg",
+      "context": "Koncesionářské poplatky jsou zákonem č. 483/1991 Sb. (o České televizi) a č. 484/1991 Sb. (o Českém rozhlase) stanoveny jako hlavní zdroj financování veřejnoprávních médií. Jde o politický postoj KDU-ČSL, který je v souladu se současným nastavením legislativy."
+    },
+    {
+      "text": "S námi žádná dohoda rozhodně tedy neexistuje.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/07:43",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3259_highlight_01.jpg",
+      "context": "Nelze nezávisle ověřit. Jde o subjektivní politické tvrzení o existenci či neexistenci zákulisních dohod, které nejsou veřejně dokumentovány."
+    },
+    {
+      "text": "Naše mise jako nových lidovců je bránit té snaze o ovládnutí českého rozhlasu tady na půdě sněmovny.",
+      "type": "citation",
+      "speaker": "Marian Jurečka",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/09:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3259_highlight_02.jpg",
+      "context": "Jde o politickou rétoriku. Nezávislost médií veřejné služby je garantována zákonem a Radou ČRo, přičemž sněmovna má vliv pouze prostřednictvím volby členů těchto rad, nikoliv přímým řízením obsahu vysílání."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** František Talíř (KDU-ČSL)\n**Co:** Označil tvrzení vládní koalice, že protesty veřejnosti jsou organizovány opozicí, za „bohapustou lež“ a „urážku veřejnosti“.\n**Proč:** Jde o politicky citlivé téma, protože zpochybňuje legitimitu občanského odporu a obviňuje vládu z manipulace s narativem o protestech.\n**Čas:** 1/01:00",
+      "speaker": "František Talíř",
+      "affiliation": "KDU-ČSL",
+      "timestamp": "1/01:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3259_controversy_00.jpg",
+      "context": "Tvrzení o organizaci protestů je předmětem politického sporu. Neexistují žádné oficiální důkazy, které by plošně potvrzovaly, že by veškeré protesty veřejnosti byly organizovány opozicí, stejně jako nelze objektivně dokázat, že by takové tvrzení vlády bylo v každém jednotlivém případě „bohapustou lží“."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

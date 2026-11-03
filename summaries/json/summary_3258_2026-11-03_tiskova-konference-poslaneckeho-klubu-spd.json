@@ -1,0 +1,145 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-03T14:14:53",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3258",
+    "name": "Tisková konference poslaneckého klubu SPD",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-03T11:59",
+    "end_date": "2026-11-03T12:20",
+    "sources": [
+      "final/event_3258_2026-11-03_tiskova-konference-poslaneckeho-klubu-spd.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5725_video-psp-2026113-1159-32-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení prioritního programu poslaneckého klubu SPD pro nadcházející schůzi Poslanecké sněmovny. Hlavním cílem bylo informovat veřejnost o legislativních návrzích, které hnutí považuje za klíčové pro stabilitu státu, sociální jistoty občanů a bezpečnostní politiku.\n\nMezi hlavními tématy dominovaly úpravy v oblasti sociální politiky (důchody, penzijní připojištění), zpřísnění podmínek pro pobyt cizinců (Lex Ukrajina), ochrana zvířat a ústavní ukotvení české koruny a práva na platbu v hotovosti. Hnutí rovněž deklarovalo snahu o zvýšení transparentnosti hospodaření veřejnoprávních médií a pokračování v činnosti vyšetřovací komise k kauze Dozimetr.",
+    "main_points": [
+      "**Tomio Okamura (SPD)** — Představil legislativní priority: zpřísnění podmínek pro pobyt Ukrajinců (registrace vozidel, STK, omezení dávek, snazší vyhoštění), zvýšení důchodů, zákaz mobilních telefonů na základních školách, ukotvení české koruny a práva na hotovost do ústavy. Kritizoval ODS za blokování návrhu na zmrazení platů politiků. `[1/00:00]`",
+      "**Jan Hrnčíř (SPD)** — Představil novelu „lepší penzíko“: zastropování poplatků za správu na 0,5 %, možnost spoření se státním příspěvkem od 100 Kč, zvýšení příspěvku pro mladé do 30 let na 40 % a možnost jednorázového výběru až třetiny vkladu bez sankcí. `[1/06:07]`",
+      "**Lucie Šafránková (SPD)** — Oznámila jednorázový příspěvek 2 000 Kč pro důchodce, valorizaci důchodů pro seniory nad 80 let a bonus 1,5 % za každý odpracovaný rok v důchodu. Představila balíček zákonů na ochranu zvířat (vyšší pokuty, zákaz chovu, pravomoc policie zasáhnout v obydlích u množíren). `[1/08:08]`",
+      "**Libor Vondráček (SPD)** — Prosazuje kontrolu hospodaření ČT a ČRo Nejvyšším kontrolním úřadem. Navrhuje snížení hranice trestní odpovědnosti z 15 na 13 let u nejzávažnějších násilných trestných činů. `[1/10:03]`",
+      "**Irena Němcová (SPD)** — Kritizovala systém emisních povolenek (ETS-2) jako „zelené šílenství“, které zdražuje energie a bydlení. Požaduje úplné zrušení ETS-2 a revizi ETS-1. `[1/14:02]`",
+      "**Jindřich Reichl (SPD)** — Informoval o činnosti vyšetřovací komise k kauze Dozimetr. Uvedl, že komise získala přístup ke spisům a spolupracuje se státními zástupci. Cílem je parlamentní kontrola velkých kauz. `[1/16:06]`"
+    ],
+    "outcome": "Jednání nebylo zakončeno formálním hlasováním, neboť šlo o tiskovou konferenci. Dominujícím postojem SPD je snaha o rychlé projednání vládních návrhů v Poslanecké sněmovně, přičemž hnutí očekává obstrukce ze strany opozice, která podle nich blokuje klíčové body, jako je zvýšení důchodů či zpřísnění podmínek pro cizince.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné výpadky textu (např. u pasáže o kastraci koček a trestní odpovědnosti). Části projevů byly přerušeny technickými chybami v přepisu, ale celkový smysl sdělení zůstal zachován."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Tomio Okamura",
+        "person_id": "psp:person:6105",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jan Hrnčíř",
+        "person_id": "psp:person:6455",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Lucie Šafránková",
+        "person_id": "psp:person:6479",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Libor Vondráček",
+        "person_id": "psp:person:7058",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Irena Němcová",
+        "person_id": "psp:person:7027",
+        "affiliation": "SPD"
+      },
+      {
+        "name": "Jindřich Reichl",
+        "person_id": "psp:person:4435",
+        "affiliation": "SPD"
+      }
+    ],
+    "parties": [
+      "SPD",
+      "ODS"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "Nejvyšší kontrolní úřad"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Zásadně omezujeme vyplácení dávek Ukrajincům a ukrajinská vozidla budou nově muset být registrována v České republice.",
+      "type": "paraphrase",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/00:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3258_highlight_00.jpg",
+      "context": "Zákon Lex Ukrajina (zejména verze V a VI) skutečně zpřísnil podmínky pro vyplácení humanitární dávky a zavedl povinnost registrace vozidel v registru silničních vozidel ČR. Tvrzení o omezení dávek odpovídá realitě postupného zpřísňování podmínek pro jejich čerpání."
+    },
+    {
+      "text": "Stropujeme poplatek za správu penzijního spoření na 0,5 % z portfolia, aby správci fondu nepožírali peníze střadatelů.",
+      "type": "paraphrase",
+      "speaker": "Jan Hrnčíř",
+      "affiliation": "SPD",
+      "timestamp": "1/06:32",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3258_highlight_01.jpg",
+      "context": "Aktuální legislativa (zákon č. 427/2011 Sb.) umožňuje penzijním společnostem účtovat poplatek za správu ve výši 1 % z průměrné roční hodnoty čistého majetku v účastnickém fondu. Návrh na snížení na 0,5 % je politickým návrhem, nikoliv platným zákonným stavem."
+    },
+    {
+      "text": "Kdo týrá zvířata, ten musí nést dalekotvrdší následky, včetně možnosti převodu zvířat do vlastnictví státu.",
+      "type": "paraphrase",
+      "speaker": "Lucie Šafránková",
+      "affiliation": "SPD",
+      "timestamp": "1/10:49",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3258_highlight_02.jpg",
+      "context": "Trestní zákoník (zákon č. 40/2009 Sb.) již nyní umožňuje propadnutí věci nebo jiné majetkové hodnoty, pokud byla užita k trestnému činu. Návrh na explicitní převod týraných zvířat do vlastnictví státu je předmětem probíhajících debat o novele zákona na ochranu zvířat proti týrání."
+    },
+    {
+      "text": "Navrhujeme snížit hranici trestní odpovědnosti z 15 na 13 let u těch nejbrutálnějších násilných trestných činů.",
+      "type": "paraphrase",
+      "speaker": "Libor Vondráček",
+      "affiliation": "SPD",
+      "timestamp": "1/14:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3258_highlight_03.jpg",
+      "context": "Věk 15 let pro trestní odpovědnost je stanoven v § 25 trestního zákoníku. Snížení této hranice je dlouhodobým politickým tématem, které naráží na Úmluvu o právech dítěte a odborné posudky psychologů a právníků, kteří varují před nízkou efektivitou represe u dětí."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh:** Snížení hranice trestní odpovědnosti z 15 na 13 let.\n- **Kdo:** Libor Vondráček (SPD).\n- **Co:** Snížení věkové hranice pro nejzávažnější násilné trestné činy (vraždy).\n- **Proč:** Politicky citlivé téma otevírající debatu o výchovných vs. represivních opatřeních u dětí a mladistvých.",
+      "speaker": "Libor Vondráček",
+      "affiliation": "SPD",
+      "timestamp": "1/14:02",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3258_controversy_00.jpg",
+      "context": "Snížení hranice trestní odpovědnosti na 13 let by vyžadovalo zásadní novelizaci trestního zákoníku a zákona o soudnictví ve věcech mládeže. Aktuálně platná právní úprava v ČR striktně drží hranici 15 let."
+    },
+    {
+      "statement": "**Kontroverzní návrh:** Zákaz mobilních telefonů na základních školách.\n- **Kdo:** Tomio Okamura (SPD).\n- **Co:** Plošný zákaz používání mobilů při vyučování.\n- **Proč:** Vyvolává debatu o zásahu do kompetencí škol a právu rodičů na kontakt s dětmi.",
+      "speaker": "Tomio Okamura",
+      "affiliation": "SPD",
+      "timestamp": "1/02:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3258_controversy_01.jpg",
+      "context": "Školský zákon (zákon č. 561/2004 Sb.) dává ředitelům škol pravomoc upravit pravidla používání mobilních telefonů ve školním řádu. Plošný celostátní zákaz by vyžadoval legislativní změnu, přičemž debata se vede o míře autonomie jednotlivých škol."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

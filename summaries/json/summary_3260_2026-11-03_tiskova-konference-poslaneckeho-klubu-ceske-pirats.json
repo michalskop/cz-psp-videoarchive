@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-03T14:12:47",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3260",
+    "name": "Tisková konference poslaneckého klubu České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-03T12:40",
+    "end_date": "2026-11-03T12:54",
+    "sources": [
+      "final/event_3260_2026-11-03_tiskova-konference-poslaneckeho-klubu-ceske-pirats.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5727_video-psp-2026113-1240-43-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem prezentace postojů Pirátské strany k aktuálním legislativním a politickým otázkám. Hlavními tématy byly návrh na odvolání Tomia Okamury z čela Poslanecké sněmovny, kritika vládního přístupu k veřejnoprávním médiím, připomínky k zákonu o střetu zájmů a návrhy na úpravu penzijního spoření.\n\nCílem konference bylo zdůraznit potřebu nestranného řízení sněmovny, vyjádřit podporu stávkujícím za nezávislost médií a představit pirátské pozměňovací návrhy v oblasti ekonomické a sociální politiky.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Oznámil návrh na odvolání Tomia Okamury z pozice předsedy Poslanecké sněmovny. Argumentuje, že Okamura selhal v roli nestranného předsedy, když při jednání o médiích omezil rozpravu a znemožnil 65 poslancům vystoupit. Zdůraznil, že nejde o politický názor, ale o neschopnost oddělit stranické zájmy od ústavní funkce. `[1/01:15]`",
+      "**Andrea Hofmanová (Piráti)** — Vyjádřila podporu stávkové pohotovosti iniciativy „Média nedáme“. Kritizovala vládní postup v otázce financování veřejnoprávních médií a vyzvala k implementaci Evropského aktu o svobodě médií (EMFA). Navrhla zavedení kontrol ze strany NKÚ a změnu systému volby do rad médií tak, aby nebyla závislá na sněmovně. `[1/04:09]`",
+      "**Kateřina Stojanová (Piráti)** — Kritizovala vládní návrh zákona o střetu zájmů, který označila za nedostatečný a šitý na míru nejbohatším. Upozornila na zkrácení lhůt pro vymáhání neoprávněně vyplacených dotací (z 10 na 4 roky) a na fakt, že zákaz dotací pro firmy politiků by se neměl vztahovat na premiéra, pokud přímo nevede ministerstvo. Dále zmínila tzv. „lex Kajumi“ zaměřený na ochranu tvůrců explicitního obsahu před vykořisťováním agenturami. `[1/07:45]`",
+      "**Olga Richtrová (Piráti)** — Vyjádřila podporu vládnímu návrhu na úpravu penzijního spoření, ale zdůraznila potřebu vylepšení prostřednictvím pozměňovacích návrhů (garantem je poslankyně Hana Ančencová). Cílem je vyšší zhodnocení úspor, snadnější převoditelnost produktů, vyšší příspěvky zaměstnavatelů a státní podpora pro děti. `[1/11:15]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nikoliv hlasováním. Piráti potvrdili, že budou aktivně prosazovat odvolání předsedy sněmovny, podpoří stávku za nezávislost médií a předloží pozměňovací návrhy k zákonům o střetu zájmů a penzijním spoření.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen (např. „Tomy Okamury“, „Hanna Ančencová“) a občasné halucinace (opakující se fráze o podpisech), které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Andrea Hofmanová",
+        "person_id": "psp:person:6905",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Kateřina Stojanová",
+        "person_id": "psp:person:7048",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richtrová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana",
+      "SPD",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas",
+      "NKÚ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Předseda sněmovny nemá být nějakým dalším hráčem v tom politickém souboji, ale má dohlížet na férové dodržování pravidel.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3260_highlight_00.jpg",
+      "context": "Role předsedy Poslanecké sněmovny je definována zákonem č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny. Ačkoliv je předseda volen jako politický zástupce, jeho ústavní rolí je nestranné řízení schůzí a zajištění dodržování pravidel, což je předmětem dlouhodobé politické debaty o míře neutrality této funkce."
+    },
+    {
+      "text": "Při jednání o budoucnosti veřejnoprávních médií se 65 demokraticky zvolených zástupců nedostalo k řečnickému pultíku.",
+      "type": "citation",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/01:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3260_highlight_01.jpg",
+      "context": "Počet poslanců, kteří se nedostali k řečnickému pultíku, je ověřitelný ze stenografických záznamů konkrétní schůze Poslanecké sněmovny. Zda se tak stalo v důsledku omezení rozpravy (např. pevným časem hlasování), je otázkou procedurálního postupu, který je v rámci jednacího řádu legální, ale politicky kontroverzní."
+    },
+    {
+      "text": "Návrh na zkrácení lhůt pro zahájení vymáhání neoprávněně vyplacených dotací z 10 let na 4 roky nahrává těm nejbohatším a nejmocnějším.",
+      "type": "paraphrase",
+      "speaker": "Kateřina Stojanová",
+      "affiliation": "Piráti",
+      "timestamp": "1/08:29",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3260_highlight_02.jpg",
+      "context": "Zkrácení promlčecí lhůty pro vymáhání dotací je legislativní změna, která se řídí zákonem o rozpočtových pravidlech. Tvrzení, že toto opatření nahrává konkrétním skupinám, je politickou interpretací dopadů zákona, nikoliv faktickým popisem jeho právního znění."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní návrh na odvolání předsedy sněmovny:**\n* **Kdo:** Zdeněk Hřib (Piráti).\n* **Co:** Návrh na odvolání Tomia Okamury z čela Poslanecké sněmovny.\n* **Proč:** Jde o vysoce citlivý politický krok, který přímo útočí na obsazení třetí nejvyšší ústavní funkce v zemi a eskaluje napětí mezi koalicí a opozicí.\n* **Čas:** 1/01:15",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/00:16",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3260_controversy_00.jpg",
+      "context": "Odvolání předsedy Poslanecké sněmovny je politický akt, který vyžaduje hlasování pléna podle jednacího řádu. Označení Tomia Okamury za předsedu Poslanecké sněmovny je fakticky nesprávné, neboť tuto funkci v současném volebním období zastává Markéta Pekarová Adamová; Tomio Okamura zastává funkci místopředsedy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
