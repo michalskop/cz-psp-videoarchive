@@ -1,0 +1,107 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-03T19:15:28",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3263",
+    "name": "Tisková konference poslaneckého klubu ANO",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-03T13:41",
+    "end_date": "2026-11-03T14:00",
+    "sources": [
+      "final/event_3263_2026-11-03_tiskova-konference-poslaneckeho-klubu-ano.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5730_video-psp-2026113-1341-24-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení priorit poslaneckého klubu ANO pro nadcházející týden jednání Poslanecké sněmovny. Hlavním cílem bylo informovat o legislativních návrzích, které hnutí plánuje prosazovat, a zároveň oznámit změnu strategie v organizaci jednání sněmovny – klub se rozhodl nevyužívat noční jednací hodiny (po 19. a 21. hodině) a testovat efektivitu práce v řádném čase.\n\nKromě legislativy se řečníci vyjádřili k aktuálním politickým tématům, včetně financování veřejnoprávních médií, postoje k účasti ruských sportovců na mezinárodních akcích a nadcházejícího společného jednání české a slovenské vlády.",
+    "main_points": [
+      "**Alena Schillerová (ANO)** — Představila vládní novelu zákona o doplňkovém penzijním spoření („Lepší penzíko“), která má odstranit vysoké poplatky a zvýšit výnosy pro 4 miliony střadatelů. Odhaduje zvýšení úspor o 1 milion Kč za 35 let. Dále oznámila koaliční pozměňovací návrh na zvýšení odpočtu úroků u hypoték pro mladé do 36 let (až o 50 000 Kč ročně). `[1/02:12]`",
+      "**Taťána Malá (ANO)** — Oznámila, že klub nebude tento týden načítat jednání po 19. a 21. hodině. Mezi priority zařadila „dětský certifikát“ (bezpečnost dětí), zvýšení důchodů a senátní návrh na rozšíření kontrolních pravomocí NKÚ nad veřejnoprávními médii a státními firmami. `[1/00:00]`",
+      "**Patrik Nacher (ANO)** — Podpořil debatu o regulaci mobilních telefonů na školách. Kritizoval účast ruských hokejistů na mezinárodních turnajích s odkazem na propojení ruského sportu s politikou. K tématu médií uvedl, že změna financování (koncesionářské poplatky) nemění nezávislost médií a je nutná debata o redefinici veřejnoprávní služby, která je zastaralá (z roku 1991). `[1/06:03]`"
+    ],
+    "outcome": "Nebylo přijato žádné formální rozhodnutí, šlo o tiskové prohlášení. Konsenzem klubu je otestovat efektivitu sněmovny v řádném čase (do 19:00, resp. 18:00 v pátek) a v případě neúspěchu při projednávání prioritních zákonů (např. „Lepší penzíko“) se neuchylovat k nočním obstrukcím či prodlužování, ale nechat veřejnost posoudit výkonnost sněmovny.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Taťána Malá",
+        "person_id": "psp:person:6468",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Alena Schillerová",
+        "person_id": "psp:person:6545",
+        "affiliation": "ANO"
+      },
+      {
+        "name": "Patrik Nacher",
+        "person_id": "psp:person:6487",
+        "affiliation": "ANO"
+      }
+    ],
+    "parties": [
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NKÚ"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Díky Lepšímu penzíku si průměrný Čech své úspory na důchod zvýší o 1 milion korun v dnešních cenách.",
+      "type": "paraphrase",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/03:52",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3263_highlight_00.jpg",
+      "context": "Tvrzení je spekulativní a závislé na mnoha proměnných, jako je výše příspěvku, délka spoření a zhodnocení trhu. Oficiální analýzy MF ČR k produktu 'Dlouhodobý investiční produkt' (DIP) takto konkrétní částku jako garantovaný výsledek pro průměrného Čecha nestanovují."
+    },
+    {
+      "text": "Navrhujeme zvýšení odpočtu na hypotéky pro mladé lidi do 36 let věku, tedy až o 50 000 Kč za rok více.",
+      "type": "paraphrase",
+      "speaker": "Alena Schillerová",
+      "affiliation": "ANO",
+      "timestamp": "1/05:53",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3263_highlight_01.jpg",
+      "context": "Jedná se o politický návrh. Aktuálně zákon o daních z příjmů (č. 586/1992 Sb.) umožňuje odečet úroků z úvěru na bydlení od základu daně v maximální výši 150 000 Kč ročně; zvýšení o 50 000 Kč by vyžadovalo legislativní změnu tohoto zákona."
+    },
+    {
+      "text": "Budeme končit v sedm tak, jak je ten základní časový obsah, který máme jako zákonodárci.",
+      "type": "citation",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/14:56",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3263_highlight_02.jpg",
+      "context": "Jednací řád Poslanecké sněmovny (zákon č. 90/1995 Sb.) stanovuje v § 54, že jednání končí zpravidla v 19:00 hodin, pokud se Sněmovna neusnese jinak. Jde tedy o standardní procedurální pravidlo, nikoliv o fixní zákonnou povinnost."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma: Účast ruských hokejistů**\n*   **Kdo:** Patrik Nacher (ANO)\n*   **Co:** Tvrdí, že ruští sportovci by neměli mít možnost startovat na českém území (např. MS žen v Ostravě) pod ruskou vlajkou, protože ruský hokej je přímo propojen s politikou Vladimíra Putina.\n*   **Proč:** Jde o střet mezi sportovní arbitráží (která účast povolila) a suverénním právem ČR rozhodnout o vstupu osob na své území. Politicky citlivé v kontextu vztahů se Slovenskem, jehož premiér má opačný názor.\n*   **Čas:** 1/08:07",
+      "speaker": "Patrik Nacher",
+      "affiliation": "ANO",
+      "timestamp": "1/08:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3263_controversy_00.jpg",
+      "context": "Česká republika má na základě zákona o pobytu cizinců právo omezit vstup osob na své území. Vláda ČR v roce 2023 přijala usnesení, které zakazuje účast individuálních sportovců reprezentujících Ruskou federaci na soutěžích pořádaných na českém území, což je v souladu s vládní politikou vůči ruské agresi na Ukrajině."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

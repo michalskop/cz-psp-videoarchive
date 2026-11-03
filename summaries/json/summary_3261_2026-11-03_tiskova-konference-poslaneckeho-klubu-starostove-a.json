@@ -1,0 +1,115 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-03T19:16:45",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3261",
+    "name": "Tisková konference poslaneckého klubu Starostové a nezávislí",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-03T12:59",
+    "end_date": "2026-11-03T13:20",
+    "sources": [
+      "final/event_3261_2026-11-03_tiskova-konference-poslaneckeho-klubu-starostove-a.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5728_video-psp-2026113-1259-7-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí Starostové a nezávislí (STAN) se konala před zahájením jednání Poslanecké sněmovny. Hlavním cílem bylo vyjádřit ostrý nesouhlas s postupem vládní koalice v otázce zrušení poplatků za veřejnoprávní média, kritizovat stav státního rozpočtu a upozornit na další kroky vlády, které podle řečníků ohrožují nezávislost institucí a dělbu moci v ČR.\n\nKromě kritiky vládní politiky se zástupci hnutí věnovali také tématu zákazu účasti ruských a běloruských sportovců na mezinárodních soutěžích na území ČR a vyjádřili podporu občanským protestům a stávkám, které považují za legitimní reakci na kroky vlády.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval vládní koalici za zrušení poplatků za rozhlas a televizi v prvním čtení, což označil za „ukázku slabosti a arogance“. Tvrdí, že vláda toto téma otevřela uměle, aby zakryla své neúspěchy v ekonomice. `[1/01:00]`",
+      "**Věra Kovářová (STAN)** — Zaměřila se na ekonomické dopady zrušení poplatků. Upozornila, že náklady na média se přesunou do státního rozpočtu, což povede k dalšímu zadlužování. Odhadla, že stát zaplatí přes 400 milionů korun ročně jen na úrocích z půjček. `[1/04:09]`",
+      "**Karel Dvořák (STAN)** — Varoval před útoky vlády na nezávislou justici a dělbu moci. Kritizoval návrhy na omezení odvolacích soudů a možnost vyšetřovacích komisí sněmovny nahlížet do živých trestních spisů. `[1/10:01]`",
+      "**Michaela Šebelová (STAN)** — Deklarovala nesouhlas s účastí ruských a běloruských sportovců na soutěžích v ČR. Oznámila, že hnutí připravuje návrh zákona, který by tento zákaz ukotvil přímo v legislativě. `[1/14:03]`"
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale tiskovým prohlášením. Konsenzem klubu STAN je pokračující odpor proti vládnímu modelu financování veřejnoprávních médií, snaha o legislativní ukotvení zákazu startu ruských sportovců a podpora odvolání Tomia Okamury z vedení sněmovny.",
+    "notes": "Přepis obsahuje místy chyby v diakritice a useknutá slova, nicméně obsah je srozumitelný."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Karel Dvořák",
+        "person_id": "psp:person:7002",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Česká televize",
+      "Český rozhlas"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda chce slavnostně zrušit lidem poplatky za dvě stovky, ale náklady za ČTV a ČR zkrátka dobře nezmizí; přesunují se do státního rozpočtu, který hospodaří na dluh.",
+      "type": "paraphrase",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/05:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3261_highlight_00.jpg",
+      "context": "Návrh na zrušení koncesionářských poplatků (resp. jejich nahrazení přímým financováním ze státního rozpočtu) je součástí vládních debat o úsporách. Fakticky jde o přesun nákladů z přímé platby občanů na výdajovou stranu státního rozpočtu, který je v deficitu, což potvrzují data MF ČR o stavu veřejných financí."
+    },
+    {
+      "text": "Stát zaplatí přes 400 milionů korun ročně jen na úrocích z té nové půjčky, na kterou si bude muset půjčit, aby pokryl výpadek poplatků.",
+      "type": "paraphrase",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/06:20",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3261_highlight_01.jpg",
+      "context": "Výpočet vychází z předpokládaného výpadku příjmů z poplatků a aktuálních úrokových sazeb státního dluhu. Nelze nezávisle ověřit přesnou částku 400 milionů bez konkrétního modelu dluhové služby, nicméně princip, že financování výdajů dluhem zvyšuje úrokové náklady státu, je ekonomicky podložený."
+    },
+    {
+      "text": "Sport a politika nelze v případě totalitních režimů oddělit a účast ruských sportovců by byla vítězstvím ruské putinovské propagandy.",
+      "type": "paraphrase",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/15:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3261_highlight_02.jpg",
+      "context": "Jde o hodnotové a politické tvrzení, které nelze fakticky verifikovat. Postoj k účasti sportovců z totalitních režimů na mezinárodních akcích je předmětem mezinárodněpolitické debaty a etického hodnocení, nikoliv empiricky měřitelný fakt."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Kritika návrhu poslance Reichla na přístup vyšetřovacích komisí k živým trestním spisům. Je to politicky citlivé, protože se to přímo dotýká dělby moci a vyšetřování kauz týkajících se premiéra.",
+      "speaker": "Karel Dvořák",
+      "affiliation": "STAN",
+      "timestamp": "1/12:11",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3261_controversy_00.jpg",
+      "context": "Návrh poslance Reichla (změna zákona o vyšetřovacích komisích) vyvolal debatu o ústavním principu dělby moci (čl. 2 Ústavy ČR). Možnost nahlížení do živých spisů je v rozporu s dosavadní praxí a judikaturou, která chrání nezávislost orgánů činných v trestním řízení před politickým vlivem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-03T19:14:47",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3264",
+    "name": "Tisková konference Ministerstva životního prostředí k výsledkům auditu o pochybení v hospodaření KRNAP",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-03T15:03",
+    "end_date": "2026-11-03T15:45",
+    "sources": [
+      "final/event_3264_2026-11-03_tiskova-konference-ministerstva-zivotniho-prostred.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5731_video-psp-2026113-153-16-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem informování veřejnosti o výsledcích veřejnosprávní kontroly v Národním parku Krkonoše (KRNAP). Hlavním tématem bylo pochybení v účtování DPH na vstupu v letech 2021–2023, které podle ministra životního prostředí ohrožuje rozpočet parku částkou až 100 milionů korun.\n\nCílem konference bylo vysvětlit závažnost situace, popsat kroky ministerstva a nového vedení parku k nápravě a vyvrátit spekulace o politicky motivovaných čistkách v rámci správy KRNAP.",
+    "main_points": [
+      "**Igor Červený (ministr životního prostředí)** — Uvedl, že KRNAP čelí finančnímu riziku ve výši téměř 100 milionů korun kvůli špatnému účtování DPH. Kritizoval minulé vedení za ignorování upozornění finanční správy. Oznámil zavedení nové metodiky a úpravu účetního softwaru. `[1/02:04]`",
+      "**Stanislav Masák (ředitel odboru interního auditu MŽP)** — Potvrdil nálezy finančního úřadu ohledně neoprávněného odpočtu DPH a chyby v klasifikaci činností parku. `[1/06:02]`",
+      "**Petr Moravec (ředitel správy KRNAP)** — Prioritou je náprava účetnictví. Obhájil personální změny (odvolání náměstků) odlišnou vizí řízení. Odmítl spekulace o rušení muzeí. `[1/08:04]`"
+    ],
+    "outcome": "Nebyla přijata žádná nová legislativní rozhodnutí, šlo o informativní briefing. Konsenzem vedení MŽP a KRNAP je nutnost provést kompletní přeučtování faktur za období 2023–2026 prostřednictvím externí firmy a pokračovat v jednáních s finanční správou o minimalizaci sankcí. Personální změny ve vedení KRNAP byly prezentovány jako nezbytný krok k efektivnějšímu řízení.",
+    "notes": "Přepis obsahuje četné technické artefakty (opakující se fráze typu „Představující se na...“, „www.patreon.cz“), které byly pro účely shrnutí ignorovány. Části textu jsou místy nesrozumitelné kvůli chybějící diakritice a useknutým slovům."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Igor Červený",
+        "person_id": "psp:person:6996",
+        "affiliation": "Ministerstvo životního prostředí"
+      },
+      {
+        "name": "Stanislav Masák",
+        "person_id": "psp:person:5002",
+        "affiliation": "Ministerstvo životního prostředí"
+      },
+      {
+        "name": "Petr Moravec",
+        "person_id": null,
+        "affiliation": "KRNAP"
+      }
+    ],
+    "parties": [],
+    "institutions": [
+      "Ministerstvo životního prostředí",
+      "KRNAP"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Je v podstatě ohrožena až jedna pětina rozpočtu ve výši téměř 100 milionů korun na příští rok, a to naprosto zcela zbytečně.",
+      "type": "citation",
+      "speaker": "Igor Červený",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "1/00:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3264_highlight_00.jpg",
+      "context": "Tvrzení o ohrožení pětiny rozpočtu nelze nezávisle ověřit bez přístupu k interním rozpočtovým dokumentům dané organizace. Celková výše rozpočtu 100 milionů korun je v kontextu státních příspěvkových organizací MŽP nízká částka, což může naznačovat, že jde o dílčí fond či specifický projekt."
+    },
+    {
+      "text": "Nikdo nenapadl to předchozí vedení za to, že to poprvé udělali špatně. Tam je naprosto flagrantní porušení toho, že oni to nenapravili, ačkoliv na tu věc byli upozorněni.",
+      "type": "citation",
+      "speaker": "Igor Červený",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "1/12:31",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3264_highlight_01.jpg",
+      "context": "Jde o subjektivní hodnocení postupu předchozího vedení. Zda došlo k „flagrantnímu porušení“ a zda byla na chyby podána oficiální upozornění, by musel potvrdit auditní protokol nebo právní analýza příslušného kontrolního orgánu."
+    },
+    {
+      "text": "My jsme na základě pověření pana ministra provedli veřejnostprávní kontrolu na KRNAPu a nadále probíhají kontroly na dalších třech parcích.",
+      "type": "citation",
+      "speaker": "Stanislav Masák",
+      "affiliation": "Ministerstvo životního prostředí",
+      "timestamp": "1/06:36",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3264_highlight_02.jpg",
+      "context": "Veřejnosprávní kontrola v příspěvkových organizacích je standardním nástrojem zřizovatele (MŽP) podle zákona č. 320/2001 Sb., o finanční kontrole. Skutečnost, že kontrola probíhá, je ověřitelná v rámci agendy ministerstva."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverze: Odvolání náměstků KRNAP**\n- **Kdo:** Petr Moravec (ředitel KRNAP)\n- **Co:** Odvolání dvou náměstků bez udání konkrétních důvodů, doprovázené asistencí ochranky při vyklízení kanceláří.\n- **Proč:** Vyvolalo to vlnu nevole, petici za odvolání ředitele a obavy z politizace správy parku.\n- **Čas:** `1/14:04`",
+      "speaker": "Petr Moravec",
+      "affiliation": "KRNAP",
+      "timestamp": "1/14:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3264_controversy_00.jpg",
+      "context": "Odvolání náměstků ředitelem státní příspěvkové organizace je v kompetenci statutárního orgánu (ředitele). Existence petice a mediální ohlas jsou veřejně známé skutečnosti, avšak důvody odvolání jsou interní personální záležitostí, která nepodléhá povinnému zveřejnění."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
