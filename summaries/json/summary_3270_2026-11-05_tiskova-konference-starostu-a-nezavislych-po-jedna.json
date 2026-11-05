@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-05T14:14:02",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3270",
+    "name": "Tisková konference Starostů a nezávislých po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-05T11:02",
+    "end_date": "2026-11-05T11:33",
+    "sources": [
+      "final/event_3270_2026-11-05_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5738_video-psp-2026115-112-42-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se zaměřila na kritiku aktuálního vládního postupu v Poslanecké sněmovně, zejména na způsob projednávání zákonů „pod rouškou noci“ a bez řádného připomínkového řízení. Zástupci hnutí STAN prezentovali své postoje k otázkám veřejnoprávních médií, financování vodohospodářské infrastruktury, zemědělské půdy a dostupného nájemního bydlení.\n\nCílem jednání bylo vymezit se vůči vládní politice, kterou označili za populistickou a poškozující kraje, a zároveň představit vizi „opozice jinak“, která se soustředí na konstruktivní parlamentní práci a hledání řešení pro občany namísto vyvolávání kulturních válek.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval vládní nálepkování protestujících a vyzval k nenásilnému vyjadřování názorů. Požaduje stažení materiálu o veřejnoprávních médiích schváleného v noci. `[1/02:19]`",
+      "**Jana Krutáková (STAN)** — Vystoupila proti „přílepku“ v novele zákona o rostlinolékařské péči, který zdražuje vodu a odebírá krajům finanční prostředky na vodohospodářské stavby. `[1/08:03]`",
+      "**Tomáš Dubský (STAN)** — Označil vládní ohlašovací povinnost u zemědělské půdy za omezování vlastnictví a upozornil na střet zájmů premiéra. `[1/10:12]`",
+      "**Barbora Stašková (STAN)** — Zkritizovala parametry programu „Dostupné nájemní bydlení 2.0“, který podle ní ruší podporu sociálně slabých a stává se nástrojem pro tržní investory. `[1/12:06]`"
+    ],
+    "outcome": "Hnutí STAN deklarovalo, že bude v Poslanecké sněmovně důsledně využívat své právo na diskuzi u všech vládních návrhů, které považuje za škodlivé nebo procedurálně nekorektní. Konsenzem je požadavek na stažení kontroverzních materiálů a návrat k řádnému legislativnímu procesu.",
+    "notes": "Přepis obsahuje drobné chyby v přepisu jmen a občasné výpadky textu vlivem špatné artikulace nebo technických artefaktů."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jana Krutáková",
+        "person_id": "psp:person:6466",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Tomáš Dubský",
+        "person_id": "psp:person:6728",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Barbora Stašková",
+        "person_id": null,
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Kabinet budoucnosti"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Andrej Babiši a současná vládo, stáhněte z projednávání ten ostudně schválený materiál ve 4 hodiny 36 minut.",
+      "type": "citation",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/06:55",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3270_highlight_00.jpg",
+      "context": "Výrok odkazuje na procesní postup při projednávání legislativy. Čas 4:36 ráno odpovídá nočnímu jednání Poslanecké sněmovny, které je v českém parlamentním systému legální, byť opozicí často kritizované jako netransparentní."
+    },
+    {
+      "text": "V naší republice máme 1,5 milionu vlastníků zemědělské půdy a je absurdní, že s těmito vlastníky nikdo nemluví.",
+      "type": "paraphrase",
+      "speaker": "Tomáš Dubský",
+      "affiliation": "STAN",
+      "timestamp": "1/11:44",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3270_highlight_01.jpg",
+      "context": "Podle dat Státního pozemkového úřadu a ČSÚ se počet vlastníků zemědělské půdy pohybuje v řádech stovek tisíc až jednotek milionů (včetně spoluvlastníků). Přesné číslo 1,5 milionu je odhadem, který se v odborných debatách o pozemkových úpravách často používá, ale nelze jej přesně verifikovat jako fixní statistický údaj."
+    },
+    {
+      "text": "Program Dostupné nájemní bydlení 2.0 nabízí byty osmému příjmovému decilu, tedy rodinám s příjmem až 101 000 čistého měsíčně.",
+      "type": "citation",
+      "speaker": "Barbora Stašková",
+      "affiliation": "STAN",
+      "timestamp": "1/12:45",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3270_highlight_02.jpg",
+      "context": "Program Dostupné nájemní bydlení 2.0 (pod gescí Státního fondu podpory investic) cílí na střední třídu, přičemž příjmové limity jsou nastaveny tak, aby zahrnovaly i domácnosti s vyššími příjmy. Uvedená částka 101 000 Kč čistého odpovídá horní hranici příjmového decilu definovaného pro účely tohoto programu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vládní koalice vložila do technického zákona o rostlinolékařské péči zásadní změnu financování vodného (tzv. přílepek), aniž by proběhlo připomínkové řízení. Opozice to označuje za „zločin na krajích“ a mstu regionům.",
+      "speaker": "Vít Rakušan a Jana Krutáková",
+      "affiliation": "STAN",
+      "timestamp": "1/26:15",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3270_controversy_00.jpg",
+      "context": "Vkládání nesouvisejících pozměňovacích návrhů do zákonů (tzv. přílepky) je dlouhodobě kritizovanou praxí, ačkoliv Ústavní soud v minulosti judikoval, že nejsou automaticky protiústavní. Zda jde o „zločin na krajích“, je politické hodnocení; dopady na financování vodného a stočného jsou předmětem odborného sporu mezi Ministerstvem zemědělství a zástupci samospráv."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}

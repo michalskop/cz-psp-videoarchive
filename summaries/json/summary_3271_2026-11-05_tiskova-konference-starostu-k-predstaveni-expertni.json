@@ -1,0 +1,128 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-05T14:13:16",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3271",
+    "name": "Tisková konference Starostů k představení expertní skupiny k oblasti životního prostředí",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-05T11:44",
+    "end_date": "2026-11-05T11:59",
+    "sources": [
+      "final/event_3271_2026-11-05_tiskova-konference-starostu-k-predstaveni-expertni.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5740_video-psp-2026115-1144-15-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem představení expertní skupiny, která bude pracovat na koncepci s názvem **„Voda pro Česko 2035“**. Cílem této iniciativy, zastřešené hnutím Starostové (STAN) a jejich „Kabinetem budoucnosti“, je vytvořit dlouhodobou strategii pro zvládání sucha, nedostatku vody a ochrany zemědělské půdy v České republice.\n\nHlavním záměrem je posunout debatu od pouhého řešení následků k systémovému hospodaření s vodou v krajině. Expertní skupina složená z odborníků na zemědělství, vodohospodářství, krajinnou architekturu a technologie má za úkol navrhnout legislativní, ekonomické a technické kroky, které zajistí udržitelnost vodních zdrojů a adaptaci české krajiny na klimatické změny v horizontu příštích 20–30 let.",
+    "main_points": [
+      "**Jana Krutáková (stínová ministryně životního prostředí, STAN)** — Zdůraznila nutnost hospodařit s každou kapkou vody a posílit strategické vodní zdroje. Koncepce „Voda pro Česko 2035“ se zaměřuje na zadržování vody v krajině a zajištění zásobování obyvatel. `[1/02:04]`",
+      "**Miroslav Nič (Kabinet budoucnosti, inovace a věda)** — Upozornil na roli ČR jako „střechy Evropy“, odkud voda odtéká. Navrhuje využít nástroje umělé inteligence a datové analýzy pro lepší informační podporu při rozhodování o vodních zdrojích. `[1/04:06]`",
+      "**Jiří Kapička (konzultant v oblasti zemědělství a pozemkových úprav)** — Kritizoval zaměření na minulost a zdůraznil potřebu hledat shodu mezi hospodáři, vlastníky půdy a veřejným zájmem. Varoval před nadměrným zastavováním zemědělské půdy. `[1/06:00]`",
+      "**Miroslava Plevková (vodohospodářská inženýrka)** — Upozornila, že problémem není nedostatek technických řešení, ale chybějící shoda na jejich podobě. Zdůraznila, že sucho nelze vyřešit pouze budováním přehrad; je nutná obnova přirozených procesů v krajině. `[1/10:07]`",
+      "**Klára Saltzman (krajinná architektka, ČVUT)** — Označila vodu za státní veřejný zájem. Upozornila na zdevastovaný stav pramenišť a masivní odvodnění niv. Požaduje okamžité legislativní změny a plánování od celostátní úrovně až po obce. `[1/12:09]`"
+    ],
+    "outcome": "Jednání bylo informativní tiskovou konferencí, nikoliv hlasovacím orgánem. Konsenzem všech řečníků je, že současný stav hospodaření s vodou je neudržitelný a vyžaduje systémovou změnu. Expertní skupina zahajuje práci na koncepci, která má být podkladem pro budoucí politická rozhodnutí. Prioritou je legislativní zakotvení vody jako veřejného zájmu a vytvoření ekonomických motivací pro zemědělce a další aktéry v krajině.",
+    "notes": "Přepis obsahuje drobné gramatické chyby a místy nedokončené věty, které však nebrání pochopení celkového sdělení."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Jana Krutáková",
+        "person_id": "psp:person:6466",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Miroslav Nič",
+        "person_id": null,
+        "affiliation": "Kabinet budoucnosti"
+      },
+      {
+        "name": "Jiří Kapička",
+        "person_id": null,
+        "affiliation": null
+      },
+      {
+        "name": "Miroslava Plevková",
+        "person_id": "psp:person:425",
+        "affiliation": null
+      },
+      {
+        "name": "Klára Saltzman",
+        "person_id": null,
+        "affiliation": "ČVUT"
+      }
+    ],
+    "parties": [
+      "STAN"
+    ],
+    "institutions": [
+      "Kabinet budoucnosti",
+      "ČVUT"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Česko se musí naučit v těchto dobách hospodařit s každou kapkou vody, ať už je to v krajině, v půdě, ať už je to v zásobování pitnou vodou.",
+      "type": "citation",
+      "speaker": "Jana Krutáková",
+      "affiliation": "STAN",
+      "timestamp": "1/02:25",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3271_highlight_00.jpg",
+      "context": "Tvrzení je v souladu s vládní strategií 'Voda pro ČR' a Koncepcí ochrany před následky sucha pro území ČR. Hospodaření s vodou v krajině je dlouhodobou prioritou Ministerstva zemědělství a Ministerstva životního prostředí."
+    },
+    {
+      "text": "My jsme tak trošku střecha Evropy. K nám všechno vlastně prší z nebes a všechno od nás odtéká pryč.",
+      "type": "citation",
+      "speaker": "Miroslav Nič",
+      "affiliation": "Kabinet budoucnosti",
+      "timestamp": "1/04:33",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3271_highlight_01.jpg",
+      "context": "Geograficky je tvrzení správné; ČR leží na rozvodí hlavních evropských řek (Labe, Odra, Morava) a nemá přítoky z jiných států, je tedy závislá výhradně na srážkách. Tento stav je odborně označován jako 'střecha Evropy', což potvrzuje i Český hydrometeorologický ústav (ČHMÚ)."
+    },
+    {
+      "text": "Sucho nevyřešíme budováním přehrad a malých vodních nádrží. Ty mají své opodstatnění, ale samotná jejich výstavba automaticky neodstraňuje příčiny narušeného vodního režimu.",
+      "type": "citation",
+      "speaker": "Miroslava Plevková",
+      "affiliation": null,
+      "timestamp": "1/10:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3271_highlight_02.jpg",
+      "context": "Odborný konsenzus (např. studie VÚV TGM) potvrzuje, že přehrady řeší především akumulaci vody pro suchá období, nikoliv příčiny vysychání krajiny. Zlepšení vodního režimu vyžaduje komplexní opatření, jako je obnova mokřadů, meandrování toků a změna zemědělského hospodaření."
+    },
+    {
+      "text": "My si musíme uvědomit a připustit, že voda a její zachování a její kultivace je naším státním veřejným zájmem.",
+      "type": "citation",
+      "speaker": "Klára Saltzman",
+      "affiliation": "ČVUT",
+      "timestamp": "1/12:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3271_highlight_03.jpg",
+      "context": "Voda je v ČR legislativně chráněna zákonem č. 254/2001 Sb. (vodní zákon), který ji definuje jako přírodní bohatství a veřejný statek. Ochrana vodních zdrojů je zakotvena jako veřejný zájem v řadě strategických dokumentů státu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma: Zastavování zemědělské půdy**\n- **Kdo:** Jiří Kapička\n- **Co:** Upozornil na to, že zastavování půdy pro bytovou výstavbu a dopravu nelze dělat do nekonečna, protože tím ztrácíme plochu pro zadržování vody.\n- **Proč:** Jde o politicky citlivé téma, neboť naráží na potřeby rozvoje obcí a výstavby bydlení, což je v přímém konfliktu s ochranou zemědělského půdního fondu.\n- **Čas:** `1/08:04`",
+      "speaker": "Jiří Kapička",
+      "affiliation": null,
+      "timestamp": "1/08:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3271_controversy_00.jpg",
+      "context": "Úbytek zemědělské půdy v důsledku zastavování je doložitelný daty ČSÚ a Státního pozemkového úřadu. Konflikt mezi potřebou nové výstavby a ochranou půdního fondu je řešen zákonem č. 334/1992 Sb., o ochraně zemědělského půdního fondu, který stanovuje odvody za odnětí půdy ze zemědělské produkce."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
