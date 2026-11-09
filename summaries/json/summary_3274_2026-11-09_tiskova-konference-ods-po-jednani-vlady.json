@@ -1,0 +1,112 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-09T19:16:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3274",
+    "name": "Tisková konference ODS po jednání vlády",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-09T15:33",
+    "end_date": "2026-11-09T15:59",
+    "sources": [
+      "final/event_3274_2026-11-09_tiskova-konference-ods-po-jednani-vlady.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5745_video-psp-2026119-1533-24-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference ODS se konala po jednání vlády dne 9. listopadu 2026. Hlavním účelem bylo představení opozičního postoje k aktuálním vládním tématům, zejména k zákonu o celostátním referendu, energetické politice, pomoci Ukrajině, armádní koncepci a hospodaření s dotacemi.\n\nZástupci ODS kritizovali vládní kroky v oblasti bezpečnosti a zemědělství, přičemž zdůraznili potřebu koncepčního přístupu namísto ad-hoc politických rozhodnutí. Konference rovněž sloužila jako platforma pro vyjádření nesouhlasu s kauzami spojenými s čerpáním dotací koncernem Agrofert.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Referendum: ODS zákon o celostátním referendu nepodpoří. Energetika: Vláda by měla mít připravený efektivní nástroj pro zastropování cen energií. Ukrajina: Kritizoval vládu za zastavení muniční iniciativy, oznámil cestu na Ukrajinu s pomocí. Agrofert: Kritizoval návrh zákona o střetu zájmů. `[1/01:05]`",
+      "**Jan Lipavský (ODS)** — Armáda: Kritizoval vládní koncepci KVAČR, která nepočítá s růstem výdajů nad 2 % HDP. Rusko: Vláda by měla jasně deklarovat, že neumožní účast ruských sportovců na mezinárodních akcích v ČR. `[1/07:30]`",
+      "**Petr Bendl (ODS)** — Zemědělství a voda: Požaduje projednání zpráv NKÚ, upozornil na nedostatek vody v přehradách. Dotace: Kritizoval snižování podpory na závlahy při navyšování financí na poradenství. Agrofert: Upozornil na kumulaci problémových dotací v hodnotě 8 miliard Kč. `[1/10:05]`"
+    ],
+    "outcome": "Jednání nebylo formálním rozhodovacím procesem, ale tiskovou konferencí opoziční strany. Konsenzem ODS je odmítnutí zákona o referendu, požadavek na důsledné vymáhání dotací po koncernu Agrofert a kritika vládní nečinnosti v oblasti obrany a pomoci Ukrajině.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné gramatické nesrovnalosti způsobené automatickým přepisem, které však nebrání pochopení obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Lipavský",
+        "person_id": "psp:person:6537",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Petr Bendl",
+        "person_id": "psp:person:346",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "ANO",
+      "SPD"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "NKÚ",
+      "Evropská komise",
+      "Agrofert",
+      "Team 4 Ukraine"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Otázka obecného referenda nezmění ani haléř na tom, kolik v České republice stojí chleba nebo rohlíky.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:10",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3274_highlight_00.jpg",
+      "context": "Tvrzení je věcně správné v tom smyslu, že zavedení institutu obecného referenda nemá přímý kauzální vliv na tržní ceny potravin. Ceny zboží jsou určovány nabídkou, poptávkou a nákladovými faktory, nikoliv ústavním uspořádáním státu."
+    },
+    {
+      "text": "Na Rusko platí pouze síla, a tu je potřeba vygenerovat. Bohužel vidíme, že tato vláda odmítá tu sílu generovat.",
+      "type": "citation",
+      "speaker": "Jan Lipavský",
+      "affiliation": "ODS",
+      "timestamp": "1/07:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3274_highlight_01.jpg",
+      "context": "Výrok je politickým hodnocením obranné a zahraniční politiky vlády. Nelze nezávisle ověřit, zda vláda „odmítá generovat sílu“, neboť jde o subjektivní interpretaci míry investic do obranyschopnosti a diplomatického postoje vůči Rusku."
+    },
+    {
+      "text": "V souhrnu jde o nějakých osm miliard korun, které jsou pořád ve hře a ten stát se k tomu chová trošku jaksi macešsky.",
+      "type": "citation",
+      "speaker": "Petr Bendl",
+      "affiliation": "ODS",
+      "timestamp": "1/20:12",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3274_highlight_02.jpg",
+      "context": "Nelze nezávisle ověřit bez znalosti konkrétního rozpočtového titulu či kauzy, ke které se řečník vztahuje. Pro ověření by bylo nutné specifikovat, o jaký konkrétní dotační program nebo státní fond se jedná (např. dle údajů v Informačním systému programového financování MF ČR)."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vyjádření ministra zahraničí Petra Macinky k ženským hokejistkám, ve kterém zpochybnil, zda by ženy měly vykonávat tento sport. ODS výrok označila za arogantní a hloupý.",
+      "speaker": "Petr Macinka",
+      "affiliation": "vláda",
+      "timestamp": "1/21:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3274_controversy_00.jpg",
+      "context": "Petr Macinka není ministrem zahraničí ČR (tím je Jan Lipavský). Výrok o ženském hokeji je subjektivním názorem, jehož označení za „arogantní a hloupý“ je politickým hodnocením ze strany ODS, nikoliv faktografickým údajem."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

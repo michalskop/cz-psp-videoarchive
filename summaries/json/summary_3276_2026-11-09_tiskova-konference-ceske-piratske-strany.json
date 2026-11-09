@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-09T19:15:24",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3276",
+    "name": "Tisková konference České pirátské strany",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-09T16:00",
+    "end_date": "2026-11-09T16:19",
+    "sources": [
+      "final/event_3276_2026-11-09_tiskova-konference-ceske-piratske-strany.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5750_video-psp-2026119-160-30-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference byla svolána za účelem kritiky vládní energetické politiky, nakládání s veřejnými financemi a přístupu k dotacím pro velké agroholdingy. Zástupci Pirátů, Zdeněk Hřib a Olga Richterová, vyjádřili nesouhlas s vládním řešením energetické krize, které podle nich pouze „hasí požáry“ místo řešení příčin, a upozornili na netransparentní dotační politiku státu vůči koncernu Agrofert.\n\nDruhým pilířem konference byla kritika klimatické politiky vlády, která podle Pirátů ignoruje vědecká fakta o oteplování a klimatické změně, a vyjádření obav z možného ovlivňování médií po vzoru slovenské politické scény.",
+    "main_points": [
+      "**Zdeněk Hřib (Piráti)** — Kritizoval vládu za nedostatečnou přípravu na energetickou krizi, absenci investic do obnovitelných zdrojů a energetických úspor. Upozornil na omezování akceleračních zón pro obnovitelné zdroje o 90 %. `[1/00:30]`",
+      "**Zdeněk Hřib (Piráti)** — Kritizoval schválení zemědělských dotací ve výši 4 miliard korun, z nichž 250 milionů je určeno pro velké podniky (agroholdingy). Zmínil kauzu „toustové linky“ Penam a vyzval k vymáhání 100 milionů korun zpět do státního rozpočtu.",
+      "**Olga Richterová (Piráti)** — Poukázala na zprávu Ministerstva životního prostředí, podle které se ČR otepluje dvakrát rychleji než zbytek světa. Kritizovala vládní představitele za zlehčování klimatické krize. `[1/06:03]`",
+      "**Olga Richterová (Piráti)** — Varovala před rizikem politického tlaku na veřejnoprávní média po vzoru Slovenska a zdůraznila nutnost jejich ochrany jako pilíře demokracie.",
+      "**Tematické body** — Piráti se ostře ohradili proti účasti ruských sportovců na šampionátu v Ostravě, kterou považují za neakceptovatelnou. `[1/12:23]`"
+    ],
+    "outcome": "Jednání nemělo charakter hlasování, šlo o prezentaci postojů opoziční strany. Piráti deklarovali, že budou nadále urgovat vládu v otázkách přípravy na klimatické změny, vymáhat nezákonné dotace a bránit nezávislost médií.",
+    "notes": "Přepis obsahuje četné technické chyby, opakující se fráze a výpadky diakritiky. Obsah byl rekonstruován na základě srozumitelných pasáží."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Zdeněk Hřib",
+        "person_id": "psp:person:6552",
+        "affiliation": "Piráti"
+      },
+      {
+        "name": "Olga Richterová",
+        "person_id": "psp:person:6473",
+        "affiliation": "Piráti"
+      }
+    ],
+    "parties": [
+      "Česká pirátská strana"
+    ],
+    "institutions": [
+      "Vláda ČR",
+      "Ministerstvo životního prostředí",
+      "Agrofert"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda tady má obrovskou díru v rozpočtu 386 miliard korun a přesto nemá problém schvalovat další dotace pro velké agroholdingy.",
+      "type": "paraphrase",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/05:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3276_highlight_00.jpg",
+      "context": "Schodek státního rozpočtu pro rok 2024 byl schválen ve výši 252 miliard Kč, nikoliv 386 miliard. Částka 386 miliard odpovídá schodku rozpočtu za rok 2023 (skutečné plnění dle MF ČR). Otázka dotací pro velké agroholdingy je předmětem politické debaty o nastavení dotačních titulů v rámci SZP."
+    },
+    {
+      "text": "Česko se otepluje přibližně dvakrát rychleji než zbytek světa, to neříkají žádní aktivisté, ale závěry ministerstva.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/07:07",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3276_highlight_01.jpg",
+      "context": "Data ČHMÚ a zprávy MŽP potvrzují, že nárůst průměrné teploty na území ČR je od roku 1961 výrazně rychlejší než globální průměr. Tento trend je doložen v dokumentech jako 'Zpráva o životním prostředí ČR' a odpovídá klimatickým modelům pro vnitrozemské oblasti střední Evropy."
+    },
+    {
+      "text": "Média jsou pilířem demokracie a my proti jejich omezování budeme bojovat všemi zákonnými prostředky.",
+      "type": "citation",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:42",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3276_highlight_02.jpg",
+      "context": "Jde o politické prohlášení hodnotového charakteru. Role médií jako pilíře demokracie je zakotvena v ústavním pořádku ČR (Listina základních práv a svobod, čl. 17), konkrétní kroky k jejich ochraně jsou předmětem legislativního procesu."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Zdeněk Hřib (Piráti)** označil vládní dotační programy pro velké agroholdingy za „netransparentní a nehospodárné“ a přímo je spojil s koncernem Agrofert Andreje Babiše. `[1/04:01]`",
+      "speaker": "Zdeněk Hřib",
+      "affiliation": "Piráti",
+      "timestamp": "1/04:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3276_controversy_00.jpg",
+      "context": "Tvrzení o netransparentnosti je subjektivní politické hodnocení. Propojení s konkrétním subjektem (Agrofert) vychází z dlouhodobé politické kritiky střetu zájmů, nicméně rozdělování dotací se řídí pravidly nastavenými Státním zemědělským intervenčním fondem (SZIF) a evropskou legislativou."
+    },
+    {
+      "statement": "**Olga Richterová (Piráti)** vyjádřila obavu, že se český premiér inspiruje slovenskou vládou v otázce „zakliknutí“ (ovládnutí) veřejnoprávních médií. `[1/10:01]`",
+      "speaker": "Olga Richterová",
+      "affiliation": "Piráti",
+      "timestamp": "1/10:01",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3276_controversy_01.jpg",
+      "context": "Jde o politickou interpretaci premiérových postojů a obavu z vývoje na Slovensku (změny v RTVS). Nelze nezávisle ověřit úmysly premiéra, jde o vyjádření politického názoru na směřování mediální legislativy."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
