@@ -1,0 +1,92 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-10T19:16:48",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3280",
+    "name": "Tisková konference po jednání mandátového a imunitního výboru",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-10T11:49",
+    "end_date": "2026-11-10T12:07",
+    "sources": [
+      "final/event_3280_2026-11-10_tiskova-konference-po-jednani-mandatoveho-a-imunit.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5751_video-psp-20261110-1149-0-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tisková konference se konala po zasedání Mandátového a imunitního výboru (MIV) Poslanecké sněmovny. Hlavním bodem jednání bylo rozhodnutí o zahájení disciplinárního řízení s poslancem Miroslavem Ševčíkem na základě podnětu poslankyně Šebelové.\n\nKromě konkrétního disciplinárního případu se výbor zabýval rostoucí mírou agresivity a nevhodného chování v Poslanecké sněmovně. V reakci na četné stížnosti občanů výbor jednomyslně přijal usnesení, které připomíná etická pravidla chování poslanců a zdůrazňuje nutnost zachování důstojnosti veřejné funkce, a to napříč celým politickým spektrem.",
+    "main_points": [
+      "**Helena Válková (předsedkyně MIV)** — Potvrdila zahájení disciplinárního řízení s poslancem Miroslavem Ševčíkem. `[1/00:30]` Svolala další jednání výboru na 8. prosince v 10:00. Upozornila na možnost uložení sankce v podobě omluvy nebo pokuty až do výše měsíčního platu. `[1/12:30]`",
+      "**Místopředseda MIV (Zuna)** — Představil usnesení výboru, které připomíná povinnost poslanců respektovat ostatní a zdržet se urážek a šikany. `[1/02:07]` Zdůraznil, že výbor není kompetentní řešit stížnosti občanů na výroky poslanců, pokud nejde o disciplinární přestupek. `[1/04:10]`",
+      "**Tematické body** — Výbor eviduje řadu stížností na konkrétní výroky poslanců (např. Reichel, Turek, Urbanová, Skopeček, Fiala). `[1/14:05]` Existují etická pravidla (usnesení č. 43 z 4. 2. 2024), výbor usiluje o jejich důraznější prosazování."
+    ],
+    "outcome": "Výbor jednomyslně schválil zahájení disciplinárního řízení s poslancem Ševčíkem a přijal usnesení vyzývající poslance k dodržování etických pravidel. Výbor se shodl na nutnosti zlepšit politickou kulturu, přičemž Helena Válková deklarovala záměr navrhnout projednání těchto pravidel na plénu Sněmovny, aby získala vyšší právní závaznost.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Helena Válková",
+        "person_id": "psp:person:6168",
+        "affiliation": "Mandátový a imunitní výbor"
+      },
+      {
+        "name": "Místopředseda Zuna",
+        "person_id": "psp:person:432",
+        "affiliation": "Mandátový a imunitní výbor"
+      }
+    ],
+    "parties": [
+      "Poslanecká sněmovna"
+    ],
+    "institutions": [
+      "Mandátový a imunitní výbor"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "V případě, že by se konstatovalo, že to bylo opravdu disciplinárním přestupek, tak by to potom znamenalo, že může být uloženo, aby se omluvil nebo pokuta až do výše měsíčního platu.",
+      "type": "paraphrase",
+      "speaker": "Helena Válková",
+      "affiliation": "Mandátový a imunitní výbor",
+      "timestamp": "1/13:17",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3280_highlight_00.jpg",
+      "context": "Tvrzení odpovídá zákonu č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny (§ 11). Ten skutečně umožňuje za disciplinární přestupek uložit povinnost omluvy nebo pokutu až do výše jednoho měsíčního platu poslance."
+    },
+    {
+      "text": "Svoboda politického projevu a ostrý politický střed jsou přirozenou součástí parlamentní demokracie, nemají však vést k osobním urážkám, ponižování či jednání snižujícímu důstojnost Poslanecké sněmovny.",
+      "type": "citation",
+      "speaker": "Místopředseda Zuna",
+      "affiliation": "Mandátový a imunitní výbor",
+      "timestamp": "1/03:51",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3280_highlight_01.jpg",
+      "context": "Jde o hodnotové vyjádření vycházející z etického kodexu poslance a dlouhodobé parlamentní praxe. Interpretace hranice mezi „ostrým politickým středem“ a „osobní urážkou“ je však subjektivní a závisí na rozhodnutí mandátového a imunitního výboru v konkrétním případě."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kontroverzní téma: Zveřejnění detailů hlasování**\n- **Kdo:** Helena Válková (předsedkyně MIV)\n- **Co:** Odmítla sdělit poměr hlasů pro zahájení disciplinárního řízení a průběh hlasování.\n- **Proč:** Jde o neveřejné jednání výboru, což vyvolává otázky ohledně transparentnosti rozhodování v disciplinárních věcech.\n- **Čas:** `1/13:05`",
+      "speaker": "Helena Válková",
+      "affiliation": "Mandátový a imunitní výbor",
+      "timestamp": "1/13:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3280_controversy_00.jpg",
+      "context": "Jednání mandátového a imunitního výboru jsou dle § 36 zákona č. 90/1995 Sb. neveřejná, pokud výbor nerozhodne jinak. Odmítnutí zveřejnění detailů hlasování je tedy v souladu s platným jednacím řádem, ačkoliv otázka transparentnosti disciplinárních řízení zůstává předmětem politické debaty."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
