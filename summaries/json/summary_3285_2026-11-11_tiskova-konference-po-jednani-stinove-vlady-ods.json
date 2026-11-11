@@ -1,0 +1,113 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-11T20:09:27",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3285",
+    "name": "Tisková konference po jednání stínové vlády ODS",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-11T14:03",
+    "end_date": "2026-11-11T14:18",
+    "sources": [
+      "final/event_3285_2026-11-11_tiskova-konference-po-jednani-stinove-vlady-ods.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5756_video-psp-20261111-143-30-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference stínové vlády ODS se zaměřila na představení prioritních návrhů v oblasti zdravotnictví, kritiku vládní hospodářské politiky (zejména sektorové daně) a postoj k zákonu o celostátním referendu. Cílem bylo prezentovat ODS jako konstruktivní opozici, která nabízí konkrétní legislativní řešení pro modernizaci státu a ochranu občanů před negativními dopady vládních kroků.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval vládní záměry zavést sektorovou daň, kterou označil za „zlo“, jež ve výsledku zaplatí klienti a odběratelé služeb. Zdůraznil potřebu předvídatelného daňového systému pro podporu ekonomického růstu. Vyjádřil se také k zahraniční politice, kde kritizoval neúčast ČR na cvičení v Polsku a odmítnutí garancí za půjčku Ukrajině. `[1/02:03]`",
+      "**Štěpán Slovák (ODS)** — Představil první část reformy zdravotnictví (tzv. KPR – „Konečně pořádná reforma“). \n    *   **Volba pacienta:** Umožnění doplatku pouze za nadstandard (např. lehká sádra) namísto úhrady celého výkonu.\n    *   **Očkování v lékárnách:** Návrh pro věkovou skupinu 18–65 let (chřipka, covid).\n    *   **Poplatky za pohotovost:** Připravena úprava systému poplatků. `[1/04:03]`",
+      "**Renáta Zajíčková (ODS)** — Kritizovala vládní změny ve vyhlášce o školním stravování. Podle ní vláda ruší moderní standardy (např. spotřební koš) bez odborné debaty, což označila za destrukci systému a krok proti zájmům dětí. `[1/06:00]`",
+      "**Eva Decroix (ODS)** — Vyjádřila se k návrhu zákona o celostátním referendu. Považuje jej za odvádění pozornosti od reálných problémů a varovala před rizikem zneužití referend pro „prachsprostou politickou kampaň“, která by společnost dále rozdělovala. `[1/08:06]`"
+    ],
+    "outcome": "Jednání stínové vlády potvrdilo opoziční strategii ODS: odmítání sektorových daní, prosazování konkrétních legislativních změn v oblasti zdravotnictví (volba pacienta, očkování) a kritiku vládních zásahů do školního stravování a referend. Nebylo přijato žádné formální rozhodnutí, šlo o prezentaci politického programu a přípravu na páteční jednání předsednictva strany.",
+    "notes": "Přepis obsahuje drobné chyby v diakritice a občasné opakování slov, které však nemají vliv na srozumitelnost obsahu."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Štěpán Slovák",
+        "person_id": "psp:person:7043",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Renáta Zajíčková",
+        "person_id": "psp:person:6793",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Eva Decroix",
+        "person_id": "psp:person:6727",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS"
+    ],
+    "institutions": [
+      "stínová vláda ODS",
+      "Poslanecká sněmovna"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Sektorová daň je zlo, které ve výsledku zaplatí skuteční odběratelé služeb a lidé v České republice.",
+      "type": "paraphrase",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/01:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3285_highlight_00.jpg",
+      "context": "Ekonomický dopad sektorových daní na koncové spotřebitele je předmětem odborných debat. Teorie přenosu daňové zátěže (tax incidence) potvrzuje, že firmy mohou část nákladů promítnout do cen, avšak míra tohoto přenosu závisí na elasticitě poptávky a konkurenčním prostředí v daném sektoru."
+    },
+    {
+      "text": "Chceme pacientům umožnit, aby si mohli doplatit jenom doplatek nad tím, co hradí zdravotní pojišťovna.",
+      "type": "citation",
+      "speaker": "Štěpán Slovák",
+      "affiliation": "ODS",
+      "timestamp": "1/04:08",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3285_highlight_01.jpg",
+      "context": "Systém tzv. nadstandardů v českém zdravotnictví je dlouhodobě diskutovaným tématem. Současná legislativa (zákon č. 48/1997 Sb., o veřejném zdravotním pojištění) definuje rozsah hrazené péče a zavedení širších doplatků by vyžadovalo zásadní legislativní změnu, která naráží na ústavní principy rovného přístupu ke zdravotní péči."
+    },
+    {
+      "text": "Návrh o celostátním referendu není nic jiného než odvádění pozornosti vlády od skutečných problémů občanů.",
+      "type": "citation",
+      "speaker": "Eva Decroix",
+      "affiliation": "ODS",
+      "timestamp": "1/07:47",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3285_highlight_02.jpg",
+      "context": "Tvrzení o „odvádění pozornosti“ je subjektivním politickým hodnocením, které nelze fakticky ověřit. Debata o zákonu o celostátním referendu je v ČR dlouhodobá, přičemž různé politické subjekty ji využívají jak jako nástroj přímé demokracie, tak jako prostředek politické agendy."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "* **Kdo:** Martin Kupka (ODS)\n* **Co:** Označil sektorovou daň za „zlo“ a naznačil, že vláda ji cíleně nezavádí v oblastech, kde podniká Andrej Babiš.\n* **Proč:** Jde o přímý politický útok na vládní koalici a konkrétní politickou konkurenci, což zvyšuje napětí v ekonomické debatě.\n* **Čas:** `1/02:03`",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/02:03",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3285_controversy_00.jpg",
+      "context": "Označení daně za „zlo“ je hodnotový soud. Tvrzení o cíleném nezavádění daně v oblastech podnikání Andreje Babiše je politické obvinění; daňové zákony v ČR podléhají schvalovacímu procesu v Parlamentu a jejich konkrétní podoba je výsledkem koaličních dohod a legislativních priorit vlády."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
