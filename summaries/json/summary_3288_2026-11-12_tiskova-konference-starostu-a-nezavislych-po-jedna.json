@@ -1,0 +1,114 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-12T16:49:14",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3288",
+    "name": "Tisková konference Starostů a nezávislých po jednání Kabinetu budoucnosti",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-12T11:04",
+    "end_date": "2026-11-12T11:30",
+    "sources": [
+      "final/event_3288_2026-11-12_tiskova-konference-starostu-a-nezavislych-po-jedna.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5759_video-psp-20261112-114-51-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "whisper",
+    "model": "whisper-large-v3"
+  },
+  "summary": {
+    "topic": "Tato tisková konference hnutí Starostové a nezávislí (STAN) se konala po jednání jejich „Stínové vlády Kabinetu budoucnosti“. Hlavním cílem bylo kritizovat aktuální kroky vlády Andreje Babiše v oblastech obrany, sociální politiky (digitalizace dávek) a školního stravování.\n\nJednání se zaměřilo na ostrou kritiku vládní politiky, kterou řečníci označili za nekompetentní, hazardní a poplatnou populistickým zájmům. Cílem bylo upozornit na nedostatečnou modernizaci armády, selhávající digitalizaci sociálních dávek a kontroverzní rušení výživových norem ve školních jídelnách.",
+    "main_points": [
+      "**Vít Rakušan (STAN)** — Kritizoval koncepci výstavby armády, kterou označil za odkládání modernizace na příští volební období. Poukázal na neúčast českých vojáků na cvičení v Polsku. Zmínil symbolický příspěvek ČR na zabezpečení ukrajinského sarkofágu (20 000 EUR, což je 0,08 % cílové částky). `[1/01:10]`",
+      "**Pavla Pivoňka-Vaňková (STAN)** — Upozornila na kolaps systému „superdávky“, kvůli kterému lidé vypadávají ze systému. Kritizovala ministra práce Aleše Juchelku a IT tým Karla Trpkoše. Zmínila problémy s jednotným měsíčním hlášením zaměstnavatelů. `[1/06:30]`",
+      "**Michaela Šebelová (STAN)** — Zaměřila se na rušení výživových norem ve školních jídelnách. Uvedla, že 23 % úmrtí v ČR souvisí s nevhodnou stravou. Kritizovala premiéra Babiše za upřednostňování byznysových zájmů (agroholdingy) před zdravím dětí. `[1/12:19]`",
+      "**Jan Berky (STAN)** — Doplnil kritiku stravovací vyhlášky, označil ji za „bizár“. Uvedl, že stát se vzdává páky na vymáhání kvality stravování a ruší povinnost odborného schvalování dietní stravy. `[1/16:30]`"
+    ],
+    "outcome": "Jednání nemělo charakter formálního hlasování, šlo o tiskovou konferenci opoziční stínové vlády. Konsenzem řečníků je, že vláda selhává v základních úkolech správy státu, podléhá vlivu populistických koaličních partnerů (SPD) a zájmových skupin, a místo řešení problémů vytváří nové.",
+    "notes": "Přepis obsahuje četné gramatické chyby, chybějící diakritiku a občasné nesmyslné fráze, které byly pro účely shrnutí ignorovány."
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Vít Rakušan",
+        "person_id": "psp:person:6524",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Pavla Pivoňka-Vaňková",
+        "person_id": "psp:person:6762",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Michaela Šebelová",
+        "person_id": "psp:person:6763",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Berky",
+        "person_id": "psp:person:6722",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "SPD"
+    ],
+    "institutions": [
+      "Stínová vláda Kabinetu budoucnosti",
+      "Poslanecká sněmovna",
+      "Armáda ČR"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Náš příspěvek na zabezpečení ukrajinského sarkofágu tvoří 0,08 % cílové částky, což je symbol pozornosti naší vlády věnované bezpečnosti.",
+      "type": "paraphrase",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/03:30",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3288_highlight_00.jpg",
+      "context": "Česká republika se dlouhodobě podílí na financování projektů v Černobylu, včetně nového bezpečného krytu (NSC). Konkrétní procentuální podíl se mění v závislosti na celkové vybrané částce mezinárodních dárců, kterou spravuje Evropská banka pro obnovu a rozvoj (EBRD)."
+    },
+    {
+      "text": "Důsledky nezdravého stravování mají v ČR na svědomí 23 % úmrtí, což je více než kouření nebo dopravní nehody.",
+      "type": "paraphrase",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/13:48",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3288_highlight_01.jpg",
+      "context": "Data Státního zdravotního ústavu (SZÚ) a analýzy OECD potvrzují, že rizika spojená s nevhodnou stravou (vysoký příjem soli, cukrů, tuků) jsou významným faktorem úmrtnosti na kardiovaskulární choroby. Číslo 23 % odpovídá odhadům podílu úmrtí na dietní rizika v ČR, což dlouhodobě převyšuje úmrtnost na následky dopravních nehod."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "Vít Rakušan kritizoval neúčast vojáků na cvičení v Polsku s odkazem na argument vládní koalice (SPD), že „nepodporujeme válku“. Kontroverzní je to proto, že zpochybňuje loajalitu k NATO a bezpečnostní priority státu.",
+      "speaker": "Vít Rakušan",
+      "affiliation": "STAN",
+      "timestamp": "1/02:05",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3288_controversy_00.jpg",
+      "context": "Vít Rakušan zde interpretuje politické postoje hnutí SPD. Závazky ČR vůči NATO jsou definovány Severoatlantickou smlouvou a strategickými dokumenty státu; kritika neúčasti na cvičeních je legitimním politickým tématem, nikoliv právním porušením smluvních závazků."
+    },
+    {
+      "statement": "Michaela Šebelová a Jan Berky obvinili premiéra Babiše z přímého lobbingu za zájmy jeho vlastních firem (agroholdingů) na úkor zdraví dětí ve školních jídelnách.",
+      "speaker": "Michaela Šebelová",
+      "affiliation": "STAN",
+      "timestamp": "1/06:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3288_controversy_01.jpg",
+      "context": "Tvrzení o přímém lobbingu je politickou interpretací střetu zájmů. Otázka vlivu holdingu Agrofert na zemědělskou politiku a dotace byla předmětem mnoha auditů Evropské komise, nicméně přímé propojení konkrétních legislativních změn v jídelnách s lobbingem premiéra je tvrzením, které nelze nezávisle ověřit jako přímý kauzální vztah."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "partial",
+    "unintelligible_parts": true
+  },
+  "extras": null
+}
