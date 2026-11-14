@@ -1,0 +1,98 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-14T14:18:23",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3292",
+    "name": "Tisková konference poslaneckého klubu ODS k tématu schůze Poslanecké sněmovny",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-13T08:00",
+    "end_date": "2026-11-13T08:15",
+    "sources": [
+      "final/event_3292_2026-11-13_tiskova-konference-poslaneckeho-klubu-ods-k-tematu.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5763_video-psp-20261113-80-10-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu ODS se konala před mimořádným jednáním Poslanecké sněmovny, jehož hlavním bodem bylo projednání tzv. „Lex Orlen“ – mimořádné daně mířící na rafinérský sektor. Cílem konference bylo prezentovat odmítavý postoj ODS k tomuto vládnímu návrhu, který strana považuje za nespravedlivý, nepředvídatelný a poškozující českou ekonomiku.\n\nPředstavitelé ODS kritizovali vládu za její nekoncepční přístup k daňové politice, nejasnou komunikaci ohledně možného rozšiřování sektorových daní na další odvětví a za porušování slibů o nezvyšování daní. Zároveň zdůraznili, že ODS připravuje vlastní daňovou reformu, která má ekonomiku posilovat, nikoliv zatěžovat.",
+    "main_points": [
+      "**Martin Kupka (ODS)** — Kritizoval daň jako „Lex Orlen“, která nespravedlivě dopadá na jedinou firmu v ČR. Argumentoval, že daň povede k růstu cen pro spotřebitele, ohrozí konkurenceschopnost rafinérií a může vést ke ztrátě pracovních míst v Ústeckém a Středočeském kraji. `[1/01:00]`",
+      "**Jan Skopeček (ODS)** — Označil sektorové daně za „zlo“, které se vždy přenese na konečné spotřebitele. Kritizoval retroaktivitu návrhu jako nebezpečný precedens pro právní jistotu investorů. Upozornil na chaotickou komunikaci vládních představitelů ohledně možného rozšíření sektorových daní. `[1/03:00]`",
+      "**Pozměňovací návrhy:** ODS odmítá daň jako celek, ale připravuje dílčí pozměňovací návrhy, například úpravu srovnávací základny pro výpočet marže.",
+      "**Vnitrostranické záležitosti:** Předsednictvo ODS se má zabývat analýzou výsledků voleb a přípravou strategie; mimořádný kongres není aktuální téma.",
+      "**Srovnání s minulostí:** Martin Kupka uvedl, že windfall tax byla vynucenou reakcí na energetickou krizi, zatímco současná situace je odlišná."
+    ],
+    "outcome": "Jednání nebylo formálním hlasováním, ale tiskovým prohlášením. Konsenzem v rámci ODS zůstává kategorické „ne“ sektorovým daním. Strana se hodlá v Poslanecké sněmovně postavit proti vládnímu návrhu a prosazovat vlastní daňovou reformu zaměřenou na stabilitu a předvídatelnost.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Martin Kupka",
+        "person_id": "psp:person:6538",
+        "affiliation": "ODS"
+      },
+      {
+        "name": "Jan Skopeček",
+        "person_id": "psp:person:6418",
+        "affiliation": "ODS"
+      }
+    ],
+    "parties": [
+      "ODS",
+      "TOP 09",
+      "Starostové a nezávislí"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Orlen",
+      "Svaz průmyslu a dopravy"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Nikdo nemůže čekat, že by tím česká vláda pomohla lidem, protože ve výsledku každé zvýšení daní lidé nakonec zaplatí na zvýšených cenách.",
+      "type": "citation",
+      "speaker": "Martin Kupka",
+      "affiliation": "ODS",
+      "timestamp": "1/00:40",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3292_highlight_00.jpg",
+      "context": "Jde o ekonomickou tezi o daňové incidenci, která není univerzálně platným zákonem, ale předmětem odborné debaty. Zda zvýšení daní promítne firma do cen, závisí na cenové elasticitě poptávky a konkurenčním prostředí na konkrétním trhu."
+    },
+    {
+      "text": "Zavádět do daňového systému, do právního řádu retroaktivitu v oblasti daní, je něco, čím otevíráme Pandořinu skříňku daňové nepředvídatelnosti.",
+      "type": "citation",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/03:54",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3292_highlight_01.jpg",
+      "context": "Princip zákazu pravé retroaktivity je v českém právním řádu zakotven judikaturou Ústavního soudu a obecně je považován za pilíř právní jistoty. Otázka, zda konkrétní legislativní návrh naplňuje znaky nepřípustné retroaktivity, je častým předmětem ústavních stížností a právních sporů."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Jan Skopeček (ODS)** označil vládní představitele (premiéra Babiše, vicepremiéra Havlíčka a ministryni financí) za „lunetiky“ kvůli jejich protichůdným výrokům o zavádění sektorových daní.",
+      "speaker": "Jan Skopeček",
+      "affiliation": "ODS",
+      "timestamp": "1/05:00",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3292_controversy_00.jpg",
+      "context": "Výrok je subjektivním politickým hodnocením (hodnotový soud), nikoliv faktickým tvrzením. Nelze nezávisle ověřit, zda jsou výroky vládních představitelů vnímány jako „lunetické“, jde o rétorický prostředek v rámci politického boje."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}

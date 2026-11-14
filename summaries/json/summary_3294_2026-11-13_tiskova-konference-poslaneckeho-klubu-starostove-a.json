@@ -1,0 +1,117 @@
+{
+  "schema_version": "2",
+  "created_at": "2026-11-14T14:17:40",
+  "model_hint": "gemini-3.1-flash-lite",
+  "event": {
+    "id": "3294",
+    "name": "Tisková konference poslaneckého klubu Starostové a nezávislí",
+    "classification": "Tiskové konference",
+    "start_date": "2026-11-13T08:40",
+    "end_date": "2026-11-13T09:00",
+    "sources": [
+      "final/event_3294_2026-11-13_tiskova-konference-poslaneckeho-klubu-starostove-a.md"
+    ],
+    "video_parts": [
+      {
+        "part": 1,
+        "url": "https://videoarchiv.psp.cz/vuploads/5766_video-psp-20261113-840-2-Atrium.mp4.mp4"
+      }
+    ]
+  },
+  "transcription": {
+    "parts_transcribed": 1,
+    "parts_total": 1,
+    "source": "captions",
+    "model": null
+  },
+  "summary": {
+    "topic": "Tisková konference poslaneckého klubu hnutí STAN se konala před mimořádnou schůzí Poslanecké sněmovny. Hlavním tématem byla kritika vládního přístupu k zavádění sektorových daní, konkrétně tzv. rafinérské daně, a představení vlastních legislativních návrhů hnutí STAN v oblasti daňové politiky.\n\nZástupci STAN vyjádřili nesouhlas s chaotickým a nepředvídatelným způsobem, jakým vláda komunikuje a připravuje nové daňové změny. Hnutí zdůraznilo, že ačkoliv princip zdanění mimořádných zisků v mimořádných situacích neodmítají, požadují systémové, předvídatelné a spravedlivé řešení, které nebude diskriminovat domácí firmy oproti zahraničním dovozcům.",
+    "main_points": [
+      "**Věra Kovářová (STAN)** — Kritizovala vládní komunikaci ohledně sektorových daní, kterou označila za chaotickou. Upozornila, že nejistota pro firmy je „zápornou daní“. `[1/01:00]`",
+      "**Jan Papajanovský (STAN)** — Představil tři pozměňovací návrhy k rafinérské dani: narovnání podmínek pro dovozce, tříleté referenční období a možnost investiční alternativy k dani. `[1/04:03]`",
+      "**Lucie Sedmihradská (STAN)** — Upozornila na nízký výnos rafinérské daně vzhledem k rozpočtovému schodku a představila balíček „chytré daňové reformy“, zahrnující např. zdanění investičních bytů či změny ve slevách na poplatníka. `[1/10:01]`"
+    ],
+    "outcome": "Hnutí STAN podpořilo rafinérskou daň v prvním čtení, ale jejich podpora ve třetím čtení je podmíněna přijetím jejich pozměňovacích návrhů. Zástupci hnutí zdůraznili, že jejich návrhy nejsou obstrukcí, ale snahou o narovnání tržního prostředí. Vláda podle nich odmítá odbornou diskuzi a negativně se staví ke všem opozičním návrhům.",
+    "notes": null
+  },
+  "entities": {
+    "speakers": [
+      {
+        "name": "Věra Kovářová",
+        "person_id": "psp:person:6214",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Jan Papajanovský",
+        "person_id": "psp:person:7030",
+        "affiliation": "STAN"
+      },
+      {
+        "name": "Lucie Sedmihradská",
+        "person_id": "psp:person:7042",
+        "affiliation": "STAN"
+      }
+    ],
+    "parties": [
+      "STAN",
+      "ANO"
+    ],
+    "institutions": [
+      "Poslanecká sněmovna",
+      "Ministerstvo financí"
+    ]
+  },
+  "highlights": [
+    {
+      "text": "Vláda za jediný týden stihla sektorovou daň ohlásit, nevyloučit, odložit, popřít a znovu oživit.",
+      "type": "paraphrase",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/00:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3294_highlight_00.jpg",
+      "context": "Jde o politickou interpretaci komunikační strategie vlády. V průběhu roku 2022 probíhala vládní debata o zavedení tzv. windfall tax (mimořádné daně), přičemž vládní představitelé skutečně v krátkém časovém sledu prezentovali různé varianty a postoje k jejímu rozsahu a načasování."
+    },
+    {
+      "text": "Pokud banky, energetici, operátoři i zbrojovky dnes nevědí, jestli za tři týdny je čeká nová daň za desítky miliard, tak to je skutečně nejistota pro firmy.",
+      "type": "citation",
+      "speaker": "Věra Kovářová",
+      "affiliation": "STAN",
+      "timestamp": "1/01:28",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3294_highlight_01.jpg",
+      "context": "Nejistota firem v důsledku nejasné daňové legislativy je opakovaně kritizována podnikatelskými svazy (např. Hospodářská komora ČR). Zda jsou dopady konkrétních návrhů v řádech desítek miliard, závisí na finální podobě zákona, přičemž windfall tax byla nakonec zavedena zákonem č. 366/2022 Sb."
+    },
+    {
+      "text": "Rafinérská daň není daňová politika, je to jenom symptom; vláda nemá peníze a hledá, kde se dá.",
+      "type": "citation",
+      "speaker": "Lucie Sedmihradská",
+      "affiliation": "STAN",
+      "timestamp": "1/11:19",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3294_highlight_02.jpg",
+      "context": "Tvrzení o motivaci vlády je politickým názorem. Fakticky je zavedení mimořádné daně (windfall tax) nástrojem fiskální politiky státu, který má za cíl pokrýt zvýšené výdaje státního rozpočtu spojené s energetickou krizí a kompenzacemi cen energií."
+    },
+    {
+      "text": "Neexistuje důvod, aby vláda dělala rozdíl mezi domácími a zahraničními rafinériemi.",
+      "type": "citation",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/10:46",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3294_highlight_03.jpg",
+      "context": "Zásada rovného zacházení v daňovém právu je zakotvena v ústavním pořádku ČR. Pokud by zákon rozlišoval mezi subjekty na základě jejich původu (domácí vs. zahraniční), mohlo by to být v rozporu s principem nediskriminace a právem EU, pokud by pro to neexistoval objektivní a legitimní důvod."
+    }
+  ],
+  "controversial": [
+    {
+      "statement": "**Kdo:** Jan Papajanovský (STAN)\n**Co:** Označil vládní návrh rafinérské daně za „Lex Unipetrol“.\n**Proč:** Je to kontroverzní, protože to naznačuje, že vládní legislativa je šitá na míru konkrétní firmě nebo ji naopak cíleně poškozuje, což vyvolává otázky o transparentnosti a rovnosti podnikatelského prostředí.\n**Čas:** 1/06:04",
+      "speaker": "Jan Papajanovský",
+      "affiliation": "STAN",
+      "timestamp": "1/06:04",
+      "screenshot_path": "https://f003.backblazeb2.com/file/cz-psp-videoarchive/screenshots/event_3294_controversy_00.jpg",
+      "context": "Označení „Lex Unipetrol“ je politická nálepka, která reflektuje fakt, že společnost ORLEN Unipetrol je dominantním hráčem na českém trhu s rafinérskými produkty. Zda je legislativa cíleně zaměřena na konkrétní subjekt, je předmětem politické debaty; zákonné normy musí být obecné, nikoliv adresné."
+    }
+  ],
+  "quality": {
+    "transcript_quality": "good",
+    "unintelligible_parts": false
+  },
+  "extras": null
+}
